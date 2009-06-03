@@ -91,7 +91,7 @@ if __name__ == "__main__":
     
     if len(sys.argv) != 2:
         print "Usage: retrive_code <dest_path>"
-        exit(1)
+	sys.exit(1)
 
     extract_titles(sys.argv[1])
         
