@@ -1,5 +1,5 @@
 -CITE-
-    32 USC TITLE 32 - NATIONAL GUARD                            01/03/2007
+    32 USC TITLE 32 - NATIONAL GUARD                            01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -259,7 +259,7 @@
 
 
 -CITE-
-    32 USC CHAPTER 1 - ORGANIZATION                             01/03/2007
+    32 USC CHAPTER 1 - ORGANIZATION                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -306,7 +306,7 @@
 
 
 -CITE-
-    32 USC Sec. 101                                             01/03/2007
+    32 USC Sec. 101                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -577,7 +577,7 @@
 
 
 -CITE-
-    32 USC Sec. 102                                             01/03/2007
+    32 USC Sec. 102                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -632,7 +632,7 @@
 
 
 -CITE-
-    32 USC Sec. 103                                             01/03/2007
+    32 USC Sec. 103                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -686,7 +686,7 @@
 
 
 -CITE-
-    32 USC Sec. 104                                             01/03/2007
+    32 USC Sec. 104                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -903,7 +903,7 @@
 
 
 -CITE-
-    32 USC Sec. 105                                             01/03/2007
+    32 USC Sec. 105                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -994,7 +994,7 @@
 
 
 -CITE-
-    32 USC Sec. 106                                             01/03/2007
+    32 USC Sec. 106                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1038,7 +1038,7 @@
 
 
 -CITE-
-    32 USC Sec. 107                                             01/03/2007
+    32 USC Sec. 107                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1227,7 +1227,7 @@
 
 
 -CITE-
-    32 USC Sec. 108                                             01/03/2007
+    32 USC Sec. 108                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1289,7 +1289,7 @@
 
 
 -CITE-
-    32 USC Sec. 109                                             01/03/2007
+    32 USC Sec. 109                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1428,7 +1428,7 @@
 
 
 -CITE-
-    32 USC Sec. 110                                             01/03/2007
+    32 USC Sec. 110                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1467,7 +1467,7 @@
 
 
 -CITE-
-    32 USC Sec. 111                                             01/03/2007
+    32 USC Sec. 111                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1537,7 +1537,7 @@
 
 
 -CITE-
-    32 USC Sec. 112                                             01/03/2007
+    32 USC Sec. 112                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1993,7 +1993,7 @@
 
 
 -CITE-
-    32 USC Sec. 113                                             01/03/2007
+    32 USC Sec. 113                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2074,7 +2074,7 @@
 
 
 -CITE-
-    32 USC Sec. 114                                             01/03/2007
+    32 USC Sec. 114                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2120,7 +2120,7 @@
 
 
 -CITE-
-    32 USC Sec. 115                                             01/03/2007
+    32 USC Sec. 115                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2198,7 +2198,7 @@
 
 
 -CITE-
-    32 USC CHAPTER 3 - PERSONNEL                                01/03/2007
+    32 USC CHAPTER 3 - PERSONNEL                                01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2287,7 +2287,7 @@
 
 
 -CITE-
-    32 USC Sec. 301                                             01/03/2007
+    32 USC Sec. 301                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2328,7 +2328,7 @@
 
 
 -CITE-
-    32 USC Sec. 302                                             01/03/2007
+    32 USC Sec. 302                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2412,7 +2412,7 @@
 
 
 -CITE-
-    32 USC Sec. 303                                             01/03/2007
+    32 USC Sec. 303                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2526,7 +2526,7 @@
 
 
 -CITE-
-    32 USC Sec. 304                                             01/03/2007
+    32 USC Sec. 304                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2610,7 +2610,7 @@
 
 
 -CITE-
-    32 USC Sec. 305                                             01/03/2007
+    32 USC Sec. 305                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2743,7 +2743,7 @@
 
 
 -CITE-
-    32 USC Sec. 307                                             01/03/2007
+    32 USC Sec. 307                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2949,7 +2949,7 @@
 
 
 -CITE-
-    32 USC Sec. 308                                             01/03/2007
+    32 USC Sec. 308                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3019,7 +3019,7 @@
 
 
 -CITE-
-    32 USC Sec. 309                                             01/03/2007
+    32 USC Sec. 309                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3089,7 +3089,7 @@
 
 
 -CITE-
-    32 USC Sec. 310                                             01/03/2007
+    32 USC Sec. 310                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3190,7 +3190,7 @@
 
 
 -CITE-
-    32 USC Sec. 312                                             01/03/2007
+    32 USC Sec. 312                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3243,7 +3243,7 @@
 
 
 -CITE-
-    32 USC Sec. 313                                             01/03/2007
+    32 USC Sec. 313                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3341,7 +3341,7 @@
 
 
 -CITE-
-    32 USC Sec. 314                                             01/03/2007
+    32 USC Sec. 314                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3456,7 +3456,7 @@
 
 
 -CITE-
-    32 USC Sec. 315                                             01/03/2007
+    32 USC Sec. 315                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3532,7 +3532,7 @@
 
 
 -CITE-
-    32 USC Sec. 316                                             01/03/2007
+    32 USC Sec. 316                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3572,7 +3572,7 @@
 
 
 -CITE-
-    32 USC Sec. 317                                             01/03/2007
+    32 USC Sec. 317                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3627,7 +3627,7 @@
 
 
 -CITE-
-    32 USC Secs. 318 to 321                                     01/03/2007
+    32 USC Secs. 318 to 321                                     01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3665,7 +3665,7 @@
 
 
 -CITE-
-    32 USC Sec. 322                                             01/03/2007
+    32 USC Sec. 322                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3746,7 +3746,7 @@
 
 
 -CITE-
-    32 USC Sec. 323                                             01/03/2007
+    32 USC Sec. 323                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3946,7 +3946,7 @@
 
 
 -CITE-
-    32 USC Sec. 324                                             01/03/2007
+    32 USC Sec. 324                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4033,7 +4033,7 @@
 
 
 -CITE-
-    32 USC Sec. 325                                             01/03/2007
+    32 USC Sec. 325                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4148,7 +4148,7 @@
 
 
 -CITE-
-    32 USC Sec. 326                                             01/03/2007
+    32 USC Sec. 326                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4209,7 +4209,7 @@
 
 
 -CITE-
-    32 USC Sec. 327                                             01/03/2007
+    32 USC Sec. 327                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4345,7 +4345,7 @@
 
 
 -CITE-
-    32 USC Sec. 328                                             01/03/2007
+    32 USC Sec. 328                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4388,7 +4388,7 @@
 
 
 -CITE-
-    32 USC Secs. 329 to 333                                     01/03/2007
+    32 USC Secs. 329 to 333                                     01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4430,7 +4430,7 @@
 
 
 -CITE-
-    32 USC Sec. 334                                             01/03/2007
+    32 USC Sec. 334                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4467,7 +4467,7 @@
 
 
 -CITE-
-    32 USC Sec. 335                                             01/03/2007
+    32 USC Sec. 335                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4486,7 +4486,7 @@
 
 
 -CITE-
-    32 USC CHAPTER 5 - TRAINING                                 01/03/2007
+    32 USC CHAPTER 5 - TRAINING                                 01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4524,7 +4524,7 @@
 
 
 -CITE-
-    32 USC Sec. 501                                             01/03/2007
+    32 USC Sec. 501                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4882,7 +4882,7 @@
 
 
 -CITE-
-    32 USC Sec. 502                                             01/03/2007
+    32 USC Sec. 502                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5071,7 +5071,7 @@
 
 
 -CITE-
-    32 USC Sec. 503                                             01/03/2007
+    32 USC Sec. 503                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5169,7 +5169,7 @@
 
 
 -CITE-
-    32 USC Sec. 504                                             01/03/2007
+    32 USC Sec. 504                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5242,7 +5242,7 @@
 
 
 -CITE-
-    32 USC Sec. 505                                             01/03/2007
+    32 USC Sec. 505                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5329,7 +5329,7 @@
 
 
 -CITE-
-    32 USC Sec. 506                                             01/03/2007
+    32 USC Sec. 506                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5403,7 +5403,7 @@
 
 
 -CITE-
-    32 USC Sec. 507                                             01/03/2007
+    32 USC Sec. 507                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5453,7 +5453,7 @@
 
 
 -CITE-
-    32 USC Sec. 508                                             01/03/2007
+    32 USC Sec. 508                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5523,7 +5523,7 @@
 
 
 -CITE-
-    32 USC Sec. 509                                             01/03/2007
+    32 USC Sec. 509                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5846,7 +5846,7 @@
 
 
 -CITE-
-    32 USC CHAPTER 7 - SERVICE, SUPPLY, AND PROCUREMENT         01/03/2007
+    32 USC CHAPTER 7 - SERVICE, SUPPLY, AND PROCUREMENT         01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5909,7 +5909,7 @@
 
 
 -CITE-
-    32 USC Sec. 701                                             01/03/2007
+    32 USC Sec. 701                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5958,7 +5958,7 @@
 
 
 -CITE-
-    32 USC Sec. 702                                             01/03/2007
+    32 USC Sec. 702                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6059,7 +6059,7 @@
 
 
 -CITE-
-    32 USC Sec. 703                                             01/03/2007
+    32 USC Sec. 703                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6158,7 +6158,7 @@
 
 
 -CITE-
-    32 USC Sec. 704                                             01/03/2007
+    32 USC Sec. 704                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6216,7 +6216,7 @@
 
 
 -CITE-
-    32 USC Sec. 705                                             01/03/2007
+    32 USC Sec. 705                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6285,7 +6285,7 @@
 
 
 -CITE-
-    32 USC Sec. 706                                             01/03/2007
+    32 USC Sec. 706                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6327,7 +6327,7 @@
 
 
 -CITE-
-    32 USC Sec. 707                                             01/03/2007
+    32 USC Sec. 707                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6367,7 +6367,7 @@
 
 
 -CITE-
-    32 USC Sec. 708                                             01/03/2007
+    32 USC Sec. 708                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6530,7 +6530,7 @@
 
 
 -CITE-
-    32 USC Sec. 709                                             01/03/2007
+    32 USC Sec. 709                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7274,7 +7274,7 @@
 
 
 -CITE-
-    32 USC Sec. 710                                             01/03/2007
+    32 USC Sec. 710                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7530,7 +7530,7 @@
 
 
 -CITE-
-    32 USC Sec. 711                                             01/03/2007
+    32 USC Sec. 711                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7586,7 +7586,7 @@
 
 
 -CITE-
-    32 USC Sec. 712                                             01/03/2007
+    32 USC Sec. 712                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7649,7 +7649,7 @@
 
 
 -CITE-
-    32 USC Sec. 713                                             01/03/2007
+    32 USC Sec. 713                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7692,7 +7692,7 @@
 
 
 -CITE-
-    32 USC Sec. 714                                             01/03/2007
+    32 USC Sec. 714                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7804,7 +7804,7 @@
 
 
 -CITE-
-    32 USC Sec. 715                                             01/03/2007
+    32 USC Sec. 715                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7966,7 +7966,7 @@
 
 
 -CITE-
-    32 USC Sec. 716                                             01/03/2007
+    32 USC Sec. 716                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8095,7 +8095,7 @@
 
 
 -CITE-
-    32 USC Sec. 717                                             01/03/2007
+    32 USC Sec. 717                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8114,7 +8114,7 @@
 
 
 -CITE-
-    32 USC CHAPTER 9 - HOMELAND DEFENSE ACTIVITIES              01/03/2007
+    32 USC CHAPTER 9 - HOMELAND DEFENSE ACTIVITIES              01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8139,7 +8139,7 @@
 
 
 -CITE-
-    32 USC Sec. 901                                             01/03/2007
+    32 USC Sec. 901                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8169,7 +8169,7 @@
 
 
 -CITE-
-    32 USC Sec. 902                                             01/03/2007
+    32 USC Sec. 902                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8205,7 +8205,7 @@
 
 
 -CITE-
-    32 USC Sec. 903                                             01/03/2007
+    32 USC Sec. 903                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8227,7 +8227,7 @@
 
 
 -CITE-
-    32 USC Sec. 904                                             01/03/2007
+    32 USC Sec. 904                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8280,7 +8280,7 @@
 
 
 -CITE-
-    32 USC Sec. 905                                             01/03/2007
+    32 USC Sec. 905                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8315,7 +8315,7 @@
 
 
 -CITE-
-    32 USC Sec. 906                                             01/03/2007
+    32 USC Sec. 906                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8347,7 +8347,7 @@
 
 
 -CITE-
-    32 USC Sec. 907                                             01/03/2007
+    32 USC Sec. 907                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8372,7 +8372,7 @@
 
 
 -CITE-
-    32 USC Sec. 908                                             01/03/2007
+    32 USC Sec. 908                                             01/08/2008
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD

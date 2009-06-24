@@ -1,9 +1,8 @@
 -CITE-
-    39 USC TITLE 39 - POSTAL SERVICE                            01/03/2007
+    39 USC TITLE 39 - POSTAL SERVICE                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
-    
     
 -HEAD-    
                          TITLE 39 - POSTAL SERVICE                     
@@ -1261,7 +1260,7 @@
 
 
 -CITE-
-    39 USC PART I - GENERAL                                     01/03/2007
+    39 USC PART I - GENERAL                                     01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1286,7 +1285,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 1 - POSTAL POLICY AND DEFINITIONS            01/03/2007
+    39 USC CHAPTER 1 - POSTAL POLICY AND DEFINITIONS            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1306,7 +1305,7 @@
 
 
 -CITE-
-    39 USC Sec. 101                                             01/03/2007
+    39 USC Sec. 101                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1477,7 +1476,7 @@
 
 
 -CITE-
-    39 USC Sec. 102                                             01/03/2007
+    39 USC Sec. 102                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1538,7 +1537,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 2 - ORGANIZATION                             01/03/2007
+    39 USC CHAPTER 2 - ORGANIZATION                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1572,7 +1571,7 @@
 
 
 -CITE-
-    39 USC Sec. 201                                             01/03/2007
+    39 USC Sec. 201                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1668,7 +1667,7 @@
 
 
 -CITE-
-    39 USC Sec. 202                                             01/03/2007
+    39 USC Sec. 202                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1868,7 +1867,7 @@
 
 
 -CITE-
-    39 USC Sec. 203                                             01/03/2007
+    39 USC Sec. 203                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1899,7 +1898,7 @@
 
 
 -CITE-
-    39 USC Sec. 204                                             01/03/2007
+    39 USC Sec. 204                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1964,7 +1963,7 @@
 
 
 -CITE-
-    39 USC Sec. 205                                             01/03/2007
+    39 USC Sec. 205                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2016,7 +2015,7 @@
 
 
 -CITE-
-    39 USC Sec. 206                                             01/03/2007
+    39 USC Sec. 206                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2078,7 +2077,7 @@
 
 
 -CITE-
-    39 USC Sec. 207                                             01/03/2007
+    39 USC Sec. 207                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2109,7 +2108,7 @@
 
 
 -CITE-
-    39 USC Sec. 208                                             01/03/2007
+    39 USC Sec. 208                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2139,7 +2138,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 4 - GENERAL AUTHORITY                        01/03/2007
+    39 USC CHAPTER 4 - GENERAL AUTHORITY                        01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2187,7 +2186,7 @@
 
 
 -CITE-
-    39 USC Sec. 401                                             01/03/2007
+    39 USC Sec. 401                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2271,7 +2270,7 @@
 
 
 -CITE-
-    39 USC Sec. 402                                             01/03/2007
+    39 USC Sec. 402                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2310,7 +2309,7 @@
 
 
 -CITE-
-    39 USC Sec. 403                                             01/03/2007
+    39 USC Sec. 403                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2371,8 +2370,12 @@
                   CONTINUATION OF MAIL DELIVERY SERVICES              
       Provisions requiring continuation of six-day delivery and rural
     delivery of mail at not less than the 1983 level were contained in
-    the following appropriations acts:
-      Pub. L. 109-115, div. A, title VI, Nov. 30, 2005, 119 Stat. 2490.
+    the Transportation, Treasury, Housing and Urban Development, the
+    Judiciary, and Independent Agencies Appropriations Act, 2006, Pub.
+    L. 109-115, div. A, title VI, Nov. 30, 2005, 119 Stat. 2490, and
+    were repeated in provisions of subsequent appropriations acts which
+    are not set out in the Code. Similar provisions were also contained
+    in the following prior appropriations acts:
       Pub. L. 108-447, div. H, title IV, Dec. 8, 2004, 118 Stat. 3264.
       Pub. L. 108-199, div. F, title IV, Jan. 23, 2004, 118 Stat. 340.
       Pub. L. 108-7, div. J, title II, Feb. 20, 2003, 117 Stat. 442.
@@ -2424,7 +2427,7 @@
 
 
 -CITE-
-    39 USC Sec. 404                                             01/03/2007
+    39 USC Sec. 404                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2679,7 +2682,7 @@
 
 
 -CITE-
-    39 USC Sec. 404a                                            01/03/2007
+    39 USC Sec. 404a                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2726,7 +2729,7 @@
 
 
 -CITE-
-    39 USC Sec. 405                                             01/03/2007
+    39 USC Sec. 405                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2763,7 +2766,7 @@
 
 
 -CITE-
-    39 USC Sec. 406                                             01/03/2007
+    39 USC Sec. 406                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2797,7 +2800,7 @@
 
 
 -CITE-
-    39 USC Sec. 407                                             01/03/2007
+    39 USC Sec. 407                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -3010,7 +3013,7 @@
 
 
 -CITE-
-    39 USC Sec. 408                                             01/03/2007
+    39 USC Sec. 408                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -3042,7 +3045,7 @@
 
 
 -CITE-
-    39 USC Sec. 409                                             01/03/2007
+    39 USC Sec. 409                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -3282,7 +3285,7 @@
 
 
 -CITE-
-    39 USC Sec. 410                                             01/03/2007
+    39 USC Sec. 410                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -3628,7 +3631,7 @@
 
 
 -CITE-
-    39 USC Sec. 411                                             01/03/2007
+    39 USC Sec. 411                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -3664,7 +3667,7 @@
 
 
 -CITE-
-    39 USC Sec. 412                                             01/03/2007
+    39 USC Sec. 412                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -3712,7 +3715,7 @@
 
 
 -CITE-
-    39 USC Sec. 413                                             01/03/2007
+    39 USC Sec. 413                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -3765,7 +3768,7 @@
 
 
 -CITE-
-    39 USC Sec. 414                                             01/03/2007
+    39 USC Sec. 414                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -3848,7 +3851,7 @@
     limitation relating to whether more than 1 semipostal may be
     offered for sale at the same time.
       (h) This section shall cease to be effective after December 31,
-    2007.
+    2011.
 
 -SOURCE-
     (Added Pub. L. 105-41, Sec. 2(a), Aug. 13, 1997, 111 Stat. 1119;
@@ -3856,7 +3859,8 @@
     Pub. L. 107-67, title VI, Sec. 650(b)(1), (c), Nov. 12, 2001, 115
     Stat. 556, 557; Pub. L. 108-199, div. F, title V, Sec. 541, Jan.
     23, 2004, 118 Stat. 346; Pub. L. 109-100, Sec. 1, Nov. 11, 2005,
-    119 Stat. 2170.)
+    119 Stat. 2170; Pub. L. 110-150, Sec. 1, Dec. 21, 2007, 121 Stat.
+    1820.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -3867,6 +3871,8 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2007 - Subsec. (h). Pub. L. 110-150 substituted "2011" for
+    "2007".
       2005 - Subsec. (h). Pub. L. 109-100 substituted "2007" for
     "2005".
       2004 - Subsec. (h). Pub. L. 108-199 substituted "2005" for
@@ -3893,6 +3899,16 @@
     [amending this section] shall take effect on the earlier of - 
         "(A) the date of enactment of this Act [Nov. 12, 2001]; or
         "(B) July 29, 2002."
+
+                          REPORTING REQUIREMENTS                      
+      Pub. L. 110-150, Sec. 2, Dec. 21, 2007, 121 Stat. 1820, provided
+    that: "The National Institutes of Health and the Department of
+    Defense shall each submit to Congress and the Government
+    Accountability Office an annual report concerning the use of any
+    amounts that it received under section 414(c) of title 39, United
+    States Code, including a description of any significant advances or
+    accomplishments, during the year covered by the report, that were
+    funded, in whole or in part, with such amounts."
 
               REPORT BY COMPTROLLER GENERAL OF UNITED STATES          
       Pub. L. 106-253, Sec. 3(b), July 28, 2000, 114 Stat. 637,
@@ -3922,7 +3938,7 @@
 
 
 -CITE-
-    39 USC Sec. 415                                             01/03/2007
+    39 USC Sec. 415                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -3955,7 +3971,7 @@
 
 
 -CITE-
-    39 USC Sec. 416                                             01/03/2007
+    39 USC Sec. 416                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4240,7 +4256,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 5 - POSTAL REGULATORY COMMISSION             01/03/2007
+    39 USC CHAPTER 5 - POSTAL REGULATORY COMMISSION             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4264,7 +4280,7 @@
 
 
 -CITE-
-    39 USC Sec. 501                                             01/03/2007
+    39 USC Sec. 501                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4408,7 +4424,7 @@
 
 
 -CITE-
-    39 USC Sec. 502                                             01/03/2007
+    39 USC Sec. 502                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4475,7 +4491,7 @@
 
 
 -CITE-
-    39 USC Sec. 503                                             01/03/2007
+    39 USC Sec. 503                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4515,7 +4531,7 @@
 
 
 -CITE-
-    39 USC Sec. 504                                             01/03/2007
+    39 USC Sec. 504                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4775,7 +4791,7 @@
 
 
 -CITE-
-    39 USC Sec. 505                                             01/03/2007
+    39 USC Sec. 505                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4800,7 +4816,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 6 - PRIVATE CARRIAGE OF LETTERS              01/03/2007
+    39 USC CHAPTER 6 - PRIVATE CARRIAGE OF LETTERS              01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4824,7 +4840,7 @@
 
 
 -CITE-
-    39 USC Sec. 601                                             01/03/2007
+    39 USC Sec. 601                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4848,46 +4864,40 @@
         (6) the date of the letter, of its transmission or receipt by
       the carrier is endorsed on the envelope in ink.
 
-      (b) The Postal Service may suspend the operation of any part of
-    this section upon any mail route where the public interest requires
-    the suspension.
-
--SOURCE-
-    (Pub. L. 91-375, Aug. 12, 1970, 84 Stat. 727; Pub. L. 109-435,
-    title V, Sec. 503(a), Dec. 20, 2006, 120 Stat. 3234.)
-
-
--STATAMEND-
-                           AMENDMENT OF SECTION                       
-      Pub. L. 109-435, title V, Sec. 503, Dec. 20, 2006, 120 Stat.
-    3234, provided that, effective on the date the regulations
-    promulgated under section 3633 of this title, as amended, take
-    effect, this section is amended by striking subsection (b) and
-    inserting the following:
-
-      "(b) A letter may also be carried out of the mails when - 
-        "(1) the amount paid for the private carriage of the letter is
+      (b) A letter may also be carried out of the mails when - 
+        (1) the amount paid for the private carriage of the letter is
       at least the amount equal to 6 times the rate then currently
       charged for the 1st ounce of a single-piece first class letter;
-        "(2) the letter weighs at least 12 1/2  ounces; or
-        "(3) such carriage is within the scope of services described by
+        (2) the letter weighs at least 12 1/2  ounces; or
+        (3) such carriage is within the scope of services described by
       regulations of the United States Postal Service (including, in
       particular, sections 310.1 and 320.2-320.8 of title 39 of the
       Code of Federal Regulations, as in effect on July 1, 2005) that
       purport to permit private carriage by suspension of the operation
       of this section (as then in effect).
 
-      "(c) Any regulations necessary to carry out this section shall be
-    promulgated by the Postal Regulatory Commission."
+      (c) Any regulations necessary to carry out this section shall be
+    promulgated by the Postal Regulatory Commission.
+
+-SOURCE-
+    (Pub. L. 91-375, Aug. 12, 1970, 84 Stat. 727; Pub. L. 109-435,
+    title V, Sec. 503(a), Dec. 20, 2006, 120 Stat. 3234.)
 
 
 -MISC1-
+                                AMENDMENTS                            
+      2006 - Subsecs. (b), (c). Pub. L. 109-435 added subsecs. (b) and
+    (c) and struck out former subsec. (b) which read as follows: "The
+    Postal Service may suspend the operation of any part of this
+    section upon any mail route where the public interest requires the
+    suspension."
+
                      EFFECTIVE DATE OF 2006 AMENDMENT                 
       Pub. L. 109-435, title V, Sec. 503(b), Dec. 20, 2006, 120 Stat.
     3235, provided that: "This section [amending this section] shall
     take effect on the date as of which the regulations promulgated
     under section 3633 of title 39, United States Code (as amended by
-    section 202) take effect."
+    section 202) take effect [Dec. 10, 2007, 72 F.R. 63662, 64155]."
 
                               EFFECTIVE DATE                          
       Chapter effective July 1, 1971, pursuant to Resolution No. 71-9
@@ -4913,7 +4923,7 @@
 
 
 -CITE-
-    39 USC Sec. 602                                             01/03/2007
+    39 USC Sec. 602                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4950,7 +4960,7 @@
 
 
 -CITE-
-    39 USC Sec. 603                                             01/03/2007
+    39 USC Sec. 603                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4981,7 +4991,7 @@
 
 
 -CITE-
-    39 USC Sec. 604                                             01/03/2007
+    39 USC Sec. 604                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -5012,7 +5022,7 @@
 
 
 -CITE-
-    39 USC Sec. 605                                             01/03/2007
+    39 USC Sec. 605                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -5038,7 +5048,7 @@
 
 
 -CITE-
-    39 USC Sec. 606                                             01/03/2007
+    39 USC Sec. 606                                             01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -5067,7 +5077,7 @@
 
 
 -CITE-
-    39 USC PART II - PERSONNEL                                  01/03/2007
+    39 USC PART II - PERSONNEL                                  01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -5085,7 +5095,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 10 - EMPLOYMENT WITHIN THE POSTAL SERVICE    01/03/2007
+    39 USC CHAPTER 10 - EMPLOYMENT WITHIN THE POSTAL SERVICE    01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -5115,7 +5125,7 @@
 
 
 -CITE-
-    39 USC Sec. 1001                                            01/03/2007
+    39 USC Sec. 1001                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -5284,7 +5294,7 @@
 
 
 -CITE-
-    39 USC Sec. 1002                                            01/03/2007
+    39 USC Sec. 1002                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -5405,7 +5415,7 @@
 
 
 -CITE-
-    39 USC Sec. 1003                                            01/03/2007
+    39 USC Sec. 1003                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -5544,7 +5554,7 @@
 
 
 -CITE-
-    39 USC Sec. 1004                                            01/03/2007
+    39 USC Sec. 1004                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -5803,7 +5813,7 @@
 
 
 -CITE-
-    39 USC Sec. 1005                                            01/03/2007
+    39 USC Sec. 1005                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6013,7 +6023,7 @@
 
 
 -CITE-
-    39 USC Sec. 1006                                            01/03/2007
+    39 USC Sec. 1006                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6047,7 +6057,7 @@
 
 
 -CITE-
-    39 USC Sec. 1007                                            01/03/2007
+    39 USC Sec. 1007                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6086,7 +6096,7 @@
 
 
 -CITE-
-    39 USC Sec. 1008                                            01/03/2007
+    39 USC Sec. 1008                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6122,7 +6132,7 @@
 
 
 -CITE-
-    39 USC Sec. 1009                                            01/03/2007
+    39 USC Sec. 1009                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6153,7 +6163,7 @@
 
 
 -CITE-
-    39 USC Sec. 1010                                            01/03/2007
+    39 USC Sec. 1010                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6186,7 +6196,7 @@
 
 
 -CITE-
-    39 USC Sec. 1011                                            01/03/2007
+    39 USC Sec. 1011                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6229,7 +6239,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 12 - EMPLOYEE-MANAGEMENT AGREEMENTS          01/03/2007
+    39 USC CHAPTER 12 - EMPLOYEE-MANAGEMENT AGREEMENTS          01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6256,7 +6266,7 @@
 
 
 -CITE-
-    39 USC Sec. 1201                                            01/03/2007
+    39 USC Sec. 1201                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6377,7 +6387,7 @@
 
 
 -CITE-
-    39 USC Sec. 1202                                            01/03/2007
+    39 USC Sec. 1202                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6416,7 +6426,7 @@
 
 
 -CITE-
-    39 USC Sec. 1203                                            01/03/2007
+    39 USC Sec. 1203                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6484,7 +6494,7 @@
 
 
 -CITE-
-    39 USC Sec. 1204                                            01/03/2007
+    39 USC Sec. 1204                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6520,7 +6530,7 @@
 
 
 -CITE-
-    39 USC Sec. 1205                                            01/03/2007
+    39 USC Sec. 1205                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6564,7 +6574,7 @@
 
 
 -CITE-
-    39 USC Sec. 1206                                            01/03/2007
+    39 USC Sec. 1206                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6610,7 +6620,7 @@
 
 
 -CITE-
-    39 USC Sec. 1207                                            01/03/2007
+    39 USC Sec. 1207                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6697,7 +6707,7 @@
 
 
 -CITE-
-    39 USC Sec. 1208                                            01/03/2007
+    39 USC Sec. 1208                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6745,7 +6755,7 @@
 
 
 -CITE-
-    39 USC Sec. 1209                                            01/03/2007
+    39 USC Sec. 1209                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6786,7 +6796,7 @@
 
 
 -CITE-
-    39 USC PART III - MODERNIZATION AND FISCAL ADMINISTRATION    01/03/2007 
+    39 USC PART III - MODERNIZATION AND FISCAL ADMINISTRATION    01/08/2008 
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6815,7 +6825,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 20 - FINANCE                                 01/03/2007
+    39 USC CHAPTER 20 - FINANCE                                 01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6862,7 +6872,7 @@
 
 
 -CITE-
-    39 USC Sec. 2001                                            01/03/2007
+    39 USC Sec. 2001                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6903,7 +6913,7 @@
 
 
 -CITE-
-    39 USC Sec. 2002                                            01/03/2007
+    39 USC Sec. 2002                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7050,7 +7060,7 @@
 
 
 -CITE-
-    39 USC Sec. 2003                                            01/03/2007
+    39 USC Sec. 2003                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7327,7 +7337,7 @@
 
 
 -CITE-
-    39 USC Sec. 2004                                            01/03/2007
+    39 USC Sec. 2004                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7355,7 +7365,7 @@
 
 
 -CITE-
-    39 USC Sec. 2005                                            01/03/2007
+    39 USC Sec. 2005                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7518,7 +7528,7 @@
 
 
 -CITE-
-    39 USC Sec. 2006                                            01/03/2007
+    39 USC Sec. 2006                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7586,7 +7596,7 @@
 
 
 -CITE-
-    39 USC Sec. 2007                                            01/03/2007
+    39 USC Sec. 2007                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7626,7 +7636,7 @@
 
 
 -CITE-
-    39 USC Sec. 2008                                            01/03/2007
+    39 USC Sec. 2008                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7667,7 +7677,7 @@
 
 
 -CITE-
-    39 USC Sec. 2009                                            01/03/2007
+    39 USC Sec. 2009                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7761,7 +7771,7 @@
 
 
 -CITE-
-    39 USC Sec. 2009a                                           01/03/2007
+    39 USC Sec. 2009a                                           01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7839,7 +7849,7 @@
 
 
 -CITE-
-    39 USC Sec. 2010                                            01/03/2007
+    39 USC Sec. 2010                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7867,7 +7877,7 @@
 
 
 -CITE-
-    39 USC Sec. 2011                                            01/03/2007
+    39 USC Sec. 2011                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8098,7 +8108,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 22 - CONVICT LABOR                           01/03/2007
+    39 USC CHAPTER 22 - CONVICT LABOR                           01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8118,7 +8128,7 @@
 
 
 -CITE-
-    39 USC Sec. 2201                                            01/03/2007
+    39 USC Sec. 2201                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8148,7 +8158,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 24 - APPROPRIATIONS AND ANNUAL REPORT        01/03/2007
+    39 USC CHAPTER 24 - APPROPRIATIONS AND ANNUAL REPORT        01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8168,7 +8178,7 @@
 
 
 -CITE-
-    39 USC Sec. 2401                                            01/03/2007
+    39 USC Sec. 2401                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8521,7 +8531,7 @@
 
 
 -CITE-
-    39 USC Sec. 2402                                            01/03/2007
+    39 USC Sec. 2402                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8559,7 +8569,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 26 - DEBTS AND COLLECTION                    01/03/2007
+    39 USC CHAPTER 26 - DEBTS AND COLLECTION                    01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8584,7 +8594,7 @@
 
 
 -CITE-
-    39 USC Sec. 2601                                            01/03/2007
+    39 USC Sec. 2601                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8642,7 +8652,7 @@
 
 
 -CITE-
-    39 USC Sec. 2602                                            01/03/2007
+    39 USC Sec. 2602                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8707,7 +8717,7 @@
 
 
 -CITE-
-    39 USC Sec. 2603                                            01/03/2007
+    39 USC Sec. 2603                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8742,7 +8752,7 @@
 
 
 -CITE-
-    39 USC Sec. 2604                                            01/03/2007
+    39 USC Sec. 2604                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8766,7 +8776,7 @@
 
 
 -CITE-
-    39 USC Sec. 2605                                            01/03/2007
+    39 USC Sec. 2605                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8793,7 +8803,7 @@
 
 -CITE-
     39 USC CHAPTER 28 - STRATEGIC PLANNING AND PERFORMANCE
-           MANAGEMENT                                      01/03/2007
+           MANAGEMENT                                      01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8816,7 +8826,7 @@
 
 
 -CITE-
-    39 USC Sec. 2801                                            01/03/2007
+    39 USC Sec. 2801                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8867,7 +8877,7 @@
 
 
 -CITE-
-    39 USC Sec. 2802                                            01/03/2007
+    39 USC Sec. 2802                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8966,7 +8976,7 @@
 
 
 -CITE-
-    39 USC Sec. 2803                                            01/03/2007
+    39 USC Sec. 2803                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9040,7 +9050,7 @@
 
 
 -CITE-
-    39 USC Sec. 2804                                            01/03/2007
+    39 USC Sec. 2804                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9105,7 +9115,7 @@
 
 
 -CITE-
-    39 USC Sec. 2805                                            01/03/2007
+    39 USC Sec. 2805                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9129,7 +9139,7 @@
 
 
 -CITE-
-    39 USC PART IV - MAIL MATTER                                01/03/2007
+    39 USC PART IV - MAIL MATTER                                01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9149,7 +9159,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 30 - NONMAILABLE MATTER                      01/03/2007
+    39 USC CHAPTER 30 - NONMAILABLE MATTER                      01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9204,7 +9214,7 @@
 
 
 -CITE-
-    39 USC Sec. 3001                                            01/03/2007
+    39 USC Sec. 3001                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9767,7 +9777,7 @@
 
 
 -CITE-
-    39 USC Sec. 3002                                            01/03/2007
+    39 USC Sec. 3002                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9801,7 +9811,7 @@
 
 
 -CITE-
-    39 USC Sec. 3002a                                           01/03/2007
+    39 USC Sec. 3002a                                           01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9840,7 +9850,7 @@
 
 
 -CITE-
-    39 USC Sec. 3003                                            01/03/2007
+    39 USC Sec. 3003                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9878,7 +9888,7 @@
 
 
 -CITE-
-    39 USC Sec. 3004                                            01/03/2007
+    39 USC Sec. 3004                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9905,7 +9915,7 @@
 
 
 -CITE-
-    39 USC Sec. 3005                                            01/03/2007
+    39 USC Sec. 3005                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10096,7 +10106,7 @@
 
 
 -CITE-
-    39 USC Sec. 3006                                            01/03/2007
+    39 USC Sec. 3006                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10124,7 +10134,7 @@
 
 
 -CITE-
-    39 USC Sec. 3007                                            01/03/2007
+    39 USC Sec. 3007                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10204,7 +10214,7 @@
 
 
 -CITE-
-    39 USC Sec. 3008                                            01/03/2007
+    39 USC Sec. 3008                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10288,7 +10298,7 @@
 
 
 -CITE-
-    39 USC Sec. 3009                                            01/03/2007
+    39 USC Sec. 3009                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10330,7 +10340,7 @@
 
 
 -CITE-
-    39 USC Sec. 3010                                            01/03/2007
+    39 USC Sec. 3010                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10426,7 +10436,7 @@
 
 
 -CITE-
-    39 USC Sec. 3011                                            01/03/2007
+    39 USC Sec. 3011                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10519,7 +10529,7 @@
 
 
 -CITE-
-    39 USC Sec. 3012                                            01/03/2007
+    39 USC Sec. 3012                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10635,7 +10645,7 @@
 
 
 -CITE-
-    39 USC Sec. 3013                                            01/03/2007
+    39 USC Sec. 3013                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10741,7 +10751,7 @@
 
 
 -CITE-
-    39 USC Sec. 3014                                            01/03/2007
+    39 USC Sec. 3014                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10841,7 +10851,7 @@
 
 
 -CITE-
-    39 USC Sec. 3015                                            01/03/2007
+    39 USC Sec. 3015                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11032,7 +11042,7 @@
 
 
 -CITE-
-    39 USC Sec. 3016                                            01/03/2007
+    39 USC Sec. 3016                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11174,7 +11184,7 @@
 
 
 -CITE-
-    39 USC Sec. 3017                                            01/03/2007
+    39 USC Sec. 3017                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11343,7 +11353,7 @@
 
 
 -CITE-
-    39 USC Sec. 3018                                            01/03/2007
+    39 USC Sec. 3018                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11456,7 +11466,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 32 - PENALTY AND FRANKED MAIL                01/03/2007
+    39 USC CHAPTER 32 - PENALTY AND FRANKED MAIL                01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11514,7 +11524,7 @@
 
 
 -CITE-
-    39 USC Sec. 3201                                            01/03/2007
+    39 USC Sec. 3201                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11568,7 +11578,7 @@
 
 
 -CITE-
-    39 USC Sec. 3202                                            01/03/2007
+    39 USC Sec. 3202                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11689,7 +11699,7 @@
 
 
 -CITE-
-    39 USC Sec. 3203                                            01/03/2007
+    39 USC Sec. 3203                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11717,7 +11727,7 @@
 
 
 -CITE-
-    39 USC Sec. 3204                                            01/03/2007
+    39 USC Sec. 3204                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11781,7 +11791,7 @@
 
 
 -CITE-
-    39 USC Sec. 3205                                            01/03/2007
+    39 USC Sec. 3205                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11805,7 +11815,7 @@
 
 
 -CITE-
-    39 USC Sec. 3206                                            01/03/2007
+    39 USC Sec. 3206                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11871,7 +11881,7 @@
 
 
 -CITE-
-    39 USC Sec. 3207                                            01/03/2007
+    39 USC Sec. 3207                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11909,7 +11919,7 @@
 
 
 -CITE-
-    39 USC Sec. 3208                                            01/03/2007
+    39 USC Sec. 3208                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11937,7 +11947,7 @@
 
 
 -CITE-
-    39 USC Sec. 3209                                            01/03/2007
+    39 USC Sec. 3209                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11961,7 +11971,7 @@
 
 
 -CITE-
-    39 USC Sec. 3210                                            01/03/2007
+    39 USC Sec. 3210                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -12507,7 +12517,7 @@
 
 
 -CITE-
-    39 USC Sec. 3211                                            01/03/2007
+    39 USC Sec. 3211                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -12552,7 +12562,7 @@
 
 
 -CITE-
-    39 USC Sec. 3212                                            01/03/2007
+    39 USC Sec. 3212                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -12595,7 +12605,7 @@
 
 
 -CITE-
-    39 USC Sec. 3213                                            01/03/2007
+    39 USC Sec. 3213                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -12628,7 +12638,7 @@
 
 
 -CITE-
-    39 USC Sec. 3214                                            01/03/2007
+    39 USC Sec. 3214                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -12699,7 +12709,7 @@
 
 
 -CITE-
-    39 USC Sec. 3215                                            01/03/2007
+    39 USC Sec. 3215                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -12745,7 +12755,7 @@
 
 
 -CITE-
-    39 USC Sec. 3216                                            01/03/2007
+    39 USC Sec. 3216                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -12915,7 +12925,7 @@
 
 
 -CITE-
-    39 USC Sec. 3217                                            01/03/2007
+    39 USC Sec. 3217                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -12954,7 +12964,7 @@
 
 
 -CITE-
-    39 USC Sec. 3218                                            01/03/2007
+    39 USC Sec. 3218                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13002,7 +13012,7 @@
 
 
 -CITE-
-    39 USC Sec. 3219                                            01/03/2007
+    39 USC Sec. 3219                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13053,7 +13063,7 @@
 
 
 -CITE-
-    39 USC Sec. 3220                                            01/03/2007
+    39 USC Sec. 3220                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13161,7 +13171,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 34 - ARMED FORCES AND FREE POSTAGE           01/03/2007
+    39 USC CHAPTER 34 - ARMED FORCES AND FREE POSTAGE           01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13196,7 +13206,7 @@
 
 
 -CITE-
-    39 USC Sec. 3401                                            01/03/2007
+    39 USC Sec. 3401                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13496,7 +13506,7 @@
 
 
 -CITE-
-    39 USC Sec. 3402                                            01/03/2007
+    39 USC Sec. 3402                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13523,7 +13533,7 @@
 
 
 -CITE-
-    39 USC Sec. 3403                                            01/03/2007
+    39 USC Sec. 3403                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13572,7 +13582,7 @@
 
 
 -CITE-
-    39 USC Sec. 3404                                            01/03/2007
+    39 USC Sec. 3404                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13597,7 +13607,7 @@
 
 
 -CITE-
-    39 USC Sec. 3405                                            01/03/2007
+    39 USC Sec. 3405                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13622,7 +13632,7 @@
 
 
 -CITE-
-    39 USC Sec. 3406                                            01/03/2007
+    39 USC Sec. 3406                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13672,7 +13682,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 36 - POSTAL RATES, CLASSES, AND SERVICES     01/03/2007
+    39 USC CHAPTER 36 - POSTAL RATES, CLASSES, AND SERVICES     01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13761,7 +13771,7 @@
 
 -CITE-
     39 USC SUBCHAPTER I - PROVISIONS RELATING TO
-           MARKET-DOMINANT PRODUCTS                        01/03/2007
+           MARKET-DOMINANT PRODUCTS                        01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13802,7 +13812,7 @@
 
 
 -CITE-
-    39 USC Sec. 3621                                            01/03/2007
+    39 USC Sec. 3621                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13870,7 +13880,7 @@
 
 
 -CITE-
-    39 USC Sec. 3622                                            01/03/2007
+    39 USC Sec. 3622                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -14152,7 +14162,7 @@
 
 
 -CITE-
-    39 USC Secs. 3623 to 3625                                   01/03/2007
+    39 USC Secs. 3623 to 3625                                   01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -14181,7 +14191,7 @@
 
 
 -CITE-
-    39 USC Sec. 3626                                            01/03/2007
+    39 USC Sec. 3626                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -14737,7 +14747,7 @@
 
 
 -CITE-
-    39 USC Sec. 3627                                            01/03/2007
+    39 USC Sec. 3627                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -14820,7 +14830,7 @@
 
 
 -CITE-
-    39 USC Sec. 3628                                            01/03/2007
+    39 USC Sec. 3628                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -14845,7 +14855,7 @@
 
 
 -CITE-
-    39 USC Sec. 3629                                            01/03/2007
+    39 USC Sec. 3629                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -14898,7 +14908,7 @@
 
 -CITE-
     39 USC SUBCHAPTER II - PROVISIONS RELATING TO COMPETITIVE
-           PRODUCTS                                        01/03/2007
+           PRODUCTS                                        01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -14920,7 +14930,7 @@
 
 
 -CITE-
-    39 USC Sec. 3631                                            01/03/2007
+    39 USC Sec. 3631                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -14960,7 +14970,7 @@
 
 
 -CITE-
-    39 USC Sec. 3632                                            01/03/2007
+    39 USC Sec. 3632                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15026,7 +15036,7 @@
 
 
 -CITE-
-    39 USC Sec. 3633                                            01/03/2007
+    39 USC Sec. 3633                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15108,7 +15118,7 @@
 
 
 -CITE-
-    39 USC Sec. 3634                                            01/03/2007
+    39 USC Sec. 3634                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15165,7 +15175,7 @@
 
 -CITE-
     39 USC SUBCHAPTER III - PROVISIONS RELATING TO
-           EXPERIMENTAL AND NEW PRODUCTS                   01/03/2007
+           EXPERIMENTAL AND NEW PRODUCTS                   01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15191,7 +15201,7 @@
 
 
 -CITE-
-    39 USC Sec. 3641                                            01/03/2007
+    39 USC Sec. 3641                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15390,7 +15400,7 @@
 
 
 -CITE-
-    39 USC Sec. 3642                                            01/03/2007
+    39 USC Sec. 3642                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15495,7 +15505,7 @@
 
 -CITE-
     39 USC SUBCHAPTER IV - REPORTING REQUIREMENTS AND RELATED
-           PROVISIONS                                      01/03/2007
+           PROVISIONS                                      01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15517,7 +15527,7 @@
 
 
 -CITE-
-    39 USC Sec. 3651                                            01/03/2007
+    39 USC Sec. 3651                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15573,7 +15583,7 @@
 
 
 -CITE-
-    39 USC Sec. 3652                                            01/03/2007
+    39 USC Sec. 3652                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15700,7 +15710,7 @@
 
 
 -CITE-
-    39 USC Sec. 3653                                            01/03/2007
+    39 USC Sec. 3653                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15760,7 +15770,7 @@
 
 
 -CITE-
-    39 USC Sec. 3654                                            01/03/2007
+    39 USC Sec. 3654                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15900,7 +15910,7 @@
 
 -CITE-
     39 USC SUBCHAPTER V - POSTAL SERVICES, COMPLAINTS, AND
-           JUDICIAL REVIEW                                 01/03/2007
+           JUDICIAL REVIEW                                 01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15929,7 +15939,7 @@
 
 
 -CITE-
-    39 USC Sec. 3661                                            01/03/2007
+    39 USC Sec. 3661                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15990,7 +16000,7 @@
 
 
 -CITE-
-    39 USC Sec. 3662                                            01/03/2007
+    39 USC Sec. 3662                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16070,7 +16080,7 @@
 
 
 -CITE-
-    39 USC Sec. 3663                                            01/03/2007
+    39 USC Sec. 3663                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16109,7 +16119,7 @@
 
 
 -CITE-
-    39 USC Sec. 3664                                            01/03/2007
+    39 USC Sec. 3664                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16133,7 +16143,7 @@
 
 
 -CITE-
-    39 USC SUBCHAPTER VI - GENERAL                              01/03/2007
+    39 USC SUBCHAPTER VI - GENERAL                              01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16156,7 +16166,7 @@
 
 
 -CITE-
-    39 USC Sec. 3681                                            01/03/2007
+    39 USC Sec. 3681                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16194,7 +16204,7 @@
 
 
 -CITE-
-    39 USC Sec. 3682                                            01/03/2007
+    39 USC Sec. 3682                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16269,7 +16279,7 @@
 
 
 -CITE-
-    39 USC Sec. 3683                                            01/03/2007
+    39 USC Sec. 3683                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16343,7 +16353,7 @@
 
 
 -CITE-
-    39 USC Sec. 3684                                            01/03/2007
+    39 USC Sec. 3684                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16383,7 +16393,7 @@
 
 
 -CITE-
-    39 USC Sec. 3685                                            01/03/2007
+    39 USC Sec. 3685                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16435,7 +16445,7 @@
 
 
 -CITE-
-    39 USC Sec. 3686                                            01/03/2007
+    39 USC Sec. 3686                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16518,7 +16528,7 @@
 
 
 -CITE-
-    39 USC SUBCHAPTER VII - MODERN SERVICE STANDARDS            01/03/2007
+    39 USC SUBCHAPTER VII - MODERN SERVICE STANDARDS            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16534,7 +16544,7 @@
 
 
 -CITE-
-    39 USC Sec. 3691                                            01/03/2007
+    39 USC Sec. 3691                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16742,7 +16752,7 @@
 
 
 -CITE-
-    39 USC PART V - TRANSPORTATION OF MAIL                      01/03/2007
+    39 USC PART V - TRANSPORTATION OF MAIL                      01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16767,7 +16777,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 50 - GENERAL                                 01/03/2007
+    39 USC CHAPTER 50 - GENERAL                                 01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16793,7 +16803,7 @@
 
 
 -CITE-
-    39 USC Sec. 5001                                            01/03/2007
+    39 USC Sec. 5001                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16829,7 +16839,7 @@
 
 
 -CITE-
-    39 USC Sec. 5002                                            01/03/2007
+    39 USC Sec. 5002                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16857,7 +16867,7 @@
 
 
 -CITE-
-    39 USC Sec. 5003                                            01/03/2007
+    39 USC Sec. 5003                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16887,7 +16897,7 @@
 
 
 -CITE-
-    39 USC Sec. 5004                                            01/03/2007
+    39 USC Sec. 5004                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16909,7 +16919,7 @@
 
 
 -CITE-
-    39 USC Sec. 5005                                            01/03/2007
+    39 USC Sec. 5005                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -17013,7 +17023,7 @@
 
 
 -CITE-
-    39 USC Sec. 5006                                            01/03/2007
+    39 USC Sec. 5006                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -17049,7 +17059,7 @@
 
 
 -CITE-
-    39 USC Sec. 5007                                            01/03/2007
+    39 USC Sec. 5007                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -17087,7 +17097,7 @@
 
 
 -CITE-
-    39 USC [CHAPTER 52 - REPEALED]                              01/03/2007
+    39 USC [CHAPTER 52 - REPEALED]                              01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -17102,7 +17112,7 @@
 
 
 -CITE-
-    39 USC Secs. 5201 to 5215                                   01/03/2007
+    39 USC Secs. 5201 to 5215                                   01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -17164,7 +17174,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 54 - TRANSPORTATION OF MAIL BY AIR           01/03/2007
+    39 USC CHAPTER 54 - TRANSPORTATION OF MAIL BY AIR           01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -17185,7 +17195,7 @@
 
 
 -CITE-
-    39 USC Sec. 5401                                            01/03/2007
+    39 USC Sec. 5401                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -17232,7 +17242,7 @@
 
 
 -CITE-
-    39 USC Sec. 5402                                            01/03/2007
+    39 USC Sec. 5402                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -18336,8 +18346,9 @@
       Pub. L. 107-206, title III, Sec. 3002(f), Aug. 2, 2002, 116 Stat.
     924, provided that, not later than 18 months after Aug. 2, 2002,
     the Postal Service and the Secretary of Transportation were to
-    submit a report to the Committee on Government Reform of the House
-    of Representatives and the Committee on Governmental Affairs of the
+    submit a report to the Committee on Government Reform (now
+    Committee on Oversight and Government Reform) of the House of
+    Representatives and the Committee on Governmental Affairs of the
     Senate on the progress of implementing title III of Pub. L. 107-
     206.
 
@@ -18351,7 +18362,7 @@
 
 
 -CITE-
-    39 USC Sec. 5403                                            01/03/2007
+    39 USC Sec. 5403                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -18375,7 +18386,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 56 - TRANSPORTATION OF MAIL BY VESSEL        01/03/2007
+    39 USC CHAPTER 56 - TRANSPORTATION OF MAIL BY VESSEL        01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -18399,7 +18410,7 @@
 
 
 -CITE-
-    39 USC Sec. 5601                                            01/03/2007
+    39 USC Sec. 5601                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -18428,7 +18439,7 @@
 
 
 -CITE-
-    39 USC Sec. 5602                                            01/03/2007
+    39 USC Sec. 5602                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -18451,7 +18462,7 @@
 
 
 -CITE-
-    39 USC Sec. 5603                                            01/03/2007
+    39 USC Sec. 5603                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -18480,7 +18491,7 @@
 
 
 -CITE-
-    39 USC Sec. 5604                                            01/03/2007
+    39 USC Sec. 5604                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -18505,7 +18516,7 @@
 
 
 -CITE-
-    39 USC Sec. 5605                                            01/03/2007
+    39 USC Sec. 5605                                            01/08/2008
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE

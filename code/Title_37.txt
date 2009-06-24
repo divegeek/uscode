@@ -1,6 +1,6 @@
 -CITE-    
     37 USC TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED
-           SERVICES                                        01/03/2007
+           SERVICES                                        01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -331,7 +331,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 1 - DEFINITIONS                              01/03/2007
+    37 USC CHAPTER 1 - DEFINITIONS                              01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -354,7 +354,7 @@
 
 
 -CITE-
-    37 USC Sec. 101                                             01/03/2007
+    37 USC Sec. 101                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -792,7 +792,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 3 - BASIC PAY                                01/03/2007
+    37 USC CHAPTER 3 - BASIC PAY                                01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -865,7 +865,7 @@
 
 
 -CITE-
-    37 USC Sec. 201                                             01/03/2007
+    37 USC Sec. 201                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -1172,7 +1172,7 @@
 
 
 -CITE-
-    37 USC Sec. 202                                             01/03/2007
+    37 USC Sec. 202                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -1403,7 +1403,7 @@
 
 
 -CITE-
-    37 USC Sec. 203                                             01/03/2007
+    37 USC Sec. 203                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -1982,7 +1982,7 @@
 
 
 -CITE-
-    37 USC Sec. 204                                             01/03/2007
+    37 USC Sec. 204                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -2366,7 +2366,7 @@
 
 
 -CITE-
-    37 USC Sec. 205                                             01/03/2007
+    37 USC Sec. 205                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -2727,7 +2727,7 @@
 
 
 -CITE-
-    37 USC Sec. 206                                             01/03/2007
+    37 USC Sec. 206                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -2952,7 +2952,7 @@
 
 
 -CITE-
-    37 USC Sec. 207                                             01/03/2007
+    37 USC Sec. 207                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -3045,7 +3045,7 @@
 
 
 -CITE-
-    37 USC Sec. 208                                             01/03/2007
+    37 USC Sec. 208                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -3067,7 +3067,7 @@
 
 
 -CITE-
-    37 USC Sec. 209                                             01/03/2007
+    37 USC Sec. 209                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -3364,7 +3364,7 @@
 
 
 -CITE-
-    37 USC Sec. 210                                             01/03/2007
+    37 USC Sec. 210                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -3435,7 +3435,7 @@
 
 
 -CITE-
-    37 USC Sec. 211                                             01/03/2007
+    37 USC Sec. 211                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -3585,7 +3585,7 @@
 
 
 -CITE-
-    37 USC Sec. 212                                             01/03/2007
+    37 USC Sec. 212                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -3630,7 +3630,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 5 - SPECIAL AND INCENTIVE PAYS               01/03/2007
+    37 USC CHAPTER 5 - SPECIAL AND INCENTIVE PAYS               01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -3895,7 +3895,7 @@
 
 
 -CITE-
-    37 USC Sec. 301                                             01/03/2007
+    37 USC Sec. 301                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -4625,7 +4625,7 @@
 
 
 -CITE-
-    37 USC Sec. 301a                                            01/03/2007
+    37 USC Sec. 301a                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -5180,7 +5180,7 @@
 
 
 -CITE-
-    37 USC Sec. 301b                                            01/03/2007
+    37 USC Sec. 301b                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -5745,7 +5745,7 @@
 
 
 -CITE-
-    37 USC Sec. 301c                                            01/03/2007
+    37 USC Sec. 301c                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -6027,7 +6027,7 @@
 
 
 -CITE-
-    37 USC Sec. 301d                                            01/03/2007
+    37 USC Sec. 301d                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -6172,7 +6172,7 @@
 
 
 -CITE-
-    37 USC Sec. 301e                                            01/03/2007
+    37 USC Sec. 301e                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -6272,7 +6272,7 @@
 
 
 -CITE-
-    37 USC Sec. 302                                             01/03/2007
+    37 USC Sec. 302                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -6837,7 +6837,7 @@
 
 
 -CITE-
-    37 USC Sec. 302a                                            01/03/2007
+    37 USC Sec. 302a                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -7018,7 +7018,7 @@
 
 
 -CITE-
-    37 USC Sec. 302b                                            01/03/2007
+    37 USC Sec. 302b                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -7370,7 +7370,7 @@
 
 
 -CITE-
-    37 USC Sec. 302c                                            01/03/2007
+    37 USC Sec. 302c                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -7535,7 +7535,7 @@
 
 
 -CITE-
-    37 USC Sec. 302d                                            01/03/2007
+    37 USC Sec. 302d                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -7694,7 +7694,7 @@
 
 
 -CITE-
-    37 USC Sec. 302e                                            01/03/2007
+    37 USC Sec. 302e                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -7894,7 +7894,7 @@
 
 
 -CITE-
-    37 USC Sec. 302f                                            01/03/2007
+    37 USC Sec. 302f                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -8033,7 +8033,7 @@
 
 
 -CITE-
-    37 USC Sec. 302g                                            01/03/2007
+    37 USC Sec. 302g                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -8154,7 +8154,7 @@
 
 
 -CITE-
-    37 USC Sec. 302h                                            01/03/2007
+    37 USC Sec. 302h                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -8258,7 +8258,7 @@
 
 
 -CITE-
-    37 USC Sec. 302i                                            01/03/2007
+    37 USC Sec. 302i                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -8341,7 +8341,7 @@
 
 
 -CITE-
-    37 USC Sec. 302j                                            01/03/2007
+    37 USC Sec. 302j                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -8428,7 +8428,7 @@
 
 
 -CITE-
-    37 USC Sec. 302k                                            01/03/2007
+    37 USC Sec. 302k                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -8495,7 +8495,7 @@
 
 
 -CITE-
-    37 USC Sec. 302l                                            01/03/2007
+    37 USC Sec. 302l                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -8567,7 +8567,7 @@
 
 
 -CITE-
-    37 USC Sec. 303                                             01/03/2007
+    37 USC Sec. 303                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -8754,7 +8754,7 @@
 
 
 -CITE-
-    37 USC Sec. 303a                                            01/03/2007
+    37 USC Sec. 303a                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -8957,7 +8957,7 @@
 
 
 -CITE-
-    37 USC Sec. 303b                                            01/03/2007
+    37 USC Sec. 303b                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -9041,7 +9041,7 @@
 
 
 -CITE-
-    37 USC Sec. 304                                             01/03/2007
+    37 USC Sec. 304                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -9187,7 +9187,7 @@
 
 
 -CITE-
-    37 USC Sec. 305                                             01/03/2007
+    37 USC Sec. 305                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -9421,7 +9421,7 @@
 
 
 -CITE-
-    37 USC Sec. 305a                                            01/03/2007
+    37 USC Sec. 305a                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -9742,7 +9742,7 @@
 
 
 -CITE-
-    37 USC Sec. 305b                                            01/03/2007
+    37 USC Sec. 305b                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -9795,7 +9795,7 @@
 
 
 -CITE-
-    37 USC Sec. 306                                             01/03/2007
+    37 USC Sec. 306                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -9959,7 +9959,7 @@
 
 
 -CITE-
-    37 USC Sec. 306a                                            01/03/2007
+    37 USC Sec. 306a                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -10022,7 +10022,7 @@
 
 
 -CITE-
-    37 USC Sec. 307                                             01/03/2007
+    37 USC Sec. 307                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -10236,7 +10236,7 @@
 
 
 -CITE-
-    37 USC Sec. 307a                                            01/03/2007
+    37 USC Sec. 307a                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -10415,7 +10415,7 @@
 
 
 -CITE-
-    37 USC Sec. 308                                             01/03/2007
+    37 USC Sec. 308                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -10939,7 +10939,7 @@
 
 
 -CITE-
-    37 USC Sec. 308a                                            01/03/2007
+    37 USC Sec. 308a                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -10992,7 +10992,7 @@
 
 
 -CITE-
-    37 USC Sec. 308b                                            01/03/2007
+    37 USC Sec. 308b                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -11332,7 +11332,7 @@
 
 
 -CITE-
-    37 USC Sec. 308c                                            01/03/2007
+    37 USC Sec. 308c                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -11569,7 +11569,7 @@
 
 
 -CITE-
-    37 USC Sec. 308d                                            01/03/2007
+    37 USC Sec. 308d                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -11724,7 +11724,7 @@
 
 
 -CITE-
-    37 USC Sec. 308e                                            01/03/2007
+    37 USC Sec. 308e                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -11768,7 +11768,7 @@
 
 
 -CITE-
-    37 USC Sec. 308f                                            01/03/2007
+    37 USC Sec. 308f                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -11808,7 +11808,7 @@
 
 
 -CITE-
-    37 USC Sec. 308g                                            01/03/2007
+    37 USC Sec. 308g                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -11958,7 +11958,7 @@
 
 
 -CITE-
-    37 USC Sec. 308h                                            01/03/2007
+    37 USC Sec. 308h                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -12273,7 +12273,7 @@
 
 
 -CITE-
-    37 USC Sec. 308i                                            01/03/2007
+    37 USC Sec. 308i                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -12563,7 +12563,7 @@
 
 
 -CITE-
-    37 USC Sec. 308j                                            01/03/2007
+    37 USC Sec. 308j                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -12691,7 +12691,7 @@
 
 
 -CITE-
-    37 USC Sec. 309                                             01/03/2007
+    37 USC Sec. 309                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -12797,7 +12797,7 @@
 
 
 -CITE-
-    37 USC Sec. 310                                             01/03/2007
+    37 USC Sec. 310                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -13095,7 +13095,7 @@
 
 
 -CITE-
-    37 USC Sec. 311                                             01/03/2007
+    37 USC Sec. 311                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -13127,7 +13127,7 @@
 
 
 -CITE-
-    37 USC Sec. 312                                             01/03/2007
+    37 USC Sec. 312                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -13499,7 +13499,7 @@
 
 
 -CITE-
-    37 USC Sec. 312a                                            01/03/2007
+    37 USC Sec. 312a                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -13522,7 +13522,7 @@
 
 
 -CITE-
-    37 USC Sec. 312b                                            01/03/2007
+    37 USC Sec. 312b                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -13730,7 +13730,7 @@
 
 
 -CITE-
-    37 USC Sec. 312c                                            01/03/2007
+    37 USC Sec. 312c                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -13998,7 +13998,7 @@
 
 
 -CITE-
-    37 USC Sec. 313                                             01/03/2007
+    37 USC Sec. 313                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -14027,7 +14027,7 @@
 
 
 -CITE-
-    37 USC Sec. 314                                             01/03/2007
+    37 USC Sec. 314                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -14156,7 +14156,7 @@
 
 
 -CITE-
-    37 USC Sec. 315                                             01/03/2007
+    37 USC Sec. 315                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -14264,7 +14264,7 @@
 
 
 -CITE-
-    37 USC Sec. 316                                             01/03/2007
+    37 USC Sec. 316                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -14536,7 +14536,7 @@
 
 
 -CITE-
-    37 USC Sec. 316a                                            01/03/2007
+    37 USC Sec. 316a                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -14557,7 +14557,7 @@
 
 
 -CITE-
-    37 USC Sec. 317                                             01/03/2007
+    37 USC Sec. 317                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -14643,7 +14643,7 @@
 
 
 -CITE-
-    37 USC Sec. 318                                             01/03/2007
+    37 USC Sec. 318                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -14755,7 +14755,7 @@
 
 
 -CITE-
-    37 USC Sec. 319                                             01/03/2007
+    37 USC Sec. 319                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -14842,7 +14842,7 @@
 
 
 -CITE-
-    37 USC Sec. 320                                             01/03/2007
+    37 USC Sec. 320                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -14993,7 +14993,7 @@
 
 
 -CITE-
-    37 USC Sec. 321                                             01/03/2007
+    37 USC Sec. 321                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -15074,7 +15074,7 @@
 
 
 -CITE-
-    37 USC Sec. 322                                             01/03/2007
+    37 USC Sec. 322                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -15206,7 +15206,7 @@
 
 
 -CITE-
-    37 USC Sec. 323                                             01/03/2007
+    37 USC Sec. 323                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -15453,7 +15453,7 @@
 
 
 -CITE-
-    37 USC Sec. 324                                             01/03/2007
+    37 USC Sec. 324                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -15553,7 +15553,7 @@
 
 
 -CITE-
-    37 USC Sec. 325                                             01/03/2007
+    37 USC Sec. 325                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -15685,7 +15685,7 @@
 
 
 -CITE-
-    37 USC Sec. 326                                             01/03/2007
+    37 USC Sec. 326                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -15778,7 +15778,7 @@
 
 
 -CITE-
-    37 USC Sec. 327                                             01/03/2007
+    37 USC Sec. 327                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -15893,7 +15893,7 @@
 
 
 -CITE-
-    37 USC Sec. 328                                             01/03/2007
+    37 USC Sec. 328                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -15962,7 +15962,7 @@
 
 
 -CITE-
-    37 USC Sec. 329                                             01/03/2007
+    37 USC Sec. 329                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -16057,7 +16057,7 @@
 
 
 -CITE-
-    37 USC Sec. 330                                             01/03/2007
+    37 USC Sec. 330                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -16111,7 +16111,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 7 - ALLOWANCES                               01/03/2007
+    37 USC CHAPTER 7 - ALLOWANCES                               01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -16369,7 +16369,7 @@
 
 
 -CITE-
-    37 USC Sec. 401                                             01/03/2007
+    37 USC Sec. 401                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -16585,7 +16585,7 @@
 
 
 -CITE-
-    37 USC Sec. 402                                             01/03/2007
+    37 USC Sec. 402                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -17051,7 +17051,7 @@
 
 
 -CITE-
-    37 USC Sec. 402a                                            01/03/2007
+    37 USC Sec. 402a                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -17298,7 +17298,7 @@
 
 
 -CITE-
-    37 USC Sec. 403                                             01/03/2007
+    37 USC Sec. 403                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -18637,7 +18637,7 @@
 
 
 -CITE-
-    37 USC Sec. 403a                                            01/03/2007
+    37 USC Sec. 403a                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -18674,7 +18674,7 @@
 
 
 -CITE-
-    37 USC Sec. 403b                                            01/03/2007
+    37 USC Sec. 403b                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -18880,7 +18880,7 @@
 
 
 -CITE-
-    37 USC Sec. 404                                             01/03/2007
+    37 USC Sec. 404                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -19563,7 +19563,7 @@
 
 
 -CITE-
-    37 USC Sec. 404a                                            01/03/2007
+    37 USC Sec. 404a                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -19742,7 +19742,7 @@
 
 
 -CITE-
-    37 USC Sec. 404b                                            01/03/2007
+    37 USC Sec. 404b                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -19821,7 +19821,7 @@
 
 
 -CITE-
-    37 USC Sec. 405                                             01/03/2007
+    37 USC Sec. 405                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -20014,7 +20014,7 @@
 
 
 -CITE-
-    37 USC Sec. 405a                                            01/03/2007
+    37 USC Sec. 405a                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -20164,7 +20164,7 @@
 
 
 -CITE-
-    37 USC Sec. 406                                             01/03/2007
+    37 USC Sec. 406                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -21435,7 +21435,7 @@
 
 
 -CITE-
-    37 USC Sec. 406a                                            01/03/2007
+    37 USC Sec. 406a                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -21487,7 +21487,7 @@
 
 
 -CITE-
-    37 USC Sec. 406b                                            01/03/2007
+    37 USC Sec. 406b                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -21604,7 +21604,7 @@
 
 
 -CITE-
-    37 USC Sec. 406c                                            01/03/2007
+    37 USC Sec. 406c                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -21680,7 +21680,7 @@
 
 
 -CITE-
-    37 USC Sec. 407                                             01/03/2007
+    37 USC Sec. 407                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -22005,7 +22005,7 @@
 
 
 -CITE-
-    37 USC Sec. 408                                             01/03/2007
+    37 USC Sec. 408                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -22087,7 +22087,7 @@
 
 
 -CITE-
-    37 USC Sec. 409                                             01/03/2007
+    37 USC Sec. 409                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -22220,7 +22220,7 @@
 
 
 -CITE-
-    37 USC Sec. 410                                             01/03/2007
+    37 USC Sec. 410                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -22292,7 +22292,7 @@
 
 
 -CITE-
-    37 USC Sec. 411                                             01/03/2007
+    37 USC Sec. 411                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -22411,7 +22411,7 @@
 
 
 -CITE-
-    37 USC Sec. 411a                                            01/03/2007
+    37 USC Sec. 411a                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -22451,7 +22451,7 @@
 
 
 -CITE-
-    37 USC Sec. 411b                                            01/03/2007
+    37 USC Sec. 411b                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -22594,7 +22594,7 @@
 
 
 -CITE-
-    37 USC Sec. 411c                                            01/03/2007
+    37 USC Sec. 411c                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -22649,7 +22649,7 @@
 
 
 -CITE-
-    37 USC Sec. 411d                                            01/03/2007
+    37 USC Sec. 411d                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -22808,7 +22808,7 @@
 
 
 -CITE-
-    37 USC Sec. 411e                                            01/03/2007
+    37 USC Sec. 411e                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -22861,7 +22861,7 @@
 
 
 -CITE-
-    37 USC Sec. 411f                                            01/03/2007
+    37 USC Sec. 411f                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -23052,7 +23052,7 @@
 
 
 -CITE-
-    37 USC Sec. 411g                                            01/03/2007
+    37 USC Sec. 411g                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -23138,7 +23138,7 @@
 
 
 -CITE-
-    37 USC Sec. 411h                                            01/03/2007
+    37 USC Sec. 411h                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -23353,7 +23353,7 @@
 
 
 -CITE-
-    37 USC Sec. 411i                                            01/03/2007
+    37 USC Sec. 411i                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -23388,7 +23388,7 @@
 
 
 -CITE-
-    37 USC Sec. 411j                                            01/03/2007
+    37 USC Sec. 411j                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -23464,7 +23464,7 @@
 
 
 -CITE-
-    37 USC Sec. 412                                             01/03/2007
+    37 USC Sec. 412                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -23527,7 +23527,7 @@
 
 
 -CITE-
-    37 USC Sec. 413                                             01/03/2007
+    37 USC Sec. 413                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -23576,7 +23576,7 @@
 
 
 -CITE-
-    37 USC Sec. 414                                             01/03/2007
+    37 USC Sec. 414                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -23729,7 +23729,7 @@
 
 
 -CITE-
-    37 USC Sec. 415                                             01/03/2007
+    37 USC Sec. 415                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -23922,7 +23922,7 @@
 
 
 -CITE-
-    37 USC Sec. 416                                             01/03/2007
+    37 USC Sec. 416                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24067,7 +24067,7 @@
 
 
 -CITE-
-    37 USC Sec. 417                                             01/03/2007
+    37 USC Sec. 417                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24175,7 +24175,7 @@
 
 
 -CITE-
-    37 USC Sec. 418                                             01/03/2007
+    37 USC Sec. 418                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24310,7 +24310,7 @@
 
 
 -CITE-
-    37 USC Sec. 419                                             01/03/2007
+    37 USC Sec. 419                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24360,7 +24360,7 @@
 
 
 -CITE-
-    37 USC Sec. 420                                             01/03/2007
+    37 USC Sec. 420                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24432,7 +24432,7 @@
 
 
 -CITE-
-    37 USC Sec. 421                                             01/03/2007
+    37 USC Sec. 421                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24486,7 +24486,7 @@
 
 
 -CITE-
-    37 USC Sec. 422                                             01/03/2007
+    37 USC Sec. 422                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24588,7 +24588,7 @@
 
 
 -CITE-
-    37 USC Sec. 423                                             01/03/2007
+    37 USC Sec. 423                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24653,7 +24653,7 @@
 
 
 -CITE-
-    37 USC Sec. 424                                             01/03/2007
+    37 USC Sec. 424                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24741,7 +24741,7 @@
 
 
 -CITE-
-    37 USC Sec. 425                                             01/03/2007
+    37 USC Sec. 425                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24787,7 +24787,7 @@
 
 
 -CITE-
-    37 USC Sec. 426                                             01/03/2007
+    37 USC Sec. 426                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24810,7 +24810,7 @@
 
 
 -CITE-
-    37 USC Sec. 427                                             01/03/2007
+    37 USC Sec. 427                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25117,7 +25117,7 @@
 
 
 -CITE-
-    37 USC Sec. 428                                             01/03/2007
+    37 USC Sec. 428                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25154,7 +25154,7 @@
 
 
 -CITE-
-    37 USC Sec. 429                                             01/03/2007
+    37 USC Sec. 429                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25247,7 +25247,7 @@
 
 
 -CITE-
-    37 USC Sec. 430                                             01/03/2007
+    37 USC Sec. 430                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25477,7 +25477,7 @@
 
 
 -CITE-
-    37 USC Sec. 431                                             01/03/2007
+    37 USC Sec. 431                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25513,7 +25513,7 @@
 
       (e) Subsection (a) applies to members of the armed forces who - 
         (1) are assigned - 
-          (A) to Defense Attache&233; Offices or Defense Intelligence
+          (A) to Defense Attache&#233; Offices or Defense Intelligence
         Agency Liaison Offices outside the United States; or
           (B) to the Defense Intelligence Agency and engaged in
         intelligence-related duties outside the United States; and
@@ -25571,7 +25571,7 @@
 
 
 -CITE-
-    37 USC Sec. 432                                             01/03/2007
+    37 USC Sec. 432                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25623,7 +25623,7 @@
 
 
 -CITE-
-    37 USC Sec. 433                                             01/03/2007
+    37 USC Sec. 433                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25697,7 +25697,7 @@
 
 
 -CITE-
-    37 USC Sec. 434                                             01/03/2007
+    37 USC Sec. 434                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25746,7 +25746,7 @@
 
 
 -CITE-
-    37 USC Sec. 435                                             01/03/2007
+    37 USC Sec. 435                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25818,7 +25818,7 @@
 
 
 -CITE-
-    37 USC Sec. 436                                             01/03/2007
+    37 USC Sec. 436                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25955,7 +25955,7 @@
 
 
 -CITE-
-    37 USC Sec. 437                                             01/03/2007
+    37 USC Sec. 437                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -26060,7 +26060,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 9 - LEAVE                                    01/03/2007
+    37 USC CHAPTER 9 - LEAVE                                    01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -26087,7 +26087,7 @@
 
 
 -CITE-
-    37 USC Sec. 501                                             01/03/2007
+    37 USC Sec. 501                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -26548,7 +26548,7 @@
 
 
 -CITE-
-    37 USC Sec. 502                                             01/03/2007
+    37 USC Sec. 502                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -26662,7 +26662,7 @@
 
 
 -CITE-
-    37 USC Sec. 503                                             01/03/2007
+    37 USC Sec. 503                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -26753,7 +26753,7 @@
 
 
 -CITE-
-    37 USC Sec. 504                                             01/03/2007
+    37 USC Sec. 504                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -26809,7 +26809,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 10 - PAYMENTS TO MISSING PERSONS             01/03/2007
+    37 USC CHAPTER 10 - PAYMENTS TO MISSING PERSONS             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -26853,7 +26853,7 @@
 
 
 -CITE-
-    37 USC Sec. 551                                             01/03/2007
+    37 USC Sec. 551                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -26981,7 +26981,7 @@
 
 
 -CITE-
-    37 USC Sec. 552                                             01/03/2007
+    37 USC Sec. 552                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -27178,7 +27178,7 @@
 
 
 -CITE-
-    37 USC Sec. 553                                             01/03/2007
+    37 USC Sec. 553                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -27388,7 +27388,7 @@
 
 
 -CITE-
-    37 USC Sec. 554                                             01/03/2007
+    37 USC Sec. 554                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -27722,7 +27722,7 @@
 
 
 -CITE-
-    37 USC Sec. 555                                             01/03/2007
+    37 USC Sec. 555                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -27857,7 +27857,7 @@
 
 
 -CITE-
-    37 USC Sec. 556                                             01/03/2007
+    37 USC Sec. 556                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28082,7 +28082,7 @@
 
 
 -CITE-
-    37 USC Sec. 557                                             01/03/2007
+    37 USC Sec. 557                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28173,7 +28173,7 @@
 
 
 -CITE-
-    37 USC Sec. 558                                             01/03/2007
+    37 USC Sec. 558                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28268,7 +28268,7 @@
 
 
 -CITE-
-    37 USC Sec. 559                                             01/03/2007
+    37 USC Sec. 559                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28519,7 +28519,7 @@
 
 -CITE-
     37 USC CHAPTER 11 - PAYMENTS TO MENTALLY INCOMPETENT
-           PERSONS                                         01/03/2007
+           PERSONS                                         01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28546,7 +28546,7 @@
 
 
 -CITE-
-    37 USC Sec. 601                                             01/03/2007
+    37 USC Sec. 601                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28599,7 +28599,7 @@
 
 
 -CITE-
-    37 USC Sec. 602                                             01/03/2007
+    37 USC Sec. 602                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28725,7 +28725,7 @@
 
 
 -CITE-
-    37 USC Sec. 603                                             01/03/2007
+    37 USC Sec. 603                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28770,7 +28770,7 @@
 
 
 -CITE-
-    37 USC Sec. 604                                             01/03/2007
+    37 USC Sec. 604                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28815,7 +28815,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 13 - ALLOTMENTS AND ASSIGNMENTS OF PAY       01/03/2007
+    37 USC CHAPTER 13 - ALLOTMENTS AND ASSIGNMENTS OF PAY       01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28861,7 +28861,7 @@
 
 
 -CITE-
-    37 USC Sec. 701                                             01/03/2007
+    37 USC Sec. 701                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28989,7 +28989,7 @@
 
 
 -CITE-
-    37 USC Sec. 702                                             01/03/2007
+    37 USC Sec. 702                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29011,7 +29011,7 @@
 
 
 -CITE-
-    37 USC Sec. 703                                             01/03/2007
+    37 USC Sec. 703                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29070,7 +29070,7 @@
 
 
 -CITE-
-    37 USC Sec. 704                                             01/03/2007
+    37 USC Sec. 704                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29133,7 +29133,7 @@
 
 
 -CITE-
-    37 USC Sec. 705                                             01/03/2007
+    37 USC Sec. 705                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29154,7 +29154,7 @@
 
 
 -CITE-
-    37 USC Sec. 706                                             01/03/2007
+    37 USC Sec. 706                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29215,7 +29215,7 @@
 
 
 -CITE-
-    37 USC Sec. 707                                             01/03/2007
+    37 USC Sec. 707                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29295,7 +29295,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 15 - PROHIBITIONS AND PENALTIES              01/03/2007
+    37 USC CHAPTER 15 - PROHIBITIONS AND PENALTIES              01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29333,7 +29333,7 @@
 
 
 -CITE-
-    37 USC Sec. 801                                             01/03/2007
+    37 USC Sec. 801                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29365,7 +29365,7 @@
 
 
 -CITE-
-    37 USC Sec. 802                                             01/03/2007
+    37 USC Sec. 802                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29414,7 +29414,7 @@
 
 
 -CITE-
-    37 USC Sec. 803                                             01/03/2007
+    37 USC Sec. 803                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29453,7 +29453,7 @@
 
 
 -CITE-
-    37 USC Sec. 804                                             01/03/2007
+    37 USC Sec. 804                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29475,7 +29475,7 @@
 
 
 -CITE-
-    37 USC Sec. 805                                             01/03/2007
+    37 USC Sec. 805                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29495,7 +29495,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 17 - MISCELLANEOUS RIGHTS AND BENEFITS       01/03/2007
+    37 USC CHAPTER 17 - MISCELLANEOUS RIGHTS AND BENEFITS       01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29555,7 +29555,7 @@
 
 
 -CITE-
-    37 USC Sec. 901                                             01/03/2007
+    37 USC Sec. 901                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29603,7 +29603,7 @@
 
 
 -CITE-
-    37 USC Sec. 902                                             01/03/2007
+    37 USC Sec. 902                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29676,7 +29676,7 @@
 
 
 -CITE-
-    37 USC Sec. 903                                             01/03/2007
+    37 USC Sec. 903                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29725,7 +29725,7 @@
 
 
 -CITE-
-    37 USC Sec. 904                                             01/03/2007
+    37 USC Sec. 904                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29756,7 +29756,7 @@
 
 
 -CITE-
-    37 USC Sec. 905                                             01/03/2007
+    37 USC Sec. 905                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29863,7 +29863,7 @@
 
 
 -CITE-
-    37 USC Sec. 906                                             01/03/2007
+    37 USC Sec. 906                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29933,7 +29933,7 @@
 
 
 -CITE-
-    37 USC Sec. 907                                             01/03/2007
+    37 USC Sec. 907                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -30085,7 +30085,7 @@
 
 
 -CITE-
-    37 USC Sec. 908                                             01/03/2007
+    37 USC Sec. 908                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -30156,7 +30156,7 @@
 
 
 -CITE-
-    37 USC Sec. 909                                             01/03/2007
+    37 USC Sec. 909                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -30208,7 +30208,7 @@
 
 
 -CITE-
-    37 USC Sec. 910                                             01/03/2007
+    37 USC Sec. 910                                             01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -30289,7 +30289,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 19 - ADMINISTRATION                          01/03/2007
+    37 USC CHAPTER 19 - ADMINISTRATION                          01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -30366,7 +30366,7 @@
 
 
 -CITE-
-    37 USC Sec. 1001                                            01/03/2007
+    37 USC Sec. 1001                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -30480,7 +30480,7 @@
 
 
 -CITE-
-    37 USC Sec. 1002                                            01/03/2007
+    37 USC Sec. 1002                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -30585,7 +30585,7 @@
 
 
 -CITE-
-    37 USC Sec. 1003                                            01/03/2007
+    37 USC Sec. 1003                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -30627,7 +30627,7 @@
 
 
 -CITE-
-    37 USC Sec. 1004                                            01/03/2007
+    37 USC Sec. 1004                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -30667,7 +30667,7 @@
 
 
 -CITE-
-    37 USC Sec. 1005                                            01/03/2007
+    37 USC Sec. 1005                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -30705,7 +30705,7 @@
 
 
 -CITE-
-    37 USC Sec. 1006                                            01/03/2007
+    37 USC Sec. 1006                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -31016,7 +31016,7 @@
 
 
 -CITE-
-    37 USC Sec. 1007                                            01/03/2007
+    37 USC Sec. 1007                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -31317,7 +31317,7 @@
 
 
 -CITE-
-    37 USC Sec. 1008                                            01/03/2007
+    37 USC Sec. 1008                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -31383,7 +31383,7 @@
 
 
 -CITE-
-    37 USC Sec. 1009                                            01/03/2007
+    37 USC Sec. 1009                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -31623,7 +31623,8 @@
             -----------------------------------------------------------
                  Over 18     Over 20     Over 22     Over 24    Over 26
             -----------------------------------------------------------
-    O-10(!2)       $0.00  $13,659.00  $13,725.90  $14,011.20 $14,508.60
+    O-10(!2)       $0.00  $13,659.00  $13,725.90  $14,011.20      $14,5
+                                                                  08.60
     O-9             0.00   11,946.60   12,118.50   12,367.20  12,801.30
     O-8        10,900.80   11,319.00   11,598.30   11,598.30  11,598.30
     O-7        10,236.00   10,236.00   10,236.00   10,236.00  10,287.90
@@ -31636,7 +31637,8 @@
             -----------------------------------------------------------
                  Over 28     Over 30     Over 32     Over 34    Over 36
             -----------------------------------------------------------
-    O-10(!2)  $14,508.60  $15,234.00  $15,234.00  $15,995.70 $15,995.70
+    O-10(!2)  $14,508.60  $15,234.00  $15,234.00  $15,995.70      $15,9
+                                                                  95.70
     O-9        12,801.30   13,441.50   13,441.50   14,113.50  14,113.50
     O-8        11,598.30   11,888.40   11,888.40   12,185.70  12,185.70
     O-7        10,287.90   10,493.70   10,493.70   10,493.70  10,493.70
@@ -31944,7 +31946,7 @@
 
 
 -CITE-
-    37 USC Sec. 1010                                            01/03/2007
+    37 USC Sec. 1010                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -31982,7 +31984,7 @@
 
 
 -CITE-
-    37 USC Sec. 1011                                            01/03/2007
+    37 USC Sec. 1011                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32075,7 +32077,7 @@
 
 
 -CITE-
-    37 USC Sec. 1012                                            01/03/2007
+    37 USC Sec. 1012                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32151,7 +32153,7 @@
 
 
 -CITE-
-    37 USC Sec. 1013                                            01/03/2007
+    37 USC Sec. 1013                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32188,7 +32190,7 @@
 
 
 -CITE-
-    37 USC Sec. 1014                                            01/03/2007
+    37 USC Sec. 1014                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32246,7 +32248,7 @@
 
 
 -CITE-
-    37 USC Sec. 1015                                            01/03/2007
+    37 USC Sec. 1015                                            01/08/2008
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES

@@ -1,5 +1,5 @@
 -CITE-
-    35 USC TITLE 35 - PATENTS                                   01/03/2007
+    35 USC TITLE 35 - PATENTS                                   01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -191,7 +191,7 @@
 
 
 -CITE-
-    35 USC PART I - UNITED STATES PATENT AND TRADEMARK OFFICE    01/03/2007 
+    35 USC PART I - UNITED STATES PATENT AND TRADEMARK OFFICE    01/08/2008 
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -230,7 +230,7 @@
 
 -CITE-
     35 USC CHAPTER 1 - ESTABLISHMENT, OFFICERS AND EMPLOYEES,
-           FUNCTIONS                                       01/03/2007
+           FUNCTIONS                                       01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -294,7 +294,7 @@
 
 
 -CITE-
-    35 USC Sec. 1                                               01/03/2007
+    35 USC Sec. 1                                               01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -678,7 +678,7 @@
 
 
 -CITE-
-    35 USC Sec. 2                                               01/03/2007
+    35 USC Sec. 2                                               01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -917,7 +917,7 @@
 
 
 -CITE-
-    35 USC Sec. 3                                               01/03/2007
+    35 USC Sec. 3                                               01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -1314,7 +1314,7 @@
 
 
 -CITE-
-    35 USC Sec. 4                                               01/03/2007
+    35 USC Sec. 4                                               01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -1367,7 +1367,7 @@
 
 
 -CITE-
-    35 USC Sec. 5                                               01/03/2007
+    35 USC Sec. 5                                               01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -1516,7 +1516,7 @@
 
 
 -CITE-
-    35 USC Sec. 6                                               01/03/2007
+    35 USC Sec. 6                                               01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -1579,7 +1579,7 @@
 
 
 -CITE-
-    35 USC Sec. 7                                               01/03/2007
+    35 USC Sec. 7                                               01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -1652,7 +1652,7 @@
 
 
 -CITE-
-    35 USC Sec. 8                                               01/03/2007
+    35 USC Sec. 8                                               01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -1707,7 +1707,7 @@
 
 
 -CITE-
-    35 USC Sec. 9                                               01/03/2007
+    35 USC Sec. 9                                               01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -1769,7 +1769,7 @@
 
 
 -CITE-
-    35 USC Sec. 10                                              01/03/2007
+    35 USC Sec. 10                                              01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -1907,7 +1907,7 @@
 
 
 -CITE-
-    35 USC Sec. 11                                              01/03/2007
+    35 USC Sec. 11                                              01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -1994,7 +1994,7 @@
 
 
 -CITE-
-    35 USC Sec. 12                                              01/03/2007
+    35 USC Sec. 12                                              01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2087,7 +2087,7 @@
 
 
 -CITE-
-    35 USC Sec. 13                                              01/03/2007
+    35 USC Sec. 13                                              01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2180,7 +2180,7 @@
 
 
 -CITE-
-    35 USC Sec. 14                                              01/03/2007
+    35 USC Sec. 14                                              01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2197,7 +2197,7 @@
 
 -CITE-
     35 USC CHAPTER 2 - PROCEEDINGS IN THE PATENT AND
-           TRADEMARK OFFICE                                01/03/2007
+           TRADEMARK OFFICE                                01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2232,7 +2232,7 @@
 
 
 -CITE-
-    35 USC Sec. 21                                              01/03/2007
+    35 USC Sec. 21                                              01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2312,7 +2312,7 @@
 
 
 -CITE-
-    35 USC Sec. 22                                              01/03/2007
+    35 USC Sec. 22                                              01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2369,7 +2369,7 @@
 
 
 -CITE-
-    35 USC Sec. 23                                              01/03/2007
+    35 USC Sec. 23                                              01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2424,7 +2424,7 @@
 
 
 -CITE-
-    35 USC Sec. 24                                              01/03/2007
+    35 USC Sec. 24                                              01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2499,7 +2499,7 @@
 
 
 -CITE-
-    35 USC Sec. 25                                              01/03/2007
+    35 USC Sec. 25                                              01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2553,7 +2553,7 @@
 
 
 -CITE-
-    35 USC Sec. 26                                              01/03/2007
+    35 USC Sec. 26                                              01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2603,7 +2603,7 @@
 
 -CITE-
     35 USC CHAPTER 3 - PRACTICE BEFORE PATENT AND TRADEMARK
-           OFFICE                                          01/03/2007
+           OFFICE                                          01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2632,7 +2632,7 @@
 
 
 -CITE-
-    35 USC Sec. 31                                              01/03/2007
+    35 USC Sec. 31                                              01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2660,7 +2660,7 @@
 
 
 -CITE-
-    35 USC Sec. 32                                              01/03/2007
+    35 USC Sec. 32                                              01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2736,7 +2736,7 @@
 
 
 -CITE-
-    35 USC Sec. 33                                              01/03/2007
+    35 USC Sec. 33                                              01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2778,7 +2778,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 4 - PATENT FEES; FUNDING; SEARCH SYSTEMS     01/03/2007
+    35 USC CHAPTER 4 - PATENT FEES; FUNDING; SEARCH SYSTEMS     01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2806,7 +2806,7 @@
 
 
 -CITE-
-    35 USC Sec. 41                                              01/03/2007
+    35 USC Sec. 41                                              01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -3549,14 +3549,16 @@
     section 1113 of Title 31, Money and Finance, and page 55 of House
     Document No. 103-7.
 
-          PATENT AND TRADEMARK FEES IN FISCAL YEARS 2005 AND 2006      
+       PATENT AND TRADEMARK FEES IN CERTAIN FISCAL YEARS AFTER 2005   
       Pub. L. 108-447, div. B, title VIII, Dec. 8, 2004, 118 Stat.
-    2924, provided that:
+    2924, as amended by Pub. L. 109-289, div. B, title II, Sec. 20933,
+    as added by Pub. L. 110-5, Sec. 2, Feb. 15, 2007, 121 Stat. 45,
+    provided that:
 
       "SEC. 801. FEES FOR PATENT SERVICES.
-      "(a) General Patent Fees. - During fiscal years 2005 and 2006,
-    subsection (a) of section 41 of title 35, United States Code, shall
-    be administered as though that subsection reads as follows:
+      "(a) General Patent Fees. - During fiscal years 2005, 2006, and
+    2007, subsection (a) of section 41 of title 35, United States Code,
+    shall be administered as though that subsection reads as follows:
       " '(a) General Fees. - The Director shall charge the following
     fees:
         " '(1) Filing and basic national fees. - 
@@ -3647,9 +3649,10 @@
           " '(A) on filing a first petition, $120;
           " '(B) on filing a second petition, $330; and
           " '(C) on filing a third or subsequent petition, $570.'
-      "(b) Patent Maintenance Fees. - During fiscal years 2005 and
-    2006, subsection (b) of section 41 of title 35, United States Code,
-    shall be administered as though that subsection reads as follows:
+      "(b) Patent Maintenance Fees. - During fiscal years 2005, 2006,
+    and 2007, subsection (b) of section 41 of title 35, United States
+    Code, shall be administered as though that subsection reads as
+    follows:
       " '(b) Maintenance Fees. - The Director shall charge the
     following fees for maintaining in force all patents based on
     applications filed on or after December 12, 1980:
@@ -3664,9 +3667,9 @@
     within such 6-month grace period the payment of an applicable
     maintenance fee. No fee may be established for maintaining a design
     or plant patent in force.'
-      "(c) Patent Search Fees. - During fiscal years 2005 and 2006,
-    subsection (d) of section 41 of title 35, United States Code, shall
-    be administered as though that subsection reads as follows:
+      "(c) Patent Search Fees. - During fiscal years 2005, 2006, and
+    2007, subsection (d) of section 41 of title 35, United States Code,
+    shall be administered as though that subsection reads as follows:
       " '(d) Patent Search and Other Fees. - 
         " '(1) Patent search fees. - 
           " '(A) The Director shall charge a fee for the search of each
@@ -3791,12 +3794,12 @@
       The yearly fee for providing a library specified in section 12 of
       this title with uncertified printed copies of the specifications
       and drawings for all patents in that year shall be $50.'
-      "(d) Adjustments. - During fiscal years 2005 and 2006, subsection
-    (f) of section 41 of title 35, United States Code, shall apply to
-    the fees established under this section.
-      "(e) Fees For Small Entities. - During fiscal years 2005 and
-    2006, subsection (h) of section 41 of title 35, United States Code,
-    shall be administered as though that subsection is amended - 
+      "(d) Adjustments. - During fiscal years 2005, 2006, and 2007,
+    subsection (f) of section 41 of title 35, United States Code, shall
+    apply to the fees established under this section.
+      "(e) Fees For Small Entities. - During fiscal years 2005, 2006,
+    and 2007, subsection (h) of section 41 of title 35, United States
+    Code, shall be administered as though that subsection is amended - 
         "(1) in paragraph (1), by striking 'Fees charged under
       subsection (a) or (b)' and inserting 'Subject to paragraph (3),
       fees charged under subsections (a), (b), and (d)(1)'; and
@@ -3807,15 +3810,15 @@
       filed by electronic means as prescribed by the Director.'
 
       "SEC. 802. ADJUSTMENT OF TRADEMARK FEES.
-      "(a) Fee For Filing Application. - During fiscal years 2005 and
-    2006, under such conditions as may be prescribed by the Director,
-    the fee under section 31(a) of the Trademark Act of 1946 (15 U.S.C.
-    1113(a)) for: (1) the filing of a paper application for the
-    registration of a trademark shall be $375; (2) the filing of an
+      "(a) Fee For Filing Application. - During fiscal years 2005,
+    2006, and 2007, under such conditions as may be prescribed by the
+    Director, the fee under section 31(a) of the Trademark Act of 1946
+    (15 U.S.C. 1113(a)) for: (1) the filing of a paper application for
+    the registration of a trademark shall be $375; (2) the filing of an
     electronic application shall be $325; and (3) the filing of an
     electronic application meeting certain additional requirements
-    prescribed by the Director shall be $275. During fiscal years 2005
-    and 2006, the provisions of the second and third sentences of
+    prescribed by the Director shall be $275. During fiscal years 2005,
+    2006, and 2007, the provisions of the second and third sentences of
     section 31(a) of the Trademark Act of 1946 shall apply to the fees
     established under this section.
       "(b) Reference to Trademark Act of 1946. - For purposes of this
@@ -3868,8 +3871,8 @@
       on or after the effective date set forth in subsection (a) of
       this section.
       "(c) Transitional Provisions. - 
-        "(1) Search fees. - During fiscal years 2005 and 2006, the
-      Director shall charge - 
+        "(1) Search fees. - During fiscal years 2005, 2006, and 2007,
+      the Director shall charge - 
           "(A) for the search of each application for an original
         patent, except for design, plant, provisional, or international
         application, $500;
@@ -3895,6 +3898,10 @@
       "In this title, the term 'Director' means the Under Secretary of
     Commerce for Intellectual Property and Director of the United
     States Patent and Trademark Office."
+      [Pub. L. 110-161, div. B, title I, Dec. 26, 2007, 121 Stat. 1888,
+    provided in part: "That sections 801, 802, and 803 of division B,
+    Public Law 108-447 [set out above] shall remain in effect during
+    fiscal year 2008".]
 
                     STUDY ON ALTERNATIVE FEE STRUCTURES                
       Pub. L. 106-113, div. B, Sec. 1000(a)(9) [title IV, Sec. 4204],
@@ -4044,7 +4051,7 @@
 
 
 -CITE-
-    35 USC Sec. 42                                              01/03/2007
+    35 USC Sec. 42                                              01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -4238,7 +4245,7 @@
 
 -CITE-
     35 USC PART II - PATENTABILITY OF INVENTIONS AND GRANT OF
-           PATENTS                                         01/03/2007
+           PATENTS                                         01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -4279,7 +4286,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 10 - PATENTABILITY OF INVENTIONS             01/03/2007
+    35 USC CHAPTER 10 - PATENTABILITY OF INVENTIONS             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -4309,7 +4316,7 @@
 
 
 -CITE-
-    35 USC Sec. 100                                             01/03/2007
+    35 USC Sec. 100                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -4365,7 +4372,7 @@
 
 
 -CITE-
-    35 USC Sec. 101                                             01/03/2007
+    35 USC Sec. 101                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -4417,7 +4424,7 @@
 
 
 -CITE-
-    35 USC Sec. 102                                             01/03/2007
+    35 USC Sec. 102                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -4626,7 +4633,7 @@
 
 
 -CITE-
-    35 USC Sec. 103                                             01/03/2007
+    35 USC Sec. 103                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -4836,7 +4843,7 @@
 
 
 -CITE-
-    35 USC Sec. 104                                             01/03/2007
+    35 USC Sec. 104                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -4999,7 +5006,7 @@
 
 
 -CITE-
-    35 USC Sec. 105                                             01/03/2007
+    35 USC Sec. 105                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5063,7 +5070,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 11 - APPLICATION FOR PATENT                  01/03/2007
+    35 USC CHAPTER 11 - APPLICATION FOR PATENT                  01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5108,7 +5115,7 @@
 
 
 -CITE-
-    35 USC Sec. 111                                             01/03/2007
+    35 USC Sec. 111                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5300,7 +5307,7 @@
 
 
 -CITE-
-    35 USC Sec. 112                                             01/03/2007
+    35 USC Sec. 112                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5404,7 +5411,7 @@
 
 
 -CITE-
-    35 USC Sec. 113                                             01/03/2007
+    35 USC Sec. 113                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5472,7 +5479,7 @@
 
 
 -CITE-
-    35 USC Sec. 114                                             01/03/2007
+    35 USC Sec. 114                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5520,7 +5527,7 @@
 
 
 -CITE-
-    35 USC Sec. 115                                             01/03/2007
+    35 USC Sec. 115                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5591,7 +5598,7 @@
 
 
 -CITE-
-    35 USC Sec. 116                                             01/03/2007
+    35 USC Sec. 116                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5681,7 +5688,7 @@
 
 
 -CITE-
-    35 USC Sec. 117                                             01/03/2007
+    35 USC Sec. 117                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5714,7 +5721,7 @@
 
 
 -CITE-
-    35 USC Sec. 118                                             01/03/2007
+    35 USC Sec. 118                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5766,7 +5773,7 @@
 
 
 -CITE-
-    35 USC Sec. 119                                             01/03/2007
+    35 USC Sec. 119                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6043,7 +6050,7 @@
 
 
 -CITE-
-    35 USC Sec. 120                                             01/03/2007
+    35 USC Sec. 120                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6132,7 +6139,7 @@
 
 
 -CITE-
-    35 USC Sec. 121                                             01/03/2007
+    35 USC Sec. 121                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6204,7 +6211,7 @@
 
 
 -CITE-
-    35 USC Sec. 122                                             01/03/2007
+    35 USC Sec. 122                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6378,7 +6385,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 12 - EXAMINATION OF APPLICATION              01/03/2007
+    35 USC CHAPTER 12 - EXAMINATION OF APPLICATION              01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6407,7 +6414,7 @@
 
 
 -CITE-
-    35 USC Sec. 131                                             01/03/2007
+    35 USC Sec. 131                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6454,7 +6461,7 @@
 
 
 -CITE-
-    35 USC Sec. 132                                             01/03/2007
+    35 USC Sec. 132                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6534,7 +6541,7 @@
 
 
 -CITE-
-    35 USC Sec. 133                                             01/03/2007
+    35 USC Sec. 133                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6588,7 +6595,7 @@
 
 
 -CITE-
-    35 USC Sec. 134                                             01/03/2007
+    35 USC Sec. 134                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6678,7 +6685,7 @@
 
 
 -CITE-
-    35 USC Sec. 135                                             01/03/2007
+    35 USC Sec. 135                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6858,7 +6865,7 @@
 
 -CITE-
     35 USC CHAPTER 13 - REVIEW OF PATENT AND TRADEMARK OFFICE
-           DECISIONS                                       01/03/2007
+           DECISIONS                                       01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6890,7 +6897,7 @@
 
 
 -CITE-
-    35 USC Sec. 141                                             01/03/2007
+    35 USC Sec. 141                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7021,7 +7028,7 @@
 
 
 -CITE-
-    35 USC Sec. 142                                             01/03/2007
+    35 USC Sec. 142                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7105,7 +7112,7 @@
 
 
 -CITE-
-    35 USC Sec. 143                                             01/03/2007
+    35 USC Sec. 143                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7129,7 +7136,8 @@
     and place of the hearing to the Director and the parties in the
     appeal. The court shall, before hearing an appeal, give notice of
     the time and place of the hearing to the Director and the parties
-    in the appeal.
+    in the appeal.(!1)
+
 
 -SOURCE-
     (July 19, 1952, ch. 950, 66 Stat. 802; Pub. L. 93-596, Sec. 1, Jan.
@@ -7157,11 +7165,12 @@
     1000(a)(9) [title IV, Sec. 4732(a)(10)(A)]. See 1999 Amendment note
     below.
       Pub. L. 107-273, Sec. 13202(b)(2), amended third sentence
-    generally and added fourth sentence. Prior to amendment, third
-    sentence read as follows: "In any reexamination case, the Director
-    shall submit to the court in writing the grounds for the decision
-    of the Patent and Trademark Office, addressing all the issues
-    involved in the appeal."
+    generally and added fourth sentence identical to existing fourth
+    (now fifth) sentence. Prior to amendment, third sentence read as
+    follows: "In any reexamination case, the Director shall submit to
+    the court in writing the grounds for the decision of the Patent and
+    Trademark Office, addressing all the issues involved in the
+    appeal."
       1999 - Pub. L. 106-113, Sec. 1000(a)(9) [title IV, Sec.
     4732(a)(10)(A)], as amended by Pub. L. 107-273, Sec.
     13206(b)(1)(B), substituted "Director" for "Commissioner" the
@@ -7216,12 +7225,17 @@
     of Pub. L. 93-596, set out as a note under section 1111 of Title
     15, Commerce and Trade.
 
+-FOOTNOTE-               
+
+    (!1) So in original. Fourth and fifth sentences are identical.
+
+
 -End-
 
 
 
 -CITE-
-    35 USC Sec. 144                                             01/03/2007
+    35 USC Sec. 144                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7303,7 +7317,7 @@
 
 
 -CITE-
-    35 USC Sec. 145                                             01/03/2007
+    35 USC Sec. 145                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7400,7 +7414,7 @@
 
 
 -CITE-
-    35 USC Sec. 146                                             01/03/2007
+    35 USC Sec. 146                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7512,7 +7526,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 14 - ISSUE OF PATENT                         01/03/2007
+    35 USC CHAPTER 14 - ISSUE OF PATENT                         01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7554,7 +7568,7 @@
 
 
 -CITE-
-    35 USC Sec. 151                                             01/03/2007
+    35 USC Sec. 151                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7684,7 +7698,7 @@
 
 
 -CITE-
-    35 USC Sec. 152                                             01/03/2007
+    35 USC Sec. 152                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7725,7 +7739,7 @@
 
 
 -CITE-
-    35 USC Sec. 153                                             01/03/2007
+    35 USC Sec. 153                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7785,7 +7799,7 @@
 
 
 -CITE-
-    35 USC Sec. 154                                             01/03/2007
+    35 USC Sec. 154                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -8184,7 +8198,7 @@
 
 
 -CITE-
-    35 USC Sec. 155                                             01/03/2007
+    35 USC Sec. 155                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -8267,7 +8281,7 @@
 
 
 -CITE-
-    35 USC Sec. 155A                                            01/03/2007
+    35 USC Sec. 155A                                            01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -8353,7 +8367,7 @@
 
 
 -CITE-
-    35 USC Sec. 156                                             01/03/2007
+    35 USC Sec. 156                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9091,7 +9105,7 @@
 
 
 -CITE-
-    35 USC Sec. 157                                             01/03/2007
+    35 USC Sec. 157                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9184,7 +9198,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 15 - PLANT PATENTS                           01/03/2007
+    35 USC CHAPTER 15 - PLANT PATENTS                           01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9206,7 +9220,7 @@
 
 
 -CITE-
-    35 USC Sec. 161                                             01/03/2007
+    35 USC Sec. 161                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9250,7 +9264,7 @@
 
 
 -CITE-
-    35 USC Sec. 162                                             01/03/2007
+    35 USC Sec. 162                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9285,7 +9299,7 @@
 
 
 -CITE-
-    35 USC Sec. 163                                             01/03/2007
+    35 USC Sec. 163                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9378,7 +9392,7 @@
 
 
 -CITE-
-    35 USC Sec. 164                                             01/03/2007
+    35 USC Sec. 164                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9436,7 +9450,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 16 - DESIGNS                                 01/03/2007
+    35 USC CHAPTER 16 - DESIGNS                                 01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9457,7 +9471,7 @@
 
 
 -CITE-
-    35 USC Sec. 171                                             01/03/2007
+    35 USC Sec. 171                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9493,7 +9507,7 @@
 
 
 -CITE-
-    35 USC Sec. 172                                             01/03/2007
+    35 USC Sec. 172                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9542,7 +9556,7 @@
 
 
 -CITE-
-    35 USC Sec. 173                                             01/03/2007
+    35 USC Sec. 173                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9593,7 +9607,7 @@
 
 -CITE-
     35 USC CHAPTER 17 - SECRECY OF CERTAIN INVENTIONS AND
-           FILING APPLICATIONS IN FOREIGN COUNTRY          01/03/2007
+           FILING APPLICATIONS IN FOREIGN COUNTRY          01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9627,7 +9641,7 @@
 
 
 -CITE-
-    35 USC Sec. 181                                             01/03/2007
+    35 USC Sec. 181                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9760,7 +9774,7 @@
 
 
 -CITE-
-    35 USC Sec. 182                                             01/03/2007
+    35 USC Sec. 182                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9815,7 +9829,7 @@
 
 
 -CITE-
-    35 USC Sec. 183                                             01/03/2007
+    35 USC Sec. 183                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9903,7 +9917,7 @@
 
 
 -CITE-
-    35 USC Sec. 184                                             01/03/2007
+    35 USC Sec. 184                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10039,7 +10053,7 @@
 
 
 -CITE-
-    35 USC Sec. 185                                             01/03/2007
+    35 USC Sec. 185                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10099,7 +10113,7 @@
 
 
 -CITE-
-    35 USC Sec. 186                                             01/03/2007
+    35 USC Sec. 186                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10156,7 +10170,7 @@
 
 
 -CITE-
-    35 USC Sec. 187                                             01/03/2007
+    35 USC Sec. 187                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10188,7 +10202,7 @@
 
 
 -CITE-
-    35 USC Sec. 188                                             01/03/2007
+    35 USC Sec. 188                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10238,7 +10252,7 @@
 
 -CITE-
     35 USC CHAPTER 18 - PATENT RIGHTS IN INVENTIONS MADE WITH
-           FEDERAL ASSISTANCE                              01/03/2007
+           FEDERAL ASSISTANCE                              01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10285,7 +10299,7 @@
 
 
 -CITE-
-    35 USC Sec. 200                                             01/03/2007
+    35 USC Sec. 200                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10335,7 +10349,7 @@
 
 
 -CITE-
-    35 USC Sec. 201                                             01/03/2007
+    35 USC Sec. 201                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10443,7 +10457,7 @@
 
 
 -CITE-
-    35 USC Sec. 202                                             01/03/2007
+    35 USC Sec. 202                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10803,7 +10817,7 @@
 
 
 -CITE-
-    35 USC Sec. 203                                             01/03/2007
+    35 USC Sec. 203                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10899,7 +10913,7 @@
 
 
 -CITE-
-    35 USC Sec. 204                                             01/03/2007
+    35 USC Sec. 204                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10936,7 +10950,7 @@
 
 
 -CITE-
-    35 USC Sec. 205                                             01/03/2007
+    35 USC Sec. 205                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10965,7 +10979,7 @@
 
 
 -CITE-
-    35 USC Sec. 206                                             01/03/2007
+    35 USC Sec. 206                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11006,7 +11020,7 @@
 
 
 -CITE-
-    35 USC Sec. 207                                             01/03/2007
+    35 USC Sec. 207                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11382,7 +11396,7 @@
 
 
 -CITE-
-    35 USC Sec. 208                                             01/03/2007
+    35 USC Sec. 208                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11416,7 +11430,7 @@
 
 
 -CITE-
-    35 USC Sec. 209                                             01/03/2007
+    35 USC Sec. 209                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11545,7 +11559,7 @@
 
 
 -CITE-
-    35 USC Sec. 210                                             01/03/2007
+    35 USC Sec. 210                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11751,7 +11765,7 @@
 
 
 -CITE-
-    35 USC Sec. 211                                             01/03/2007
+    35 USC Sec. 211                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11775,7 +11789,7 @@
 
 
 -CITE-
-    35 USC Sec. 212                                             01/03/2007
+    35 USC Sec. 212                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11800,7 +11814,7 @@
 
 
 -CITE-
-    35 USC PART III - PATENTS AND PROTECTION OF PATENT RIGHTS    01/03/2007 
+    35 USC PART III - PATENTS AND PROTECTION OF PATENT RIGHTS    01/08/2008 
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11842,7 +11856,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 25 - AMENDMENT AND CORRECTION OF PATENTS     01/03/2007
+    35 USC CHAPTER 25 - AMENDMENT AND CORRECTION OF PATENTS     01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11875,7 +11889,7 @@
 
 
 -CITE-
-    35 USC Sec. 251                                             01/03/2007
+    35 USC Sec. 251                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11948,7 +11962,7 @@
 
 
 -CITE-
-    35 USC Sec. 252                                             01/03/2007
+    35 USC Sec. 252                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12055,7 +12069,7 @@
 
 
 -CITE-
-    35 USC Sec. 253                                             01/03/2007
+    35 USC Sec. 253                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12111,7 +12125,7 @@
 
 
 -CITE-
-    35 USC Sec. 254                                             01/03/2007
+    35 USC Sec. 254                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12178,7 +12192,7 @@
 
 
 -CITE-
-    35 USC Sec. 255                                             01/03/2007
+    35 USC Sec. 255                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12238,7 +12252,7 @@
 
 
 -CITE-
-    35 USC Sec. 256                                             01/03/2007
+    35 USC Sec. 256                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12326,7 +12340,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 26 - OWNERSHIP AND ASSIGNMENT                01/03/2007
+    35 USC CHAPTER 26 - OWNERSHIP AND ASSIGNMENT                01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12346,7 +12360,7 @@
 
 
 -CITE-
-    35 USC Sec. 261                                             01/03/2007
+    35 USC Sec. 261                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12424,7 +12438,7 @@
 
 
 -CITE-
-    35 USC Sec. 262                                             01/03/2007
+    35 USC Sec. 262                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12468,7 +12482,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 27 - GOVERNMENT INTERESTS IN PATENTS         01/03/2007
+    35 USC CHAPTER 27 - GOVERNMENT INTERESTS IN PATENTS         01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12493,7 +12507,7 @@
 
 
 -CITE-
-    35 USC Sec. 266                                             01/03/2007
+    35 USC Sec. 266                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12520,7 +12534,7 @@
 
 
 -CITE-
-    35 USC Sec. 267                                             01/03/2007
+    35 USC Sec. 267                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12572,7 +12586,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 28 - INFRINGEMENT OF PATENTS                 01/03/2007
+    35 USC CHAPTER 28 - INFRINGEMENT OF PATENTS                 01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12597,7 +12611,7 @@
 
 
 -CITE-
-    35 USC Sec. 271                                             01/03/2007
+    35 USC Sec. 271                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12917,7 +12931,7 @@
 
 
 -CITE-
-    35 USC Sec. 272                                             01/03/2007
+    35 USC Sec. 272                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12967,7 +12981,7 @@
 
 
 -CITE-
-    35 USC Sec. 273                                             01/03/2007
+    35 USC Sec. 273                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13102,7 +13116,7 @@
 
 -CITE-
     35 USC CHAPTER 29 - REMEDIES FOR INFRINGEMENT OF PATENT,
-           AND OTHER ACTIONS                               01/03/2007
+           AND OTHER ACTIONS                               01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13155,7 +13169,7 @@
 
 
 -CITE-
-    35 USC Sec. 281                                             01/03/2007
+    35 USC Sec. 281                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13191,7 +13205,7 @@
 
 
 -CITE-
-    35 USC Sec. 282                                             01/03/2007
+    35 USC Sec. 282                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13358,7 +13372,7 @@
 
 
 -CITE-
-    35 USC Sec. 283                                             01/03/2007
+    35 USC Sec. 283                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13392,7 +13406,7 @@
 
 
 -CITE-
-    35 USC Sec. 284                                             01/03/2007
+    35 USC Sec. 284                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13449,7 +13463,7 @@
 
 
 -CITE-
-    35 USC Sec. 285                                             01/03/2007
+    35 USC Sec. 285                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13483,7 +13497,7 @@
 
 
 -CITE-
-    35 USC Sec. 286                                             01/03/2007
+    35 USC Sec. 286                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13528,7 +13542,7 @@
 
 
 -CITE-
-    35 USC Sec. 287                                             01/03/2007
+    35 USC Sec. 287                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13847,7 +13861,7 @@
 
 
 -CITE-
-    35 USC Sec. 288                                             01/03/2007
+    35 USC Sec. 288                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13892,7 +13906,7 @@
 
 
 -CITE-
-    35 USC Sec. 289                                             01/03/2007
+    35 USC Sec. 289                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13931,7 +13945,7 @@
 
 
 -CITE-
-    35 USC Sec. 290                                             01/03/2007
+    35 USC Sec. 290                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13985,7 +13999,7 @@
 
 
 -CITE-
-    35 USC Sec. 291                                             01/03/2007
+    35 USC Sec. 291                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14018,7 +14032,7 @@
 
 
 -CITE-
-    35 USC Sec. 292                                             01/03/2007
+    35 USC Sec. 292                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14090,7 +14104,7 @@
 
 
 -CITE-
-    35 USC Sec. 293                                             01/03/2007
+    35 USC Sec. 293                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14137,7 +14151,7 @@
 
 
 -CITE-
-    35 USC Sec. 294                                             01/03/2007
+    35 USC Sec. 294                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14227,7 +14241,7 @@
 
 
 -CITE-
-    35 USC Sec. 295                                             01/03/2007
+    35 USC Sec. 295                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14283,7 +14297,7 @@
 
 
 -CITE-
-    35 USC Sec. 296                                             01/03/2007
+    35 USC Sec. 296                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14329,7 +14343,7 @@
 
 
 -CITE-
-    35 USC Sec. 297                                             01/03/2007
+    35 USC Sec. 297                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14463,7 +14477,7 @@
 
 -CITE-
     35 USC CHAPTER 30 - PRIOR ART CITATIONS TO OFFICE AND EX
-           PARTE REEXAMINATION OF PATENTS                  01/03/2007
+           PARTE REEXAMINATION OF PATENTS                  01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14507,7 +14521,7 @@
 
 
 -CITE-
-    35 USC Sec. 301                                             01/03/2007
+    35 USC Sec. 301                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14546,7 +14560,7 @@
 
 
 -CITE-
-    35 USC Sec. 302                                             01/03/2007
+    35 USC Sec. 302                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14599,7 +14613,7 @@
 
 
 -CITE-
-    35 USC Sec. 303                                             01/03/2007
+    35 USC Sec. 303                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14693,7 +14707,7 @@
 
 
 -CITE-
-    35 USC Sec. 304                                             01/03/2007
+    35 USC Sec. 304                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14749,7 +14763,7 @@
 
 
 -CITE-
-    35 USC Sec. 305                                             01/03/2007
+    35 USC Sec. 305                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14799,7 +14813,7 @@
 
 
 -CITE-
-    35 USC Sec. 306                                             01/03/2007
+    35 USC Sec. 306                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14826,7 +14840,7 @@
 
 
 -CITE-
-    35 USC Sec. 307                                             01/03/2007
+    35 USC Sec. 307                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14894,7 +14908,7 @@
 
 -CITE-
     35 USC CHAPTER 31 - OPTIONAL INTER PARTES REEXAMINATION
-           PROCEDURES                                      01/03/2007
+           PROCEDURES                                      01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14928,7 +14942,7 @@
 
 
 -CITE-
-    35 USC Sec. 311                                             01/03/2007
+    35 USC Sec. 311                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14998,7 +15012,7 @@
 
 
 -CITE-
-    35 USC Sec. 312                                             01/03/2007
+    35 USC Sec. 312                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15064,7 +15078,7 @@
 
 
 -CITE-
-    35 USC Sec. 313                                             01/03/2007
+    35 USC Sec. 313                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15100,7 +15114,7 @@
 
 
 -CITE-
-    35 USC Sec. 314                                             01/03/2007
+    35 USC Sec. 314                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15164,7 +15178,7 @@
 
 
 -CITE-
-    35 USC Sec. 315                                             01/03/2007
+    35 USC Sec. 315                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15254,7 +15268,7 @@
 
 
 -CITE-
-    35 USC Sec. 316                                             01/03/2007
+    35 USC Sec. 316                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15300,7 +15314,7 @@
 
 
 -CITE-
-    35 USC Sec. 317                                             01/03/2007
+    35 USC Sec. 317                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15365,7 +15379,7 @@
 
 
 -CITE-
-    35 USC Sec. 318                                             01/03/2007
+    35 USC Sec. 318                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15400,7 +15414,7 @@
 
 
 -CITE-
-    35 USC PART IV - PATENT COOPERATION TREATY                  01/03/2007
+    35 USC PART IV - PATENT COOPERATION TREATY                  01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15430,7 +15444,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 35 - DEFINITIONS                             01/03/2007
+    35 USC CHAPTER 35 - DEFINITIONS                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15449,7 +15463,7 @@
 
 
 -CITE-
-    35 USC Sec. 351                                             01/03/2007
+    35 USC Sec. 351                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15589,7 +15603,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 36 - INTERNATIONAL STAGE                     01/03/2007
+    35 USC CHAPTER 36 - INTERNATIONAL STAGE                     01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15623,7 +15637,7 @@
 
 
 -CITE-
-    35 USC Sec. 361                                             01/03/2007
+    35 USC Sec. 361                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15712,7 +15726,7 @@
 
 
 -CITE-
-    35 USC Sec. 362                                             01/03/2007
+    35 USC Sec. 362                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15782,7 +15796,7 @@
 
 
 -CITE-
-    35 USC Sec. 363                                             01/03/2007
+    35 USC Sec. 363                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15821,7 +15835,7 @@
 
 
 -CITE-
-    35 USC Sec. 364                                             01/03/2007
+    35 USC Sec. 364                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15888,7 +15902,7 @@
 
 
 -CITE-
-    35 USC Sec. 365                                             01/03/2007
+    35 USC Sec. 365                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15972,7 +15986,7 @@
 
 
 -CITE-
-    35 USC Sec. 366                                             01/03/2007
+    35 USC Sec. 366                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16025,7 +16039,7 @@
 
 
 -CITE-
-    35 USC Sec. 367                                             01/03/2007
+    35 USC Sec. 367                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16085,7 +16099,7 @@
 
 
 -CITE-
-    35 USC Sec. 368                                             01/03/2007
+    35 USC Sec. 368                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16143,7 +16157,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 37 - NATIONAL STAGE                          01/03/2007
+    35 USC CHAPTER 37 - NATIONAL STAGE                          01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16174,7 +16188,7 @@
 
 
 -CITE-
-    35 USC Sec. 371                                             01/03/2007
+    35 USC Sec. 371                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16354,7 +16368,7 @@
 
 
 -CITE-
-    35 USC Sec. 372                                             01/03/2007
+    35 USC Sec. 372                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16424,7 +16438,7 @@
 
 
 -CITE-
-    35 USC Sec. 373                                             01/03/2007
+    35 USC Sec. 373                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16478,7 +16492,7 @@
 
 
 -CITE-
-    35 USC Sec. 374                                             01/03/2007
+    35 USC Sec. 374                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16531,7 +16545,7 @@
 
 
 -CITE-
-    35 USC Sec. 375                                             01/03/2007
+    35 USC Sec. 375                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16583,7 +16597,7 @@
 
 
 -CITE-
-    35 USC Sec. 376                                             01/03/2007
+    35 USC Sec. 376                                             01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16682,7 +16696,7 @@
 
 
 -CITE-
-    35 USC [CHAPTER 38 - TRANSFERRED]                           01/03/2007
+    35 USC [CHAPTER 38 - TRANSFERRED]                           01/08/2008
 
 -EXPCITE-
     TITLE 35 - PATENTS
