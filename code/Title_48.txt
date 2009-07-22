@@ -1,5 +1,5 @@
 -CITE-
-    48 USC TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS       01/03/2007
+    48 USC TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -38,7 +38,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 1 - BUREAU OF INSULAR AFFAIRS                01/03/2007
+    48 USC CHAPTER 1 - BUREAU OF INSULAR AFFAIRS                01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -52,7 +52,7 @@
 
 
 -CITE-
-    48 USC Sec. 1                                               01/03/2007
+    48 USC Sec. 1                                               01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -91,7 +91,7 @@
 
 
 -CITE-
-    48 USC Sec. 2                                               01/03/2007
+    48 USC Sec. 2                                               01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -111,7 +111,7 @@
 
 
 -CITE-
-    48 USC Sec. 3                                               01/03/2007
+    48 USC Sec. 3                                               01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -132,7 +132,7 @@
 
 
 -CITE-
-    48 USC Secs. 4, 5                                           01/03/2007
+    48 USC Secs. 4, 5                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -160,7 +160,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 2 - ALASKA                                   01/03/2007
+    48 USC CHAPTER 2 - ALASKA                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2111,7 +2111,7 @@
 
 
 -CITE-
-    48 USC Secs. 21 to 27                                       01/03/2007
+    48 USC Secs. 21 to 27                                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2149,7 +2149,7 @@
 
 
 -CITE-
-    48 USC Sec. 28                                              01/03/2007
+    48 USC Sec. 28                                              01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2169,7 +2169,7 @@
 
 
 -CITE-
-    48 USC Secs. 29 to 38                                       01/03/2007
+    48 USC Secs. 29 to 38                                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2221,7 +2221,7 @@
 
 
 -CITE-
-    48 USC Sec. 39                                              01/03/2007
+    48 USC Sec. 39                                              01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2245,7 +2245,7 @@
 
 
 -CITE-
-    48 USC Secs. 40, 41                                         01/03/2007
+    48 USC Secs. 40, 41                                         01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2270,7 +2270,7 @@
 
 
 -CITE-
-    48 USC Sec. 42                                              01/03/2007
+    48 USC Sec. 42                                              01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2291,7 +2291,7 @@
 
 
 -CITE-
-    48 USC Secs. 43 to 45                                       01/03/2007
+    48 USC Secs. 43 to 45                                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2341,7 +2341,7 @@
 
 
 -CITE-
-    48 USC Sec. 46                                              01/03/2007
+    48 USC Sec. 46                                              01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2364,7 +2364,7 @@
 
 
 -CITE-
-    48 USC Secs. 46-1 to 46-3                                   01/03/2007
+    48 USC Secs. 46-1 to 46-3                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2393,7 +2393,7 @@
 
 
 -CITE-
-    48 USC Sec. 46a                                             01/03/2007
+    48 USC Sec. 46a                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2416,7 +2416,7 @@
 
 
 -CITE-
-    48 USC Secs. 46b to 48a                                     01/03/2007
+    48 USC Secs. 46b to 48a                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2468,7 +2468,7 @@
 
 
 -CITE-
-    48 USC Sec. 49                                              01/03/2007
+    48 USC Sec. 49                                              01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2488,7 +2488,7 @@
 
 
 -CITE-
-    48 USC Secs. 50, 50a                                        01/03/2007
+    48 USC Secs. 50, 50a                                        01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2514,7 +2514,7 @@
 
 
 -CITE-
-    48 USC Secs. 50b to 50d-1                                   01/03/2007
+    48 USC Secs. 50b to 50d-1                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2545,7 +2545,7 @@
 
 
 -CITE-
-    48 USC Sec. 50e                                             01/03/2007
+    48 USC Sec. 50e                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2589,7 +2589,7 @@
 
 
 -CITE-
-    48 USC Sec. 50f                                             01/03/2007
+    48 USC Sec. 50f                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2614,7 +2614,7 @@
 
 
 -CITE-
-    48 USC Secs. 50g to 58                                      01/03/2007
+    48 USC Secs. 50g to 58                                      01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2664,7 +2664,7 @@
 
 
 -CITE-
-    48 USC Secs. 61 to 64                                       01/03/2007
+    48 USC Secs. 61 to 64                                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2700,7 +2700,7 @@
 
 
 -CITE-
-    48 USC Sec. 65                                              01/03/2007
+    48 USC Sec. 65                                              01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2719,7 +2719,7 @@
 
 
 -CITE-
-    48 USC Sec. 65a                                             01/03/2007
+    48 USC Sec. 65a                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2738,7 +2738,7 @@
 
 
 -CITE-
-    48 USC Secs. 65b, 66                                        01/03/2007
+    48 USC Secs. 65b, 66                                        01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2761,7 +2761,7 @@
 
 
 -CITE-
-    48 USC Secs. 67 to 72                                       01/03/2007
+    48 USC Secs. 67 to 72                                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2801,7 +2801,7 @@
 
 
 -CITE-
-    48 USC Secs. 73, 73a                                        01/03/2007
+    48 USC Secs. 73, 73a                                        01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2826,7 +2826,7 @@
 
 
 -CITE-
-    48 USC Secs. 74, 75                                         01/03/2007
+    48 USC Secs. 74, 75                                         01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2852,7 +2852,7 @@
 
 
 -CITE-
-    48 USC Secs. 76 to 92                                       01/03/2007
+    48 USC Secs. 76 to 92                                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2916,7 +2916,7 @@
 
 
 -CITE-
-    48 USC Secs. 101 to 122                                     01/03/2007
+    48 USC Secs. 101 to 122                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3032,7 +3032,7 @@
 
 
 -CITE-
-    48 USC Sec. 131                                             01/03/2007
+    48 USC Sec. 131                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3053,7 +3053,7 @@
 
 
 -CITE-
-    48 USC Secs. 132, 134                                       01/03/2007
+    48 USC Secs. 132, 134                                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3075,7 +3075,7 @@
 
 
 -CITE-
-    48 USC Secs. 135 to 149                                     01/03/2007
+    48 USC Secs. 135 to 149                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3136,7 +3136,7 @@
 
 
 -CITE-
-    48 USC Secs. 161 to 170a                                    01/03/2007
+    48 USC Secs. 161 to 170a                                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3189,7 +3189,7 @@
 
 
 -CITE-
-    48 USC Sec. 171                                             01/03/2007
+    48 USC Sec. 171                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3213,7 +3213,7 @@
 
 
 -CITE-
-    48 USC Secs. 172, 173                                       01/03/2007
+    48 USC Secs. 172, 173                                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3237,7 +3237,7 @@
 
 
 -CITE-
-    48 USC Sec. 174                                             01/03/2007
+    48 USC Sec. 174                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3259,7 +3259,7 @@
 
 
 -CITE-
-    48 USC Secs. 175, 175a                                      01/03/2007
+    48 USC Secs. 175, 175a                                      01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3284,7 +3284,7 @@
 
 
 -CITE-
-    48 USC Secs. 191 to 213                                     01/03/2007
+    48 USC Secs. 191 to 213                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3402,7 +3402,7 @@
 
 
 -CITE-
-    48 USC Secs. 220 to 224                                     01/03/2007
+    48 USC Secs. 220 to 224                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3448,7 +3448,7 @@
 
 
 -CITE-
-    48 USC Sec. 225                                             01/03/2007
+    48 USC Sec. 225                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3468,7 +3468,7 @@
 
 
 -CITE-
-    48 USC Secs. 226 to 239                                     01/03/2007
+    48 USC Secs. 226 to 239                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3527,7 +3527,7 @@
 
 
 -CITE-
-    48 USC Sec. 240                                             01/03/2007
+    48 USC Sec. 240                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3548,7 +3548,7 @@
 
 
 -CITE-
-    48 USC Secs. 241 to 248b                                    01/03/2007
+    48 USC Secs. 241 to 248b                                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3602,7 +3602,7 @@
 
 
 -CITE-
-    48 USC Secs. 250 to 250p                                    01/03/2007
+    48 USC Secs. 250 to 250p                                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3676,7 +3676,7 @@
 
 
 -CITE-
-    48 USC Secs. 261 to 291                                     01/03/2007
+    48 USC Secs. 261 to 291                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3770,7 +3770,7 @@
 
 
 -CITE-
-    48 USC Secs. 292, 293                                       01/03/2007
+    48 USC Secs. 292, 293                                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3795,7 +3795,7 @@
 
 
 -CITE-
-    48 USC Sec. 301                                             01/03/2007
+    48 USC Sec. 301                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3817,7 +3817,7 @@
 
 
 -CITE-
-    48 USC Sec. 301a                                            01/03/2007
+    48 USC Sec. 301a                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3843,7 +3843,7 @@
 
 
 -CITE-
-    48 USC Secs. 302 to 308                                     01/03/2007
+    48 USC Secs. 302 to 308                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3891,7 +3891,7 @@
 
 
 -CITE-
-    48 USC Sec. 309                                             01/03/2007
+    48 USC Sec. 309                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3910,7 +3910,7 @@
 
 
 -CITE-
-    48 USC Secs. 310, 311                                       01/03/2007
+    48 USC Secs. 310, 311                                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3937,7 +3937,7 @@
 
 
 -CITE-
-    48 USC Secs. 312 to 312d                                    01/03/2007
+    48 USC Secs. 312 to 312d                                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3981,7 +3981,7 @@
 
 
 -CITE-
-    48 USC Secs. 315 to 315i                                    01/03/2007
+    48 USC Secs. 315 to 315i                                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4033,7 +4033,7 @@
 
 
 -CITE-
-    48 USC Sec. 321                                             01/03/2007
+    48 USC Sec. 321                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4054,7 +4054,7 @@
 
 
 -CITE-
-    48 USC Secs. 321a to 325                                    01/03/2007
+    48 USC Secs. 321a to 325                                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4106,7 +4106,7 @@
 
 
 -CITE-
-    48 USC Secs. 326 to 330                                     01/03/2007
+    48 USC Secs. 326 to 330                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4142,7 +4142,7 @@
 
 
 -CITE-
-    48 USC Secs. 331 to 337                                     01/03/2007
+    48 USC Secs. 331 to 337                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4174,7 +4174,7 @@
 
 
 -CITE-
-    48 USC Secs. 338 to 338g                                    01/03/2007
+    48 USC Secs. 338 to 338g                                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4225,7 +4225,7 @@
 
 
 -CITE-
-    48 USC Sec. 341                                             01/03/2007
+    48 USC Sec. 341                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4247,7 +4247,7 @@
 
 
 -CITE-
-    48 USC Secs. 351, 352                                       01/03/2007
+    48 USC Secs. 351, 352                                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4272,7 +4272,7 @@
 
 
 -CITE-
-    48 USC Sec. 353                                             01/03/2007
+    48 USC Sec. 353                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4297,7 +4297,7 @@
 
 
 -CITE-
-    48 USC Secs. 353a to 362                                    01/03/2007
+    48 USC Secs. 353a to 362                                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4415,7 +4415,7 @@
 
 
 -CITE-
-    48 USC Sec. 363                                             01/03/2007
+    48 USC Sec. 363                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4437,7 +4437,7 @@
 
 
 -CITE-
-    48 USC Secs. 364 to 365                                     01/03/2007
+    48 USC Secs. 364 to 365                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4500,7 +4500,7 @@
 
 
 -CITE-
-    48 USC Secs. 366 to 367                                     01/03/2007
+    48 USC Secs. 366 to 367                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4532,7 +4532,7 @@
 
 
 -CITE-
-    48 USC Sec. 367a                                            01/03/2007
+    48 USC Sec. 367a                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4553,7 +4553,7 @@
 
 
 -CITE-
-    48 USC Sec. 368                                             01/03/2007
+    48 USC Sec. 368                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4573,7 +4573,7 @@
 
 
 -CITE-
-    48 USC Secs. 371 to 371c                                    01/03/2007
+    48 USC Secs. 371 to 371c                                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4615,7 +4615,7 @@
 
 
 -CITE-
-    48 USC Sec. 372                                             01/03/2007
+    48 USC Sec. 372                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4636,7 +4636,7 @@
 
 
 -CITE-
-    48 USC Secs. 373 to 385                                     01/03/2007
+    48 USC Secs. 373 to 385                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4740,7 +4740,7 @@
 
 
 -CITE-
-    48 USC Sec. 386                                             01/03/2007
+    48 USC Sec. 386                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4765,7 +4765,7 @@
 
 
 -CITE-
-    48 USC Secs. 387 to 391                                     01/03/2007
+    48 USC Secs. 387 to 391                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4797,7 +4797,7 @@
 
 
 -CITE-
-    48 USC Sec. 392                                             01/03/2007
+    48 USC Sec. 392                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4817,7 +4817,7 @@
 
 
 -CITE-
-    48 USC Secs. 395 to 405                                     01/03/2007
+    48 USC Secs. 395 to 405                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4865,7 +4865,7 @@
 
 
 -CITE-
-    48 USC Secs. 411 to 423                                     01/03/2007
+    48 USC Secs. 411 to 423                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4945,7 +4945,7 @@
 
 
 -CITE-
-    48 USC Sec. 431                                             01/03/2007
+    48 USC Sec. 431                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4966,7 +4966,7 @@
 
 
 -CITE-
-    48 USC Sec. 432                                             01/03/2007
+    48 USC Sec. 432                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4987,7 +4987,7 @@
 
 
 -CITE-
-    48 USC Sec. 433                                             01/03/2007
+    48 USC Sec. 433                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5008,7 +5008,7 @@
 
 
 -CITE-
-    48 USC Secs. 434 to 445                                     01/03/2007
+    48 USC Secs. 434 to 445                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5069,7 +5069,7 @@
 
 
 -CITE-
-    48 USC Sec. 445a                                            01/03/2007
+    48 USC Sec. 445a                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5091,7 +5091,7 @@
 
 
 -CITE-
-    48 USC Secs. 446 to 452                                     01/03/2007
+    48 USC Secs. 446 to 452                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5126,7 +5126,7 @@
 
 
 -CITE-
-    48 USC Sec. 453                                             01/03/2007
+    48 USC Sec. 453                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5147,7 +5147,7 @@
 
 
 -CITE-
-    48 USC Secs. 455 to 456h                                    01/03/2007
+    48 USC Secs. 455 to 456h                                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5202,7 +5202,7 @@
 
 
 -CITE-
-    48 USC Secs. 461 to 466                                     01/03/2007
+    48 USC Secs. 461 to 466                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5259,7 +5259,7 @@
 
 
 -CITE-
-    48 USC Secs. 471 to 471o                                    01/03/2007
+    48 USC Secs. 471 to 471o                                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5339,7 +5339,7 @@
 
 
 -CITE-
-    48 USC Secs. 472, 472a                                      01/03/2007
+    48 USC Secs. 472, 472a                                      01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5363,7 +5363,7 @@
 
 
 -CITE-
-    48 USC Secs. 473 to 484d                                    01/03/2007
+    48 USC Secs. 473 to 484d                                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5455,7 +5455,7 @@
 
 
 -CITE-
-    48 USC Sec. 484e                                            01/03/2007
+    48 USC Sec. 484e                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5477,7 +5477,7 @@
 
 
 -CITE-
-    48 USC Secs. 485 to 486j                                    01/03/2007
+    48 USC Secs. 485 to 486j                                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5570,7 +5570,7 @@
 
 
 -CITE-
-    48 USC Secs. 487 to 487b                                    01/03/2007
+    48 USC Secs. 487 to 487b                                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5600,7 +5600,7 @@
 
 
 -CITE-
-    48 USC Secs. 488 to 488f                                    01/03/2007
+    48 USC Secs. 488 to 488f                                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5639,7 +5639,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 3 - HAWAII                                   01/03/2007
+    48 USC CHAPTER 3 - HAWAII                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -6492,8 +6492,8 @@
     subsection (b), the Secretary determines that the proposed
     amendment requires the approval of Congress, the Secretary shall
     submit to the Committee on Energy and Natural Resources of the
-    Senate and the Committee on Resources of the House of
-    Representatives - 
+    Senate and the Committee on Resources [now Committee on Natural
+    Resources] of the House of Representatives - 
         "(1) a draft joint resolution approving the amendment;
         "(2) a description of the change made by the proposed amendment
       and an explanation of how the amendment advances the interests of
@@ -6524,8 +6524,9 @@
       proposed exchange.
         "(2) Notification. - The Secretary shall notify the Chairman,
       the Committee on Energy and Natural Resources of the Senate, and
-      the Committee on Resources of the House of Representatives of the
-      reasons for the approval or disapproval of the proposed exchange.
+      the Committee on Resources [now Committee on Natural Resources]
+      of the House of Representatives of the reasons for the approval
+      or disapproval of the proposed exchange.
       "(c) Exchanges Initiated by Secretary. - 
         "(1) In general. - The Secretary may recommend to the Chairman
       an exchange of Hawaiian Home Lands for Federal lands described in
@@ -6541,9 +6542,9 @@
       proposed exchange. If the Chairman approves the proposed
       exchange, upon receipt of the written notification, the Secretary
       shall notify the Committee on Energy and Natural Resources of the
-      Senate, and the Committee on Resources of the House of
-      Representatives of the approval of the Chairman of the proposed
-      exchange.
+      Senate, and the Committee on Resources [now Committee on Natural
+      Resources] of the House of Representatives of the approval of the
+      Chairman of the proposed exchange.
         "(3) Exchange. - Upon providing notification pursuant to
       paragraph (2) of a proposed exchange that has been approved by
       the Chairman pursuant to this section, the Secretary may carry
@@ -7613,7 +7614,7 @@
 
 
 -CITE-
-    48 USC Secs. 491 to 503                                     01/03/2007
+    48 USC Secs. 491 to 503                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7674,7 +7675,7 @@
 
 
 -CITE-
-    48 USC Sec. 504                                             01/03/2007
+    48 USC Sec. 504                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7695,7 +7696,7 @@
 
 
 -CITE-
-    48 USC Secs. 505 to 518                                     01/03/2007
+    48 USC Secs. 505 to 518                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7762,7 +7763,7 @@
 
 
 -CITE-
-    48 USC Sec. 518a                                            01/03/2007
+    48 USC Sec. 518a                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7782,7 +7783,7 @@
 
 
 -CITE-
-    48 USC Sec. 519                                             01/03/2007
+    48 USC Sec. 519                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7804,7 +7805,7 @@
 
 
 -CITE-
-    48 USC Sec. 520                                             01/03/2007
+    48 USC Sec. 520                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7824,7 +7825,7 @@
 
 
 -CITE-
-    48 USC Secs. 531 to 535                                     01/03/2007
+    48 USC Secs. 531 to 535                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7859,7 +7860,7 @@
 
 
 -CITE-
-    48 USC Sec. 536                                             01/03/2007
+    48 USC Sec. 536                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7882,7 +7883,7 @@
 
 
 -CITE-
-    48 USC Secs. 537, 538                                       01/03/2007
+    48 USC Secs. 537, 538                                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7905,7 +7906,7 @@
 
 
 -CITE-
-    48 USC Sec. 539                                             01/03/2007
+    48 USC Sec. 539                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7927,7 +7928,7 @@
 
 
 -CITE-
-    48 USC Sec. 540                                             01/03/2007
+    48 USC Sec. 540                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7947,7 +7948,7 @@
 
 
 -CITE-
-    48 USC Sec. 541                                             01/03/2007
+    48 USC Sec. 541                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7969,7 +7970,7 @@
 
 
 -CITE-
-    48 USC Secs. 542 to 546                                     01/03/2007
+    48 USC Secs. 542 to 546                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8009,7 +8010,7 @@
 
 
 -CITE-
-    48 USC Secs. 561 to 599                                     01/03/2007
+    48 USC Secs. 561 to 599                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8271,7 +8272,7 @@
 
 
 -CITE-
-    48 USC Secs. 611 to 620                                     01/03/2007
+    48 USC Secs. 611 to 620                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8334,7 +8335,7 @@
 
 
 -CITE-
-    48 USC Secs. 631 to 633                                     01/03/2007
+    48 USC Secs. 631 to 633                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8367,7 +8368,7 @@
 
 
 -CITE-
-    48 USC Secs. 634, 634a                                      01/03/2007
+    48 USC Secs. 634, 634a                                      01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8392,7 +8393,7 @@
 
 
 -CITE-
-    48 USC Secs. 634b, 634c                                     01/03/2007
+    48 USC Secs. 634b, 634c                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8416,7 +8417,7 @@
 
 
 -CITE-
-    48 USC Secs. 635, 636                                       01/03/2007
+    48 USC Secs. 635, 636                                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8447,7 +8448,7 @@
 
 
 -CITE-
-    48 USC Secs. 641 to 644                                     01/03/2007
+    48 USC Secs. 641 to 644                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8496,7 +8497,7 @@
 
 
 -CITE-
-    48 USC Sec. 644a                                            01/03/2007
+    48 USC Sec. 644a                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8566,7 +8567,7 @@
 
 
 -CITE-
-    48 USC Sec. 645                                             01/03/2007
+    48 USC Sec. 645                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8595,7 +8596,7 @@
 
 
 -CITE-
-    48 USC Sec. 646                                             01/03/2007
+    48 USC Sec. 646                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8615,7 +8616,7 @@
 
 
 -CITE-
-    48 USC Sec. 651                                             01/03/2007
+    48 USC Sec. 651                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8637,7 +8638,7 @@
 
 
 -CITE-
-    48 USC Secs. 661 to 678                                     01/03/2007
+    48 USC Secs. 661 to 678                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8771,7 +8772,7 @@
 
 
 -CITE-
-    48 USC Secs. 691 to 718                                     01/03/2007
+    48 USC Secs. 691 to 718                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8918,7 +8919,7 @@
 
 
 -CITE-
-    48 USC Secs. 721 to 723                                     01/03/2007
+    48 USC Secs. 721 to 723                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8958,7 +8959,7 @@
 
 
 -CITE-
-    48 USC Sec. 724                                             01/03/2007
+    48 USC Sec. 724                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8979,7 +8980,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 4 - PUERTO RICO                              01/03/2007
+    48 USC CHAPTER 4 - PUERTO RICO                              01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9103,7 +9104,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/03/2007
+    48 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9118,7 +9119,7 @@
 
 
 -CITE-
-    48 USC Sec. 731                                             01/03/2007
+    48 USC Sec. 731                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9258,7 +9259,7 @@
 
 
 -CITE-
-    48 USC Sec. 731a                                            01/03/2007
+    48 USC Sec. 731a                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9300,7 +9301,7 @@
 
 
 -CITE-
-    48 USC Sec. 731b                                            01/03/2007
+    48 USC Sec. 731b                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9336,7 +9337,7 @@
 
 
 -CITE-
-    48 USC Sec. 731c                                            01/03/2007
+    48 USC Sec. 731c                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9384,7 +9385,7 @@
 
 
 -CITE-
-    48 USC Sec. 731d                                            01/03/2007
+    48 USC Sec. 731d                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9427,7 +9428,7 @@
 
 
 -CITE-
-    48 USC Sec. 731e                                            01/03/2007
+    48 USC Sec. 731e                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9464,7 +9465,7 @@
 
 
 -CITE-
-    48 USC Sec. 732                                             01/03/2007
+    48 USC Sec. 732                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9509,7 +9510,7 @@
 
 
 -CITE-
-    48 USC Sec. 733                                             01/03/2007
+    48 USC Sec. 733                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9555,7 +9556,7 @@
 
 
 -CITE-
-    48 USC Sec. 733a                                            01/03/2007
+    48 USC Sec. 733a                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9592,7 +9593,7 @@
 
 
 -CITE-
-    48 USC Sec. 733a-1                                          01/03/2007
+    48 USC Sec. 733a-1                                          01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9614,7 +9615,7 @@
 
 
 -CITE-
-    48 USC Sec. 733b                                            01/03/2007
+    48 USC Sec. 733b                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9655,7 +9656,7 @@
 
 
 -CITE-
-    48 USC Sec. 734                                             01/03/2007
+    48 USC Sec. 734                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9843,7 +9844,7 @@
 
 
 -CITE-
-    48 USC Sec. 734a                                            01/03/2007
+    48 USC Sec. 734a                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9893,7 +9894,7 @@
 
 
 -CITE-
-    48 USC Sec. 735                                             01/03/2007
+    48 USC Sec. 735                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9921,7 +9922,7 @@
 
 
 -CITE-
-    48 USC Sec. 736                                             01/03/2007
+    48 USC Sec. 736                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9968,7 +9969,7 @@
 
 
 -CITE-
-    48 USC Sec. 737                                             01/03/2007
+    48 USC Sec. 737                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10014,7 +10015,7 @@
 
 
 -CITE-
-    48 USC Sec. 738                                             01/03/2007
+    48 USC Sec. 738                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10074,7 +10075,7 @@
 
 
 -CITE-
-    48 USC Sec. 739                                             01/03/2007
+    48 USC Sec. 739                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10121,7 +10122,7 @@
 
 
 -CITE-
-    48 USC Sec. 740                                             01/03/2007
+    48 USC Sec. 740                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10206,7 +10207,7 @@
 
 
 -CITE-
-    48 USC Sec. 741                                             01/03/2007
+    48 USC Sec. 741                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10255,7 +10256,7 @@
 
 
 -CITE-
-    48 USC Sec. 741a                                            01/03/2007
+    48 USC Sec. 741a                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10310,7 +10311,7 @@
 
 
 -CITE-
-    48 USC Sec. 742                                             01/03/2007
+    48 USC Sec. 742                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10354,7 +10355,7 @@
 
 
 -CITE-
-    48 USC Sec. 743                                             01/03/2007
+    48 USC Sec. 743                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10387,7 +10388,7 @@
 
 
 -CITE-
-    48 USC Sec. 744                                             01/03/2007
+    48 USC Sec. 744                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10430,7 +10431,7 @@
 
 
 -CITE-
-    48 USC Sec. 745                                             01/03/2007
+    48 USC Sec. 745                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10523,7 +10524,7 @@
 
 
 -CITE-
-    48 USC Sec. 745a                                            01/03/2007
+    48 USC Sec. 745a                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10558,7 +10559,7 @@
 
 
 -CITE-
-    48 USC Sec. 745b                                            01/03/2007
+    48 USC Sec. 745b                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10589,7 +10590,7 @@
 
 
 -CITE-
-    48 USC Sec. 746                                             01/03/2007
+    48 USC Sec. 746                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10649,7 +10650,7 @@
 
 
 -CITE-
-    48 USC Sec. 747                                             01/03/2007
+    48 USC Sec. 747                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10712,7 +10713,7 @@
 
 
 -CITE-
-    48 USC Sec. 748                                             01/03/2007
+    48 USC Sec. 748                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10762,7 +10763,7 @@
 
 
 -CITE-
-    48 USC Sec. 749                                             01/03/2007
+    48 USC Sec. 749                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10861,7 +10862,7 @@
 
 
 -CITE-
-    48 USC Sec. 750                                             01/03/2007
+    48 USC Sec. 750                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10887,7 +10888,7 @@
 
 
 -CITE-
-    48 USC Sec. 751                                             01/03/2007
+    48 USC Sec. 751                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10954,7 +10955,7 @@
 
 
 -CITE-
-    48 USC Sec. 752                                             01/03/2007
+    48 USC Sec. 752                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11028,7 +11029,7 @@
 
 
 -CITE-
-    48 USC Secs. 753, 754                                       01/03/2007
+    48 USC Secs. 753, 754                                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11059,7 +11060,7 @@
 
 
 -CITE-
-    48 USC Sec. 755                                             01/03/2007
+    48 USC Sec. 755                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11086,7 +11087,7 @@
 
 -CITE-
     48 USC SUBCHAPTER II - THE EXECUTIVE AND GOVERNMENT
-           OFFICIALS                                       01/03/2007
+           OFFICIALS                                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11101,7 +11102,7 @@
 
 
 -CITE-
-    48 USC Secs. 771 to 793                                     01/03/2007
+    48 USC Secs. 771 to 793                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11213,7 +11214,7 @@
 
 
 -CITE-
-    48 USC Sec. 793a                                            01/03/2007
+    48 USC Sec. 793a                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11239,7 +11240,7 @@
 
 
 -CITE-
-    48 USC Sec. 793b                                            01/03/2007
+    48 USC Sec. 793b                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11267,7 +11268,7 @@
 
 
 -CITE-
-    48 USC Sec. 794                                             01/03/2007
+    48 USC Sec. 794                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11332,7 +11333,7 @@
 
 
 -CITE-
-    48 USC Sec. 795                                             01/03/2007
+    48 USC Sec. 795                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11376,7 +11377,7 @@
 
 
 -CITE-
-    48 USC Secs. 796 to 799                                     01/03/2007
+    48 USC Secs. 796 to 799                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11413,7 +11414,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER III - THE LEGISLATURE                     01/03/2007
+    48 USC SUBCHAPTER III - THE LEGISLATURE                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11428,7 +11429,7 @@
 
 
 -CITE-
-    48 USC Secs. 811 to 820                                     01/03/2007
+    48 USC Secs. 811 to 820                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11492,7 +11493,7 @@
 
 
 -CITE-
-    48 USC Sec. 821                                             01/03/2007
+    48 USC Sec. 821                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11538,7 +11539,7 @@
 
 
 -CITE-
-    48 USC Secs. 822, 823                                       01/03/2007
+    48 USC Secs. 822, 823                                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11566,7 +11567,7 @@
 
 
 -CITE-
-    48 USC Sec. 823a                                            01/03/2007
+    48 USC Sec. 823a                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11586,7 +11587,7 @@
 
 
 -CITE-
-    48 USC Secs. 824 to 844                                     01/03/2007
+    48 USC Secs. 824 to 844                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11669,7 +11670,7 @@
 
 
 -CITE-
-    48 USC Sec. 845                                             01/03/2007
+    48 USC Sec. 845                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11713,7 +11714,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER IV - THE JUDICIARY                        01/03/2007
+    48 USC SUBCHAPTER IV - THE JUDICIARY                        01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11728,7 +11729,7 @@
 
 
 -CITE-
-    48 USC Sec. 861                                             01/03/2007
+    48 USC Sec. 861                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11758,7 +11759,7 @@
 
 
 -CITE-
-    48 USC Sec. 862                                             01/03/2007
+    48 USC Sec. 862                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11779,7 +11780,7 @@
 
 
 -CITE-
-    48 USC Sec. 863                                             01/03/2007
+    48 USC Sec. 863                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11817,7 +11818,7 @@
 
 
 -CITE-
-    48 USC Sec. 864                                             01/03/2007
+    48 USC Sec. 864                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11908,7 +11909,7 @@
 
 
 -CITE-
-    48 USC Sec. 865                                             01/03/2007
+    48 USC Sec. 865                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11935,7 +11936,7 @@
 
 
 -CITE-
-    48 USC Sec. 866                                             01/03/2007
+    48 USC Sec. 866                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11958,7 +11959,7 @@
 
 
 -CITE-
-    48 USC Sec. 867                                             01/03/2007
+    48 USC Sec. 867                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11990,7 +11991,7 @@
 
 
 -CITE-
-    48 USC Sec. 868                                             01/03/2007
+    48 USC Sec. 868                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12042,7 +12043,7 @@
 
 
 -CITE-
-    48 USC Sec. 869                                             01/03/2007
+    48 USC Sec. 869                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12095,7 +12096,7 @@
 
 
 -CITE-
-    48 USC Sec. 870                                             01/03/2007
+    48 USC Sec. 870                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12123,7 +12124,7 @@
 
 
 -CITE-
-    48 USC Sec. 871                                             01/03/2007
+    48 USC Sec. 871                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12145,7 +12146,7 @@
 
 
 -CITE-
-    48 USC Sec. 872                                             01/03/2007
+    48 USC Sec. 872                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12198,7 +12199,7 @@
 
 
 -CITE-
-    48 USC Sec. 873                                             01/03/2007
+    48 USC Sec. 873                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12223,7 +12224,7 @@
 
 
 -CITE-
-    48 USC Sec. 873a                                            01/03/2007
+    48 USC Sec. 873a                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12249,7 +12250,7 @@
 
 
 -CITE-
-    48 USC Sec. 874                                             01/03/2007
+    48 USC Sec. 874                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12291,7 +12292,7 @@
 
 
 -CITE-
-    48 USC Secs. 875, 876                                       01/03/2007
+    48 USC Secs. 875, 876                                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12318,7 +12319,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER V - RESIDENT COMMISSIONER                 01/03/2007
+    48 USC SUBCHAPTER V - RESIDENT COMMISSIONER                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12333,7 +12334,7 @@
 
 
 -CITE-
-    48 USC Sec. 891                                             01/03/2007
+    48 USC Sec. 891                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12406,7 +12407,7 @@
 
 
 -CITE-
-    48 USC Sec. 892                                             01/03/2007
+    48 USC Sec. 892                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12448,7 +12449,7 @@
 
 
 -CITE-
-    48 USC Sec. 893                                             01/03/2007
+    48 USC Sec. 893                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12482,7 +12483,7 @@
 
 
 -CITE-
-    48 USC Sec. 894                                             01/03/2007
+    48 USC Sec. 894                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12526,7 +12527,7 @@
 
 -CITE-
     48 USC SUBCHAPTER VI - SLUM CLEARANCE AND URBAN
-           REDEVELOPMENT PROJECTS                          01/03/2007
+           REDEVELOPMENT PROJECTS                          01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12541,7 +12542,7 @@
 
 
 -CITE-
-    48 USC Sec. 910                                             01/03/2007
+    48 USC Sec. 910                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12642,7 +12643,7 @@
 
 
 -CITE-
-    48 USC Sec. 910a                                            01/03/2007
+    48 USC Sec. 910a                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12687,7 +12688,7 @@
 
 
 -CITE-
-    48 USC Sec. 910b                                            01/03/2007
+    48 USC Sec. 910b                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12728,7 +12729,7 @@
 
 -CITE-
     48 USC SUBCHAPTER VII - LOW RENT HOUSING PROJECTS AND
-           ELIMINATION OF SUB-STANDARD HOUSING             01/03/2007
+           ELIMINATION OF SUB-STANDARD HOUSING             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12745,7 +12746,7 @@
 
 
 -CITE-
-    48 USC Sec. 911                                             01/03/2007
+    48 USC Sec. 911                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12774,7 +12775,7 @@
 
 
 -CITE-
-    48 USC Sec. 912                                             01/03/2007
+    48 USC Sec. 912                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12805,7 +12806,7 @@
 
 
 -CITE-
-    48 USC Sec. 913                                             01/03/2007
+    48 USC Sec. 913                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12843,7 +12844,7 @@
 
 
 -CITE-
-    48 USC Sec. 914                                             01/03/2007
+    48 USC Sec. 914                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12873,7 +12874,7 @@
 
 
 -CITE-
-    48 USC Sec. 915                                             01/03/2007
+    48 USC Sec. 915                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12902,7 +12903,7 @@
 
 
 -CITE-
-    48 USC Sec. 916                                             01/03/2007
+    48 USC Sec. 916                                             01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12930,7 +12931,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 5 - PHILIPPINE ISLANDS                       01/03/2007
+    48 USC CHAPTER 5 - PHILIPPINE ISLANDS                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12952,7 +12953,7 @@
 
 
 -CITE-
-    48 USC Secs. 1001 to 1008                                   01/03/2007
+    48 USC Secs. 1001 to 1008                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12992,7 +12993,7 @@
 
 
 -CITE-
-    48 USC Sec. 1009                                            01/03/2007
+    48 USC Sec. 1009                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13017,7 +13018,7 @@
 
 
 -CITE-
-    48 USC Secs. 1010 to 1019                                   01/03/2007
+    48 USC Secs. 1010 to 1019                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13067,7 +13068,7 @@
 
 
 -CITE-
-    48 USC Secs. 1041 to 1055                                   01/03/2007
+    48 USC Secs. 1041 to 1055                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13122,7 +13123,7 @@
 
 
 -CITE-
-    48 USC Secs. 1071 to 1078                                   01/03/2007
+    48 USC Secs. 1071 to 1078                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13163,7 +13164,7 @@
 
 
 -CITE-
-    48 USC Secs. 1091 to 1094                                   01/03/2007
+    48 USC Secs. 1091 to 1094                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13193,7 +13194,7 @@
 
 
 -CITE-
-    48 USC Secs. 1111 to 1125                                   01/03/2007
+    48 USC Secs. 1111 to 1125                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13245,7 +13246,7 @@
 
 
 -CITE-
-    48 USC Secs. 1141 to 1156                                   01/03/2007
+    48 USC Secs. 1141 to 1156                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13303,7 +13304,7 @@
 
 
 -CITE-
-    48 USC Sec. 1157                                            01/03/2007
+    48 USC Sec. 1157                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13326,7 +13327,7 @@
 
 
 -CITE-
-    48 USC Secs. 1171 to 1173                                   01/03/2007
+    48 USC Secs. 1171 to 1173                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13352,7 +13353,7 @@
 
 
 -CITE-
-    48 USC Secs. 1191 to 1202                                   01/03/2007
+    48 USC Secs. 1191 to 1202                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13401,7 +13402,7 @@
 
 
 -CITE-
-    48 USC Secs. 1221 to 1226                                   01/03/2007
+    48 USC Secs. 1221 to 1226                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13438,7 +13439,7 @@
 
 
 -CITE-
-    48 USC Secs. 1231 to 1234                                   01/03/2007
+    48 USC Secs. 1231 to 1234                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13472,7 +13473,7 @@
 
 
 -CITE-
-    48 USC Secs. 1235 to 1236                                   01/03/2007
+    48 USC Secs. 1235 to 1236                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13503,7 +13504,7 @@
 
 
 -CITE-
-    48 USC Sec. 1236a                                           01/03/2007
+    48 USC Sec. 1236a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13527,7 +13528,7 @@
 
 
 -CITE-
-    48 USC Secs. 1236b to 1237c                                 01/03/2007
+    48 USC Secs. 1236b to 1237c                                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13569,7 +13570,7 @@
 
 
 -CITE-
-    48 USC Sec. 1238                                            01/03/2007
+    48 USC Sec. 1238                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13591,7 +13592,7 @@
 
 
 -CITE-
-    48 USC Secs. 1238a, 1239                                    01/03/2007
+    48 USC Secs. 1238a, 1239                                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13616,7 +13617,7 @@
 
 
 -CITE-
-    48 USC Sec. 1240                                            01/03/2007
+    48 USC Sec. 1240                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13638,7 +13639,7 @@
 
 
 -CITE-
-    48 USC Secs. 1241 to 1243                                   01/03/2007
+    48 USC Secs. 1241 to 1243                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13669,7 +13670,7 @@
 
 
 -CITE-
-    48 USC Sec. 1244                                            01/03/2007
+    48 USC Sec. 1244                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13691,7 +13692,7 @@
 
 
 -CITE-
-    48 USC Sec. 1245                                            01/03/2007
+    48 USC Sec. 1245                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13712,7 +13713,7 @@
 
 
 -CITE-
-    48 USC Sec. 1246                                            01/03/2007
+    48 USC Sec. 1246                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13733,7 +13734,7 @@
 
 
 -CITE-
-    48 USC Sec. 1247                                            01/03/2007
+    48 USC Sec. 1247                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13753,7 +13754,7 @@
 
 
 -CITE-
-    48 USC Sec. 1247a                                           01/03/2007
+    48 USC Sec. 1247a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13774,7 +13775,7 @@
 
 
 -CITE-
-    48 USC Secs. 1248, 1249                                     01/03/2007
+    48 USC Secs. 1248, 1249                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13799,7 +13800,7 @@
 
 
 -CITE-
-    48 USC Secs. 1251 to 1257                                   01/03/2007
+    48 USC Secs. 1251 to 1257                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13845,7 +13846,7 @@
 
 
 -CITE-
-    48 USC Secs. 1261 to 1264                                   01/03/2007
+    48 USC Secs. 1261 to 1264                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13913,7 +13914,7 @@
 
 
 -CITE-
-    48 USC Secs. 1266 to 1270b                                  01/03/2007
+    48 USC Secs. 1266 to 1270b                                  01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13975,7 +13976,7 @@
 
 
 -CITE-
-    48 USC Secs. 1272 to 1272g                                  01/03/2007
+    48 USC Secs. 1272 to 1272g                                  01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14020,7 +14021,7 @@
 
 
 -CITE-
-    48 USC Secs. 1274 to 1274i                                  01/03/2007
+    48 USC Secs. 1274 to 1274i                                  01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14071,7 +14072,7 @@
 
 
 -CITE-
-    48 USC Secs. 1276 to 1276e                                  01/03/2007
+    48 USC Secs. 1276 to 1276e                                  01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14107,7 +14108,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 6 - CANAL ZONE                               01/03/2007
+    48 USC CHAPTER 6 - CANAL ZONE                               01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14141,7 +14142,7 @@
 
 
 -CITE-
-    48 USC Secs. 1301 to 1304                                   01/03/2007
+    48 USC Secs. 1301 to 1304                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14174,7 +14175,7 @@
 
 
 -CITE-
-    48 USC Secs. 1304a to 1304c                                 01/03/2007
+    48 USC Secs. 1304a to 1304c                                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14199,7 +14200,7 @@
 
 
 -CITE-
-    48 USC Secs. 1305 to 1314                                   01/03/2007
+    48 USC Secs. 1305 to 1314                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14279,7 +14280,7 @@
 
 
 -CITE-
-    48 USC Sec. 1314a                                           01/03/2007
+    48 USC Sec. 1314a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14299,7 +14300,7 @@
 
 
 -CITE-
-    48 USC Secs. 1314b to 1314e                                 01/03/2007
+    48 USC Secs. 1314b to 1314e                                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14326,7 +14327,7 @@
 
 
 -CITE-
-    48 USC Secs. 1314f to 1315a                                 01/03/2007
+    48 USC Secs. 1314f to 1315a                                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14363,7 +14364,7 @@
 
 
 -CITE-
-    48 USC Sec. 1316                                            01/03/2007
+    48 USC Sec. 1316                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14383,7 +14384,7 @@
 
 
 -CITE-
-    48 USC Secs. 1317 to 1319                                   01/03/2007
+    48 USC Secs. 1317 to 1319                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14417,7 +14418,7 @@
 
 
 -CITE-
-    48 USC Sec. 1320                                            01/03/2007
+    48 USC Sec. 1320                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14437,7 +14438,7 @@
 
 
 -CITE-
-    48 USC Secs. 1321, 1322                                     01/03/2007
+    48 USC Secs. 1321, 1322                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14464,7 +14465,7 @@
 
 
 -CITE-
-    48 USC Secs. 1323 to 1323-3                                 01/03/2007
+    48 USC Secs. 1323 to 1323-3                                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14494,7 +14495,7 @@
 
 
 -CITE-
-    48 USC Sec. 1323a                                           01/03/2007
+    48 USC Sec. 1323a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14518,7 +14519,7 @@
 
 
 -CITE-
-    48 USC Sec. 1323b                                           01/03/2007
+    48 USC Sec. 1323b                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14538,7 +14539,7 @@
 
 
 -CITE-
-    48 USC Sec. 1323c                                           01/03/2007
+    48 USC Sec. 1323c                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14563,7 +14564,7 @@
 
 
 -CITE-
-    48 USC Secs. 1323d to 1323h                                 01/03/2007
+    48 USC Secs. 1323d to 1323h                                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14594,7 +14595,7 @@
 
 
 -CITE-
-    48 USC Sec. 1323i                                           01/03/2007
+    48 USC Sec. 1323i                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14619,7 +14620,7 @@
 
 
 -CITE-
-    48 USC Sec. 1323j                                           01/03/2007
+    48 USC Sec. 1323j                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14639,7 +14640,7 @@
 
 
 -CITE-
-    48 USC Sec. 1323k                                           01/03/2007
+    48 USC Sec. 1323k                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14661,7 +14662,7 @@
 
 
 -CITE-
-    48 USC Secs. 1324, 1325                                     01/03/2007
+    48 USC Secs. 1324, 1325                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14684,7 +14685,7 @@
 
 
 -CITE-
-    48 USC Secs. 1325a to 1327                                  01/03/2007
+    48 USC Secs. 1325a to 1327                                  01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14722,7 +14723,7 @@
 
 
 -CITE-
-    48 USC Secs. 1328, 1329                                     01/03/2007
+    48 USC Secs. 1328, 1329                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14746,7 +14747,7 @@
 
 
 -CITE-
-    48 USC Secs. 1330 to 1336h                                  01/03/2007
+    48 USC Secs. 1330 to 1336h                                  01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14838,7 +14839,7 @@
 
 
 -CITE-
-    48 USC Sec. 1336i                                           01/03/2007
+    48 USC Sec. 1336i                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14858,7 +14859,7 @@
 
 
 -CITE-
-    48 USC Secs. 1336j, 1336k                                   01/03/2007
+    48 USC Secs. 1336j, 1336k                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14884,7 +14885,7 @@
 
 
 -CITE-
-    48 USC Sec. 1337                                            01/03/2007
+    48 USC Sec. 1337                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14905,7 +14906,7 @@
 
 
 -CITE-
-    48 USC Secs. 1337a to 1337c                                 01/03/2007
+    48 USC Secs. 1337a to 1337c                                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14938,7 +14939,7 @@
 
 
 -CITE-
-    48 USC Secs. 1341 to 1344                                   01/03/2007
+    48 USC Secs. 1341 to 1344                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14973,7 +14974,7 @@
 
 
 -CITE-
-    48 USC Sec. 1344-1                                          01/03/2007
+    48 USC Sec. 1344-1                                          01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14993,7 +14994,7 @@
 
 
 -CITE-
-    48 USC Secs. 1344a to 1355                                  01/03/2007
+    48 USC Secs. 1344a to 1355                                  01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15064,7 +15065,7 @@
 
 
 -CITE-
-    48 USC Sec. 1356                                            01/03/2007
+    48 USC Sec. 1356                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15091,7 +15092,7 @@
 
 
 -CITE-
-    48 USC Secs. 1357, 1358                                     01/03/2007
+    48 USC Secs. 1357, 1358                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15116,7 +15117,7 @@
 
 
 -CITE-
-    48 USC Sec. 1361                                            01/03/2007
+    48 USC Sec. 1361                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15136,7 +15137,7 @@
 
 
 -CITE-
-    48 USC Secs. 1361a to 1361l                                 01/03/2007
+    48 USC Secs. 1361a to 1361l                                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15184,7 +15185,7 @@
 
 
 -CITE-
-    48 USC Secs. 1371 to 1371b                                  01/03/2007
+    48 USC Secs. 1371 to 1371b                                  01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15218,7 +15219,7 @@
 
 
 -CITE-
-    48 USC Sec. 1371b-1                                         01/03/2007
+    48 USC Sec. 1371b-1                                         01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15238,7 +15239,7 @@
 
 
 -CITE-
-    48 USC Secs. 1371c to 1371p                                 01/03/2007
+    48 USC Secs. 1371c to 1371p                                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15307,7 +15308,7 @@
 
 
 -CITE-
-    48 USC Sec. 1372                                            01/03/2007
+    48 USC Sec. 1372                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15328,7 +15329,7 @@
 
 
 -CITE-
-    48 USC Secs. 1373 to 1374d                                  01/03/2007
+    48 USC Secs. 1373 to 1374d                                  01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15388,7 +15389,7 @@
 
 
 -CITE-
-    48 USC Secs. 1381, 1382                                     01/03/2007
+    48 USC Secs. 1381, 1382                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15413,7 +15414,7 @@
 
 
 -CITE-
-    48 USC Sec. 1383                                            01/03/2007
+    48 USC Sec. 1383                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15434,7 +15435,7 @@
 
 
 -CITE-
-    48 USC Secs. 1384 to 1387                                   01/03/2007
+    48 USC Secs. 1384 to 1387                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15465,7 +15466,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 7 - VIRGIN ISLANDS                           01/03/2007
+    48 USC CHAPTER 7 - VIRGIN ISLANDS                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15486,19 +15487,7 @@
     1396.       Duties and taxes covered into Virgin Islands treasury.
     1397.       Income tax laws of United States in force; payment of
                  proceeds; levy of surtax on all taxpayers.           
-    1398 to 1400. Omitted or Repealed.                                
-    1401.       Equalization of taxes on real property; declaration of
-                 policy.                                              
-    1401a.      Valuation of real property for assessment; uniformity
-                 of rates.                                            
-    1401b.      Rate of tax in absence of local laws; regulations by
-                 President for assessment and collection pending
-                 adoption of local laws.                              
-    1401c.      Depository.                                           
-    1401d.      Omitted.                                              
-    1401e.      Exemptions from taxation; authority of municipalities
-                 to alter, amend, or repeal existing laws.            
-    1401f.      Omitted.                                              
+    1398 to 1401f. Omitted or Repealed.                               
     1402.       Extension of industrial alcohol and internal revenue
                  laws to Virgin Islands.                              
     1403.       Issuance of bonds or other obligations by government
@@ -15551,7 +15540,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/03/2007
+    48 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15674,7 +15663,7 @@
 
 
 -CITE-
-    48 USC Sec. 1391                                            01/03/2007
+    48 USC Sec. 1391                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15696,7 +15685,7 @@
 
 
 -CITE-
-    48 USC Sec. 1392                                            01/03/2007
+    48 USC Sec. 1392                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15757,7 +15746,7 @@
 
 
 -CITE-
-    48 USC Sec. 1392a                                           01/03/2007
+    48 USC Sec. 1392a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15784,7 +15773,7 @@
 
 
 -CITE-
-    48 USC Sec. 1392b                                           01/03/2007
+    48 USC Sec. 1392b                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15807,7 +15796,7 @@
 
 
 -CITE-
-    48 USC Sec. 1393                                            01/03/2007
+    48 USC Sec. 1393                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15831,7 +15820,7 @@
 
 
 -CITE-
-    48 USC Sec. 1394                                            01/03/2007
+    48 USC Sec. 1394                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15877,7 +15866,7 @@
 
 
 -CITE-
-    48 USC Sec. 1395                                            01/03/2007
+    48 USC Sec. 1395                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15948,7 +15937,7 @@
 
 
 -CITE-
-    48 USC Sec. 1396                                            01/03/2007
+    48 USC Sec. 1396                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15973,7 +15962,7 @@
 
 
 -CITE-
-    48 USC Sec. 1397                                            01/03/2007
+    48 USC Sec. 1397                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16033,7 +16022,7 @@
 
 
 -CITE-
-    48 USC Sec. 1398                                            01/03/2007
+    48 USC Sec. 1398                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16055,7 +16044,7 @@
 
 
 -CITE-
-    48 USC Sec. 1399                                            01/03/2007
+    48 USC Sec. 1399                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16079,7 +16068,7 @@
 
 
 -CITE-
-    48 USC Sec. 1400                                            01/03/2007
+    48 USC Sec. 1400                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16105,7 +16094,7 @@
 
 
 -CITE-
-    48 USC Sec. 1401                                            01/03/2007
+    48 USC Secs. 1401 to 1401e                                  01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16113,169 +16102,48 @@
     SUBCHAPTER I - GENERAL PROVISIONS
 
 -HEAD-
-    Sec. 1401. Equalization of taxes on real property; declaration of
-      policy
+    Secs. 1401 to 1401e. Repealed.
 
--STATUTE-
-      It is the policy of Congress to equalize and more equitably to
-    distribute existing taxes on real property in the Virgin Islands of
-    the United States and to reduce the burden of taxation now imposed
-    on land in productive use in such islands.
-
--SOURCE-
-    (May 26, 1936, ch. 450, Sec. 1, 49 Stat. 1372.)
-
--End-
-
-
-
--CITE-
-    48 USC Sec. 1401a                                           01/03/2007
-
--EXPCITE-
-    TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
-    CHAPTER 7 - VIRGIN ISLANDS
-    SUBCHAPTER I - GENERAL PROVISIONS
-
--HEAD-
-    Sec. 1401a. Valuation of real property for assessment; uniformity
-      of rates
-
--STATUTE-
-      For the calendar year 1936 and for all succeeding years all taxes
-    on real property in the Virgin Islands shall be computed on the
-    basis of the actual value of such property and the rate in each
-    municipality of such islands shall be the same for all real
-    property subject to taxation in such municipality whether or not
-    such property is in cultivation and regardless of the use to which
-    such property is put.
-
--SOURCE-
-    (May 26, 1936, ch. 450, Sec. 2, 49 Stat. 1372.)
-
--End-
-
-
-
--CITE-
-    48 USC Sec. 1401b                                           01/03/2007
-
--EXPCITE-
-    TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
-    CHAPTER 7 - VIRGIN ISLANDS
-    SUBCHAPTER I - GENERAL PROVISIONS
-
--HEAD-
-    Sec. 1401b. Rate of tax in absence of local laws; regulations by
-      President for assessment and collection pending adoption of local
-      laws
-
--STATUTE-
-      Until local tax laws conforming to the requirements of sections
-    1401 to 1401e of this title are in effect in a municipality the tax
-    on real property in such municipality for any calendar year shall
-    be at the rate of 1.25 per centum of the assessed value. If the
-    legislative authority of a municipality failed to enact laws for
-    the levy, assessment, collection, or enforcement of any tax imposed
-    under authority of said sections, within three months after May 26,
-    1936, the President shall prescribe regulations for the levy,
-    assessment, collection, and enforcement of such tax, which shall be
-    in effect until the legislative authority of such municipality
-    shall make regulations for such purposes.
-
--SOURCE-
-    (May 26, 1936, ch. 450, Sec. 3, 49 Stat. 1372.)
-
--End-
-
-
-
--CITE-
-    48 USC Sec. 1401c                                           01/03/2007
-
--EXPCITE-
-    TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
-    CHAPTER 7 - VIRGIN ISLANDS
-    SUBCHAPTER I - GENERAL PROVISIONS
-
--HEAD-
-    Sec. 1401c. Depository
-
--STATUTE-
-      All taxes so levied and collected shall be deposited in the
-    municipal treasury of the municipality in which such taxes are
-    collected.
-
--SOURCE-
-    (May 26, 1936, ch. 450, Sec. 4, 49 Stat. 1372.)
-
--End-
-
-
-
--CITE-
-    48 USC Sec. 1401d                                           01/03/2007
-
--EXPCITE-
-    TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
-    CHAPTER 7 - VIRGIN ISLANDS
-    SUBCHAPTER I - GENERAL PROVISIONS
-
--HEAD-
-    Sec. 1401d. Omitted
-
--COD-
-                               CODIFICATION                           
-      Section, acts May 26, 1936, ch. 450, Sec. 5, 49 Stat. 1372; June
-    30, 1949, ch. 285, Sec. 12, 63 Stat. 356, which related to payments
+-MISC1-
+    Secs. 1401 to 1401e. Repealed. Pub. L. 110-40, Sec. 1(a), June 29,
+      2007, 121 Stat. 232.
+      Section 1401, act May 26, 1936, ch. 450, Sec. 1, 49 Stat. 1372,
+    set out the policy of Congress to equalize taxes on real property
+    in the Virgin Islands.
+      Section 1401a, act May 26, 1936, ch. 450, Sec. 2, 49 Stat. 1372,
+    related to valuation of real property for assessment and uniformity
+    of rates.
+      Section 1401b, act May 26, 1936, ch. 450, Sec. 3, 49 Stat. 1372,
+    related to rate of tax in absence of local laws and regulations by
+    President for assessment and collection pending adoption of local
+    laws.
+      Section 1401c, act May 26, 1936, ch. 450, Sec. 4, 49 Stat. 1372,
+    provided that taxes were to be deposited in the municipal treasury
+    of the municipality in which collected.
+      Section 1401d, acts May 26, 1936, ch. 450, Sec. 5, 49 Stat. 1372;
+    June 30, 1949, ch. 285, Sec. 12, 63 Stat. 356, related to payments
     to be made by the Virgin Islands Corporation into municipal
     treasuries of the Virgin Islands in lieu of certain taxes,
     valuation of real property in the Virgin Islands owned by the
     Virgin Islands Corporation as a basis for determining the amount of
     taxation, and payment to be made for any property owned by the
     United States in the Virgin Islands used for ordinary business or
-    commercial purposes, was omitted in view of the termination of the
-    Corporation program on June 30, 1965, and subsequent dissolution of
-    the Corporation on July 1, 1966, and the repeal of sections 1407 to
-    1407i of this title, which provided the basic authority for the
-    Corporation, by Pub. L. 97-357, title III, Sec. 308(e), Oct. 19,
-    1982, 96 Stat. 1710.
+    commercial purposes.
+      Section 1401e, act May 26, 1936, ch. 450, Sec. 6, 49 Stat. 1373,
+    related to exemptions from taxation and authority of municipalities
+    to alter, amend, or repeal existing laws.
+
+                         EFFECTIVE DATE OF REPEAL                     
+      Pub. L. 110-40, Sec. 1(b), June 29, 2007, 121 Stat. 232, provided
+    that: "This section [repealing sections 1401 to 1401e of this
+    title] shall be deemed to have taken effect on July 22, 1954."
 
 -End-
 
 
 
 -CITE-
-    48 USC Sec. 1401e                                           01/03/2007
-
--EXPCITE-
-    TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
-    CHAPTER 7 - VIRGIN ISLANDS
-    SUBCHAPTER I - GENERAL PROVISIONS
-
--HEAD-
-    Sec. 1401e. Exemptions from taxation; authority of municipalities
-      to alter, amend, or repeal existing laws
-
--STATUTE-
-      Nothing in sections 1401 to 1401e of this title shall be
-    construed as altering, amending, or repealing exemptions from
-    taxation, existing on May 26, 1936, of property used for
-    educational, charitable, or religious purposes. Subject to the
-    provisions of said sections, the legislative authority of the
-    respective municipalities is empowered to alter, amend, or repeal,
-    subject to the approval of the Governor, any law imposing taxes on
-    real and personal property on May 26, 1936.
-
--SOURCE-
-    (May 26, 1936, ch. 450, Sec. 6, 49 Stat. 1373.)
-
--End-
-
-
-
--CITE-
-    48 USC Sec. 1401f                                           01/03/2007
+    48 USC Sec. 1401f                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16348,7 +16216,7 @@
 
 
 -CITE-
-    48 USC Sec. 1402                                            01/03/2007
+    48 USC Sec. 1402                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16398,7 +16266,7 @@
 
 
 -CITE-
-    48 USC Sec. 1403                                            01/03/2007
+    48 USC Sec. 1403                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16458,17 +16326,27 @@
     servicing any of the outstanding bonds, even if such taxation is
     required at a rate in excess of or in addition to the tax or tax
     rate of 1.25 per centum of the assessed value which is provided for
-    in section 1401b of this title.
+    in section 1401b (!1) of this title.
+
 
 -SOURCE-
     (Oct. 27, 1949, ch. 769, Sec. 1, 63 Stat. 940.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      Section 1401b of this title, referred to in text, was repealed by
+    Pub. L. 110-40, Sec. 1(a), June 29, 2007, 121 Stat. 232.
+
+-FOOTNOTE-
+    (!1) See References in Text note below.
+
 
 -End-
 
 
 
 -CITE-
-    48 USC Sec. 1403a                                           01/03/2007
+    48 USC Sec. 1403a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16493,7 +16371,7 @@
 
 
 -CITE-
-    48 USC Sec. 1403b                                           01/03/2007
+    48 USC Sec. 1403b                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16515,7 +16393,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER II - CIVIL GOVERNMENT                     01/03/2007
+    48 USC SUBCHAPTER II - CIVIL GOVERNMENT                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16530,7 +16408,7 @@
 
 
 -CITE-
-    48 USC Sec. 1405                                            01/03/2007
+    48 USC Sec. 1405                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16558,7 +16436,7 @@
 
 
 -CITE-
-    48 USC Secs. 1405a, 1405b                                   01/03/2007
+    48 USC Secs. 1405a, 1405b                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16584,7 +16462,7 @@
 
 
 -CITE-
-    48 USC Sec. 1405c                                           01/03/2007
+    48 USC Sec. 1405c                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16696,7 +16574,7 @@
 
 
 -CITE-
-    48 USC Secs. 1405d to 1405g                                 01/03/2007
+    48 USC Secs. 1405d to 1405g                                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16727,7 +16605,7 @@
 
 
 -CITE-
-    48 USC Secs. 1405h, 1405i                                   01/03/2007
+    48 USC Secs. 1405h, 1405i                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16751,7 +16629,7 @@
 
 
 -CITE-
-    48 USC Secs. 1405j to 1405p                                 01/03/2007
+    48 USC Secs. 1405j to 1405p                                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16795,7 +16673,7 @@
 
 
 -CITE-
-    48 USC Sec. 1405q                                           01/03/2007
+    48 USC Sec. 1405q                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16845,7 +16723,7 @@
 
 
 -CITE-
-    48 USC Sec. 1405r                                           01/03/2007
+    48 USC Sec. 1405r                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16867,7 +16745,7 @@
 
 
 -CITE-
-    48 USC Secs. 1405s to 1405t                                 01/03/2007
+    48 USC Secs. 1405s to 1405t                                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16898,7 +16776,7 @@
 
 
 -CITE-
-    48 USC Secs. 1405u to 1405w                                 01/03/2007
+    48 USC Secs. 1405u to 1405w                                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16928,7 +16806,7 @@
 
 
 -CITE-
-    48 USC Sec. 1405w-1                                         01/03/2007
+    48 USC Sec. 1405w-1                                         01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16951,7 +16829,7 @@
 
 
 -CITE-
-    48 USC Sec. 1405x                                           01/03/2007
+    48 USC Sec. 1405x                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16974,7 +16852,7 @@
 
 
 -CITE-
-    48 USC Sec. 1405y                                           01/03/2007
+    48 USC Sec. 1405y                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16998,7 +16876,7 @@
 
 
 -CITE-
-    48 USC Secs. 1405z to 1406e                                 01/03/2007
+    48 USC Secs. 1405z to 1406e                                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17033,7 +16911,7 @@
 
 
 -CITE-
-    48 USC Sec. 1406f                                           01/03/2007
+    48 USC Sec. 1406f                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17058,7 +16936,7 @@
 
 
 -CITE-
-    48 USC Sec. 1406g                                           01/03/2007
+    48 USC Sec. 1406g                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17079,7 +16957,7 @@
 
 
 -CITE-
-    48 USC Sec. 1406h                                           01/03/2007
+    48 USC Sec. 1406h                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17122,7 +17000,7 @@
 
 
 -CITE-
-    48 USC Sec. 1406i                                           01/03/2007
+    48 USC Sec. 1406i                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17176,7 +17054,7 @@
 
 
 -CITE-
-    48 USC Sec. 1406j                                           01/03/2007
+    48 USC Sec. 1406j                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17197,7 +17075,7 @@
 
 
 -CITE-
-    48 USC Sec. 1406k                                           01/03/2007
+    48 USC Sec. 1406k                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17219,7 +17097,7 @@
 
 
 -CITE-
-    48 USC Sec. 1406l                                           01/03/2007
+    48 USC Sec. 1406l                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17247,7 +17125,7 @@
 
 
 -CITE-
-    48 USC Sec. 1406m                                           01/03/2007
+    48 USC Sec. 1406m                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17268,7 +17146,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER III - VIRGIN ISLANDS CORPORATION          01/03/2007
+    48 USC SUBCHAPTER III - VIRGIN ISLANDS CORPORATION          01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17283,7 +17161,7 @@
 
 
 -CITE-
-    48 USC Secs. 1407 to 1407i                                  01/03/2007
+    48 USC Secs. 1407 to 1407i                                  01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17381,7 +17259,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER IV - PUBLIC HOUSING                       01/03/2007
+    48 USC SUBCHAPTER IV - PUBLIC HOUSING                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17396,7 +17274,7 @@
 
 
 -CITE-
-    48 USC Sec. 1408                                            01/03/2007
+    48 USC Sec. 1408                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17466,7 +17344,7 @@
 
 
 -CITE-
-    48 USC Sec. 1408a                                           01/03/2007
+    48 USC Sec. 1408a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17510,7 +17388,7 @@
 
 
 -CITE-
-    48 USC Sec. 1408b                                           01/03/2007
+    48 USC Sec. 1408b                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17546,7 +17424,7 @@
 
 
 -CITE-
-    48 USC Sec. 1408c                                           01/03/2007
+    48 USC Sec. 1408c                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17617,7 +17495,7 @@
 
 
 -CITE-
-    48 USC Sec. 1408d                                           01/03/2007
+    48 USC Sec. 1408d                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17650,7 +17528,7 @@
 
 
 -CITE-
-    48 USC Sec. 1408e                                           01/03/2007
+    48 USC Sec. 1408e                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17682,7 +17560,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER V - INTERNAL DEVELOPMENT                  01/03/2007
+    48 USC SUBCHAPTER V - INTERNAL DEVELOPMENT                  01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17697,7 +17575,7 @@
 
 
 -CITE-
-    48 USC Secs. 1409 to 1409j                                  01/03/2007
+    48 USC Secs. 1409 to 1409j                                  01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17774,7 +17652,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER VI - AGRICULTURAL PROGRAM                 01/03/2007
+    48 USC SUBCHAPTER VI - AGRICULTURAL PROGRAM                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17789,7 +17667,7 @@
 
 
 -CITE-
-    48 USC Secs. 1409m to 1409o                                 01/03/2007
+    48 USC Secs. 1409m to 1409o                                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17816,7 +17694,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 8 - GUANO ISLANDS                            01/03/2007
+    48 USC CHAPTER 8 - GUANO ISLANDS                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17843,7 +17721,7 @@
 
 
 -CITE-
-    48 USC Sec. 1411                                            01/03/2007
+    48 USC Sec. 1411                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17874,7 +17752,7 @@
 
 
 -CITE-
-    48 USC Sec. 1412                                            01/03/2007
+    48 USC Sec. 1412                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17909,7 +17787,7 @@
 
 
 -CITE-
-    48 USC Sec. 1413                                            01/03/2007
+    48 USC Sec. 1413                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17940,7 +17818,7 @@
 
 
 -CITE-
-    48 USC Sec. 1414                                            01/03/2007
+    48 USC Sec. 1414                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17973,7 +17851,7 @@
 
 
 -CITE-
-    48 USC Sec. 1415                                            01/03/2007
+    48 USC Sec. 1415                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18014,7 +17892,7 @@
 
 
 -CITE-
-    48 USC Sec. 1416                                            01/03/2007
+    48 USC Sec. 1416                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18042,7 +17920,7 @@
 
 
 -CITE-
-    48 USC Sec. 1417                                            01/03/2007
+    48 USC Sec. 1417                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18074,7 +17952,7 @@
 
 
 -CITE-
-    48 USC Sec. 1418                                            01/03/2007
+    48 USC Sec. 1418                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18103,7 +17981,7 @@
 
 
 -CITE-
-    48 USC Sec. 1419                                            01/03/2007
+    48 USC Sec. 1419                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18129,7 +18007,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 8A - GUAM                                    01/03/2007
+    48 USC CHAPTER 8A - GUAM                                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18258,7 +18136,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/03/2007
+    48 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18273,7 +18151,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421                                            01/03/2007
+    48 USC Sec. 1421                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18381,7 +18259,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421a                                           01/03/2007
+    48 USC Sec. 1421a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18438,7 +18316,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421b                                           01/03/2007
+    48 USC Sec. 1421b                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18547,7 +18425,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421c                                           01/03/2007
+    48 USC Sec. 1421c                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18590,7 +18468,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421d                                           01/03/2007
+    48 USC Sec. 1421d                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18651,7 +18529,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421e                                           01/03/2007
+    48 USC Sec. 1421e                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18702,7 +18580,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421f                                           01/03/2007
+    48 USC Sec. 1421f                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18897,7 +18775,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421f-1                                         01/03/2007
+    48 USC Sec. 1421f-1                                         01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18944,7 +18822,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421g                                           01/03/2007
+    48 USC Sec. 1421g                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19018,7 +18896,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421h                                           01/03/2007
+    48 USC Sec. 1421h                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19106,7 +18984,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421i                                           01/03/2007
+    48 USC Sec. 1421i                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19348,7 +19226,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421j                                           01/03/2007
+    48 USC Sec. 1421j                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19380,7 +19258,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421k                                           01/03/2007
+    48 USC Sec. 1421k                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19412,7 +19290,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421k-1                                         01/03/2007
+    48 USC Sec. 1421k-1                                         01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19435,7 +19313,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421l                                           01/03/2007
+    48 USC Sec. 1421l                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19458,7 +19336,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421m                                           01/03/2007
+    48 USC Sec. 1421m                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19497,7 +19375,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421n                                           01/03/2007
+    48 USC Sec. 1421n                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19530,7 +19408,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421o                                           01/03/2007
+    48 USC Sec. 1421o                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19568,7 +19446,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421p                                           01/03/2007
+    48 USC Sec. 1421p                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19598,7 +19476,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421q                                           01/03/2007
+    48 USC Sec. 1421q                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19663,7 +19541,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421q-1                                         01/03/2007
+    48 USC Sec. 1421q-1                                         01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19754,7 +19632,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER II - THE EXECUTIVE BRANCH                 01/03/2007
+    48 USC SUBCHAPTER II - THE EXECUTIVE BRANCH                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19769,7 +19647,7 @@
 
 
 -CITE-
-    48 USC Sec. 1422                                            01/03/2007
+    48 USC Sec. 1422                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19920,7 +19798,7 @@
 
 
 -CITE-
-    48 USC Sec. 1422a                                           01/03/2007
+    48 USC Sec. 1422a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19979,7 +19857,7 @@
 
 
 -CITE-
-    48 USC Sec. 1422b                                           01/03/2007
+    48 USC Sec. 1422b                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20066,7 +19944,7 @@
 
 
 -CITE-
-    48 USC Sec. 1422c                                           01/03/2007
+    48 USC Sec. 1422c                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20139,7 +20017,7 @@
 
 
 -CITE-
-    48 USC Sec. 1422d                                           01/03/2007
+    48 USC Sec. 1422d                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20209,7 +20087,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER III - THE LEGISLATURE                     01/03/2007
+    48 USC SUBCHAPTER III - THE LEGISLATURE                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20224,7 +20102,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423                                            01/03/2007
+    48 USC Sec. 1423                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20305,7 +20183,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423a                                           01/03/2007
+    48 USC Sec. 1423a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20470,7 +20348,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423b                                           01/03/2007
+    48 USC Sec. 1423b                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20516,7 +20394,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423c                                           01/03/2007
+    48 USC Sec. 1423c                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20543,7 +20421,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423d                                           01/03/2007
+    48 USC Sec. 1423d                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20571,7 +20449,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423e                                           01/03/2007
+    48 USC Sec. 1423e                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20596,7 +20474,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423f                                           01/03/2007
+    48 USC Sec. 1423f                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20623,7 +20501,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423g                                           01/03/2007
+    48 USC Sec. 1423g                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20647,7 +20525,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423h                                           01/03/2007
+    48 USC Sec. 1423h                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20690,7 +20568,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423i                                           01/03/2007
+    48 USC Sec. 1423i                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20763,7 +20641,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423j                                           01/03/2007
+    48 USC Sec. 1423j                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20796,7 +20674,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423k                                           01/03/2007
+    48 USC Sec. 1423k                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20820,7 +20698,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423l                                           01/03/2007
+    48 USC Sec. 1423l                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20891,7 +20769,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER IV - THE JUDICIARY                        01/03/2007
+    48 USC SUBCHAPTER IV - THE JUDICIARY                        01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20906,7 +20784,7 @@
 
 
 -CITE-
-    48 USC Sec. 1424                                            01/03/2007
+    48 USC Sec. 1424                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21044,7 +20922,7 @@
 
 
 -CITE-
-    48 USC Sec. 1424-1                                          01/03/2007
+    48 USC Sec. 1424-1                                          01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21141,7 +21019,7 @@
 
 
 -CITE-
-    48 USC Sec. 1424-2                                          01/03/2007
+    48 USC Sec. 1424-2                                          01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21200,7 +21078,7 @@
 
 
 -CITE-
-    48 USC Sec. 1424-3                                          01/03/2007
+    48 USC Sec. 1424-3                                          01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21294,7 +21172,7 @@
 
 
 -CITE-
-    48 USC Sec. 1424-4                                          01/03/2007
+    48 USC Sec. 1424-4                                          01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21341,7 +21219,7 @@
 
 
 -CITE-
-    48 USC Sec. 1424a                                           01/03/2007
+    48 USC Sec. 1424a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21371,7 +21249,7 @@
 
 
 -CITE-
-    48 USC Sec. 1424b                                           01/03/2007
+    48 USC Sec. 1424b                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21467,7 +21345,7 @@
 
 
 -CITE-
-    48 USC Sec. 1424c                                           01/03/2007
+    48 USC Sec. 1424c                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21565,7 +21443,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER V - PUBLIC HOUSING AND URBAN RENEWAL      01/03/2007
+    48 USC SUBCHAPTER V - PUBLIC HOUSING AND URBAN RENEWAL      01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21580,7 +21458,7 @@
 
 
 -CITE-
-    48 USC Sec. 1425                                            01/03/2007
+    48 USC Sec. 1425                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21602,7 +21480,7 @@
 
 
 -CITE-
-    48 USC Sec. 1425a                                           01/03/2007
+    48 USC Sec. 1425a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21642,7 +21520,7 @@
 
 
 -CITE-
-    48 USC Sec. 1425b                                           01/03/2007
+    48 USC Sec. 1425b                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21687,7 +21565,7 @@
 
 
 -CITE-
-    48 USC Sec. 1425c                                           01/03/2007
+    48 USC Sec. 1425c                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21717,7 +21595,7 @@
 
 
 -CITE-
-    48 USC Sec. 1425d                                           01/03/2007
+    48 USC Sec. 1425d                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21746,7 +21624,7 @@
 
 
 -CITE-
-    48 USC Sec. 1425e                                           01/03/2007
+    48 USC Sec. 1425e                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21774,7 +21652,7 @@
 
 
 -CITE-
-    48 USC Sec. 1426                                            01/03/2007
+    48 USC Sec. 1426                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21798,7 +21676,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER VI - GUAM DEVELOPMENT FUND                01/03/2007
+    48 USC SUBCHAPTER VI - GUAM DEVELOPMENT FUND                01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21813,7 +21691,7 @@
 
 
 -CITE-
-    48 USC Sec. 1428                                            01/03/2007
+    48 USC Sec. 1428                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21854,7 +21732,7 @@
 
 
 -CITE-
-    48 USC Sec. 1428a                                           01/03/2007
+    48 USC Sec. 1428a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21904,7 +21782,7 @@
 
 
 -CITE-
-    48 USC Sec. 1428b                                           01/03/2007
+    48 USC Sec. 1428b                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21945,7 +21823,7 @@
 
 
 -CITE-
-    48 USC Sec. 1428c                                           01/03/2007
+    48 USC Sec. 1428c                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21974,7 +21852,7 @@
 
 
 -CITE-
-    48 USC Sec. 1428d                                           01/03/2007
+    48 USC Sec. 1428d                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22015,7 +21893,7 @@
 
 
 -CITE-
-    48 USC Sec. 1428e                                           01/03/2007
+    48 USC Sec. 1428e                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22047,7 +21925,7 @@
 
 -CITE-
     48 USC CHAPTER 9 - SAMOA, TUTUILA, MANUA, SWAINS ISLAND,
-           AND TRUST TERRITORY OF THE PACIFIC ISLANDS      01/03/2007
+           AND TRUST TERRITORY OF THE PACIFIC ISLANDS      01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22063,7 +21941,7 @@
 
 
 -CITE-
-    48 USC Secs. 1431 to 1440                                   01/03/2007
+    48 USC Secs. 1431 to 1440                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22125,7 +22003,7 @@
 
 -CITE-
     48 USC CHAPTER 10 - TERRITORIAL PROVISIONS OF A GENERAL
-           NATURE                                          01/03/2007
+           NATURE                                          01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22256,7 +22134,7 @@
 
 
 -CITE-
-    48 USC Sec. 1451                                            01/03/2007
+    48 USC Sec. 1451                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22318,7 +22196,7 @@
 
 
 -CITE-
-    48 USC Sec. 1452                                            01/03/2007
+    48 USC Sec. 1452                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22375,7 +22253,7 @@
 
 
 -CITE-
-    48 USC Secs. 1453 to 1455                                   01/03/2007
+    48 USC Secs. 1453 to 1455                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22408,7 +22286,7 @@
 
 
 -CITE-
-    48 USC Sec. 1456                                            01/03/2007
+    48 USC Sec. 1456                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22430,7 +22308,7 @@
 
 
 -CITE-
-    48 USC Secs. 1457 to 1469-1                                 01/03/2007
+    48 USC Secs. 1457 to 1469-1                                 01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22512,7 +22390,7 @@
 
 
 -CITE-
-    48 USC Sec. 1469a                                           01/03/2007
+    48 USC Sec. 1469a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22627,7 +22505,7 @@
 
 
 -CITE-
-    48 USC Sec. 1469a-1                                         01/03/2007
+    48 USC Sec. 1469a-1                                         01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22718,7 +22596,7 @@
 
 
 -CITE-
-    48 USC Sec. 1469b                                           01/03/2007
+    48 USC Sec. 1469b                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22737,7 +22615,7 @@
     31.
 
 -SOURCE-
-    (Pub. L. 109-54, title I, Aug. 2, 2005, 119 Stat. 517.)
+    (Pub. L. 110-161, div. F, title I, Dec. 26, 2007, 121 Stat. 2114.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -22754,6 +22632,7 @@
                              PRIOR PROVISIONS                         
       Provisions similar to those in this section were contained in the
     following prior appropriations acts:
+      Pub. L. 109-54, title I, Aug. 2, 2005, 119 Stat. 517.
       Pub. L. 108-447, div. E, title I, Dec. 8, 2004, 118 Stat. 3059.
       Pub. L. 108-108, title I, Nov. 10, 2003, 117 Stat. 1260; Pub. L.
     108-271, Sec. 8(b), July 7, 2004, 118 Stat. 814.
@@ -22798,7 +22677,7 @@
 
 
 -CITE-
-    48 USC Sec. 1469c                                           01/03/2007
+    48 USC Sec. 1469c                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22834,7 +22713,7 @@
 
 
 -CITE-
-    48 USC Sec. 1469d                                           01/03/2007
+    48 USC Sec. 1469d                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22922,13 +22801,6 @@
     Resources" for "Interior and Insular Affairs" before "of the
     House".
 
--CHANGE-
-                              CHANGE OF NAME                          
-      Committee on Natural Resources of House of Representatives
-    treated as referring to Committee on Resources of House of
-    Representatives by section 1(a) of Pub. L. 104-14, set out as a
-    note preceding section 21 of Title 2, The Congress.
-
 
 -TRANS-
            TERMINATION OF TRUST TERRITORY OF THE PACIFIC ISLANDS       
@@ -22940,7 +22812,7 @@
 
 
 -CITE-
-    48 USC Sec. 1469e                                           01/03/2007
+    48 USC Sec. 1469e                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22978,7 +22850,7 @@
 
 
 -CITE-
-    48 USC Sec. 1470                                            01/03/2007
+    48 USC Sec. 1470                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22999,7 +22871,7 @@
 
 
 -CITE-
-    48 USC Sec. 1470a                                           01/03/2007
+    48 USC Sec. 1470a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23053,7 +22925,7 @@
 
 
 -CITE-
-    48 USC Secs. 1471 to 1479                                   01/03/2007
+    48 USC Secs. 1471 to 1479                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23103,7 +22975,7 @@
 
 
 -CITE-
-    48 USC Secs. 1480 to 1480b                                  01/03/2007
+    48 USC Secs. 1480 to 1480b                                  01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23137,7 +23009,7 @@
 
 
 -CITE-
-    48 USC Secs. 1481 to 1485                                   01/03/2007
+    48 USC Secs. 1481 to 1485                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23170,7 +23042,7 @@
 
 
 -CITE-
-    48 USC Sec. 1486                                            01/03/2007
+    48 USC Sec. 1486                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23200,7 +23072,7 @@
 
 
 -CITE-
-    48 USC Secs. 1487, 1488                                     01/03/2007
+    48 USC Secs. 1487, 1488                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23225,7 +23097,7 @@
 
 
 -CITE-
-    48 USC Sec. 1489                                            01/03/2007
+    48 USC Sec. 1489                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23260,7 +23132,7 @@
 
 
 -CITE-
-    48 USC Sec. 1490                                            01/03/2007
+    48 USC Sec. 1490                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23286,7 +23158,7 @@
 
 
 -CITE-
-    48 USC Sec. 1491                                            01/03/2007
+    48 USC Sec. 1491                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23331,7 +23203,7 @@
 
 
 -CITE-
-    48 USC Sec. 1492                                            01/03/2007
+    48 USC Sec. 1492                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23631,12 +23503,18 @@
       1983 - Subsec. (d). Pub. L. 98-213 inserted "and may implement
     any projects or programs contained in recommendations of the plan".
 
+-CHANGE-
+                              CHANGE OF NAME                          
+      Committee on Resources of House of Representatives changed to
+    Committee on Natural Resources of House of Representatives by House
+    Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
 -End-
 
 
 
 -CITE-
-    48 USC Sec. 1493                                            01/03/2007
+    48 USC Sec. 1493                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23681,7 +23559,7 @@
 
 
 -CITE-
-    48 USC Sec. 1494                                            01/03/2007
+    48 USC Sec. 1494                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23738,7 +23616,7 @@
 
 
 -CITE-
-    48 USC Sec. 1494a                                           01/03/2007
+    48 USC Sec. 1494a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23788,13 +23666,6 @@
     Pacific Islands," before "and states" in par. (1) and after
     "territories" in two places in par. (2), and added subsec. (b).
 
--CHANGE-
-                              CHANGE OF NAME                          
-      Committee on Natural Resources of House of Representatives
-    treated as referring to Committee on Resources of House of
-    Representatives by section 1(a) of Pub. L. 104-14, set out as a
-    note preceding section 21 of Title 2, The Congress.
-
 
 -TRANS-
            TERMINATION OF TRUST TERRITORY OF THE PACIFIC ISLANDS       
@@ -23806,7 +23677,7 @@
 
 
 -CITE-
-    48 USC Sec. 1494b                                           01/03/2007
+    48 USC Sec. 1494b                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24132,7 +24003,7 @@
 
 
 -CITE-
-    48 USC Sec. 1494c                                           01/03/2007
+    48 USC Sec. 1494c                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24157,7 +24028,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 11 - ALIEN OWNERS OF LAND                    01/03/2007
+    48 USC CHAPTER 11 - ALIEN OWNERS OF LAND                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24186,7 +24057,7 @@
 
 
 -CITE-
-    48 USC Sec. 1501                                            01/03/2007
+    48 USC Sec. 1501                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24221,7 +24092,7 @@
 
 
 -CITE-
-    48 USC Sec. 1502                                            01/03/2007
+    48 USC Sec. 1502                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24265,7 +24136,7 @@
 
 
 -CITE-
-    48 USC Sec. 1503                                            01/03/2007
+    48 USC Sec. 1503                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24303,7 +24174,7 @@
 
 
 -CITE-
-    48 USC Sec. 1504                                            01/03/2007
+    48 USC Sec. 1504                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24338,7 +24209,7 @@
 
 
 -CITE-
-    48 USC Sec. 1505                                            01/03/2007
+    48 USC Sec. 1505                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24383,7 +24254,7 @@
 
 
 -CITE-
-    48 USC Sec. 1506                                            01/03/2007
+    48 USC Sec. 1506                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24429,7 +24300,7 @@
 
 
 -CITE-
-    48 USC Sec. 1507                                            01/03/2007
+    48 USC Sec. 1507                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24463,7 +24334,7 @@
 
 
 -CITE-
-    48 USC Sec. 1508                                            01/03/2007
+    48 USC Sec. 1508                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24500,7 +24371,7 @@
 
 
 -CITE-
-    48 USC Secs. 1509 to 1512                                   01/03/2007
+    48 USC Secs. 1509 to 1512                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24543,7 +24414,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 12 - VIRGIN ISLANDS                          01/03/2007
+    48 USC CHAPTER 12 - VIRGIN ISLANDS                          01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24719,7 +24590,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/03/2007
+    48 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24734,7 +24605,7 @@
 
 
 -CITE-
-    48 USC Sec. 1541                                            01/03/2007
+    48 USC Sec. 1541                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24864,7 +24735,7 @@
 
 
 -CITE-
-    48 USC Sec. 1542                                            01/03/2007
+    48 USC Sec. 1542                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24903,7 +24774,7 @@
 
 
 -CITE-
-    48 USC Sec. 1543                                            01/03/2007
+    48 USC Sec. 1543                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24940,7 +24811,7 @@
 
 
 -CITE-
-    48 USC Sec. 1544                                            01/03/2007
+    48 USC Sec. 1544                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24972,7 +24843,7 @@
 
 
 -CITE-
-    48 USC Sec. 1545                                            01/03/2007
+    48 USC Sec. 1545                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25043,7 +24914,7 @@
 
 
 -CITE-
-    48 USC Sec. 1546                                            01/03/2007
+    48 USC Sec. 1546                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25065,7 +24936,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER II - BILL OF RIGHTS                       01/03/2007
+    48 USC SUBCHAPTER II - BILL OF RIGHTS                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25080,7 +24951,7 @@
 
 
 -CITE-
-    48 USC Sec. 1561                                            01/03/2007
+    48 USC Sec. 1561                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25241,7 +25112,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER III - LEGISLATIVE BRANCH                  01/03/2007
+    48 USC SUBCHAPTER III - LEGISLATIVE BRANCH                  01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25256,7 +25127,7 @@
 
 
 -CITE-
-    48 USC Sec. 1571                                            01/03/2007
+    48 USC Sec. 1571                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25325,7 +25196,7 @@
 
 
 -CITE-
-    48 USC Sec. 1572                                            01/03/2007
+    48 USC Sec. 1572                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25474,7 +25345,7 @@
 
 
 -CITE-
-    48 USC Sec. 1573                                            01/03/2007
+    48 USC Sec. 1573                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25537,7 +25408,7 @@
 
 
 -CITE-
-    48 USC Sec. 1574                                            01/03/2007
+    48 USC Sec. 1574                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25850,7 +25721,7 @@
 
 
 -CITE-
-    48 USC Sec. 1574-1                                          01/03/2007
+    48 USC Sec. 1574-1                                          01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25938,7 +25809,7 @@
 
 
 -CITE-
-    48 USC Sec. 1574a                                           01/03/2007
+    48 USC Sec. 1574a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26029,7 +25900,7 @@
 
 
 -CITE-
-    48 USC Sec. 1574b                                           01/03/2007
+    48 USC Sec. 1574b                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26227,7 +26098,7 @@
 
 
 -CITE-
-    48 USC Sec. 1574c                                           01/03/2007
+    48 USC Sec. 1574c                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26285,7 +26156,7 @@
 
 
 -CITE-
-    48 USC Sec. 1574d                                           01/03/2007
+    48 USC Sec. 1574d                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26307,7 +26178,7 @@
 
 
 -CITE-
-    48 USC Sec. 1575                                            01/03/2007
+    48 USC Sec. 1575                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26446,7 +26317,7 @@
 
 
 -CITE-
-    48 USC Sec. 1576                                            01/03/2007
+    48 USC Sec. 1576                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26479,7 +26350,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER IV - EXECUTIVE BRANCH                     01/03/2007
+    48 USC SUBCHAPTER IV - EXECUTIVE BRANCH                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26494,7 +26365,7 @@
 
 
 -CITE-
-    48 USC Sec. 1591                                            01/03/2007
+    48 USC Sec. 1591                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26667,7 +26538,7 @@
 
 
 -CITE-
-    48 USC Sec. 1592                                            01/03/2007
+    48 USC Sec. 1592                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26699,7 +26570,7 @@
 
 
 -CITE-
-    48 USC Sec. 1593                                            01/03/2007
+    48 USC Sec. 1593                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26844,7 +26715,7 @@
 
 
 -CITE-
-    48 USC Sec. 1594                                            01/03/2007
+    48 USC Sec. 1594                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26872,7 +26743,7 @@
 
 
 -CITE-
-    48 USC Sec. 1595                                            01/03/2007
+    48 USC Sec. 1595                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26962,7 +26833,7 @@
 
 
 -CITE-
-    48 USC Sec. 1596                                            01/03/2007
+    48 USC Sec. 1596                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26985,7 +26856,7 @@
 
 
 -CITE-
-    48 USC Sec. 1597                                            01/03/2007
+    48 USC Sec. 1597                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27078,7 +26949,7 @@
 
 
 -CITE-
-    48 USC Sec. 1598                                            01/03/2007
+    48 USC Sec. 1598                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27102,7 +26973,7 @@
 
 
 -CITE-
-    48 USC Sec. 1599                                            01/03/2007
+    48 USC Sec. 1599                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27176,7 +27047,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER V - JUDICIAL BRANCH                       01/03/2007
+    48 USC SUBCHAPTER V - JUDICIAL BRANCH                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27191,7 +27062,7 @@
 
 
 -CITE-
-    48 USC Sec. 1611                                            01/03/2007
+    48 USC Sec. 1611                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27248,7 +27119,7 @@
 
 
 -CITE-
-    48 USC Sec. 1612                                            01/03/2007
+    48 USC Sec. 1612                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27375,7 +27246,7 @@
 
 
 -CITE-
-    48 USC Sec. 1613                                            01/03/2007
+    48 USC Sec. 1613                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27438,15 +27309,6 @@
     Oct. 5, 1984, see section 1005 of Pub. L. 98-454, set out as a note
     under section 1424 of this title.
 
--CHANGE-
-                              CHANGE OF NAME                          
-      Committee on Natural Resources of House of Representatives
-    treated as referring to Committee on Resources of House of
-    Representatives by section 1(a) of Pub. L. 104-14, set out as a
-    note preceding section 21 of Title 2, The Congress.
-
-
--MISC2-
                    TERMINATION OF REPORTING REQUIREMENTS               
       For termination, effective May 15, 2000, of provisions of law
     requiring submittal to Congress of any annual, semiannual, or other
@@ -27461,7 +27323,7 @@
 
 
 -CITE-
-    48 USC Sec. 1613a                                           01/03/2007
+    48 USC Sec. 1613a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27566,7 +27428,7 @@
 
 
 -CITE-
-    48 USC Sec. 1614                                            01/03/2007
+    48 USC Sec. 1614                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27716,7 +27578,7 @@
 
 
 -CITE-
-    48 USC Sec. 1615                                            01/03/2007
+    48 USC Sec. 1615                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27772,7 +27634,7 @@
 
 
 -CITE-
-    48 USC Sec. 1616                                            01/03/2007
+    48 USC Sec. 1616                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27807,7 +27669,7 @@
 
 
 -CITE-
-    48 USC Sec. 1617                                            01/03/2007
+    48 USC Sec. 1617                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27873,7 +27735,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER VI - SYSTEM OF ACCOUNTS                   01/03/2007
+    48 USC SUBCHAPTER VI - SYSTEM OF ACCOUNTS                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27888,7 +27750,7 @@
 
 
 -CITE-
-    48 USC Sec. 1631                                            01/03/2007
+    48 USC Sec. 1631                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27950,15 +27812,16 @@
       "(b) Transmission to Congress. - Upon ratification of the
     agreement authorized in subsection (a) by both parties, the
     Secretary shall forward a copy of the agreement to the Committee on
-    Resources in the House of Representatives and the Committee on
-    Energy and Natural Resources in the Senate."
+    Resources [now Committee on Natural Resources] in the House of
+    Representatives and the Committee on Energy and Natural Resources
+    in the Senate."
 
 -End-
 
 
 
 -CITE-
-    48 USC Sec. 1632                                            01/03/2007
+    48 USC Sec. 1632                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27986,7 +27849,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER VII - FISCAL PROVISIONS                   01/03/2007
+    48 USC SUBCHAPTER VII - FISCAL PROVISIONS                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28001,7 +27864,7 @@
 
 
 -CITE-
-    48 USC Sec. 1641                                            01/03/2007
+    48 USC Sec. 1641                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28116,7 +27979,7 @@
 
 
 -CITE-
-    48 USC Sec. 1642                                            01/03/2007
+    48 USC Sec. 1642                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28205,7 +28068,7 @@
 
 
 -CITE-
-    48 USC Sec. 1642a                                           01/03/2007
+    48 USC Sec. 1642a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28246,7 +28109,7 @@
 
 
 -CITE-
-    48 USC Sec. 1643                                            01/03/2007
+    48 USC Sec. 1643                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28292,7 +28155,7 @@
 
 
 -CITE-
-    48 USC Sec. 1644                                            01/03/2007
+    48 USC Sec. 1644                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28355,7 +28218,7 @@
 
 
 -CITE-
-    48 USC Sec. 1645                                            01/03/2007
+    48 USC Sec. 1645                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28415,7 +28278,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 13 - EASTERN SAMOA                           01/03/2007
+    48 USC CHAPTER 13 - EASTERN SAMOA                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28449,7 +28312,7 @@
 
 
 -CITE-
-    48 USC Sec. 1661                                            01/03/2007
+    48 USC Sec. 1661                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28526,7 +28389,7 @@
 
 
 -CITE-
-    48 USC Sec. 1662                                            01/03/2007
+    48 USC Sec. 1662                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28604,7 +28467,7 @@
 
 
 -CITE-
-    48 USC Sec. 1662a                                           01/03/2007
+    48 USC Sec. 1662a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28632,7 +28495,7 @@
 
 
 -CITE-
-    48 USC Sec. 1663                                            01/03/2007
+    48 USC Sec. 1663                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28676,7 +28539,7 @@
 
 
 -CITE-
-    48 USC Sec. 1664                                            01/03/2007
+    48 USC Sec. 1664                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28699,7 +28562,7 @@
 
 
 -CITE-
-    48 USC Sec. 1665                                            01/03/2007
+    48 USC Sec. 1665                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28770,7 +28633,7 @@
 
 
 -CITE-
-    48 USC Sec. 1666                                            01/03/2007
+    48 USC Sec. 1666                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28854,7 +28717,7 @@
 
 
 -CITE-
-    48 USC Sec. 1667                                            01/03/2007
+    48 USC Sec. 1667                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28880,7 +28743,7 @@
 
 
 -CITE-
-    48 USC Sec. 1668                                            01/03/2007
+    48 USC Sec. 1668                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28987,7 +28850,7 @@
 
 
 -CITE-
-    48 USC Sec. 1669                                            01/03/2007
+    48 USC Sec. 1669                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29015,7 +28878,7 @@
 
 
 -CITE-
-    48 USC Sec. 1670                                            01/03/2007
+    48 USC Sec. 1670                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29090,7 +28953,7 @@
 
 -CITE-
     48 USC CHAPTER 14 - TRUST TERRITORY OF THE PACIFIC
-           ISLANDS                                         01/03/2007
+           ISLANDS                                         01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29160,7 +29023,7 @@
 
 
 -CITE-
-    48 USC Sec. 1681                                            01/03/2007
+    48 USC Sec. 1681                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29370,7 +29233,7 @@
 
 
 -CITE-
-    48 USC Sec. 1681a                                           01/03/2007
+    48 USC Sec. 1681a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29393,7 +29256,7 @@
 
 
 -CITE-
-    48 USC Sec. 1681b                                           01/03/2007
+    48 USC Sec. 1681b                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29484,7 +29347,7 @@
 
 
 -CITE-
-    48 USC Sec. 1681c                                           01/03/2007
+    48 USC Sec. 1681c                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29506,7 +29369,7 @@
 
 
 -CITE-
-    48 USC Sec. 1682                                            01/03/2007
+    48 USC Sec. 1682                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29577,7 +29440,7 @@
 
 
 -CITE-
-    48 USC Sec. 1683                                            01/03/2007
+    48 USC Sec. 1683                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29666,7 +29529,7 @@
 
 
 -CITE-
-    48 USC Sec. 1684                                            01/03/2007
+    48 USC Sec. 1684                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29704,7 +29567,7 @@
 
 
 -CITE-
-    48 USC Sec. 1685                                            01/03/2007
+    48 USC Sec. 1685                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29752,7 +29615,7 @@
 
 
 -CITE-
-    48 USC Secs. 1686, 1687                                     01/03/2007
+    48 USC Secs. 1686, 1687                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29814,7 +29677,7 @@
 
 
 -CITE-
-    48 USC Sec. 1688                                            01/03/2007
+    48 USC Sec. 1688                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29850,7 +29713,7 @@
 
 
 -CITE-
-    48 USC Sec. 1689                                            01/03/2007
+    48 USC Sec. 1689                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29878,7 +29741,7 @@
 
 
 -CITE-
-    48 USC Sec. 1690                                            01/03/2007
+    48 USC Sec. 1690                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29910,7 +29773,7 @@
 
 
 -CITE-
-    48 USC Sec. 1691                                            01/03/2007
+    48 USC Sec. 1691                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29934,7 +29797,7 @@
 
 
 -CITE-
-    48 USC Sec. 1692                                            01/03/2007
+    48 USC Sec. 1692                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30027,7 +29890,7 @@
 
 
 -CITE-
-    48 USC Sec. 1693                                            01/03/2007
+    48 USC Sec. 1693                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30051,7 +29914,7 @@
 
 
 -CITE-
-    48 USC Secs. 1694 to 1694e                                  01/03/2007
+    48 USC Secs. 1694 to 1694e                                  01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30076,7 +29939,7 @@
 
 
 -CITE-
-    48 USC Sec. 1695                                            01/03/2007
+    48 USC Sec. 1695                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30122,7 +29985,7 @@
 
 -CITE-
     48 USC CHAPTER 15 - CONVEYANCE OF SUBMERGED LANDS TO
-           TERRITORIES                                     01/03/2007
+           TERRITORIES                                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30148,7 +30011,7 @@
 
 
 -CITE-
-    48 USC Secs. 1701 to 1703                                   01/03/2007
+    48 USC Secs. 1701 to 1703                                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30180,7 +30043,7 @@
 
 
 -CITE-
-    48 USC Sec. 1704                                            01/03/2007
+    48 USC Sec. 1704                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30238,7 +30101,7 @@
 
 
 -CITE-
-    48 USC Sec. 1705                                            01/03/2007
+    48 USC Sec. 1705                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30369,13 +30232,6 @@
       1980 - Subsec. (c). Pub. L. 96-205, Sec. 607(b), inserted
     "subsection (a) or (b) of" before "this section".
       Subsec. (d). Pub. L. 96-205, Sec. 607(a), added subsec. (d).
-
--CHANGE-
-                              CHANGE OF NAME                          
-      Committee on Natural Resources of House of Representatives
-    treated as referring to Committee on Resources of House of
-    Representatives by section 1(a) of Pub. L. 104-14, set out as a
-    note preceding section 21 of Title 2, The Congress.
 
 
 -EXEC-
@@ -30518,7 +30374,7 @@
 
 
 -CITE-
-    48 USC Sec. 1706                                            01/03/2007
+    48 USC Sec. 1706                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30577,7 +30433,7 @@
 
 
 -CITE-
-    48 USC Sec. 1707                                            01/03/2007
+    48 USC Sec. 1707                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30615,7 +30471,7 @@
 
 
 -CITE-
-    48 USC Sec. 1708                                            01/03/2007
+    48 USC Sec. 1708                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30659,7 +30515,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 16 - DELEGATES TO CONGRESS                   01/03/2007
+    48 USC CHAPTER 16 - DELEGATES TO CONGRESS                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30697,7 +30553,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER I - GUAM AND VIRGIN ISLANDS               01/03/2007
+    48 USC SUBCHAPTER I - GUAM AND VIRGIN ISLANDS               01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30712,7 +30568,7 @@
 
 
 -CITE-
-    48 USC Sec. 1711                                            01/03/2007
+    48 USC Sec. 1711                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30737,7 +30593,7 @@
 
 
 -CITE-
-    48 USC Sec. 1712                                            01/03/2007
+    48 USC Sec. 1712                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30785,7 +30641,7 @@
 
 
 -CITE-
-    48 USC Sec. 1713                                            01/03/2007
+    48 USC Sec. 1713                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30814,7 +30670,7 @@
 
 
 -CITE-
-    48 USC Sec. 1714                                            01/03/2007
+    48 USC Sec. 1714                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30842,7 +30698,7 @@
 
 
 -CITE-
-    48 USC Sec. 1715                                            01/03/2007
+    48 USC Sec. 1715                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30886,7 +30742,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER II - AMERICAN SAMOA                       01/03/2007
+    48 USC SUBCHAPTER II - AMERICAN SAMOA                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30901,7 +30757,7 @@
 
 
 -CITE-
-    48 USC Sec. 1731                                            01/03/2007
+    48 USC Sec. 1731                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30924,7 +30780,7 @@
 
 
 -CITE-
-    48 USC Sec. 1732                                            01/03/2007
+    48 USC Sec. 1732                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31019,7 +30875,7 @@
 
 
 -CITE-
-    48 USC Sec. 1733                                            01/03/2007
+    48 USC Sec. 1733                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31054,7 +30910,7 @@
 
 
 -CITE-
-    48 USC Sec. 1734                                            01/03/2007
+    48 USC Sec. 1734                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31084,7 +30940,7 @@
 
 
 -CITE-
-    48 USC Sec. 1735                                            01/03/2007
+    48 USC Sec. 1735                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31122,7 +30978,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 17 - NORTHERN MARIANA ISLANDS                01/03/2007
+    48 USC CHAPTER 17 - NORTHERN MARIANA ISLANDS                01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31177,7 +31033,7 @@
 
 -CITE-
     48 USC SUBCHAPTER I - APPROVAL OF COVENANT AND
-           SUPPLEMENTAL PROVISIONS                         01/03/2007
+           SUPPLEMENTAL PROVISIONS                         01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31192,7 +31048,7 @@
 
 
 -CITE-
-    48 USC Sec. 1801                                            01/03/2007
+    48 USC Sec. 1801                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -32427,7 +32283,7 @@
 
 
 -CITE-
-    48 USC Sec. 1802                                            01/03/2007
+    48 USC Sec. 1802                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -32469,7 +32325,7 @@
 
 
 -CITE-
-    48 USC Sec. 1803                                            01/03/2007
+    48 USC Sec. 1803                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -32538,7 +32394,7 @@
 
 
 -CITE-
-    48 USC Sec. 1804                                            01/03/2007
+    48 USC Sec. 1804                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -32734,7 +32590,7 @@
 
 
 -CITE-
-    48 USC Sec. 1805                                            01/03/2007
+    48 USC Sec. 1805                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -32776,16 +32632,13 @@
       Committee on Interior and Insular Affairs of House of
     Representatives changed to Committee on Natural Resources of House
     of Representatives by House Resolution No. 5, One Hundred Third
-    Congress, Jan. 5, 1993. Committee on Natural Resources of House of
-    Representatives treated as referring to Committee on Resources of
-    House of Representatives by section 1(a) of Pub. L. 104-14, set out
-    as a note preceding section 21 of Title 2, The Congress.
+    Congress, Jan. 5, 1993.
 
 -End-
 
 
 -CITE-
-    48 USC SUBCHAPTER II - JUDICIAL MATTERS                     01/03/2007
+    48 USC SUBCHAPTER II - JUDICIAL MATTERS                     01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -32800,7 +32653,7 @@
 
 
 -CITE-
-    48 USC Sec. 1821                                            01/03/2007
+    48 USC Sec. 1821                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -32955,7 +32808,7 @@
 
 
 -CITE-
-    48 USC Sec. 1822                                            01/03/2007
+    48 USC Sec. 1822                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33015,7 +32868,7 @@
 
 
 -CITE-
-    48 USC Sec. 1823                                            01/03/2007
+    48 USC Sec. 1823                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33113,7 +32966,7 @@
 
 
 -CITE-
-    48 USC Sec. 1824                                            01/03/2007
+    48 USC Sec. 1824                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33189,7 +33042,7 @@
 
 
 -CITE-
-    48 USC Sec. 1825                                            01/03/2007
+    48 USC Sec. 1825                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33225,7 +33078,7 @@
 
 
 -CITE-
-    48 USC Sec. 1826                                            01/03/2007
+    48 USC Sec. 1826                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33256,7 +33109,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER III - MISCELLANEOUS                       01/03/2007
+    48 USC SUBCHAPTER III - MISCELLANEOUS                       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33271,7 +33124,7 @@
 
 
 -CITE-
-    48 USC Sec. 1841                                            01/03/2007
+    48 USC Sec. 1841                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33469,7 +33322,7 @@
 
 
 -CITE-
-    48 USC Sec. 1842                                            01/03/2007
+    48 USC Sec. 1842                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33520,7 +33373,7 @@
 
 
 -CITE-
-    48 USC Sec. 1843                                            01/03/2007
+    48 USC Sec. 1843                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33633,7 +33486,7 @@
 
 
 -CITE-
-    48 USC Sec. 1844                                            01/03/2007
+    48 USC Sec. 1844                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33680,7 +33533,7 @@
 
 
 -CITE-
-    48 USC Sec. 1845                                            01/03/2007
+    48 USC Sec. 1845                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33723,7 +33576,7 @@
 
 
 -CITE-
-    48 USC Sec. 1846                                            01/03/2007
+    48 USC Sec. 1846                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33763,7 +33616,7 @@
 
 -CITE-
     48 USC CHAPTER 18 - MICRONESIA, MARSHALL ISLANDS, AND
-           PALAU                                           01/03/2007
+           PALAU                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33840,7 +33693,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER I - MICRONESIA AND MARSHALL ISLANDS       01/03/2007
+    48 USC SUBCHAPTER I - MICRONESIA AND MARSHALL ISLANDS       01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33855,7 +33708,7 @@
 
 -CITE-
     48 USC Part A - Approval and Implementation of Original
-                     Compact                               01/03/2007
+                     Compact                               01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33871,7 +33724,7 @@
 
 
 -CITE-
-    48 USC Sec. 1901                                            01/03/2007
+    48 USC Sec. 1901                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -36551,7 +36404,7 @@
 
 
 -CITE-
-    48 USC Sec. 1902                                            01/03/2007
+    48 USC Sec. 1902                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -36810,7 +36663,7 @@
 
 
 -CITE-
-    48 USC Sec. 1903                                            01/03/2007
+    48 USC Sec. 1903                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -37538,12 +37391,13 @@
     basis for his finding and the estimated cost of extension of the
     program. The Secretary of Energy shall transmit annually to the
     Committees on Interior and Insular Affairs [now Committee on
-    Resources] and Appropriations of the House of Representatives and
-    the Committees on Energy and Natural Resources and Appropriations
-    of the Senate together with the proposed budget for the next fiscal
-    year, a description of the program and the estimated costs for
-    implementation together with any recommendations which he may have
-    for improvements in such program."
+    Natural Resources] and Appropriations of the House of
+    Representatives and the Committees on Energy and Natural Resources
+    and Appropriations of the Senate together with the proposed budget
+    for the next fiscal year, a description of the program and the
+    estimated costs for implementation together with any
+    recommendations which he may have for improvements in such
+    program."
 
 -FOOTNOTE-
     (!1) See References in Text note below.
@@ -37556,7 +37410,7 @@
 
 
 -CITE-
-    48 USC Sec. 1904                                            01/03/2007
+    48 USC Sec. 1904                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -37852,7 +37706,7 @@
 
 
 -CITE-
-    48 USC Sec. 1905                                            01/03/2007
+    48 USC Sec. 1905                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -38416,7 +38270,7 @@
 
 
 -CITE-
-    48 USC Sec. 1906                                            01/03/2007
+    48 USC Sec. 1906                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -38483,7 +38337,7 @@
 
 
 -CITE-
-    48 USC Sec. 1907                                            01/03/2007
+    48 USC Sec. 1907                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -38557,7 +38411,7 @@
 
 
 -CITE-
-    48 USC Sec. 1908                                            01/03/2007
+    48 USC Sec. 1908                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -38614,7 +38468,7 @@
 
 
 -CITE-
-    48 USC Sec. 1909                                            01/03/2007
+    48 USC Sec. 1909                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -38656,7 +38510,7 @@
 
 
 -CITE-
-    48 USC Sec. 1910                                            01/03/2007
+    48 USC Sec. 1910                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -38711,7 +38565,7 @@
 
 
 -CITE-
-    48 USC Sec. 1911                                            01/03/2007
+    48 USC Sec. 1911                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -38841,7 +38695,7 @@
 
 
 -CITE-
-    48 USC Sec. 1912                                            01/03/2007
+    48 USC Sec. 1912                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -38933,7 +38787,7 @@
 
 -CITE-
     48 USC Part B - Approval and Implementation of Compacts,
-                     As Amended                            01/03/2007
+                     As Amended                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -38949,7 +38803,7 @@
 
 
 -CITE-
-    48 USC Sec. 1921                                            01/03/2007
+    48 USC Sec. 1921                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -42458,125 +42312,125 @@
                          [IN MILLIONS OF DOLLARS]                     
     --------------------------------------------------------------------
     Fiscal year: 2004 
-      Annual Grants Section 211: 35.2 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 7 
-      Kwajalein Impact Section 212: 15.0 
-      Total: 57.7
+      Annual Grants Section 211: 035.2 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 07 
+      Kwajalein Impact Section 212: 015.0 
+      Total: 057.7
     Fiscal year: 2005 
-      Annual Grants Section 211: 34.7 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 7.5 
-      Kwajalein Impact Section 212: 15.0 
-      Total: 57.7
+      Annual Grants Section 211: 034.7 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 07.5 
+      Kwajalein Impact Section 212: 015.0 
+      Total: 057.7
     Fiscal year: 2006 
-      Annual Grants Section 211: 34.2 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 8 
-      Kwajalein Impact Section 212: 15.0 
-      Total: 57.7
+      Annual Grants Section 211: 034.2 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 08 
+      Kwajalein Impact Section 212: 015.0 
+      Total: 057.7
     Fiscal year: 2007 
-      Annual Grants Section 211: 33.7 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 8.5 
-      Kwajalein Impact Section 212: 15.0 
-      Total: 57.7
+      Annual Grants Section 211: 033.7 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 08.5 
+      Kwajalein Impact Section 212: 015.0 
+      Total: 057.7
     Fiscal year: 2008 
-      Annual Grants Section 211: 33.2 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 9 
-      Kwajalein Impact Section 212: 15.0 
-      Total: 57.7
+      Annual Grants Section 211: 033.2 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 09 
+      Kwajalein Impact Section 212: 015.0 
+      Total: 057.7
     Fiscal year: 2009 
-      Annual Grants Section 211: 32.7 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 9.5 
-      Kwajalein Impact Section 212: 15.0 
-      Total: 57.7
+      Annual Grants Section 211: 032.7 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 09.5 
+      Kwajalein Impact Section 212: 015.0 
+      Total: 057.7
     Fiscal year: 2010 
-      Annual Grants Section 211: 32.2 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 10 
-      Kwajalein Impact Section 212: 15.0 
-      Total: 57.7
+      Annual Grants Section 211: 032.2 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 010 
+      Kwajalein Impact Section 212: 015.0 
+      Total: 057.7
     Fiscal year: 2011 
-      Annual Grants Section 211: 31.7 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 10.5 
-      Kwajalein Impact Section 212: 15.0 
-      Total: 57.7
+      Annual Grants Section 211: 031.7 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 010.5 
+      Kwajalein Impact Section 212: 015.0 
+      Total: 057.7
     Fiscal year: 2012 
-      Annual Grants Section 211: 31.2 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 11 
-      Kwajalein Impact Section 212: 15.0 
-      Total: 57.7
+      Annual Grants Section 211: 031.2 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 011 
+      Kwajalein Impact Section 212: 015.0 
+      Total: 057.7
     Fiscal year: 2013 
-      Annual Grants Section 211: 30.7 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 11.5 
-      Kwajalein Impact Section 212: 15.0 
-      Total: 57.7
+      Annual Grants Section 211: 030.7 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 011.5 
+      Kwajalein Impact Section 212: 015.0 
+      Total: 057.7
     Fiscal year: 2014 
-      Annual Grants Section 211: 32.2 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 12 
-      Kwajalein Impact Section 212: 18.0 
-      Total: 62.7
+      Annual Grants Section 211: 032.2 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 012 
+      Kwajalein Impact Section 212: 018.0 
+      Total: 062.7
     Fiscal year: 2015 
-      Annual Grants Section 211: 31.7 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 12.5 
-      Kwajalein Impact Section 212: 18.0 
-      Total: 62.7
+      Annual Grants Section 211: 031.7 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 012.5 
+      Kwajalein Impact Section 212: 018.0 
+      Total: 062.7
     Fiscal year: 2016 
-      Annual Grants Section 211: 31.2 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 13 
-      Kwajalein Impact Section 212: 18.0 
-      Total: 62.7
+      Annual Grants Section 211: 031.2 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 013 
+      Kwajalein Impact Section 212: 018.0 
+      Total: 062.7
     Fiscal year: 2017 
-      Annual Grants Section 211: 30.7 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 13.5 
-      Kwajalein Impact Section 212: 18.0 
-      Total: 62.7
+      Annual Grants Section 211: 030.7 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 013.5 
+      Kwajalein Impact Section 212: 018.0 
+      Total: 062.7
     Fiscal year: 2018 
-      Annual Grants Section 211: 30.2 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 14 
-      Kwajalein Impact Section 212: 18.0 
-      Total: 62.7
+      Annual Grants Section 211: 030.2 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 014 
+      Kwajalein Impact Section 212: 018.0 
+      Total: 062.7
     Fiscal year: 2019 
-      Annual Grants Section 211: 29.7 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 14.5 
-      Kwajalein Impact Section 212: 18.0 
-      Total: 62.7
+      Annual Grants Section 211: 029.7 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 014.5 
+      Kwajalein Impact Section 212: 018.0 
+      Total: 062.7
     Fiscal year: 2020 
-      Annual Grants Section 211: 29.2 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 15 
-      Kwajalein Impact Section 212: 18.0 
-      Total: 62.7
+      Annual Grants Section 211: 029.2 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 015 
+      Kwajalein Impact Section 212: 018.0 
+      Total: 062.7
     Fiscal year: 2021 
-      Annual Grants Section 211: 28.7 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 15.5 
-      Kwajalein Impact Section 212: 18.0 
-      Total: 62.7
+      Annual Grants Section 211: 028.7 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 015.5 
+      Kwajalein Impact Section 212: 018.0 
+      Total: 062.7
     Fiscal year: 2022 
-      Annual Grants Section 211: 28.2 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 16 
-      Kwajalein Impact Section 212: 18.0 
-      Total: 62.7
+      Annual Grants Section 211: 028.2 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 016 
+      Kwajalein Impact Section 212: 018.0 
+      Total: 062.7
     Fiscal year: 2023 
-      Annual Grants Section 211: 27.7 
-      Audit Grant Section 213(b): .5 
-      Trust Fund Section 216 (a&c): 16.5 
-      Kwajalein Impact Section 212: 18.0 
-      Total: 62.7
+      Annual Grants Section 211: 027.7 
+      Audit Grant Section 213(b): 0.5 
+      Trust Fund Section 216 (a&c): 016.5 
+      Kwajalein Impact Section 212: 018.0 
+      Total: 062.7
     --------------------------------------------------------------------
 
 
@@ -43703,7 +43557,7 @@
 
 
 -CITE-
-    48 USC Sec. 1921a                                           01/03/2007
+    48 USC Sec. 1921a                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -43833,7 +43687,7 @@
 
 
 -CITE-
-    48 USC Sec. 1921b                                           01/03/2007
+    48 USC Sec. 1921b                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -44434,7 +44288,7 @@
 
 
 -CITE-
-    48 USC Sec. 1921c                                           01/03/2007
+    48 USC Sec. 1921c                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -44885,6 +44739,15 @@
     is the enactment of Pub. L. 108-188, which was approved Dec. 17,
     2003.
 
+-CHANGE-
+                              CHANGE OF NAME                          
+      Committee on Resources of House of Representatives changed to
+    Committee on Natural Resources of House of Representatives and
+    Committee on International Relations of House of Representatives
+    changed to Committee on Foreign Affairs of House of Representatives
+    by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5,
+    2007.
+
 
 -EXEC-
                      ASSIGNMENT OF REPORTING FUNCTIONS                 
@@ -44905,7 +44768,7 @@
 
 
 -CITE-
-    48 USC Sec. 1921d                                           01/03/2007
+    48 USC Sec. 1921d                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -45307,10 +45170,11 @@
           continue to be available to State and local governments in
           the United States.
           (ix) Applicability
-            The Republic of Palau shall remain eligible for
-          appropriations and to receive grants under the provisions of
-          law specified in clauses (ii) and (iii) until the end of
-          fiscal year 2007, to the extent the Republic of Palau was so
+            The government, institutions, and people of Palau shall
+          remain eligible for appropriations and to receive grants
+          under the provisions of law specified in clauses (ii) and
+          (iii) until the end of fiscal year 2009, to the extent the
+          government, institutions, and people of Palau were so
           eligible under such provisions in fiscal year 2003.
 
           (C) The Legal Services Corporation.
@@ -45494,7 +45358,8 @@
 
 -SOURCE-
     (Pub. L. 108-188, title I, Sec. 105, Dec. 17, 2003, 117 Stat. 2744;
-    Pub. L. 109-270, Sec. 2(l), Aug. 12, 2006, 120 Stat. 749.)
+    Pub. L. 109-270, Sec. 2(l), Aug. 12, 2006, 120 Stat. 749; Pub. L.
+    110-161, div. F, title I, Sec. 124, Dec. 26, 2007, 121 Stat. 2121.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -45590,6 +45455,9 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2007 - Subsec. (f)(1)(B)(ix). Pub. L. 110-161 substituted
+    "government, institutions, and people" for "Republic" in two
+    places, "2009" for "2007", and "were" for "was".
       2006 - Subsec. (f)(1)(B)(iii). Pub. L. 109-270 substituted "Carl
     D. Perkins Career and Technical Education Act of 2006" for "Carl D.
     Perkins Vocational and Technical Education Act of 1998".
@@ -45609,7 +45477,7 @@
 
 
 -CITE-
-    48 USC Sec. 1921e                                           01/03/2007
+    48 USC Sec. 1921e                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -45674,7 +45542,7 @@
 
 
 -CITE-
-    48 USC Sec. 1921f                                           01/03/2007
+    48 USC Sec. 1921f                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -45709,7 +45577,7 @@
 
 
 -CITE-
-    48 USC Sec. 1921g                                           01/03/2007
+    48 USC Sec. 1921g                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -45799,7 +45667,7 @@
 
 
 -CITE-
-    48 USC Sec. 1921h                                           01/03/2007
+    48 USC Sec. 1921h                                           01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -45834,7 +45702,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER II - PALAU                                01/03/2007
+    48 USC SUBCHAPTER II - PALAU                                01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -45849,7 +45717,7 @@
 
 -CITE-
     48 USC Part A - Approval of Compact and Supplemental
-                     Provisions                            01/03/2007
+                     Provisions                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -45865,7 +45733,7 @@
 
 
 -CITE-
-    48 USC Sec. 1931                                            01/03/2007
+    48 USC Sec. 1931                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -46024,10 +45892,7 @@
       Committee on Interior and Insular Affairs of House of
     Representatives changed to Committee on Natural Resources of House
     of Representatives by House Resolution No. 5, One Hundred Third
-    Congress, Jan. 5, 1993. Committee on Natural Resources of House of
-    Representatives treated as referring to Committee on Resources of
-    House of Representatives by section 1(a) of Pub. L. 104-14, set out
-    as a note preceding section 21 of Title 2, The Congress.
+    Congress, Jan. 5, 1993.
 
 
 -MISC1-
@@ -47722,7 +47587,7 @@
 
 
 -CITE-
-    48 USC Sec. 1932                                            01/03/2007
+    48 USC Sec. 1932                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -47764,7 +47629,7 @@
 
 
 -CITE-
-    48 USC Sec. 1933                                            01/03/2007
+    48 USC Sec. 1933                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48011,10 +47876,7 @@
       Committee on Interior and Insular Affairs of House of
     Representatives changed to Committee on Natural Resources of House
     of Representatives by House Resolution No. 5, One Hundred Third
-    Congress, Jan. 5, 1993. Committee on Natural Resources of House of
-    Representatives treated as referring to Committee on Resources of
-    House of Representatives by section 1(a) of Pub. L. 104-14, set out
-    as a note preceding section 21 of Title 2, The Congress.
+    Congress, Jan. 5, 1993.
 
 -FOOTNOTE-
     (!1) So in original. Probably should be followed by "of the
@@ -48029,7 +47891,7 @@
 
 
 -CITE-
-    48 USC Sec. 1934                                            01/03/2007
+    48 USC Sec. 1934                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48116,7 +47978,7 @@
 
 
 -CITE-
-    48 USC Part B - Implementation of Compact                   01/03/2007
+    48 USC Part B - Implementation of Compact                   01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48132,7 +47994,7 @@
 
 
 -CITE-
-    48 USC Sec. 1951                                            01/03/2007
+    48 USC Sec. 1951                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48199,21 +48061,14 @@
       Committee on Interior and Insular Affairs of House of
     Representatives changed to Committee on Natural Resources of House
     of Representatives by House Resolution No. 5, One Hundred Third
-    Congress, Jan. 5, 1993. Committee on Natural Resources of House of
-    Representatives treated as referring to Committee on Resources of
-    House of Representatives by section 1(a) of Pub. L. 104-14, set out
-    as a note preceding section 21 of Title 2, The Congress.
-      Committee on Foreign Affairs of House of Representatives treated
-    as referring to Committee on International Relations of House of
-    Representatives by section 1(a) of Pub. L. 104-14, set out as a
-    note preceding section 21 of Title 2.
+    Congress, Jan. 5, 1993.
 
 -End-
 
 
 
 -CITE-
-    48 USC Sec. 1952                                            01/03/2007
+    48 USC Sec. 1952                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48267,7 +48122,7 @@
 
 
 -CITE-
-    48 USC Sec. 1953                                            01/03/2007
+    48 USC Sec. 1953                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48323,21 +48178,14 @@
       Committee on Interior and Insular Affairs of House of
     Representatives changed to Committee on Natural Resources of House
     of Representatives by House Resolution No. 5, One Hundred Third
-    Congress, Jan. 5, 1993. Committee on Natural Resources of House of
-    Representatives treated as referring to Committee on Resources of
-    House of Representatives by section 1(a) of Pub. L. 104-14, set out
-    as a note preceding section 21 of Title 2, The Congress.
-      Committee on Foreign Affairs of House of Representatives treated
-    as referring to Committee on International Relations of House of
-    Representatives by section 1(a) of Pub. L. 104-14, set out as a
-    note preceding section 21 of Title 2.
+    Congress, Jan. 5, 1993.
 
 -End-
 
 
 
 -CITE-
-    48 USC Sec. 1954                                            01/03/2007
+    48 USC Sec. 1954                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48387,7 +48235,7 @@
 
 
 -CITE-
-    48 USC Sec. 1955                                            01/03/2007
+    48 USC Sec. 1955                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48417,7 +48265,7 @@
 
 
 -CITE-
-    48 USC Sec. 1956                                            01/03/2007
+    48 USC Sec. 1956                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48464,7 +48312,7 @@
 
 
 -CITE-
-    48 USC Sec. 1957                                            01/03/2007
+    48 USC Sec. 1957                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48515,7 +48363,7 @@
 
 
 -CITE-
-    48 USC Sec. 1958                                            01/03/2007
+    48 USC Sec. 1958                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48553,7 +48401,7 @@
 
 
 -CITE-
-    48 USC Sec. 1959                                            01/03/2007
+    48 USC Sec. 1959                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48645,7 +48493,7 @@
 
 
 -CITE-
-    48 USC Sec. 1960                                            01/03/2007
+    48 USC Sec. 1960                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48736,7 +48584,7 @@
 
 
 -CITE-
-    48 USC Sec. 1961                                            01/03/2007
+    48 USC Sec. 1961                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48789,7 +48637,7 @@
 
 
 -CITE-
-    48 USC Sec. 1962                                            01/03/2007
+    48 USC Sec. 1962                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48830,7 +48678,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER III - MISCELLANEOUS PROVISIONS            01/03/2007
+    48 USC SUBCHAPTER III - MISCELLANEOUS PROVISIONS            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48845,7 +48693,7 @@
 
 
 -CITE-
-    48 USC Sec. 1971                                            01/03/2007
+    48 USC Sec. 1971                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48917,7 +48765,7 @@
 
 
 -CITE-
-    48 USC Sec. 1972                                            01/03/2007
+    48 USC Sec. 1972                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48981,7 +48829,7 @@
 
 
 -CITE-
-    48 USC Sec. 1973                                            01/03/2007
+    48 USC Sec. 1973                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49045,7 +48893,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 19 - PACIFIC POLICY REPORTS                  01/03/2007
+    48 USC CHAPTER 19 - PACIFIC POLICY REPORTS                  01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49066,7 +48914,7 @@
 
 
 -CITE-
-    48 USC Sec. 2001                                            01/03/2007
+    48 USC Sec. 2001                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49121,7 +48969,7 @@
 
 
 -CITE-
-    48 USC Sec. 2002                                            01/03/2007
+    48 USC Sec. 2002                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49187,7 +49035,7 @@
 
 
 -CITE-
-    48 USC Sec. 2003                                            01/03/2007
+    48 USC Sec. 2003                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49228,7 +49076,7 @@
 
 
 -CITE-
-    48 USC Sec. 2004                                            01/03/2007
+    48 USC Sec. 2004                                            01/08/2008
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS

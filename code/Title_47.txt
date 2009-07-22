@@ -1,6 +1,6 @@
 -CITE-
     47 USC TITLE 47 - TELEGRAPHS, TELEPHONES, AND
-           RADIOTELEGRAPHS                                 01/03/2007
+           RADIOTELEGRAPHS                                 01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -29,7 +29,7 @@
 
 
 -CITE-
-    47 USC CHAPTER 1 - TELEGRAPHS                               01/03/2007
+    47 USC CHAPTER 1 - TELEGRAPHS                               01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -61,7 +61,7 @@
 
 
 -CITE-
-    47 USC Secs. 1 to 6                                         01/03/2007
+    47 USC Secs. 1 to 6                                         01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -106,7 +106,7 @@
 
 
 -CITE-
-    47 USC Sec. 7                                               01/03/2007
+    47 USC Sec. 7                                               01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -127,7 +127,7 @@
 
 
 -CITE-
-    47 USC Sec. 8                                               01/03/2007
+    47 USC Sec. 8                                               01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -155,7 +155,7 @@
 
 
 -CITE-
-    47 USC Sec. 9                                               01/03/2007
+    47 USC Sec. 9                                               01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -187,7 +187,7 @@
 
 
 -CITE-
-    47 USC Sec. 10                                              01/03/2007
+    47 USC Sec. 10                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -246,7 +246,7 @@
 
 
 -CITE-
-    47 USC Sec. 11                                              01/03/2007
+    47 USC Sec. 11                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -297,7 +297,7 @@
 
 
 -CITE-
-    47 USC Sec. 12                                              01/03/2007
+    47 USC Sec. 12                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -334,7 +334,7 @@
 
 
 -CITE-
-    47 USC Sec. 13                                              01/03/2007
+    47 USC Sec. 13                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -397,7 +397,7 @@
 
 
 -CITE-
-    47 USC Sec. 14                                              01/03/2007
+    47 USC Sec. 14                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -454,7 +454,7 @@
 
 
 -CITE-
-    47 USC Sec. 15                                              01/03/2007
+    47 USC Sec. 15                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -509,7 +509,7 @@
 
 
 -CITE-
-    47 USC Sec. 16                                              01/03/2007
+    47 USC Sec. 16                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -555,7 +555,7 @@
 
 
 -CITE-
-    47 USC Sec. 17                                              01/03/2007
+    47 USC Sec. 17                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -575,7 +575,7 @@
 
 
 -CITE-
-    47 USC CHAPTER 2 - SUBMARINE CABLES                         01/03/2007
+    47 USC CHAPTER 2 - SUBMARINE CABLES                         01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -614,7 +614,7 @@
 
 
 -CITE-
-    47 USC Sec. 21                                              01/03/2007
+    47 USC Sec. 21                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -662,7 +662,7 @@
 
 
 -CITE-
-    47 USC Sec. 22                                              01/03/2007
+    47 USC Sec. 22                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -688,7 +688,7 @@
 
 
 -CITE-
-    47 USC Sec. 23                                              01/03/2007
+    47 USC Sec. 23                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -713,7 +713,7 @@
 
 
 -CITE-
-    47 USC Sec. 24                                              01/03/2007
+    47 USC Sec. 24                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -741,20 +741,12 @@
 -SOURCE-
     (Feb. 29, 1888, ch. 17, Sec. 4, 25 Stat. 41.)
 
-
--MISC1-
-     INTERNATIONAL REGULATIONS FOR PREVENTING COLLISIONS AT SEA, 1972 
-      For the International Regulations for Preventing Collisions at
-    Sea, 1972, see International Regulations for Preventing Collisions
-    at Sea, 1972, set out as a note under section 1602 of Title 33,
-    Navigation and Navigable Waters.
-
 -End-
 
 
 
 -CITE-
-    47 USC Sec. 25                                              01/03/2007
+    47 USC Sec. 25                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -788,7 +780,7 @@
 
 
 -CITE-
-    47 USC Sec. 26                                              01/03/2007
+    47 USC Sec. 26                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -826,7 +818,7 @@
 
 
 -CITE-
-    47 USC Sec. 27                                              01/03/2007
+    47 USC Sec. 27                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -892,7 +884,7 @@
 
 
 -CITE-
-    47 USC Sec. 28                                              01/03/2007
+    47 USC Sec. 28                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -914,7 +906,7 @@
 
 
 -CITE-
-    47 USC Sec. 29                                              01/03/2007
+    47 USC Sec. 29                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -939,7 +931,7 @@
 
 
 -CITE-
-    47 USC Sec. 30                                              01/03/2007
+    47 USC Sec. 30                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -968,7 +960,7 @@
 
 
 -CITE-
-    47 USC Sec. 31                                              01/03/2007
+    47 USC Sec. 31                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -990,7 +982,7 @@
 
 
 -CITE-
-    47 USC Sec. 32                                              01/03/2007
+    47 USC Sec. 32                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -1011,7 +1003,7 @@
 
 
 -CITE-
-    47 USC Sec. 33                                              01/03/2007
+    47 USC Sec. 33                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -1053,7 +1045,7 @@
 
 
 -CITE-
-    47 USC Sec. 34                                              01/03/2007
+    47 USC Sec. 34                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -1094,7 +1086,7 @@
 
 
 -CITE-
-    47 USC Sec. 35                                              01/03/2007
+    47 USC Sec. 35                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -1150,7 +1142,7 @@
 
 
 -CITE-
-    47 USC Sec. 36                                              01/03/2007
+    47 USC Sec. 36                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -1191,7 +1183,7 @@
 
 
 -CITE-
-    47 USC Sec. 37                                              01/03/2007
+    47 USC Sec. 37                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -1219,7 +1211,7 @@
 
 
 -CITE-
-    47 USC Sec. 38                                              01/03/2007
+    47 USC Sec. 38                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -1258,7 +1250,7 @@
 
 
 -CITE-
-    47 USC Sec. 39                                              01/03/2007
+    47 USC Sec. 39                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -1284,7 +1276,7 @@
 
 
 -CITE-
-    47 USC CHAPTER 3 - RADIOTELEGRAPHS                          01/03/2007
+    47 USC CHAPTER 3 - RADIOTELEGRAPHS                          01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -1298,7 +1290,7 @@
 
 
 -CITE-
-    47 USC Secs. 51 to 63                                       01/03/2007
+    47 USC Secs. 51 to 63                                       01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -1396,7 +1388,7 @@
 
 
 -CITE-
-    47 USC CHAPTER 4 - RADIO ACT OF 1927                        01/03/2007
+    47 USC CHAPTER 4 - RADIO ACT OF 1927                        01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -1410,7 +1402,7 @@
 
 
 -CITE-
-    47 USC Secs. 81 to 83                                       01/03/2007
+    47 USC Secs. 81 to 83                                       01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -1441,7 +1433,7 @@
 
 
 -CITE-
-    47 USC Secs. 83a to 83e                                     01/03/2007
+    47 USC Secs. 83a to 83e                                     01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -1478,7 +1470,7 @@
 
 
 -CITE-
-    47 USC Sec. 84                                              01/03/2007
+    47 USC Sec. 84                                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -1499,7 +1491,7 @@
 
 
 -CITE-
-    47 USC Secs. 84a, 84b                                       01/03/2007
+    47 USC Secs. 84a, 84b                                       01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -1525,7 +1517,7 @@
 
 
 -CITE-
-    47 USC Secs. 85 to 119                                      01/03/2007
+    47 USC Secs. 85 to 119                                      01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -1667,7 +1659,7 @@
 
 
 -CITE-
-    47 USC Secs. 120, 121                                       01/03/2007
+    47 USC Secs. 120, 121                                       01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -1691,15 +1683,16 @@
 
 
 -CITE-    
-    47 USC CHAPTER 5 - WIRE OR RADIO COMMUNICATION              01/03/2007
+    47 USC CHAPTER 5 - WIRE OR RADIO COMMUNICATION              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
     CHAPTER 5 - WIRE OR RADIO COMMUNICATION
 
--MISC1-
+-HEAD-
                   CHAPTER 5 - WIRE OR RADIO COMMUNICATION              
 
+-MISC1-
 
                      SUBCHAPTER I - GENERAL PROVISIONS                 
     Sec.                                                     
@@ -2036,7 +2029,7 @@
 
 
 -CITE-
-    47 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/03/2007
+    47 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -2051,7 +2044,7 @@
 
 
 -CITE-
-    47 USC Sec. 151                                             01/03/2007
+    47 USC Sec. 151                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -2107,7 +2100,8 @@
       Pub. L. 105-277, div. C, title XI, Oct. 21, 1998, 112 Stat. 2681-
     719, as amended by Pub. L. 107-75, Sec. 2, Nov. 28, 2001, 115
     Stat. 703; Pub. L. 108-435, Secs. 2-6A, Dec. 3, 2004, 118 Stat.
-    2615-2618, provided that:
+    2615-2618; Pub. L. 110-108, Secs. 2-6, Oct. 31, 2007, 121 Stat.
+    1024-1026, provided that:
 
       "SEC. 1100. SHORT TITLE.
       "This title may be cited as the 'Internet Tax Freedom Act'.
@@ -2115,7 +2109,7 @@
       "SEC. 1101. MORATORIUM.
       "(a) Moratorium. - No State or political subdivision thereof may
     impose any of the following taxes during the period beginning
-    November 1, 2003, and ending November 1, 2007:
+    November 1, 2003, and ending November 1, 2014:
         "(1) Taxes on Internet access.
         "(2) Multiple or discriminatory taxes on electronic commerce.
       "(b) Preservation of State and Local Taxing Authority. - Except
@@ -2415,7 +2409,7 @@
           collected such tax on charges for Internet access.
         "(2) Termination. - 
           "(A) In general. - Except as provided in subparagraph (B),
-        this subsection shall not apply after November 1, 2007.
+        this subsection shall not apply after November 1, 2014.
           "(B) State telecommunications service tax. - 
             "(i) Date for termination. - This subsection shall not
           apply after November 1, 2006, with respect to a State
@@ -2426,6 +2420,13 @@
           imposing a tax on telecommunications service; and
          "(II) applied to Internet access through administrative code
           or regulation issued on or after December 1, 2002.
+        "(3) Exception. - Paragraphs (1) and (2) shall not apply to any
+      State that has, more than 24 months prior to the date of
+      enactment of this paragraph [Oct. 31, 2007], enacted legislation
+      to repeal the State's taxes on Internet access or issued a rule
+      or other proclamation made by the appropriate agency of the State
+      that such State agency has decided to no longer apply such tax to
+      Internet access.
       "(b) Pre-November 2003 Taxes. - 
         "(1) In general. - Section 1101(a) does not apply to a tax on
       Internet access that was generally imposed and actually enforced
@@ -2441,6 +2442,37 @@
         collected such tax on charges for Internet access.
         "(2) Termination. - This subsection shall not apply after
       November 1, 2005.
+      "(c) Application of Definition. - 
+        "(1) In general. - Effective as of November 1, 2003 - 
+          "(A) for purposes of subsection (a), the term 'Internet
+        access' shall have the meaning given such term by section
+        1104(5) of this Act, as enacted on October 21, 1998; and
+          "(B) for purposes of subsection (b), the term 'Internet
+        access' shall have the meaning given such term by section
+        1104(5) of this Act as enacted on October 21, 1998, and amended
+        by section 2(c) of the Internet Tax Nondiscrimination Act
+        (Public Law 108-435).
+        "(2) Exceptions. - Paragraph (1) shall not apply until June 30,
+      2008, to a tax on Internet access that is - 
+          "(A) generally imposed and actually enforced on
+        telecommunications service purchased, used, or sold by a
+        provider of Internet access, but only if the appropriate
+        administrative agency of a State or political subdivision
+        thereof issued a public ruling prior to July 1, 2007, that
+        applied such tax to such service in a manner that is
+        inconsistent with paragraph (1); or
+          "(B) the subject of litigation instituted in a judicial court
+        of competent jurisdiction prior to July 1, 2007, in which a
+        State or political subdivision is seeking to enforce, in a
+        manner that is inconsistent with paragraph (1), such tax on
+        telecommunications service purchased, used, or sold by a
+        provider of Internet access.
+        "(3) No inference. - No inference of legislative construction
+      shall be drawn from this subsection or the amendments to section
+      1105(5) made by the Internet Tax Freedom Act Amendments Act of
+      2007 [Pub. L. 110-108] for any period prior to June 30, 2008,
+      with respect to any tax subject to the exceptions described in
+      subparagraphs (A) and (B) of paragraph (2).
 
       "SEC. 1105. DEFINITIONS.
       "For the purposes of this title:
@@ -2449,7 +2481,7 @@
       digital information transmitted electronically, or the volume of
       digital information per unit of time transmitted electronically,
       but does not include taxes imposed on the provision of
-      telecommunications services.
+      telecommunications.
         "(2) Discriminatory tax. - The term 'discriminatory tax' means -
        
           "(A) any tax imposed by a State or political subdivision
@@ -2502,15 +2534,34 @@
       Transmission Control Protocol/Internet Protocol, or any
       predecessor or successor protocols to such protocol, to
       communicate information of all kinds by wire or radio.
-        "(5) Internet access. - The term 'Internet access' means a
-      service that enables users to access content, information,
-      electronic mail, or other services offered over the Internet, and
-      may also include access to proprietary content, information, and
-      other services as part of a package of services offered to users.
-      The term 'Internet access' does not include telecommunications
-      services, except to the extent such services are purchased, used,
-      or sold by a provider of Internet access to provide Internet
-      access.
+        "(5) Internet access. - The term 'Internet access' - 
+          "(A) means a service that enables users to connect to the
+        Internet to access content, information, or other services
+        offered over the Internet;
+          "(B) includes the purchase, use or sale of telecommunications
+        by a provider of a service described in subparagraph (A) to the
+        extent such telecommunications are purchased, used or sold - 
+            "(i) to provide such service; or
+            "(ii) to otherwise enable users to access content,
+          information or other services offered over the Internet;
+          "(C) includes services that are incidental to the provision
+        of the service described in subparagraph (A) when furnished to
+        users as part of such service, such as a home page, electronic
+        mail and instant messaging (including voice- and video-capable
+        electronic mail and instant messaging), video clips, and
+        personal electronic storage capacity;
+          "(D) does not include voice, audio or video programming, or
+        other products and services (except services described in
+        subparagraph (A), (B), (C), or (E)) that utilize Internet
+        protocol or any successor protocol and for which there is a
+        charge, regardless of whether such charge is separately stated
+        or aggregated with the charge for services described in
+        subparagraph (A), (B), (C), or (E); and
+          "(E) includes a homepage, electronic mail and instant
+        messaging (including voice- and video-capable electronic mail
+        and instant messaging), video clips, and personal electronic
+        storage capacity, that are provided independently or not
+        packaged with Internet access.
         "(6) Multiple tax. - 
           "(A) In general. - The term 'multiple tax' means any tax that
         is imposed by one State or political subdivision thereof on the
@@ -2549,11 +2600,13 @@
         Act of 1934 (47 U.S.C. 542, 573), or any other fee related to
         obligations or telecommunications carriers under the
         Communications Act of 1934 (47 U.S.C. 151 et seq.).
-        "(9) Telecommunications service. - The term 'telecommunications
-      service' has the meaning given such term in section 3(46) of the
-      Communications Act of 1934 (47 U.S.C. 153(46)) and includes
+        "(9) Telecommunications. - The term 'telecommunications' means
+      'telecommunications' as such term is defined in section 3(43) of
+      the Communications Act of 1934 (47 U.S.C. 153(43)) and
+      'telecommunications service' as such term is defined in section
+      3(46) of such Act (47 U.S.C. 153(46)), and includes
       communications services (as defined in section 4251 of the
-      Internal Revenue Code of 1986 [26 U.S.C. 4251]).
+      Internal Revenue Code of 1986 (26 U.S.C. 4251)).
         "(10) Tax on internet access. - 
           "(A) In general. - The term 'tax on Internet access' means a
         tax on Internet access, regardless of whether such tax is
@@ -2563,24 +2616,57 @@
           "(B) General exception. - The term 'tax on Internet access'
         does not include a tax levied upon or measured by net income,
         capital stock, net worth, or property value.
+          "(C) Specific exception. - 
+            "(i) Specified taxes. - Effective November 1, 2007, the
+          term 'tax on Internet access' also does not include a State
+          tax expressly levied on commercial activity, modified gross
+          receipts, taxable margin, or gross income of the business, by
+          a State law specifically using one of the foregoing terms,
+          that - 
+         "(I) was enacted after June 20, 2005, and before November 1,
+          2007 (or, in the case of a State business and occupation tax,
+          was enacted after January 1, 1932, and before January 1,
+          1936);
+         "(II) replaced, in whole or in part, a modified value-added
+          tax or a tax levied upon or measured by net income, capital
+          stock, or net worth (or, is a State business and occupation
+          tax that was enacted after January 1, 1932 and before January
+          1, 1936);
+         "(III) is imposed on a broad range of business activity; and
+         "(IV) is not discriminatory in its application to providers of
+          communication services, Internet access, or
+          telecommunications.
+            "(ii) Modifications. - Nothing in this subparagraph shall
+          be construed as a limitation on a State's ability to make
+          modifications to a tax covered by clause (i) of this
+          subparagraph after November 1, 2007, as long as the
+          modifications do not substantially narrow the range of
+          business activities on which the tax is imposed or otherwise
+          disqualify the tax under clause (i).
+            "(iii) No inference. - No inference of legislative
+          construction shall be drawn from this subparagraph regarding
+          the application of subparagraph (A) or (B) to any tax
+          described in clause (i) for periods prior to November 1,
+          2007.
 
       "SEC. 1106. ACCOUNTING RULE.
       "(a) In General. - If charges for Internet access are aggregated
     with and not separately stated from charges for telecommunications
-    services or other charges that are subject to taxation, then the
-    charges for Internet access may be subject to taxation unless the
-    Internet access provider can reasonably identify the charges for
-    Internet access from its books and records kept in the regular
-    course of business.
+    or other charges that are subject to taxation, then the charges for
+    Internet access may be subject to taxation unless the Internet
+    access provider can reasonably identify the charges for Internet
+    access from its books and records kept in the regular course of
+    business.
       "(b) Definitions. - In this section:
         "(1) Charges for internet access. - The term 'charges for
       Internet access' means all charges for Internet access as defined
       in section 1105(5).
-        "(2) Charges for telecommunications services. - The term
-      'charges for telecommunications services' means all charges for
-      telecommunications services, except to the extent such services
-      are purchased, used, or sold by a provider of Internet access to
-      provide Internet access.
+        "(2) Charges for telecommunications. - The term 'charges for
+      telecommunications' means all charges for telecommunications,
+      except to the extent such telecommunications are purchased, used,
+      or sold by a provider of Internet access to provide Internet
+      access or to otherwise enable users to access content,
+      information or other services offered over the Internet.
 
       "SEC. 1107. EFFECT ON OTHER LAWS.
       "(a) Universal Service. - Nothing in this Act [probably means
@@ -2603,13 +2689,8 @@
     Federal or State regulatory proceeding that is not related to
     taxation.
 
-      "SEC. 1108. EXCEPTION FOR VOICE SERVICES OVER THE INTERNET.
-      "Nothing in this Act [probably means "this title"] shall be
-    construed to affect the imposition of tax on a charge for voice or
-    similar service utilizing Internet Protocol or any successor
-    protocol. This section shall not apply to any services that are
-    incidental to Internet access, such as voice-capable e-mail or
-    instant messaging.
+      "[SEC. 1108. Repealed. Pub. L. 110-108, Sec. 5(b), Oct. 31, 2007,
+        121 Stat. 1026]
 
       "SEC. 1109. EXCEPTION FOR TEXAS MUNICIPAL ACCESS LINE FEE.
       "Nothing in this Act [probably means "this title"] shall prohibit
@@ -2620,6 +2701,14 @@
     in its 'Order Adopting Amendments to Section 26.465 As Approved At
     The February 13, 2003 Public Hearing', issued March 5, 2003, in
     Project No. 26412."
+      [Pub. L. 110-108, Sec. 7, Oct. 31, 2007, 121 Stat. 1027, provided
+    that: "This Act [enacting provisions set out as a note under
+    section 609 of this title and amending title XI of div. C of Pub.
+    L. 105-277, set out above], and the amendments made by this Act,
+    shall take effect on November 1, 2007, and shall apply with respect
+    to taxes in effect as of such date or thereafter enacted, except as
+    provided in section 1104 of the Internet Tax Freedom Act [title XI
+    of div. C of Pub. L. 105-277] (47 U.S.C. 151 note)."]
       [Pub. L. 108-435, Sec. 8, Dec. 3, 2004, 118 Stat. 2619, provided
     that: "The amendments made by this Act [amending title XI of div. C
     of Pub. L. 105-277, set out above] take effect on November 1,
@@ -2695,7 +2784,7 @@
 
 
 -CITE-
-    47 USC Sec. 152                                             01/03/2007
+    47 USC Sec. 152                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -2959,7 +3048,7 @@
 
 
 -CITE-
-    47 USC Sec. 153                                             01/03/2007
+    47 USC Sec. 153                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -3546,7 +3635,7 @@
 
 
 -CITE-
-    47 USC Sec. 154                                             01/03/2007
+    47 USC Sec. 154                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -4316,7 +4405,7 @@
 
 
 -CITE-
-    47 USC Sec. 155                                             01/03/2007
+    47 USC Sec. 155                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -4574,7 +4663,7 @@
 
 
 -CITE-
-    47 USC Sec. 156                                             01/03/2007
+    47 USC Sec. 156                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -4686,7 +4775,7 @@
 
 
 -CITE-
-    47 USC Sec. 157                                             01/03/2007
+    47 USC Sec. 157                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -4766,7 +4855,7 @@
 
 
 -CITE-
-    47 USC Sec. 158                                             01/03/2007
+    47 USC Sec. 158                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -5538,7 +5627,7 @@
 
 
 -CITE-
-    47 USC Sec. 159                                             01/03/2007
+    47 USC Sec. 159                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -5812,7 +5901,7 @@
 
 
 -CITE-
-    47 USC Sec. 160                                             01/03/2007
+    47 USC Sec. 160                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -5885,7 +5974,7 @@
 
 
 -CITE-
-    47 USC Sec. 161                                             01/03/2007
+    47 USC Sec. 161                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -5917,7 +6006,7 @@
 
 
 -CITE-
-    47 USC SUBCHAPTER II - COMMON CARRIERS                      01/03/2007
+    47 USC SUBCHAPTER II - COMMON CARRIERS                      01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -5931,7 +6020,7 @@
 
 
 -CITE-
-    47 USC Part I - Common Carrier Regulation                   01/03/2007
+    47 USC Part I - Common Carrier Regulation                   01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -5947,7 +6036,7 @@
 
 
 -CITE-
-    47 USC Sec. 201                                             01/03/2007
+    47 USC Sec. 201                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -6058,7 +6147,7 @@
 
 
 -CITE-
-    47 USC Sec. 202                                             01/03/2007
+    47 USC Sec. 202                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -6110,7 +6199,7 @@
 
 
 -CITE-
-    47 USC Sec. 203                                             01/03/2007
+    47 USC Sec. 203                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -6208,7 +6297,7 @@
 
 
 -CITE-
-    47 USC Sec. 204                                             01/03/2007
+    47 USC Sec. 204                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -6359,7 +6448,7 @@
 
 
 -CITE-
-    47 USC Sec. 205                                             01/03/2007
+    47 USC Sec. 205                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -6413,7 +6502,7 @@
 
 
 -CITE-
-    47 USC Sec. 206                                             01/03/2007
+    47 USC Sec. 206                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -6444,7 +6533,7 @@
 
 
 -CITE-
-    47 USC Sec. 207                                             01/03/2007
+    47 USC Sec. 207                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -6472,7 +6561,7 @@
 
 
 -CITE-
-    47 USC Sec. 208                                             01/03/2007
+    47 USC Sec. 208                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -6550,7 +6639,7 @@
 
 
 -CITE-
-    47 USC Sec. 209                                             01/03/2007
+    47 USC Sec. 209                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -6576,7 +6665,7 @@
 
 
 -CITE-
-    47 USC Sec. 210                                             01/03/2007
+    47 USC Sec. 210                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -6621,7 +6710,7 @@
 
 
 -CITE-
-    47 USC Sec. 211                                             01/03/2007
+    47 USC Sec. 211                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -6651,7 +6740,7 @@
 
 
 -CITE-
-    47 USC Sec. 212                                             01/03/2007
+    47 USC Sec. 212                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -6709,7 +6798,7 @@
 
 
 -CITE-
-    47 USC Sec. 213                                             01/03/2007
+    47 USC Sec. 213                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -6827,7 +6916,7 @@
 
 
 -CITE-
-    47 USC Sec. 214                                             01/03/2007
+    47 USC Sec. 214                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -7083,7 +7172,7 @@
 
 
 -CITE-
-    47 USC Sec. 215                                             01/03/2007
+    47 USC Sec. 215                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -7154,7 +7243,7 @@
 
 
 -CITE-
-    47 USC Sec. 216                                             01/03/2007
+    47 USC Sec. 216                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -7178,7 +7267,7 @@
 
 
 -CITE-
-    47 USC Sec. 217                                             01/03/2007
+    47 USC Sec. 217                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -7205,7 +7294,7 @@
 
 
 -CITE-
-    47 USC Sec. 218                                             01/03/2007
+    47 USC Sec. 218                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -7238,7 +7327,7 @@
 
 
 -CITE-
-    47 USC Sec. 219                                             01/03/2007
+    47 USC Sec. 219                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -7323,7 +7412,7 @@
 
 
 -CITE-
-    47 USC Sec. 220                                             01/03/2007
+    47 USC Sec. 220                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -7492,7 +7581,7 @@
 
 
 -CITE-
-    47 USC Sec. 221                                             01/03/2007
+    47 USC Sec. 221                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -7566,7 +7655,7 @@
 
 
 -CITE-
-    47 USC Sec. 222                                             01/03/2007
+    47 USC Sec. 222                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -7763,7 +7852,7 @@
 
 
 -CITE-
-    47 USC Sec. 223                                             01/03/2007
+    47 USC Sec. 223                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -8256,7 +8345,7 @@
 
 
 -CITE-
-    47 USC Sec. 224                                             01/03/2007
+    47 USC Sec. 224                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -8477,7 +8566,7 @@
 
 
 -CITE-
-    47 USC Sec. 225                                             01/03/2007
+    47 USC Sec. 225                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -8686,7 +8775,7 @@
 
 
 -CITE-
-    47 USC Sec. 226                                             01/03/2007
+    47 USC Sec. 226                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -9069,7 +9158,7 @@
 
 
 -CITE-
-    47 USC Sec. 227                                             01/03/2007
+    47 USC Sec. 227                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -9781,7 +9870,7 @@
 
 
 -CITE-
-    47 USC Sec. 228                                             01/03/2007
+    47 USC Sec. 228                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -10235,7 +10324,7 @@
 
 
 -CITE-
-    47 USC Sec. 229                                             01/03/2007
+    47 USC Sec. 229                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -10330,7 +10419,7 @@
 
 
 -CITE-
-    47 USC Sec. 230                                             01/03/2007
+    47 USC Sec. 230                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -10505,7 +10594,7 @@
 
 
 -CITE-
-    47 USC Sec. 231                                             01/03/2007
+    47 USC Sec. 231                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -10838,7 +10927,7 @@
 
 
 -CITE-
-    47 USC Part II - Development of Competitive Markets         01/03/2007
+    47 USC Part II - Development of Competitive Markets         01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -10854,7 +10943,7 @@
 
 
 -CITE-
-    47 USC Sec. 251                                             01/03/2007
+    47 USC Sec. 251                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -11138,7 +11227,7 @@
 
 
 -CITE-
-    47 USC Sec. 252                                             01/03/2007
+    47 USC Sec. 252                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -11413,7 +11502,7 @@
 
 
 -CITE-
-    47 USC Sec. 253                                             01/03/2007
+    47 USC Sec. 253                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -11479,7 +11568,7 @@
 
 
 -CITE-
-    47 USC Sec. 254                                             01/03/2007
+    47 USC Sec. 254                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -12294,7 +12383,7 @@
 
 
 -CITE-
-    47 USC Sec. 255                                             01/03/2007
+    47 USC Sec. 255                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -12351,7 +12440,7 @@
 
 
 -CITE-
-    47 USC Sec. 256                                             01/03/2007
+    47 USC Sec. 256                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -12417,7 +12506,7 @@
 
 
 -CITE-
-    47 USC Sec. 257                                             01/03/2007
+    47 USC Sec. 257                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -12465,7 +12554,7 @@
 
 
 -CITE-
-    47 USC Sec. 258                                             01/03/2007
+    47 USC Sec. 258                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -12504,7 +12593,7 @@
 
 
 -CITE-
-    47 USC Sec. 259                                             01/03/2007
+    47 USC Sec. 259                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -12592,7 +12681,7 @@
 
 
 -CITE-
-    47 USC Sec. 260                                             01/03/2007
+    47 USC Sec. 260                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -12641,7 +12730,7 @@
 
 
 -CITE-
-    47 USC Sec. 261                                             01/03/2007
+    47 USC Sec. 261                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -12682,7 +12771,7 @@
 
 -CITE-
     47 USC Part III - Special Provisions Concerning Bell
-           Operating Companies                             01/03/2007
+           Operating Companies                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -12698,7 +12787,7 @@
 
 
 -CITE-
-    47 USC Sec. 271                                             01/03/2007
+    47 USC Sec. 271                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -13067,7 +13156,7 @@
 
 
 -CITE-
-    47 USC Sec. 272                                             01/03/2007
+    47 USC Sec. 272                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -13242,7 +13331,7 @@
 
 
 -CITE-
-    47 USC Sec. 273                                             01/03/2007
+    47 USC Sec. 273                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -13564,7 +13653,7 @@
 
 
 -CITE-
-    47 USC Sec. 274                                             01/03/2007
+    47 USC Sec. 274                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -13860,7 +13949,7 @@
 
 
 -CITE-
-    47 USC Sec. 275                                             01/03/2007
+    47 USC Sec. 275                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -13946,7 +14035,7 @@
 
 
 -CITE-
-    47 USC Sec. 276                                             01/03/2007
+    47 USC Sec. 276                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -14038,7 +14127,7 @@
 
 -CITE-
     47 USC SUBCHAPTER III - SPECIAL PROVISIONS RELATING TO
-           RADIO                                           01/03/2007
+           RADIO                                           01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -14052,7 +14141,7 @@
 
 
 -CITE-
-    47 USC Part I - General Provisions                          01/03/2007
+    47 USC Part I - General Provisions                          01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -14068,7 +14157,7 @@
 
 
 -CITE-
-    47 USC Sec. 301                                             01/03/2007
+    47 USC Sec. 301                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -14137,7 +14226,7 @@
 
 
 -CITE-
-    47 USC Sec. 302                                             01/03/2007
+    47 USC Sec. 302                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -14159,7 +14248,7 @@
 
 
 -CITE-
-    47 USC Sec. 302a                                            01/03/2007
+    47 USC Sec. 302a                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -14344,7 +14433,7 @@
 
 
 -CITE-
-    47 USC Sec. 303                                             01/03/2007
+    47 USC Sec. 303                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -15027,7 +15116,7 @@
 
 
 -CITE-
-    47 USC Sec. 303a                                            01/03/2007
+    47 USC Sec. 303a                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -15106,7 +15195,7 @@
 
 
 -CITE-
-    47 USC Sec. 303b                                            01/03/2007
+    47 USC Sec. 303b                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -15163,7 +15252,7 @@
 
 
 -CITE-
-    47 USC Sec. 303c                                            01/03/2007
+    47 USC Sec. 303c                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -15228,7 +15317,7 @@
 
 
 -CITE-
-    47 USC Sec. 304                                             01/03/2007
+    47 USC Sec. 304                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -15266,7 +15355,7 @@
 
 
 -CITE-
-    47 USC Sec. 305                                             01/03/2007
+    47 USC Sec. 305                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -16027,7 +16116,7 @@
 
 
 -CITE-
-    47 USC Sec. 306                                             01/03/2007
+    47 USC Sec. 306                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -16054,7 +16143,7 @@
 
 
 -CITE-
-    47 USC Sec. 307                                             01/03/2007
+    47 USC Sec. 307                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -16240,7 +16329,7 @@
 
 
 -CITE-
-    47 USC Sec. 308                                             01/03/2007
+    47 USC Sec. 308                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -16355,7 +16444,7 @@
 
 
 -CITE-
-    47 USC Sec. 309                                             01/03/2007
+    47 USC Sec. 309                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -17550,8 +17639,9 @@
     paragraph (2) of this subsection."
 
               DIGITAL TELEVISION TRANSITION AND PUBLIC SAFETY          
-      Pub. L. 109-171, title III, Feb. 8, 2006, 120 Stat. 21, provided
-    that:
+      Pub. L. 109-171, title III, Feb. 8, 2006, 120 Stat. 21, as
+    amended by Pub. L. 110-53, title XXII, Sec. 2201(a), title XXIII,
+    Sec. 2302, Aug. 3, 2007, 121 Stat. 537, 543, provided that:
 
       "SEC. 3001. SHORT TITLE; DEFINITION.
       "(a) Short Title. - This title may be cited as the 'Digital
@@ -17653,29 +17743,130 @@
     consultation with the Secretary of the Department of Homeland
     Security - 
         "(1) may take such administrative action as is necessary to
-      establish and implement a grant program to assist public safety
-      agencies in the acquisition of, deployment of, or training for
-      the use of interoperable communications systems that utilize, or
-      enable interoperability with communications systems that can
-      utilize, reallocated public safety spectrum for radio
-      communication; and
+      establish and implement - 
+          "(A) a grant program to assist public safety agencies in the
+        planning and coordination associated with, the acquisition of,
+        deployment of, or training for the use of interoperable
+        communications equipment, software and systems that - 
+            "(i) utilize reallocated public safety spectrum for radio
+          communication;
+            "(ii) enable interoperability with communications systems
+          that can utilize reallocated public safety spectrum for radio
+          communication; or
+            "(iii) otherwise improve or advance the interoperability of
+          public safety communications systems that utilize other
+          public safety spectrum bands; and
+          "(B) are used to establish and implement [sic] a strategic
+        technology reserve to pre-position or secure interoperable
+        communications in advance for immediate deployment in an
+        emergency or major disaster;
         "(2) shall make payments of not to exceed $1,000,000,000, in
-      the aggregate, through fiscal year 2010 to carry out that program
-      from the Digital Television Transition and Public Safety Fund
-      established under section 309(j)(8)(E) of the Communications Act
-      of 1934 (47 U.S.C. 309(j)(8)(E)).
-      "(b) Credit. - The Assistant Secretary may borrow from the
+      the aggregate, through fiscal year 2010 from the Digital
+      Television Transition and Public Safety Fund established under
+      section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C.
+      309(j)(8)(E)) to carry out the grant program established under
+      paragraph (1), of which at least $75,000,000, in the aggregate,
+      shall be used for purposes described in paragraph (1)(B); and
+        "(3) shall permit any funds allocated for use under paragraph
+      (1)(B) to be used for purposes identified under paragraph (1)(A),
+      if the public safety agency demonstrates that it has already
+      implemented such a strategic technology reserve or demonstrates
+      higher priority public safety communications needs.
+      "(b) Eligibility. - To be eligible for assistance under the grant
+    program established under subparagraph (a)(1)(A), an applicant
+    shall submit an application, at such time, in such form, and
+    containing such information as the Assistant Secretary may require,
+    including a detailed explanation of how assistance received under
+    the program would be used to improve communications
+    interoperability and ensure interoperability with other public
+    safety agencies in an emergency or a major disaster.
+      "(c) Criteria for Strategic Technology Reserves. - 
+        "(1) In general. - In evaluating permitted uses under
+      subparagraph (a)(1)(B), the Assistant Secretary shall consider
+      the continuing technological evolution of communications
+      technologies and devices, with its implicit risk of obsolescence,
+      and shall ensure, to the maximum extent feasible, that a
+      substantial part of the reserve involves prenegotiated contracts
+      and other arrangements for rapid deployment of equipment,
+      supplies, and systems (and communications service related to such
+      equipment, supplies, and systems), rather than the warehousing or
+      storage of equipment and supplies currently available at the time
+      the reserve is established.
+        "(2) Requirements and characteristics. - Funds provided to meet
+      uses described in paragraph (1) shall be used in support of
+      reserves that - 
+          "(A) are capable of re-establishing communications when
+        existing critical infrastructure is damaged or destroyed in an
+        emergency or a major disaster;
+          "(B) include appropriate current, widely-used equipment, such
+        as Land Mobile Radio Systems, cellular telephones and satellite-
+        enabled equipment (and related communications service), Cells-
+        On-Wheels, Cells-On-Light-Trucks, or other self-contained
+        mobile cell sites that can be towed, backup batteries,
+        generators, fuel, and computers;
+          "(C) include equipment on hand for the Governor of each
+        State, key emergency response officials, and appropriate State
+        or local personnel;
+          "(D) include contracts (including prenegotiated contracts)
+        for rapid delivery of the most current technology available
+        from commercial sources; and
+          "(E) include arrangements for training to ensure that
+        personnel are familiar with the operation of the equipment and
+        devices to be delivered pursuant to such contracts.
+        "(3) Additional characteristics. - Portions of the reserve may
+      be virtual and may include items donated on an in-kind
+      contribution basis.
+        "(4) Allocation of funds. - In evaluating permitted uses under
+      subparagraph (a)(1)(B), the Assistant Secretary shall take into
+      account barriers to immediate deployment, including time and
+      distance, that may slow the rapid deployment of equipment,
+      supplies, and systems (and communications service related to such
+      equipment, supplies, and systems) in the event of an emergency in
+      any State.
+      "(d) Voluntary Consensus Standards. - In carrying out this
+    section, the Assistant Secretary, in cooperation with the Secretary
+    of Homeland Security, shall identify and, if necessary, encourage
+    the development and implementation of, voluntary consensus
+    standards for interoperable communications systems to the greatest
+    extent practicable, but shall not require any such standard.
+      "(e) Inspector General Report and Audits. - 
+        "(1) Report. - Beginning with the first fiscal year beginning
+      after the date of enactment of the Implementing Recommendations
+      of the 9/11 Commission Act of 2007 [Aug. 3, 2007], the Inspector
+      General of the Department of Commerce shall conduct an annual
+      assessment of the management of the grant program implemented
+      under subsection (a)(1) and transmit a report containing the
+      findings of that assessment and any recommendations related
+      thereto to the Senate Committee on Commerce, Science, and
+      Transportation and the House of Representatives Committee on
+      Energy and Commerce.
+        "(2) Audits. - Beginning with the first fiscal year beginning
+      after the date of enactment of the Implementing Recommendations
+      of the 9/11 Commission Act of 2007, the Inspector General of the
+      Department of Commerce shall conduct financial audits of entities
+      receiving grants from the program implemented under subsection
+      (a)(1), and shall ensure that, over the course of 4 years, such
+      audits cover recipients in a representative sample of not fewer
+      than 25 States or territories. The results of any such audits
+      shall be made publicly available via web site, subject to
+      redaction as the Inspector General determines necessary to
+      protect classified and other sensitive information.
+      "(f) Rule of Construction. - Nothing in this section shall be
+    construed or interpreted to preclude the use of funds under this
+    section by any public safety agency for interim- or long-term
+    Internet Protocol-based interoperable solutions.
+      "(h)[(g)] Credit. - The Assistant Secretary may borrow from the
     Treasury beginning on October 1, 2006, such sums as may be
     necessary, but not to exceed $1,000,000,000, to implement this
     section. The Assistant Secretary shall reimburse the Treasury,
     without interest, as funds are deposited into the Digital
     Television Transition and Public Safety Fund.
-      "(c) Condition of Grants. - In order to obtain a grant under the
-    grant program, a public safety agency shall agree to provide, from
-    non-Federal sources, not less than 20 percent of the costs of
+      "(i)[(h)] Condition of Grants. - In order to obtain a grant under
+    the grant program, a public safety agency shall agree to provide,
+    from non-Federal sources, not less than 20 percent of the costs of
     acquiring and deploying the interoperable communications systems
     funded under the grant program.
-      "(d) Definitions. - For purposes of this section:
+      "(j)[(i)] Definitions. - For purposes of this section:
         "(1) Public safety agency. - The term 'public safety agency'
       means any State, local, or tribal government entity, or
       nongovernmental organization authorized by such entity, whose
@@ -17686,9 +17877,6 @@
       systems which enable public safety agencies to share information
       amongst local, State, Federal, and tribal public safety agencies
       in the same area via voice or data signals.
-        "(3) Reallocated public safety spectrum. - The term
-      'reallocated public safety spectrum' means the bands of spectrum
-      located at 764-776 megahertz and 794-806 megahertz, inclusive.
 
       "SEC. 3007. NYC 9/11 DIGITAL TRANSITION.
       "(a) Funds Available. - From the Digital Television Transition
@@ -17799,13 +17987,19 @@
     warning and coastal vulnerability program.
 
       "SEC. 3011. ENHANCE 911.
-      "The Assistant Secretary shall make payments of not to exceed
-    $43,500,000, in the aggregate, from the Digital Television
-    Transition and Public Safety Fund established under section
-    309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C.
+      "(a) In General. - The Assistant Secretary shall make payments of
+    not to exceed $43,500,000, in the aggregate, from the Digital
+    Television Transition and Public Safety Fund established under
+    section 309(j)(8)(E) of the Communications Act of 1934 (47 U.S.C.
     309(j)(8)(E)) to implement the ENHANCE 911 Act of 2004 [title I of
     Pub. L. 108-494, see Short Title of 2004 Amendment note set out
     under section 901 of this title].
+      "(b) Credit. - The Assistant Secretary may borrow from the
+    Treasury, upon enactment of the 911 Modernization Act [Aug. 3,
+    2007], such sums as necessary, but not to exceed $43,500,000, to
+    implement this section. The Assistant Secretary shall reimburse the
+    Treasury, without interest, as funds are deposited into the Digital
+    Television Transition and Public Safety Fund.
 
       "SEC. 3012. ESSENTIAL AIR SERVICE PROGRAM.
       "(a) In General. - If the amount appropriated to carry out the
@@ -17989,7 +18183,7 @@
 
 
 -CITE-
-    47 USC Sec. 310                                             01/03/2007
+    47 USC Sec. 310                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -18147,7 +18341,7 @@
 
 
 -CITE-
-    47 USC Sec. 311                                             01/03/2007
+    47 USC Sec. 311                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -18280,7 +18474,7 @@
 
 
 -CITE-
-    47 USC Sec. 312                                             01/03/2007
+    47 USC Sec. 312                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -18441,7 +18635,7 @@
 
 
 -CITE-
-    47 USC Sec. 312a                                            01/03/2007
+    47 USC Sec. 312a                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -18492,7 +18686,7 @@
 
 
 -CITE-
-    47 USC Sec. 313                                             01/03/2007
+    47 USC Sec. 313                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -18558,7 +18752,7 @@
 
 
 -CITE-
-    47 USC Sec. 314                                             01/03/2007
+    47 USC Sec. 314                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -18629,7 +18823,7 @@
 
 
 -CITE-
-    47 USC Sec. 315                                             01/03/2007
+    47 USC Sec. 315                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -18898,7 +19092,7 @@
 
 
 -CITE-
-    47 USC Sec. 316                                             01/03/2007
+    47 USC Sec. 316                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -18975,7 +19169,7 @@
 
 
 -CITE-
-    47 USC Sec. 317                                             01/03/2007
+    47 USC Sec. 317                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -19049,7 +19243,7 @@
 
 
 -CITE-
-    47 USC Sec. 318                                             01/03/2007
+    47 USC Sec. 318                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -19113,7 +19307,7 @@
 
 
 -CITE-
-    47 USC Sec. 319                                             01/03/2007
+    47 USC Sec. 319                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -19277,7 +19471,7 @@
 
 
 -CITE-
-    47 USC Sec. 320                                             01/03/2007
+    47 USC Sec. 320                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -19307,7 +19501,7 @@
 
 
 -CITE-
-    47 USC Sec. 321                                             01/03/2007
+    47 USC Sec. 321                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -19357,7 +19551,7 @@
 
 
 -CITE-
-    47 USC Sec. 322                                             01/03/2007
+    47 USC Sec. 322                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -19397,7 +19591,7 @@
 
 
 -CITE-
-    47 USC Sec. 323                                             01/03/2007
+    47 USC Sec. 323                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -19432,7 +19626,7 @@
 
 
 -CITE-
-    47 USC Sec. 324                                             01/03/2007
+    47 USC Sec. 324                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -19458,7 +19652,7 @@
 
 
 -CITE-
-    47 USC Sec. 325                                             01/03/2007
+    47 USC Sec. 325                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -19971,7 +20165,7 @@
 
 
 -CITE-
-    47 USC Sec. 326                                             01/03/2007
+    47 USC Sec. 326                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -20010,7 +20204,7 @@
 
 
 -CITE-
-    47 USC Sec. 327                                             01/03/2007
+    47 USC Sec. 327                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -20067,7 +20261,7 @@
 
 
 -CITE-
-    47 USC Sec. 328                                             01/03/2007
+    47 USC Sec. 328                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -20091,7 +20285,7 @@
 
 
 -CITE-
-    47 USC Sec. 329                                             01/03/2007
+    47 USC Sec. 329                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -20132,7 +20326,7 @@
 
 
 -CITE-
-    47 USC Sec. 330                                             01/03/2007
+    47 USC Sec. 330                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -20257,7 +20451,7 @@
 
 
 -CITE-
-    47 USC Sec. 331                                             01/03/2007
+    47 USC Sec. 331                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -20347,7 +20541,7 @@
 
 
 -CITE-
-    47 USC Sec. 332                                             01/03/2007
+    47 USC Sec. 332                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -20763,7 +20957,7 @@
 
 
 -CITE-
-    47 USC Sec. 333                                             01/03/2007
+    47 USC Sec. 333                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -20789,7 +20983,7 @@
 
 
 -CITE-
-    47 USC Sec. 334                                             01/03/2007
+    47 USC Sec. 334                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -20840,7 +21034,7 @@
 
 
 -CITE-
-    47 USC Sec. 335                                             01/03/2007
+    47 USC Sec. 335                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -20940,7 +21134,7 @@
 
 
 -CITE-
-    47 USC Sec. 336                                             01/03/2007
+    47 USC Sec. 336                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -21556,7 +21750,7 @@
 
 
 -CITE-
-    47 USC Sec. 337                                             01/03/2007
+    47 USC Sec. 337                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -21845,7 +22039,7 @@
 
 
 -CITE-
-    47 USC Sec. 338                                             01/03/2007
+    47 USC Sec. 338                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -22382,7 +22576,7 @@
 
 
 -CITE-
-    47 USC Sec. 339                                             01/03/2007
+    47 USC Sec. 339                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -23032,7 +23226,7 @@
 
 
 -CITE-
-    47 USC Sec. 340                                             01/03/2007
+    47 USC Sec. 340                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -23343,7 +23537,7 @@
 
 
 -CITE-
-    47 USC Sec. 341                                             01/03/2007
+    47 USC Sec. 341                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -23399,7 +23593,7 @@
 
 -CITE-
     47 USC Part II - Radio Equipment and Radio Operators On
-           Board Ship                                      01/03/2007
+           Board Ship                                      01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -23415,7 +23609,7 @@
 
 
 -CITE-
-    47 USC Sec. 351                                             01/03/2007
+    47 USC Sec. 351                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -23523,7 +23717,7 @@
 
 
 -CITE-
-    47 USC Sec. 352                                             01/03/2007
+    47 USC Sec. 352                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -23669,7 +23863,7 @@
 
 
 -CITE-
-    47 USC Sec. 353                                             01/03/2007
+    47 USC Sec. 353                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -23769,7 +23963,7 @@
 
 
 -CITE-
-    47 USC Sec. 353a                                            01/03/2007
+    47 USC Sec. 353a                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -23812,7 +24006,7 @@
 
 
 -CITE-
-    47 USC Sec. 354                                             01/03/2007
+    47 USC Sec. 354                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24014,7 +24208,7 @@
 
 
 -CITE-
-    47 USC Sec. 354a                                            01/03/2007
+    47 USC Sec. 354a                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24089,7 +24283,7 @@
 
 
 -CITE-
-    47 USC Sec. 355                                             01/03/2007
+    47 USC Sec. 355                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24140,7 +24334,7 @@
 
 
 -CITE-
-    47 USC Sec. 356                                             01/03/2007
+    47 USC Sec. 356                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24194,7 +24388,7 @@
 
 
 -CITE-
-    47 USC Sec. 357                                             01/03/2007
+    47 USC Sec. 357                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24278,7 +24472,7 @@
 
 
 -CITE-
-    47 USC Sec. 358                                             01/03/2007
+    47 USC Sec. 358                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24313,7 +24507,7 @@
 
 
 -CITE-
-    47 USC Sec. 359                                             01/03/2007
+    47 USC Sec. 359                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24420,7 +24614,7 @@
 
 
 -CITE-
-    47 USC Sec. 360                                             01/03/2007
+    47 USC Sec. 360                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24497,7 +24691,7 @@
 
 
 -CITE-
-    47 USC Sec. 361                                             01/03/2007
+    47 USC Sec. 361                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24532,7 +24726,7 @@
 
 
 -CITE-
-    47 USC Sec. 362                                             01/03/2007
+    47 USC Sec. 362                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24593,7 +24787,7 @@
 
 
 -CITE-
-    47 USC Sec. 363                                             01/03/2007
+    47 USC Sec. 363                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24638,7 +24832,7 @@
 
 -CITE-
     47 USC Part III - Radio Installations on Vessels Carrying
-           Passengers for Hire                             01/03/2007
+           Passengers for Hire                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24656,7 +24850,7 @@
 
 
 -CITE-
-    47 USC Sec. 381                                             01/03/2007
+    47 USC Sec. 381                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24697,7 +24891,7 @@
 
 
 -CITE-
-    47 USC Sec. 382                                             01/03/2007
+    47 USC Sec. 382                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24748,7 +24942,7 @@
 
 
 -CITE-
-    47 USC Sec. 383                                             01/03/2007
+    47 USC Sec. 383                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24786,7 +24980,7 @@
 
 
 -CITE-
-    47 USC Sec. 384                                             01/03/2007
+    47 USC Sec. 384                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24838,7 +25032,7 @@
 
 
 -CITE-
-    47 USC Sec. 385                                             01/03/2007
+    47 USC Sec. 385                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24891,7 +25085,7 @@
 
 
 -CITE-
-    47 USC Sec. 386                                             01/03/2007
+    47 USC Sec. 386                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24946,7 +25140,7 @@
            of Public Telecommunications Facilities;
            Telecommunications Demonstrations;
            Corporation for Public Broadcasting; General
-           Provisions                                      01/03/2007
+           Provisions                                      01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24968,7 +25162,7 @@
 -CITE-
     47 USC subpart a - assistance for planning and
            construction of public telecommunications
-           facilities                                      01/03/2007
+           facilities                                      01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -24990,7 +25184,7 @@
 
 
 -CITE-
-    47 USC Sec. 390                                             01/03/2007
+    47 USC Sec. 390                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -25096,7 +25290,7 @@
 
 
 -CITE-
-    47 USC Sec. 391                                             01/03/2007
+    47 USC Sec. 391                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -25228,7 +25422,7 @@
 
 
 -CITE-
-    47 USC Sec. 392                                             01/03/2007
+    47 USC Sec. 392                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -25508,7 +25702,7 @@
 
 
 -CITE-
-    47 USC Sec. 392a                                            01/03/2007
+    47 USC Sec. 392a                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -25541,7 +25735,7 @@
 
 
 -CITE-
-    47 USC Sec. 393                                             01/03/2007
+    47 USC Sec. 393                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -25624,7 +25818,7 @@
 
 
 -CITE-
-    47 USC Sec. 393a                                            01/03/2007
+    47 USC Sec. 393a                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -25686,7 +25880,7 @@
 
 -CITE-
     47 USC subpart b - national endowment for children's
-           educational television                          01/03/2007
+           educational television                          01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -25707,7 +25901,7 @@
 
 
 -CITE-
-    47 USC Sec. 394                                             01/03/2007
+    47 USC Sec. 394                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -25919,7 +26113,7 @@
 
 
 -CITE-
-    47 USC subpart c - telecommunications demonstrations        01/03/2007
+    47 USC subpart c - telecommunications demonstrations        01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -25939,7 +26133,7 @@
 
 
 -CITE-
-    47 USC Sec. 395                                             01/03/2007
+    47 USC Sec. 395                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -26077,7 +26271,7 @@
 
 
 -CITE-
-    47 USC subpart d - corporation for public broadcasting      01/03/2007
+    47 USC subpart d - corporation for public broadcasting      01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -26097,7 +26291,7 @@
 
 
 -CITE-
-    47 USC Sec. 396                                             01/03/2007
+    47 USC Sec. 396                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -27716,7 +27910,7 @@
 
 
 -CITE-
-    47 USC subpart e - general provisions                       01/03/2007
+    47 USC subpart e - general provisions                       01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -27736,7 +27930,7 @@
 
 
 -CITE-
-    47 USC Sec. 397                                             01/03/2007
+    47 USC Sec. 397                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -27980,7 +28174,7 @@
 
 
 -CITE-
-    47 USC Sec. 398                                             01/03/2007
+    47 USC Sec. 398                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -28149,7 +28343,7 @@
 
 
 -CITE-
-    47 USC Sec. 399                                             01/03/2007
+    47 USC Sec. 399                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -28198,7 +28392,7 @@
 
 
 -CITE-
-    47 USC Sec. 399a                                            01/03/2007
+    47 USC Sec. 399a                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -28243,7 +28437,7 @@
 
 
 -CITE-
-    47 USC Sec. 399b                                            01/03/2007
+    47 USC Sec. 399b                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -28302,7 +28496,7 @@
 
 -CITE-
     47 USC SUBCHAPTER IV - PROCEDURAL AND ADMINISTRATIVE
-           PROVISIONS                                      01/03/2007
+           PROVISIONS                                      01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -28317,7 +28511,7 @@
 
 
 -CITE-
-    47 USC Sec. 401                                             01/03/2007
+    47 USC Sec. 401                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -28392,7 +28586,7 @@
 
 
 -CITE-
-    47 USC Sec. 402                                             01/03/2007
+    47 USC Sec. 402                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -28594,7 +28788,7 @@
 
 
 -CITE-
-    47 USC Sec. 403                                             01/03/2007
+    47 USC Sec. 403                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -28627,7 +28821,7 @@
 
 
 -CITE-
-    47 USC Sec. 404                                             01/03/2007
+    47 USC Sec. 404                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -28653,7 +28847,7 @@
 
 
 -CITE-
-    47 USC Sec. 405                                             01/03/2007
+    47 USC Sec. 405                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -28772,7 +28966,7 @@
 
 
 -CITE-
-    47 USC Sec. 406                                             01/03/2007
+    47 USC Sec. 406                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -28814,7 +29008,7 @@
 
 
 -CITE-
-    47 USC Sec. 407                                             01/03/2007
+    47 USC Sec. 407                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -28854,7 +29048,7 @@
 
 
 -CITE-
-    47 USC Sec. 408                                             01/03/2007
+    47 USC Sec. 408                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -28899,7 +29093,7 @@
 
 
 -CITE-
-    47 USC Sec. 409                                             01/03/2007
+    47 USC Sec. 409                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -29158,7 +29352,7 @@
 
 
 -CITE-
-    47 USC Sec. 410                                             01/03/2007
+    47 USC Sec. 410                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -29272,7 +29466,7 @@
 
 
 -CITE-
-    47 USC Sec. 411                                             01/03/2007
+    47 USC Sec. 411                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -29316,7 +29510,7 @@
 
 
 -CITE-
-    47 USC Sec. 412                                             01/03/2007
+    47 USC Sec. 412                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -29357,7 +29551,7 @@
 
 
 -CITE-
-    47 USC Sec. 413                                             01/03/2007
+    47 USC Sec. 413                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -29404,7 +29598,7 @@
 
 
 -CITE-
-    47 USC Sec. 414                                             01/03/2007
+    47 USC Sec. 414                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -29435,7 +29629,7 @@
 
 
 -CITE-
-    47 USC Sec. 415                                             01/03/2007
+    47 USC Sec. 415                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -29505,7 +29699,7 @@
 
 
 -CITE-
-    47 USC Sec. 416                                             01/03/2007
+    47 USC Sec. 416                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -29536,7 +29730,7 @@
 
 
 -CITE-
-    47 USC SUBCHAPTER V - PENAL PROVISIONS; FORFEITURES         01/03/2007
+    47 USC SUBCHAPTER V - PENAL PROVISIONS; FORFEITURES         01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -29551,7 +29745,7 @@
 
 
 -CITE-
-    47 USC Sec. 501                                             01/03/2007
+    47 USC Sec. 501                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -29602,7 +29796,7 @@
 
 
 -CITE-
-    47 USC Sec. 502                                             01/03/2007
+    47 USC Sec. 502                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -29632,7 +29826,7 @@
 
 
 -CITE-
-    47 USC Sec. 503                                             01/03/2007
+    47 USC Sec. 503                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -29928,7 +30122,7 @@
 
 
 -CITE-
-    47 USC Sec. 504                                             01/03/2007
+    47 USC Sec. 504                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -30062,7 +30256,7 @@
 
 
 -CITE-
-    47 USC Sec. 505                                             01/03/2007
+    47 USC Sec. 505                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -30091,7 +30285,7 @@
 
 
 -CITE-
-    47 USC Sec. 506                                             01/03/2007
+    47 USC Sec. 506                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -30114,7 +30308,7 @@
 
 
 -CITE-
-    47 USC Sec. 507                                             01/03/2007
+    47 USC Sec. 507                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -30160,7 +30354,7 @@
 
 
 -CITE-
-    47 USC Sec. 508                                             01/03/2007
+    47 USC Sec. 508                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -30244,7 +30438,7 @@
 
 
 -CITE-
-    47 USC Sec. 509                                             01/03/2007
+    47 USC Sec. 509                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -30319,7 +30513,7 @@
 
 
 -CITE-
-    47 USC Sec. 510                                             01/03/2007
+    47 USC Sec. 510                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -30385,7 +30579,7 @@
 
 
 -CITE-
-    47 USC SUBCHAPTER V-A - CABLE COMMUNICATIONS                01/03/2007
+    47 USC SUBCHAPTER V-A - CABLE COMMUNICATIONS                01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -30399,7 +30593,7 @@
 
 
 -CITE-
-    47 USC Part I - General Provisions                          01/03/2007
+    47 USC Part I - General Provisions                          01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -30415,7 +30609,7 @@
 
 
 -CITE-
-    47 USC Sec. 521                                             01/03/2007
+    47 USC Sec. 521                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -30707,7 +30901,7 @@
 
 
 -CITE-
-    47 USC Sec. 522                                             01/03/2007
+    47 USC Sec. 522                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -30867,7 +31061,7 @@
 
 -CITE-
     47 USC Part II - Use of Cable Channels and Cable
-           Ownership Restrictions                          01/03/2007
+           Ownership Restrictions                          01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -30883,7 +31077,7 @@
 
 
 -CITE-
-    47 USC Sec. 531                                             01/03/2007
+    47 USC Sec. 531                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -30978,7 +31172,7 @@
 
 
 -CITE-
-    47 USC Sec. 532                                             01/03/2007
+    47 USC Sec. 532                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -31272,7 +31466,7 @@
 
 
 -CITE-
-    47 USC Sec. 533                                             01/03/2007
+    47 USC Sec. 533                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -31442,7 +31636,7 @@
 
 
 -CITE-
-    47 USC Sec. 534                                             01/03/2007
+    47 USC Sec. 534                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -31870,7 +32064,7 @@
 
 
 -CITE-
-    47 USC Sec. 535                                             01/03/2007
+    47 USC Sec. 535                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -32142,7 +32336,7 @@
 
 
 -CITE-
-    47 USC Sec. 536                                             01/03/2007
+    47 USC Sec. 536                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -32204,7 +32398,7 @@
 
 
 -CITE-
-    47 USC Sec. 537                                             01/03/2007
+    47 USC Sec. 537                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -32253,7 +32447,7 @@
 
 
 -CITE-
-    47 USC Part III - Franchising and Regulation                01/03/2007
+    47 USC Part III - Franchising and Regulation                01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -32269,7 +32463,7 @@
 
 
 -CITE-
-    47 USC Sec. 541                                             01/03/2007
+    47 USC Sec. 541                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -32445,7 +32639,7 @@
 
 
 -CITE-
-    47 USC Sec. 542                                             01/03/2007
+    47 USC Sec. 542                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -32580,7 +32774,7 @@
 
 
 -CITE-
-    47 USC Sec. 543                                             01/03/2007
+    47 USC Sec. 543                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -33142,7 +33336,7 @@
 
 
 -CITE-
-    47 USC Sec. 544                                             01/03/2007
+    47 USC Sec. 544                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -33333,7 +33527,7 @@
 
 
 -CITE-
-    47 USC Sec. 544a                                            01/03/2007
+    47 USC Sec. 544a                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -33504,7 +33698,7 @@
 
 
 -CITE-
-    47 USC Sec. 545                                             01/03/2007
+    47 USC Sec. 545                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -33609,7 +33803,7 @@
 
 
 -CITE-
-    47 USC Sec. 546                                             01/03/2007
+    47 USC Sec. 546                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -33820,7 +34014,7 @@
 
 
 -CITE-
-    47 USC Sec. 547                                             01/03/2007
+    47 USC Sec. 547                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -33878,7 +34072,7 @@
 
 
 -CITE-
-    47 USC Sec. 548                                             01/03/2007
+    47 USC Sec. 548                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -34110,7 +34304,7 @@
 
 
 -CITE-
-    47 USC Sec. 549                                             01/03/2007
+    47 USC Sec. 549                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -34198,7 +34392,7 @@
 
 
 -CITE-
-    47 USC Part IV - Miscellaneous Provisions                   01/03/2007
+    47 USC Part IV - Miscellaneous Provisions                   01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -34214,7 +34408,7 @@
 
 
 -CITE-
-    47 USC Sec. 551                                             01/03/2007
+    47 USC Sec. 551                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -34404,7 +34598,7 @@
 
 
 -CITE-
-    47 USC Sec. 552                                             01/03/2007
+    47 USC Sec. 552                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -34503,7 +34697,7 @@
 
 
 -CITE-
-    47 USC Sec. 553                                             01/03/2007
+    47 USC Sec. 553                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -34614,7 +34808,7 @@
 
 
 -CITE-
-    47 USC Sec. 554                                             01/03/2007
+    47 USC Sec. 554                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -34953,7 +35147,7 @@
 
 
 -CITE-
-    47 USC Sec. 555                                             01/03/2007
+    47 USC Sec. 555                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -35024,7 +35218,7 @@
 
 
 -CITE-
-    47 USC Sec. 555a                                            01/03/2007
+    47 USC Sec. 555a                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -35083,7 +35277,7 @@
 
 
 -CITE-
-    47 USC Sec. 556                                             01/03/2007
+    47 USC Sec. 556                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -35137,7 +35331,7 @@
 
 
 -CITE-
-    47 USC Sec. 557                                             01/03/2007
+    47 USC Sec. 557                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -35196,7 +35390,7 @@
 
 
 -CITE-
-    47 USC Sec. 558                                             01/03/2007
+    47 USC Sec. 558                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -35244,7 +35438,7 @@
 
 
 -CITE-
-    47 USC Sec. 559                                             01/03/2007
+    47 USC Sec. 559                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -35282,7 +35476,7 @@
 
 
 -CITE-
-    47 USC Sec. 560                                             01/03/2007
+    47 USC Sec. 560                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -35313,7 +35507,7 @@
 
 
 -CITE-
-    47 USC Sec. 561                                             01/03/2007
+    47 USC Sec. 561                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -35362,7 +35556,7 @@
 
 -CITE-
     47 USC Part V - Video Programming Services Provided by
-                     Telephone Companies                   01/03/2007
+                     Telephone Companies                   01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -35378,7 +35572,7 @@
 
 
 -CITE-
-    47 USC Sec. 571                                             01/03/2007
+    47 USC Sec. 571                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -35450,7 +35644,7 @@
 
 
 -CITE-
-    47 USC Sec. 572                                             01/03/2007
+    47 USC Sec. 572                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -35604,7 +35798,7 @@
 
 
 -CITE-
-    47 USC Sec. 573                                             01/03/2007
+    47 USC Sec. 573                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -35763,7 +35957,7 @@
 
 
 -CITE-
-    47 USC SUBCHAPTER VI - MISCELLANEOUS PROVISIONS             01/03/2007
+    47 USC SUBCHAPTER VI - MISCELLANEOUS PROVISIONS             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -35778,7 +35972,7 @@
 
 
 -CITE-
-    47 USC Sec. 601                                             01/03/2007
+    47 USC Sec. 601                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -35844,7 +36038,7 @@
 
 
 -CITE-
-    47 USC Secs. 602, 603                                       01/03/2007
+    47 USC Secs. 602, 603                                       01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -35877,7 +36071,7 @@
 
 
 -CITE-
-    47 USC Sec. 604                                             01/03/2007
+    47 USC Sec. 604                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -35983,7 +36177,7 @@
 
 
 -CITE-
-    47 USC Sec. 605                                             01/03/2007
+    47 USC Sec. 605                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -36315,7 +36509,7 @@
 
 
 -CITE-
-    47 USC Sec. 606                                             01/03/2007
+    47 USC Sec. 606                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -36540,7 +36734,7 @@
 
 
 -CITE-
-    47 USC Sec. 607                                             01/03/2007
+    47 USC Sec. 607                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -36575,7 +36769,7 @@
 
 
 -CITE-
-    47 USC Sec. 608                                             01/03/2007
+    47 USC Sec. 608                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -36601,7 +36795,7 @@
 
 
 -CITE-
-    47 USC Sec. 609                                             01/03/2007
+    47 USC Sec. 609                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -36632,6 +36826,12 @@
 
 
 -MISC1-
+                       SHORT TITLE OF 2007 AMENDMENT                   
+      Pub. L. 110-108, Sec. 1, Oct. 31, 2007, 121 Stat. 1024, provided
+    that: "This Act [enacting and amending provisions set out as notes
+    under section 151 of this title] may be cited as the 'Internet Tax
+    Freedom Act Amendments Act of 2007'."
+
                        SHORT TITLE OF 2006 AMENDMENT                   
       Pub. L. 109-459, Sec. 1, Dec. 22, 2006, 120 Stat. 3399, provided
     that: "This Act [enacting and repealing provisions set out as notes
@@ -36911,7 +37111,7 @@
 
 
 -CITE-
-    47 USC Sec. 610                                             01/03/2007
+    47 USC Sec. 610                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -37112,7 +37312,7 @@
 
 
 -CITE-
-    47 USC Sec. 611                                             01/03/2007
+    47 USC Sec. 611                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -37158,7 +37358,7 @@
 
 
 -CITE-
-    47 USC Sec. 612                                             01/03/2007
+    47 USC Sec. 612                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -37210,7 +37410,7 @@
 
 
 -CITE-
-    47 USC Sec. 613                                             01/03/2007
+    47 USC Sec. 613                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -37317,7 +37517,7 @@
 
 
 -CITE-
-    47 USC Sec. 614                                             01/03/2007
+    47 USC Sec. 614                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -37530,7 +37730,7 @@
 
 
 -CITE-
-    47 USC Sec. 615                                             01/03/2007
+    47 USC Sec. 615                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -37631,7 +37831,7 @@
 
 
 -CITE-
-    47 USC Sec. 615a                                            01/03/2007
+    47 USC Sec. 615a                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -37694,7 +37894,7 @@
 
 
 -CITE-
-    47 USC Sec. 615b                                            01/03/2007
+    47 USC Sec. 615b                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -37760,7 +37960,7 @@
 
 
 -CITE-
-    47 USC CHAPTER 6 - COMMUNICATIONS SATELLITE SYSTEM          01/03/2007
+    47 USC CHAPTER 6 - COMMUNICATIONS SATELLITE SYSTEM          01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -37828,7 +38028,7 @@
 
 
 -CITE-
-    47 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/03/2007
+    47 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -37843,7 +38043,7 @@
 
 
 -CITE-
-    47 USC Sec. 701                                             01/03/2007
+    47 USC Sec. 701                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -37991,7 +38191,7 @@
 
 
 -CITE-
-    47 USC Sec. 702                                             01/03/2007
+    47 USC Sec. 702                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38060,7 +38260,7 @@
 
 
 -CITE-
-    47 USC Sec. 703                                             01/03/2007
+    47 USC Sec. 703                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38103,7 +38303,7 @@
 
 -CITE-
     47 USC SUBCHAPTER II - FEDERAL COORDINATION, PLANNING,
-           AND REGULATION                                  01/03/2007
+           AND REGULATION                                  01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38118,7 +38318,7 @@
 
 
 -CITE-
-    47 USC Sec. 721                                             01/03/2007
+    47 USC Sec. 721                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38215,7 +38415,7 @@
 
 -CITE-
     47 USC SUBCHAPTER III - COMMUNICATIONS SATELLITE
-           CORPORATION                                     01/03/2007
+           CORPORATION                                     01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38230,7 +38430,7 @@
 
 
 -CITE-
-    47 USC Secs. 731 to 735                                     01/03/2007
+    47 USC Secs. 731 to 735                                     01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38282,7 +38482,7 @@
 
 
 -CITE-
-    47 USC SUBCHAPTER IV - MISCELLANEOUS PROVISIONS             01/03/2007
+    47 USC SUBCHAPTER IV - MISCELLANEOUS PROVISIONS             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38297,7 +38497,7 @@
 
 
 -CITE-
-    47 USC Secs. 741 to 744                                     01/03/2007
+    47 USC Secs. 741 to 744                                     01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38331,7 +38531,7 @@
 
 -CITE-
     47 USC SUBCHAPTER V - INTERNATIONAL MARITIME SATELLITE
-           TELECOMMUNICATIONS                              01/03/2007
+           TELECOMMUNICATIONS                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38346,7 +38546,7 @@
 
 
 -CITE-
-    47 USC Secs. 751, 752                                       01/03/2007
+    47 USC Secs. 751, 752                                       01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38375,7 +38575,7 @@
 
 
 -CITE-
-    47 USC Sec. 753                                             01/03/2007
+    47 USC Sec. 753                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38430,7 +38630,7 @@
 
 
 -CITE-
-    47 USC Secs. 754 to 756                                     01/03/2007
+    47 USC Secs. 754 to 756                                     01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38458,7 +38658,7 @@
 
 
 -CITE-
-    47 USC Sec. 757                                             01/03/2007
+    47 USC Sec. 757                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38514,7 +38714,7 @@
 
 -CITE-
     47 USC SUBCHAPTER VI - COMMUNICATIONS COMPETITION AND
-           PRIVATIZATION                                   01/03/2007
+           PRIVATIZATION                                   01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38529,7 +38729,7 @@
 
 -CITE-
     47 USC Part A - Actions To Ensure Pro-Competitive
-                     Privatization                         01/03/2007
+                     Privatization                         01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38545,7 +38745,7 @@
 
 
 -CITE-
-    47 USC Sec. 761                                             01/03/2007
+    47 USC Sec. 761                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38708,7 +38908,7 @@
 
 
 -CITE-
-    47 USC Sec. 761a                                            01/03/2007
+    47 USC Sec. 761a                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38744,7 +38944,7 @@
 -CITE-
     47 USC Part B - Federal Communications Commission
                      Licensing Criteria: Privatization
-                     Criteria                              01/03/2007
+                     Criteria                              01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38762,7 +38962,7 @@
 
 
 -CITE-
-    47 USC Sec. 763                                             01/03/2007
+    47 USC Sec. 763                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -38988,7 +39188,7 @@
 
 
 -CITE-
-    47 USC Sec. 763a                                            01/03/2007
+    47 USC Sec. 763a                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39025,7 +39225,7 @@
 
 
 -CITE-
-    47 USC Sec. 763b                                            01/03/2007
+    47 USC Sec. 763b                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39049,7 +39249,7 @@
 
 
 -CITE-
-    47 USC Sec. 763c                                            01/03/2007
+    47 USC Sec. 763c                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39088,7 +39288,7 @@
 
 
 -CITE-
-    47 USC Sec. 763d                                            01/03/2007
+    47 USC Sec. 763d                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39147,7 +39347,7 @@
 
 
 -CITE-
-    47 USC Part C - Deregulation and Other Statutory Changes    01/03/2007
+    47 USC Part C - Deregulation and Other Statutory Changes    01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39163,7 +39363,7 @@
 
 
 -CITE-
-    47 USC Sec. 765                                             01/03/2007
+    47 USC Sec. 765                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39216,7 +39416,7 @@
 
 
 -CITE-
-    47 USC Sec. 765a                                            01/03/2007
+    47 USC Sec. 765a                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39291,7 +39491,7 @@
 
 
 -CITE-
-    47 USC Sec. 765b                                            01/03/2007
+    47 USC Sec. 765b                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39326,7 +39526,7 @@
 
 
 -CITE-
-    47 USC Sec. 765c                                            01/03/2007
+    47 USC Sec. 765c                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39358,7 +39558,7 @@
 
 
 -CITE-
-    47 USC Sec. 765d                                            01/03/2007
+    47 USC Sec. 765d                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39436,7 +39636,7 @@
 
 
 -CITE-
-    47 USC Sec. 765e                                            01/03/2007
+    47 USC Sec. 765e                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39480,6 +39680,10 @@
     insurance generally transferred to Committee on Financial Services
     of House of Representatives by House Resolution No. 5, One Hundred
     Seventh Congress, Jan. 3, 2001.
+      Committee on International Relations of House of Representatives
+    changed to Committee on Foreign Affairs of House of Representatives
+    by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5,
+    2007.
 
 
 -EXEC-
@@ -39506,7 +39710,7 @@
 
 
 -CITE-
-    47 USC Sec. 765f                                            01/03/2007
+    47 USC Sec. 765f                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39536,7 +39740,7 @@
 
 
 -CITE-
-    47 USC Sec. 765g                                            01/03/2007
+    47 USC Sec. 765g                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39573,7 +39777,7 @@
 
 
 -CITE-
-    47 USC Part D - Negotiations To Pursue Privatization        01/03/2007
+    47 USC Part D - Negotiations To Pursue Privatization        01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39589,7 +39793,7 @@
 
 
 -CITE-
-    47 USC Sec. 767                                             01/03/2007
+    47 USC Sec. 767                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39613,7 +39817,7 @@
 
 
 -CITE-
-    47 USC Part E - Definitions                                 01/03/2007
+    47 USC Part E - Definitions                                 01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39629,7 +39833,7 @@
 
 
 -CITE-
-    47 USC Sec. 769                                             01/03/2007
+    47 USC Sec. 769                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39807,7 +40011,7 @@
 
 
 -CITE-
-    47 USC CHAPTER 7 - CAMPAIGN COMMUNICATIONS                  01/03/2007
+    47 USC CHAPTER 7 - CAMPAIGN COMMUNICATIONS                  01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39821,7 +40025,7 @@
 
 
 -CITE-
-    47 USC Secs. 801 to 805                                     01/03/2007
+    47 USC Secs. 801 to 805                                     01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39855,7 +40059,7 @@
 
 -CITE-
     47 USC CHAPTER 8 - NATIONAL TELECOMMUNICATIONS AND
-           INFORMATION ADMINISTRATION                      01/03/2007
+           INFORMATION ADMINISTRATION                      01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39895,7 +40099,7 @@
 
 
 -CITE-
-    47 USC SUBCHAPTER I - ORGANIZATION AND FUNCTIONS            01/03/2007
+    47 USC SUBCHAPTER I - ORGANIZATION AND FUNCTIONS            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -39911,7 +40115,7 @@
 
 
 -CITE-
-    47 USC Sec. 901                                             01/03/2007
+    47 USC Sec. 901                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -40005,6 +40209,14 @@
 
 
 -MISC1-
+                       SHORT TITLE OF 2007 AMENDMENT                   
+      Pub. L. 110-53, title XXIII, Sec. 2301, Aug. 3, 2007, 121 Stat.
+    543, as amended by Pub. L. 110-161, div. B, title V, Sec. 539, Dec.
+    26, 2007, 121 Stat. 1934, provided that: "This title [amending
+    section 942 of this title and provisions set out as a note under
+    section 309 of this title] may be cited as the '911 Modernization
+    Act'."
+
                        SHORT TITLE OF 2004 AMENDMENT                   
       Pub. L. 108-494, title I, Sec. 101, Dec. 23, 2004, 118 Stat.
     3986, provided that: "This title [enacting section 942 of this
@@ -40170,7 +40382,12 @@
     Appendix to Title 5.
       Term of the President's National Security Telecommunications
     Advisory Committee extended until Sept. 30, 2007, by Ex. Ord. No.
-    13385, Sept. 29, 2005, 70 F.R. 57989, set out as a note under
+    13385, Sept. 29, 2005, 70 F.R. 57989, formerly set out as a note
+    under section 14 of the Federal Advisory Committee Act in the
+    Appendix to Title 5.
+      Term of the President's National Security Telecommunications
+    Advisory Committee extended until Sept. 30, 2009, by Ex. Ord. No.
+    13446, Sept. 28, 2007, 72 F.R. 56175, set out as a note under
     section 14 of the Federal Advisory Committee Act in the Appendix to
     Title 5.
 
@@ -40179,7 +40396,7 @@
 
 
 -CITE-
-    47 USC Sec. 902                                             01/03/2007
+    47 USC Sec. 902                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -40406,6 +40623,97 @@
                                 AMENDMENTS                            
       2002 - Subsec. (b)(3)(C). Pub. L. 107-317 added subpar. (C).
 
+        PILOT PROGRAM FOR DIGITAL AND WIRELESS NETWORKS FOR ONLINE
+                       EDUCATIONAL PROGRAMS OF STUDY
+      Pub. L. 110-161, div. B, title V, Sec. 536, Dec. 26, 2007, 121
+    Stat. 1932, provided that: "This section may be cited as the 'ED
+    1.0 Act'.
+        "(a) In this section:
+          "(1) The term 'Administrator' means the Administrator of the
+        National Telecommunications and Information Administration.
+          "(2) The term 'eligible educational institution' means an
+        institution that is - 
+            "(A) a historically Black college or university;
+            "(B) a Hispanic-serving institution as that term is defined
+          in section 502(a)(5) of the Higher Education Act of 1965 (20
+          U.S.C. 1101a(a)(5));
+            "(C) a tribally controlled college or university as that
+          term is defined in section 2(a)(4) of the Tribally Controlled
+          College or University Assistance Act of 1978 (25 U.S.C.
+          1801(a)(4));
+            "(D) an Alaska Native-serving institution as that term is
+          defined in section 317(b)(2) of the Higher Education Act of
+          1965 (20 U.S.C. 1059d(b)(2)); or
+            "(E) a Native Hawaiian-serving institution as that term is
+          defined in section 317(b)(4) of the Higher Education Act of
+          1965 (20 U.S.C. 1059d(b)(4)).
+          "(3) The term 'historically Black college or university'
+        means a part B institution as that term is defined in section
+        322(2) of the Higher Education Act of 1965 (20 U.S.C. 1061(2)).
+        "(b)(1)(A) There is established within the National
+      Telecommunications and Information Administration a pilot program
+      under which the Administrator shall award 9 grants to eligible
+      educational institutions to enable the eligible educational
+      institutions to develop digital and wireless networks for online
+      educational programs of study within the eligible educational
+      institutions. The Administrator shall award not less than 1 grant
+      to each type of eligible educational institution, enumerated
+      under subsection (a)(2).
+        "(B)(i) The Administrator shall award a total of 9 grants under
+      this subsection.
+        "(ii) The Administrator shall make grant payments under this
+      subsection in the amount of $500,000.
+        "(2)(A) In awarding grants under this subsection the
+      Administrator shall give priority to an eligible educational
+      institution that, according to the most recent data available
+      (including data available from the Bureau of the Census), serves
+      a county, or other appropriate political subdivision where no
+      counties exist - 
+          "(i) in which 50 percent of the residents of the county, or
+        other appropriate political subdivision where no counties
+        exist, are members of a racial or ethnic minority;
+          "(ii) in which less than 18 percent of the residents of the
+        county, or other appropriate political subdivision where no
+        counties exist, have obtained a baccalaureate degree or a
+        higher education;
+          "(iii) that has an unemployment rate of 7 percent or greater;
+          "(iv) in which 20 percent or more of the residents of the
+        county, or other appropriate political subdivision where no
+        counties exist, live in poverty;
+          "(v) that has a negative population growth rate; or
+          "(vi) that has a family income of not more than $32,000.
+        "(B) In awarding grants under this subsection the Administrator
+      shall give the highest priority to an eligible educational
+      institution that meets the greatest number of requirements
+      described in clauses (i) through (vi) of subparagraph (A).
+        "(3) An eligible educational institution receiving a grant
+      under this subsection may use the grant funds - 
+          "(A) to acquire equipment, instrumentation, networking
+        capability, hardware, software, digital network technology,
+        wireless technology, or wireless infrastructure;
+          "(B) to develop and provide educational services, including
+        faculty development; or
+          "(C) to develop strategic plans for information technology
+        investments.
+        "(4) The Administrator shall not require an eligible
+      educational institution to provide matching funds for a grant
+      awarded under this subsection.
+        "(5)(A) The Administrator shall consult with the Committee on
+      Appropriations and the Committee on Commerce, Science, and
+      Transportation of the Senate and the Committee on Appropriations
+      and the Committee on Energy and Commerce of the House of
+      Representatives, on a quarterly basis regarding the pilot program
+      assisted under this subsection.
+        "(B) Not later than 1 year after the date of enactment of this
+      section [Dec. 26, 2007], the Administrator shall submit to the
+      committees described in subparagraph (A) a report evaluating the
+      progress of the pilot program assisted under this subsection.
+        "(c) There are authorized to be appropriated to carry out this
+      section $4,500,000 for each of fiscal years 2008 and 2009.
+        "(d) The Administrator shall carry out this section only with
+      amounts appropriated in advance specifically to carry out this
+      section."
+
                   STUDY OF TECHNOLOGY PROTECTION MEASURES              
       Pub. L. 106-554, Sec. 1(a)(4) [div. B, title XVII, Sec. 1703],
     Dec. 21, 2000, 114 Stat. 2763, 2763A-336, provided that:
@@ -40457,7 +40765,7 @@
 
 
 -CITE-
-    47 USC Sec. 903                                             01/03/2007
+    47 USC Sec. 903                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -40616,7 +40924,7 @@
 
 
 -CITE-
-    47 USC Sec. 904                                             01/03/2007
+    47 USC Sec. 904                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -40743,7 +41051,7 @@
 
 
 -CITE-
-    47 USC Sec. 905                                             01/03/2007
+    47 USC Sec. 905                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -40772,7 +41080,7 @@
 
 -CITE-
     47 USC SUBCHAPTER II - TRANSFER OF AUCTIONABLE
-           FREQUENCIES                                     01/03/2007
+           FREQUENCIES                                     01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -40788,7 +41096,7 @@
 
 
 -CITE-
-    47 USC Sec. 921                                             01/03/2007
+    47 USC Sec. 921                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -40926,72 +41234,20 @@
             ASSESSMENT OF ELECTROMAGNETIC SPECTRUM REALLOCATION        
       Pub. L. 102-538, title I, Sec. 156, as added by Pub. L. 106-65,
     div. A, title X, Sec. 1062(a), Oct. 5, 1999, 113 Stat. 767,
-    provided that:
-      "(a) Review and Assessment of Electromagnetic Spectrum
-    Reallocation. - 
-        "(1) Review and assessment required. - The Secretary of
-      Commerce, acting through the Assistant Secretary and in
-      coordination with the Chairman of the Federal Communications
-      Commission, shall convene an interagency review and assessment of
-      - 
-          "(A) the progress made in implementation of national spectrum
-        planning;
-          "(B) the reallocation of Federal Government spectrum to non-
-        Federal use, in accordance with the amendments made by title
-        VI of the Omnibus Budget Reconciliation Act of 1993 (Public Law
-        103-66; 107 Stat. 379) [enacting sections 159 and 921 to 927 of
-        this title and amending sections 152, 153, 156, 158, 309, 332,
-        and 903 of this title] and title III of the Balanced Budget Act
-        of 1997 (Public Law 105-33; 111 Stat. 258) [enacting section
-        337 of this title, amending sections 153, 303, 309, and 923 to
-        925 of this title, and repealing provisions set out as a note
-        under section 309 of this title]; and
-          "(C) the implications for such reallocations to the affected
-        Federal executive agencies.
-        "(2) Coordination. - The assessment shall be conducted in
-      coordination with affected Federal executive agencies through the
-      Interdepartmental Radio Advisory Committee.
-        "(3) Cooperation and assistance. - Affected Federal executive
-      agencies shall cooperate with the Assistant Secretary in the
-      conduct of the review and assessment and furnish the Assistant
-      Secretary with such information, support, and assistance, not
-      inconsistent with law, as the Assistant Secretary may consider
-      necessary in the performance of the review and assessment.
-        "(4) Attention to particular subjects required. - In the
-      conduct of the review and assessment, particular attention shall
-      be given to - 
-          "(A) the effect on critical military and intelligence
-        capabilities, civil space programs, and other Federal
-        Government systems used to protect public safety of the
-        reallocated spectrum described in paragraph (1)(B) of this
-        subsection;
-          "(B) the anticipated impact on critical military and
-        intelligence capabilities, future military and intelligence
-        operational requirements, national defense modernization
-        programs, and civil space programs, and other Federal
-        Government systems used to protect public safety, of future
-        potential reallocations to non-Federal use of bands of the
-        electromagnetic spectrum that are currently allocated for use
-        by the Federal Government; and
-          "(C) future spectrum requirements of agencies in the Federal
-        Government.
-      "(b) Submission of Report. - The Secretary of Commerce, in
-    coordination with the heads of the affected Federal executive
-    agencies, and the Chairman of the Federal Communications Commission
-    shall submit to the President, the Committee on Armed Services and
-    the Committee on Commerce, Science, and Transportation of the
-    Senate, and the Committee on Armed Services, the Committee on
-    Commerce [now Committee on Energy and Commerce], and the Committee
-    on Science of the House of Representatives, not later than October
-    1, 2000, a report providing the results of the assessment required
-    by subsection (a)."
+    required the Secretary of Commerce to convene an interagency review
+    and assessment of the progress made in implementation of national
+    spectrum planning, the reallocation of Federal Government spectrum
+    to non-Federal use, and the implications for such reallocations to
+    the affected Federal executive agencies and to submit to the
+    President and committees of Congress, not later than Oct. 1, 2000,
+    a report on the assessment.
 
 -End-
 
 
 
 -CITE-
-    47 USC Sec. 922                                             01/03/2007
+    47 USC Sec. 922                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -41028,7 +41284,7 @@
 
 
 -CITE-
-    47 USC Sec. 923                                             01/03/2007
+    47 USC Sec. 923                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -41491,7 +41747,7 @@
 
 
 -CITE-
-    47 USC Sec. 924                                             01/03/2007
+    47 USC Sec. 924                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -41597,7 +41853,7 @@
 
 
 -CITE-
-    47 USC Sec. 925                                             01/03/2007
+    47 USC Sec. 925                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -41800,7 +42056,7 @@
 
 
 -CITE-
-    47 USC Sec. 926                                             01/03/2007
+    47 USC Sec. 926                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -41867,7 +42123,7 @@
 
 
 -CITE-
-    47 USC Sec. 927                                             01/03/2007
+    47 USC Sec. 927                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -41905,7 +42161,7 @@
 
 
 -CITE-
-    47 USC Sec. 928                                             01/03/2007
+    47 USC Sec. 928                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -42028,7 +42284,7 @@
 
 
 -CITE-
-    47 USC SUBCHAPTER III - MISCELLANEOUS                       01/03/2007
+    47 USC SUBCHAPTER III - MISCELLANEOUS                       01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -42044,7 +42300,7 @@
 
 
 -CITE-
-    47 USC Sec. 941                                             01/03/2007
+    47 USC Sec. 941                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -42335,7 +42591,7 @@
 
 
 -CITE-
-    47 USC Sec. 942                                             01/03/2007
+    47 USC Sec. 942                                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -42434,7 +42690,15 @@
       criteria for selection for grants under this section, and shall
       update such regulations as necessary. The criteria shall include
       performance requirements and a timeline for completion of any
-      project to be financed by a grant under this section.
+      project to be financed by a grant under this section. Within 180
+      days after August 3, 2007, the Assistant Secretary and the
+      Administrator shall jointly issue regulations updating the
+      criteria to allow a portion of the funds to be used to give
+      priority to grants that are requested by public safety answering
+      points that were not capable of receiving 911 calls as of August
+      3, 2007, for the incremental cost of upgrading from Phase I to
+      Phase II compliance. Such grants shall be subject to all other
+      requirements of this section.
     (c) Diversion of E-911 charges
       (1) Designated E-911 charges
         For the purposes of this subsection, the term "designated E-911
@@ -42528,7 +42792,8 @@
 
 -SOURCE-
     (Pub. L. 102-538, title I, Sec. 158, as added Pub. L. 108-494,
-    title I, Sec. 104, Dec. 23, 2004, 118 Stat. 3987.)
+    title I, Sec. 104, Dec. 23, 2004, 118 Stat. 3987; amended Pub. L.
+    110-53, title XXIII, Sec. 2303, Aug. 3, 2007, 121 Stat. 543.)
 
 -COD-
                                CODIFICATION                           
@@ -42539,6 +42804,17 @@
 
 
 -MISC1-
+                                AMENDMENTS                            
+      2007 - Subsec. (b)(4). Pub. L. 110-53 inserted at end "Within 180
+    days after August 3, 2007, the Assistant Secretary and the
+    Administrator shall jointly issue regulations updating the criteria
+    to allow a portion of the funds to be used to give priority to
+    grants that are requested by public safety answering points that
+    were not capable of receiving 911 calls as of August 3, 2007, for
+    the incremental cost of upgrading from Phase I to Phase II
+    compliance. Such grants shall be subject to all other requirements
+    of this section."
+
                                  FINDINGS                             
       Pub. L. 108-494, title I, Sec. 102, Dec. 23, 2004, 118 Stat.
     3986, provided that: "The Congress finds that - 
@@ -42574,7 +42850,7 @@
 
 -CITE-
     47 USC CHAPTER 9 - INTERCEPTION OF DIGITAL AND OTHER
-           COMMUNICATIONS                                  01/03/2007
+           COMMUNICATIONS                                  01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -42610,7 +42886,7 @@
 
 -CITE-
     47 USC SUBCHAPTER I - INTERCEPTION OF DIGITAL AND OTHER
-           COMMUNICATIONS                                  01/03/2007
+           COMMUNICATIONS                                  01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -42625,7 +42901,7 @@
 
 
 -CITE-
-    47 USC Sec. 1001                                            01/03/2007
+    47 USC Sec. 1001                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -42725,7 +43001,7 @@
 
 
 -CITE-
-    47 USC Sec. 1002                                            01/03/2007
+    47 USC Sec. 1002                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -42863,7 +43139,7 @@
 
 
 -CITE-
-    47 USC Sec. 1003                                            01/03/2007
+    47 USC Sec. 1003                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -42969,7 +43245,7 @@
 
 
 -CITE-
-    47 USC Sec. 1004                                            01/03/2007
+    47 USC Sec. 1004                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -43004,7 +43280,7 @@
 
 
 -CITE-
-    47 USC Sec. 1005                                            01/03/2007
+    47 USC Sec. 1005                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -43046,7 +43322,7 @@
 
 
 -CITE-
-    47 USC Sec. 1006                                            01/03/2007
+    47 USC Sec. 1006                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -43159,7 +43435,7 @@
 
 
 -CITE-
-    47 USC Sec. 1007                                            01/03/2007
+    47 USC Sec. 1007                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -43234,7 +43510,7 @@
 
 
 -CITE-
-    47 USC Sec. 1008                                            01/03/2007
+    47 USC Sec. 1008                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -43382,7 +43658,7 @@
 
 
 -CITE-
-    47 USC Sec. 1009                                            01/03/2007
+    47 USC Sec. 1009                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -43407,7 +43683,7 @@
 
 
 -CITE-
-    47 USC Sec. 1010                                            01/03/2007
+    47 USC Sec. 1010                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -43487,7 +43763,7 @@
 
 -CITE-
     47 USC SUBCHAPTER II - TELECOMMUNICATIONS CARRIER
-           COMPLIANCE PAYMENTS                             01/03/2007
+           COMPLIANCE PAYMENTS                             01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -43502,7 +43778,7 @@
 
 
 -CITE-
-    47 USC Sec. 1021                                            01/03/2007
+    47 USC Sec. 1021                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -43628,7 +43904,7 @@
 
 
 -CITE-
-    47 USC CHAPTER 10 - LOCAL TV                                01/03/2007
+    47 USC CHAPTER 10 - LOCAL TV                                01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -43656,7 +43932,7 @@
 
 
 -CITE-
-    47 USC Sec. 1101                                            01/03/2007
+    47 USC Sec. 1101                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -43700,7 +43976,7 @@
 
 
 -CITE-
-    47 USC Sec. 1102                                            01/03/2007
+    47 USC Sec. 1102                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -43785,7 +44061,7 @@
 
 
 -CITE-
-    47 USC Sec. 1103                                            01/03/2007
+    47 USC Sec. 1103                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -44134,7 +44410,7 @@
 
 
 -CITE-
-    47 USC Sec. 1104                                            01/03/2007
+    47 USC Sec. 1104                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -44418,7 +44694,7 @@
 
 
 -CITE-
-    47 USC Sec. 1105                                            01/03/2007
+    47 USC Sec. 1105                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -44467,7 +44743,7 @@
 
 
 -CITE-
-    47 USC Sec. 1106                                            01/03/2007
+    47 USC Sec. 1106                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -44606,7 +44882,7 @@
 
 
 -CITE-
-    47 USC Sec. 1107                                            01/03/2007
+    47 USC Sec. 1107                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -44634,7 +44910,7 @@
 
 
 -CITE-
-    47 USC Sec. 1108                                            01/03/2007
+    47 USC Sec. 1108                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -44698,7 +44974,7 @@
 
 
 -CITE-
-    47 USC Sec. 1109                                            01/03/2007
+    47 USC Sec. 1109                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -44776,7 +45052,7 @@
 
 
 -CITE-
-    47 USC Sec. 1110                                            01/03/2007
+    47 USC Sec. 1110                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -44823,7 +45099,7 @@
 
 
 -CITE-
-    47 USC CHAPTER 11 - COMMERCIAL MOBILE SERVICE ALERTS        01/03/2007
+    47 USC CHAPTER 11 - COMMERCIAL MOBILE SERVICE ALERTS        01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -44845,7 +45121,7 @@
 
 
 -CITE-
-    47 USC Sec. 1201                                            01/03/2007
+    47 USC Sec. 1201                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -45005,7 +45281,7 @@
 
 
 -CITE-
-    47 USC Sec. 1202                                            01/03/2007
+    47 USC Sec. 1202                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -45132,7 +45408,7 @@
 
 
 -CITE-
-    47 USC Sec. 1203                                            01/03/2007
+    47 USC Sec. 1203                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -45173,7 +45449,7 @@
 
 
 -CITE-
-    47 USC Sec. 1204                                            01/03/2007
+    47 USC Sec. 1204                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
@@ -45215,7 +45491,7 @@
 
 
 -CITE-
-    47 USC Sec. 1205                                            01/03/2007
+    47 USC Sec. 1205                                            01/08/2008
 
 -EXPCITE-
     TITLE 47 - TELEGRAPHS, TELEPHONES, AND RADIOTELEGRAPHS
