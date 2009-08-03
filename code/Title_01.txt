@@ -1,5 +1,5 @@
 -CITE-
-    1 USC TITLE 1 - GENERAL PROVISIONS                          01/08/2008
+    1 USC TITLE 1 - GENERAL PROVISIONS                          01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -127,7 +127,7 @@
 
 
 -CITE-
-    1 USC CHAPTER 1 - RULES OF CONSTRUCTION                     01/08/2008
+    1 USC CHAPTER 1 - RULES OF CONSTRUCTION                     01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -166,7 +166,7 @@
 
 
 -CITE-
-    1 USC Sec. 1                                                01/08/2008
+    1 USC Sec. 1                                                01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -223,6 +223,15 @@
     that: "This Act [enacting section 7 of this title and section 1738C
     of Title 28, Judiciary and Judicial Procedure] may be cited as the
     'Defense of Marriage Act'."
+
+                       REFERENCES IN PUB. L. 110-329                   
+      Pub. L. 110-329, Sec. 3, Sept. 30, 2008, 122 Stat. 3574, provided
+    that: "Except as expressly provided otherwise, any reference to
+    'this Act' or 'this joint resolution' contained in any division of
+    this Act [Consolidated Security, Disaster Assistance, and
+    Continuing Appropriations Act, 2009, see Tables for classification]
+    shall be treated as referring only to the provisions of that
+    division."
 
                        REFERENCES IN PUB. L. 110-161                   
       Pub. L. 110-161, Sec. 3, Dec. 26, 2007, 121 Stat. 1845, provided
@@ -300,7 +309,7 @@
 
 
 -CITE-
-    1 USC Sec. 2                                                01/08/2008
+    1 USC Sec. 2                                                01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -321,7 +330,7 @@
 
 
 -CITE-
-    1 USC Sec. 3                                                01/08/2008
+    1 USC Sec. 3                                                01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -343,7 +352,7 @@
 
 
 -CITE-
-    1 USC Sec. 4                                                01/08/2008
+    1 USC Sec. 4                                                01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -365,7 +374,7 @@
 
 
 -CITE-
-    1 USC Sec. 5                                                01/08/2008
+    1 USC Sec. 5                                                01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -389,7 +398,7 @@
 
 
 -CITE-
-    1 USC Sec. 6                                                01/08/2008
+    1 USC Sec. 6                                                01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -417,7 +426,7 @@
 
 
 -CITE-
-    1 USC Sec. 7                                                01/08/2008
+    1 USC Sec. 7                                                01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -442,7 +451,7 @@
 
 
 -CITE-
-    1 USC Sec. 8                                                01/08/2008
+    1 USC Sec. 8                                                01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -481,7 +490,7 @@
 
 -CITE-
     1 USC CHAPTER 2 - ACTS AND RESOLUTIONS; FORMALITIES OF
-           ENACTMENT; REPEALS; SEALING OF INSTRUMENTS      01/08/2008
+           ENACTMENT; REPEALS; SEALING OF INSTRUMENTS      01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -539,7 +548,7 @@
 
 
 -CITE-
-    1 USC Sec. 101                                              01/08/2008
+    1 USC Sec. 101                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -563,7 +572,7 @@
 
 
 -CITE-
-    1 USC Sec. 102                                              01/08/2008
+    1 USC Sec. 102                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -587,7 +596,7 @@
 
 
 -CITE-
-    1 USC Sec. 103                                              01/08/2008
+    1 USC Sec. 103                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -609,7 +618,7 @@
 
 
 -CITE-
-    1 USC Sec. 104                                              01/08/2008
+    1 USC Sec. 104                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -631,7 +640,7 @@
 
 
 -CITE-
-    1 USC Sec. 105                                              01/08/2008
+    1 USC Sec. 105                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -670,7 +679,7 @@
 
 
 -CITE-
-    1 USC Sec. 106                                              01/08/2008
+    1 USC Sec. 106                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1213,7 +1222,7 @@
 
 
 -CITE-
-    1 USC Sec. 106a                                             01/08/2008
+    1 USC Sec. 106a                                             01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1275,7 +1284,7 @@
 
 
 -CITE-
-    1 USC Sec. 106b                                             01/08/2008
+    1 USC Sec. 106b                                             01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1333,7 +1342,7 @@
 
 
 -CITE-
-    1 USC Sec. 107                                              01/08/2008
+    1 USC Sec. 107                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1357,7 +1366,7 @@
 
 
 -CITE-
-    1 USC Sec. 108                                              01/08/2008
+    1 USC Sec. 108                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1380,7 +1389,7 @@
 
 
 -CITE-
-    1 USC Sec. 109                                              01/08/2008
+    1 USC Sec. 109                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1413,7 +1422,7 @@
 
 
 -CITE-
-    1 USC Sec. 110                                              01/08/2008
+    1 USC Sec. 110                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1441,7 +1450,7 @@
 
 
 -CITE-
-    1 USC Sec. 111                                              01/08/2008
+    1 USC Sec. 111                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1473,7 +1482,7 @@
 
 
 -CITE-
-    1 USC Sec. 112                                              01/08/2008
+    1 USC Sec. 112                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1638,7 +1647,7 @@
 
 
 -CITE-
-    1 USC Sec. 112a                                             01/08/2008
+    1 USC Sec. 112a                                             01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1759,7 +1768,7 @@
 
 
 -CITE-
-    1 USC Sec. 112b                                             01/08/2008
+    1 USC Sec. 112b                                             01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1922,7 +1931,7 @@
 
 
 -CITE-
-    1 USC Sec. 113                                              01/08/2008
+    1 USC Sec. 113                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1975,7 +1984,7 @@
 
 
 -CITE-
-    1 USC Sec. 114                                              01/08/2008
+    1 USC Sec. 114                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2002,7 +2011,7 @@
 -CITE-
     1 USC CHAPTER 3 - CODE OF LAWS OF UNITED STATES AND
            SUPPLEMENTS; DISTRICT OF COLUMBIA CODE AND
-           SUPPLEMENTS                                     01/08/2008
+           SUPPLEMENTS                                     01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2069,7 +2078,7 @@
 
 
 -CITE-
-    1 USC Sec. 201                                              01/08/2008
+    1 USC Sec. 201                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2126,7 +2135,7 @@
 
 
 -CITE-
-    1 USC Sec. 202                                              01/08/2008
+    1 USC Sec. 202                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2178,7 +2187,7 @@
 
 
 -CITE-
-    1 USC Sec. 203                                              01/08/2008
+    1 USC Sec. 203                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2226,7 +2235,7 @@
 
 
 -CITE-
-    1 USC Sec. 204                                              01/08/2008
+    1 USC Sec. 204                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2353,7 +2362,7 @@
 
 
 -CITE-
-    1 USC Sec. 205                                              01/08/2008
+    1 USC Sec. 205                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2385,7 +2394,7 @@
 
 
 -CITE-
-    1 USC Sec. 206                                              01/08/2008
+    1 USC Sec. 206                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2415,7 +2424,7 @@
 
 
 -CITE-
-    1 USC Sec. 207                                              01/08/2008
+    1 USC Sec. 207                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2442,7 +2451,7 @@
 
 
 -CITE-
-    1 USC Sec. 208                                              01/08/2008
+    1 USC Sec. 208                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2471,7 +2480,7 @@
 
 
 -CITE-
-    1 USC Sec. 209                                              01/08/2008
+    1 USC Sec. 209                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2506,7 +2515,7 @@
 
 
 -CITE-
-    1 USC Sec. 210                                              01/08/2008
+    1 USC Sec. 210                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2541,7 +2550,7 @@
 
 
 -CITE-
-    1 USC Sec. 211                                              01/08/2008
+    1 USC Sec. 211                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2594,7 +2603,7 @@
 
 
 -CITE-
-    1 USC Sec. 212                                              01/08/2008
+    1 USC Sec. 212                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2625,7 +2634,7 @@
 
 
 -CITE-
-    1 USC Sec. 213                                              01/08/2008
+    1 USC Sec. 213                                              01/05/2009
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS

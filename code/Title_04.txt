@@ -1,6 +1,6 @@
 -CITE-
     4 USC TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE
-                     STATES                                01/08/2008
+                     STATES                                01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -82,7 +82,7 @@
 
 
 -CITE-
-    4 USC CHAPTER 1 - THE FLAG                                  01/08/2008
+    4 USC CHAPTER 1 - THE FLAG                                  01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -115,7 +115,7 @@
 
 
 -CITE-
-    4 USC Sec. 1                                                01/08/2008
+    4 USC Sec. 1                                                01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -275,7 +275,7 @@
     revoked.
                                                    Dwight D. Eisenhower.
 
-<p><img src="http://uscode.house.gov/images/code08/t4flag.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code05/t4flag.gif" width=576 height=579 alt="Image of item"><p>
 
 
 
@@ -300,7 +300,7 @@
 
 
 -CITE-
-    4 USC Sec. 2                                                01/08/2008
+    4 USC Sec. 2                                                01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -322,7 +322,7 @@
 
 
 -CITE-
-    4 USC Sec. 3                                                01/08/2008
+    4 USC Sec. 3                                                01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -383,7 +383,7 @@
 
 
 -CITE-
-    4 USC Sec. 4                                                01/08/2008
+    4 USC Sec. 4                                                01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -628,7 +628,7 @@
 
 
 -CITE-
-    4 USC Sec. 5                                                01/08/2008
+    4 USC Sec. 5                                                01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -736,7 +736,7 @@
 
 
 -CITE-
-    4 USC Sec. 6                                                01/08/2008
+    4 USC Sec. 6                                                01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -760,13 +760,14 @@
     February 12; Washington's Birthday, third Monday in February;
     Easter Sunday (variable); Mother's Day, second Sunday in May; Armed
     Forces Day, third Saturday in May; Memorial Day (half-staff until
-    noon), the last Monday in May; Flag Day, June 14; Independence Day,
-    July 4; Labor Day, first Monday in September; Constitution Day,
-    September 17; Columbus Day, second Monday in October; Navy Day,
-    October 27; Veterans Day, November 11; Thanksgiving Day, fourth
-    Thursday in November; Christmas Day, December 25; and such other
-    days as may be proclaimed by the President of the United States;
-    the birthdays of States (date of admission); and on State holidays.
+    noon), the last Monday in May; Flag Day, June 14; Father's Day,
+    third Sunday in June; Independence Day, July 4; Labor Day, first
+    Monday in September; Constitution Day, September 17; Columbus Day,
+    second Monday in October; Navy Day, October 27; Veterans Day,
+    November 11; Thanksgiving Day, fourth Thursday in November;
+    Christmas Day, December 25; and such other days as may be
+    proclaimed by the President of the United States; the birthdays of
+    States (date of admission); and on State holidays.
       (e) The flag should be displayed daily on or near the main
     administration building of every public institution.
       (f) The flag should be displayed in or near every polling place
@@ -776,7 +777,8 @@
 
 -SOURCE-
     (Added Pub. L. 105-225, Sec. 2(a), Aug. 12, 1998, 112 Stat. 1494;
-    amended Pub. L. 106-80, Sec. 1, Oct. 25, 1999, 113 Stat. 1285.)
+    amended Pub. L. 106-80, Sec. 1, Oct. 25, 1999, 113 Stat. 1285; Pub.
+    L. 110-239, Sec. 1, June 3, 2008, 122 Stat. 1559.)
 
 -MISC1-
 
@@ -800,6 +802,8 @@
     Stat. 168).
 
                                 AMENDMENTS                            
+      2008 - Subsec. (d). Pub. L. 110-239 inserted "Father's Day, third
+    Sunday in June;" after "Flag Day, June 14;".
       1999 - Subsec. (d). Pub. L. 106-80 inserted "Martin Luther King
     Jr.'s birthday, third Monday in January;" after "January 20;".
 
@@ -808,7 +812,7 @@
 
 
 -CITE-
-    4 USC Sec. 7                                                01/08/2008
+    4 USC Sec. 7                                                01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1089,7 +1093,7 @@
 
 
 -CITE-
-    4 USC Sec. 8                                                01/08/2008
+    4 USC Sec. 8                                                01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1167,7 +1171,7 @@
 
 
 -CITE-
-    4 USC Sec. 9                                                01/08/2008
+    4 USC Sec. 9                                                01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1178,17 +1182,21 @@
 
 -STATUTE-
       During the ceremony of hoisting or lowering the flag or when the
-    flag is passing in a parade or in review, all persons present
-    except those in uniform should face the flag and stand at attention
-    with the right hand over the heart. Those present in uniform should
-    render the military salute. When not in uniform, men should remove
-    their headdress with their right hand and hold it at the left
-    shoulder, the hand being over the heart. Aliens should stand at
-    attention. The salute to the flag in a moving column should be
-    rendered at the moment the flag passes.
+    flag is passing in a parade or in review, all persons present in
+    uniform should render the military salute. Members of the Armed
+    Forces and veterans who are present but not in uniform may render
+    the military salute. All other persons present should face the flag
+    and stand at attention with their right hand over the heart, or if
+    applicable, remove their headdress with their right hand and hold
+    it at the left shoulder, the hand being over the heart. Citizens of
+    other countries present should stand at attention. All such conduct
+    toward the flag in a moving column should be rendered at the moment
+    the flag passes.
 
 -SOURCE-
-    (Added Pub. L. 105-225, Sec. 2(a), Aug. 12, 1998, 112 Stat. 1498.)
+    (Added Pub. L. 105-225, Sec. 2(a), Aug. 12, 1998, 112 Stat. 1498;
+    Pub. L. 110-181, div. A, title V, Sec. 594, Jan. 28, 2008, 122
+    Stat. 138.)
 
 -MISC1-
 
@@ -1208,12 +1216,31 @@
     --------------------------------------------------------------------
 
 
+                                AMENDMENTS                            
+      2008 - Pub. L. 110-181 substituted "all persons present in
+    uniform should render the military salute. Members of the Armed
+    Forces and veterans who are present but not in uniform may render
+    the military salute. All other persons present should face the flag
+    and stand at attention with their right hand over the heart, or if
+    applicable, remove their headdress with their right hand and hold
+    it at the left shoulder, the hand being over the heart. Citizens of
+    other countries present should stand at attention. All such conduct
+    toward the flag in a moving column should be rendered at the moment
+    the flag passes." for "all persons present except those in uniform
+    should face the flag and stand at attention with the right hand
+    over the heart. Those present in uniform should render the military
+    salute. When not in uniform, men should remove their headdress with
+    their right hand and hold it at the left shoulder, the hand being
+    over the heart. Aliens should stand at attention. The salute to the
+    flag in a moving column should be rendered at the moment the flag
+    passes."
+
 -End-
 
 
 
 -CITE-
-    4 USC Sec. 10                                               01/08/2008
+    4 USC Sec. 10                                               01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1303,7 +1330,7 @@
 
 
 -CITE-
-    4 USC CHAPTER 2 - THE SEAL                                  01/08/2008
+    4 USC CHAPTER 2 - THE SEAL                                  01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1322,7 +1349,7 @@
 
 
 -CITE-
-    4 USC Sec. 41                                               01/08/2008
+    4 USC Sec. 41                                               01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1343,7 +1370,7 @@
 
 
 -CITE-
-    4 USC Sec. 42                                               01/08/2008
+    4 USC Sec. 42                                               01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1404,7 +1431,7 @@
 
 
 -CITE-
-    4 USC CHAPTER 3 - SEAT OF THE GOVERNMENT                    01/08/2008
+    4 USC CHAPTER 3 - SEAT OF THE GOVERNMENT                    01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1424,7 +1451,7 @@
 
 
 -CITE-
-    4 USC Sec. 71                                               01/08/2008
+    4 USC Sec. 71                                               01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1446,7 +1473,7 @@
 
 
 -CITE-
-    4 USC Sec. 72                                               01/08/2008
+    4 USC Sec. 72                                               01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1468,7 +1495,7 @@
 
 
 -CITE-
-    4 USC Sec. 73                                               01/08/2008
+    4 USC Sec. 73                                               01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1491,7 +1518,7 @@
 
 
 -CITE-
-    4 USC CHAPTER 4 - THE STATES                                01/08/2008
+    4 USC CHAPTER 4 - THE STATES                                01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1581,7 +1608,7 @@
 
 
 -CITE-
-    4 USC Sec. 101                                              01/08/2008
+    4 USC Sec. 101                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1605,7 +1632,7 @@
 
 
 -CITE-
-    4 USC Sec. 102                                              01/08/2008
+    4 USC Sec. 102                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1629,7 +1656,7 @@
 
 
 -CITE-
-    4 USC Sec. 103                                              01/08/2008
+    4 USC Sec. 103                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1653,7 +1680,7 @@
 
 
 -CITE-
-    4 USC Sec. 104                                              01/08/2008
+    4 USC Sec. 104                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1729,7 +1756,7 @@
 
 
 -CITE-
-    4 USC Sec. 105                                              01/08/2008
+    4 USC Sec. 105                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1800,7 +1827,7 @@
 
 
 -CITE-
-    4 USC Sec. 106                                              01/08/2008
+    4 USC Sec. 106                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1831,7 +1858,7 @@
 
 
 -CITE-
-    4 USC Sec. 107                                              01/08/2008
+    4 USC Sec. 107                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1878,7 +1905,7 @@
 
 
 -CITE-
-    4 USC Sec. 108                                              01/08/2008
+    4 USC Sec. 108                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1903,7 +1930,7 @@
 
 
 -CITE-
-    4 USC Sec. 109                                              01/08/2008
+    4 USC Sec. 109                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1925,7 +1952,7 @@
 
 
 -CITE-
-    4 USC Sec. 110                                              01/08/2008
+    4 USC Sec. 110                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -1978,7 +2005,7 @@
 
 
 -CITE-
-    4 USC Sec. 111                                              01/08/2008
+    4 USC Sec. 111                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -2062,7 +2089,7 @@
 
 
 -CITE-
-    4 USC Sec. 112                                              01/08/2008
+    4 USC Sec. 112                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -2123,7 +2150,7 @@
 
 
 -CITE-
-    4 USC Sec. 113                                              01/08/2008
+    4 USC Sec. 113                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -2193,7 +2220,7 @@
 
 
 -CITE-
-    4 USC Sec. 114                                              01/08/2008
+    4 USC Sec. 114                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -2321,7 +2348,7 @@
 
 
 -CITE-
-    4 USC Sec. 115                                              01/08/2008
+    4 USC Sec. 115                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -2355,7 +2382,7 @@
 
 
 -CITE-
-    4 USC Sec. 116                                              01/08/2008
+    4 USC Sec. 116                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -2457,7 +2484,7 @@
 
 
 -CITE-
-    4 USC Sec. 117                                              01/08/2008
+    4 USC Sec. 117                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -2499,7 +2526,7 @@
 
 
 -CITE-
-    4 USC Sec. 118                                              01/08/2008
+    4 USC Sec. 118                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -2534,7 +2561,7 @@
 
 
 -CITE-
-    4 USC Sec. 119                                              01/08/2008
+    4 USC Sec. 119                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -2608,7 +2635,7 @@
 
 
 -CITE-
-    4 USC Sec. 120                                              01/08/2008
+    4 USC Sec. 120                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -2676,7 +2703,7 @@
 
 
 -CITE-
-    4 USC Sec. 121                                              01/08/2008
+    4 USC Sec. 121                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -2741,7 +2768,7 @@
 
 
 -CITE-
-    4 USC Sec. 122                                              01/08/2008
+    4 USC Sec. 122                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -2799,7 +2826,7 @@
 
 
 -CITE-
-    4 USC Sec. 123                                              01/08/2008
+    4 USC Sec. 123                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -2862,7 +2889,7 @@
 
 
 -CITE-
-    4 USC Sec. 124                                              01/08/2008
+    4 USC Sec. 124                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -2979,7 +3006,7 @@
 
 
 -CITE-
-    4 USC Sec. 125                                              01/08/2008
+    4 USC Sec. 125                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -3015,7 +3042,7 @@
 
 
 -CITE-
-    4 USC Sec. 126                                              01/08/2008
+    4 USC Sec. 126                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -3061,7 +3088,7 @@
 
 
 -CITE-
-    4 USC CHAPTER 5 - OFFICIAL TERRITORIAL PAPERS               01/08/2008
+    4 USC CHAPTER 5 - OFFICIAL TERRITORIAL PAPERS               01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -3121,7 +3148,7 @@
 
 
 -CITE-
-    4 USC Sec. 141                                              01/08/2008
+    4 USC Sec. 141                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -3169,7 +3196,7 @@
 
 
 -CITE-
-    4 USC Sec. 142                                              01/08/2008
+    4 USC Sec. 142                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -3225,7 +3252,7 @@
 
 
 -CITE-
-    4 USC Sec. 143                                              01/08/2008
+    4 USC Sec. 143                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -3274,7 +3301,7 @@
 
 
 -CITE-
-    4 USC Sec. 144                                              01/08/2008
+    4 USC Sec. 144                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -3316,7 +3343,7 @@
 
 
 -CITE-
-    4 USC Sec. 145                                              01/08/2008
+    4 USC Sec. 145                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES
@@ -3386,7 +3413,7 @@
 
 
 -CITE-
-    4 USC Sec. 146                                              01/08/2008
+    4 USC Sec. 146                                              01/05/2009
 
 -EXPCITE-
     TITLE 4 - FLAG AND SEAL, SEAT OF GOVERNMENT, AND THE STATES

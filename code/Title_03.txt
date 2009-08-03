@@ -1,5 +1,5 @@
 -CITE-
-    3 USC TITLE 3 - THE PRESIDENT                               01/08/2008
+    3 USC TITLE 3 - THE PRESIDENT                               01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -247,7 +247,7 @@
 
 
 -CITE-
-    3 USC CHAPTER 1 - PRESIDENTIAL ELECTIONS AND VACANCIES      01/08/2008
+    3 USC CHAPTER 1 - PRESIDENTIAL ELECTIONS AND VACANCIES      01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -306,7 +306,7 @@
 
 
 -CITE-
-    3 USC Sec. 1                                                01/08/2008
+    3 USC Sec. 1                                                01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -352,7 +352,7 @@
 
 
 -CITE-
-    3 USC Sec. 2                                                01/08/2008
+    3 USC Sec. 2                                                01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -375,7 +375,7 @@
 
 
 -CITE-
-    3 USC Sec. 3                                                01/08/2008
+    3 USC Sec. 3                                                01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -401,7 +401,7 @@
 
 
 -CITE-
-    3 USC Sec. 4                                                01/08/2008
+    3 USC Sec. 4                                                01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -423,7 +423,7 @@
 
 
 -CITE-
-    3 USC Sec. 5                                                01/08/2008
+    3 USC Sec. 5                                                01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -454,7 +454,7 @@
 
 
 -CITE-
-    3 USC Sec. 6                                                01/08/2008
+    3 USC Sec. 6                                                01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -533,7 +533,7 @@
 
 
 -CITE-
-    3 USC Sec. 7                                                01/08/2008
+    3 USC Sec. 7                                                01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -562,7 +562,7 @@
 
 
 -CITE-
-    3 USC Sec. 8                                                01/08/2008
+    3 USC Sec. 8                                                01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -583,7 +583,7 @@
 
 
 -CITE-
-    3 USC Sec. 9                                                01/08/2008
+    3 USC Sec. 9                                                01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -608,7 +608,7 @@
 
 
 -CITE-
-    3 USC Sec. 10                                               01/08/2008
+    3 USC Sec. 10                                               01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -631,7 +631,7 @@
 
 
 -CITE-
-    3 USC Sec. 11                                               01/08/2008
+    3 USC Sec. 11                                               01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -685,7 +685,7 @@
 
 
 -CITE-
-    3 USC Sec. 12                                               01/08/2008
+    3 USC Sec. 12                                               01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -735,7 +735,7 @@
 
 
 -CITE-
-    3 USC Sec. 13                                               01/08/2008
+    3 USC Sec. 13                                               01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -778,7 +778,7 @@
 
 
 -CITE-
-    3 USC Sec. 14                                               01/08/2008
+    3 USC Sec. 14                                               01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -802,7 +802,7 @@
 
 
 -CITE-
-    3 USC Sec. 15                                               01/08/2008
+    3 USC Sec. 15                                               01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -891,7 +891,14 @@
 
 -MISC1-
                         COUNTING OF ELECTORAL VOTES                    
-      1996 - Pub. L. 104-296, Sec. 2, Oct. 11, 1996, 110 Stat. 3558,
+      2009 - Pub. L. 110-430, Sec. 2, Oct. 15, 2008, 122 Stat. 4846,
+    provided that: "The meeting of the Senate and House of
+    Representatives to be held in January 2009 pursuant to section 15
+    of title 3, United States Code, to count the electoral votes for
+    President and Vice President cast by the electors in December 2008
+    shall be held on January 8, 2009 (rather than on the date specified
+    in the first sentence of that section)."
+      1997 - Pub. L. 104-296, Sec. 2, Oct. 11, 1996, 110 Stat. 3558,
     provided that: "The meeting of the Senate and House of
     Representatives to be held in January 1997 pursuant to section 15
     of title 3, United States Code, to count the electoral votes for
@@ -914,7 +921,7 @@
 
 
 -CITE-
-    3 USC Sec. 16                                               01/08/2008
+    3 USC Sec. 16                                               01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -954,7 +961,7 @@
 
 
 -CITE-
-    3 USC Sec. 17                                               01/08/2008
+    3 USC Sec. 17                                               01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -980,7 +987,7 @@
 
 
 -CITE-
-    3 USC Sec. 18                                               01/08/2008
+    3 USC Sec. 18                                               01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -1010,7 +1017,7 @@
 
 
 -CITE-
-    3 USC Sec. 19                                               01/08/2008
+    3 USC Sec. 19                                               01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -1152,7 +1159,7 @@
 
 
 -CITE-
-    3 USC Sec. 20                                               01/08/2008
+    3 USC Sec. 20                                               01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -1184,7 +1191,7 @@
 
 
 -CITE-
-    3 USC Sec. 21                                               01/08/2008
+    3 USC Sec. 21                                               01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -1219,7 +1226,7 @@
 
 
 -CITE-
-    3 USC CHAPTER 2 - OFFICE AND COMPENSATION OF PRESIDENT      01/08/2008
+    3 USC CHAPTER 2 - OFFICE AND COMPENSATION OF PRESIDENT      01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -2153,7 +2160,7 @@
 
 
 -CITE-
-    3 USC Sec. 101                                              01/08/2008
+    3 USC Sec. 101                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -2245,7 +2252,7 @@
 
 
 -CITE-
-    3 USC Sec. 102                                              01/08/2008
+    3 USC Sec. 102                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -2860,7 +2867,7 @@
 
 
 -CITE-
-    3 USC Sec. 103                                              01/08/2008
+    3 USC Sec. 103                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -2895,7 +2902,7 @@
 
 
 -CITE-
-    3 USC Sec. 104                                              01/08/2008
+    3 USC Sec. 104                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -3037,7 +3044,7 @@
 
 
 -CITE-
-    3 USC Sec. 105                                              01/08/2008
+    3 USC Sec. 105                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -3258,7 +3265,7 @@
 
 
 -CITE-
-    3 USC Sec. 106                                              01/08/2008
+    3 USC Sec. 106                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -3454,7 +3461,7 @@
 
 
 -CITE-
-    3 USC Sec. 107                                              01/08/2008
+    3 USC Sec. 107                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -3570,7 +3577,7 @@
 
 
 -CITE-
-    3 USC Sec. 108                                              01/08/2008
+    3 USC Sec. 108                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -3641,7 +3648,7 @@
 
 
 -CITE-
-    3 USC Sec. 109                                              01/08/2008
+    3 USC Sec. 109                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -3705,7 +3712,7 @@
 
 
 -CITE-
-    3 USC Sec. 110                                              01/08/2008
+    3 USC Sec. 110                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -3969,7 +3976,7 @@
 
 
 -CITE-
-    3 USC Sec. 111                                              01/08/2008
+    3 USC Sec. 111                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4104,7 +4111,7 @@
 
 
 -CITE-
-    3 USC Sec. 112                                              01/08/2008
+    3 USC Sec. 112                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4159,7 +4166,7 @@
 
 
 -CITE-
-    3 USC Sec. 113                                              01/08/2008
+    3 USC Sec. 113                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4301,7 +4308,7 @@
 
 
 -CITE-
-    3 USC Sec. 114                                              01/08/2008
+    3 USC Sec. 114                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4344,7 +4351,7 @@
 
 
 -CITE-
-    3 USC Sec. 115                                              01/08/2008
+    3 USC Sec. 115                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4386,7 +4393,7 @@
 
 
 -CITE-
-    3 USC [CHAPTER 3 - REPEALED]                                01/08/2008
+    3 USC [CHAPTER 3 - REPEALED]                                01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4400,7 +4407,7 @@
 
 
 -CITE-
-    3 USC Sec. 201                                              01/08/2008
+    3 USC Sec. 201                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4421,7 +4428,7 @@
 
 
 -CITE-
-    3 USC Secs. 202 to 204                                      01/08/2008
+    3 USC Secs. 202 to 204                                      01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4471,7 +4478,7 @@
 
 
 -CITE-
-    3 USC Sec. 205                                              01/08/2008
+    3 USC Sec. 205                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4492,7 +4499,7 @@
 
 
 -CITE-
-    3 USC Secs. 206 to 209                                      01/08/2008
+    3 USC Secs. 206 to 209                                      01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4530,7 +4537,7 @@
 
 
 -CITE-
-    3 USC CHAPTER 4 - DELEGATION OF FUNCTIONS                   01/08/2008
+    3 USC CHAPTER 4 - DELEGATION OF FUNCTIONS                   01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4561,7 +4568,7 @@
 
 
 -CITE-
-    3 USC Sec. 301                                              01/08/2008
+    3 USC Sec. 301                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7131,7 +7138,7 @@
 
 
 -CITE-
-    3 USC Sec. 302                                              01/08/2008
+    3 USC Sec. 302                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7168,7 +7175,7 @@
 
 
 -CITE-
-    3 USC Sec. 303                                              01/08/2008
+    3 USC Sec. 303                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7198,7 +7205,7 @@
 
 -CITE-
     3 USC CHAPTER 5 - EXTENSION OF CERTAIN RIGHTS AND
-           PROTECTIONS TO PRESIDENTIAL OFFICES             01/08/2008
+           PROTECTIONS TO PRESIDENTIAL OFFICES             01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7277,7 +7284,7 @@
 
 
 -CITE-
-    3 USC SUBCHAPTER I - GENERAL PROVISIONS                     01/08/2008
+    3 USC SUBCHAPTER I - GENERAL PROVISIONS                     01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7293,7 +7300,7 @@
 
 
 -CITE-
-    3 USC Sec. 401                                              01/08/2008
+    3 USC Sec. 401                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7376,7 +7383,7 @@
 
 
 -CITE-
-    3 USC Sec. 402                                              01/08/2008
+    3 USC Sec. 402                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7469,7 +7476,7 @@
 
 
 -CITE-
-    3 USC SUBCHAPTER II - EXTENSION OF RIGHTS AND PROTECTIONS    01/08/2008 
+    3 USC SUBCHAPTER II - EXTENSION OF RIGHTS AND PROTECTIONS    01/05/2009 
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7489,7 +7496,7 @@
                     Employee Polygraph Protection, Worker
                     Adjustment and Retraining, Employment
                     and Reemployment of Veterans, and
-                    Intimidation                           01/08/2008
+                    Intimidation                           01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7512,7 +7519,7 @@
 
 
 -CITE-
-    3 USC Sec. 411                                              01/08/2008
+    3 USC Sec. 411                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7679,7 +7686,7 @@
 
 
 -CITE-
-    3 USC Sec. 412                                              01/08/2008
+    3 USC Sec. 412                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7772,7 +7779,7 @@
 
 
 -CITE-
-    3 USC Sec. 413                                              01/08/2008
+    3 USC Sec. 413                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7854,7 +7861,7 @@
 
 
 -CITE-
-    3 USC Sec. 414                                              01/08/2008
+    3 USC Sec. 414                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7918,7 +7925,7 @@
 
 
 -CITE-
-    3 USC Sec. 415                                              01/08/2008
+    3 USC Sec. 415                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8019,7 +8026,7 @@
 
 
 -CITE-
-    3 USC Sec. 416                                              01/08/2008
+    3 USC Sec. 416                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8102,7 +8109,7 @@
 
 
 -CITE-
-    3 USC Sec. 417                                              01/08/2008
+    3 USC Sec. 417                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8140,7 +8147,7 @@
 -CITE-
     3 USC Part B - Public Access Provisions Under the
                     Americans With Disabilities Act of
-                    1990                                   01/08/2008
+                    1990                                   01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8159,7 +8166,7 @@
 
 
 -CITE-
-    3 USC Sec. 421                                              01/08/2008
+    3 USC Sec. 421                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8274,7 +8281,7 @@
 
 
 -CITE-
-    3 USC Part C - Occupational Safety and Health Act of 1970    01/08/2008 
+    3 USC Part C - Occupational Safety and Health Act of 1970    01/05/2009 
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8291,7 +8298,7 @@
 
 
 -CITE-
-    3 USC Sec. 425                                              01/08/2008
+    3 USC Sec. 425                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8434,7 +8441,7 @@
 
 
 -CITE-
-    3 USC Part D - Labor-Management Relations                   01/08/2008
+    3 USC Part D - Labor-Management Relations                   01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8451,7 +8458,7 @@
 
 
 -CITE-
-    3 USC Sec. 431                                              01/08/2008
+    3 USC Sec. 431                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8554,7 +8561,7 @@
 
 
 -CITE-
-    3 USC Part E - General                                      01/08/2008
+    3 USC Part E - General                                      01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8571,7 +8578,7 @@
 
 
 -CITE-
-    3 USC Sec. 435                                              01/08/2008
+    3 USC Sec. 435                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8647,7 +8654,7 @@
 
 -CITE-
     3 USC SUBCHAPTER III - ADMINISTRATIVE AND JUDICIAL DISPUTE
-           RESOLUTION PROCEDURES                           01/08/2008
+           RESOLUTION PROCEDURES                           01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8665,7 +8672,7 @@
 
 
 -CITE-
-    3 USC Sec. 451                                              01/08/2008
+    3 USC Sec. 451                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8696,7 +8703,7 @@
 
 
 -CITE-
-    3 USC Sec. 452                                              01/08/2008
+    3 USC Sec. 452                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8740,7 +8747,7 @@
 
 
 -CITE-
-    3 USC Sec. 453                                              01/08/2008
+    3 USC Sec. 453                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8769,7 +8776,7 @@
 
 
 -CITE-
-    3 USC Sec. 454                                              01/08/2008
+    3 USC Sec. 454                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8830,7 +8837,7 @@
 
 
 -CITE-
-    3 USC Sec. 455                                              01/08/2008
+    3 USC Sec. 455                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8859,7 +8866,7 @@
 
 
 -CITE-
-    3 USC Sec. 456                                              01/08/2008
+    3 USC Sec. 456                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8885,7 +8892,7 @@
 
 
 -CITE-
-    3 USC SUBCHAPTER IV - EFFECTIVE DATE                        01/08/2008
+    3 USC SUBCHAPTER IV - EFFECTIVE DATE                        01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8901,7 +8908,7 @@
 
 
 -CITE-
-    3 USC Sec. 471                                              01/08/2008
+    3 USC Sec. 471                                              01/05/2009
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
