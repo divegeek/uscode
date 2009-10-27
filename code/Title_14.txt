@@ -1,10 +1,10 @@
 -CITE-
-    14 USC TITLE 14 - COAST GUARD                               01/08/2008
+    14 USC TITLE 14 - COAST GUARD                               01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
     
--HEAD-
+-HEAD-    
                           TITLE 14 - COAST GUARD                      
 
 
@@ -349,7 +349,7 @@
 
 
 -CITE-
-    14 USC PART I - REGULAR COAST GUARD                         01/08/2008
+    14 USC PART I - REGULAR COAST GUARD                         01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -391,7 +391,7 @@
 
 
 -CITE-
-    14 USC CHAPTER 1 - ESTABLISHMENT AND DUTIES                 01/08/2008
+    14 USC CHAPTER 1 - ESTABLISHMENT AND DUTIES                 01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -414,7 +414,7 @@
 
 
 -CITE-
-    14 USC Sec. 1                                               01/08/2008
+    14 USC Sec. 1                                               01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -527,7 +527,7 @@
 
 
 -CITE-
-    14 USC Sec. 2                                               01/08/2008
+    14 USC Sec. 2                                               01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -675,7 +675,7 @@
 
 
 -CITE-
-    14 USC Sec. 3                                               01/08/2008
+    14 USC Sec. 3                                               01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -735,7 +735,7 @@
 
 
 -CITE-
-    14 USC Sec. 4                                               01/08/2008
+    14 USC Sec. 4                                               01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -826,7 +826,7 @@
 
 
 -CITE-
-    14 USC Sec. 5                                               01/08/2008
+    14 USC Sec. 5                                               01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -857,7 +857,7 @@
 
 
 -CITE-
-    14 USC CHAPTER 3 - COMPOSITION AND ORGANIZATION             01/08/2008
+    14 USC CHAPTER 3 - COMPOSITION AND ORGANIZATION             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -910,7 +910,7 @@
 
 
 -CITE-
-    14 USC Sec. 41                                              01/08/2008
+    14 USC Sec. 41                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -1018,7 +1018,7 @@
 
 
 -CITE-
-    14 USC Sec. 41a                                             01/08/2008
+    14 USC Sec. 41a                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -1103,7 +1103,7 @@
 
 
 -CITE-
-    14 USC Sec. 42                                              01/08/2008
+    14 USC Sec. 42                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -1275,7 +1275,7 @@
 
 
 -CITE-
-    14 USC Sec. 43                                              01/08/2008
+    14 USC Sec. 43                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -1297,7 +1297,7 @@
 
 
 -CITE-
-    14 USC Sec. 44                                              01/08/2008
+    14 USC Sec. 44                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -1386,7 +1386,7 @@
 
 
 -CITE-
-    14 USC Sec. 45                                              01/08/2008
+    14 USC Sec. 45                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -1407,7 +1407,7 @@
 
 
 -CITE-
-    14 USC Sec. 46                                              01/08/2008
+    14 USC Sec. 46                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -1495,7 +1495,7 @@
 
 
 -CITE-
-    14 USC Sec. 47                                              01/08/2008
+    14 USC Sec. 47                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -1637,7 +1637,7 @@
 
 
 -CITE-
-    14 USC Secs. 48, 49                                         01/08/2008
+    14 USC Secs. 48, 49                                         01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -1662,7 +1662,7 @@
 
 
 -CITE-
-    14 USC Sec. 50                                              01/08/2008
+    14 USC Sec. 50                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -1720,7 +1720,7 @@
 
 
 -CITE-
-    14 USC Sec. 50a                                             01/08/2008
+    14 USC Sec. 50a                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -1754,7 +1754,7 @@
 
 
 -CITE-
-    14 USC Sec. 51                                              01/08/2008
+    14 USC Sec. 51                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -1819,7 +1819,7 @@
 
 
 -CITE-
-    14 USC Sec. 52                                              01/08/2008
+    14 USC Sec. 52                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -1852,7 +1852,7 @@
 
 
 -CITE-
-    14 USC Sec. 53                                              01/08/2008
+    14 USC Sec. 53                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -1923,7 +1923,7 @@
 
 
 -CITE-
-    14 USC Sec. 54                                              01/08/2008
+    14 USC Sec. 54                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -1946,7 +1946,7 @@
 
 
 -CITE-
-    14 USC CHAPTER 5 - FUNCTIONS AND POWERS                     01/08/2008
+    14 USC CHAPTER 5 - FUNCTIONS AND POWERS                     01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -2011,7 +2011,7 @@
 
 
 -CITE-
-    14 USC Sec. 81                                              01/08/2008
+    14 USC Sec. 81                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -2184,7 +2184,7 @@
 
 
 -CITE-
-    14 USC Sec. 82                                              01/08/2008
+    14 USC Sec. 82                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -2284,7 +2284,7 @@
 
 
 -CITE-
-    14 USC Sec. 83                                              01/08/2008
+    14 USC Sec. 83                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -2345,7 +2345,7 @@
 
 
 -CITE-
-    14 USC Sec. 84                                              01/08/2008
+    14 USC Sec. 84                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -2389,7 +2389,7 @@
 
 
 -CITE-
-    14 USC Sec. 85                                              01/08/2008
+    14 USC Sec. 85                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -2446,7 +2446,7 @@
 
 
 -CITE-
-    14 USC Sec. 86                                              01/08/2008
+    14 USC Sec. 86                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -2505,7 +2505,7 @@
 
 
 -CITE-
-    14 USC Sec. 87                                              01/08/2008
+    14 USC Sec. 87                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -2529,7 +2529,7 @@
 
 
 -CITE-
-    14 USC Sec. 88                                              01/08/2008
+    14 USC Sec. 88                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -2705,7 +2705,7 @@
 
 
 -CITE-
-    14 USC Sec. 89                                              01/08/2008
+    14 USC Sec. 89                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -2799,7 +2799,7 @@
 
 
 -CITE-
-    14 USC Sec. 90                                              01/08/2008
+    14 USC Sec. 90                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -2861,7 +2861,7 @@
 
 
 -CITE-
-    14 USC Sec. 91                                              01/08/2008
+    14 USC Sec. 91                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -2936,7 +2936,7 @@
 
 
 -CITE-
-    14 USC Sec. 92                                              01/08/2008
+    14 USC Sec. 92                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -3372,7 +3372,7 @@
 
 
 -CITE-
-    14 USC Sec. 93                                              01/08/2008
+    14 USC Sec. 93                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -3862,7 +3862,7 @@
 
 
 -CITE-
-    14 USC Sec. 94                                              01/08/2008
+    14 USC Sec. 94                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -3886,7 +3886,7 @@
 
 
 -CITE-
-    14 USC Sec. 95                                              01/08/2008
+    14 USC Sec. 95                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -3956,7 +3956,7 @@
 
 
 -CITE-
-    14 USC Sec. 96                                              01/08/2008
+    14 USC Sec. 96                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -3982,7 +3982,7 @@
 
 
 -CITE-
-    14 USC Sec. 97                                              01/08/2008
+    14 USC Sec. 97                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -4015,7 +4015,7 @@
 
 
 -CITE-
-    14 USC Sec. 98                                              01/08/2008
+    14 USC Sec. 98                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -4067,7 +4067,7 @@
 
 
 -CITE-
-    14 USC CHAPTER 7 - COOPERATION WITH OTHER AGENCIES          01/08/2008
+    14 USC CHAPTER 7 - COOPERATION WITH OTHER AGENCIES          01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -4150,7 +4150,7 @@
 
 
 -CITE-
-    14 USC Sec. 141                                             01/08/2008
+    14 USC Sec. 141                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -4229,7 +4229,7 @@
 
 
 -CITE-
-    14 USC Sec. 142                                             01/08/2008
+    14 USC Sec. 142                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -4283,7 +4283,7 @@
 
 
 -CITE-
-    14 USC Sec. 143                                             01/08/2008
+    14 USC Sec. 143                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -4320,7 +4320,7 @@
 
 
 -CITE-
-    14 USC Sec. 144                                             01/08/2008
+    14 USC Sec. 144                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -4381,7 +4381,7 @@
 
 
 -CITE-
-    14 USC Sec. 145                                             01/08/2008
+    14 USC Sec. 145                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -4476,7 +4476,7 @@
 
 
 -CITE-
-    14 USC Sec. 146                                             01/08/2008
+    14 USC Sec. 146                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -4517,7 +4517,7 @@
 
 
 -CITE-
-    14 USC Sec. 147                                             01/08/2008
+    14 USC Sec. 147                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -4582,7 +4582,7 @@
 
 
 -CITE-
-    14 USC Sec. 147a                                            01/08/2008
+    14 USC Sec. 147a                                            01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -4651,7 +4651,7 @@
 
 
 -CITE-
-    14 USC Sec. 148                                             01/08/2008
+    14 USC Sec. 148                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -4695,7 +4695,7 @@
 
 
 -CITE-
-    14 USC Sec. 149                                             01/08/2008
+    14 USC Sec. 149                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -4782,7 +4782,7 @@
 
 
 -CITE-
-    14 USC Sec. 150                                             01/08/2008
+    14 USC Sec. 150                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -4835,7 +4835,7 @@
 
 
 -CITE-
-    14 USC Sec. 151                                             01/08/2008
+    14 USC Sec. 151                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -4869,7 +4869,7 @@
 
 
 -CITE-
-    14 USC Sec. 152                                             01/08/2008
+    14 USC Sec. 152                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -4898,7 +4898,7 @@
 
 
 -CITE-
-    14 USC CHAPTER 9 - COAST GUARD ACADEMY                      01/08/2008
+    14 USC CHAPTER 9 - COAST GUARD ACADEMY                      01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -4964,7 +4964,7 @@
 
 
 -CITE-
-    14 USC Sec. 181                                             01/08/2008
+    14 USC Sec. 181                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -5013,7 +5013,7 @@
 
 
 -CITE-
-    14 USC Sec. 181a                                            01/08/2008
+    14 USC Sec. 181a                                            01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -5036,7 +5036,7 @@
 
 
 -CITE-
-    14 USC Sec. 182                                             01/08/2008
+    14 USC Sec. 182                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -5217,7 +5217,7 @@
 
 
 -CITE-
-    14 USC Sec. 183                                             01/08/2008
+    14 USC Sec. 183                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -5267,7 +5267,7 @@
 
 
 -CITE-
-    14 USC Sec. 184                                             01/08/2008
+    14 USC Sec. 184                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -5308,7 +5308,7 @@
 
 
 -CITE-
-    14 USC Sec. 185                                             01/08/2008
+    14 USC Sec. 185                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -5347,7 +5347,7 @@
 
 
 -CITE-
-    14 USC Sec. 186                                             01/08/2008
+    14 USC Sec. 186                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -5429,7 +5429,7 @@
 
 
 -CITE-
-    14 USC Sec. 187                                             01/08/2008
+    14 USC Sec. 187                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -5517,7 +5517,7 @@
 
 
 -CITE-
-    14 USC Sec. 188                                             01/08/2008
+    14 USC Sec. 188                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -5581,7 +5581,7 @@
 
 
 -CITE-
-    14 USC Sec. 189                                             01/08/2008
+    14 USC Sec. 189                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -5633,7 +5633,7 @@
 
 
 -CITE-
-    14 USC Sec. 190                                             01/08/2008
+    14 USC Sec. 190                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -5713,7 +5713,7 @@
 
 
 -CITE-
-    14 USC Sec. 191                                             01/08/2008
+    14 USC Sec. 191                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -5757,7 +5757,7 @@
 
 
 -CITE-
-    14 USC Sec. 192                                             01/08/2008
+    14 USC Sec. 192                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -5793,7 +5793,7 @@
 
 
 -CITE-
-    14 USC Sec. 193                                             01/08/2008
+    14 USC Sec. 193                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -5889,7 +5889,7 @@
 
 
 -CITE-
-    14 USC Sec. 194                                             01/08/2008
+    14 USC Sec. 194                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -5974,7 +5974,7 @@
 
 
 -CITE-
-    14 USC Sec. 195                                             01/08/2008
+    14 USC Sec. 195                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -6043,7 +6043,7 @@
 
 
 -CITE-
-    14 USC Sec. 196                                             01/08/2008
+    14 USC Sec. 196                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -6073,7 +6073,7 @@
 
 
 -CITE-
-    14 USC Sec. 197                                             01/08/2008
+    14 USC Sec. 197                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -6104,7 +6104,7 @@
 
 
 -CITE-
-    14 USC Sec. 198                                             01/08/2008
+    14 USC Sec. 198                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -6148,7 +6148,7 @@
 
 
 -CITE-
-    14 USC CHAPTER 11 - PERSONNEL                               01/08/2008
+    14 USC CHAPTER 11 - PERSONNEL                               01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -6426,7 +6426,7 @@
 
 
 -CITE-
-    14 USC OFFICERS                                             01/08/2008
+    14 USC OFFICERS                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -6441,7 +6441,7 @@
 
 
 -CITE-
-    14 USC a. appointments                                      01/08/2008
+    14 USC a. appointments                                      01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -6458,7 +6458,7 @@
 
 
 -CITE-
-    14 USC Sec. 211                                             01/08/2008
+    14 USC Sec. 211                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -6586,7 +6586,7 @@
 
 
 -CITE-
-    14 USC Secs. 212, 213                                       01/08/2008
+    14 USC Secs. 212, 213                                       01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -6623,7 +6623,7 @@
 
 
 -CITE-
-    14 USC Sec. 214                                             01/08/2008
+    14 USC Sec. 214                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -6745,7 +6745,7 @@
 
 
 -CITE-
-    14 USC Sec. 215                                             01/08/2008
+    14 USC Sec. 215                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -6785,7 +6785,7 @@
 
 
 -CITE-
-    14 USC Sec. 216                                             01/08/2008
+    14 USC Sec. 216                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -6810,7 +6810,7 @@
 
 
 -CITE-
-    14 USC Secs. 221 to 232                                     01/08/2008
+    14 USC Secs. 221 to 232                                     01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -6869,7 +6869,7 @@
 
 
 -CITE-
-    14 USC Sec. 233                                             01/08/2008
+    14 USC Sec. 233                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -6896,7 +6896,7 @@
 
 
 -CITE-
-    14 USC Secs. 234 to 238                                     01/08/2008
+    14 USC Secs. 234 to 238                                     01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -6930,7 +6930,7 @@
 
 
 -CITE-
-    14 USC Sec. 239                                             01/08/2008
+    14 USC Sec. 239                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -6963,7 +6963,7 @@
 
 
 -CITE-
-    14 USC Secs. 240 to 244                                     01/08/2008
+    14 USC Secs. 240 to 244                                     01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7002,7 +7002,7 @@
 
 
 -CITE-
-    14 USC Secs. 245, 246                                       01/08/2008
+    14 USC Secs. 245, 246                                       01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7033,7 +7033,7 @@
 
 
 -CITE-
-    14 USC Secs. 247, 248                                       01/08/2008
+    14 USC Secs. 247, 248                                       01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7060,7 +7060,7 @@
 
 
 -CITE-
-    14 USC b. selection for promotion                           01/08/2008
+    14 USC b. selection for promotion                           01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7077,7 +7077,7 @@
 
 
 -CITE-
-    14 USC Sec. 251                                             01/08/2008
+    14 USC Sec. 251                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7109,7 +7109,7 @@
 
 
 -CITE-
-    14 USC Sec. 252                                             01/08/2008
+    14 USC Sec. 252                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7138,7 +7138,7 @@
 
 
 -CITE-
-    14 USC Sec. 253                                             01/08/2008
+    14 USC Sec. 253                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7182,7 +7182,7 @@
 
 
 -CITE-
-    14 USC Sec. 254                                             01/08/2008
+    14 USC Sec. 254                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7209,7 +7209,7 @@
 
 
 -CITE-
-    14 USC Sec. 255                                             01/08/2008
+    14 USC Sec. 255                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7239,7 +7239,7 @@
 
 
 -CITE-
-    14 USC Sec. 256                                             01/08/2008
+    14 USC Sec. 256                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7301,7 +7301,7 @@
 
 
 -CITE-
-    14 USC Sec. 256a                                            01/08/2008
+    14 USC Sec. 256a                                            01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7326,7 +7326,7 @@
 
 
 -CITE-
-    14 USC Sec. 257                                             01/08/2008
+    14 USC Sec. 257                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7396,7 +7396,7 @@
 
 
 -CITE-
-    14 USC Sec. 258                                             01/08/2008
+    14 USC Sec. 258                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7439,7 +7439,7 @@
 
 
 -CITE-
-    14 USC Sec. 259                                             01/08/2008
+    14 USC Sec. 259                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7522,7 +7522,7 @@
 
 
 -CITE-
-    14 USC Sec. 260                                             01/08/2008
+    14 USC Sec. 260                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7567,7 +7567,7 @@
 
 
 -CITE-
-    14 USC Sec. 261                                             01/08/2008
+    14 USC Sec. 261                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7605,7 +7605,7 @@
 
 
 -CITE-
-    14 USC Sec. 262                                             01/08/2008
+    14 USC Sec. 262                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7661,7 +7661,7 @@
 
 
 -CITE-
-    14 USC c. promotions                                        01/08/2008
+    14 USC c. promotions                                        01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7678,7 +7678,7 @@
 
 
 -CITE-
-    14 USC Sec. 271                                             01/08/2008
+    14 USC Sec. 271                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7851,7 +7851,7 @@
 
 
 -CITE-
-    14 USC Sec. 272                                             01/08/2008
+    14 USC Sec. 272                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7890,7 +7890,7 @@
 
 
 -CITE-
-    14 USC Sec. 273                                             01/08/2008
+    14 USC Sec. 273                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7925,7 +7925,7 @@
 
 
 -CITE-
-    14 USC Sec. 274                                             01/08/2008
+    14 USC Sec. 274                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -7951,7 +7951,7 @@
 
 
 -CITE-
-    14 USC Sec. 275                                             01/08/2008
+    14 USC Sec. 275                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -8060,7 +8060,7 @@
 
 
 -CITE-
-    14 USC Sec. 276                                             01/08/2008
+    14 USC Sec. 276                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -8093,7 +8093,7 @@
 
 
 -CITE-
-    14 USC Sec. 277                                             01/08/2008
+    14 USC Sec. 277                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -8124,7 +8124,7 @@
 
 -CITE-
     14 USC d. discharges; retirements; revocation of
-      commissions                                          01/08/2008
+      commissions                                          01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -8141,7 +8141,7 @@
 
 
 -CITE-
-    14 USC Sec. 281                                             01/08/2008
+    14 USC Sec. 281                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -8177,7 +8177,7 @@
 
 
 -CITE-
-    14 USC Sec. 282                                             01/08/2008
+    14 USC Sec. 282                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -8234,7 +8234,7 @@
 
 
 -CITE-
-    14 USC Sec. 283                                             01/08/2008
+    14 USC Sec. 283                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -8351,7 +8351,7 @@
 
 
 -CITE-
-    14 USC Sec. 284                                             01/08/2008
+    14 USC Sec. 284                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -8412,7 +8412,7 @@
 
 
 -CITE-
-    14 USC Sec. 285                                             01/08/2008
+    14 USC Sec. 285                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -8513,7 +8513,7 @@
 
 
 -CITE-
-    14 USC Sec. 286                                             01/08/2008
+    14 USC Sec. 286                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -8602,7 +8602,7 @@
 
 
 -CITE-
-    14 USC Sec. 286a                                            01/08/2008
+    14 USC Sec. 286a                                            01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -8711,7 +8711,7 @@
 
 
 -CITE-
-    14 USC Sec. 287                                             01/08/2008
+    14 USC Sec. 287                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -8752,7 +8752,7 @@
 
 
 -CITE-
-    14 USC Sec. 288                                             01/08/2008
+    14 USC Sec. 288                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -8835,7 +8835,7 @@
 
 
 -CITE-
-    14 USC Sec. 289                                             01/08/2008
+    14 USC Sec. 289                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -8961,7 +8961,7 @@
 
 
 -CITE-
-    14 USC Sec. 290                                             01/08/2008
+    14 USC Sec. 290                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9159,7 +9159,7 @@
 
 
 -CITE-
-    14 USC Sec. 291                                             01/08/2008
+    14 USC Sec. 291                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9201,7 +9201,7 @@
 
 
 -CITE-
-    14 USC Sec. 292                                             01/08/2008
+    14 USC Sec. 292                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9249,7 +9249,7 @@
 
 
 -CITE-
-    14 USC Sec. 293                                             01/08/2008
+    14 USC Sec. 293                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9288,7 +9288,7 @@
 
 
 -CITE-
-    14 USC Sec. 294                                             01/08/2008
+    14 USC Sec. 294                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9325,7 +9325,7 @@
 
 
 -CITE-
-    14 USC Sec. 295                                             01/08/2008
+    14 USC Sec. 295                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9363,7 +9363,7 @@
 
 
 -CITE-
-    14 USC Secs. 301, 302                                       01/08/2008
+    14 USC Secs. 301, 302                                       01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9389,7 +9389,7 @@
 
 
 -CITE-
-    14 USC Secs. 303 to 305                                     01/08/2008
+    14 USC Secs. 303 to 305                                     01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9423,7 +9423,7 @@
 
 
 -CITE-
-    14 USC Sec. 306                                             01/08/2008
+    14 USC Sec. 306                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9450,7 +9450,7 @@
 
 
 -CITE-
-    14 USC Secs. 307, 308                                       01/08/2008
+    14 USC Secs. 307, 308                                       01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9481,7 +9481,7 @@
 
 
 -CITE-
-    14 USC Sec. 309                                             01/08/2008
+    14 USC Sec. 309                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9515,7 +9515,7 @@
 
 
 -CITE-
-    14 USC Secs. 310 to 312                                     01/08/2008
+    14 USC Secs. 310 to 312                                     01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9548,7 +9548,7 @@
 
 
 -CITE-
-    14 USC Sec. 313                                             01/08/2008
+    14 USC Sec. 313                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9582,7 +9582,7 @@
 
 
 -CITE-
-    14 USC Sec. 313a                                            01/08/2008
+    14 USC Sec. 313a                                            01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9606,7 +9606,7 @@
 
 
 -CITE-
-    14 USC Secs. 314, 315                                       01/08/2008
+    14 USC Secs. 314, 315                                       01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9632,7 +9632,7 @@
 
 
 -CITE-
-    14 USC e. separation for cause                              01/08/2008
+    14 USC e. separation for cause                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9649,7 +9649,7 @@
 
 
 -CITE-
-    14 USC Sec. 321                                             01/08/2008
+    14 USC Sec. 321                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9681,7 +9681,7 @@
 
 
 -CITE-
-    14 USC Sec. 322                                             01/08/2008
+    14 USC Sec. 322                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9727,7 +9727,7 @@
 
 
 -CITE-
-    14 USC Sec. 323                                             01/08/2008
+    14 USC Sec. 323                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9771,7 +9771,7 @@
 
 
 -CITE-
-    14 USC Sec. 324                                             01/08/2008
+    14 USC Sec. 324                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9801,7 +9801,7 @@
 
 
 -CITE-
-    14 USC Sec. 325                                             01/08/2008
+    14 USC Sec. 325                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9842,7 +9842,7 @@
 
 
 -CITE-
-    14 USC Sec. 326                                             01/08/2008
+    14 USC Sec. 326                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9869,7 +9869,7 @@
 
 
 -CITE-
-    14 USC Sec. 327                                             01/08/2008
+    14 USC Sec. 327                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9961,7 +9961,7 @@
 
 
 -CITE-
-    14 USC f. miscellaneous provisions                          01/08/2008
+    14 USC f. miscellaneous provisions                          01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -9978,7 +9978,7 @@
 
 
 -CITE-
-    14 USC Sec. 331                                             01/08/2008
+    14 USC Sec. 331                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -10012,7 +10012,7 @@
 
 
 -CITE-
-    14 USC Sec. 332                                             01/08/2008
+    14 USC Sec. 332                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -10064,7 +10064,7 @@
 
 
 -CITE-
-    14 USC Sec. 333                                             01/08/2008
+    14 USC Sec. 333                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -10093,7 +10093,7 @@
 
 
 -CITE-
-    14 USC Sec. 334                                             01/08/2008
+    14 USC Sec. 334                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -10166,7 +10166,7 @@
 
 
 -CITE-
-    14 USC Sec. 335                                             01/08/2008
+    14 USC Sec. 335                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -10192,7 +10192,7 @@
 
 
 -CITE-
-    14 USC Sec. 336                                             01/08/2008
+    14 USC Sec. 336                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -10275,7 +10275,7 @@
 
 
 -CITE-
-    14 USC ENLISTED MEMBERS                                     01/08/2008
+    14 USC ENLISTED MEMBERS                                     01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -10297,7 +10297,7 @@
 
 
 -CITE-
-    14 USC Sec. 350                                             01/08/2008
+    14 USC Sec. 350                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -10347,7 +10347,7 @@
 
 
 -CITE-
-    14 USC Sec. 351                                             01/08/2008
+    14 USC Sec. 351                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -10460,7 +10460,7 @@
 
 
 -CITE-
-    14 USC Sec. 352                                             01/08/2008
+    14 USC Sec. 352                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -10500,7 +10500,7 @@
 
 
 -CITE-
-    14 USC Sec. 353                                             01/08/2008
+    14 USC Sec. 353                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -10545,7 +10545,7 @@
 
 
 -CITE-
-    14 USC Sec. 354                                             01/08/2008
+    14 USC Sec. 354                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -10593,7 +10593,7 @@
 
 
 -CITE-
-    14 USC Sec. 355                                             01/08/2008
+    14 USC Sec. 355                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -10633,7 +10633,7 @@
 
 
 -CITE-
-    14 USC Sec. 356                                             01/08/2008
+    14 USC Sec. 356                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -10655,7 +10655,7 @@
 
 
 -CITE-
-    14 USC Sec. 357                                             01/08/2008
+    14 USC Sec. 357                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -10828,7 +10828,7 @@
 
 
 -CITE-
-    14 USC Sec. 358                                             01/08/2008
+    14 USC Sec. 358                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -10856,7 +10856,7 @@
 
 
 -CITE-
-    14 USC Sec. 359                                             01/08/2008
+    14 USC Sec. 359                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -10907,7 +10907,7 @@
 
 
 -CITE-
-    14 USC Sec. 360                                             01/08/2008
+    14 USC Sec. 360                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -10952,7 +10952,7 @@
 
 
 -CITE-
-    14 USC Sec. 361                                             01/08/2008
+    14 USC Sec. 361                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11006,7 +11006,7 @@
 
 
 -CITE-
-    14 USC Sec. 362                                             01/08/2008
+    14 USC Sec. 362                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11062,7 +11062,7 @@
 
 
 -CITE-
-    14 USC Secs. 363, 364                                       01/08/2008
+    14 USC Secs. 363, 364                                       01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11088,7 +11088,7 @@
 
 
 -CITE-
-    14 USC Sec. 365                                             01/08/2008
+    14 USC Sec. 365                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11146,7 +11146,7 @@
 
 
 -CITE-
-    14 USC Sec. 366                                             01/08/2008
+    14 USC Sec. 366                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11204,7 +11204,7 @@
 
 
 -CITE-
-    14 USC Sec. 367                                             01/08/2008
+    14 USC Sec. 367                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11310,7 +11310,7 @@
 
 
 -CITE-
-    14 USC Sec. 368                                             01/08/2008
+    14 USC Sec. 368                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11332,7 +11332,7 @@
 
 
 -CITE-
-    14 USC Sec. 369                                             01/08/2008
+    14 USC Sec. 369                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11363,7 +11363,7 @@
 
 
 -CITE-
-    14 USC Sec. 370                                             01/08/2008
+    14 USC Sec. 370                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11399,7 +11399,7 @@
 
 
 -CITE-
-    14 USC Sec. 371                                             01/08/2008
+    14 USC Sec. 371                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11459,7 +11459,7 @@
 
 
 -CITE-
-    14 USC Sec. 372                                             01/08/2008
+    14 USC Sec. 372                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11486,7 +11486,7 @@
 
 
 -CITE-
-    14 USC Sec. 373                                             01/08/2008
+    14 USC Sec. 373                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11523,7 +11523,7 @@
 
 
 -CITE-
-    14 USC Sec. 374                                             01/08/2008
+    14 USC Sec. 374                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11559,7 +11559,7 @@
 
 
 -CITE-
-    14 USC GENERAL PROVISIONS                                   01/08/2008
+    14 USC GENERAL PROVISIONS                                   01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11575,7 +11575,7 @@
 
 
 -CITE-
-    14 USC Sec. 421                                             01/08/2008
+    14 USC Sec. 421                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11648,7 +11648,7 @@
 
 
 -CITE-
-    14 USC Sec. 422                                             01/08/2008
+    14 USC Sec. 422                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11685,7 +11685,7 @@
 
 
 -CITE-
-    14 USC Sec. 423                                             01/08/2008
+    14 USC Sec. 423                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11842,7 +11842,7 @@
 
 
 -CITE-
-    14 USC Sec. 424                                             01/08/2008
+    14 USC Sec. 424                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11900,7 +11900,7 @@
 
 
 -CITE-
-    14 USC Sec. 424a                                            01/08/2008
+    14 USC Sec. 424a                                            01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -11932,7 +11932,7 @@
 
 
 -CITE-
-    14 USC Sec. 425                                             01/08/2008
+    14 USC Sec. 425                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12005,7 +12005,7 @@
 
 
 -CITE-
-    14 USC SPECIAL PROVISIONS                                   01/08/2008
+    14 USC SPECIAL PROVISIONS                                   01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12021,7 +12021,7 @@
 
 
 -CITE-
-    14 USC Sec. 431                                             01/08/2008
+    14 USC Sec. 431                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12051,7 +12051,7 @@
 
 
 -CITE-
-    14 USC Sec. 432                                             01/08/2008
+    14 USC Sec. 432                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12208,7 +12208,7 @@
 
 
 -CITE-
-    14 USC Secs. 433, 434                                       01/08/2008
+    14 USC Secs. 433, 434                                       01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12239,7 +12239,7 @@
 
 
 -CITE-
-    14 USC Secs. 435 to 437                                     01/08/2008
+    14 USC Secs. 435 to 437                                     01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12283,7 +12283,7 @@
 
 
 -CITE-
-    14 USC Sec. 438                                             01/08/2008
+    14 USC Sec. 438                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12312,7 +12312,7 @@
 
 
 -CITE-
-    14 USC Secs. 439, 440                                       01/08/2008
+    14 USC Secs. 439, 440                                       01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12338,7 +12338,7 @@
 
 -CITE-
     14 USC CHAPTER 13 - PAY, ALLOWANCES, AWARDS, AND OTHER
-           RIGHTS AND BENEFITS                             01/08/2008
+           RIGHTS AND BENEFITS                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12495,7 +12495,7 @@
 
 
 -CITE-
-    14 USC Sec. 461                                             01/08/2008
+    14 USC Sec. 461                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12597,7 +12597,7 @@
 
 
 -CITE-
-    14 USC Sec. 462                                             01/08/2008
+    14 USC Sec. 462                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12625,7 +12625,7 @@
 
 
 -CITE-
-    14 USC Sec. 462a                                            01/08/2008
+    14 USC Sec. 462a                                            01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12648,7 +12648,7 @@
 
 
 -CITE-
-    14 USC Sec. 463                                             01/08/2008
+    14 USC Sec. 463                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12668,7 +12668,7 @@
 
 
 -CITE-
-    14 USC Secs. 464, 465                                       01/08/2008
+    14 USC Secs. 464, 465                                       01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12698,7 +12698,7 @@
 
 
 -CITE-
-    14 USC Sec. 466                                             01/08/2008
+    14 USC Sec. 466                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12721,7 +12721,7 @@
 
 
 -CITE-
-    14 USC Sec. 467                                             01/08/2008
+    14 USC Sec. 467                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12757,7 +12757,7 @@
 
 
 -CITE-
-    14 USC Sec. 468                                             01/08/2008
+    14 USC Sec. 468                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12801,7 +12801,7 @@
 
 
 -CITE-
-    14 USC Sec. 469                                             01/08/2008
+    14 USC Sec. 469                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12837,7 +12837,7 @@
 
 
 -CITE-
-    14 USC Sec. 470                                             01/08/2008
+    14 USC Sec. 470                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12874,7 +12874,7 @@
 
 
 -CITE-
-    14 USC Sec. 471                                             01/08/2008
+    14 USC Sec. 471                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12907,7 +12907,7 @@
 
 
 -CITE-
-    14 USC Sec. 471a                                            01/08/2008
+    14 USC Sec. 471a                                            01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12929,7 +12929,7 @@
 
 
 -CITE-
-    14 USC Sec. 472                                             01/08/2008
+    14 USC Sec. 472                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -12996,7 +12996,7 @@
 
 
 -CITE-
-    14 USC Sec. 473                                             01/08/2008
+    14 USC Sec. 473                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13027,7 +13027,7 @@
 
 
 -CITE-
-    14 USC Sec. 474                                             01/08/2008
+    14 USC Sec. 474                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13049,7 +13049,7 @@
 
 
 -CITE-
-    14 USC Sec. 475                                             01/08/2008
+    14 USC Sec. 475                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13230,7 +13230,7 @@
 
 
 -CITE-
-    14 USC Sec. 476                                             01/08/2008
+    14 USC Sec. 476                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13274,7 +13274,7 @@
 
 
 -CITE-
-    14 USC Sec. 477                                             01/08/2008
+    14 USC Sec. 477                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13335,7 +13335,7 @@
 
 
 -CITE-
-    14 USC Sec. 478                                             01/08/2008
+    14 USC Sec. 478                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13399,7 +13399,7 @@
 
 
 -CITE-
-    14 USC Sec. 479                                             01/08/2008
+    14 USC Sec. 479                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13431,7 +13431,7 @@
 
 
 -CITE-
-    14 USC Sec. 480                                             01/08/2008
+    14 USC Sec. 480                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13478,7 +13478,7 @@
 
 
 -CITE-
-    14 USC Sec. 481                                             01/08/2008
+    14 USC Sec. 481                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13522,7 +13522,7 @@
 
 
 -CITE-
-    14 USC Sec. 482                                             01/08/2008
+    14 USC Sec. 482                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13563,7 +13563,7 @@
 
 
 -CITE-
-    14 USC Sec. 483                                             01/08/2008
+    14 USC Sec. 483                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13619,7 +13619,7 @@
 
 
 -CITE-
-    14 USC Sec. 484                                             01/08/2008
+    14 USC Sec. 484                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13652,7 +13652,7 @@
 
 
 -CITE-
-    14 USC Sec. 485                                             01/08/2008
+    14 USC Sec. 485                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13720,7 +13720,7 @@
 
 
 -CITE-
-    14 USC Sec. 486                                             01/08/2008
+    14 USC Sec. 486                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13756,7 +13756,7 @@
 
 
 -CITE-
-    14 USC Sec. 487                                             01/08/2008
+    14 USC Sec. 487                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13805,7 +13805,7 @@
 
 
 -CITE-
-    14 USC Sec. 488                                             01/08/2008
+    14 USC Sec. 488                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13849,7 +13849,7 @@
 
 
 -CITE-
-    14 USC Sec. 489                                             01/08/2008
+    14 USC Sec. 489                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13872,7 +13872,7 @@
 
 
 -CITE-
-    14 USC Sec. 490                                             01/08/2008
+    14 USC Sec. 490                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13908,7 +13908,7 @@
 
 
 -CITE-
-    14 USC Sec. 491                                             01/08/2008
+    14 USC Sec. 491                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -13969,7 +13969,7 @@
 
 
 -CITE-
-    14 USC Sec. 492                                             01/08/2008
+    14 USC Sec. 492                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14045,7 +14045,7 @@
 
 
 -CITE-
-    14 USC Sec. 492a                                            01/08/2008
+    14 USC Sec. 492a                                            01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14070,7 +14070,7 @@
 
 
 -CITE-
-    14 USC Sec. 493                                             01/08/2008
+    14 USC Sec. 493                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14106,7 +14106,7 @@
 
 
 -CITE-
-    14 USC Sec. 494                                             01/08/2008
+    14 USC Sec. 494                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14148,7 +14148,7 @@
 
 
 -CITE-
-    14 USC Sec. 495                                             01/08/2008
+    14 USC Sec. 495                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14173,7 +14173,7 @@
 
 
 -CITE-
-    14 USC Sec. 496                                             01/08/2008
+    14 USC Sec. 496                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14231,7 +14231,7 @@
 
 
 -CITE-
-    14 USC Sec. 497                                             01/08/2008
+    14 USC Sec. 497                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14270,7 +14270,7 @@
 
 
 -CITE-
-    14 USC Sec. 498                                             01/08/2008
+    14 USC Sec. 498                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14311,7 +14311,7 @@
 
 
 -CITE-
-    14 USC Sec. 499                                             01/08/2008
+    14 USC Sec. 499                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14346,7 +14346,7 @@
 
 
 -CITE-
-    14 USC Sec. 500                                             01/08/2008
+    14 USC Sec. 500                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14500,7 +14500,7 @@
 
 
 -CITE-
-    14 USC Sec. 501                                             01/08/2008
+    14 USC Sec. 501                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14541,7 +14541,7 @@
 
 
 -CITE-
-    14 USC Sec. 502                                             01/08/2008
+    14 USC Sec. 502                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14578,7 +14578,7 @@
 
 
 -CITE-
-    14 USC Sec. 503                                             01/08/2008
+    14 USC Sec. 503                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14620,7 +14620,7 @@
 
 
 -CITE-
-    14 USC Sec. 504                                             01/08/2008
+    14 USC Sec. 504                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14657,7 +14657,7 @@
 
 
 -CITE-
-    14 USC Sec. 505                                             01/08/2008
+    14 USC Sec. 505                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14715,7 +14715,7 @@
 
 
 -CITE-
-    14 USC Sec. 506                                             01/08/2008
+    14 USC Sec. 506                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14740,7 +14740,7 @@
 
 
 -CITE-
-    14 USC Sec. 507                                             01/08/2008
+    14 USC Sec. 507                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14788,7 +14788,7 @@
 
 
 -CITE-
-    14 USC Sec. 508                                             01/08/2008
+    14 USC Sec. 508                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14834,7 +14834,7 @@
 
 
 -CITE-
-    14 USC Sec. 509                                             01/08/2008
+    14 USC Sec. 509                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14878,7 +14878,7 @@
 
 
 -CITE-
-    14 USC Sec. 510                                             01/08/2008
+    14 USC Sec. 510                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14901,7 +14901,7 @@
 
 
 -CITE-
-    14 USC Sec. 511                                             01/08/2008
+    14 USC Sec. 511                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14945,7 +14945,7 @@
 
 
 -CITE-
-    14 USC Sec. 512                                             01/08/2008
+    14 USC Sec. 512                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -14987,7 +14987,7 @@
 
 
 -CITE-
-    14 USC Sec. 513                                             01/08/2008
+    14 USC Sec. 513                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -15014,7 +15014,7 @@
 
 
 -CITE-
-    14 USC Sec. 514                                             01/08/2008
+    14 USC Sec. 514                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -15124,7 +15124,7 @@
 
 
 -CITE-
-    14 USC Sec. 515                                             01/08/2008
+    14 USC Sec. 515                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -15222,7 +15222,7 @@
 
 
 -CITE-
-    14 USC Sec. 516                                             01/08/2008
+    14 USC Sec. 516                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -15283,7 +15283,7 @@
 
 
 -CITE-
-    14 USC Sec. 517                                             01/08/2008
+    14 USC Sec. 517                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -15317,7 +15317,7 @@
 
 
 -CITE-
-    14 USC [CHAPTER 15 - REPEALED]                              01/08/2008
+    14 USC [CHAPTER 15 - REPEALED]                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -15332,7 +15332,7 @@
 
 
 -CITE-
-    14 USC Secs. 561 to 576                                     01/08/2008
+    14 USC Secs. 561 to 576                                     01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -15355,7 +15355,7 @@
 
 
 -CITE-
-    14 USC CHAPTER 17 - ADMINISTRATION                          01/08/2008
+    14 USC CHAPTER 17 - ADMINISTRATION                          01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -15524,7 +15524,7 @@
 
 
 -CITE-
-    14 USC Sec. 631                                             01/08/2008
+    14 USC Sec. 631                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -15591,7 +15591,7 @@
 
 
 -CITE-
-    14 USC Sec. 632                                             01/08/2008
+    14 USC Sec. 632                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -15663,7 +15663,7 @@
 
 
 -CITE-
-    14 USC Sec. 633                                             01/08/2008
+    14 USC Sec. 633                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -15700,7 +15700,7 @@
 
 
 -CITE-
-    14 USC Sec. 634                                             01/08/2008
+    14 USC Sec. 634                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -15762,7 +15762,7 @@
 
 
 -CITE-
-    14 USC Sec. 635                                             01/08/2008
+    14 USC Sec. 635                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -15800,7 +15800,7 @@
 
 
 -CITE-
-    14 USC Sec. 636                                             01/08/2008
+    14 USC Sec. 636                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -15854,7 +15854,7 @@
 
 
 -CITE-
-    14 USC Sec. 637                                             01/08/2008
+    14 USC Sec. 637                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -15972,7 +15972,7 @@
 
 
 -CITE-
-    14 USC Sec. 638                                             01/08/2008
+    14 USC Sec. 638                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -16019,7 +16019,7 @@
 
 
 -CITE-
-    14 USC Sec. 639                                             01/08/2008
+    14 USC Sec. 639                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -16085,7 +16085,7 @@
 
 
 -CITE-
-    14 USC Sec. 640                                             01/08/2008
+    14 USC Sec. 640                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -16122,7 +16122,7 @@
 
 
 -CITE-
-    14 USC Sec. 641                                             01/08/2008
+    14 USC Sec. 641                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -16250,7 +16250,7 @@
 
 
 -CITE-
-    14 USC Sec. 642                                             01/08/2008
+    14 USC Sec. 642                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -16292,7 +16292,7 @@
 
 
 -CITE-
-    14 USC Sec. 643                                             01/08/2008
+    14 USC Sec. 643                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -16327,7 +16327,7 @@
 
 
 -CITE-
-    14 USC Sec. 644                                             01/08/2008
+    14 USC Sec. 644                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -16366,7 +16366,7 @@
 
 
 -CITE-
-    14 USC Sec. 645                                             01/08/2008
+    14 USC Sec. 645                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -16525,7 +16525,7 @@
 
 
 -CITE-
-    14 USC Sec. 646                                             01/08/2008
+    14 USC Sec. 646                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -16605,7 +16605,7 @@
 
 
 -CITE-
-    14 USC Sec. 647                                             01/08/2008
+    14 USC Sec. 647                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -16684,7 +16684,7 @@
 
 
 -CITE-
-    14 USC Sec. 648                                             01/08/2008
+    14 USC Sec. 648                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -16733,7 +16733,7 @@
 
 
 -CITE-
-    14 USC Sec. 649                                             01/08/2008
+    14 USC Sec. 649                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -16765,7 +16765,7 @@
 
 
 -CITE-
-    14 USC Sec. 650                                             01/08/2008
+    14 USC Sec. 650                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -16838,7 +16838,7 @@
 
 
 -CITE-
-    14 USC Sec. 651                                             01/08/2008
+    14 USC Sec. 651                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -16879,7 +16879,7 @@
 
 
 -CITE-
-    14 USC Sec. 652                                             01/08/2008
+    14 USC Sec. 652                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -16927,7 +16927,7 @@
 
 
 -CITE-
-    14 USC Sec. 653                                             01/08/2008
+    14 USC Sec. 653                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -16962,7 +16962,7 @@
 
 
 -CITE-
-    14 USC Sec. 654                                             01/08/2008
+    14 USC Sec. 654                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -17010,7 +17010,7 @@
 
 
 -CITE-
-    14 USC Sec. 655                                             01/08/2008
+    14 USC Sec. 655                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -17040,7 +17040,7 @@
 
 
 -CITE-
-    14 USC Sec. 656                                             01/08/2008
+    14 USC Sec. 656                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -17120,7 +17120,7 @@
 
 
 -CITE-
-    14 USC Sec. 657                                             01/08/2008
+    14 USC Sec. 657                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -17178,7 +17178,7 @@
 
 
 -CITE-
-    14 USC Sec. 658                                             01/08/2008
+    14 USC Sec. 658                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -17213,7 +17213,7 @@
 
 
 -CITE-
-    14 USC Sec. 659                                             01/08/2008
+    14 USC Sec. 659                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -17263,7 +17263,7 @@
 
 
 -CITE-
-    14 USC Sec. 660                                             01/08/2008
+    14 USC Sec. 660                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -17337,7 +17337,7 @@
 
 
 -CITE-
-    14 USC Sec. 661                                             01/08/2008
+    14 USC Sec. 661                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -17411,7 +17411,7 @@
 
 
 -CITE-
-    14 USC Sec. 662                                             01/08/2008
+    14 USC Sec. 662                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -17470,7 +17470,7 @@
 
 
 -CITE-
-    14 USC Sec. 663                                             01/08/2008
+    14 USC Sec. 663                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -17629,32 +17629,32 @@
       part of that program."
 
                    REVISED DEEPWATER IMPLEMENTATION PLAN               
-      Pub. L. 110-161, div. E, title II, Dec. 26, 2007, 121 Stat. 2056,
-    provided in part: "That the Secretary [of Homeland Security] shall
-    submit to the Committees on Appropriations of the Senate and the
-    House of Representatives a comprehensive review of the Revised
-    Deepwater Implementation Plan every five years, beginning in fiscal
+      Pub. L. 110-329, div. D, title II, Sept. 30, 2008, 122 Stat.
+    3665, provided in part: "That the Secretary [of Homeland Security]
+    shall submit to the Committees on Appropriations of the Senate and
+    the House of Representatives a comprehensive review of the Revised
+    Deepwater Implementation Plan every 5 years, beginning in fiscal
     year 2011, that includes a complete projection of the acquisition
     costs and schedule for the duration of the plan through fiscal year
     2027".
       Similar provisions were contained in the following prior
     appropriation acts:
+      Pub. L. 110-161, div. E, title II, Dec. 26, 2007, 121 Stat. 2056.
       Pub. L. 109-295, title II, Oct. 4, 2006, 120 Stat. 1365.
       Pub. L. 109-90, title II, Oct. 18, 2005, 119 Stat. 2072.
 
                    FUTURE-YEARS CAPITAL INVESTMENT PLAN               
-      Pub. L. 110-161, div. E, title II, Dec. 26, 2007, 121 Stat. 2056,
-    provided in part: "That the Secretary [of Homeland Security] shall
-    annually submit to the Committees on Appropriations of the Senate
-    and the House of Representatives, at the time that the President's
-    budget is submitted under section 1105(a) of title 31, United
-    States Code, a future-years capital investment plan for the Coast
-    Guard that identifies for each capital budget line item - 
+      Pub. L. 110-329, div. D, title II, Sept. 30, 2008, 122 Stat.
+    3665, provided in part: "That the Secretary [of Homeland Security]
+    shall annually submit to the Committees on Appropriations of the
+    Senate and the House of Representatives, at the time that the
+    President's budget is submitted under section 1105(a) of title 31,
+    United States Code, a future-years capital investment plan for the
+    Coast Guard that identifies for each capital budget line item - 
         "(1) the proposed appropriation included in that budget;
         "(2) the total estimated cost of completion;
         "(3) projected funding levels for each fiscal year for the next
-      five fiscal years or until project completion, whichever is
-      earlier;
+      5 fiscal years or until project completion, whichever is earlier;
         "(4) an estimated completion date at the projected funding
       levels; and
         "(5) changes, if any, in the total estimated cost of completion
@@ -17672,6 +17672,7 @@
     shall be identified and justified".
       Similar provisions were contained in the following prior
     appropriation acts:
+      Pub. L. 110-161, div. E, title II, Dec. 26, 2007, 121 Stat. 2056.
       Pub. L. 109-295, title II, Oct. 4, 2006, 120 Stat. 1365.
       Pub. L. 109-90, title II, Oct. 18, 2005, 119 Stat. 2072.
       Pub. L. 108-334, title II, Oct. 18, 2004, 118 Stat. 1306.
@@ -17702,7 +17703,7 @@
 
 
 -CITE-
-    14 USC Sec. 664                                             01/08/2008
+    14 USC Sec. 664                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -17783,7 +17784,7 @@
 
 
 -CITE-
-    14 USC Sec. 665                                             01/08/2008
+    14 USC Sec. 665                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -17816,7 +17817,7 @@
 
 
 -CITE-
-    14 USC Sec. 666                                             01/08/2008
+    14 USC Sec. 666                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -17864,7 +17865,7 @@
 
 
 -CITE-
-    14 USC Sec. 667                                             01/08/2008
+    14 USC Sec. 667                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -17895,7 +17896,7 @@
 
 
 -CITE-
-    14 USC Sec. 668                                             01/08/2008
+    14 USC Sec. 668                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -17937,7 +17938,7 @@
 
 
 -CITE-
-    14 USC Sec. 669                                             01/08/2008
+    14 USC Sec. 669                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -17976,7 +17977,7 @@
 
 
 -CITE-
-    14 USC Sec. 670                                             01/08/2008
+    14 USC Sec. 670                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -18030,7 +18031,7 @@
 
 
 -CITE-
-    14 USC Sec. 671                                             01/08/2008
+    14 USC Sec. 671                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -18057,7 +18058,7 @@
 
 
 -CITE-
-    14 USC Sec. 672                                             01/08/2008
+    14 USC Sec. 672                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -18130,7 +18131,7 @@
 
 
 -CITE-
-    14 USC Sec. 672a                                            01/08/2008
+    14 USC Sec. 672a                                            01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -18180,7 +18181,7 @@
 
 
 -CITE-
-    14 USC Sec. 673                                             01/08/2008
+    14 USC Sec. 673                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -18257,7 +18258,7 @@
 
 
 -CITE-
-    14 USC Sec. 674                                             01/08/2008
+    14 USC Sec. 674                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -18315,7 +18316,7 @@
 
 
 -CITE-
-    14 USC Sec. 675                                             01/08/2008
+    14 USC Sec. 675                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -18380,7 +18381,7 @@
 
 
 -CITE-
-    14 USC Sec. 676                                             01/08/2008
+    14 USC Sec. 676                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -18453,7 +18454,7 @@
 
 
 -CITE-
-    14 USC Sec. 677                                             01/08/2008
+    14 USC Sec. 677                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -18489,7 +18490,7 @@
 
 
 -CITE-
-    14 USC CHAPTER 18 - COAST GUARD HOUSING AUTHORITIES         01/08/2008
+    14 USC CHAPTER 18 - COAST GUARD HOUSING AUTHORITIES         01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -18530,7 +18531,7 @@
 
 
 -CITE-
-    14 USC Sec. 680                                             01/08/2008
+    14 USC Sec. 680                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -18574,7 +18575,7 @@
 
 
 -CITE-
-    14 USC Sec. 681                                             01/08/2008
+    14 USC Sec. 681                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -18624,7 +18625,7 @@
 
 
 -CITE-
-    14 USC Sec. 682                                             01/08/2008
+    14 USC Sec. 682                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -18706,7 +18707,7 @@
 
 
 -CITE-
-    14 USC Sec. 683                                             01/08/2008
+    14 USC Sec. 683                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -18735,7 +18736,7 @@
 
 
 -CITE-
-    14 USC Sec. 684                                             01/08/2008
+    14 USC Sec. 684                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -18793,7 +18794,7 @@
 
 
 -CITE-
-    14 USC Sec. 685                                             01/08/2008
+    14 USC Sec. 685                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -18872,7 +18873,7 @@
 
 
 -CITE-
-    14 USC Sec. 686                                             01/08/2008
+    14 USC Sec. 686                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -18923,7 +18924,7 @@
 
 
 -CITE-
-    14 USC Sec. 687                                             01/08/2008
+    14 USC Sec. 687                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19038,7 +19039,7 @@
 
 
 -CITE-
-    14 USC Sec. 687a                                            01/08/2008
+    14 USC Sec. 687a                                            01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19067,7 +19068,7 @@
 
 
 -CITE-
-    14 USC Sec. 688                                             01/08/2008
+    14 USC Sec. 688                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19129,7 +19130,7 @@
 
 
 -CITE-
-    14 USC Sec. 689                                             01/08/2008
+    14 USC Sec. 689                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19158,7 +19159,7 @@
 
 -CITE-
     14 USC CHAPTER 19 - ENVIRONMENTAL COMPLIANCE AND
-           RESTORATION PROGRAM                             01/08/2008
+           RESTORATION PROGRAM                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19180,7 +19181,7 @@
 
 
 -CITE-
-    14 USC Sec. 690                                             01/08/2008
+    14 USC Sec. 690                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19213,7 +19214,7 @@
 
 
 -CITE-
-    14 USC Sec. 691                                             01/08/2008
+    14 USC Sec. 691                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19292,7 +19293,7 @@
 
 
 -CITE-
-    14 USC Sec. 692                                             01/08/2008
+    14 USC Sec. 692                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19331,7 +19332,7 @@
 
 
 -CITE-
-    14 USC Sec. 693                                             01/08/2008
+    14 USC Sec. 693                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19373,7 +19374,7 @@
 
 
 -CITE-
-    14 USC PART II - COAST GUARD RESERVE AND AUXILIARY          01/08/2008
+    14 USC PART II - COAST GUARD RESERVE AND AUXILIARY          01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19399,7 +19400,7 @@
 
 
 -CITE-
-    14 USC CHAPTER 21 - COAST GUARD RESERVE                     01/08/2008
+    14 USC CHAPTER 21 - COAST GUARD RESERVE                     01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19523,7 +19524,7 @@
 
 
 -CITE-
-    14 USC SUBCHAPTER A                                         01/08/2008
+    14 USC SUBCHAPTER A                                         01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19538,7 +19539,7 @@
 
 
 -CITE-
-    14 USC general                                              01/08/2008
+    14 USC general                                              01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19555,7 +19556,7 @@
 
 
 -CITE-
-    14 USC Sec. 701                                             01/08/2008
+    14 USC Sec. 701                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19596,7 +19597,7 @@
 
 
 -CITE-
-    14 USC Sec. 702                                             01/08/2008
+    14 USC Sec. 702                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19664,7 +19665,7 @@
 
 
 -CITE-
-    14 USC Sec. 703                                             01/08/2008
+    14 USC Sec. 703                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19699,7 +19700,7 @@
 
 
 -CITE-
-    14 USC Sec. 704                                             01/08/2008
+    14 USC Sec. 704                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19734,7 +19735,7 @@
 
 
 -CITE-
-    14 USC Sec. 705                                             01/08/2008
+    14 USC Sec. 705                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19818,7 +19819,7 @@
 
 
 -CITE-
-    14 USC Sec. 706                                             01/08/2008
+    14 USC Sec. 706                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -19865,7 +19866,7 @@
 
 
 -CITE-
-    14 USC Sec. 707                                             01/08/2008
+    14 USC Sec. 707                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20004,7 +20005,7 @@
 
 
 -CITE-
-    14 USC Sec. 708                                             01/08/2008
+    14 USC Sec. 708                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20042,7 +20043,7 @@
 
 
 -CITE-
-    14 USC Sec. 709                                             01/08/2008
+    14 USC Sec. 709                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20098,7 +20099,7 @@
 
 
 -CITE-
-    14 USC Sec. 709a                                            01/08/2008
+    14 USC Sec. 709a                                            01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20206,7 +20207,7 @@
 
 
 -CITE-
-    14 USC Sec. 710                                             01/08/2008
+    14 USC Sec. 710                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20244,7 +20245,7 @@
 
 
 -CITE-
-    14 USC Sec. 711                                             01/08/2008
+    14 USC Sec. 711                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20287,7 +20288,7 @@
 
 
 -CITE-
-    14 USC Sec. 712                                             01/08/2008
+    14 USC Sec. 712                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20396,7 +20397,7 @@
 
 
 -CITE-
-    14 USC Sec. 713                                             01/08/2008
+    14 USC Sec. 713                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20441,7 +20442,7 @@
 
 
 -CITE-
-    14 USC SUBCHAPTER B                                         01/08/2008
+    14 USC SUBCHAPTER B                                         01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20456,7 +20457,7 @@
 
 
 -CITE-
-    14 USC commissioned officers                                01/08/2008
+    14 USC commissioned officers                                01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20473,7 +20474,7 @@
 
 
 -CITE-
-    14 USC Sec. 720                                             01/08/2008
+    14 USC Sec. 720                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20508,7 +20509,7 @@
 
 
 -CITE-
-    14 USC Sec. 721                                             01/08/2008
+    14 USC Sec. 721                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20539,7 +20540,7 @@
 
 
 -CITE-
-    14 USC Sec. 722                                             01/08/2008
+    14 USC Sec. 722                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20585,7 +20586,7 @@
 
 
 -CITE-
-    14 USC Sec. 723                                             01/08/2008
+    14 USC Sec. 723                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20620,7 +20621,7 @@
 
 
 -CITE-
-    14 USC Sec. 724                                             01/08/2008
+    14 USC Sec. 724                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20721,7 +20722,7 @@
 
 
 -CITE-
-    14 USC Sec. 725                                             01/08/2008
+    14 USC Sec. 725                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20777,7 +20778,7 @@
 
 
 -CITE-
-    14 USC Sec. 726                                             01/08/2008
+    14 USC Sec. 726                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20862,7 +20863,7 @@
 
 
 -CITE-
-    14 USC Sec. 727                                             01/08/2008
+    14 USC Sec. 727                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20912,7 +20913,7 @@
 
 
 -CITE-
-    14 USC Sec. 728                                             01/08/2008
+    14 USC Sec. 728                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -20964,7 +20965,7 @@
 
 
 -CITE-
-    14 USC Sec. 729                                             01/08/2008
+    14 USC Sec. 729                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -21139,7 +21140,7 @@
 
 
 -CITE-
-    14 USC Sec. 730                                             01/08/2008
+    14 USC Sec. 730                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -21197,7 +21198,7 @@
 
 
 -CITE-
-    14 USC Sec. 731                                             01/08/2008
+    14 USC Sec. 731                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -21293,7 +21294,7 @@
 
 
 -CITE-
-    14 USC Sec. 732                                             01/08/2008
+    14 USC Sec. 732                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -21328,7 +21329,7 @@
 
 
 -CITE-
-    14 USC Sec. 733                                             01/08/2008
+    14 USC Sec. 733                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -21366,7 +21367,7 @@
 
 
 -CITE-
-    14 USC Sec. 734                                             01/08/2008
+    14 USC Sec. 734                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -21406,7 +21407,7 @@
 
 
 -CITE-
-    14 USC Sec. 735                                             01/08/2008
+    14 USC Sec. 735                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -21442,7 +21443,7 @@
 
 
 -CITE-
-    14 USC Sec. 736                                             01/08/2008
+    14 USC Sec. 736                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -21526,7 +21527,7 @@
 
 
 -CITE-
-    14 USC Sec. 737                                             01/08/2008
+    14 USC Sec. 737                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -21563,7 +21564,7 @@
 
 
 -CITE-
-    14 USC Sec. 738                                             01/08/2008
+    14 USC Sec. 738                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -21618,7 +21619,7 @@
 
 
 -CITE-
-    14 USC Sec. 739                                             01/08/2008
+    14 USC Sec. 739                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -21662,7 +21663,7 @@
 
 
 -CITE-
-    14 USC Sec. 740                                             01/08/2008
+    14 USC Sec. 740                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -21748,7 +21749,7 @@
 
 
 -CITE-
-    14 USC Sec. 741                                             01/08/2008
+    14 USC Sec. 741                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -21852,7 +21853,7 @@
 
 
 -CITE-
-    14 USC Sec. 742                                             01/08/2008
+    14 USC Sec. 742                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -21921,7 +21922,7 @@
 
 
 -CITE-
-    14 USC Sec. 743                                             01/08/2008
+    14 USC Sec. 743                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -21981,7 +21982,7 @@
 
 
 -CITE-
-    14 USC Sec. 744                                             01/08/2008
+    14 USC Sec. 744                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22016,7 +22017,7 @@
 
 
 -CITE-
-    14 USC Sec. 745                                             01/08/2008
+    14 USC Sec. 745                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22048,7 +22049,7 @@
 
 
 -CITE-
-    14 USC Sec. 746                                             01/08/2008
+    14 USC Sec. 746                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22087,7 +22088,7 @@
 
 
 -CITE-
-    14 USC Sec. 751                                             01/08/2008
+    14 USC Sec. 751                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22115,7 +22116,7 @@
 
 
 -CITE-
-    14 USC Sec. 751a                                            01/08/2008
+    14 USC Sec. 751a                                            01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22151,7 +22152,7 @@
 
 
 -CITE-
-    14 USC Sec. 752                                             01/08/2008
+    14 USC Sec. 752                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22178,7 +22179,7 @@
 
 
 -CITE-
-    14 USC Sec. 752a                                            01/08/2008
+    14 USC Sec. 752a                                            01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22203,7 +22204,7 @@
 
 
 -CITE-
-    14 USC Sec. 753                                             01/08/2008
+    14 USC Sec. 753                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22230,7 +22231,7 @@
 
 
 -CITE-
-    14 USC Secs. 753a to 757                                    01/08/2008
+    14 USC Secs. 753a to 757                                    01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22270,7 +22271,7 @@
 
 
 -CITE-
-    14 USC Sec. 758                                             01/08/2008
+    14 USC Sec. 758                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22294,7 +22295,7 @@
 
 
 -CITE-
-    14 USC Sec. 758a                                            01/08/2008
+    14 USC Sec. 758a                                            01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22319,7 +22320,7 @@
 
 
 -CITE-
-    14 USC Sec. 759                                             01/08/2008
+    14 USC Sec. 759                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22346,7 +22347,7 @@
 
 
 -CITE-
-    14 USC Secs. 759a to 761                                    01/08/2008
+    14 USC Secs. 759a to 761                                    01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22390,7 +22391,7 @@
 
 
 -CITE-
-    14 USC Sec. 762                                             01/08/2008
+    14 USC Sec. 762                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22414,7 +22415,7 @@
 
 
 -CITE-
-    14 USC Secs. 763 to 765                                     01/08/2008
+    14 USC Secs. 763 to 765                                     01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22445,7 +22446,7 @@
 
 
 -CITE-
-    14 USC Secs. 770 to 798                                     01/08/2008
+    14 USC Secs. 770 to 798                                     01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22591,7 +22592,7 @@
 
 
 -CITE-
-    14 USC CHAPTER 23 - COAST GUARD AUXILIARY                   01/08/2008
+    14 USC CHAPTER 23 - COAST GUARD AUXILIARY                   01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22629,7 +22630,7 @@
 
 
 -CITE-
-    14 USC Sec. 821                                             01/08/2008
+    14 USC Sec. 821                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22768,7 +22769,7 @@
 
 
 -CITE-
-    14 USC Sec. 822                                             01/08/2008
+    14 USC Sec. 822                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22816,7 +22817,7 @@
 
 
 -CITE-
-    14 USC Sec. 823                                             01/08/2008
+    14 USC Sec. 823                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22853,7 +22854,7 @@
 
 
 -CITE-
-    14 USC Sec. 823a                                            01/08/2008
+    14 USC Sec. 823a                                            01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22947,7 +22948,7 @@
 
 
 -CITE-
-    14 USC Sec. 824                                             01/08/2008
+    14 USC Sec. 824                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -22976,7 +22977,7 @@
 
 
 -CITE-
-    14 USC Sec. 825                                             01/08/2008
+    14 USC Sec. 825                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -23008,7 +23009,7 @@
 
 
 -CITE-
-    14 USC Sec. 826                                             01/08/2008
+    14 USC Sec. 826                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -23058,7 +23059,7 @@
 
 
 -CITE-
-    14 USC Sec. 827                                             01/08/2008
+    14 USC Sec. 827                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -23099,7 +23100,7 @@
 
 
 -CITE-
-    14 USC Sec. 828                                             01/08/2008
+    14 USC Sec. 828                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -23146,7 +23147,7 @@
 
 
 -CITE-
-    14 USC Sec. 829                                             01/08/2008
+    14 USC Sec. 829                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -23187,7 +23188,7 @@
 
 
 -CITE-
-    14 USC Sec. 830                                             01/08/2008
+    14 USC Sec. 830                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -23272,7 +23273,7 @@
 
 
 -CITE-
-    14 USC Sec. 831                                             01/08/2008
+    14 USC Sec. 831                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -23330,7 +23331,7 @@
 
 
 -CITE-
-    14 USC Sec. 832                                             01/08/2008
+    14 USC Sec. 832                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -23386,7 +23387,7 @@
 
 -CITE-
     14 USC CHAPTER 25 - GENERAL PROVISIONS FOR COAST GUARD
-           RESERVE AND AUXILIARY                           01/08/2008
+           RESERVE AND AUXILIARY                           01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -23411,7 +23412,7 @@
 
 
 -CITE-
-    14 USC Sec. 891                                             01/08/2008
+    14 USC Sec. 891                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -23454,7 +23455,7 @@
 
 
 -CITE-
-    14 USC Sec. 892                                             01/08/2008
+    14 USC Sec. 892                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -23489,7 +23490,7 @@
 
 
 -CITE-
-    14 USC Sec. 893                                             01/08/2008
+    14 USC Sec. 893                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD
@@ -23533,7 +23534,7 @@
 
 
 -CITE-
-    14 USC Sec. 894                                             01/08/2008
+    14 USC Sec. 894                                             01/05/2009
 
 -EXPCITE-
     TITLE 14 - COAST GUARD

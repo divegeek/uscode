@@ -1,5 +1,5 @@
 -CITE-
-    13 USC TITLE 13 - CENSUS                                    01/08/2008
+    13 USC TITLE 13 - CENSUS                                    01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -151,7 +151,7 @@
 
 
 -CITE-
-    13 USC CHAPTER 1 - ADMINISTRATION                           01/08/2008
+    13 USC CHAPTER 1 - ADMINISTRATION                           01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -235,7 +235,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/08/2008
+    13 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -250,7 +250,7 @@
 
 
 -CITE-
-    13 USC Sec. 1                                               01/08/2008
+    13 USC Sec. 1                                               01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -327,7 +327,7 @@
 
 
 -CITE-
-    13 USC Sec. 2                                               01/08/2008
+    13 USC Sec. 2                                               01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -365,7 +365,7 @@
 
 
 -CITE-
-    13 USC Sec. 3                                               01/08/2008
+    13 USC Sec. 3                                               01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -474,7 +474,7 @@
 
 
 -CITE-
-    13 USC Sec. 4                                               01/08/2008
+    13 USC Sec. 4                                               01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -546,7 +546,7 @@
 
 
 -CITE-
-    13 USC Sec. 5                                               01/08/2008
+    13 USC Sec. 5                                               01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -638,7 +638,7 @@
 
 
 -CITE-
-    13 USC Sec. 6                                               01/08/2008
+    13 USC Sec. 6                                               01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -734,7 +734,7 @@
 
 
 -CITE-
-    13 USC Sec. 7                                               01/08/2008
+    13 USC Sec. 7                                               01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -784,7 +784,7 @@
 
 
 -CITE-
-    13 USC Sec. 8                                               01/08/2008
+    13 USC Sec. 8                                               01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -905,7 +905,7 @@
 
 
 -CITE-
-    13 USC Sec. 9                                               01/08/2008
+    13 USC Sec. 9                                               01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1050,7 +1050,7 @@
 
 
 -CITE-
-    13 USC Sec. 10                                              01/08/2008
+    13 USC Sec. 10                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1070,7 +1070,7 @@
 
 
 -CITE-
-    13 USC Sec. 11                                              01/08/2008
+    13 USC Sec. 11                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1132,7 +1132,7 @@
 
 
 -CITE-
-    13 USC Sec. 12                                              01/08/2008
+    13 USC Sec. 12                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1157,7 +1157,7 @@
 
 
 -CITE-
-    13 USC Sec. 13                                              01/08/2008
+    13 USC Sec. 13                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1180,7 +1180,7 @@
 
 
 -CITE-
-    13 USC Sec. 14                                              01/08/2008
+    13 USC Sec. 14                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1207,7 +1207,7 @@
 
 
 -CITE-
-    13 USC Sec. 15                                              01/08/2008
+    13 USC Sec. 15                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1258,7 +1258,7 @@
 
 
 -CITE-
-    13 USC Sec. 16                                              01/08/2008
+    13 USC Sec. 16                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1349,7 +1349,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER II - OFFICERS AND EMPLOYEES               01/08/2008
+    13 USC SUBCHAPTER II - OFFICERS AND EMPLOYEES               01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1364,7 +1364,7 @@
 
 
 -CITE-
-    13 USC Sec. 21                                              01/08/2008
+    13 USC Sec. 21                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1410,7 +1410,7 @@
 
 
 -CITE-
-    13 USC Sec. 22                                              01/08/2008
+    13 USC Sec. 22                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1472,7 +1472,7 @@
 
 
 -CITE-
-    13 USC Sec. 23                                              01/08/2008
+    13 USC Sec. 23                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1726,7 +1726,7 @@
 
 
 -CITE-
-    13 USC Sec. 24                                              01/08/2008
+    13 USC Sec. 24                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1896,7 +1896,7 @@
 
 
 -CITE-
-    13 USC Sec. 25                                              01/08/2008
+    13 USC Sec. 25                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1950,7 +1950,7 @@
 
 
 -CITE-
-    13 USC Sec. 26                                              01/08/2008
+    13 USC Sec. 26                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1992,7 +1992,7 @@
 
 -CITE-
     13 USC CHAPTER 3 - COLLECTION AND PUBLICATION OF
-           STATISTICS                                      01/08/2008
+           STATISTICS                                      01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2043,7 +2043,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER I - COTTON                                01/08/2008
+    13 USC SUBCHAPTER I - COTTON                                01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2058,7 +2058,7 @@
 
 
 -CITE-
-    13 USC Sec. 41                                              01/08/2008
+    13 USC Sec. 41                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2100,7 +2100,7 @@
 
 
 -CITE-
-    13 USC Sec. 42                                              01/08/2008
+    13 USC Sec. 42                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2170,7 +2170,7 @@
 
 
 -CITE-
-    13 USC Sec. 43                                              01/08/2008
+    13 USC Sec. 43                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2211,7 +2211,7 @@
 
 
 -CITE-
-    13 USC Sec. 44                                              01/08/2008
+    13 USC Sec. 44                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2258,7 +2258,7 @@
 
 
 -CITE-
-    13 USC Sec. 45                                              01/08/2008
+    13 USC Sec. 45                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2303,7 +2303,7 @@
 
 -CITE-
     13 USC SUBCHAPTER II - OILSEEDS, NUTS, AND KERNELS; FATS,
-           OILS, AND GREASES                               01/08/2008
+           OILS, AND GREASES                               01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2319,7 +2319,7 @@
 
 
 -CITE-
-    13 USC Sec. 61                                              01/08/2008
+    13 USC Sec. 61                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2387,7 +2387,7 @@
 
 
 -CITE-
-    13 USC Sec. 62                                              01/08/2008
+    13 USC Sec. 62                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2424,7 +2424,7 @@
 
 
 -CITE-
-    13 USC Sec. 63                                              01/08/2008
+    13 USC Sec. 63                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2471,7 +2471,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER III - APPAREL AND TEXTILES                01/08/2008
+    13 USC SUBCHAPTER III - APPAREL AND TEXTILES                01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2486,7 +2486,7 @@
 
 
 -CITE-
-    13 USC Sec. 81                                              01/08/2008
+    13 USC Sec. 81                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2507,7 +2507,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER IV - QUARTERLY FINANCIAL STATISTICS       01/08/2008
+    13 USC SUBCHAPTER IV - QUARTERLY FINANCIAL STATISTICS       01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2528,7 +2528,7 @@
 
 
 -CITE-
-    13 USC Sec. 91                                              01/08/2008
+    13 USC Sec. 91                                              01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2696,7 +2696,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER V - MISCELLANEOUS                         01/08/2008
+    13 USC SUBCHAPTER V - MISCELLANEOUS                         01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2719,7 +2719,7 @@
 
 
 -CITE-
-    13 USC Sec. 101                                             01/08/2008
+    13 USC Sec. 101                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2815,7 +2815,7 @@
 
 
 -CITE-
-    13 USC Sec. 102                                             01/08/2008
+    13 USC Sec. 102                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2853,7 +2853,7 @@
 
 
 -CITE-
-    13 USC Sec. 103                                             01/08/2008
+    13 USC Sec. 103                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2924,7 +2924,7 @@
 
 
 -CITE-
-    13 USC CHAPTER 5 - CENSUSES                                 01/08/2008
+    13 USC CHAPTER 5 - CENSUSES                                 01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3003,7 +3003,7 @@
 
 -CITE-
     13 USC SUBCHAPTER I - MANUFACTURES, MINERAL INDUSTRIES,
-           AND OTHER BUSINESSES                            01/08/2008
+           AND OTHER BUSINESSES                            01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3020,7 +3020,7 @@
 
 
 -CITE-
-    13 USC Sec. 131                                             01/08/2008
+    13 USC Sec. 131                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3118,7 +3118,7 @@
 
 
 -CITE-
-    13 USC Sec. 132                                             01/08/2008
+    13 USC Sec. 132                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3162,7 +3162,7 @@
 
 -CITE-
     13 USC SUBCHAPTER II - POPULATION, HOUSING, AND
-           UNEMPLOYMENT                                    01/08/2008
+           UNEMPLOYMENT                                    01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3186,7 +3186,7 @@
 
 
 -CITE-
-    13 USC Sec. 141                                             01/08/2008
+    13 USC Sec. 141                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3809,7 +3809,7 @@
 
 
 -CITE-
-    13 USC Sec. 142                                             01/08/2008
+    13 USC Sec. 142                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3844,7 +3844,7 @@
 
 
 -CITE-
-    13 USC Secs. 143 to 146                                     01/08/2008
+    13 USC Secs. 143 to 146                                     01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3873,7 +3873,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER III - GOVERNMENTS                         01/08/2008
+    13 USC SUBCHAPTER III - GOVERNMENTS                         01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3888,7 +3888,7 @@
 
 
 -CITE-
-    13 USC Sec. 161                                             01/08/2008
+    13 USC Sec. 161                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3933,7 +3933,7 @@
 
 
 -CITE-
-    13 USC Sec. 162                                             01/08/2008
+    13 USC Sec. 162                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3954,7 +3954,7 @@
 
 
 -CITE-
-    13 USC Sec. 163                                             01/08/2008
+    13 USC Sec. 163                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3988,7 +3988,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER IV - INTERIM CURRENT DATA                 01/08/2008
+    13 USC SUBCHAPTER IV - INTERIM CURRENT DATA                 01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4003,7 +4003,7 @@
 
 
 -CITE-
-    13 USC Sec. 181                                             01/08/2008
+    13 USC Sec. 181                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4059,7 +4059,7 @@
 
 
 -CITE-
-    13 USC Sec. 182                                             01/08/2008
+    13 USC Sec. 182                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4088,7 +4088,7 @@
 
 
 -CITE-
-    13 USC Sec. 183                                             01/08/2008
+    13 USC Sec. 183                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4128,7 +4128,7 @@
 
 
 -CITE-
-    13 USC Sec. 184                                             01/08/2008
+    13 USC Sec. 184                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4160,7 +4160,7 @@
 
 -CITE-
     13 USC SUBCHAPTER V - GEOGRAPHIC SCOPE, PRELIMINARY AND
-           SUPPLEMENTAL STATISTICS, AND USE OF SAMPLING    01/08/2008
+           SUPPLEMENTAL STATISTICS, AND USE OF SAMPLING    01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4177,7 +4177,7 @@
 
 
 -CITE-
-    13 USC Sec. 191                                             01/08/2008
+    13 USC Sec. 191                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4255,7 +4255,7 @@
 
 
 -CITE-
-    13 USC Sec. 193                                             01/08/2008
+    13 USC Sec. 193                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4281,7 +4281,7 @@
 
 
 -CITE-
-    13 USC Sec. 195                                             01/08/2008
+    13 USC Sec. 195                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4322,7 +4322,7 @@
 
 
 -CITE-
-    13 USC Sec. 196                                             01/08/2008
+    13 USC Sec. 196                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4382,7 +4382,7 @@
 
 
 -CITE-
-    13 USC CHAPTER 7 - OFFENSES AND PENALTIES                   01/08/2008
+    13 USC CHAPTER 7 - OFFENSES AND PENALTIES                   01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4419,7 +4419,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER I - OFFICERS AND EMPLOYEES                01/08/2008
+    13 USC SUBCHAPTER I - OFFICERS AND EMPLOYEES                01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4434,7 +4434,7 @@
 
 
 -CITE-
-    13 USC Sec. 211                                             01/08/2008
+    13 USC Sec. 211                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4508,7 +4508,7 @@
 
 
 -CITE-
-    13 USC Sec. 212                                             01/08/2008
+    13 USC Sec. 212                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4571,7 +4571,7 @@
 
 
 -CITE-
-    13 USC Sec. 213                                             01/08/2008
+    13 USC Sec. 213                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4647,7 +4647,7 @@
 
 
 -CITE-
-    13 USC Sec. 214                                             01/08/2008
+    13 USC Sec. 214                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4736,7 +4736,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER II - OTHER PERSONS                        01/08/2008
+    13 USC SUBCHAPTER II - OTHER PERSONS                        01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4751,7 +4751,7 @@
 
 
 -CITE-
-    13 USC Sec. 221                                             01/08/2008
+    13 USC Sec. 221                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4856,7 +4856,7 @@
 
 
 -CITE-
-    13 USC Sec. 222                                             01/08/2008
+    13 USC Sec. 222                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4947,7 +4947,7 @@
 
 
 -CITE-
-    13 USC Sec. 223                                             01/08/2008
+    13 USC Sec. 223                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5059,7 +5059,7 @@
 
 
 -CITE-
-    13 USC Sec. 224                                             01/08/2008
+    13 USC Sec. 224                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5215,7 +5215,7 @@
 
 
 -CITE-
-    13 USC Sec. 225                                             01/08/2008
+    13 USC Sec. 225                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5335,7 +5335,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER III - PROCEDURE                           01/08/2008
+    13 USC SUBCHAPTER III - PROCEDURE                           01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5350,7 +5350,7 @@
 
 
 -CITE-
-    13 USC Sec. 241                                             01/08/2008
+    13 USC Sec. 241                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5427,7 +5427,7 @@
 
 -CITE-
     13 USC CHAPTER 9 - COLLECTION AND PUBLICATION OF FOREIGN
-           COMMERCE AND TRADE STATISTICS                   01/08/2008
+           COMMERCE AND TRADE STATISTICS                   01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5463,7 +5463,7 @@
 
 
 -CITE-
-    13 USC Sec. 301                                             01/08/2008
+    13 USC Sec. 301                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5512,8 +5512,7 @@
     respect to exports, the Secretary shall state separately from the
     total value of all exports - 
         (1)(A) the value of agricultural commodities exported under the
-      Agricultural Trade Development and Assistance Act of 1954, as
-      amended; and
+      Food for Peace Act, as amended; and
         (B) the total amount of all export subsidies paid to exporters
       by the United States under such Act for the exportation of such
       commodities; and
@@ -5524,10 +5523,10 @@
     subsections (b) and (c) - 
         (1) the Secretary of Agriculture shall furnish information to
       the Secretary concerning the value of agricultural commodities
-      exported under provisions of the Agricultural Trade Development
-      and Assistance Act of 1954, as amended, and the total amounts of
-      all export subsidies paid to exporters by the United States under
-      such Act for the exportation of such commodities; and
+      exported under provisions of the Food for Peace Act, as amended,
+      and the total amounts of all export subsidies paid to exporters
+      by the United States under such Act for the exportation of such
+      commodities; and
         (2) the Secretary of State shall furnish information to the
       Secretary concerning the value of goods exported under the
       provisions of the Foreign Assistance Act of 1961, as amended.
@@ -5574,8 +5573,9 @@
     Pub. L. 96-275, Sec. 1, June 17, 1980, 94 Stat. 539; Pub. L. 100-
     418, title I, Secs. 1214(a)(2), 1931(a), 1932, Aug. 23, 1988, 102
     Stat. 1155, 1320; Pub. L. 106-113, div. B, Sec. 1000(a)(7) [div. B,
-    title XII, Sec. 1252(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A-
-    506.)
+    title XII, Sec. 1252(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A-506;
+    Pub. L. 110-246, title III, Sec. 3001(b)(1)(A), (2)(M), June 18,
+    2008, 122 Stat. 1820.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -5583,12 +5583,12 @@
     in subsecs. (b), (e), and (f), is not set out in the Code. See
     Publication of Harmonized Tariff Schedule note set out under
     section 1202 of Title 19, Customs Duties.
-      The Agricultural Trade Development and Assistance Act of 1954,
-    referred to in subsecs. (c)(1), (d)(1), is act July 10, 1954, ch.
-    649, 68 Stat. 454, as amended, which is classified generally to
-    chapter 41 (Sec. 1691 et seq.) of Title 7, Agriculture. For
-    complete classification of this Act to the Code, see Short Title
-    note set out under section 1691 of Title 7 and Tables.
+      The Food for Peace Act, referred to in subsecs. (c)(1), (d)(1),
+    is act July 10, 1954, ch. 649, 68 Stat. 454, which is classified
+    generally to chapter 41 (Sec. 1691 et seq.) of Title 7,
+    Agriculture. For complete classification of this Act to the Code,
+    see Short Title note set out under section 1691 of Title 7 and
+    Tables.
       The Foreign Assistance Act of 1961, referred to in subsecs.
     (c)(2), (d)(2), is Pub. L. 87-195, Sept. 4, 1961, 75 Stat. 424, as
     amended, which is classified principally to chapter 32 (Sec. 2151
@@ -5599,6 +5599,9 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsecs. (c)(1)(A), (d)(1). Pub. L. 110-246 substituted
+    "Food for Peace Act" for "Agricultural Trade Development and
+    Assistance Act of 1954".
       1999 - Subsec. (h). Pub. L. 106-113 added subsec. (h).
       1988 - Subsec. (b). Pub. L. 100-418, Sec. 1214(a)(2)(A),
     substituted "Harmonized Tariff Schedule of the United States
@@ -5632,6 +5635,11 @@
     (f).
       1975 - Pub. L. 93-618 designated existing provisions as subsec.
     (a) and added subsecs. (b) to (d).
+
+                     EFFECTIVE DATE OF 2008 AMENDMENT                 
+      Amendment by Pub. L. 110-246 effective May 22, 2008, see section
+    4(b) of Pub. L. 110-246, set out as an Effective Date note under
+    section 8701 of Title 7, Agriculture.
 
                      EFFECTIVE DATE OF 1999 AMENDMENT                 
       Pub. L. 106-113, div. B, Sec. 1000(a)(7) [div. B, title XII, Sec.
@@ -5807,7 +5815,7 @@
 
 
 -CITE-
-    13 USC Sec. 302                                             01/08/2008
+    13 USC Sec. 302                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5841,7 +5849,7 @@
 
 
 -CITE-
-    13 USC Sec. 303                                             01/08/2008
+    13 USC Sec. 303                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5874,7 +5882,7 @@
 
 
 -CITE-
-    13 USC Sec. 304                                             01/08/2008
+    13 USC Sec. 304                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5943,7 +5951,7 @@
 
 
 -CITE-
-    13 USC Sec. 305                                             01/08/2008
+    13 USC Sec. 305                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6081,7 +6089,7 @@
 
 
 -CITE-
-    13 USC Sec. 306                                             01/08/2008
+    13 USC Sec. 306                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6108,7 +6116,7 @@
 
 
 -CITE-
-    13 USC Sec. 307                                             01/08/2008
+    13 USC Sec. 307                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6130,7 +6138,7 @@
 
 
 -CITE-
-    13 USC CHAPTER 10 - EXCHANGE OF CENSUS INFORMATION          01/08/2008
+    13 USC CHAPTER 10 - EXCHANGE OF CENSUS INFORMATION          01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6155,7 +6163,7 @@
 
 
 -CITE-
-    13 USC Sec. 401                                             01/08/2008
+    13 USC Sec. 401                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6206,7 +6214,7 @@
 
 
 -CITE-
-    13 USC Sec. 402                                             01/08/2008
+    13 USC Sec. 402                                             01/05/2009
 
 -EXPCITE-
     TITLE 13 - CENSUS
