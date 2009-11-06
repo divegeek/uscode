@@ -1,5 +1,5 @@
 -CITE-
-    17 USC TITLE 17 - COPYRIGHTS                                01/08/2008
+    17 USC TITLE 17 - COPYRIGHTS                                01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20,7 +20,8 @@
     3.      Duration of Copyright                                    301
     4.      Copyright Notice, Deposit, and Registration              401
     5.      Copyright Infringement and Remedies                      501
-    6.      Manufacturing Requirements and Importation               601
+    6.      Manufacturing Requirements, Importation, and
+             Exportation                                             601
     7.      Copyright Office                                         701
     8.      Proceedings by Copyright Royalty Judges                  801
     9.      Protection of Semiconductor Chip Products                901
@@ -30,6 +31,10 @@
     13.     Protection of Original Designs                          1301
 
                                 AMENDMENTS                            
+      2008 - Pub. L. 110-403, title I, Sec. 105(c)(3), Oct. 13, 2008,
+    122 Stat. 4260, substituted "Manufacturing Requirements,
+    Importation, and Exportation" for "Manufacturing Requirements and
+    Importation" in item relating to chapter 6.
       2004 - Pub. L. 108-419, Sec. 3(b), Nov. 30, 2004, 118 Stat. 2361,
     substituted "Proceedings by Copyright Royalty Judges" for
     "Copyright Arbitration Royalty Panels" in item relating to chapter
@@ -254,7 +259,7 @@
 
 
 -CITE-
-    17 USC CHAPTER 1 - SUBJECT MATTER AND SCOPE OF COPYRIGHT    01/08/2008
+    17 USC CHAPTER 1 - SUBJECT MATTER AND SCOPE OF COPYRIGHT    01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -348,7 +353,7 @@
 
 
 -CITE-
-    17 USC Sec. 101                                             01/08/2008
+    17 USC Sec. 101                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -960,6 +965,15 @@
     shall be governed by the provisions of such title as in effect when
     the cause of action arose."
 
+                       SHORT TITLE OF 2008 AMENDMENT                   
+      Pub. L. 110-435, Sec. 1, Oct. 16, 2008, 122 Stat. 4974, provided
+    that: "This Act [amending section 114 of this title] may be cited
+    as the 'Webcaster Settlement Act of 2008'."
+      Pub. L. 110-434, Sec. 1(a), Oct. 16, 2008, 122 Stat. 4972,
+    provided that: "This Act [amending section 1301 of this title] may
+    be cited as the 'Vessel Hull Design Protection Amendments of
+    2008'."
+
                        SHORT TITLE OF 2006 AMENDMENT                   
       Pub. L. 109-303, Sec. 1, Oct. 6, 2006, 120 Stat. 1478, provided
     that: "This Act [amending sections 111, 114, 115, 118, 119, 801 to
@@ -1307,7 +1321,7 @@
 
 
 -CITE-
-    17 USC Sec. 102                                             01/08/2008
+    17 USC Sec. 102                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -1722,7 +1736,7 @@
 
 
 -CITE-
-    17 USC Sec. 103                                             01/08/2008
+    17 USC Sec. 103                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -1806,7 +1820,7 @@
 
 
 -CITE-
-    17 USC Sec. 104                                             01/08/2008
+    17 USC Sec. 104                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -2061,7 +2075,7 @@
 
 
 -CITE-
-    17 USC Sec. 104A                                            01/08/2008
+    17 USC Sec. 104A                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -2506,7 +2520,7 @@
 
 
 -CITE-
-    17 USC Sec. 105                                             01/08/2008
+    17 USC Sec. 105                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -2667,7 +2681,7 @@
 
 
 -CITE-
-    17 USC Sec. 106                                             01/08/2008
+    17 USC Sec. 106                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -2980,7 +2994,7 @@
 
 
 -CITE-
-    17 USC Sec. 106A                                            01/08/2008
+    17 USC Sec. 106A                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -3148,7 +3162,7 @@
 
 
 -CITE-
-    17 USC Sec. 107                                             01/08/2008
+    17 USC Sec. 107                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -3715,7 +3729,7 @@
 
 
 -CITE-
-    17 USC Sec. 108                                             01/08/2008
+    17 USC Sec. 108                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -4223,7 +4237,7 @@
 
 
 -CITE-
-    17 USC Sec. 109                                             01/08/2008
+    17 USC Sec. 109                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -4312,10 +4326,10 @@
     computer program (including any tape, disk, or other medium
     embodying such program) in violation of paragraph (1) is an
     infringer of copyright under section 501 of this title and is
-    subject to the remedies set forth in sections 502, 503, 504, 505,
-    and 509. Such violation shall not be a criminal offense under
-    section 506 or cause such person to be subject to the criminal
-    penalties set forth in section 2319 of title 18.
+    subject to the remedies set forth in sections 502, 503, 504, and
+    505. Such violation shall not be a criminal offense under section
+    506 or cause such person to be subject to the criminal penalties
+    set forth in section 2319 of title 18.
       (c) Notwithstanding the provisions of section 106(5), the owner
     of a particular copy lawfully made under this title, or any person
     authorized by such owner, is entitled, without the authority of the
@@ -4344,7 +4358,8 @@
     617, Sec. 2, Nov. 5, 1988, 102 Stat. 3194; Pub. L. 101-650, title
     VIII, Secs. 802, 803, Dec. 1, 1990, 104 Stat. 5134, 5135; Pub. L.
     103-465, title V, Sec. 514(b), Dec. 8, 1994, 108 Stat. 4981; Pub.
-    L. 105-80, Sec. 12(a)(5), Nov. 13, 1997, 111 Stat. 1534.)
+    L. 105-80, Sec. 12(a)(5), Nov. 13, 1997, 111 Stat. 1534; Pub. L.
+    110-403, title II, Sec. 209(a)(1), Oct. 13, 2008, 122 Stat. 4264.)
 
 
 -MISC1-
@@ -4484,6 +4499,8 @@
 
 -MISC2-
                                 AMENDMENTS                            
+      2008 - Subsec. (b)(4). Pub. L. 110-403 substituted "and 505" for
+    "505, and 509".
       1997 - Subsec. (b)(2)(B). Pub. L. 105-80 substituted "Register of
     Copyrights considers appropriate" for "Register of Copyright
     considers appropriate".
@@ -4608,7 +4625,7 @@
 
 
 -CITE-
-    17 USC Sec. 110                                             01/08/2008
+    17 USC Sec. 110                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -5385,7 +5402,7 @@
 
 
 -CITE-
-    17 USC Sec. 111                                             01/08/2008
+    17 USC Sec. 111                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -5434,8 +5451,8 @@
     the secondary transmission to the public of a performance or
     display of a work embodied in a primary transmission is actionable
     as an act of infringement under section 501, and is fully subject
-    to the remedies provided by sections 502 through 506 and 509, if
-    the primary transmission is not made for reception by the public at
+    to the remedies provided by sections 502 through 506, if the
+    primary transmission is not made for reception by the public at
     large but is controlled and limited to reception by particular
     members of the public: Provided, however, That such secondary
     transmission is not actionable as an act of infringement if - 
@@ -5467,7 +5484,7 @@
       or Mexico and embodying a performance or display of a work is
       actionable as an act of infringement under section 501, and is
       fully subject to the remedies provided by sections 502 through
-      506 and 509, in the following cases:
+      506, in the following cases:
           (A) where the carriage of the signals comprising the
         secondary transmission is not permissible under the rules,
         regulations, or authorizations of the Federal Communications
@@ -5483,14 +5500,14 @@
       Federal Communications Commission or by an appropriate
       governmental authority of Canada or Mexico is actionable as an
       act of infringement under section 501, and is fully subject to
-      the remedies provided by sections 502 through 506 and sections
-      509 and 510, if the content of the particular program in which
-      the performance or display is embodied, or any commercial
-      advertising or station announcements transmitted by the primary
-      transmitter during, or immediately before or after, the
-      transmission of such program, is in any way willfully altered by
-      the cable system through changes, deletions, or additions, except
-      for the alteration, deletion, or substitution of commercial
+      the remedies provided by sections 502 through 506 and section
+      510, if the content of the particular program in which the
+      performance or display is embodied, or any commercial advertising
+      or station announcements transmitted by the primary transmitter
+      during, or immediately before or after, the transmission of such
+      program, is in any way willfully altered by the cable system
+      through changes, deletions, or additions, except for the
+      alteration, deletion, or substitution of commercial
       advertisements performed by those engaged in television
       commercial advertising market research: Provided, That the
       research company has obtained the prior consent of the advertiser
@@ -5507,18 +5524,18 @@
       appropriate governmental authority of Canada or Mexico is
       actionable as an act of infringement under section 501, and is
       fully subject to the remedies provided by sections 502 through
-      506 and section 509, if (A) with respect to Canadian signals, the
-      community of the cable system is located more than 150 miles from
-      the United States-Canadian border and is also located south of
-      the forty-second parallel of latitude, or (B) with respect to
-      Mexican signals, the secondary transmission is made by a cable
-      system which received the primary transmission by means other
-      than direct interception of a free space radio wave emitted by
-      such broadcast television station, unless prior to April 15,
-      1976, such cable system was actually carrying, or was
-      specifically authorized to carry, the signal of such foreign
-      station on the system pursuant to the rules, regulations, or
-      authorizations of the Federal Communications Commission.
+      506, if (A) with respect to Canadian signals, the community of
+      the cable system is located more than 150 miles from the United
+      States-Canadian border and is also located south of the forty-
+      second parallel of latitude, or (B) with respect to Mexican
+      signals, the secondary transmission is made by a cable system
+      which received the primary transmission by means other than
+      direct interception of a free space radio wave emitted by such
+      broadcast television station, unless prior to April 15, 1976,
+      such cable system was actually carrying, or was specifically
+      authorized to carry, the signal of such foreign station on the
+      system pursuant to the rules, regulations, or authorizations of
+      the Federal Communications Commission.
 
       (d) Statutory License for Secondary Transmissions by Cable
     Systems. - 
@@ -5664,7 +5681,7 @@
       transmissions by a cable system, any such transmissions are
       actionable as an act of infringement under section 501, and are
       fully subject to the remedies provided by sections 502 through
-      506 and sections 509 and 510, unless - 
+      506 and section 510, unless - 
           (A) the program on the videotape is transmitted no more than
         one time to the cable system's subscribers; and
           (B) the copyrighted program, episode, or motion picture
@@ -5706,16 +5723,17 @@
       program nonsimultaneously transmitted by it, such transfer is
       actionable as an act of infringement under section 501, and is
       fully subject to the remedies provided by sections 502 through
-      506 and 509, except that, pursuant to a written, nonprofit
-      contract providing for the equitable sharing of the costs of such
+      506, except that, pursuant to a written, nonprofit contract
+      providing for the equitable sharing of the costs of such
       videotape and its transfer, a videotape nonsimultaneously
       transmitted by it, in accordance with clause (1), may be
       transferred by one cable system in Alaska to another system in
       Alaska, by one cable system in Hawaii permitted to make such
       nonsimultaneous transmissions to another such cable system in
       Hawaii, or by one cable system in Guam, the Northern Mariana
-      Islands, or the Trust Territory of the Pacific Islands, to
-      another cable system in any of those three territories, if - 
+      Islands, the Federated States of Micronesia, the Republic of
+      Palau, or the Republic of the Marshall Islands, to another cable
+      system in any of those three territories, if - 
           (A) each such contract is available for public inspection in
         the offices of the cable systems involved, and a copy of such
         contract is filed, within thirty days after such contract is
@@ -5868,7 +5886,9 @@
     113 Stat. 1536, 1501A-543; Pub. L. 108-419, Sec. 5(a), Nov. 30,
     2004, 118 Stat. 2361; Pub. L. 108-447, div. J, title IX [title I,
     Sec. 107(b)], Dec. 8, 2004, 118 Stat. 3406; Pub. L. 109-303, Sec.
-    4(a), Oct. 6, 2006, 120 Stat. 1481.)
+    4(a), Oct. 6, 2006, 120 Stat. 1481; Pub. L. 110-229, title VIII,
+    Sec. 807, May 8, 2008, 122 Stat. 874; Pub. L. 110-403, title II,
+    Sec. 209(a)(2), Oct. 13, 2008, 122 Stat. 4264.)
 
 
 -MISC1-
@@ -6612,6 +6632,23 @@
 
 -MISC2-
                                 AMENDMENTS                            
+      2008 - Subsec. (b). Pub. L. 110-403, Sec. 209(a)(2)(A), struck
+    out "and 509" after "506" in introductory provisions.
+      Subsec. (c)(2). Pub. L. 110-403, Sec. 209(a)(2)(B)(i), struck out
+    "and 509" after "506" in introductory provisions.
+      Subsec. (c)(3). Pub. L. 110-403, Sec. 209(a)(2)(B)(ii),
+    substituted "section 510" for "sections 509 and 510".
+      Subsec. (c)(4). Pub. L. 110-403, Sec. 209(a)(2)(B)(iii), struck
+    out "and section 509" after "506".
+      Subsec. (e)(1). Pub. L. 110-403, Sec. 209(a)(2)(C)(i),
+    substituted "section 510" for "sections 509 and 510" in
+    introductory provisions.
+      Subsec. (e)(2). Pub. L. 110-403, Sec. 209(a)(2)(C)(ii), struck
+    out "and 509" after "506" in introductory provisions.
+      Pub. L. 110-229 substituted "the Federated States of Micronesia,
+    the Republic of Palau, or the Republic of the Marshall Islands" for
+    "or the Trust Territory of the Pacific Islands" in introductory
+    provisions.
       2006 - Subsec. (d)(2). Pub. L. 109-303, Sec. 4(a)(1), substituted
     "upon authorization by the Copyright Royalty Judges." for "in the
     event no controversy over distribution exists, or by the Copyright
@@ -6828,19 +6865,12 @@
     206 of Pub. L. 100-667, set out as an Effective Date note under
     section 119 of this title.
 
-
--TRANS-
-           TERMINATION OF TRUST TERRITORY OF THE PACIFIC ISLANDS       
-      For termination of Trust Territory of the Pacific Islands, see
-    note set out preceding section 1681 of Title 48, Territories and
-    Insular Possessions.
-
 -End-
 
 
 
 -CITE-
-    17 USC Sec. 112                                             01/08/2008
+    17 USC Sec. 112                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -7424,7 +7454,7 @@
 
 
 -CITE-
-    17 USC Sec. 113                                             01/08/2008
+    17 USC Sec. 113                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -7576,7 +7606,7 @@
 
 
 -CITE-
-    17 USC Sec. 114                                             01/08/2008
+    17 USC Sec. 114                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -8163,37 +8193,35 @@
         (5)(A) Notwithstanding section 112(e) and the other provisions
       of this subsection, the receiving agent may enter into agreements
       for the reproduction and performance of sound recordings under
-      section 112(e) and this section by any 1 or more small commercial
-      webcasters or noncommercial webcasters during the period
-      beginning on October 28, 1998, and ending on December 31, 2004,
-      that, once published in the Federal Register pursuant to
-      subparagraph (B), shall be binding on all copyright owners of
-      sound recordings and other persons entitled to payment under this
-      section, in lieu of any determination by a copyright arbitration
-      royalty panel or decision by the Librarian of Congress. Any such
-      agreement for small commercial webcasters shall include
-      provisions for payment of royalties on the basis of a percentage
-      of revenue or expenses, or both, and include a minimum fee. Any
-      such agreement may include other terms and conditions, including
-      requirements by which copyright owners may receive notice of the
-      use of their sound recordings and under which records of such use
-      shall be kept and made available by small commercial webcasters
-      or noncommercial webcasters. The receiving agent shall be under
-      no obligation to negotiate any such agreement. The receiving
-      agent shall have no obligation to any copyright owner of sound
-      recordings or any other person entitled to payment under this
-      section in negotiating any such agreement, and no liability to
-      any copyright owner of sound recordings or any other person
-      entitled to payment under this section for having entered into
-      such agreement.
+      section 112(e) and this section by any 1 or more commercial
+      webcasters or noncommercial webcasters for a period of not more
+      than 11 years beginning on January 1, 2005, that, once published
+      in the Federal Register pursuant to subparagraph (B), shall be
+      binding on all copyright owners of sound recordings and other
+      persons entitled to payment under this section, in lieu of any
+      determination by the Copyright Royalty Judges. Any such agreement
+      for commercial webcasters may include provisions for payment of
+      royalties on the basis of a percentage of revenue or expenses, or
+      both, and include a minimum fee. Any such agreement may include
+      other terms and conditions, including requirements by which
+      copyright owners may receive notice of the use of their sound
+      recordings and under which records of such use shall be kept and
+      made available by commercial webcasters or noncommercial
+      webcasters. The receiving agent shall be under no obligation to
+      negotiate any such agreement. The receiving agent shall have no
+      obligation to any copyright owner of sound recordings or any
+      other person entitled to payment under this section in
+      negotiating any such agreement, and no liability to any copyright
+      owner of sound recordings or any other person entitled to payment
+      under this section for having entered into such agreement.
         (B) The Copyright Office shall cause to be published in the
       Federal Register any agreement entered into pursuant to
       subparagraph (A). Such publication shall include a statement
       containing the substance of subparagraph (C). Such agreements
       shall not be included in the Code of Federal Regulations.
       Thereafter, the terms of such agreement shall be available, as an
-      option, to any small commercial webcaster or noncommercial
-      webcaster meeting the eligibility conditions of such agreement.
+      option, to any commercial webcaster or noncommercial webcaster
+      meeting the eligibility conditions of such agreement.
         (C) Neither subparagraph (A) nor any provisions of any
       agreement entered into pursuant to subparagraph (A), including
       any rate structure, fees, terms, conditions, or notice and
@@ -8204,23 +8232,27 @@
       the public performance or reproduction in ephemeral phonorecords
       or copies of sound recordings, the determination of terms or
       conditions related thereto, or the establishment of notice or
-      recordkeeping requirements by the Librarian of Congress under
+      recordkeeping requirements by the Copyright Royalty Judges under
       paragraph (4) or section 112(e)(4). It is the intent of Congress
       that any royalty rates, rate structure, definitions, terms,
       conditions, or notice and recordkeeping requirements, included in
       such agreements shall be considered as a compromise motivated by
       the unique business, economic and political circumstances of
-      small webcasters, copyright owners, and performers rather than as
+      webcasters, copyright owners, and performers rather than as
       matters that would have been negotiated in the marketplace
       between a willing buyer and a willing seller, or otherwise meet
-      the objectives set forth in section 801(b).
-        (D) Nothing in the Small Webcaster Settlement Act of 2002 or
-      any agreement entered into pursuant to subparagraph (A) shall be
+      the objectives set forth in section 801(b). This subparagraph
+      shall not apply to the extent that the receiving agent and a
+      webcaster that is party to an agreement entered into pursuant to
+      subparagraph (A) expressly authorize the submission of the
+      agreement in a proceeding under this subsection.
+        (D) Nothing in the Webcaster Settlement Act of 2008 or any
+      agreement entered into pursuant to subparagraph (A) shall be
       taken into account by the United States Court of Appeals for the
       District of Columbia Circuit in its review of the determination
-      by the Librarian of Congress of July 8, 2002, of rates and terms
-      for the digital performance of sound recordings and ephemeral
-      recordings, pursuant to sections 112 and 114.
+      by the Copyright Royalty Judges of May 1, 2007, of rates and
+      terms for the digital performance of sound recordings and
+      ephemeral recordings, pursuant to sections 112 and 114.
         (E) As used in this paragraph - 
           (i) the term "noncommercial webcaster" means a webcaster that
         - 
@@ -8245,9 +8277,7 @@
         nonsubscription transmissions and ephemeral recordings.
 
         (F) The authority to make settlements pursuant to subparagraph
-      (A) shall expire December 15, 2002, except with respect to
-      noncommercial webcasters for whom the authority shall expire May
-      31, 2003.
+      (A) shall expire February 15, 2009.
 
       (g) Proceeds From Licensing of Transmissions. - 
         (1) Except in the case of a transmission licensed under a
@@ -8476,7 +8506,8 @@
     IV, Sec. 405(a)(1)-(4), Oct. 28, 1998, 112 Stat. 2890-2897; Pub. L.
     107-321, Secs. 4, 5(b), (c), Dec. 4, 2002, 116 Stat. 2781, 2784;
     Pub. L. 108-419, Sec. 5(c), Nov. 30, 2004, 118 Stat. 2362; Pub. L.
-    109-303, Sec. 4(b), Oct. 6, 2006, 120 Stat. 1481.)
+    109-303, Sec. 4(b), Oct. 6, 2006, 120 Stat. 1481; Pub. L. 110-435,
+    Sec. 2, Oct. 16, 2008, 122 Stat. 4974.)
 
 
 -MISC1-
@@ -8582,17 +8613,46 @@
     2004, subject to transition provisions, see section 6 of Pub. L.
     108-419, set out as an Effective Date; Transition Provisions note
     under section 801 of this title.
-      The Small Webcaster Settlement Act of 2002, referred to in
-    subsec. (f)(5)(D), is Pub. L. 107-321, Dec. 4, 2002, 116 Stat.
-    2780, which amended this section and enacted provisions set out as
-    notes under this section and section 101 of this title. For
-    complete classification of this Act to the Code, see Short Title of
-    2002 Amendments note set out under section 101 of this title and
-    Tables.
+      The Webcaster Settlement Act of 2008, referred to in subsec.
+    (f)(5)(D), is Pub. L. 110-435, Oct. 16, 2008, 122 Stat. 4974, which
+    amended this section and enacted provisions set out as a note under
+    section 101 of this title. For complete classification of this Act
+    to the Code, see Short Title of 2008 Amendment note set out under
+    section 101 of this title and Tables.
 
 
 -MISC2-
                                 AMENDMENTS                            
+      2008 - Subsec. (f)(5)(A). Pub. L. 110-435, Sec. 2(1), substituted
+    "commercial" for "small commercial" wherever appearing, in first
+    sentence substituted "for a period of not more than 11 years
+    beginning on January 1, 2005" for "during the period beginning on
+    October 28, 1998, and ending on December 31, 2004" and "the
+    Copyright Royalty Judges" for "a copyright arbitration royalty
+    panel or decision by the Librarian of Congress", and in second
+    sentence substituted "webcasters may include" for "webcasters shall
+    include".
+      Subsec. (f)(5)(B). Pub. L. 110-435, Sec. 2(2), substituted
+    "commercial" for "small commercial".
+      Subsec. (f)(5)(C). Pub. L. 110-435, Sec. 2(3), substituted
+    "Copyright Royalty Judges" for "Librarian of Congress" and
+    "webcasters" for "small webcasters" and inserted at end "This
+    subparagraph shall not apply to the extent that the receiving agent
+    and a webcaster that is party to an agreement entered into pursuant
+    to subparagraph (A) expressly authorize the submission of the
+    agreement in a proceeding under this subsection."
+      Subsec. (f)(5)(D). Pub. L. 110-435, Sec. 2(4)(B), substituted
+    "Copyright Royalty Judges of May 1, 2007" for "Librarian of
+    Congress of July 8, 2002".
+      Pub. L. 110-435, Sec. 2(4)(A), which directed substitution of
+    "the Webcaster Settlement Act of 2008" for "the Small Webcasters
+    Settlement Act of 2002", was executed by making the substitution
+    for "the Small Webcaster Settlement Act of 2002", to reflect the
+    probable intent of Congress.
+      Subsec. (f)(5)(F). Pub. L. 110-435, Sec. 2(5), substituted
+    "February 15, 2009" for "December 15, 2002, except with respect to
+    noncommercial webcasters for whom the authority shall expire May
+    31, 2003".
       2006 - Subsec. (f)(1)(A). Pub. L. 109-303, Sec. 4(b)(1),
     substituted "except in the case of a different transitional period
     provided under section 6(b)(3) of the Copyright Royalty and
@@ -9059,7 +9119,7 @@
 
 
 -CITE-
-    17 USC Sec. 115                                             01/08/2008
+    17 USC Sec. 115                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -9255,7 +9315,7 @@
         (G)(i) A digital phonorecord delivery of a sound recording is
       actionable as an act of infringement under section 501, and is
       fully subject to the remedies provided by sections 502 through
-      506 and section 509, unless - 
+      506, unless - 
           (I) the digital phonorecord delivery has been authorized by
         the copyright owner of the sound recording; and
           (II) the owner of the copyright in the sound recording or the
@@ -9345,7 +9405,7 @@
       or both, of all phonorecords for which the royalty has not been
       paid, actionable as acts of infringement under section 501 and
       fully subject to the remedies provided by sections 502 through
-      506 and 509.
+      506.
 
       (d) Definition. - As used in this section, the following term has
     the following meaning: A "digital phonorecord delivery" is each
@@ -9368,7 +9428,8 @@
     39, Sec. 4, Nov. 1, 1995, 109 Stat. 344; Pub. L. 105-80, Secs. 4,
     10, 12(a)(7), Nov. 13, 1997, 111 Stat. 1531, 1534; Pub. L. 108-419,
     Sec. 5(d), Nov. 30, 2004, 118 Stat. 2364; Pub. L. 109-303, Sec.
-    4(c), Oct. 6, 2006, 120 Stat. 1482.)
+    4(c), Oct. 6, 2006, 120 Stat. 1482; Pub. L. 110-403, title II, Sec.
+    209(a)(3), Oct. 13, 2008, 122 Stat. 4264.)
 
 
 -MISC1-
@@ -9640,6 +9701,12 @@
 
 -MISC2-
                                 AMENDMENTS                            
+      2008 - Subsec. (c)(3)(G)(i). Pub. L. 110-403, Sec. 209(a)(3)(A),
+    which directed the amendment of cl. (i) by striking "and 509", was
+    executed by striking "and section 509" after "506" in introductory
+    provisions, to reflect the probable intent of Congress.
+      Subsec. (c)(6). Pub. L. 110-403, Sec. 209(a)(3)(B), struck out
+    "and 509" before period at end.
       2006 - Subsec. (c)(3)(B). Pub. L. 109-303, Sec. 4(c)(1),
     substituted "this subparagraph and subparagraphs (C) through (E)"
     for "subparagraphs (B) through (F)".
@@ -9773,7 +9840,7 @@
 
 
 -CITE-
-    17 USC Sec. 116                                             01/08/2008
+    17 USC Sec. 116                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -9913,7 +9980,7 @@
 
 
 -CITE-
-    17 USC Sec. 116A                                            01/08/2008
+    17 USC Sec. 116A                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -9929,7 +9996,7 @@
 
 
 -CITE-
-    17 USC Sec. 117                                             01/08/2008
+    17 USC Sec. 117                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -10049,7 +10116,7 @@
 
 
 -CITE-
-    17 USC Sec. 118                                             01/08/2008
+    17 USC Sec. 118                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -10575,7 +10642,7 @@
 
 
 -CITE-
-    17 USC Sec. 119                                             01/08/2008
+    17 USC Sec. 119                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -10974,8 +11041,8 @@
       embodied in a primary transmission made by a superstation or a
       network station is actionable as an act of infringement under
       section 501, and is fully subject to the remedies provided by
-      sections 502 through 506 and sections 509 and 510, if the content
-      of the particular program in which the performance or display is
+      sections 502 through 506 and section 510, if the content of the
+      particular program in which the performance or display is
       embodied, or any commercial advertising or station announcement
       transmitted by the primary transmitter during, or immediately
       before or after, the transmission of such program, is in any way
@@ -10991,7 +11058,7 @@
         eligible to receive the transmission under this section is
         actionable as an act of infringement under section 501 and is
         fully subject to the remedies provided by sections 502 through
-        506 and 509, except that - 
+        506, except that - 
             (i) no damages shall be awarded for such act of
           infringement if the satellite carrier took corrective action
           by promptly withdrawing service from the ineligible
@@ -11063,8 +11130,8 @@
       transmission made by a superstation or a network station is
       actionable as an act of infringement under section 501, and is
       fully subject to the remedies provided by sections 502 through
-      506 and 509, if the satellite carrier unlawfully discriminates
-      against a distributor.
+      506, if the satellite carrier unlawfully discriminates against a
+      distributor.
         (9) Geographic limitation on secondary transmissions. - The
       statutory license created by this section shall apply only to
       secondary transmissions to households located in the United
@@ -11157,8 +11224,8 @@
       a performance or display of a work made by a broadcast station
       licensed by the Federal Communications Commission is actionable
       as an act of infringement under section 501, and is fully subject
-      to the remedies provided by sections 502 through 506 and 509, if,
-      at the time of such transmission, the satellite carrier is not in
+      to the remedies provided by sections 502 through 506, if, at the
+      time of such transmission, the satellite carrier is not in
       compliance with the rules, regulations, and authorizations of the
       Federal Communications Commission concerning the carriage of
       television broadcast station signals.
@@ -11653,7 +11720,8 @@
     Stat. 2367; Pub. L. 108-447, div. J, title IX [title I, Secs.
     101(b)-105, 107(a), 108, 111(a)], Dec. 8, 2004, 118 Stat. 3394-
     3408; Pub. L. 109-303, Sec. 4(e), (g), Oct. 6, 2006, 120 Stat.
-    1482, 1483.)
+    1482, 1483; Pub. L. 110-403, title II, Sec. 209(a)(4), Oct. 13,
+    2008, 122 Stat. 4264.)
 
 
 -STATAMEND-
@@ -11684,6 +11752,12 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (a)(6). Pub. L. 110-403, Sec. 209(a)(4)(A),
+    substituted "section 510" for "sections 509 and 510".
+      Subsec. (a)(7)(A). Pub. L. 110-403, Sec. 209(a)(4)(B), struck out
+    "and 509" after "506" in introductory provisions.
+      Subsec. (a)(8), (13). Pub. L. 110-403, Sec. 209(a)(4)(C), (D),
+    struck out "and 509" after "506".
       2006 - Subsec. (b)(4)(B). Pub. L. 109-303, Sec. 4(e)(1)(A),
     substituted second sentence for former second sentence which read
     as follows: "If the Copyright Royalty Judges determine that no such
@@ -12298,7 +12372,7 @@
 
 
 -CITE-
-    17 USC Sec. 120                                             01/08/2008
+    17 USC Sec. 120                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -12341,7 +12415,7 @@
 
 
 -CITE-
-    17 USC Sec. 121                                             01/08/2008
+    17 USC Sec. 121                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -12457,7 +12531,7 @@
 
 
 -CITE-
-    17 USC Sec. 122                                             01/08/2008
+    17 USC Sec. 122                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -12525,25 +12599,25 @@
     embodying a performance or display of a work made by that
     television broadcast station is actionable as an act of
     infringement under section 501, and is fully subject to the
-    remedies provided under sections 502 through 506 and 509, if the
-    satellite carrier has not complied with the reporting requirements
-    of subsection (b) or with the rules, regulations, and
-    authorizations of the Federal Communications Commission concerning
-    the carriage of television broadcast signals.
+    remedies provided under sections 502 through 506, if the satellite
+    carrier has not complied with the reporting requirements of
+    subsection (b) or with the rules, regulations, and authorizations
+    of the Federal Communications Commission concerning the carriage of
+    television broadcast signals.
       (e) Willful Alterations. - Notwithstanding subsection (a), the
     secondary transmission to the public by a satellite carrier into
     the local market of a television broadcast station of a performance
     or display of a work embodied in a primary transmission made by
     that television broadcast station is actionable as an act of
     infringement under section 501, and is fully subject to the
-    remedies provided by sections 502 through 506 and sections 509 and
-    510, if the content of the particular program in which the
-    performance or display is embodied, or any commercial advertising
-    or station announcement transmitted by the primary transmitter
-    during, or immediately before or after, the transmission of such
-    program, is in any way willfully altered by the satellite carrier
-    through changes, deletions, or additions, or is combined with
-    programming from any other broadcast signal.
+    remedies provided by sections 502 through 506 and section 510, if
+    the content of the particular program in which the performance or
+    display is embodied, or any commercial advertising or station
+    announcement transmitted by the primary transmitter during, or
+    immediately before or after, the transmission of such program, is
+    in any way willfully altered by the satellite carrier through
+    changes, deletions, or additions, or is combined with programming
+    from any other broadcast signal.
       (f) Violation of Territorial Restrictions on Statutory License
     for Television Broadcast Stations. - 
         (1) Individual violations. - The willful or repeated secondary
@@ -12554,7 +12628,7 @@
       statutory licensing under section 119 or a private licensing
       agreement, is actionable as an act of infringement under section
       501 and is fully subject to the remedies provided by sections 502
-      through 506 and 509, except that - 
+      through 506, except that - 
           (A) no damages shall be awarded for such act of infringement
         if the satellite carrier took corrective action by promptly
         withdrawing service from the ineligible subscriber; and
@@ -12674,11 +12748,18 @@
     1002(a)], Nov. 29, 1999, 113 Stat. 1536, 1501A-523; amended Pub. L.
     107-273, div. C, title III, Sec. 13210(2)(A), Nov. 2, 2002, 116
     Stat. 1909; Pub. L. 108-447, div. J, title IX [title I, Sec.
-    111(b)], Dec. 8, 2004, 118 Stat. 3409.)
+    111(b)], Dec. 8, 2004, 118 Stat. 3409; Pub. L. 110-403, title II,
+    Sec. 209(a)(5), Oct. 13, 2008, 122 Stat. 4264.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (d). Pub. L. 110-403, Sec. 209(a)(5)(A), struck
+    out "and 509" after "506".
+      Subsec. (e). Pub. L. 110-403, Sec. 209(a)(5)(B), substituted
+    "section 510" for "sections 509 and 510".
+      Subsec. (f)(1). Pub. L. 110-403, Sec. 209(a)(5)(C), struck out
+    "and 509" after "506" in introductory provisions.
       2004 - Subsec. (j)(2)(D). Pub. L. 108-447 added subpar. (D).
       2002 - Pub. L. 107-273 substituted "rights: Secondary" for
     "rights; secondary" in section catchline.
@@ -12692,7 +12773,7 @@
 
 
 -CITE-
-    17 USC CHAPTER 2 - COPYRIGHT OWNERSHIP AND TRANSFER         01/08/2008
+    17 USC CHAPTER 2 - COPYRIGHT OWNERSHIP AND TRANSFER         01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -12716,7 +12797,7 @@
 
 
 -CITE-
-    17 USC Sec. 201                                             01/08/2008
+    17 USC Sec. 201                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -12999,7 +13080,7 @@
 
 
 -CITE-
-    17 USC Sec. 202                                             01/08/2008
+    17 USC Sec. 202                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -13054,7 +13135,7 @@
 
 
 -CITE-
-    17 USC Sec. 203                                             01/08/2008
+    17 USC Sec. 203                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -13416,7 +13497,7 @@
 
 
 -CITE-
-    17 USC Sec. 204                                             01/08/2008
+    17 USC Sec. 204                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -13469,7 +13550,7 @@
 
 
 -CITE-
-    17 USC Sec. 205                                             01/08/2008
+    17 USC Sec. 205                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -13623,7 +13704,7 @@
 
 
 -CITE-
-    17 USC CHAPTER 3 - DURATION OF COPYRIGHT                    01/08/2008
+    17 USC CHAPTER 3 - DURATION OF COPYRIGHT                    01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -13647,7 +13728,7 @@
 
 
 -CITE-
-    17 USC Sec. 301                                             01/08/2008
+    17 USC Sec. 301                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -14017,7 +14098,7 @@
 
 
 -CITE-
-    17 USC Sec. 302                                             01/08/2008
+    17 USC Sec. 302                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -14383,7 +14464,7 @@
 
 
 -CITE-
-    17 USC Sec. 303                                             01/08/2008
+    17 USC Sec. 303                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -14456,7 +14537,7 @@
 
 
 -CITE-
-    17 USC Sec. 304                                             01/08/2008
+    17 USC Sec. 304                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -15116,7 +15197,7 @@
 
 
 -CITE-
-    17 USC Sec. 305                                             01/08/2008
+    17 USC Sec. 305                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -15183,7 +15264,7 @@
 
 -CITE-
     17 USC CHAPTER 4 - COPYRIGHT NOTICE, DEPOSIT, AND
-           REGISTRATION                                    01/08/2008
+           REGISTRATION                                    01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -15209,11 +15290,13 @@
     408.        Copyright registration in general.                    
     409.        Application for copyright registration.               
     410.        Registration of claim and issuance of certificate.    
-    411.        Registration and infringement actions.                
+    411.        Registration and civil infringement actions.          
     412.        Registration as prerequisite to certain remedies for
                  infringement.                                        
 
                                 AMENDMENTS                            
+      2008 - Pub. L. 110-403, title I, Sec. 101(b)(2), Oct. 13, 2008,
+    122 Stat. 4258, inserted "civil" before "infringement" in item 411.
       1988 - Pub. L. 100-568, Secs. 7(g), 9(b)(2), Oct. 31, 1988, 102
     Stat. 2859, inserted in items 405 and 406 "on certain copies and
     phonorecords" and substituted in item 411 "Registration and
@@ -15225,7 +15308,7 @@
 
 
 -CITE-
-    17 USC Sec. 401                                             01/08/2008
+    17 USC Sec. 401                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -15416,7 +15499,7 @@
 
 
 -CITE-
-    17 USC Sec. 402                                             01/08/2008
+    17 USC Sec. 402                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -15523,7 +15606,7 @@
 
 
 -CITE-
-    17 USC Sec. 403                                             01/08/2008
+    17 USC Sec. 403                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -15591,7 +15674,7 @@
 
 
 -CITE-
-    17 USC Sec. 404                                             01/08/2008
+    17 USC Sec. 404                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -15698,7 +15781,7 @@
 
 
 -CITE-
-    17 USC Sec. 405                                             01/08/2008
+    17 USC Sec. 405                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -15925,7 +16008,7 @@
 
 
 -CITE-
-    17 USC Sec. 406                                             01/08/2008
+    17 USC Sec. 406                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -16089,7 +16172,7 @@
 
 
 -CITE-
-    17 USC Sec. 407                                             01/08/2008
+    17 USC Sec. 407                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -16357,7 +16440,7 @@
 
 
 -CITE-
-    17 USC Sec. 408                                             01/08/2008
+    17 USC Sec. 408                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -16726,7 +16809,7 @@
 
 
 -CITE-
-    17 USC Sec. 409                                             01/08/2008
+    17 USC Sec. 409                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -16844,7 +16927,7 @@
 
 
 -CITE-
-    17 USC Sec. 410                                             01/08/2008
+    17 USC Sec. 410                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -16952,40 +17035,60 @@
 
 
 -CITE-
-    17 USC Sec. 411                                             01/08/2008
+    17 USC Sec. 411                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
     CHAPTER 4 - COPYRIGHT NOTICE, DEPOSIT, AND REGISTRATION
 
 -HEAD-
-    Sec. 411. Registration and infringement actions
+    Sec. 411. Registration and civil infringement actions
 
 -STATUTE-
       (a) Except for an action brought for a violation of the rights of
     the author under section 106A(a), and subject to the provisions of
-    subsection (b), no action for infringement of the copyright in any
-    United States work shall be instituted until preregistration or
-    registration of the copyright claim has been made in accordance
-    with this title. In any case, however, where the deposit,
-    application, and fee required for registration have been delivered
-    to the Copyright Office in proper form and registration has been
-    refused, the applicant is entitled to institute an action for
-    infringement if notice thereof, with a copy of the complaint, is
-    served on the Register of Copyrights. The Register may, at his or
-    her option, become a party to the action with respect to the issue
-    of registrability of the copyright claim by entering an appearance
-    within sixty days after such service, but the Register's failure to
-    become a party shall not deprive the court of jurisdiction to
-    determine that issue.
-      (b) In the case of a work consisting of sounds, images, or both,
+    subsection (b),(!1) no civil action for infringement of the
+    copyright in any United States work shall be instituted until
+    preregistration or registration of the copyright claim has been
+    made in accordance with this title. In any case, however, where the
+    deposit, application, and fee required for registration have been
+    delivered to the Copyright Office in proper form and registration
+    has been refused, the applicant is entitled to institute a civil
+    action for infringement if notice thereof, with a copy of the
+    complaint, is served on the Register of Copyrights. The Register
+    may, at his or her option, become a party to the action with
+    respect to the issue of registrability of the copyright claim by
+    entering an appearance within sixty days after such service, but
+    the Register's failure to become a party shall not deprive the
+    court of jurisdiction to determine that issue.
+
+      (b)(1) A certificate of registration satisfies the requirements
+    of this section and section 412, regardless of whether the
+    certificate contains any inaccurate information, unless - 
+        (A) the inaccurate information was included on the application
+      for copyright registration with knowledge that it was inaccurate;
+      and
+        (B) the inaccuracy of the information, if known, would have
+      caused the Register of Copyrights to refuse registration.
+
+      (2) In any case in which inaccurate information described under
+    paragraph (1) is alleged, the court shall request the Register of
+    Copyrights to advise the court whether the inaccurate information,
+    if known, would have caused the Register of Copyrights to refuse
+    registration.
+      (3) Nothing in this subsection shall affect any rights,
+    obligations, or requirements of a person related to information
+    contained in a registration certificate, except for the institution
+    of and remedies in infringement actions under this section and
+    section 412.
+      (c) In the case of a work consisting of sounds, images, or both,
     the first fixation of which is made simultaneously with its
     transmission, the copyright owner may, either before or after such
     fixation takes place, institute an action for infringement under
     section 501, fully subject to the remedies provided by sections 502
-    through 506 and sections 509 and 510, if, in accordance with
-    requirements that the Register of Copyrights shall prescribe by
-    regulation, the copyright owner - 
+    through 505 and section 510, if, in accordance with requirements
+    that the Register of Copyrights shall prescribe by regulation, the
+    copyright owner - 
         (1) serves notice upon the infringer, not less than 48 hours
       before such fixation, identifying the work and the specific time
       and source of its first transmission, and declaring an intention
@@ -16999,7 +17102,9 @@
     L. 101-650, title VI, Sec. 606(c)(1), Dec. 1, 1990, 104 Stat. 5131;
     Pub. L. 105-80, Sec. 6, Nov. 13, 1997, 111 Stat. 1532; Pub. L. 105-
     304, title I, Sec. 102(d), Oct. 28, 1998, 112 Stat. 2863; Pub. L.
-    109-9, title I, Sec. 104(b), Apr. 27, 2005, 119 Stat. 222.)
+    109-9, title I, Sec. 104(b), Apr. 27, 2005, 119 Stat. 222; Pub. L.
+    110-403, title I, Sec. 101(a), title II, Sec. 209(a)(6), Oct. 13,
+    2008, 122 Stat. 4257, 4264.)
 
 
 -MISC1-
@@ -17035,7 +17140,30 @@
     unauthorized use of the material included in the "live"
     transmission.
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      Subsection (b), referred to in subsec. (a), was redesignated
+    subsec. (c) of this section by Pub. L. 110-403, title I, Sec.
+    101(a)(3), Oct. 13, 2008, 122 Stat. 4257.
+
+
+-MISC2-
                                 AMENDMENTS                            
+      2008 - Pub. L. 110-403, Sec. 101(a)(1), inserted "civil" before
+    "infringement" in section catchline.
+      Subsec. (a). Pub. L. 110-403, Sec. 101(a)(2), substituted "no
+    civil action" for "no action" in first sentence and "a civil
+    action" for "an action" in second sentence.
+      Subsec. (b). Pub. L. 110-403, Sec. 209(a)(6), which directed
+    amendment of subsec. (b) by substituting "section 510" for
+    "sections 509 and 510", could not be executed because of prior
+    amendment by Pub. L. 110-403, Sec. 101(a)(3), (4). See below.
+      Pub. L. 110-403, Sec. 101(a)(5), added subsec. (b). Former
+    subsec. (b) redesignated (c).
+      Subsec. (c). Pub. L. 110-403, Sec. 101(a)(4), substituted "505
+    and section" for "506 and sections 509 and" in introductory
+    provisions.
+      Pub. L. 110-403, Sec. 101(a)(3), redesignated subsec. (b) as (c).
       2005 - Subsec. (a). Pub. L. 109-9 inserted "preregistration or"
     after "shall be instituted until".
       1998 - Subsec. (a). Pub. L. 105-304, in first sentence, struck
@@ -17073,12 +17201,16 @@
     section 13 of Pub. L. 100-568, set out as a note under section 101
     of this title.
 
+-FOOTNOTE-
+    (!1) See References in Text note below.
+
+
 -End-
 
 
 
 -CITE-
-    17 USC Sec. 412                                             01/08/2008
+    17 USC Sec. 412                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -17096,7 +17228,7 @@
     infringement and that has an effective date of registration not
     later than the earlier of 3 months after the first publication of
     the work or 1 month after the copyright owner has learned of the
-    infringement, or an action instituted under section 411(b), no
+    infringement, or an action instituted under section 411(c), no
     award of statutory damages or of attorney's fees, as provided by
     sections 504 and 505, shall be made for - 
         (1) any infringement of copyright in an unpublished work
@@ -17110,7 +17242,8 @@
     (Pub. L. 94-553, title I, Sec. 101, Oct. 19, 1976, 90 Stat. 2583;
     Pub. L. 101-650, title VI, Sec. 606(c)(2), Dec. 1, 1990, 104 Stat.
     5131; Pub. L. 109-9, title I, Sec. 104(c), Apr. 27, 2005, 119 Stat.
-    222.)
+    222; Pub. L. 110-403, title I, Sec. 101(b)(1), Oct. 13, 2008, 122
+    Stat. 4258.)
 
 
 -MISC1-
@@ -17159,6 +17292,8 @@
     has had a reasonable opportunity to register his claim.
 
                                 AMENDMENTS                            
+      2008 - Pub. L. 110-403 substituted "section 411(c)" for "section
+    411(b)" in introductory provisions.
       2005 - Pub. L. 109-9 inserted ", an action for infringement of
     the copyright of a work that has been preregistered under section
     408(f) before the commencement of the infringement and that has an
@@ -17179,7 +17314,7 @@
 
 
 -CITE-
-    17 USC CHAPTER 5 - COPYRIGHT INFRINGEMENT AND REMEDIES      01/08/2008
+    17 USC CHAPTER 5 - COPYRIGHT INFRINGEMENT AND REMEDIES      01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -17199,7 +17334,7 @@
     506.        Criminal offenses.                                    
     507.        Limitations on actions.                               
     508.        Notification of filing and determination of actions.  
-    509.        Seizure and forfeiture.                               
+    [509.       Repealed.]                                            
     510.        Remedies for alteration of programming by cable
                  systems.                                             
     511.        Liability of States, instrumentalities of States, and
@@ -17209,6 +17344,8 @@
                  individual proprietors.                              
 
                                 AMENDMENTS                            
+      2008 - Pub. L. 110-403, title II, Sec. 201(b)(2), Oct. 13, 2008,
+    122 Stat. 4260, struck out item 509 "Seizure and forfeiture."
       1999 - Pub. L. 106-113, div. B, Sec. 1000(a)(9) [title I, Sec.
     1011(a)(1)], Nov. 29, 1999, 113 Stat. 1536, 1501A-543, substituted
     "programming" for "programing" in item 510.
@@ -17231,7 +17368,7 @@
 
 
 -CITE-
-    17 USC Sec. 501                                             01/08/2008
+    17 USC Sec. 501                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -17463,7 +17600,7 @@
 
 
 -CITE-
-    17 USC Sec. 502                                             01/08/2008
+    17 USC Sec. 502                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -17516,7 +17653,7 @@
 
 
 -CITE-
-    17 USC Sec. 503                                             01/08/2008
+    17 USC Sec. 503                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -17527,13 +17664,37 @@
       infringing articles
 
 -STATUTE-
-      (a) At any time while an action under this title is pending, the
-    court may order the impounding, on such terms as it may deem
-    reasonable, of all copies or phonorecords claimed to have been made
-    or used in violation of the copyright owner's exclusive rights, and
-    of all plates, molds, matrices, masters, tapes, film negatives, or
-    other articles by means of which such copies or phonorecords may be
-    reproduced.
+      (a)(1) At any time while an action under this title is pending,
+    the court may order the impounding, on such terms as it may deem
+    reasonable - 
+        (A) of all copies or phonorecords claimed to have been made or
+      used in violation of the exclusive right of the copyright owner;
+        (B) of all plates, molds, matrices, masters, tapes, film
+      negatives, or other articles by means of which such copies of
+      phonorecords may be reproduced; and
+        (C) of records documenting the manufacture, sale, or receipt of
+      things involved in any such violation, provided that any records
+      seized under this subparagraph shall be taken into the custody of
+      the court.
+
+      (2) For impoundments of records ordered under paragraph (1)(C),
+    the court shall enter an appropriate protective order with respect
+    to discovery and use of any records or information that has been
+    impounded. The protective order shall provide for appropriate
+    procedures to ensure that confidential, private, proprietary, or
+    privileged information contained in such records is not improperly
+    disclosed or used.
+      (3) The relevant provisions of paragraphs (2) through (11) of
+    section 34(d) of the Trademark Act (15 U.S.C. 1116(d)(2) through
+    (11)) shall extend to any impoundment of records ordered under
+    paragraph (1)(C) that is based upon an ex parte application,
+    notwithstanding the provisions of rule 65 of the Federal Rules of
+    Civil Procedure. Any references in paragraphs (2) through (11) of
+    section 34(d) of the Trademark Act to section 32 of such Act shall
+    be read as references to section 501 of this title, and references
+    to use of a counterfeit mark in connection with the sale, offering
+    for sale, or distribution of goods or services shall be read as
+    references to infringement of a copyright.
       (b) As part of a final judgment or decree, the court may order
     the destruction or other reasonable disposition of all copies or
     phonorecords found to have been made or used in violation of the
@@ -17542,7 +17703,9 @@
     means of which such copies or phonorecords may be reproduced.
 
 -SOURCE-
-    (Pub. L. 94-553, title I, Sec. 101, Oct. 19, 1976, 90 Stat. 2585.)
+    (Pub. L. 94-553, title I, Sec. 101, Oct. 19, 1976, 90 Stat. 2585;
+    Pub. L. 110-403, title I, Sec. 102(a), Oct. 13, 2008, 122 Stat.
+    4258.)
 
 
 -MISC1-
@@ -17582,12 +17745,38 @@
     delivered to the plaintiff, or disposed of in some other way that
     would avoid needless waste and best serve the ends of justice.
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      The Trademark Act, referred to in subsec. (a)(3), probably means
+    the Trademark Act of 1946, act July 5, 1946, ch. 540, 60 Stat. 427,
+    also popularly known as the Lanham Act, which is classified
+    generally to chapter 22 of Title 15, Commerce and Trade. Section 32
+    of the Act is classified to section 1114 of Title 15. For complete
+    classification of this Act to the Code, see Short Title note set
+    out under section 1051 of Title 15 and Tables.
+      The Federal Rules of Civil Procedure, referred to in subsec.
+    (a)(3), are set out in the Appendix to Title 28, Judiciary and
+    Judicial Procedure.
+
+
+-MISC2-
+                                AMENDMENTS                            
+      2008 - Subsec. (a). Pub. L. 110-403 amended subsec. (a)
+    generally. Prior to amendment, subsec. (a) read as follows: "At any
+    time while an action under this title is pending, the court may
+    order the impounding, on such terms as it may deem reasonable, of
+    all copies or phonorecords claimed to have been made or used in
+    violation of the copyright owner's exclusive rights, and of all
+    plates, molds, matrices, masters, tapes, film negatives, or other
+    articles by means of which such copies or phonorecords may be
+    reproduced."
+
 -End-
 
 
 
 -CITE-
-    17 USC Sec. 504                                             01/08/2008
+    17 USC Sec. 504                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -17874,7 +18063,7 @@
 
 
 -CITE-
-    17 USC Sec. 505                                             01/08/2008
+    17 USC Sec. 505                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -17908,7 +18097,7 @@
 
 
 -CITE-
-    17 USC Sec. 506                                             01/08/2008
+    17 USC Sec. 506                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -17956,13 +18145,10 @@
           general public in the United States in a format intended to
           permit viewing outside a motion picture exhibition facility.
 
-      (b) Forfeiture and Destruction. - When any person is convicted of
-    any violation of subsection (a), the court in its judgment of
-    conviction shall, in addition to the penalty therein prescribed,
-    order the forfeiture and destruction or other disposition of all
-    infringing copies or phonorecords and all implements, devices, or
-    equipment used in the manufacture of such infringing copies or
-    phonorecords.
+      (b) Forfeiture, Destruction, and Restitution. - Forfeiture,
+    destruction, and restitution relating to this section shall be
+    subject to section 2323 of title 18, to the extent provided in that
+    section, in addition to any other similar remedies provided by law.
       (c) Fraudulent Copyright Notice. - Any person who, with
     fraudulent intent, places on any article a notice of copyright or
     words of the same purport that such person knows to be false, or
@@ -17987,7 +18173,8 @@
     Pub. L. 97-180, Sec. 5, May 24, 1982, 96 Stat. 93; Pub. L. 101-650,
     title VI, Sec. 606(b), Dec. 1, 1990, 104 Stat. 5131; Pub. L. 105-
     147, Sec. 2(b), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 109-9,
-    title I, Sec. 103(a), Apr. 27, 2005, 119 Stat. 220.)
+    title I, Sec. 103(a), Apr. 27, 2005, 119 Stat. 220; Pub. L. 110-
+    403, title II, Sec. 201(a), Oct. 13, 2008, 122 Stat. 4260.)
 
 
 -MISC1-
@@ -18014,6 +18201,14 @@
     imprisoned not more than two years, or both.
 
                                 AMENDMENTS                            
+      2008 - Subsec. (b). Pub. L. 110-403 amended subsec. (b)
+    generally. Prior to amendment, text read as follows: "When any
+    person is convicted of any violation of subsection (a), the court
+    in its judgment of conviction shall, in addition to the penalty
+    therein prescribed, order the forfeiture and destruction or other
+    disposition of all infringing copies or phonorecords and all
+    implements, devices, or equipment used in the manufacture of such
+    infringing copies or phonorecords."
       2005 - Subsec. (a). Pub. L. 109-9 reenacted heading without
     change and amended text generally. Prior to amendment, text read as
     follows: "Any person who infringes a copyright willfully either - 
@@ -18057,7 +18252,7 @@
 
 
 -CITE-
-    17 USC Sec. 507                                             01/08/2008
+    17 USC Sec. 507                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -18103,7 +18298,7 @@
 
 
 -CITE-
-    17 USC Sec. 508                                             01/08/2008
+    17 USC Sec. 508                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -18152,61 +18347,28 @@
 
 
 -CITE-
-    17 USC Sec. 509                                             01/08/2008
+    17 USC Sec. 509                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
     CHAPTER 5 - COPYRIGHT INFRINGEMENT AND REMEDIES
 
 -HEAD-
-    Sec. 509. Seizure and forfeiture
-
--STATUTE-
-      (a) All copies or phonorecords manufactured, reproduced,
-    distributed, sold, or otherwise used, intended for use, or
-    possessed with intent to use in violation of section 506(a), and
-    all plates, molds, matrices, masters, tapes, film negatives, or
-    other articles by means of which such copies or phonorecords may be
-    reproduced, and all electronic, mechanical, or other devices for
-    manufacturing, reproducing, or assembling such copies or
-    phonorecords may be seized and forfeited to the United States.
-      (b) The applicable procedures relating to (i) the seizure,
-    summary and judicial forfeiture, and condemnation of vessels,
-    vehicles, merchandise, and baggage for violations of the customs
-    laws contained in title 19, (ii) the disposition of such vessels,
-    vehicles, merchandise, and baggage or the proceeds from the sale
-    thereof, (iii) the remission or mitigation of such forfeiture, (iv)
-    the compromise of claims, and (v) the award of compensation to
-    informers in respect of such forfeitures, shall apply to seizures
-    and forfeitures incurred, or alleged to have been incurred, under
-    the provisions of this section, insofar as applicable and not
-    inconsistent with the provisions of this section; except that such
-    duties as are imposed upon any officer or employee of the Treasury
-    Department or any other person with respect to the seizure and
-    forfeiture of vessels, vehicles, merchandise, and baggage under the
-    provisions of the customs laws contained in title 19 shall be
-    performed with respect to seizure and forfeiture of all articles
-    described in subsection (a) by such officers, agents, or other
-    persons as may be authorized or designated for that purpose by the
-    Attorney General.
-
--SOURCE-
-    (Pub. L. 94-553, title I, Sec. 101, Oct. 19, 1976, 90 Stat. 2587;
-    Pub. L. 105-80, Sec. 12(a)(14), Nov. 13, 1997, 111 Stat. 1535.)
-
+    Sec. 509. Repealed.
 
 -MISC1-
-                                AMENDMENTS                            
-      1997 - Subsec. (b). Pub. L. 105-80 substituted "merchandise, and
-    baggage" for "merchandise; and baggage" before "under the
-    provisions of the customs laws".
+    [Sec. 509. Repealed. Pub. L. 110-403, title II, Sec. 201(b)(1),
+      Oct. 13, 2008, 122 Stat. 4260].
+      Section, Pub. L. 94-553, title I, Sec. 101, Oct. 19, 1976, 90
+    Stat. 2587; Pub. L. 105-80, Sec. 12(a)(14), Nov. 13, 1997, 111
+    Stat. 1535, related to seizure and forfeiture.
 
 -End-
 
 
 
 -CITE-
-    17 USC Sec. 510                                             01/08/2008
+    17 USC Sec. 510                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -18276,7 +18438,7 @@
 
 
 -CITE-
-    17 USC Sec. 511                                             01/08/2008
+    17 USC Sec. 511                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -18332,7 +18494,7 @@
 
 
 -CITE-
-    17 USC Sec. 512                                             01/08/2008
+    17 USC Sec. 512                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -18887,7 +19049,7 @@
 
 
 -CITE-
-    17 USC Sec. 513                                             01/08/2008
+    17 USC Sec. 513                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -18990,34 +19152,46 @@
 
 
 -CITE-
-    17 USC CHAPTER 6 - MANUFACTURING REQUIREMENTS AND
-           IMPORTATION                                     01/08/2008
+    17 USC CHAPTER 6 - MANUFACTURING REQUIREMENTS,
+           IMPORTATION, AND EXPORTATION                    01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
-    CHAPTER 6 - MANUFACTURING REQUIREMENTS AND IMPORTATION
+    CHAPTER 6 - MANUFACTURING REQUIREMENTS, IMPORTATION, AND EXPORTATION
 
 -HEAD-
-          CHAPTER 6 - MANUFACTURING REQUIREMENTS AND IMPORTATION      
+         CHAPTER 6 - MANUFACTURING REQUIREMENTS, IMPORTATION, AND
+                                EXPORTATION
 
 -MISC1-
     Sec.                                                     
     601.        Manufacture, importation, and public distribution of
                  certain copies.                                      
-    602.        Infringing importation of copies or phonorecords.     
+    602.(!1)    Infringing importation of copies or phonorecords.     
+
     603.        Importation prohibitions: Enforcement and disposition
                  of excluded articles.                                
+
+                                AMENDMENTS                            
+      2008 - Pub. L. 110-403, title I, Sec. 105(a), Oct. 13, 2008, 122
+    Stat. 4259, substituted "MANUFACTURING REQUIREMENTS, IMPORTATION,
+    AND EXPORTATION" for "MANUFACTURING REQUIREMENTS AND IMPORTATION"
+    in chapter heading.
+
+-FOOTNOTE-
+    (!1) So in original. Does not conform to section catchline.
+
 
 -End-
 
 
 
 -CITE-
-    17 USC Sec. 601                                             01/08/2008
+    17 USC Sec. 601                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
-    CHAPTER 6 - MANUFACTURING REQUIREMENTS AND IMPORTATION
+    CHAPTER 6 - MANUFACTURING REQUIREMENTS, IMPORTATION, AND EXPORTATION
 
 -HEAD-
     Sec. 601. Manufacture, importation, and public distribution of
@@ -19043,13 +19217,14 @@
       a substantial part of the work was prepared for an employer or
       other person who is not a national or domiciliary of the United
       States or a domestic corporation or enterprise;
-        (2) where the United States Customs Service is presented with
-      an import statement issued under the seal of the Copyright
-      Office, in which case a total of no more than two thousand copies
-      of any one such work shall be allowed entry; the import statement
-      shall be issued upon request to the copyright owner or to a
-      person designated by such owner at the time of registration for
-      the work under section 408 or at any time thereafter;
+        (2) where United States Customs and Border Protection is
+      presented with an import statement issued under the seal of the
+      Copyright Office, in which case a total of no more than two
+      thousand copies of any one such work shall be allowed entry; the
+      import statement shall be issued upon request to the copyright
+      owner or to a person designated by such owner at the time of
+      registration for the work under section 408 or at any time
+      thereafter;
         (3) where importation is sought under the authority or for the
       use, other than in schools, of the Government of the United
       States or of any State or political subdivision of a State;
@@ -19137,7 +19312,8 @@
 -SOURCE-
     (Pub. L. 94-553, title I, Sec. 101, Oct. 19, 1976, 90 Stat. 2588;
     Pub. L. 97-215, July 13, 1982, 96 Stat. 178; Pub. L. 105-80, Sec.
-    12(a)(15), (16), Nov. 13, 1997, 111 Stat. 1535.)
+    12(a)(15), (16), Nov. 13, 1997, 111 Stat. 1535; Pub. L. 110-403,
+    title I, Sec. 105(c)(2), Oct. 13, 2008, 122 Stat. 4260.)
 
 
 -MISC1-
@@ -19425,6 +19601,9 @@
     601.
 
                                 AMENDMENTS                            
+      2008 - Subsec. (b)(2). Pub. L. 110-403 substituted "United States
+    Customs and Border Protection" for "the United States Customs
+    Service".
       1997 - Subsec. (a). Pub. L. 105-80, Sec. 12(a)(15), substituted
     "nondramatic" for "nondramtic".
       Subsec. (b)(1). Pub. L. 105-80, Sec. 12(a)(16), substituted
@@ -19448,58 +19627,76 @@
 
 
 -CITE-
-    17 USC Sec. 602                                             01/08/2008
+    17 USC Sec. 602                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
-    CHAPTER 6 - MANUFACTURING REQUIREMENTS AND IMPORTATION
+    CHAPTER 6 - MANUFACTURING REQUIREMENTS, IMPORTATION, AND EXPORTATION
 
 -HEAD-
-    Sec. 602. Infringing importation of copies or phonorecords
+    Sec. 602. Infringing importation or exportation of copies or
+      phonorecords
 
 -STATUTE-
-      (a) Importation into the United States, without the authority of
-    the owner of copyright under this title, of copies or phonorecords
-    of a work that have been acquired outside the United States is an
-    infringement of the exclusive right to distribute copies or
-    phonorecords under section 106, actionable under section 501. This
-    subsection does not apply to - 
-        (1) importation of copies or phonorecords under the authority
-      or for the use of the Government of the United States or of any
-      State or political subdivision of a State, but not including
-      copies or phonorecords for use in schools, or copies of any
-      audiovisual work imported for purposes other than archival use;
-        (2) importation, for the private use of the importer and not
-      for distribution, by any person with respect to no more than one
-      copy or phonorecord of any one work at any one time, or by any
-      person arriving from outside the United States with respect to
-      copies or phonorecords forming part of such person's personal
-      baggage; or
-        (3) importation by or for an organization operated for
-      scholarly, educational, or religious purposes and not for private
-      gain, with respect to no more than one copy of an audiovisual
-      work solely for its archival purposes, and no more than five
-      copies or phonorecords of any other work for its library lending
-      or archival purposes, unless the importation of such copies or
-      phonorecords is part of an activity consisting of systematic
-      reproduction or distribution, engaged in by such organization in
-      violation of the provisions of section 108(g)(2).
+      (a) Infringing Importation or Exportation. - 
+        (1) Importation. - Importation into the United States, without
+      the authority of the owner of copyright under this title, of
+      copies or phonorecords of a work that have been acquired outside
+      the United States is an infringement of the exclusive right to
+      distribute copies or phonorecords under section 106, actionable
+      under section 501.
+        (2) Importation or exportation of infringing items. -
+      Importation into the United States or exportation from the United
+      States, without the authority of the owner of copyright under
+      this title, of copies or phonorecords, the making of which either
+      constituted an infringement of copyright, or which would have
+      constituted an infringement of copyright if this title had been
+      applicable, is an infringement of the exclusive right to
+      distribute copies or phonorecords under section 106, actionable
+      under sections 501 and 506.
+        (3) Exceptions. - This subsection does not apply to - 
+          (A) importation or exportation of copies or phonorecords
+        under the authority or for the use of the Government of the
+        United States or of any State or political subdivision of a
+        State, but not including copies or phonorecords for use in
+        schools, or copies of any audiovisual work imported for
+        purposes other than archival use;
+          (B) importation or exportation, for the private use of the
+        importer or exporter and not for distribution, by any person
+        with respect to no more than one copy or phonorecord of any one
+        work at any one time, or by any person arriving from outside
+        the United States or departing from the United States with
+        respect to copies or phonorecords forming part of such person's
+        personal baggage; or
+          (C) importation by or for an organization operated for
+        scholarly, educational, or religious purposes and not for
+        private gain, with respect to no more than one copy of an
+        audiovisual work solely for its archival purposes, and no more
+        than five copies or phonorecords of any other work for its
+        library lending or archival purposes, unless the importation of
+        such copies or phonorecords is part of an activity consisting
+        of systematic reproduction or distribution, engaged in by such
+        organization in violation of the provisions of section
+        108(g)(2).
 
-      (b) In a case where the making of the copies or phonorecords
-    would have constituted an infringement of copyright if this title
-    had been applicable, their importation is prohibited. In a case
-    where the copies or phonorecords were lawfully made, the United
-    States Customs Service has no authority to prevent their
-    importation unless the provisions of section 601 are applicable. In
-    either case, the Secretary of the Treasury is authorized to
-    prescribe, by regulation, a procedure under which any person
-    claiming an interest in the copyright in a particular work may,
-    upon payment of a specified fee, be entitled to notification by the
-    Customs Service of the importation of articles that appear to be
-    copies or phonorecords of the work.
+      (b) Import Prohibition. - In a case where the making of the
+    copies or phonorecords would have constituted an infringement of
+    copyright if this title had been applicable, their importation is
+    prohibited. In a case where the copies or phonorecords were
+    lawfully made, United States Customs and Border Protection has no
+    authority to prevent their importation unless the provisions of
+    section 601 are applicable. In either case, the Secretary of the
+    Treasury is authorized to prescribe, by regulation, a procedure
+    under which any person claiming an interest in the copyright in a
+    particular work may, upon payment of a specified fee, be entitled
+    to notification by United States Customs and Border Protection of
+    the importation of articles that appear to be copies or
+    phonorecords of the work.
 
 -SOURCE-
-    (Pub. L. 94-553, title I, Sec. 101, Oct. 19, 1976, 90 Stat. 2589.)
+    (Pub. L. 94-553, title I, Sec. 101, Oct. 19, 1976, 90 Stat. 2589;
+    Pub. L. 110-403, title I, Sec. 105(b), (c)(1), Oct. 13, 2008, 122
+    Stat. 4259, 4260.)
 
 
 -MISC1-
@@ -19568,28 +19765,35 @@
     arrange for the Customs Service to notify them wherever articles
     appearing to infringe their works are imported.
 
-
--TRANS-
-                           TRANSFER OF FUNCTIONS                       
-      For transfer of functions, personnel, assets, and liabilities of
-    the United States Customs Service of the Department of the
-    Treasury, including functions of the Secretary of the Treasury
-    relating thereto, to the Secretary of Homeland Security, and for
-    treatment of related references, see sections 203(1), 551(d),
-    552(d), and 557 of Title 6, Domestic Security, and the Department
-    of Homeland Security Reorganization Plan of November 25, 2002, as
-    modified, set out as a note under section 542 of Title 6.
+                                AMENDMENTS                            
+      2008 - Pub. L. 110-403, Sec. 105(c)(1)(A), inserted "or
+    exportation" after "importation" in section catchline.
+      Subsec. (a). Pub. L. 110-403, Sec. 105(b), inserted heading,
+    designated introductory provisions as par. (1), struck out "This
+    subsection does not apply to - " at end in par. (1), added par. (2)
+    and par. (3) designation, heading, and introductory provisions,
+    redesignated former pars. (1) to (3) as subpars. (A) to (C) of par.
+    (3), respectively, and realigned margins, inserted "or exportation"
+    after "importation" in par. (3)(A), and substituted "importation or
+    exportation, for the private use of the importer or exporter" for
+    "importation, for the private use of the importer" and inserted "or
+    departing from the United States" after "United States" in par.
+    (3)(B).
+      Subsec. (b). Pub. L. 110-403, Sec. 105(c)(1)(B), inserted heading
+    and substituted "United States Customs and Border Protection has"
+    for "the United States Customs Service has" and "United States
+    Customs and Border Protection of" for "the Customs Service of".
 
 -End-
 
 
 
 -CITE-
-    17 USC Sec. 603                                             01/08/2008
+    17 USC Sec. 603                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
-    CHAPTER 6 - MANUFACTURING REQUIREMENTS AND IMPORTATION
+    CHAPTER 6 - MANUFACTURING REQUIREMENTS, IMPORTATION, AND EXPORTATION
 
 -HEAD-
     Sec. 603. Importation prohibitions: Enforcement and disposition of
@@ -19662,7 +19866,7 @@
 
 
 -CITE-
-    17 USC CHAPTER 7 - COPYRIGHT OFFICE                         01/08/2008
+    17 USC CHAPTER 7 - COPYRIGHT OFFICE                         01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -19807,7 +20011,7 @@
 
 
 -CITE-
-    17 USC Sec. 701                                             01/08/2008
+    17 USC Sec. 701                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -19945,7 +20149,7 @@
 
 
 -CITE-
-    17 USC Sec. 702                                             01/08/2008
+    17 USC Sec. 702                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -19969,7 +20173,7 @@
 
 
 -CITE-
-    17 USC Sec. 703                                             01/08/2008
+    17 USC Sec. 703                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -19995,7 +20199,7 @@
 
 
 -CITE-
-    17 USC Sec. 704                                             01/08/2008
+    17 USC Sec. 704                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20078,7 +20282,7 @@
 
 
 -CITE-
-    17 USC Sec. 705                                             01/08/2008
+    17 USC Sec. 705                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20122,7 +20326,7 @@
 
 
 -CITE-
-    17 USC Sec. 706                                             01/08/2008
+    17 USC Sec. 706                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20149,7 +20353,7 @@
 
 
 -CITE-
-    17 USC Sec. 707                                             01/08/2008
+    17 USC Sec. 707                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20186,7 +20390,7 @@
 
 
 -CITE-
-    17 USC Sec. 708                                             01/08/2008
+    17 USC Sec. 708                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20509,7 +20713,7 @@
 
 
 -CITE-
-    17 USC Sec. 709                                             01/08/2008
+    17 USC Sec. 709                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20539,7 +20743,7 @@
 
 
 -CITE-
-    17 USC Sec. 710                                             01/08/2008
+    17 USC Sec. 710                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20563,12 +20767,11 @@
 
 -CITE-    
     17 USC CHAPTER 8 - PROCEEDINGS BY COPYRIGHT ROYALTY
-           JUDGES                                          01/08/2008
+           JUDGES                                          01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
     CHAPTER 8 - PROCEEDINGS BY COPYRIGHT ROYALTY JUDGES
-
 
 -HEAD-
             CHAPTER 8 - PROCEEDINGS BY COPYRIGHT ROYALTY JUDGES        
@@ -20614,7 +20817,7 @@
 
 
 -CITE-
-    17 USC Sec. 801                                             01/08/2008
+    17 USC Sec. 801                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20977,7 +21180,7 @@
 
 
 -CITE-
-    17 USC Sec. 802                                             01/08/2008
+    17 USC Sec. 802                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -21249,7 +21452,7 @@
 
 
 -CITE-
-    17 USC Sec. 803                                             01/08/2008
+    17 USC Sec. 803                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -21904,7 +22107,7 @@
 
 
 -CITE-
-    17 USC Sec. 804                                             01/08/2008
+    17 USC Sec. 804                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -22117,7 +22320,7 @@
 
 
 -CITE-
-    17 USC Sec. 805                                             01/08/2008
+    17 USC Sec. 805                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -22170,7 +22373,7 @@
 
 -CITE-
     17 USC CHAPTER 9 - PROTECTION OF SEMICONDUCTOR CHIP
-           PRODUCTS                                        01/08/2008
+           PRODUCTS                                        01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -22210,7 +22413,7 @@
 
 
 -CITE-
-    17 USC Sec. 901                                             01/08/2008
+    17 USC Sec. 901                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -22296,7 +22499,7 @@
 
 
 -CITE-
-    17 USC Sec. 902                                             01/08/2008
+    17 USC Sec. 902                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -22392,7 +22595,7 @@
 
 
 -CITE-
-    17 USC Sec. 903                                             01/08/2008
+    17 USC Sec. 903                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -22445,7 +22648,7 @@
 
 
 -CITE-
-    17 USC Sec. 904                                             01/08/2008
+    17 USC Sec. 904                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -22476,7 +22679,7 @@
 
 
 -CITE-
-    17 USC Sec. 905                                             01/08/2008
+    17 USC Sec. 905                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -22505,7 +22708,7 @@
 
 
 -CITE-
-    17 USC Sec. 906                                             01/08/2008
+    17 USC Sec. 906                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -22543,7 +22746,7 @@
 
 
 -CITE-
-    17 USC Sec. 907                                             01/08/2008
+    17 USC Sec. 907                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -22590,7 +22793,7 @@
 
 
 -CITE-
-    17 USC Sec. 908                                             01/08/2008
+    17 USC Sec. 908                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -22673,7 +22876,7 @@
 
 
 -CITE-
-    17 USC Sec. 909                                             01/08/2008
+    17 USC Sec. 909                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -22716,7 +22919,7 @@
 
 
 -CITE-
-    17 USC Sec. 910                                             01/08/2008
+    17 USC Sec. 910                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -22821,7 +23024,7 @@
 
 
 -CITE-
-    17 USC Sec. 911                                             01/08/2008
+    17 USC Sec. 911                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -22917,7 +23120,7 @@
 
 
 -CITE-
-    17 USC Sec. 912                                             01/08/2008
+    17 USC Sec. 912                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -22968,7 +23171,7 @@
 
 
 -CITE-
-    17 USC Sec. 913                                             01/08/2008
+    17 USC Sec. 913                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23028,7 +23231,7 @@
 
 
 -CITE-
-    17 USC Sec. 914                                             01/08/2008
+    17 USC Sec. 914                                             01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23228,7 +23431,7 @@
 
 -CITE-
     17 USC CHAPTER 10 - DIGITAL AUDIO RECORDING DEVICES AND
-           MEDIA                                           01/08/2008
+           MEDIA                                           01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23267,7 +23470,7 @@
 
 
 -CITE-
-    17 USC SUBCHAPTER A - DEFINITIONS                           01/08/2008
+    17 USC SUBCHAPTER A - DEFINITIONS                           01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23282,7 +23485,7 @@
 
 
 -CITE-
-    17 USC Sec. 1001                                            01/08/2008
+    17 USC Sec. 1001                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23441,7 +23644,7 @@
 
 
 -CITE-
-    17 USC SUBCHAPTER B - COPYING CONTROLS                      01/08/2008
+    17 USC SUBCHAPTER B - COPYING CONTROLS                      01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23456,7 +23659,7 @@
 
 
 -CITE-
-    17 USC Sec. 1002                                            01/08/2008
+    17 USC Sec. 1002                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23518,7 +23721,7 @@
 
 
 -CITE-
-    17 USC SUBCHAPTER C - ROYALTY PAYMENTS                      01/08/2008
+    17 USC SUBCHAPTER C - ROYALTY PAYMENTS                      01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23533,7 +23736,7 @@
 
 
 -CITE-
-    17 USC Sec. 1003                                            01/08/2008
+    17 USC Sec. 1003                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23585,7 +23788,7 @@
 
 
 -CITE-
-    17 USC Sec. 1004                                            01/08/2008
+    17 USC Sec. 1004                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23687,7 +23890,7 @@
 
 
 -CITE-
-    17 USC Sec. 1005                                            01/08/2008
+    17 USC Sec. 1005                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23730,7 +23933,7 @@
 
 
 -CITE-
-    17 USC Sec. 1006                                            01/08/2008
+    17 USC Sec. 1006                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23838,7 +24041,7 @@
 
 
 -CITE-
-    17 USC Sec. 1007                                            01/08/2008
+    17 USC Sec. 1007                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23982,7 +24185,7 @@
 
 -CITE-
     17 USC SUBCHAPTER D - PROHIBITION ON CERTAIN INFRINGEMENT
-           ACTIONS, REMEDIES, AND ARBITRATION              01/08/2008
+           ACTIONS, REMEDIES, AND ARBITRATION              01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23999,7 +24202,7 @@
 
 
 -CITE-
-    17 USC Sec. 1008                                            01/08/2008
+    17 USC Sec. 1008                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24027,7 +24230,7 @@
 
 
 -CITE-
-    17 USC Sec. 1009                                            01/08/2008
+    17 USC Sec. 1009                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24134,7 +24337,7 @@
 
 
 -CITE-
-    17 USC Sec. 1010                                            01/08/2008
+    17 USC Sec. 1010                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24225,7 +24428,7 @@
 
 
 -CITE-
-    17 USC CHAPTER 11 - SOUND RECORDINGS AND MUSIC VIDEOS       01/08/2008
+    17 USC CHAPTER 11 - SOUND RECORDINGS AND MUSIC VIDEOS       01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24244,7 +24447,7 @@
 
 
 -CITE-
-    17 USC Sec. 1101                                            01/08/2008
+    17 USC Sec. 1101                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24304,7 +24507,7 @@
 
 -CITE-
     17 USC CHAPTER 12 - COPYRIGHT PROTECTION AND MANAGEMENT
-           SYSTEMS                                         01/08/2008
+           SYSTEMS                                         01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24326,7 +24529,7 @@
 
 
 -CITE-
-    17 USC Sec. 1201                                            01/08/2008
+    17 USC Sec. 1201                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24868,7 +25071,7 @@
 
 
 -CITE-
-    17 USC Sec. 1202                                            01/08/2008
+    17 USC Sec. 1202                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25032,7 +25235,7 @@
 
 
 -CITE-
-    17 USC Sec. 1203                                            01/08/2008
+    17 USC Sec. 1203                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25154,7 +25357,7 @@
 
 
 -CITE-
-    17 USC Sec. 1204                                            01/08/2008
+    17 USC Sec. 1204                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25211,7 +25414,7 @@
 
 
 -CITE-
-    17 USC Sec. 1205                                            01/08/2008
+    17 USC Sec. 1205                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25235,7 +25438,7 @@
 
 
 -CITE-
-    17 USC CHAPTER 13 - PROTECTION OF ORIGINAL DESIGNS          01/08/2008
+    17 USC CHAPTER 13 - PROTECTION OF ORIGINAL DESIGNS          01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25286,7 +25489,7 @@
 
 
 -CITE-
-    17 USC Sec. 1301                                            01/08/2008
+    17 USC Sec. 1301                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25302,9 +25505,15 @@
       distinctive in appearance to the purchasing or using public may
       secure the protection provided by this chapter upon complying
       with and subject to this chapter.
-        (2) Vessel hulls. - The design of a vessel hull, including a
-      plug or mold, is subject to protection under this chapter,
-      notwithstanding section 1302(4).
+        (2) Vessel features. - The design of a vessel hull, deck, or
+      combination of a hull and deck, including a plug or mold, is
+      subject to protection under this chapter, notwithstanding section
+      1302(4).
+        (3) Exceptions. - Department of Defense rights in a registered
+      design under this chapter, including the right to build to such
+      registered design, shall be determined solely by operation of
+      section 2320 of title 10 or by the instrument under which the
+      design was developed for the United States Government.
 
       (b) Definitions. - For the purpose of this chapter, the following
     terms have the following meanings:
@@ -25313,11 +25522,11 @@
       variation over prior work pertaining to similar articles which is
       more than merely trivial and has not been copied from another
       source.
-        (2) A "useful article" is a vessel hull, including a plug or
-      mold, which in normal use has an intrinsic utilitarian function
-      that is not merely to portray the appearance of the article or to
-      convey information. An article which normally is part of a useful
-      article shall be deemed to be a useful article.
+        (2) A "useful article" is a vessel hull or deck, including a
+      plug or mold, which in normal use has an intrinsic utilitarian
+      function that is not merely to portray the appearance of the
+      article or to convey information. An article which normally is
+      part of a useful article shall be deemed to be a useful article.
         (3) A "vessel" is a craft - 
           (A) that is designed and capable of independently steering a
         course on or through water through its own means of propulsion;
@@ -25325,8 +25534,9 @@
           (B) that is designed and capable of carrying and transporting
         one or more passengers.
 
-        (4) A "hull" is the frame or body of a vessel, including the
-      deck of a vessel, exclusive of masts, sails, yards, and rigging.
+        (4) A "hull" is the exterior frame or body of a vessel,
+      exclusive of the deck, superstructure, masts, sails, yards,
+      rigging, hardware, fixtures, and other attachments.
         (5) A "plug" means a device or model used to make a mold for
       the purpose of exact duplication, regardless of whether the
       device or model has an intrinsic utilitarian function that is not
@@ -25336,15 +25546,34 @@
       material is used, regardless of whether the matrix or form has an
       intrinsic utilitarian function that is not only to portray the
       appearance of the product or to convey information.
+        (7) A "deck" is the horizontal surface of a vessel that covers
+      the hull, including exterior cabin and cockpit surfaces, and
+      exclusive of masts, sails, yards, rigging, hardware, fixtures,
+      and other attachments.
 
 -SOURCE-
     (Added Pub. L. 105-304, title V, Sec. 502, Oct. 28, 1998, 112 Stat.
     2905; amended Pub. L. 106-113, div. B, Sec. 1000(a)(9) [title V,
-    Sec. 5005(a)(3)], Nov. 29, 1999, 113 Stat. 1536, 1501A-593.)
+    Sec. 5005(a)(3)], Nov. 29, 1999, 113 Stat. 1536, 1501A-593; Pub. L.
+    110-434, Sec. 1(b)-(d), Oct. 16, 2008, 122 Stat. 4972.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (a)(2). Pub. L. 110-434, Sec. 1(b), added par. (2)
+    and struck out former par. (2). Prior to amendment, text read as
+    follows: "The design of a vessel hull, including a plug or mold, is
+    subject to protection under this chapter, notwithstanding section
+    1302(4)."
+      Subsec. (a)(3). Pub. L. 110-434, Sec. 1(c), added par. (3).
+      Subsec. (b)(2). Pub. L. 110-434, Sec. 1(d)(1), substituted
+    "vessel hull or deck, including a plug or mold," for "vessel hull,
+    including a plug or mold,".
+      Subsec. (b)(4). Pub. L. 110-434, Sec. 1(d)(2), added par. (4) and
+    struck out former par. (4) which read as follows: "A 'hull' is the
+    frame or body of a vessel, including the deck of a vessel,
+    exclusive of masts, sails, yards, and rigging."
+      Subsec. (b)(7). Pub. L. 110-434, Sec. 1(d)(3), added par. (7).
       1999 - Subsec. (b)(3). Pub. L. 106-113 amended par. (3)
     generally. Prior to amendment, par. (3) read as follows: "A
     'vessel' is a craft, especially one larger than a rowboat, designed
@@ -25399,7 +25628,7 @@
 
 
 -CITE-
-    17 USC Sec. 1302                                            01/08/2008
+    17 USC Sec. 1302                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25442,7 +25671,7 @@
 
 
 -CITE-
-    17 USC Sec. 1303                                            01/08/2008
+    17 USC Sec. 1303                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25471,7 +25700,7 @@
 
 
 -CITE-
-    17 USC Sec. 1304                                            01/08/2008
+    17 USC Sec. 1304                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25495,7 +25724,7 @@
 
 
 -CITE-
-    17 USC Sec. 1305                                            01/08/2008
+    17 USC Sec. 1305                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25527,7 +25756,7 @@
 
 
 -CITE-
-    17 USC Sec. 1306                                            01/08/2008
+    17 USC Sec. 1306                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25575,7 +25804,7 @@
 
 
 -CITE-
-    17 USC Sec. 1307                                            01/08/2008
+    17 USC Sec. 1307                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25613,7 +25842,7 @@
 
 
 -CITE-
-    17 USC Sec. 1308                                            01/08/2008
+    17 USC Sec. 1308                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25639,7 +25868,7 @@
 
 
 -CITE-
-    17 USC Sec. 1309                                            01/08/2008
+    17 USC Sec. 1309                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25722,7 +25951,7 @@
 
 
 -CITE-
-    17 USC Sec. 1310                                            01/08/2008
+    17 USC Sec. 1310                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25815,7 +26044,7 @@
 
 
 -CITE-
-    17 USC Sec. 1311                                            01/08/2008
+    17 USC Sec. 1311                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25846,7 +26075,7 @@
 
 
 -CITE-
-    17 USC Sec. 1312                                            01/08/2008
+    17 USC Sec. 1312                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25894,7 +26123,7 @@
 
 
 -CITE-
-    17 USC Sec. 1313                                            01/08/2008
+    17 USC Sec. 1313                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25969,7 +26198,7 @@
 
 
 -CITE-
-    17 USC Sec. 1314                                            01/08/2008
+    17 USC Sec. 1314                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26001,7 +26230,7 @@
 
 
 -CITE-
-    17 USC Sec. 1315                                            01/08/2008
+    17 USC Sec. 1315                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26031,7 +26260,7 @@
 
 
 -CITE-
-    17 USC Sec. 1316                                            01/08/2008
+    17 USC Sec. 1316                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26056,7 +26285,7 @@
 
 
 -CITE-
-    17 USC Sec. 1317                                            01/08/2008
+    17 USC Sec. 1317                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26078,7 +26307,7 @@
 
 
 -CITE-
-    17 USC Sec. 1318                                            01/08/2008
+    17 USC Sec. 1318                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26102,7 +26331,7 @@
 
 
 -CITE-
-    17 USC Sec. 1319                                            01/08/2008
+    17 USC Sec. 1319                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26129,7 +26358,7 @@
 
 
 -CITE-
-    17 USC Sec. 1320                                            01/08/2008
+    17 USC Sec. 1320                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26180,7 +26409,7 @@
 
 
 -CITE-
-    17 USC Sec. 1321                                            01/08/2008
+    17 USC Sec. 1321                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26240,7 +26469,7 @@
 
 
 -CITE-
-    17 USC Sec. 1322                                            01/08/2008
+    17 USC Sec. 1322                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26274,7 +26503,7 @@
 
 
 -CITE-
-    17 USC Sec. 1323                                            01/08/2008
+    17 USC Sec. 1323                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26321,7 +26550,7 @@
 
 
 -CITE-
-    17 USC Sec. 1324                                            01/08/2008
+    17 USC Sec. 1324                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26346,7 +26575,7 @@
 
 
 -CITE-
-    17 USC Sec. 1325                                            01/08/2008
+    17 USC Sec. 1325                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26375,7 +26604,7 @@
 
 
 -CITE-
-    17 USC Sec. 1326                                            01/08/2008
+    17 USC Sec. 1326                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26407,7 +26636,7 @@
 
 
 -CITE-
-    17 USC Sec. 1327                                            01/08/2008
+    17 USC Sec. 1327                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26433,7 +26662,7 @@
 
 
 -CITE-
-    17 USC Sec. 1328                                            01/08/2008
+    17 USC Sec. 1328                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26483,7 +26712,7 @@
 
 
 -CITE-
-    17 USC Sec. 1329                                            01/08/2008
+    17 USC Sec. 1329                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26506,7 +26735,7 @@
 
 
 -CITE-
-    17 USC Sec. 1330                                            01/08/2008
+    17 USC Sec. 1330                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26532,7 +26761,7 @@
 
 
 -CITE-
-    17 USC Sec. 1331                                            01/08/2008
+    17 USC Sec. 1331                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26555,7 +26784,7 @@
 
 
 -CITE-
-    17 USC Sec. 1332                                            01/08/2008
+    17 USC Sec. 1332                                            01/05/2009
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS

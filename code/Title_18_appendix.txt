@@ -1,16 +1,18 @@
--CITE-
-    18 USC APPENDIX TITLE 18 - APPENDIX                         01/08/2008
+
+TITLE 18, APPENDIX - UNLAWFUL POSSESSION OR RECEIPT OF FIREARMS-CITE-
+    18 USC APPENDIX TITLE 18 - APPENDIX                         01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
     
--HEAD-     
+-HEAD-    
     TITLE 18 - APPENDIX
 
 
 -MISC1-
-    Item                                                             Page
-     
+Item
+                                                                    Page
+
     Unlawful Possession or Receipt of Firearms (Repealed)            809
     Interstate Agreement on Detainers (Pub. L. 91-538)               810
     Classified Information Procedures Act (Pub. L. 96-456)           814
@@ -23,7 +25,7 @@
 
 -CITE-
     18 USC APPENDIX UNLAWFUL POSSESSION OR RECEIPT
-      OF FIREARMS                                          01/08/2008
+      OF FIREARMS                                          01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -38,7 +40,7 @@
 
 
 -CITE-
-    18 USC APPENDIX Secs. 1201 to 1203                          01/08/2008
+    18 USC APPENDIX Secs. 1201 to 1203                          01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -84,7 +86,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 -CITE-
     18 USC APPENDIX INTERSTATE AGREEMENT ON
-      DETAINERS                                            01/08/2008
+      DETAINERS                                            01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -105,7 +107,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 
 -CITE-
-    18 USC APPENDIX Sec. 1                                      01/08/2008
+    18 USC APPENDIX Sec. 1                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -126,7 +128,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 
 -CITE-
-    18 USC APPENDIX Sec. 2                                      01/08/2008
+    18 USC APPENDIX Sec. 2                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -403,7 +405,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 
 -CITE-
-    18 USC APPENDIX Sec. 3                                      01/08/2008
+    18 USC APPENDIX Sec. 3                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -438,7 +440,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 
 -CITE-
-    18 USC APPENDIX Sec. 4                                      01/08/2008
+    18 USC APPENDIX Sec. 4                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -463,7 +465,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 
 -CITE-
-    18 USC APPENDIX Sec. 5                                      01/08/2008
+    18 USC APPENDIX Sec. 5                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -489,7 +491,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 
 -CITE-
-    18 USC APPENDIX Sec. 6                                      01/08/2008
+    18 USC APPENDIX Sec. 6                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -524,7 +526,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 
 -CITE-
-    18 USC APPENDIX Sec. 7                                      01/08/2008
+    18 USC APPENDIX Sec. 7                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -545,7 +547,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 
 -CITE-
-    18 USC APPENDIX Sec. 8                                      01/08/2008
+    18 USC APPENDIX Sec. 8                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -571,7 +573,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 
 -CITE-
-    18 USC APPENDIX Sec. 9                                      01/08/2008
+    18 USC APPENDIX Sec. 9                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -608,7 +610,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 -CITE-
     18 USC APPENDIX CLASSIFIED INFORMATION
-      PROCEDURES ACT                                       01/08/2008
+      PROCEDURES ACT                                       01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -634,7 +636,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 1                                      01/08/2008
+    18 USC APPENDIX Sec. 1                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -662,7 +664,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 2                                      01/08/2008
+    18 USC APPENDIX Sec. 2                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -695,7 +697,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 3                                      01/08/2008
+    18 USC APPENDIX Sec. 3                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -718,7 +720,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 4                                      01/08/2008
+    18 USC APPENDIX Sec. 4                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -750,7 +752,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 5                                      01/08/2008
+    18 USC APPENDIX Sec. 5                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -796,7 +798,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 6                                      01/08/2008
+    18 USC APPENDIX Sec. 6                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -921,7 +923,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 7                                      01/08/2008
+    18 USC APPENDIX Sec. 7                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -962,7 +964,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 8                                      01/08/2008
+    18 USC APPENDIX Sec. 8                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1003,7 +1005,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 9                                      01/08/2008
+    18 USC APPENDIX Sec. 9                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1327,7 +1329,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 9A                                     01/08/2008
+    18 USC APPENDIX Sec. 9A                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1380,7 +1382,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 10                                     01/08/2008
+    18 USC APPENDIX Sec. 10                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1407,7 +1409,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 11                                     01/08/2008
+    18 USC APPENDIX Sec. 11                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1428,7 +1430,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 12                                     01/08/2008
+    18 USC APPENDIX Sec. 12                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1471,7 +1473,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 13                                     01/08/2008
+    18 USC APPENDIX Sec. 13                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1525,7 +1527,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 14                                     01/08/2008
+    18 USC APPENDIX Sec. 14                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1558,7 +1560,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 15                                     01/08/2008
+    18 USC APPENDIX Sec. 15                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1586,7 +1588,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 16                                     01/08/2008
+    18 USC APPENDIX Sec. 16                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1607,7 +1609,7 @@ TITLE 18, APPENDIX - RULES OF EVIDENCE
 
 
 -CITE-
-    18 USC APPENDIX FEDERAL RULES OF EVIDENCE                   01/08/2008
+    18 USC APPENDIX FEDERAL RULES OF EVIDENCE                   01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1624,7 +1626,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 -CITE-
     18 USC APPENDIX FEDERAL RULES OF CRIMINAL
-      PROCEDURE                                            01/08/2008
+      PROCEDURE                                            01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1635,7 +1637,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -MISC1-
-                      (AS AMENDED TO JANUARY 2, 2008)                  
+                      (AS AMENDED TO JANUARY 5, 2009)                  
 
                                                                 
 
@@ -1681,7 +1683,8 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     Pub. L. 108-21, title VI, Sec. 610(b), 117 Stat. 692; Apr. 26,
     2004, eff. Dec. 1, 2004; Pub. L. 108-458, title VI, Sec. 6501(a),
     Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005;
-    Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007.
+    Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007;
+    Apr. 23, 2008, eff. Dec. 1, 2008.
 
                           TITLE I. APPLICABILITY                      
     Rule                                                     
@@ -1739,7 +1742,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     31.         Jury Verdict.                                         
 
                    TITLE VII. POST-CONVICTION PROCEDURES               
-    32.         Sentence and Judgment.                                
+    32.         Sentencing and Judgment.                              
     32.1.       Revoking or Modifying Probation or Supervised Release.
     32.2.       Criminal Forfeiture.                                  
     33.         New Trial.                                            
@@ -1776,13 +1779,14 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     57.         District Court Rules.                                 
     58.         Petty Offenses and Other Misdemeanors.                
     59.         Matters Before a Magistrate Judge.                    
-    60.         Title.                                                
+    60.         Victim's Rights.                                      
+    61.         Title.                                                
 
 -End-
 
 
 -CITE-
-    18 USC APPENDIX TITLE I. APPLICABILITY                      01/08/2008
+    18 USC APPENDIX TITLE I. APPLICABILITY                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1797,7 +1801,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 1                                      01/08/2008
+    18 USC APPENDIX Rule 1                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1878,6 +1882,9 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
         of Columbia or in any commonwealth, territory, or possession to
         perform a function to which a particular rule relates.
 
+        (11) "Victim" means a "crime victim" as defined in 18 U.S.C.
+      Sec. 3771(e).
+
       (c) Authority of a Justice or Judge of the United States. When
     these rules authorize a magistrate judge to act, any other federal
     judge may also act.
@@ -1885,7 +1892,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 -SOURCE-
     (As amended Apr. 24, 1972, eff. Oct. 1, 1972; Apr. 28, 1982, eff.
     Aug. 1, 1982; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff.
-    Dec. 1, 2002.)
+    Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008.)
 
 
 -MISC1-
@@ -2064,12 +2071,31 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     throughout the Criminal Rules. These changes are intended to be
     stylistic only.
 
+                 COMMITTEE NOTES ON RULES - 2008 AMENDMENT             
+      Subdivision (b)(ll). This amendment incorporates the definition
+    of the term "crime victim" found in the Crime Victims' Rights Act,
+    codified at 18 U.S.C. Sec. 3771(e). It provides that "the term
+    'crime victim' means a person directly and proximately harmed as a
+    result of the commission of a Federal offense or an offense in the
+    District of Columbia."
+      Upon occasion, disputes may arise over the question whether a
+    particular person is a victim. Although the rule makes no special
+    provision for such cases, the courts have the authority to do any
+    necessary fact finding and make any necessary legal rulings.
+      Changes Made to Proposed Amendment Released for Public Comment.
+    The Committee revised the text of Rule 1(b)(11) in response to
+    public comments by transferring portions of the subdivision
+    relating to who may assert the rights of a victim to Rule 60(b)(2).
+    The Committee Note was revised to reflect that change and to
+    indicate that the Court has the power to decide any dispute as to
+    who is a victim.
+
 -End-
 
 
 
 -CITE-
-    18 USC APPENDIX Rule 2                                      01/08/2008
+    18 USC APPENDIX Rule 2                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -2113,7 +2139,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 -CITE-
     18 USC APPENDIX TITLE II. PRELIMINARY
-      PROCEEDINGS                                          01/08/2008
+      PROCEEDINGS                                          01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -2128,7 +2154,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 3                                      01/08/2008
+    18 USC APPENDIX Rule 3                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -2199,7 +2225,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 4                                      01/08/2008
+    18 USC APPENDIX Rule 4                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -2640,7 +2666,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 5                                      01/08/2008
+    18 USC APPENDIX Rule 5                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -3241,7 +3267,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 5.1                                    01/08/2008
+    18 USC APPENDIX Rule 5.1                                    01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -3594,7 +3620,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 -CITE-
     18 USC APPENDIX TITLE III. THE GRAND JURY, THE
-      INDICTMENT, AND THE INFORMATION                      01/08/2008
+      INDICTMENT, AND THE INFORMATION                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -3609,7 +3635,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 6                                      01/08/2008
+    18 USC APPENDIX Rule 6                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -5095,12 +5121,12 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
           government, when sought by a foreign court or prosecutor for
           use in an official criminal investigation';
             "(ii) in subclause (IV) - 
-               "(I) by inserting 'or foreign' after 'may disclose 
-               a violation of State';
-               "(II) by inserting 'or of a foreign government' 
-               after 'to an appropriate official of a State or 
-               subdivision of a State'; and
-               "(III) by striking 'or' at the end;
+              "(I) by inserting 'or foreign' after 'may disclose a 
+                violation of State';
+              "(II) by inserting 'or of a foreign government' after
+                 'to an appropriate official of a State or subdivision
+                 of a State'; and
+              "(III) by striking 'or' at the end;
             "(iii) by striking the period at the end of subclause (V)
           and inserting '; or'; and
             "(iv) by adding at the end the following:
@@ -5174,7 +5200,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 7                                      01/08/2008
+    18 USC APPENDIX Rule 7                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -5477,7 +5503,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 8                                      01/08/2008
+    18 USC APPENDIX Rule 8                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -5527,7 +5553,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 9                                      01/08/2008
+    18 USC APPENDIX Rule 9                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -5768,7 +5794,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 -CITE-
     18 USC APPENDIX TITLE IV. ARRAIGNMENT AND
-      PREPARATION FOR TRIAL                                01/08/2008
+      PREPARATION FOR TRIAL                                01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -5783,7 +5809,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 10                                     01/08/2008
+    18 USC APPENDIX Rule 10                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -6002,7 +6028,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 11                                     01/08/2008
+    18 USC APPENDIX Rule 11                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -8035,7 +8061,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 12                                     01/08/2008
+    18 USC APPENDIX Rule 12                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -8627,7 +8653,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 12.1                                   01/08/2008
+    18 USC APPENDIX Rule 12.1                                   01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -8653,14 +8679,27 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
         witness on whom the defendant intends to rely.
 
       (b) Disclosing Government Witnesses.
-        (1) Disclosure. If the defendant serves a Rule 12.1(a)(2)
-      notice, an attorney for the government must disclose in writing
-      to the defendant or the defendant's attorney:
-          (A) the name, address, and telephone number of each witness
-        the government intends to rely on to establish the defendant's
-        presence at the scene of the alleged offense; and
-          (B) each government rebuttal witness to the defendant's alibi
-        defense.
+        (1) Disclosure.
+          (A) In General. If the defendant serves a Rule 12.1(a)(2)
+        notice, an attorney for the government must disclose in writing
+        to the defendant or the defendant's attorney:
+            (i) the name of each witness - and the address and
+          telephone number of each witness other than a victim - that
+          the government intends to rely on to establish that the
+          defendant was present at the scene of the alleged offense;
+          and
+            (ii) each government rebuttal witness to the defendant's
+          alibi defense.
+
+          (B) Victim's Address and Telephone Number. If the government
+        intends to rely on a victim's testimony to establish that the
+        defendant was present at the scene of the alleged offense and
+        the defendant establishes a need for the victim's address and
+        telephone number, the court may:
+            (i) order the government to provide the information in
+          writing to the defendant or the defendant's attorney; or
+            (ii) fashion a reasonable procedure that allows preparation
+          of the defense and also protects the victim's interests.
 
         (2) Time to Disclose. Unless the court directs otherwise, an
       attorney for the government must give its Rule 12.1(b)(1)
@@ -8668,14 +8707,22 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       intended alibi defense under Rule 12.1(a)(2), but no later than
       10 days before trial.
 
-      (c) Continuing Duty to Disclose. Both an attorney for the
-    government and the defendant must promptly disclose in writing to
-    the other party the name, address, and telephone number of each
-    additional witness if:
-        (1) the disclosing party learns of the witness before or during
-      trial; and
-        (2) the witness should have been disclosed under Rule 12.1(a)
-      or (b) if the disclosing party had known of the witness earlier.
+      (c) Continuing Duty to Disclose.
+        (1) In General. Both an attorney for the government and the
+      defendant must promptly disclose in writing to the other party
+      the name of each additional witness - and the address and
+      telephone number of each additional witness other than a victim -
+      if:
+          (A) the disclosing party learns of the witness before or
+        during trial; and
+          (B) the witness should have been disclosed under Rule 12.1(a)
+        or (b) if the disclosing party had known of the witness
+        earlier.
+
+        (2) Address and Telephone Number of an Additional Victim
+      Witness. The address and telephone number of an additional victim
+      witness must not be disclosed except as provided in Rule 12.1
+      (b)(1)(B).
 
       (d) Exceptions. For good cause, the court may grant an exception
     to any requirement of Rule 12.1(a)-(c).
@@ -8693,7 +8740,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     (Added Apr. 22, 1974, eff. Dec. 1, 1975; amended Pub. L. 94-64,
     Sec. 3(13), July 31, 1975, 89 Stat. 372; Apr. 29, 1985, eff. Aug.
     1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec.
-    1, 2002.)
+    1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008.)
 
 
 -MISC1-
@@ -8886,6 +8933,28 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     The Committee believed that requiring such information would
     facilitate locating and interviewing those witnesses.
 
+                 COMMITTEE NOTES ON RULES - 2008 AMENDMENT             
+      Subdivisions (b) and (c). The amendment implements the Crime
+    Victims' Rights Act, which states that victims have the right to be
+    reasonably protected from the accused and to be treated with
+    respect for the victim's dignity and privacy. See 18 U.S.C. Sec.
+    3771(a)(l) & (8). The rule provides that a victim's address and
+    telephone number should not automatically be provided to the
+    defense when an alibi defense is raised. If a defendant establishes
+    a need for this information, the court has discretion to order its
+    disclosure or to fashion an alternative procedure that provides the
+    defendant with the information necessary to prepare a defense, but
+    also protects the victim's interests.
+      In the case of victims who will testify concerning an alibi
+    claim, the same procedures and standards apply to both the
+    prosecutor's initial disclosure and the prosecutor's continuing
+    duty to disclose under subdivision (c).
+      Changes Made to Proposed Amendment Released for Public Comment.
+    The Committee made very minor changes in the text at the suggestion
+    of the Style Consultant. The Committee revised the Note in response
+    to public comments, omitting the suggestion that the court might
+    upon occasion have the defendant and victim meet.
+
                           AMENDMENT BY PUBLIC LAW                      
       1975 - Pub. L. 94-64 amended Rule 12.1 generally.
 
@@ -8899,7 +8968,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 12.2                                   01/08/2008
+    18 USC APPENDIX Rule 12.2                                   01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -9608,7 +9677,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 12.3                                   01/08/2008
+    18 USC APPENDIX Rule 12.3                                   01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -9711,7 +9780,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 12.4                                   01/08/2008
+    18 USC APPENDIX Rule 12.4                                   01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -9814,7 +9883,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 13                                     01/08/2008
+    18 USC APPENDIX Rule 13                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -9854,7 +9923,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 14                                     01/08/2008
+    18 USC APPENDIX Rule 14                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -9928,7 +9997,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 15                                     01/08/2008
+    18 USC APPENDIX Rule 15                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -10440,7 +10509,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 16                                     01/08/2008
+    18 USC APPENDIX Rule 16                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -11932,7 +12001,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 17                                     01/08/2008
+    18 USC APPENDIX Rule 17                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -11966,6 +12035,14 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
         (2) Quashing or Modifying the Subpoena. On motion made
       promptly, the court may quash or modify the subpoena if
       compliance would be unreasonable or oppressive.
+        (3) Subpoena for Personal or Confidential Information About a
+      Victim. After a complaint, indictment, or information is filed, a
+      subpoena requiring the production of personal or confidential
+      information about a victim may be served on a third party only by
+      court order. Before entering the order and unless there are
+      exceptional circumstances, the court must require giving notice
+      to the victim so that the victim can move to quash or modify the
+      subpoena or otherwise object.
 
       (d) Service. A marshal, a deputy marshal, or any nonparty who is
     at least 18 years old may serve a subpoena. The server must deliver
@@ -12005,7 +12082,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     Dec. 1, 1975; Pub. L. 94-64, Sec. 3(29), July 31, 1975, 89 Stat.
     375; Apr. 30, 1979, eff. Dec. 1, 1980; Mar. 9, 1987, eff. Aug. 1,
     1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 29, 2002, eff. Dec. 1,
-    2002.)
+    2002; Apr. 23, 2008, eff. Dec. 1, 2008.)
 
 
 -MISC1-
@@ -12142,6 +12219,52 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       Rule 17(g) has been amended to recognize the contempt powers of a
     court (other than a magistrate judge) and a magistrate judge.
 
+                 COMMITTEE NOTES ON RULES - 2008 AMENDMENT             
+      Subdivision (c)(3). This amendment implements the Crime Victims'
+    Rights Act, codified at 18 U.S.C. Sec. 3771(a)(8), which states
+    that victims have a right to respect for their "dignity and
+    privacy." The rule provides a protective mechanism when the defense
+    subpoenas a third party to provide personal or confidential
+    information about a victim. Third party subpoenas raise special
+    concerns because a third party may not assert the victim's
+    interests, and the victim may be unaware of the subpoena.
+    Accordingly, the amendment requires judicial approval before
+    service of a subpoena seeking personal or confidential information
+    about a victim from a third party. The phrase "personal or
+    confidential information," which may include such things as medical
+    or school records, is left to case development.
+      The amendment provides a mechanism for notifying the victim, and
+    makes it clear that a victim may move to quash or modify the
+    subpoena under Rule 17(c)(2) - or object by other means such as a
+    letter - on the grounds that it is unreasonable or oppressive. The
+    rule recognizes, however, that there may be exceptional
+    circumstances in which this procedure may not be appropriate. Such
+    exceptional circumstances would include, evidence that might be
+    lost or destroyed if the subpoena were delayed or a situation where
+    the defense would be unfairly prejudiced by premature disclosure of
+    a sensitive defense strategy. The Committee leaves to the judgment
+    of the court a determination as to whether the judge will permit
+    the question whether such exceptional circumstances exist to be
+    decided ex parte and authorize service of the third-party subpoena
+    without notice to anyone.
+      The amendment applies only to subpoenas served after a complaint,
+    indictment, or information has been filed. It has no application to
+    grand jury subpoenas. When the grand jury seeks the production of
+    personal or confidential information, grand jury secrecy affords
+    substantial protection for the victim's privacy and dignity
+    interests.
+      Changes Made to Proposed Amendment Released for Public Comment.
+    The proposed amendment omits the language providing for ex parte
+    issuance of a court order authorizing a subpoena to a third party
+    for private or confidential information about a victim. The last
+    sentence of the amendment was revised to provide that unless there
+    are exceptional circumstances the court must give the victim notice
+    before a subpoena seeking the victim's personal or confidential
+    information can be served upon a third party. It was also revised
+    to add the language "or otherwise object" to make it clear that the
+    victim's objection might be lodged by means other than a motion,
+    such as a letter to the court.
+
                           AMENDMENT BY PUBLIC LAW                      
       1975 - Subd. (f)(2). Pub. L. 94-64 amended par. (2) generally.
 
@@ -12171,7 +12294,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 17.1                                   01/08/2008
+    18 USC APPENDIX Rule 17.1                                   01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -12241,7 +12364,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX TITLE V. VENUE                              01/08/2008
+    18 USC APPENDIX TITLE V. VENUE                              01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -12256,7 +12379,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 18                                     01/08/2008
+    18 USC APPENDIX Rule 18                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -12270,12 +12393,14 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       Unless a statute or these rules permit otherwise, the government
     must prosecute an offense in a district where the offense was
     committed. The court must set the place of trial within the
-    district with due regard for the convenience of the defendant and
-    the witnesses, and the prompt administration of justice.
+    district with due regard for the convenience of the defendant, any
+    victim, and the witnesses, and the prompt administration of
+    justice.
 
 -SOURCE-
     (As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 30, 1979, eff.
-    Aug. 1, 1979; Apr. 29, 2002, eff. Dec. 1, 2002.)
+    Aug. 1, 1979; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff.
+    Dec. 1, 2008.)
 
 
 -MISC1-
@@ -12525,12 +12650,25 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     and to make style and terminology consistent throughout the rules.
     These changes are intended to be stylistic only.
 
+                 COMMITTEE NOTES ON RULES - 2008 AMENDMENT             
+      The rule requires the court to consider the convenience of
+    victims - as well as the defendant and witnesses - in setting the
+    place for trial within the district. The Committee recognizes that
+    the court has substantial discretion to balance any competing
+    interests.
+      Changes Made to Proposed Amendment Released for Public Comment.
+    There were no changes in the text of the rule. The Committee Note
+    was amended to delete a statutory reference that commentators found
+    misleading, and to draw attention to the court's discretion to
+    balance the competing interests, which may be more important as the
+    court must consider a new set of interests.
+
 -End-
 
 
 
 -CITE-
-    18 USC APPENDIX Rule 19                                     01/08/2008
+    18 USC APPENDIX Rule 19                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -12547,7 +12685,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 20                                     01/08/2008
+    18 USC APPENDIX Rule 20                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -12795,7 +12933,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 21                                     01/08/2008
+    18 USC APPENDIX Rule 21                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -12934,7 +13072,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 22                                     01/08/2008
+    18 USC APPENDIX Rule 22                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -12956,7 +13094,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX TITLE VI. TRIAL                             01/08/2008
+    18 USC APPENDIX TITLE VI. TRIAL                             01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -12971,7 +13109,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 23                                     01/08/2008
+    18 USC APPENDIX Rule 23                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -13289,7 +13427,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 24                                     01/08/2008
+    18 USC APPENDIX Rule 24                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -13485,7 +13623,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 25                                     01/08/2008
+    18 USC APPENDIX Rule 25                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -13571,7 +13709,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 26                                     01/08/2008
+    18 USC APPENDIX Rule 26                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -13681,7 +13819,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 26.1                                   01/08/2008
+    18 USC APPENDIX Rule 26.1                                   01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -13788,7 +13926,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 26.2                                   01/08/2008
+    18 USC APPENDIX Rule 26.2                                   01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -14046,7 +14184,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 26.3                                   01/08/2008
+    18 USC APPENDIX Rule 26.3                                   01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -14108,7 +14246,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 27                                     01/08/2008
+    18 USC APPENDIX Rule 27                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -14284,7 +14422,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 28                                     01/08/2008
+    18 USC APPENDIX Rule 28                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -14365,7 +14503,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 29                                     01/08/2008
+    18 USC APPENDIX Rule 29                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -14637,7 +14775,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 29.1                                   01/08/2008
+    18 USC APPENDIX Rule 29.1                                   01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -14703,7 +14841,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 30                                     01/08/2008
+    18 USC APPENDIX Rule 30                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -14806,7 +14944,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 31                                     01/08/2008
+    18 USC APPENDIX Rule 31                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -14945,7 +15083,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 -CITE-
     18 USC APPENDIX TITLE VII. POST-CONVICTION
-           PROCEDURES                                      01/08/2008
+           PROCEDURES                                      01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -14960,7 +15098,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 32                                     01/08/2008
+    18 USC APPENDIX Rule 32                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -14968,20 +15106,10 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     TITLE VII. POST-CONVICTION PROCEDURES
 
 -HEAD-
-    Rule 32. Sentence and Judgment
+    Rule 32. Sentencing and Judgment
 
 -STATUTE-
-      (a) Definitions. The following definitions apply under this rule:
-        (1) "Crime of violence or sexual abuse" means:
-          (A) a crime that involves the use, attempted use, or
-        threatened use of physical force against another's person or
-        property; or
-          (B) a crime under 18 U.S.C. Secs. 2241-2248 or Secs. 2251-
-        2257.
-
-        (2) "Victim" means an individual against whom the defendant
-      committed an offense for which the court will impose sentence.
-
+      (a) [Reserved.]
       (b) Time of Sentencing.
         (1) In General. The court must impose sentence without
       unnecessary delay.
@@ -15000,7 +15128,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
           under 18 U.S.C. Sec. 3553, and the court explains its finding
           on the record.
 
-          (B) Restitution. If the law requires restitution, the
+          (B) Restitution. If the law permits restitution, the
         probation officer must conduct an investigation and submit a
         report that contains sufficient information for the court to
         order restitution.
@@ -15028,7 +15156,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
         sentencing range.
 
         (2) Additional Information. The presentence report must also
-      contain the following information:
+      contain the following:
           (A) the defendant's history and characteristics, including:
             (i) any prior criminal record;
             (ii) the defendant's financial condition; and
@@ -15036,10 +15164,8 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
           that may be helpful in imposing sentence or in correctional
           treatment;
 
-          (B) verified information, stated in a nonargumentative style,
-        that assesses the financial, social, psychological, and medical
-        impact on any individual against whom the offense has been
-        committed;
+          (B) information that assesses any financial, social,
+        psychological, and medical impact on any victim;
           (C) when appropriate, the nature and extent of nonprison
         programs and resources available to the defendant;
           (D) when the law provides for restitution, information
@@ -15146,16 +15272,8 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
           to speak equivalent to that of the defendant's attorney.
 
           (B) By a Victim. Before imposing sentence, the court must
-        address any victim of a crime of violence or sexual abuse who
-        is present at sentencing and must permit the victim to speak or
-        submit any information about the sentence. Whether or not the
-        victim is present, a victim's right to address the court may be
-        exercised by the following persons if present:
-            (i) a parent or legal guardian, if the victim is younger
-          than 18 years or is incompetent; or
-            (ii) one or more family members or relatives the court
-          designates, if the victim is deceased or incapacitated.
-
+        address any victim of the crime who is present at sentencing
+        and must permit the victim to be reasonably heard.
           (C) In Camera Proceedings. Upon a party's motion and for good
         cause, the court may hear in camera any statement made under
         Rule 32(i)(4).
@@ -15200,7 +15318,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     13, 1994, 108 Stat. 2078; Apr. 23, 1996, eff. Dec. 1, 1996; Pub. L.
     104-132, title II, Sec. 207(a), Apr. 24, 1996, 110 Stat. 1236; Apr.
     17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff. Dec. 1, 2002; Apr.
-    30, 2007, eff. Dec. 1, 2007.)
+    30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008.)
 
 
 -MISC1-
@@ -16584,6 +16702,52 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     deleted the reference in the Committee Note to the Fifth Amendment
     from the description of the Supreme Court's decision in Booker.
 
+                 COMMITTEE NOTES ON RULES - 2008 AMENDMENT             
+      Subdivision (a). The Crime Victims' Rights Act, codified as 18
+    U.S.C. Sec. 3771(e), adopted a new definition of the term "crime
+    victim." The new statutory definition has been incorporated in an
+    amendment to Rule 1, which supersedes the provisions that have been
+    deleted here.
+      Subdivision (c)(l). This amendment implements the victim's
+    statutory right under the Crime Victims' Rights Act to "full and
+    timely restitution as provided in law." See 18 U.S.C. Sec.
+    3771(a)(6). Whenever the law permits restitution, the presentence
+    investigation report should contain information permitting the
+    court to determine whether restitution is appropriate.
+      Subdivision (d)(2)(B). This amendment implements the Crime
+    Victims' Rights Act, codified at 18 U.S.C. Sec. 3771. The amendment
+    makes it clear that victim impact information should be treated in
+    the same way as other information contained in the presentence
+    report. It deletes language requiring victim impact information to
+    be "verified" and "stated in a nonargumentative style" because that
+    language does not appear in the other subparagraphs of Rule
+    32(d)(2).
+      Subdivision (i)(4). The deleted language, referring only to
+    victims of crimes of violence or sexual abuse, has been superseded
+    by the Crime Victims' Rights Act, 18 U.S.C. Sec. 3771(e). The act
+    defines the term "crime victim" without limiting it to certain
+    crimes, and provides that crime victims, so defined, have a right
+    to be reasonably heard at all public court proceedings regarding
+    sentencing. A companion amendment to Rule 1(b) adopts the statutory
+    definition as the definition of the term "victim" for purposes of
+    the Federal Rules of Criminal Procedure, and explains who may raise
+    the rights of a victim, so the language in this subdivision is no
+    longer needed.
+      Subdivision (i)(4) has also been amended to incorporate the
+    statutory language of the Crime Victims' Rights Act, which provides
+    that victims have the right "to be reasonably heard" in judicial
+    proceedings regarding sentencing. See 18 U.S.C. Sec. 3771(a)(4).
+    The amended rule provides that the judge must speak to any victim
+    present in the courtroom at sentencing. Absent unusual
+    circumstances, any victim who is present should be allowed a
+    reasonable opportunity to speak directly to the judge.
+      Changes Made to Proposed Amendment Released for Public Comment.
+    No changes were made in the text of the rule. In response to public
+    comments, the Committee Note was amended to make it clear that
+    absent unusual circumstances any victim who is in the courtroom
+    should have a reasonable opportunity to speak directly to the
+    judge.
+
                           AMENDMENT BY PUBLIC LAW                      
       1996 - Subd. (b)(1). Pub. L. 104-132, Sec. 207(a)(1), inserted at
     end "Notwithstanding the preceding sentence, a presentence
@@ -16737,7 +16901,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 32.1                                   01/08/2008
+    18 USC APPENDIX Rule 32.1                                   01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -17216,7 +17380,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 32.2                                   01/08/2008
+    18 USC APPENDIX Rule 32.2                                   01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -17857,7 +18021,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 33                                     01/08/2008
+    18 USC APPENDIX Rule 33                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -18010,7 +18174,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 34                                     01/08/2008
+    18 USC APPENDIX Rule 34                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -18123,7 +18287,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 35                                     01/08/2008
+    18 USC APPENDIX Rule 35                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -18738,7 +18902,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 36                                     01/08/2008
+    18 USC APPENDIX Rule 36                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -18775,7 +18939,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 37                                     01/08/2008
+    18 USC APPENDIX Rule 37                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -18792,7 +18956,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 38                                     01/08/2008
+    18 USC APPENDIX Rule 38                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -19043,7 +19207,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 39                                     01/08/2008
+    18 USC APPENDIX Rule 39                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -19060,7 +19224,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 -CITE-
     18 USC APPENDIX TITLE VIII. SUPPLEMENTARY AND
-      SPECIAL PROCEEDINGS                                  01/08/2008
+      SPECIAL PROCEEDINGS                                  01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -19075,7 +19239,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 40                                     01/08/2008
+    18 USC APPENDIX Rule 40                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -19653,7 +19817,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 41                                     01/08/2008
+    18 USC APPENDIX Rule 41                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -19699,12 +19863,26 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       terrorism or international terrorism - with authority in any
       district in which activities related to the terrorism may have
       occurred has authority to issue a warrant for a person or
-      property within or outside that district; and
+      property within or outside that district;
         (4) a magistrate judge with authority in the district has
       authority to issue a warrant to install within the district a
       tracking device; the warrant may authorize use of the device to
       track the movement of a person or property located within the
-      district, outside the district, or both.
+      district, outside the district, or both; and
+        (5) a magistrate judge having authority in any district where
+      activities related to the crime may have occurred, or in the
+      District of Columbia, may issue a warrant for property that is
+      located outside the jurisdiction of any state or district, but
+      within any of the following:
+          (A) a United States territory, possession, or commonwealth;
+          (B) the premises - no matter who owns them - of a United
+        States diplomatic or consular mission in a foreign state,
+        including any appurtenant building, part of a building, or land
+        used for the mission's purposes; or
+          (C) a residence and any appurtenant land owned or leased by
+        the United States and used by United States personnel assigned
+        to a United States diplomatic or consular mission in a foreign
+        state.
 
       (c) Persons or Property Subject to Search or Seizure. A warrant
     may be issued for any of the following:
@@ -19893,7 +20071,8 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     Apr. 25, 1989, eff. Dec. 1, 1989; May 1, 1990, eff. Dec. 1, 1990;
     Apr. 22, 1993, eff. Dec. 1, 1993; Pub. L. 107-56, title II, Sec.
     219, Oct. 26, 2001, 115 Stat. 291; Apr. 29, 2002, eff. Dec. 1,
-    2002; Apr. 12, 2006, eff. Dec. 1, 2006.)
+    2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 23, 2008, eff. Dec. 1,
+    2008.)
 
 
 -MISC1-
@@ -21030,6 +21209,44 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     41(d), regarding the finding of probable cause. The Committee also
     made minor clarifying changes in the Committee Note.
 
+                 COMMITTEE NOTES ON RULES - 2008 AMENDMENT             
+      Subdivision (b)(5). Rule 41(b)(5) authorizes a magistrate judge
+    to issue a search warrant for property located within certain
+    delineated parts of United States jurisdiction that are outside of
+    any State or any federal judicial district. The locations covered
+    by the rule include United States territories, possessions, and
+    commonwealths not within a federal judicial district as well as
+    certain premises associated with United States diplomatic and
+    consular missions. These are locations in which the United States
+    has a legally cognizable interest or in which it exerts lawful
+    authority and control. The rule is intended to authorize a
+    magistrate judge to issue a search warrant in any of the locations
+    for which 18 U.S.C. Sec. 7(9) provides jurisdiction. The difference
+    between the language in this rule and the statute reflect the style
+    conventions used in these rules, rather than any intention to alter
+    the scope of the legal authority conferred. Under the rule, a
+    warrant may be issued by a magistrate judge in any district in
+    which activities related to the crime under investigation may have
+    occurred, or in the District of Columbia, which serves as the
+    default district for venue under 18 U.S.C. Sec. 3238.
+      Rule 41(b)(5) provides the authority to issue warrants for the
+    seizure of property in the designated locations when law
+    enforcement officials are required or find it desirable to obtain
+    such warrants. The Committee takes no position on the question
+    whether the Constitution requires a warrant for searches covered by
+    the rule, or whether any international agreements, treaties, or
+    laws of a foreign nation might be applicable. The rule does not
+    address warrants for persons, which could be viewed as inconsistent
+    with extradition requirements.
+      Changes Made to Proposed Amendment Released for Public Comment.
+    With the assistance of the Style Consultant, the Committee revised
+    (b)(5)(B) and (C) for greater clarity and compliance with the style
+    conventions governing these rules. Because the language no longer
+    tracks precisely the statute, the Committee Note was revised to
+    state that the proposed rule is intended to have the same scope as
+    the jurisdictional provision upon which it was based, 18 U.S.C.
+    Sec. 7(9).
+
                           AMENDMENT BY PUBLIC LAW                      
       2001 - Subd. (a). Pub. L. 107-56 inserted before period at end
     "and (3) in an investigation of domestic terrorism or international
@@ -21060,7 +21277,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 42                                     01/08/2008
+    18 USC APPENDIX Rule 42                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -21294,7 +21511,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX TITLE IX. GENERAL PROVISIONS                01/08/2008
+    18 USC APPENDIX TITLE IX. GENERAL PROVISIONS                01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -21309,7 +21526,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 43                                     01/08/2008
+    18 USC APPENDIX Rule 43                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -21607,7 +21824,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 44                                     01/08/2008
+    18 USC APPENDIX Rule 44                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -22110,7 +22327,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 45                                     01/08/2008
+    18 USC APPENDIX Rule 45                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -22167,7 +22384,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       (c) Additional Time After Certain Kinds of Service. Whenever a
     party must or may act within a specified period after service and
     service is made in the manner provided under Federal Rule of Civil
-    Procedure 5(b)(2)(B), (C), or (D), 3 days are added after the
+    Procedure 5(b)(2)(C), (D), (E), or (F), 3 days are added after the
     period would otherwise expire under subdivision (a).
 
 -SOURCE-
@@ -22175,7 +22392,8 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     July 1, 1968; Mar. 1, 1971, eff. July 1, 1971; Apr. 28, 1982, eff.
     Aug. 1, 1982; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff.
     Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff.
-    Dec. 1, 2005; Apr. 30, 2007, eff. Dec. 1, 2007.)
+    Dec. 1, 2005; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff.
+    Dec. 1, 2008.)
 
 
 -MISC1-
@@ -22374,6 +22592,12 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       Changes Made to Proposed Amendment Released for Public Comment.
     No change was made in the rule as published for public comment.
 
+                 COMMITTEE NOTES ON RULES - 2008 AMENDMENT             
+      This amendment revises the cross references to Civil Rule 5,
+    which have been renumbered as part of a general restyling of the
+    Federal Rules of Civil Procedure. No substantive change is
+    intended.
+
 -REFTEXT-
                             REFERENCES IN TEXT                        
       The Federal Rules of Civil Procedure, referred to in subd. (c),
@@ -22385,7 +22609,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 46                                     01/08/2008
+    18 USC APPENDIX Rule 46                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -22742,7 +22966,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 47                                     01/08/2008
+    18 USC APPENDIX Rule 47                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -22813,7 +23037,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 48                                     01/08/2008
+    18 USC APPENDIX Rule 48                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -22901,7 +23125,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 49                                     01/08/2008
+    18 USC APPENDIX Rule 49                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -23080,7 +23304,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 49.1                                   01/08/2008
+    18 USC APPENDIX Rule 49.1                                   01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -23315,7 +23539,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 50                                     01/08/2008
+    18 USC APPENDIX Rule 50                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -23508,7 +23732,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 51                                     01/08/2008
+    18 USC APPENDIX Rule 51                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -23578,7 +23802,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 52                                     01/08/2008
+    18 USC APPENDIX Rule 52                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -23643,7 +23867,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 53                                     01/08/2008
+    18 USC APPENDIX Rule 53                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -23704,7 +23928,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 54                                     01/08/2008
+    18 USC APPENDIX Rule 54                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -23738,7 +23962,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 55                                     01/08/2008
+    18 USC APPENDIX Rule 55                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -23825,7 +24049,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 56                                     01/08/2008
+    18 USC APPENDIX Rule 56                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -23906,7 +24130,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 57                                     01/08/2008
+    18 USC APPENDIX Rule 57                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -24064,7 +24288,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 58                                     01/08/2008
+    18 USC APPENDIX Rule 58                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -24434,7 +24658,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 59                                     01/08/2008
+    18 USC APPENDIX Rule 59                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -24576,7 +24800,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 60                                     01/08/2008
+    18 USC APPENDIX Rule 60                                     01/05/2009
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -24584,14 +24808,164 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     TITLE IX. GENERAL PROVISIONS
 
 -HEAD-
-    Rule 60. Title
+    Rule 60. Victim's Rights
+
+-STATUTE-
+      (a) In General.
+        (1) Notice of a Proceeding. The government must use its best
+      efforts to give the victim reasonable, accurate, and timely
+      notice of any public court proceeding involving the crime.
+        (2) Attending the Proceeding. The court must not exclude a
+      victim from a public court proceeding involving the crime, unless
+      the court determines by clear and convincing evidence that the
+      victim's testimony would be materially altered if the victim
+      heard other testimony at that proceeding. In determining whether
+      to exclude a victim, the court must make every effort to permit
+      the fullest attendance possible by the victim and must consider
+      reasonable alternatives to exclusion. The reasons for any
+      exclusion must be clearly stated on the record.
+        (3) Right to Be Heard on Release, a Plea, or Sentencing. The
+      court must permit a victim to be reasonably heard at any public
+      proceeding in the district court concerning release, plea, or
+      sentencing involving the crime.
+
+      (b) Enforcement and Limitations.
+        (1) Time for Deciding a Motion. The court must promptly decide
+      any motion asserting a victim's rights described in these rules.
+        (2) Who May Assert the Rights. A victim's rights described in
+      these rules may be asserted by the victim, the victim's lawful
+      representative, the attorney for the government, or any other
+      person as authorized by 18 U.S.C. Sec. 3771(d) and (e).
+        (3) Multiple Victims. If the court finds that the number of
+      victims makes it impracticable to accord all of them their rights
+      described in these rules, the court must fashion a reasonable
+      procedure that gives effect to these rights without unduly
+      complicating or prolonging the proceedings.
+        (4) Where Rights May Be Asserted. A victim's rights described
+      in these rules must be asserted in the district where a defendant
+      is being prosecuted for the crime.
+        (5) Limitations on Relief. A victim may move to reopen a plea
+      or sentence only if:
+          (A) the victim asked to be heard before or during the
+        proceeding at issue, and the request was denied;
+          (B) the victim petitions the court of appeals for a writ of
+        mandamus within 10 days after the denial, and the writ is
+        granted; and
+          (C) in the case of a plea, the accused has not pleaded to the
+        highest offense charged.
+
+        (6) No New Trial. A failure to afford a victim any right
+      described in these rules is not grounds for a new trial.
+
+-SOURCE-
+    (Added Apr. 23, 2008, eff. Dec. 1, 2008.)
+
+
+-MISC1-
+                      COMMITTEE NOTES ON RULES - 2008                  
+      This rule implements several provisions of the Crime Victims'
+    Rights Act, codified at 18 U.S.C. Sec. 3771, in judicial
+    proceedings in the federal courts.
+      Subdivision (a)(l). This subdivision incorporates 18 U.S.C. Sec.
+    3771(a)(2), which provides that a victim has a "right to
+    reasonable, accurate, and timely notice of any public court
+    proceeding. . . ." The enactment of 18 U.S.C. Sec. 3771(a)(2)
+    supplemented an existing statutory requirement that all federal
+    departments and agencies engaged in the detection, investigation,
+    and prosecution of crime identify victims at the earliest possible
+    time and inform those victims of various rights, including the
+    right to notice of the status of the investigation, the arrest of a
+    suspect, the filing of charges against a suspect, and the
+    scheduling of judicial proceedings. See 42 U.S.C. Sec. 10607(b) &
+    (c)(3)(A)-(D).
+      Subdivision (a)(2). This subdivision incorporates 18 U.S.C. Sec.
+    3771(a)(3), which provides that the victim shall not be excluded
+    from public court proceedings unless the court finds by clear and
+    convincing evidence that the victim's testimony would be materially
+    altered by attending and hearing other testimony at the proceeding,
+    and 18 U.S.C. Sec. 3771(b), which provides that the court shall
+    make every effort to permit the fullest possible attendance by the
+    victim.
+      Rule 615 of the Federal Rules of Evidence addresses the
+    sequestration of witnesses. Although Rule 615 requires the court
+    upon the request of a party to order the witnesses to be excluded
+    so they cannot hear the testimony of other witnesses, it contains
+    an exception for "a person authorized by statute to be present."
+    Accordingly, there is no conflict between Rule 615 and this rule,
+    which implements the provisions of the Crime Victims' Rights Act.
+      Subdivision (a)(3). This subdivision incorporates 18 U.S.C. Sec.
+    3771(a)(4), which provides that a victim has the "right to be
+    reasonably heard at any public proceeding in the district court
+    involving release, plea, [or] sentencing. . . ."
+      Subdivision (b). This subdivision incorporates the provisions of
+    18 U.S.C. Sec. 3771(d)(l), (2), (3), and (5). The statute provides
+    that the victim, the victim's lawful representative, and the
+    attorney for the government, and any other person as authorized by
+    18 U.S.C. Sec. 377l(d) and (e) may assert the victim's rights. In
+    referring to the victim and the victim's lawful representative, the
+    committee intends to include counsel. 18 U.S.C. Sec. 3771(e) makes
+    provision for the rights of victims who are incompetent,
+    incapacitated, or deceased, and 18 U.S.C. Sec. 3771(d)(l) provides
+    that "[a] person accused of the crime may not obtain any form of
+    relief under this chapter."
+      The statute provides that those rights are to be asserted in the
+    district court where the defendant is being prosecuted (or if no
+    prosecution is underway, in the district where the crime occurred).
+    Where there are too many victims to accord each the rights provided
+    by the statute, the district court is given the authority to
+    fashion a reasonable procedure to give effect to the rights without
+    unduly complicating or prolonging the proceedings.
+      Finally, the statute and the rule make it clear that failure to
+    provide relief under the rule never provides a basis for a new
+    trial. Failure to afford the rights provided by the statute and
+    implementing rules may provide a basis for re-opening a plea or a
+    sentence, but only if the victim can establish all of the
+    following: the victim asserted the right before or during the
+    proceeding, the right was denied, the victim petitioned for
+    mandamus within 10 days as provided by 18 U.S.C. Sec.
+    3771(d)(5)(B), and - in the case of a plea - the defendant did not
+    plead guilty to the highest offense charged.
+      Changes Made to Proposed Amendment Released for Public Comment.
+    Subdivision (a)(2) was revised to make it clear that the duty to
+    permit fullest attendance arises in the context of the victim's
+    possible exclusion.
+      Subdivision(b)(2) was revised to respond to concerns that the
+    amendments did not clearly state that the victim's lawful
+    representative could assert the victim's rights. The Committee Note
+    makes it clear that a victim or the lawful representative of a
+    victim may generally participate through counsel, and provides that
+    any other person authorized by 18 U.S.C. Sec.3771(d) and (e) may
+    assert the victim's rights, such as persons authorized to raise the
+    rights of victims who are minors or are incompetent.
+      References throughout subdivision (b) were revised to indicate
+    that they were applicable to the victim's rights described in the
+    Federal Rules of Criminal Procedure, not merely subdivision (a) of
+    Rule 60.
+      Other minor changes were made at the suggestion of the Style
+    Consultant to improve clarity.
+
+-End-
+
+
+
+-CITE-
+    18 USC APPENDIX Rule 61                                     01/05/2009
+
+-EXPCITE-
+    TITLE 18 - APPENDIX
+    FEDERAL RULES OF CRIMINAL PROCEDURE
+    TITLE IX. GENERAL PROVISIONS
+
+-HEAD-
+    Rule 61. Title
 
 -STATUTE-
       These rules may be known and cited as the Federal Rules of
     Criminal Procedure.
 
 -SOURCE-
-    (As amended Apr. 29, 2002, eff. Dec. 1, 2002.)
+    (As amended Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff.
+    Dec. 1, 2008.)
 
 
 -MISC1-
@@ -24611,6 +24985,13 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
                  COMMITTEE NOTES ON RULES - 2002 AMENDMENT             
       No changes have been made to Rule 60, as a result of the general
     restyling of the Criminal Rules.
+
+                 COMMITTEE NOTES ON RULES - 2008 AMENDMENT             
+      Excerpt from Report of the Advisory Committee on Federal Rules of
+    Criminal Procedure. This amendment renumbers current Rule 60 as
+    Rule 61 to accommodate the new victims' rights rule.
+      Changes Made to Proposed Amendment Released for Public Comment.
+    No changes were made.
 
 -End-
 
