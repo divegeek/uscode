@@ -1,5 +1,5 @@
 -CITE-
-    23 USC TITLE 23 - HIGHWAYS                                  01/08/2008
+    23 USC TITLE 23 - HIGHWAYS                                  01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -245,7 +245,7 @@
 
 
 -CITE-
-    23 USC CHAPTER 1 - FEDERAL-AID HIGHWAYS                     01/08/2008
+    23 USC CHAPTER 1 - FEDERAL-AID HIGHWAYS                     01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -303,7 +303,7 @@
     141.        Enforcement of requirements.                          
     142.        Public transportation.                                
     143.        Highway use tax evasion projects.                     
-    144.        Highway bridge replacement and rehabilitation program.
+    144.        Highway bridge program.                               
     145.        Federal-State relationship.                           
     146.        Carpool and vanpool projects.                         
     147.        Construction of ferry boats and ferry terminal
@@ -335,6 +335,9 @@
     166.        HOV facilities.                                       
 
                                 AMENDMENTS                            
+      2008 - Pub. L. 110-244, title I, Sec. 101(m)(3)(C), June 6, 2008,
+    122 Stat. 1576, struck out "replacement and rehabilitation" after
+    "Highway bridge" in item 144.
       2005 - Pub. L. 109-59, title I, Sec. 1801(b), title VI, Sec.
     6002(c), Aug. 10, 2005, 119 Stat. 1456, 1865, which directed
     amendment of the analysis for "such subchapter" by adding items 139
@@ -494,7 +497,7 @@
 
 
 -CITE-
-    23 USC Sec. 101                                             01/08/2008
+    23 USC Sec. 101                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -745,6 +748,28 @@
       "advanced truck stop electrification system" means a system that
       delivers heat, air conditioning, electricity, or communications
       to a heavy duty vehicle.
+        (39) Transportation systems management and operations. - 
+          (A) In general. - The term "transportation systems management
+        and operations" means an integrated program to optimize the
+        performance of existing infrastructure through the
+        implementation of multimodal and intermodal, cross-
+        jurisdictional systems, services, and projects designed to
+        preserve capacity and improve security, safety, and reliability
+        of the transportation system.
+          (B) Inclusions. - The term "transportation systems management
+        and operations" includes - 
+            (i) regional operations collaboration and coordination
+          activities between transportation and public safety agencies;
+          and
+            (ii) improvements to the transportation system, such as
+          traffic detection and surveillance, arterial management,
+          freeway management, demand management, work zone management,
+          emergency management, electronic toll collection, automated
+          enforcement, traffic incident management, roadway weather
+          management, traveler information services, commercial vehicle
+          operations, traffic control, freight management, and
+          coordination of highway, rail, transit, bicycle, and
+          pedestrian operations.
 
       (b) Declaration of Policy. - 
         (1) Acceleration of construction of federal-aid highway
@@ -863,7 +888,8 @@
     1931; Pub. L. 104-59, title III, Secs. 301(b), 311(b), Nov. 28,
     1995, 109 Stat. 578, 583; Pub. L. 105-178, title I, Sec. 1201, June
     9, 1998, 112 Stat. 164; Pub. L. 109-59, title I, Secs. 1122,
-    1909(a), Aug. 10, 2005, 119 Stat. 1196, 1470.)
+    1909(a), Aug. 10, 2005, 119 Stat. 1196, 1470; Pub. L. 110-244,
+    title I, Sec. 101(h), June 6, 2008, 122 Stat. 1574.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -874,6 +900,7 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (a)(39). Pub. L. 110-244 added par. (39).
       2005 - Subsec. (a)(35). Pub. L. 109-59, Sec. 1122(a), amended
     heading and text of par. (35) generally, substituting introductory
     provisions and subpars. (A) to (L) defining "Transportation
@@ -1159,6 +1186,32 @@
     the District of Columbia, Hawaii" for "forty-eight States, the
     District of Columbia, Hawaii, Alaska" in definition of "State".
 
+                     EFFECTIVE DATE OF 2008 AMENDMENT                 
+      Pub. L. 110-244, title I, Sec. 121(a), (b), June 6, 2008, 122
+    Stat. 1608, provided that:
+      "(a) In General. - Except as otherwise provided in this Act
+    (including subsection (b)), this Act [see Tables for
+    classification] and the amendments made by this Act take effect on
+    the date of enactment of this Act [June 6, 2008].
+      "(b) Exception. - 
+        "(1) In general. - The amendments made by this Act (other than
+      the amendments made by sections 101(g), 101(m)(1)(H) [amending
+      section 144 of this title, not Pub. L. 109-59], 103, 105, 109,
+      and 201(o)) to the Safe, Accountable, Flexible, Efficient
+      Transportation Equity Act: A Legacy for Users (Public Law 109-59;
+      119 Stat. 1144) shall - 
+          "(A) take effect as of the date of enactment of that Act
+        [Aug. 10, 2005]; and
+          "(B) be treated as being included in that Act as of that
+        date.
+        "(2) Effect of amendments. - Each provision of the Safe,
+      Accountable, Flexible, Efficient Transportation Equity Act: A
+      Legacy for Users (Public Law 109-59; 119 Stat. 1144) (including
+      the amendments made by that Act) (as in effect on the day before
+      the date of enactment of this Act [June 6, 2008]) that is amended
+      by this Act (other than sections 101(g), 101(m)(1)(H), 103, 105,
+      109, and 201(o)) shall be treated as not being enacted."
+
                      EFFECTIVE DATE OF 1998 AMENDMENT                 
       Pub. L. 105-206, title IX, Sec. 9016, July 22, 1998, 112 Stat.
     868, provided that: "This title [see Tables for classification] and
@@ -1230,6 +1283,11 @@
       Section 21(e) of Pub. L. 86-70 provided that the amendments made
     by that section (amending this section and sections 104, 116, and
     120 of this title) are effective July 1, 1959.
+
+                       SHORT TITLE OF 2008 AMENDMENT                   
+      Pub. L. 110-244, Sec. 1(a), June 6, 2008, 122 Stat. 1572,
+    provided that: "This Act [see Tables for classification] may be
+    cited as the 'SAFETEA-LU Technical Corrections Act of 2008'."
 
                       SHORT TITLE OF 2005 AMENDMENTS                  
       Pub. L. 109-59, Sec. 1(a), Aug. 10, 2005, 119 Stat. 1144,
@@ -1724,7 +1782,8 @@
 -MISC2-
               PROJECTS OF NATIONAL AND REGIONAL SIGNIFICANCE          
       Pub. L. 109-59, title I, Sec. 1301, Aug. 10, 2005, 119 Stat.
-    1198, provided that:
+    1198, as amended by Pub. L. 110-244, title I, Sec. 103(a), June 6,
+    2008, 122 Stat. 1578, provided that:
       "(a) Findings. - Congress finds the following:
         "(1) Under current law, surface transportation programs rely
       primarily on formula capital apportionments to States.
@@ -1988,7 +2047,8 @@
 
            NATIONAL CORRIDOR INFRASTRUCTURE IMPROVEMENT PROGRAM       
       Pub. L. 109-59, title I, Sec. 1302, Aug. 10, 2005, 119 Stat.
-    1204, provided that:
+    1204, as amended by Pub. L. 110-244, title I, Secs. 101(d), 103(b),
+    June 6, 2008, 122 Stat. 1573, 1578, provided that:
       "(a) In General. - The Secretary [of Transportation] shall
     establish and implement a program to make allocations to States for
     highway construction projects in corridors of national significance
@@ -2671,15 +2731,15 @@
       "(b) Priority for Transportation Projects Relating to Olympic,
     Paralympic, and Special Olympic Events. - Notwithstanding any other
     provision of law, from funds available to carry out sections 118(c)
-    and 144(g)(1) of title 23, United States Code, the Secretary may
-    give priority to funding for a transportation project relating to
-    an international quadrennial Olympic or Paralympic event, or a
-    Special Olympics International event, if - 
+    and 144(g)(1) [now 144(f)(1)] of title 23, United States Code, the
+    Secretary may give priority to funding for a transportation project
+    relating to an international quadrennial Olympic or Paralympic
+    event, or a Special Olympics International event, if - 
         "(1) the project meets the extraordinary needs associated with
       an international quadrennial Olympic or Paralympic event or a
       Special Olympics International event; and
         "(2) the project is otherwise eligible for assistance under
-      sections 118(c) and 144(g)(1) of such title.
+      sections 118(c) and 144(g)(1) [now 144(f)(1)] of such title.
       "(c) Transportation Planning Activities. - The Secretary may
     participate in - 
         "(1) planning activities of States and metropolitan planning
@@ -2769,7 +2829,8 @@
 
                     DISADVANTAGED BUSINESS ENTERPRISES                
       Pub. L. 109-59, title I, Sec. 1101(b), Aug. 10, 2005, 119 Stat.
-    1156, provided that:
+    1156, as amended by Pub. L. 110-244, title I, Sec. 101(a), June 6,
+    2008, 122 Stat. 1573, provided that:
       "(1) Definitions. - In this subsection, the following definitions
     apply:
         "(A) Small business concern. - The term 'small business
@@ -2798,7 +2859,7 @@
       "(3) Annual listing of disadvantaged business enterprises. - Each
     State shall annually - 
         "(A) survey and compile a list of the small business concerns
-      referred to in paragraph (1) and the location of the concerns in
+      referred to in paragraph (2) and the location of the concerns in
       the State; and
         "(B) notify the Secretary, in writing, of the percentage of the
       concerns that are controlled by women, by socially and
@@ -2818,9 +2879,9 @@
     available under titles I, III, and V of this Act [see Tables for
     classification] and section 403 of title 23, United States Code, if
     the entity or person is prevented, in whole or in part, from
-    complying with paragraph (1) because a Federal court issues a final
+    complying with paragraph (2) because a Federal court issues a final
     order in which the court finds that the requirement of paragraph
-    (1), or the program established under paragraph (1), is
+    (2), or the program established under paragraph (2), is
     unconstitutional."
       Similar provisions were contained in the following prior acts:
       Pub. L. 105-178, title I, Sec. 1101(b), June 9, 1998, 112 Stat.
@@ -3583,7 +3644,7 @@
 
 
 -CITE-
-    23 USC Sec. 102                                             01/08/2008
+    23 USC Sec. 102                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -3678,7 +3739,7 @@
 
 
 -CITE-
-    23 USC Sec. 103                                             01/08/2008
+    23 USC Sec. 103                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -4850,7 +4911,7 @@
 
 
 -CITE-
-    23 USC Sec. 104                                             01/08/2008
+    23 USC Sec. 104                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -5066,11 +5127,11 @@
 
             (iii) 33 1/3  percent of the apportionments in the ratio
           that - 
-              (I) the number of fatalities on the Federal-aid system in
+              (I) the number of fatalities on Federal-aid highways in
             each State in the latest fiscal year for which data are
             available; bears to
-              (II) the number of fatalities on the Federal-aid system
-            in all States in the latest fiscal year for which data are
+              (II) the number of fatalities on Federal-aid highways in
+            all States in the latest fiscal year for which data are
             available.
 
           (B) Minimum apportionment. - Notwithstanding subparagraph
@@ -5187,9 +5248,8 @@
       Secretary shall set aside 1.25 percent of the funds authorized to
       be appropriated for the Interstate maintenance, national highway
       system, surface transportation, congestion mitigation and air
-      quality improvement, and highway bridge replacement and
-      rehabilitation programs authorized under this title to carry out
-      the requirements of section 134.
+      quality improvement, and highway bridge programs authorized under
+      this title to carry out the requirements of section 134.
         (2) Apportionment to states of set-aside funds. - These funds
       shall be apportioned to the States in the ratio which the
       population in urbanized areas or parts thereof, in each State
@@ -5378,7 +5438,7 @@
     L. 100-17, title I, Secs. 102(b)(1), (2), 114(e)(1), Apr. 2, 1987,
     101 Stat. 135, 153; Pub. L. 100-202, Sec. 101(l) [title III, Sec.
     347(a)], Dec. 22, 1987, 101 Stat. 1329-358, 1329-388; Pub. L. 101-
-    516, title III, Sec. 333 [part], Nov. 5, 1990, 104 Stat. 2184;
+    516, title III, Sec. 333 (part), Nov. 5, 1990, 104 Stat. 2184;
     Pub. L. 102-143, title III, Sec. 333(c), Oct. 28, 1991, 105 Stat.
     947; Pub. L. 102-240, title I, Secs. 1001(c)-(e), 1003(e), 1006(e),
     (f), 1007(b), 1008(b), 1009(d), 1010, 1024(b), (c)(2), 1028(g),
@@ -5392,7 +5452,9 @@
     title I, Sec. 101(b), Dec. 9, 1999, 113 Stat. 1751; Pub. L. 108-
     178, Sec. 4(d), Dec. 15, 2003, 117 Stat. 2641; Pub. L. 109-59,
     title I, Secs. 1103, 1107-1109(a), 1118(b)(2), 1401(a)(3)(A), (b),
-    Aug. 10, 2005, 119 Stat. 1161, 1166-1168, 1181, 1225.)
+    Aug. 10, 2005, 119 Stat. 1161, 1166-1168, 1181, 1225; Pub. L. 110-
+    244, title I, Sec. 101(i), (m)(3)(A), June 6, 2008, 122 Stat.
+    1574, 1576.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -5425,6 +5487,11 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (b)(5)(A)(iii). Pub. L. 110-244, Sec. 101(i),
+    substituted "Federal-aid highways" for "the Federal-aid system" in
+    subcls. (I) and (II).
+      Subsec. (f)(1). Pub. L. 110-244, Sec. 101(m)(3)(A), struck out
+    "replacement and rehabilitation" after "highway bridge".
       2005 - Subsec. (a). Pub. L. 109-59, Sec. 1103(a)(1), reenacted
     heading without change and amended text of subsec. (a) generally,
     substituting provisions authorizing appropriations for
@@ -6339,6 +6406,11 @@
     one-third of the area of Alaska shall be included" after "total
     area of all States" in pars. (1) and (2).
 
+                     EFFECTIVE DATE OF 2008 AMENDMENT                 
+      Pub. L. 110-244, title I, Sec. 101(i), June 6, 2008, 122 Stat.
+    1574, provided that the amendment made by section 101(i) is
+    effective Oct. 1, 2007.
+
                      EFFECTIVE DATE OF 2003 AMENDMENT                 
       Amendment by Pub. L. 108-178 effective Aug. 21, 2002, see section
     5 of Pub. L. 108-178, set out as a note under section 5334 of Title
@@ -6489,12 +6561,12 @@
     funds apportioned to a State under section 104(b) of title 23,
     United States Code, may be obligated to carry out a project
     designated in any of sections 1301, 1302, 1306, and 1934 of this
-    Act [see Tables for classification] and sections 117 and 144(g) of
-    title 23, United States Code, in an amount not to exceed the amount
-    authorized for that project, only from a program under which the
-    project would be eligible, except that any amounts obligated to
-    carry out the project shall be restored from funds allocated for
-    the project."
+    Act [see Tables for classification] and sections 117 and 144(g)
+    [now 144(f)] of title 23, United States Code, in an amount not to
+    exceed the amount authorized for that project, only from a program
+    under which the project would be eligible, except that any amounts
+    obligated to carry out the project shall be restored from funds
+    allocated for the project."
       Pub. L. 108-310, Sec. 2, Sept. 30, 2004, 118 Stat. 1144, as
     amended by Pub. L. 109-14, Sec. 2(a)-(b)(2), (d), May 31, 2005, 119
     Stat. 324; Pub. L. 109-20, Sec. 2(a), (b)(1), (d), July 1, 2005,
@@ -6551,7 +6623,8 @@
       the deductions and set-asides in the following sections of such
       title shall not apply to such funds: sections 104(a)(1)(A),
       104(a)(1)(B), 104(b)(1)(A), 104(d)(1), 104(d)(2), 104(f)(1),
-      104(h)(1), 118(c)(1), 140(b), 140(c), and 144(g)(1).
+      104(h)(1), 118(c)(1), 140(b), 140(c), and 144(g)(1) [now
+      144(f)(1)].
         "(4) Special rules for minimum guarantee. - In carrying out the
       minimum guarantee under section 105(c) of title 23, United States
       Code, with funds apportioned under this section for the minimum
@@ -6675,7 +6748,7 @@
       asides in the following sections of such title shall not apply
       to such funds: sections 104(a)(1)(A), 104(a)(1)(B), 104(b)(1)(A),
       104(d)(1), 104(d)(2), 104(f)(1), 104(h)(1), 118(c)(1), 140(b),
-      140(c), and 144(g)(1).
+      140(c), and 144(g)(1) [now 144(f)(1)].
         "(4) Special rules for minimum guarantee. - In carrying out the
       minimum guarantee under section 105(c) of title 23, United States
       Code, with funds apportioned under this section for the minimum
@@ -7201,7 +7274,8 @@
       FEDERAL-AID HIGHWAYS AND HIGHWAY SAFETY CONSTRUCTION PROGRAMS;
     MAXIMUM LIMITS ON TOTAL OBLIGATIONS; EXCEPTIONS; STATE ALLOCATIONS
       Pub. L. 109-59, title I, Sec. 1102, Aug. 10, 2005, 119 Stat.
-    1157, provided that:
+    1157, as amended by Pub. L. 110-244, title I, Sec. 101(b), June 6,
+    2008, 122 Stat. 1573, provided that:
       "(a) General Limitation. - Subject to subsections (g) and (h),
     and notwithstanding any other provision of law, the obligations for
     Federal-aid highway and highway safety construction programs shall
@@ -7284,26 +7358,25 @@
       Act [see Tables for classification], sections 117 [(]but
       individually for each of [sic] project numbered 1 through 3676
       listed in the table contained in section 1702 of this Act [119
-      Stat. 1256][)] and 144(g) of title 23, United States Code, and
-      section 14501 of title 40, United States Code, and, during fiscal
-      year 2005, amounts for programs, projects, and activities
-      authorized by section 117 of title I of division H of the
-      Consolidated Appropriations Act, 2005 (Public Law 108-447; 118
-      Stat. 3212), so that the amount of obligation authority available
-      for each of such sections is equal to the amount determined by
-      multiplying - 
+      Stat. 1256][)] and 144(g) [now 144(f)] of title 23, United States
+      Code, and section 14501 of title 40, United States Code, and,
+      during fiscal year 2005, amounts for programs, projects, and
+      activities authorized by section 117 of title I of division H of
+      the Consolidated Appropriations Act, 2005 (Public Law 108-447;
+      118 Stat. 3212), so that the amount of obligation authority
+      available for each of such sections is equal to the amount
+      determined by multiplying - 
           "(i) the ratio determined under paragraph (3); by
           "(ii) the sums authorized to be appropriated for that section
         for the fiscal year; and
         "(B) shall distribute $2,000,000,000 for section 105 of title
       23, United States Code;
-        "(5) shall distribute among the States the obligation authority
-      provided by subsection (a), less the aggregate amounts not
-      distributed under paragraphs (1) and (2), for each of the
-      programs that are allocated by the Secretary under this Act [see
-      Tables for classification] and title 23, United States Code
-      (other than to programs to which paragraph (1) applies), by
-      multiplying - 
+        "(5) shall distribute the obligation authority provided by
+      subsection (a), less the aggregate amounts not distributed under
+      paragraphs (1) and (2), for each of the programs that are
+      allocated by the Secretary under this Act [see Tables for
+      classification] and title 23, United States Code (other than to
+      programs to which paragraph (1) applies), by multiplying - 
           "(A) the ratio determined under paragraph (3); by
           "(B) the amounts authorized to be appropriated for each such
         program for the fiscal year; and
@@ -7388,9 +7461,9 @@
         "(1) In general. - Obligation authority distributed under
       subsection (c)(4) for fiscal year 2005 for sections 1301, 1302,
       and 1934 of this Act [see Tables for classification] and sections
-      117 and 144(g) of title 23, United States Code, may be used in
-      fiscal year 2005 for purposes of obligation authority distributed
-      under subsection (c)(6).
+      117 and 144(g) [now 144(f)] of title 23, United States Code, may
+      be used in fiscal year 2005 for purposes of obligation authority
+      distributed under subsection (c)(6).
         "(2) Restoration. - Obligation authority used as described in
       paragraph (1) shall be restored to the original purpose on the
       date on which obligation authority is distributed under this
@@ -7470,12 +7543,12 @@
       individually for each project numbered 1 through 3676 listed in
       the table contained in section 1702 of the Safe, Accountable,
       Flexible, Efficient Transportation Equity Act: A Legacy for Users
-      [119 Stat. 1256]) and 144(g) of title 23, United States Code; and
-      section 14501 of title 40, United States Code, so that the amount
-      of obligation authority available for each of such sections is
-      equal to the amount determined by multiplying the ratio
-      determined under paragraph (3) by the sums authorized to be
-      appropriated for that section for the fiscal year; and
+      [119 Stat. 1256]) and 144(g) [now 144(f)] of title 23, United
+      States Code; and section 14501 of title 40, United States Code,
+      so that the amount of obligation authority available for each of
+      such sections is equal to the amount determined by multiplying
+      the ratio determined under paragraph (3) by the sums authorized
+      to be appropriated for that section for the fiscal year; and
         "(B) distribute $2,000,000,000 for section 105 of title 23,
       United States Code;
         "(5) distribute the obligation limitation provided for Federal-
@@ -7823,7 +7896,7 @@
 
 
 -CITE-
-    23 USC Sec. 105                                             01/08/2008
+    23 USC Sec. 105                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -7844,8 +7917,7 @@
       (a) are - 
           (A) the Interstate maintenance program under section 119;
           (B) the national highway system program under section 103;
-          (C) the highway bridge replacement and rehabilitation program
-        under section 144;
+          (C) the highway bridge program under section 144;
           (D) the surface transportation program under section 133;
           (E) the highway safety improvement program under section 148;
           (F) the congestion mitigation and air quality improvement
@@ -7904,8 +7976,7 @@
       enactment of the SAFETEA-LU) - 
           (A) the Interstate maintenance program under section 119;
           (B) the national highway system program under section 103;
-          (C) the highway bridge replacement and rehabilitation program
-        under section 144;
+          (C) the highway bridge program under section 144;
           (D) the surface transportation program under section 133;
           (E) the recreational trails program under section 206;
           (F) the high priority projects program under section 117;
@@ -7977,7 +8048,8 @@
     Pub. L. 105-178, title I, Sec. 1104(a), (c), June 9, 1998, 112
     Stat. 127; Pub. L. 105-206, title IX, Sec. 9002(d), July 22, 1998,
     112 Stat. 835; Pub. L. 109-59, title I, Sec. 1104(a), Aug. 10,
-    2005, 119 Stat. 1163.)
+    2005, 119 Stat. 1163; Pub. L. 110-244, title I, Sec. 101(m)(3)(B),
+    June 6, 2008, 122 Stat. 1576.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -7994,6 +8066,8 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsecs. (a)(2)(C), (b)(2)(C). Pub. L. 110-244 struck out
+    "replacement and rehabilitation" after "highway bridge".
       2005 - Pub. L. 109-59 amended section catchline and text
     generally, substituting provisions relating to equity bonus program
     for allocating amounts among the States for each of fiscal years
@@ -8102,7 +8176,7 @@
 
 
 -CITE-
-    23 USC Sec. 106                                             01/08/2008
+    23 USC Sec. 106                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -8462,7 +8536,7 @@
 
 
 -CITE-
-    23 USC Sec. 107                                             01/08/2008
+    23 USC Sec. 107                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -8575,7 +8649,7 @@
 
 
 -CITE-
-    23 USC Sec. 108                                             01/08/2008
+    23 USC Sec. 108                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -8871,7 +8945,7 @@
 
 
 -CITE-
-    23 USC Sec. 109                                             01/08/2008
+    23 USC Sec. 109                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -9643,7 +9717,7 @@
 
 
 -CITE-
-    23 USC Sec. 110                                             01/08/2008
+    23 USC Sec. 110                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -9882,7 +9956,7 @@
 
 
 -CITE-
-    23 USC Sec. 111                                             01/08/2008
+    23 USC Sec. 111                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -9965,30 +10039,6 @@
       any requirements deemed necessary by the Secretary to assure that
       the call boxes shall not be a safety hazard to motorists.
 
-      (d) Idling Reduction Facilities in Interstate Rights-of-Way. - 
-        (1) In general. - Notwithstanding subsection (a), a State may -
-      
-          (A) permit electrification or other idling reduction
-        facilities and equipment, for use by motor vehicles used for
-        commercial purposes, to be placed in rest and recreation areas,
-        and in safety rest areas, constructed or located on rights-of-
-        way of the Interstate System in the State, so long as those
-        idling reduction measures do not reduce the existing number of
-        designated truck parking spaces at any given rest or recreation
-        area; and
-          (B) charge a fee, or permit the charging of a fee, for the
-        use of those parking spaces actively providing power to a truck
-        to reduce idling.
-
-        (2) Purpose. - The exclusive purpose of the facilities
-      described in paragraph (1) (or similar technologies) shall be to
-      enable operators of motor vehicles used for commercial purposes -
-      
-          (A) to reduce idling of a truck while parked in the rest or
-        recreation area; and
-          (B) to use installed or other equipment specifically designed
-        to reduce idling of a truck, or provide alternative power for
-        supporting driver comfort, while parked.
 
 -SOURCE-
     (Pub. L. 85-767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 87-61, title
@@ -9997,11 +10047,15 @@
     Sec. 110(a), Apr. 2, 1987, 101 Stat. 146; Pub. L. 104-59, title
     III, Sec. 306, Nov. 28, 1995, 109 Stat. 580; Pub. L. 105-178, title
     I, Sec. 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109-
-    59, title I, Sec. 1412, Aug. 10, 2005, 119 Stat. 1234.)
+    59, title I, Sec. 1412, Aug. 10, 2005, 119 Stat. 1234; Pub. L. 110-
+    244, title I, Sec. 104, June 6, 2008, 122 Stat. 1578.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (d). Pub. L. 110-244 struck out subsec. (d) which
+    related to idling reduction facilities in rights-of-way of
+    Interstate System.
       2005 - Subsec. (d). Pub. L. 109-59 added subsec. (d).
       1998 - Subsecs. (a), (b). Pub. L. 105-178 substituted "State
     transportation department" for "State highway department".
@@ -10091,7 +10145,7 @@
 
 
 -CITE-
-    23 USC Sec. 112                                             01/08/2008
+    23 USC Sec. 112                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -10586,7 +10640,7 @@
 
 
 -CITE-
-    23 USC Sec. 113                                             01/08/2008
+    23 USC Sec. 113                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -10669,7 +10723,7 @@
 
 
 -CITE-
-    23 USC Sec. 114                                             01/08/2008
+    23 USC Sec. 114                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -11002,7 +11056,7 @@
 
 
 -CITE-
-    23 USC Sec. 115                                             01/08/2008
+    23 USC Sec. 115                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -11029,8 +11083,7 @@
     or a portion of the Federal share of a project authorized to
     proceed under this section from any category of funds for which the
     project is eligible.
-      [(c) Redesignated (d).]
-      (d) Inclusion in Transportation Improvement Program. - The
+      (c) Inclusion in Transportation Improvement Program. - The
     Secretary may approve an application for a project under this
     section only if the project is included in the transportation
     improvement program of the State developed under section 135(f).
@@ -11047,11 +11100,14 @@
     1103(l)(3)(A), 1106(c)(1)(A), 1226(a), title V, Sec. 5119(d), June
     9, 1998, 112 Stat. 126, 136, 452; Pub. L. 105-206, title IX, Sec.
     9003(a), July 22, 1998, 112 Stat. 837; Pub. L. 109-59, title I,
-    Sec. 1501(a), Aug. 10, 2005, 119 Stat. 1235.)
+    Sec. 1501(a), Aug. 10, 2005, 119 Stat. 1235; Pub. L. 110-244, title
+    I, Sec. 101(j), June 6, 2008, 122 Stat. 1574.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsecs. (c), (d). Pub. L. 110-244 redesignated subsec.
+    (d) as (c).
       2005 - Subsecs. (a), (b). Pub. L. 109-59, Sec. 1501(a)(2), added
     subsecs. (a) and (b) and struck out former subsecs. (a) and (b),
     which related to payment of the Federal share of the cost of
@@ -11275,7 +11331,7 @@
 
 
 -CITE-
-    23 USC Sec. 116                                             01/08/2008
+    23 USC Sec. 116                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -11411,7 +11467,7 @@
 
 
 -CITE-
-    23 USC Sec. 117                                             01/08/2008
+    23 USC Sec. 117                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -11430,13 +11486,15 @@
         section for fiscal years 1998 through 2003, the Secretary,
         subject to subsection (b), shall make available to carry out
         each project described in section 1602 of the Transportation
-        Equity Act for the 21st Century the amount listed for such
-        project in such section.
+        Equity Act for the 21st Century (112 Stat. 257) the amount
+        listed for such project in such section.
           (B) For safetea-lu. - Of amounts made available to carry out
         this section for fiscal years 2005 through 2009, the Secretary,
-        subject to subsection (b), shall make available to carry out
-        each project described in section 1702 of the SAFETEA-LU the
-        amount listed for such project in such section.
+        subject to subsection (c), shall make available to carry out
+        each project described in section 1702 of the Safe,
+        Accountable, Flexible, Efficient Transportation Equity Act: A
+        Legacy for Users (119 Stat. 1256) the amount listed for such
+        project in such section.
 
         (3) Availability of unallocated funds. - Any amounts made
       available to carry out such program that are not allocated for
@@ -11460,10 +11518,9 @@
         (6) 19 percent of such amount shall be available for obligation
       beginning in fiscal year 2003.
 
-      (c) (!1) For SAFETEA-LU. - For each project to be carried out
-    with funds made available to carry out the high priority projects
+      (c) For SAFETEA-LU. - For each project to be carried out with
+    funds made available to carry out the high priority projects
     program under this section for fiscal years 2005 through 2009 - 
-
         (1) 20 percent of such amount shall be available for obligation
       beginning in fiscal year 2005;
         (2) 20 percent of such amount shall be available for obligation
@@ -11475,8 +11532,8 @@
         (5) 20 percent of such amount shall be available for obligation
       beginning in fiscal year 2009.
 
-      (c) (!1) Federal Share. - The Federal share payable on account of
-    any project carried out with funds made available to carry out this
+      (d) Federal Share. - The Federal share payable on account of any
+    project carried out with funds made available to carry out this
     section shall be 80 percent of the total cost thereof; except that
     the Federal share on account of the project to be carried out under
     item 1419 of the table contained in section 1602 of the
@@ -11484,16 +11541,16 @@
     relating to reconstruction of a road and causeway in Shiloh
     Military Park in Hardin County, Tennessee, shall be 100 percent of
     the total cost thereof.
-      (d) Delegation to States. - Subject to the provisions of this
+      (e) Delegation to States. - Subject to the provisions of this
     title, the Secretary shall delegate responsibility for carrying out
     a project or projects, with funds made available to carry out this
     section, to the State in which such project or projects are located
     upon request of such State.
-      (e) Advance Construction. - When a State which has been delegated
+      (f) Advance Construction. - When a State which has been delegated
     responsibility for a project under this section - 
         (1) has obligated all funds allocated under this section and
       section 1602 of the Transportation Equity Act for the 21st
-      Century or section 1701 (!2) of the SAFETEA-LU, as the case may
+      Century or section 1701 (!1) of the SAFETEA-LU, as the case may
       be, for such project; and
 
         (2) proceeds to construct such project without the aid of
@@ -11508,15 +11565,15 @@
     construction of the project when additional funds are allocated for
     such project under this section and such section 1602 or 1702, as
     the case may be.
-      (f) Period of Availability. - Funds made available to carry out
+      (g) Period of Availability. - Funds made available to carry out
     this section shall remain available until expended.
-      (g) Availability of Obligation Limitation. - Obligation authority
+      (h) Availability of Obligation Limitation. - Obligation authority
     attributable to funds made available to carry out this section
     shall only be available for the purposes of this section and shall
     remain available until obligated pursuant to section 1102(g) of the
     Transportation Equity Act for the 21st Century or section 1102(g)
     of the SAFETEA-LU, as the case may be.
-      (h) Treatment. - Funds allocated to a State in accordance with
+      (i) Treatment. - Funds allocated to a State in accordance with
     this section shall be treated as amounts in addition to the amounts
     a State is apportioned under sections 104, 105, and 144 for
     programmatic purposes.
@@ -11525,24 +11582,26 @@
     (Added Pub. L. 105-178, title I, Sec. 1601(a), June 9, 1998, 112
     Stat. 255; amended Pub. L. 106-346, Sec. 101(a) [title III, Sec.
     363], Oct. 23, 2000, 114 Stat. 1356, 1356A-36; Pub. L. 109-59,
-    title I, Sec. 1701(a)-(d), Aug. 10, 2005, 119 Stat. 1254-1256.)
+    title I, Sec. 1701(a)-(d), Aug. 10, 2005, 119 Stat. 1254-1256; Pub.
+    L. 110-244, title I, Sec. 101(k), June 6, 2008, 122 Stat. 1574.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
       TEA-21 and the Transportation Equity Act for the 21st Century,
-    referred to in subsecs. (a)(2)(A), (b), (c), (e), and (g), are Pub.
-    L. 105-178, June 9, 1998, 112 Stat. 107, as amended. Section
-    1102(g) of the Act is set out as a note under section 104 of this
-    title. Section 1602 of the Act, 112 Stat. 256, is not classified to
-    the Code. For complete classification of this Act to the Code, see
-    section 1(a) of Pub. L. 105-178, set out as a Short Title of 1998
-    Amendment note under section 101 of this title and Tables.
-      The SAFETEA-LU, referred to in subsecs. (a)(2)(B), (c), (e), and
-    (g), is Pub. L. 109-59, Aug. 10, 2005, 119 Stat. 1144, also known
-    as the Safe, Accountable, Flexible, Efficient Transportation Equity
-    Act: A Legacy for Users. Section 1102(g) of the Act is set out as a
-    note under section 104 of this title. Section 1702 of the Act, 119
-    Stat. 1256, is not classified to the Code. For complete
+    referred to in subsecs. (a)(2)(A), (b), (d), (f)(1), and (h), are
+    Pub. L. 105-178, June 9, 1998, 112 Stat. 107, as amended. Section
+    1102(g) of the Act was formerly set out as a note under section 104
+    of this title. Section 1602 of the Act, 112 Stat. 256, is not
+    classified to the Code. For complete classification of this Act to
+    the Code, see section 1(a) of Pub. L. 105-178, set out as a Short
+    Title of 1998 Amendment note under section 101 of this title and
+    Tables.
+      The SAFETEA-LU and the Safe, Accountable, Flexible, Efficient
+    Transportation Equity Act: A Legacy for Users, referred to in
+    subsecs. (a)(2)(B), (c), (f)(1), and (h), are Pub. L. 109-59, Aug.
+    10, 2005, 119 Stat. 1144. Section 1102(g) of the Act is set out as
+    a note under section 104 of this title. Section 1702 of the Act,
+    119 Stat. 1256, is not classified to the Code. For complete
     classification of this Act to the Code, see Short Title of 2005
     Amendments note set out under section 101 of this title and Tables.
 
@@ -11558,6 +11617,17 @@
     178, title I, Sec. 1601(a), June 9, 1998, 112 Stat. 255.
 
                                 AMENDMENTS                            
+      2008 - Subsec. (a)(2)(A). Pub. L. 110-244, Sec. 101(k)(3),
+    inserted "(112 Stat. 257)" after "21st Century".
+      Subsec. (a)(2)(B). Pub. L. 110-244, Sec. 101(k)(4), substituted
+    "subsection (c)" for "subsection (b)" and "Safe, Accountable,
+    Flexible, Efficient Transportation Equity Act: A Legacy for Users
+    (119 Stat. 1256)" for "SAFETEA-LU".
+      Subsecs. (c), (d). Pub. L. 110-244, Sec. 101(k)(2), redesignated
+    subsec. (c), relating to Federal share, as (d). Former subsec. (d)
+    redesignated (e).
+      Subsecs. (e) to (i). Pub. L. 110-244, Sec. 101(k)(1),
+    redesignated subsecs. (d) to (h) as (e) to (i), respectively.
       2005 - Subsec. (a). Pub. L. 109-59, Sec. 1701(a), reenacted
     heading without change and amended text of subsec. (a) generally.
     Prior to amendment, text read as follows: "The Secretary is
@@ -11609,9 +11679,7 @@
     the total cost thereof".
 
 -FOOTNOTE-
-    (!1) So in original. Two subsecs. (c) have been enacted.
-
-    (!2) So in original. Probably should be "1702".
+    (!1) So in original. Probably should be "1702".
 
 
 -End-
@@ -11619,7 +11687,7 @@
 
 
 -CITE-
-    23 USC Sec. 118                                             01/08/2008
+    23 USC Sec. 118                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -12035,7 +12103,7 @@
 
 
 -CITE-
-    23 USC Sec. 119                                             01/08/2008
+    23 USC Sec. 119                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -12431,7 +12499,7 @@
 
 
 -CITE-
-    23 USC Sec. 120                                             01/08/2008
+    23 USC Sec. 120                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -13173,7 +13241,7 @@
 
 
 -CITE-
-    23 USC Sec. 121                                             01/08/2008
+    23 USC Sec. 121                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -13311,7 +13379,7 @@
 
 
 -CITE-
-    23 USC Sec. 122                                             01/08/2008
+    23 USC Sec. 122                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -13416,7 +13484,7 @@
 
 
 -CITE-
-    23 USC Sec. 123                                             01/08/2008
+    23 USC Sec. 123                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -13496,7 +13564,7 @@
 
 
 -CITE-
-    23 USC Sec. 124                                             01/08/2008
+    23 USC Sec. 124                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -13580,7 +13648,7 @@
 
 
 -CITE-
-    23 USC Sec. 125                                             01/08/2008
+    23 USC Sec. 125                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -13896,7 +13964,7 @@
 
 
 -CITE-
-    23 USC Sec. 126                                             01/08/2008
+    23 USC Sec. 126                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -13976,7 +14044,7 @@
 
 
 -CITE-
-    23 USC Sec. 127                                             01/08/2008
+    23 USC Sec. 127                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -14007,7 +14075,7 @@
       formula:
 
                                     LN                                
-                        W=500 (------------ +12N+36)                    
+                        W=500 ( ----------   + 12N + 36 )                    
                                     N-1                                
 
     where W equals overall gross weight on any group of two or more
@@ -14671,7 +14739,7 @@
 
 
 -CITE-
-    23 USC Sec. 128                                             01/08/2008
+    23 USC Sec. 128                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -14742,7 +14810,7 @@
 
 
 -CITE-
-    23 USC Sec. 129                                             01/08/2008
+    23 USC Sec. 129                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -15690,7 +15758,7 @@
 
 
 -CITE-
-    23 USC Sec. 130                                             01/08/2008
+    23 USC Sec. 130                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -15771,7 +15839,7 @@
       of the Secretary that the State has met all its needs for
       installation of protective devices at railway-highway crossings,
       the State may use funds made available by this section for other
-      purposes under this subsection.
+      highway safety improvement program purposes.
 
       (f) Apportionment. - 
         (1) Formula. - Fifty percent of the funds set aside to carry
@@ -15848,6 +15916,49 @@
     apportioned to a State to carry out this section may be used by the
     State for compilation and analysis of data in support of activities
     carried out under subsection (g).
+      (l) National Crossing Inventory. - 
+        (1) Initial reporting of crossing information. - Not later than
+      1 year after the date of enactment of the Rail Safety Improvement
+      Act of 2008 or within 6 months of a new crossing becoming
+      operational, whichever occurs later, each State shall report to
+      the Secretary of Transportation current information, including
+      information about warning devices and signage, as specified by
+      the Secretary, concerning each previously unreported public
+      crossing located within its borders.
+        (2) Periodic updating of crossing information. - On a periodic
+      basis beginning not later than 2 years after the date of
+      enactment of the Rail Safety Improvement Act of 2008 and on or
+      before September 30 of every year thereafter, or as otherwise
+      specified by the Secretary, each State shall report to the
+      Secretary current information, including information about
+      warning devices and signage, as specified by the Secretary,
+      concerning each public crossing located within its borders.
+        (3) Rulemaking authority. - The Secretary shall prescribe the
+      regulations necessary to implement this subsection. The Secretary
+      may enforce each provision of the Department of Transportation's
+      statement of the national highway-rail crossing inventory policy,
+      procedures, and instructions for States and railroads that is in
+      effect on the date of enactment of the Rail Safety Improvement
+      Act of 2008, until such provision is superseded by a regulation
+      issued under this subsection.
+        (4) Definitions. - In this subsection - 
+          (A) "public crossing" means a location within a State, other
+        than a location where one or more railroad tracks cross one or
+        more railroad tracks either at grade or grade-separated, where -
+         
+            (i) a public highway, road, or street, including associated
+          sidewalks and pathways, crosses one or more railroad tracks
+          either at grade or grade-separated; or
+            (ii) a publicly owned pathway explicitly authorized by a
+          public authority or a railroad carrier and dedicated for the
+          use of non-vehicular traffic, including pedestrians,
+          bicyclists, and others, that is not associated with a public
+          highway, road, or street, or a private roadway, crosses one
+          or more railroad tracks either at grade or grade-separated;
+          and
+
+          (B) "State" means a State of the United States, the District
+        of Columbia, or Puerto Rico.
 
 -SOURCE-
     (Pub. L. 85-767, Aug. 27, 1958, 72 Stat. 903; Pub. L. 100-17, title
@@ -15856,40 +15967,59 @@
     title III, Sec. 353(b), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105-
     178, title I, Secs. 1111(d), 1202(d), 1212(a)(2)(A)(i), June 9,
     1998, 112 Stat. 146, 170, 193; Pub. L. 109-59, title I, Sec.
-    1401(d), Aug. 10, 2005, 119 Stat. 1226.)
+    1401(c), formerly Sec. 1401(d), Aug. 10, 2005, 119 Stat. 1226,
+    renumbered Sec. 1401(c), Pub. L. 110-244, title I, Sec. 101(s)(1),
+    June 6, 2008, 122 Stat. 1577; Pub. L. 110-244, title I, Sec.
+    101(l), June 6, 2008, 122 Stat. 1575; Pub. L. 110-432, div. A,
+    title II, Sec. 204(c), Oct. 16, 2008, 122 Stat. 4871.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      The date of enactment of the Rail Safety Improvement Act of 2008,
+    referred to in subsec. (l)(1) to (3), is the date of enactment of
+    div. A of Pub. L. 110-432, which was approved Oct. 16, 2008.
 
 
 -MISC1-
                                 AMENDMENTS                            
-      2005 - Subsec. (e). Pub. L. 109-59, Sec. 1401(d)(1), designated
-    existing provisions as par. (1), inserted after par. designation
-    "In general. - Before making an apportionment under section
-    104(b)(5) for a fiscal year, the Secretary shall set aside, from
-    amounts made available to carry out the highway safety improvement
-    program under section 148 for such fiscal year, at least
-    $220,000,000 for the elimination of hazards and the installation of
-    protective devices at railway-highway crossings.", and added par.
-    (2).
-      Subsec. (f). Pub. L. 109-59, Sec. 1401(d)(2), reenacted heading
-    without change and amended text of subsec. (f) generally. Prior to
-    amendment, text read as follows: "Twenty-five percent of the funds
-    authorized to be appropriated to carry out this section shall be
-    apportioned to the States in the same manner as sums are
-    apportioned under section 104(b)(2) of this title, 25 percent of
-    such funds shall be apportioned to the States in the same manner as
-    sums are apportioned under section 104(b)(6) of this title, and 50
+      2008 - Subsec. (e)(2). Pub. L. 110-244, Sec. 101(l), substituted
+    "highway safety improvement program purposes" for "purposes under
+    this subsection".
+      Subsec. (l). Pub. L. 110-432 added subsec. (l).
+      2005 - Subsec. (e). Pub. L. 109-59, Sec. 1401(c)(1), formerly
+    Sec. 1401(d)(1), as renumbered by Pub. L. 110-244, Sec. 101(s)(1),
+    designated existing provisions as par. (1), inserted after par.
+    designation "In general. - Before making an apportionment under
+    section 104(b)(5) for a fiscal year, the Secretary shall set aside,
+    from amounts made available to carry out the highway safety
+    improvement program under section 148 for such fiscal year, at
+    least $220,000,000 for the elimination of hazards and the
+    installation of protective devices at railway-highway crossings.",
+    and added par. (2).
+      Subsec. (f). Pub. L. 109-59, Sec. 1401(c)(2), formerly Sec.
+    1401(d)(2), as renumbered by Pub. L. 110-244, Sec. 101(s)(1),
+    reenacted heading without change and amended text of subsec. (f)
+    generally. Prior to amendment, text read as follows: "Twenty-five
+    percent of the funds authorized to be appropriated to carry out
+    this section shall be apportioned to the States in the same manner
+    as sums are apportioned under section 104(b)(2) of this title, 25
     percent of such funds shall be apportioned to the States in the
-    ratio that total railway-highway crossings in each State bears to
-    the total of such crossings in all States. The Federal share
-    payable on account of any project financed with funds authorized to
-    be appropriated to carry out this section shall be 90 percent of
-    the cost thereof."
-      Subsec. (g). Pub. L. 109-59, Sec. 1401(d)(3), in third sentence
-    inserted "and the Committee on Commerce, Science, and
-    Transportation," after "Public Works" and substituted ", not later
-    than April 1, 2006, and every 2 years thereafter," for "not later
-    than April 1 of each year".
-      Subsec. (k). Pub. L. 109-59, Sec. 1401(d)(4), added subsec. (k).
+    same manner as sums are apportioned under section 104(b)(6) of this
+    title, and 50 percent of such funds shall be apportioned to the
+    States in the ratio that total railway-highway crossings in each
+    State bears to the total of such crossings in all States. The
+    Federal share payable on account of any project financed with funds
+    authorized to be appropriated to carry out this section shall be 90
+    percent of the cost thereof."
+      Subsec. (g). Pub. L. 109-59, Sec. 1401(c)(3), formerly Sec.
+    1401(d)(3), as renumbered by Pub. L. 110-244, Sec. 101(s)(1), in
+    third sentence inserted "and the Committee on Commerce, Science,
+    and Transportation," after "Public Works" and substituted ", not
+    later than April 1, 2006, and every 2 years thereafter," for "not
+    later than April 1 of each year".
+      Subsec. (k). Pub. L. 109-59, Sec. 1401(c)(4), formerly Sec.
+    1401(d)(4), as renumbered by Pub. L. 110-244, Sec. 101(s)(1), added
+    subsec. (k).
       1998 - Subsec. (a). Pub. L. 105-178, Sec. 1111(d), substituted
     "Subject to section 120" for "Except as provided in subsection (d)
     of section 120 of this title" in first sentence and "subject to
@@ -16221,7 +16351,7 @@
 
 
 -CITE-
-    23 USC Sec. 131                                             01/08/2008
+    23 USC Sec. 131                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -16891,7 +17021,7 @@
 
 
 -CITE-
-    23 USC Sec. 132                                             01/08/2008
+    23 USC Sec. 132                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -16955,7 +17085,7 @@
 
 
 -CITE-
-    23 USC Sec. 133                                             01/08/2008
+    23 USC Sec. 133                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -17465,12 +17595,13 @@
 
        DIVISION OF STP FUNDS FOR AREAS OF LESS THAN 5,000 POPULATION   
       Pub. L. 105-178, title I, Sec. 1108(f), June 9, 1998, 112 Stat.
-    141, provided that:
+    141, as amended by Pub. L. 110-244, title I, Sec. 113(a), June 6,
+    2008, 122 Stat. 1606, provided that:
       "(1) Special rule. - Notwithstanding section 133(c) of title 23,
     United States Code, and except as provided in paragraph (2), up to
     15 percent of the amounts required to be obligated under section
     133(d)(3)(B) of such title for each of fiscal years 1998 through
-    2003 may be obligated on roads functionally classified as minor
+    2009 may be obligated on roads functionally classified as minor
     collectors.
       "(2) Suspension. - The Secretary may suspend the application of
     paragraph (1) if the Secretary determines that paragraph (1) is
@@ -17489,7 +17620,7 @@
 
 
 -CITE-
-    23 USC Sec. 134                                             01/08/2008
+    23 USC Sec. 134                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -17699,13 +17830,22 @@
             include a representative of each Federal land management
             agency that has jurisdiction over land in the Lake Tahoe
             region.
-              (II) Funding. - In addition to funds made available to
+              (II) Funding. - For fiscal year 2008 and each fiscal year
+            thereafter, in addition to other funds made available to
             the metropolitan planning organization for the Lake Tahoe
-            region under other provisions of this title and under
-            chapter 53 of title 49, 1 percent of the funds allocated
-            under section 202 shall be used to carry out the
-            transportation planning process for the Lake Tahoe region
-            under this subparagraph.
+            region under this title and chapter 53 of title 49, prior
+            to any allocation under section 202 of this title and
+            notwithstanding the allocation provisions of section 202,
+            the Secretary shall set aside  1/2  of 1 percent of all
+            funds authorized to be appropriated for such fiscal year to
+            carry out section 204 and shall make such funds available
+            to the metropolitan planning organization for the Lake
+            Tahoe region to carry out the transportation planning
+            process, environmental reviews, preliminary engineering,
+            and design to complete environmental documentation for
+            transportation projects for the Lake Tahoe region under the
+            Tahoe Regional Planning Compact as consented to in Public
+            Law 96-551 (94 Stat. 3233) and this paragraph.
 
           (D) Activities. - Highway projects included in transportation
         plans developed under this paragraph - 
@@ -17987,8 +18127,9 @@
           (D) Requirement of anticipated full funding. - The program
         shall include a project, or an identified phase of a project,
         only if full funding can reasonably be anticipated to be
-        available for the project within the time period contemplated
-        for completion of the project.
+        available for the project or the identified phase within the
+        time period contemplated for completion of the project or the
+        identified phase.
 
         (4) Notice and comment. - Before approving a TIP, a
       metropolitan planning organization, in cooperation with the State
@@ -18054,12 +18195,11 @@
         request of the Governor and the metropolitan planning
         organization designated for the area.
 
-        (2) Transportation plans. - In a metropolitan planning area
-      serving a transportation management area, transportation plans
-      shall be based on a continuing and comprehensive transportation
-      planning process carried out by the metropolitan planning
-      organization in cooperation with the State and public
-      transportation operators.
+        (2) Transportation plans. - In a transportation management
+      area, transportation plans shall be based on a continuing and
+      comprehensive transportation planning process carried out by the
+      metropolitan planning organization in cooperation with the State
+      and public transportation operators.
         (3) Congestion management process. - Within a metropolitan
       planning area serving a transportation management area, the
       transportation planning process under this section shall address
@@ -18187,7 +18327,8 @@
     Stat. 588; Pub. L. 105-178, title I, Sec. 1203(a)-(m), (o), June 9,
     1998, 112 Stat. 170-179; Pub. L. 105-206, title IX, Sec. 9003(c),
     July 22, 1998, 112 Stat. 839; Pub. L. 109-59, title VI, Sec.
-    6001(a), Aug. 10, 2005, 119 Stat. 1839.)
+    6001(a), Aug. 10, 2005, 119 Stat. 1839; Pub. L. 110-244, title I,
+    Sec. 101(n), June 6, 2008, 122 Stat. 1576.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -18200,9 +18341,9 @@
       The date of enactment of the SAFETEA-LU, referred to in subsec.
     (e)(4), (5), is the date of enactment of Pub. L. 109-59, which was
     approved Aug. 10, 2005.
-      Public Law 96-551, referred to in subsec. (f)(3)(A), is Pub. L.
-    96-551, Dec. 19, 1980, 94 Stat. 3233, which is not classified to
-    the Code.
+      Public Law 96-551, referred to in subsec. (f)(3)(A), (C)(ii)(II),
+    is Pub. L. 96-551, Dec. 19, 1980, 94 Stat. 3233, which is not
+    classified to the Code.
       The National Environmental Policy Act of 1969, referred to in
     subsec. (p), is Pub. L. 91-190, Jan. 1, 1970, 83 Stat. 852, as
     amended, which is classified generally to chapter 55 (Sec. 4321 et
@@ -18213,6 +18354,19 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (f)(3)(C)(ii)(II). Pub. L. 110-244, Sec.
+    101(n)(1), added subcl. (II) and struck out former subcl. (II).
+    Prior to amendment, text read as follows: "In addition to funds
+    made available to the metropolitan planning organization for the
+    Lake Tahoe region under other provisions of this title and under
+    chapter 53 of title 49, 1 percent of the funds allocated under
+    section 202 shall be used to carry out the transportation planning
+    process for the Lake Tahoe region under this subparagraph."
+      Subsec. (j)(3)(D). Pub. L. 110-244, Sec. 101(n)(2), inserted "or
+    the identified phase" after "the project" in two places.
+      Subsec. (k)(2). Pub. L. 110-244, Sec. 101(n)(3), struck out "a
+    metropolitan planning area serving" before "a transportation
+    management area,".
       2005 - Pub. L. 109-59 amended section catchline and text
     generally, substituting provisions relating to metropolitan
     transportation planning for provisions relating to, in subsec. (a),
@@ -18578,7 +18732,7 @@
 
 
 -CITE-
-    23 USC Sec. 135                                             01/08/2008
+    23 USC Sec. 135                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -19124,14 +19278,15 @@
 
               ADVANCED TRAVEL FORECASTING PROCEDURES PROGRAM          
       Pub. L. 109-59, title V, Sec. 5512, Aug. 10, 2005, 119 Stat.
-    1828, provided that:
+    1828, as amended by Pub. L. 110-244, title I, Sec. 111(g)(2), June
+    6, 2008, 122 Stat. 1605, provided that:
       "(a) Continuation and Acceleration of TRANSIMS Deployment. - 
         "(1) In general. - The Secretary [of Transportation] shall
       accelerate the deployment of the advanced transportation model
       known as the 'Transportation Analysis Simulation System' (in this
       section referred to as 'TRANSIMS'), developed by the Los Alamos
       National Laboratory.
-        "(2) Program appreciation. - The purpose of the program is to
+        "(2) Program application. - The purpose of the program is to
       assist State departments of transportation and metropolitan
       planning organizations - 
           "(A) to implement TRANSIMS;
@@ -19307,7 +19462,7 @@
 
 
 -CITE-
-    23 USC Sec. 136                                             01/08/2008
+    23 USC Sec. 136                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -19450,7 +19605,7 @@
 
 
 -CITE-
-    23 USC Sec. 137                                             01/08/2008
+    23 USC Sec. 137                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -19667,7 +19822,7 @@
 
 
 -CITE-
-    23 USC Sec. 138                                             01/08/2008
+    23 USC Sec. 138                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -19889,7 +20044,7 @@
 
 
 -CITE-
-    23 USC Sec. 139                                             01/08/2008
+    23 USC Sec. 139                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -20367,7 +20522,7 @@
 
 
 -CITE-
-    23 USC Sec. 140                                             01/08/2008
+    23 USC Sec. 140                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -20598,7 +20753,7 @@
 
 
 -CITE-
-    23 USC Sec. 141                                             01/08/2008
+    23 USC Sec. 141                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -20777,7 +20932,7 @@
 
 
 -CITE-
-    23 USC Sec. 142                                             01/08/2008
+    23 USC Sec. 142                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -21140,7 +21295,7 @@
 
 
 -CITE-
-    23 USC Sec. 143                                             01/08/2008
+    23 USC Sec. 143                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -21385,14 +21540,14 @@
 
 
 -CITE-
-    23 USC Sec. 144                                             01/08/2008
+    23 USC Sec. 144                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
     CHAPTER 1 - FEDERAL-AID HIGHWAYS
 
 -HEAD-
-    Sec. 144. Highway bridge replacement and rehabilitation program
+    Sec. 144. Highway bridge program
 
 -STATUTE-
       (a) Finding and Declaration. - Congress finds and declares that
@@ -21404,16 +21559,16 @@
     Secretary determine are structurally deficient or functionally
     obsolete and through systematic preventive maintenance of bridges.
       (b) The Secretary, in consultation with the States, shall (1)
-    inventory all those highway bridges on any Federal-aid system which
-    are bridges over waterways, other topographical barriers, other
-    highways, and railroads; (2) classify them according to
+    inventory all those highway bridges on any Federal-aid highway
+    which are bridges over waterways, other topographical barriers,
+    other highways, and railroads; (2) classify them according to
     serviceability, safety, and essentiality for public use; (3) based
     on that classification, assign each a priority for replacement or
     rehabilitation; and (4) determine the cost of replacing each such
     bridge with a comparable facility or of rehabilitating such bridge.
       (c)(1) The Secretary, in consultation with the States, shall (1)
     inventory all those highway bridges on public roads, other than
-    those on any Federal-aid system, which are bridges over waterways,
+    those on any Federal-aid highway, which are bridges over waterways,
     other topographical barriers, other highways, and railroads, (2)
     classify them according to serviceability, safety, and essentiality
     for public use, (3) based on the classification, assign each a
@@ -21421,7 +21576,7 @@
     cost of replacing each such bridge with a comparable facility or of
     rehabilitating such bridge.
       (2) The Secretary may, at the request of a State, inventory
-    bridges, on and off the Federal-aid system, for historic
+    bridges, on and off Federal-aid highways, for historic
     significance.
       (3) Inventory of indian reservation and park bridges. - As part
     of the activities carried out under paragraph (1), the Secretary,
@@ -21460,45 +21615,43 @@
       the eligibility of highway bridges for replacement or
       rehabilitation for each State based on structurally deficient and
       functionally obsolete highway bridges in the State.
-        (4) Special rule for preventive maintenance. - Notwithstanding
-      any other provision of this subsection, a State may carry out a
-      project under paragraph (2)(B), (2)(C), or (2)(D) for a highway
-      bridge without regard to whether the bridge is eligible for
-      replacement or rehabilitation under this section.
+        (4) Special rule for systematic preventive maintenance. -
+      Notwithstanding any other provision of this subsection, a State
+      may carry out a project under paragraph (2)(B), (2)(C), or (2)(D)
+      for a highway bridge without regard to whether the bridge is
+      eligible for replacement or rehabilitation under this section.
 
       (e) Funds authorized to carry out this section shall be
     apportioned among the several States on October 1 of the fiscal
     year for which authorized in accordance with this subsection. Each
     deficient bridge shall be placed into one of the following
-    categories: (1) Federal-aid system bridges eligible for
-    replacement, (2) Federal-aid system bridges eligible for
-    rehabilitation, (3) off-system bridges eligible for replacement,
-    and (4) off-system bridges eligible for rehabilitation. The deck
-    area of deficient bridges in each category shall be multiplied by
-    the respective unit price on a State-by-State basis, as determined
-    by the Secretary; and the total cost in each State divided by the
-    total cost of the deficient bridges in all States shall determine
-    the apportionment factors. For purposes of the preceding sentence,
-    if a State transfers funds apportioned to the State under this
-    section in a fiscal year beginning after September 30, 1997, to any
-    other apportionment of funds to such State under this title, the
-    total cost of deficient bridges in such State and in all States to
-    be determined for the succeeding fiscal year shall be reduced by
-    the amount of such transferred funds. No State shall receive more
-    than 10 per centum or less than 0.25 per centum of the total
-    apportionment for any one fiscal year. The Secretary shall make
-    these determinations based upon the latest available data, which
-    shall be updated annually. Funds apportioned under this section
-    shall be available for expenditure for the period specified in
-    section 118(b)(2). Any funds not obligated at the expiration of
-    such period shall be reapportioned by the Secretary to the other
-    States in accordance with this subsection. The use of funds
-    authorized under this section to carry out a project for the
-    seismic retrofit of a bridge shall not affect the apportionment of
-    funds under this section.
-      (f) The Federal share payable on account of any project under
-    this section shall be 80 per centum of the cost thereof.
-      (g) Bridge Set-asides. - 
+    categories: (1) Federal-aid highway bridges eligible for
+    replacement, (2) Federal-aid highway bridges eligible for
+    rehabilitation, (3) bridges not on Federal-aid highways eligible
+    for replacement, and (4) bridges not on Federal-aid highways
+    eligible for rehabilitation. The deck area of deficient bridges in
+    each category shall be multiplied by the respective unit price on a
+    State-by-State basis, as determined by the Secretary; and the total
+    cost in each State divided by the total cost of the deficient
+    bridges in all States shall determine the apportionment factors.
+    For purposes of the preceding sentence, if a State transfers funds
+    apportioned to the State under this section in a fiscal year
+    beginning after September 30, 1997, to any other apportionment of
+    funds to such State under this title, the total cost of deficient
+    bridges in such State and in all States to be determined for the
+    succeeding fiscal year shall be reduced by the amount of such
+    transferred funds. No State shall receive more than 10 per centum
+    or less than 0.25 per centum of the total apportionment for any one
+    fiscal year. The Secretary shall make these determinations based
+    upon the latest available data, which shall be updated annually.
+    Funds apportioned under this section shall be available for
+    expenditure for the period specified in section 118(b)(2). Any
+    funds not obligated at the expiration of such period shall be
+    reapportioned by the Secretary to the other States in accordance
+    with this subsection. The use of funds authorized under this
+    section to carry out a project for the seismic retrofit of a bridge
+    shall not affect the apportionment of funds under this section.
+      (f) Bridge Set-asides. - 
         (1) Designated projects. - 
           (A) In general. - Of the amounts authorized to be
         appropriated to carry out the bridge program under this section
@@ -21521,7 +21674,8 @@
           reconstruction of State maintained bridges in the State of
           Oklahoma.
             (vi) $4,500,000 per fiscal year for replacement of the
-          Missisquoi Bay Bridge, Vermont.
+          Missisquoi Bay Bridge and the removal of the Missisquoi Bay
+          causeway, Vermont.
             (vii) $8,000,000 per fiscal year for replacement and
           reconstruction of State-maintained bridges in the State of
           Vermont.
@@ -21539,7 +21693,7 @@
         State under this paragraph shall remain available until
         expended.
 
-        (2) Off-system bridges. - 
+        (2) Bridges not on federal-aid highways. - 
           (A) In general. - Not less than 15 percent of the amount
         apportioned to each State in each of fiscal years 2005 through
         2009 shall be expended for projects to replace, rehabilitate,
@@ -21559,7 +21713,7 @@
         Secretary determines that the State has inadequate needs to
         justify the expenditure.
 
-      (h) Notwithstanding any other provision of law, the General
+      (g) Notwithstanding any other provision of law, the General
     Bridge Act of 1946 (33 U.S.C. 525-533) shall apply to bridges
     authorized to be replaced, in whole or in part, by this section,
     except that subsection (b) of section 502 of such Act of 1946 and
@@ -21571,7 +21725,7 @@
     transport interstate or foreign commerce, and (2) which are (a) not
     tidal, or (b) if tidal, used only by recreational boating, fishing,
     and other small vessels less than 21 feet in length.
-      (i) Inventories and Reports. - The Secretary shall - 
+      (h) Inventories and Reports. - The Secretary shall - 
         (1) report to the Committee on Environment and Public Works of
       the Senate and the Committee on Transportation and Infrastructure
       of the House of Representatives on projects approved under this
@@ -21584,10 +21738,10 @@
       this section.
 
     Such reports shall be submitted to such committees biennially.
-      (j) Sums apportioned to a State under this section shall be made
+      (i) Sums apportioned to a State under this section shall be made
     available for obligation throughout such State on a fair and
     equitable basis.
-      (k) Not later than six months after the date of enactment of this
+      (j) Not later than six months after the date of enactment of this
     subsection, and periodically thereafter, the Secretary shall review
     the procedure used in approving or disapproving applications
     submitted under this section to determine what changes, if any, may
@@ -21597,7 +21751,7 @@
     Secretary shall submit a report to Congress which describes such
     review and such changes, including any recommendations for
     legislative changes.
-      (l) Notwithstanding any other provision of law, any bridge which
+      (k) Notwithstanding any other provision of law, any bridge which
     is owned and operated by an agency (1) which does not have taxing
     powers, (2) whose functions include operating a federally assisted
     public transit system subsidized by toll revenues, shall be
@@ -21614,7 +21768,7 @@
     toward the non-Federal share required as a condition of receipt of
     any Federal funds for seismic retrofit of the bridge made available
     after the date of the expenditure.
-      (m) Replacement of Destroyed Bridges and Ferryboat Service. - 
+      (l) Replacement of Destroyed Bridges and Ferryboat Service. - 
         (1) General rule. - Notwithstanding any other provision of this
       section or of any other provision of law, a State may utilize any
       of the funds provided under this section to construct any bridge
@@ -21633,29 +21787,30 @@
       construction carried out under paragraph (1) shall be 80 percent
       of the cost of such construction.
 
-      (n) Off-System Bridge Program. - Notwithstanding any other
-    provision of law, with respect to any project not on a Federal-aid
-    highway for the replacement of a bridge or rehabilitation of a
-    bridge which is wholly funded from State and local sources, is
-    eligible for Federal funds under this section, is noncontroversial,
-    is certified by the State to have been carried out in accordance
-    with all standards applicable to such projects under this section,
-    and is determined by the Secretary upon completion to be no longer
-    a deficient bridge, any amount expended after the date of the
-    enactment of this subsection from State and local sources for such
-    project in excess of 20 percent of the cost of construction thereof
-    may be credited to the non-Federal share of the cost of the
-    projects in such State which are eligible for Federal funds under
-    this section. Such crediting shall be in accordance with such
-    procedures as the Secretary may establish.
-      (o) Historic Bridge Program. - 
+      (m) Program for Bridges Not on Federal-Aid Highways. -
+    Notwithstanding any other provision of law, with respect to any
+    project not on a Federal-aid highway for the replacement of a
+    bridge or rehabilitation of a bridge which is wholly funded from
+    State and local sources, is eligible for Federal funds under this
+    section, is noncontroversial, is certified by the State to have
+    been carried out in accordance with all standards applicable to
+    such projects under this section, and is determined by the
+    Secretary upon completion to be no longer a deficient bridge, any
+    amount expended after the date of the enactment of this subsection
+    from State and local sources for such project in excess of 20
+    percent of the cost of construction thereof may be credited to the
+    non-Federal share of the cost of the projects in such State which
+    are eligible for Federal funds under this section. Such crediting
+    shall be in accordance with such procedures as the Secretary may
+    establish.
+      (n) Historic Bridge Program. - 
         (1) Coordination. - The Secretary shall, in cooperation with
       the States, implement the programs described in this section in a
       manner that encourages the inventory, retention, rehabilitation,
       adaptive reuse, and future study of historic bridges.
         (2) State inventory. - The Secretary shall require each State
-      to complete an inventory of all bridges on and off the Federal-
-      aid system to determine their historic significance.
+      to complete an inventory of all bridges on and off Federal-aid
+      highways to determine their historic significance.
         (3) Eligibility. - Reasonable costs associated with actions to
       preserve, or reduce the impact of a project under this chapter
       on, the historic integrity of historic bridges shall be eligible
@@ -21676,7 +21831,7 @@
         historic significance; and
           (B) assume all future legal and financial responsibility for
         the bridge, which may include an agreement to hold the State
-        highway agency harmless in any liability action.
+        transportation department harmless in any liability action.
 
       Costs incurred by the State to preserve the historic bridge,
       including funds made available to the State, locality, or private
@@ -21689,22 +21844,22 @@
       "historic bridge" means any bridge that is listed on, or eligible
       for listing on, the National Register of Historic Places.
 
-      (p) Applicability of State Standards for Projects. - A project
+      (o) Applicability of State Standards for Projects. - A project
     not on a Federal-aid highway under this section shall be designed,
     constructed, operated, and maintained in accordance with State
     laws, regulations, directives, safety standards, design standards,
     and construction standards.
-      (q) As used in this section the term "rehabilitate" in any of its
+      (p) As used in this section the term "rehabilitate" in any of its
     forms means major work necessary to restore the structural
     integrity of a bridge as well as work necessary to correct a major
     safety defect.
-      (r) Annual Materials Report on New Bridge Construction and Bridge
+      (q) Annual Materials Report on New Bridge Construction and Bridge
     Rehabilitation. - Not later than 1 year after the date of enactment
     of this subsection, and annually thereafter, the Secretary shall
     publish in the Federal Register a report describing construction
     materials used in new Federal-aid bridge construction and bridge
     rehabilitation projects.
-      (s) Federal Share. - 
+      (r) Federal Share. - 
         (1) In general. - Except as provided under paragraph (2), the
       Federal share of the cost of a project payable from funds made
       available to carry out this section shall be determined under
@@ -21741,35 +21896,78 @@
     2005, 119 Stat. 379; Pub. L. 109-37, Sec. 2(b)(2), July 22, 2005,
     119 Stat. 394; Pub. L. 109-40, Sec. 2(b)(2), July 28, 2005, 119
     Stat. 410; Pub. L. 109-59, title I, Sec. 1114, Aug. 10, 2005, 119
-    Stat. 1172.)
+    Stat. 1172; Pub. L. 110-244, title I, Sec. 101(m)(1), June 6, 2008,
+    122 Stat. 1575.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
-      The General Bridge Act of 1946, referred to in subsec. (h), is
+      The General Bridge Act of 1946, referred to in subsec. (g), is
     title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, as amended,
     which is classified generally to subchapter III (Sec. 525 et seq.)
     of chapter 11 of Title 33, Navigation and Navigable Waters. For
     complete classification of this Act to the Code, see Short Title
     note set out under section 525 of Title 33 and Tables.
-      Section 502(b) of such Act of 1946, referred to in subsec. (h),
-    in section 502(b) of act Aug. 2, 1946, which is classified to
+      Section 502(b) of such Act of 1946, referred to in subsec. (g),
+    is section 502(b) of act Aug. 2, 1946, which is classified to
     section 525(b) of Title 33.
       Section 9 of the Act of March 3, 1899, referred to in subsec.
-    (h), is section 9 of act Mar. 3, 1899, ch. 425, 30 Stat. 1151,
+    (g), is section 9 of act Mar. 3, 1899, ch. 425, 30 Stat. 1151,
     which is classified to section 401 of Title 33.
       The date of enactment of this subsection, referred to in subsec.
-    (k), is the date of enactment of Pub. L. 95-599, which was approved
+    (j), is the date of enactment of Pub. L. 95-599, which was approved
     Nov. 6, 1978.
       The date of the enactment of this subsection, referred to in
-    subsec. (n), is the date of enactment of Pub. L. 100-17, which was
+    subsec. (m), is the date of enactment of Pub. L. 100-17, which was
     approved Apr. 2, 1987.
       The date of enactment of this subsection, referred to in subsec.
-    (r), is the date of enactment of Pub. L. 109-59, which was approved
+    (q), is the date of enactment of Pub. L. 109-59, which was approved
     Aug. 10, 2005.
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Pub. L. 110-244, Sec. 101(m)(1)(A), struck out
+    "replacement and rehabilitation" after "Highway bridge" in section
+    catchline.
+      Subsecs. (b)(1), (c)(1)(1). Pub. L. 110-244, Sec. 101(m)(1)(B),
+    substituted "Federal-aid highway" for "Federal-aid system".
+      Subsec. (c)(2). Pub. L. 110-244, Sec. 101(m)(1)(C), substituted
+    "Federal-aid highways" for "the Federal-aid system".
+      Subsec. (d)(4). Pub. L. 110-244, Sec. 101(m)(1)(D), inserted
+    "systematic" before "preventive" in heading.
+      Subsec. (e)(1), (2). Pub. L. 110-244, Sec. 101(m)(1)(B),
+    substituted "Federal-aid highway" for "Federal-aid system".
+      Subsec. (e)(3), (4). Pub. L. 110-244, Sec. 101(m)(1)(E),
+    substituted "bridges not on Federal-aid highways" for "off-system
+    bridges".
+      Subsec. (f). Pub. L. 110-244, Sec. 101(m)(1)(F), (G),
+    redesignated subsec. (g) as (f) and struck out former subsec. (f)
+    which read as follows: "The Federal share payable on account of any
+    project under this section shall be 80 per centum of the cost
+    thereof."
+      Subsec. (f)(1)(A)(vi). Pub. L. 110-244, Sec. 101(m)(1)(H),
+    inserted "and the removal of the Missisquoi Bay causeway" after
+    "Bridge".
+      Subsec. (f)(2). Pub. L. 110-244, Sec. 101(m)(1)(I), inserted
+    heading and struck out former heading "Off-system bridges".
+      Subsecs. (g) to (l). Pub. L. 110-244, Sec. 101(m)(1)(G),
+    redesignated subsecs. (h) to (m) as (g) to (l), respectively.
+    Former subsec. (g) redesignated (f).
+      Subsec. (m). Pub. L. 110-244, Sec. 101(m)(1)(G), (J),
+    redesignated subsec. (n) as (m), inserted heading, and struck out
+    former heading "Off-System Bridge Program". Former subsec. (m)
+    redesignated (l).
+      Subsec. (n). Pub. L. 110-244, Sec. 101(m)(1)(G), redesignated
+    subsec. (o) as (n). Former subsec. (n) redesignated (m).
+      Subsec. (n)(4)(B). Pub. L. 110-244, Sec. 101(m)(1)(K),
+    substituted "State transportation department" for "State highway
+    agency".
+      Subsec. (o). Pub. L. 110-244, Sec. 101(m)(1)(G), redesignated
+    subsec. (p) as (o). Former subsec. (o) redesignated (n).
+      Subsec. (o)(2). Pub. L. 110-244, Sec. 101(m)(1)(C), substituted
+    "Federal-aid highways" for "the Federal-aid system".
+      Subsecs. (p) to (s). Pub. L. 110-244, Sec. 101(m)(1)(G),
+    redesignated subsecs. (p) to (s) as (o) to (r), respectively.
       2005 - Subsec. (a). Pub. L. 109-59, Sec. 1114(a), inserted
     heading and amended text of subsec. (a) generally. Prior to
     amendment, text read as follows: "Congress hereby finds and
@@ -22102,7 +22300,7 @@
 
                    TERMINATION OF REPORTING REQUIREMENTS               
       For termination, effective May 15, 2000, of reporting provisions
-    in subsec. (i)(1), (3), and (4) of this section, see section 3003
+    in subsec. (h)(1), (3), and (4) of this section, see section 3003
     of Pub. L. 104-66, as amended, set out as a note under section 1113
     of Title 31, Money and Finance, and page 135 of House Document No.
     103-7.
@@ -22293,8 +22491,8 @@
     and construction projects carried out under this section shall be
     80 percent.
       "(e) Funding. - From the funds reserved from apportionment under
-    section 144(g)(1) of title 23, United States Code, for each of
-    fiscal years 1992, 1993, 1994, 1995, 1996, and 1997 - 
+    section 144(g)(1) [now 144(f)(1)] of title 23, United States Code,
+    for each of fiscal years 1992, 1993, 1994, 1995, 1996, and 1997 - 
         "(1) $1,000,000 shall be available to the Secretary for
       carrying out subsections (a) and (b); and
         "(2) $7,500,000 ($7,000,000 in the case of fiscal year 1992)
@@ -22372,19 +22570,19 @@
     title I, Sec. 123(h), Apr. 2, 1987, 101 Stat. 164, provided that:
     "The Secretary of Transportation shall develop a selection process
     for discretionary bridges authorized to be funded under section
-    144(g) of title 23, United States Code, and shall propose and issue
-    a final regulation no later than six months after the date of
-    enactment of this Act [Jan. 6, 1983], including a formula resulting
-    in a rating factor based on the following criteria for such
-    process. Such criteria shall give funding priority to those
-    discretionary bridges already eligible under section 144(g) of
-    title 23, United States Code, including a bridge replacement of
-    which was partially funded under the Supplemental Appropriations
-    Act, 1983 [Pub. L. 98-63] (97 Stat. 341). Eligible bridges after
-    the issuance of a final regulation shall only include those with a
-    rating factor of one hundred or less, based on a scale of zero to
-    infinity. The criteria for such additional bridges which the
-    Secretary shall consider are:
+    144(g) [now 144(f)] of title 23, United States Code, and shall
+    propose and issue a final regulation no later than six months after
+    the date of enactment of this Act [Jan. 6, 1983], including a
+    formula resulting in a rating factor based on the following
+    criteria for such process. Such criteria shall give funding
+    priority to those discretionary bridges already eligible under
+    section 144(g) of title 23, United States Code, including a bridge
+    replacement of which was partially funded under the Supplemental
+    Appropriations Act, 1983 [Pub. L. 98-63] (97 Stat. 341). Eligible
+    bridges after the issuance of a final regulation shall only include
+    those with a rating factor of one hundred or less, based on a scale
+    of zero to infinity. The criteria for such additional bridges which
+    the Secretary shall consider are:
         "(1) sufficiency rating computed as illustrated in appendix A
       of the Recording and Coding Guide for the Structure Inventory and
       Appraisal of the Nation's Bridges, USDOT/FHWA (latest edition);
@@ -22440,7 +22638,7 @@
 
 
 -CITE-
-    23 USC Sec. 145                                             01/08/2008
+    23 USC Sec. 145                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -22519,7 +22717,7 @@
 
 
 -CITE-
-    23 USC Sec. 146                                             01/08/2008
+    23 USC Sec. 146                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -22665,7 +22863,7 @@
 
 
 -CITE-
-    23 USC Sec. 147                                             01/08/2008
+    23 USC Sec. 147                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -22753,7 +22951,7 @@
 
 
 -CITE-
-    23 USC Sec. 148                                             01/08/2008
+    23 USC Sec. 148                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -23097,8 +23295,10 @@
     this title.
 
                                 TRANSITION                            
-      Pub. L. 109-59, title I, Sec. 1401(e), Aug. 10, 2005, 119 Stat.
-    1227, provided that:
+      Pub. L. 109-59, title I, Sec. 1401(d), formerly Sec. 1401(e),
+    Aug. 10, 2005, 119 Stat. 1227, renumbered Sec. 1401(d) by Pub. L.
+    110-244, title I, Sec. 101(s)(1), June 6, 2008, 122 Stat. 1577,
+    provided that:
       "(1) Implementation. - Except as provided in paragraph (2), the
     Secretary [of Transportation] shall approve obligations of funds
     apportioned under section 104(b)(5) of title 23, United States Code
@@ -23129,7 +23329,7 @@
 
 
 -CITE-
-    23 USC Sec. 149                                             01/08/2008
+    23 USC Sec. 149                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -23694,7 +23894,7 @@
 
 
 -CITE-
-    23 USC Sec. 150                                             01/08/2008
+    23 USC Sec. 150                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -23724,7 +23924,7 @@
 
 
 -CITE-
-    23 USC Sec. 151                                             01/08/2008
+    23 USC Sec. 151                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -23798,7 +23998,7 @@
 
 
 -CITE-
-    23 USC Sec. 152                                             01/08/2008
+    23 USC Sec. 152                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -23965,7 +24165,7 @@
 
 
 -CITE-
-    23 USC Sec. 153                                             01/08/2008
+    23 USC Sec. 153                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -24213,7 +24413,7 @@
 
 
 -CITE-
-    23 USC Sec. 154                                             01/08/2008
+    23 USC Sec. 154                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -24372,7 +24572,7 @@
 
 
 -CITE-
-    23 USC Sec. 155                                             01/08/2008
+    23 USC Sec. 155                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -24454,7 +24654,7 @@
 
 
 -CITE-
-    23 USC Sec. 156                                             01/08/2008
+    23 USC Sec. 156                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -24530,7 +24730,7 @@
 
 
 -CITE-
-    23 USC Sec. 157                                             01/08/2008
+    23 USC Sec. 157                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -24818,7 +25018,7 @@
 
 
 -CITE-
-    23 USC Sec. 158                                             01/08/2008
+    23 USC Sec. 158                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -24927,7 +25127,7 @@
 
 
 -CITE-
-    23 USC Sec. 159                                             01/08/2008
+    23 USC Sec. 159                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -25182,7 +25382,7 @@
 
 
 -CITE-
-    23 USC Sec. 160                                             01/08/2008
+    23 USC Sec. 160                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -25320,7 +25520,7 @@
 
 
 -CITE-
-    23 USC Sec. 161                                             01/08/2008
+    23 USC Sec. 161                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -25399,7 +25599,7 @@
 
 
 -CITE-
-    23 USC Sec. 162                                             01/08/2008
+    23 USC Sec. 162                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -25429,10 +25629,11 @@
         a road on Federal land, as a Federal land management agency
         byway.
           (B) Nomination by indian tribes. - An Indian tribe may
-        nominate a road as a National Scenic Byway under subparagraph
-        (A) only if a Federal land management agency (other than the
-        Bureau of Indian Affairs), a State, or a political subdivision
-        of a State does not have - 
+        nominate a road as a National Scenic Byway, an All-American
+        Road, or one of America's Byways under paragraph (1) only if a
+        Federal land management agency (other than the Bureau of Indian
+        Affairs), a State, or a political subdivision of a State does
+        not have - 
             (i) jurisdiction over the road; or
             (ii) responsibility for managing the road.
 
@@ -25490,12 +25691,13 @@
       while providing for accommodation of increased tourism and
       development of related amenities.
         (3) Safety improvements to a State scenic byway, Indian tribe
-      scenic byway, National Scenic Byway, or All-American Road to the
-      extent that the improvements are necessary to accommodate
-      increased traffic and changes in the types of vehicles using the
-      highway as a result of the designation as a State scenic byway,
-      Indian tribe scenic byway, National Scenic Byway, or All-American
-      Road.
+      scenic byway, National Scenic Byway, All-American Road, or one of
+      America's Byways to the extent that the improvements are
+      necessary to accommodate increased traffic and changes in the
+      types of vehicles using the highway as a result of the
+      designation as a State scenic byway, Indian tribe scenic byway,
+      National Scenic Byway, All-American Road, or one of America's
+      Byways.
         (4) Construction along a scenic byway of a facility for
       pedestrians and bicyclists, rest area, turnout, highway shoulder
       improvement, overlook, or interpretive facility.
@@ -25529,11 +25731,19 @@
 -SOURCE-
     (Added Pub. L. 105-178, title I, Sec. 1219(a), June 9, 1998, 112
     Stat. 219; amended Pub. L. 109-59, title I, Sec. 1802, Aug. 10,
-    2005, 119 Stat. 1456.)
+    2005, 119 Stat. 1456; Pub. L. 110-244, title I, Sec. 101(o), June
+    6, 2008, 122 Stat. 1576.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (a)(3)(B). Pub. L. 110-244, Sec. 101(o)(1),
+    substituted "a National Scenic Byway, an All-American Road, or one
+    of America's Byways under paragraph (1)" for "a National Scenic
+    Byway under subparagraph (A)" in introductory provisions.
+      Subsec. (c)(3). Pub. L. 110-244, Sec. 101(o)(2), substituted "All-
+    American Road, or one of America's Byways" for "or All-American
+    Road" in two places.
       2005 - Subsec. (a)(1). Pub. L. 109-59, Sec. 1802(a)(1),
     substituted "the roads as - " and subpars. (A) to (C) for "the
     roads as National Scenic Byways or All-American Roads."
@@ -25576,7 +25786,7 @@
 
 
 -CITE-
-    23 USC Sec. 163                                             01/08/2008
+    23 USC Sec. 163                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -25739,7 +25949,7 @@
 
 
 -CITE-
-    23 USC Sec. 164                                             01/08/2008
+    23 USC Sec. 164                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -25772,11 +25982,20 @@
       subsequent offense for driving while intoxicated or driving under
       the influence after a previous conviction for that offense shall -
        
-          (A) receive a driver's license suspension for not less than 1
-        year;
-          (B) be subject to the impoundment or immobilization of each
-        of the individual's motor vehicles or the installation of an
-        ignition interlock system on each of the motor vehicles;
+          (A) receive - 
+            (i) a driver's license suspension for not less than 1 year;
+          or
+            (ii) a combination of suspension of all driving privileges
+          for the first 45 days of the suspension period followed by a
+          reinstatement of limited driving privileges for the purpose
+          of getting to and from work, school, or an alcohol treatment
+          program if an ignition interlock device is installed on each
+          of the motor vehicles owned or operated, or both, by the
+          individual;
+
+          (B) be subject to the impoundment or immobilization of, or
+        the installation of an ignition interlock system on, each motor
+        vehicle owned or operated, or both, by the individual;
           (C) receive an assessment of the individual's degree of abuse
         of alcohol and treatment as appropriate; and
           (D) receive - 
@@ -25863,11 +26082,20 @@
     (Added Pub. L. 105-178, title I, Sec. 1406(a), as added Pub. L. 105-
     206, title IX, Sec. 9005(a), July 22, 1998, 112 Stat. 845; amended
     Pub. L. 109-59, title I, Sec. 1401(a)(3)(C), Aug. 10, 2005, 119
-    Stat. 1225.)
+    Stat. 1225; Pub. L. 110-244, title I, Sec. 115, June 6, 2008, 122
+    Stat. 1606.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (a)(5)(A), (B). Pub. L. 110-244 added subpars. (A)
+    and (B) and struck out former subpars. (A) and (B) which read as
+    follows:
+      "(A) receive a driver's license suspension for not less than 1
+    year;
+      "(B) be subject to the impoundment or immobilization of each of
+    the individual's motor vehicles or the installation of an ignition
+    interlock system on each of the motor vehicles;".
       2005 - Subsec. (b)(3). Pub. L. 109-59 substituted "148" for
     "152".
 
@@ -25883,7 +26111,7 @@
 
 
 -CITE-
-    23 USC Sec. 165                                             01/08/2008
+    23 USC Sec. 165                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -25940,7 +26168,7 @@
 
 
 -CITE-
-    23 USC Sec. 166                                             01/08/2008
+    23 USC Sec. 166                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -26022,8 +26250,7 @@
 
           (C) Amount of tolls. - Under subparagraph (B), a State agency
         may charge no toll or may charge a toll that is less than tolls
-        charged under paragraph (3).(!1)
-
+        charged under paragraph (4).
 
       (c) Requirements Applicable to Tolls. - 
         (1) In general. - Tolls may be charged under paragraphs (4) and
@@ -26156,7 +26383,8 @@
 
 -SOURCE-
     (Added Pub. L. 109-59, title I, Sec. 1121(a), Aug. 10, 2005, 119
-    Stat. 1192.)
+    Stat. 1192; amended Pub. L. 110-244, title I, Sec. 101(p), June 6,
+    2008, 122 Stat. 1576.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -26164,17 +26392,18 @@
     (e), is the date of enactment of Pub. L. 109-59, which was approved
     Aug. 10, 2005.
 
--FOOTNOTE-               
 
-    (!1) So in original. Probably should be paragraph "(4)".
-
+-MISC1-
+                                AMENDMENTS                            
+      2008 - Subsec. (b)(5)(C). Pub. L. 110-244 substituted "paragraph
+    (4)" for "paragraph (3)".
 
 -End-
 
 
 
 -CITE-
-    23 USC Secs. 181 to 190                                     01/08/2008
+    23 USC Secs. 181 to 190                                     01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -26190,13 +26419,14 @@
     were renumbered sections 601 to 610, respectively, and transferred
     to follow the analysis of chapter 6 of this title, by Pub. L. 109-
     59, title I, Sec. 1602(b)(6)(B), (d), Aug. 10, 2005, 119 Stat.
-    1247.
+    1247, as amended by Pub. L. 110-244, title I, Sec. 101(f), June 6,
+    2008, 122 Stat. 1574.
 
 -End-
 
 
 -CITE-
-    23 USC CHAPTER 2 - OTHER HIGHWAYS                           01/08/2008
+    23 USC CHAPTER 2 - OTHER HIGHWAYS                           01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -26266,7 +26496,7 @@
 
 
 -CITE-
-    23 USC Sec. 201                                             01/08/2008
+    23 USC Sec. 201                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -26305,7 +26535,7 @@
 
 
 -CITE-
-    23 USC Sec. 202                                             01/08/2008
+    23 USC Sec. 202                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -26972,7 +27202,7 @@
 
 
 -CITE-
-    23 USC Sec. 203                                             01/08/2008
+    23 USC Sec. 203                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -27060,7 +27290,7 @@
 
 
 -CITE-
-    23 USC Sec. 204                                             01/08/2008
+    23 USC Sec. 204                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -27521,7 +27751,7 @@
 
 
 -CITE-
-    23 USC Sec. 205                                             01/08/2008
+    23 USC Sec. 205                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -27594,7 +27824,7 @@
 
 
 -CITE-
-    23 USC Sec. 206                                             01/08/2008
+    23 USC Sec. 206                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -27692,9 +27922,9 @@
         apportionment made to the State for the fiscal year.
 
         (3) Use of apportionments. - 
-          (A) In general. - Except as provided in subparagraphs (B),
-        (C), and (D), of the apportionments made to a State for a
-        fiscal year to carry out this section - 
+          (A) In general. - Except as provided in subparagraphs (B) and
+        (C), of the apportionments made to a State for a fiscal year to
+        carry out this section - 
             (i) 40 percent shall be used for recreational trail or
           related projects that facilitate diverse recreational trail
           use within a recreational trail corridor, trailside, or
@@ -27861,7 +28091,8 @@
 -SOURCE-
     (Added Pub. L. 105-178, title I, Sec. 1112(a), June 9, 1998, 112
     Stat. 146; amended Pub. L. 109-59, title I, Sec. 1109(b)-(e), Aug.
-    10, 2005, 119 Stat. 1168-1170.)
+    10, 2005, 119 Stat. 1168-1170; Pub. L. 110-244, title I, Sec.
+    101(q), June 6, 2008, 122 Stat. 1576.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -27903,6 +28134,8 @@
     126(d), Jan. 6, 1983, 96 Stat. 2115.
 
                                 AMENDMENTS                            
+      2008 - Subsec. (d)(3)(A). Pub. L. 110-244 substituted "(B) and
+    (C)" for "(B), (C), and (D)" in introductory provisions.
       2005 - Subsec. (d)(2). Pub. L. 109-59, Sec. 1109(b), amended par.
     (2) generally. Prior to amendment, par. (2) consisted of subpars.
     (A) to (G) relating to permissible uses of funds apportioned to
@@ -27952,7 +28185,7 @@
 
 
 -CITE-
-    23 USC Secs. 207 to 209                                     01/08/2008
+    23 USC Secs. 207 to 209                                     01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -27993,7 +28226,7 @@
 
 
 -CITE-
-    23 USC Sec. 210                                             01/08/2008
+    23 USC Sec. 210                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -28003,7 +28236,7 @@
     Sec. 210. Defense access roads
 
 -STATUTE-
-      (a) The Secretary is authorized, out of the funds appropriated
+      (a)(1) The Secretary is authorized, out of the funds appropriated
     for defense access roads, to provide for the construction and
     maintenance of defense access roads (including bridges, tubes, and
     tunnels thereon) to military reservations, to defense industries
@@ -28014,6 +28247,11 @@
     and highway connections that are shut off from the general public
     use by necessary closures or restrictions at military reservations
     and defense industry sites.
+      (2) If it is determined that an action of the Department of
+    Defense will cause a significant transportation impact to access to
+    a military reservation, the Secretary of Defense shall conduct a
+    transportation needs assessment to assess the magnitude of the
+    improvement required to address the impact.
       (b) Funds appropriated for the purposes of this section shall be
     available, without regard to apportionment among the several
     States, for paying all or any part of the cost of the construction
@@ -28106,11 +28344,14 @@
     155, Jan. 6, 1983, 96 Stat. 2134; Pub. L. 100-17, title I, Sec.
     133(b)(15), Apr. 2, 1987, 101 Stat. 172; Pub. L. 105-178, title I,
     Sec. 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109-
-    284, Sec. 3(2), Sept. 27, 2006, 120 Stat. 1211.)
+    284, Sec. 3(2), Sept. 27, 2006, 120 Stat. 1211; Pub. L. 110-417,
+    div. B, title XXVIII, Sec. 2814(a), Oct. 14, 2008, 122 Stat. 4728.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (a). Pub. L. 110-417 designated existing
+    provisions as par. (1) and added par. (2).
       2006 - Subsec. (e). Pub. L. 109-284 substituted "sections 3114 to
     3116 and 3118 of title 40" for "the Act of February 26, 1931; 46
     Stat. 1421".
@@ -28131,7 +28372,7 @@
 
 
 -CITE-
-    23 USC Sec. 211                                             01/08/2008
+    23 USC Sec. 211                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -28151,7 +28392,7 @@
 
 
 -CITE-
-    23 USC Sec. 212                                             01/08/2008
+    23 USC Sec. 212                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -28258,7 +28499,7 @@
 
 
 -CITE-
-    23 USC Sec. 213                                             01/08/2008
+    23 USC Sec. 213                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -28278,7 +28519,7 @@
 
 
 -CITE-
-    23 USC Sec. 214                                             01/08/2008
+    23 USC Sec. 214                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -28313,7 +28554,7 @@
 
 
 -CITE-
-    23 USC Sec. 215                                             01/08/2008
+    23 USC Sec. 215                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -28479,7 +28720,7 @@
 
 
 -CITE-
-    23 USC Sec. 216                                             01/08/2008
+    23 USC Sec. 216                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -28539,7 +28780,7 @@
 
 
 -CITE-
-    23 USC Sec. 217                                             01/08/2008
+    23 USC Sec. 217                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -28753,7 +28994,8 @@
 
                  NONMOTORIZED TRANSPORTATION PILOT PROGRAM             
       Pub. L. 109-59, title I, Sec. 1807, Aug. 10, 2005, 119 Stat.
-    1460, provided that:
+    1460, as amended by Pub. L. 110-244, title I, Sec. 106, June 6,
+    2008, 122 Stat. 1602, provided that:
       "(a) Establishment. - The Secretary [of Transportation] shall
     establish and carry out a nonmotorized transportation pilot program
     to construct, in the following 4 communities selected by the
@@ -28764,7 +29006,7 @@
     community activity centers:
         "(1) Columbia, Missouri.
         "(2) Marin County, California.
-        "(3) Minneapolis-St. Paul, Minnesota.
+        "(3) Minneapolis, Minnesota.
         "(4) Sheboygan County, Wisconsin.
       "(b) Purpose. - The purpose of the program shall be to
     demonstrate the extent to which bicycling and walking can carry a
@@ -28853,7 +29095,7 @@
 
 
 -CITE-
-    23 USC Sec. 218                                             01/08/2008
+    23 USC Sec. 218                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -28987,7 +29229,7 @@
 
 
 -CITE-
-    23 USC Sec. 219                                             01/08/2008
+    23 USC Sec. 219                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29009,7 +29251,7 @@
 
 
 -CITE-
-    23 USC CHAPTER 3 - GENERAL PROVISIONS                       01/08/2008
+    23 USC CHAPTER 3 - GENERAL PROVISIONS                       01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29097,7 +29339,7 @@
 
 
 -CITE-
-    23 USC Sec. 301                                             01/08/2008
+    23 USC Sec. 301                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29120,7 +29362,7 @@
 
 
 -CITE-
-    23 USC Sec. 302                                             01/08/2008
+    23 USC Sec. 302                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29170,7 +29412,7 @@
 
 
 -CITE-
-    23 USC Sec. 303                                             01/08/2008
+    23 USC Sec. 303                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29377,7 +29619,7 @@
 
 
 -CITE-
-    23 USC Sec. 304                                             01/08/2008
+    23 USC Sec. 304                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29405,7 +29647,7 @@
 
 
 -CITE-
-    23 USC Sec. 305                                             01/08/2008
+    23 USC Sec. 305                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29447,7 +29689,7 @@
 
 
 -CITE-
-    23 USC Sec. 306                                             01/08/2008
+    23 USC Sec. 306                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29490,7 +29732,7 @@
 
 
 -CITE-
-    23 USC Sec. 307                                             01/08/2008
+    23 USC Sec. 307                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29538,7 +29780,7 @@
 
 
 -CITE-
-    23 USC Sec. 308                                             01/08/2008
+    23 USC Sec. 308                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29583,7 +29825,7 @@
 
 
 -CITE-
-    23 USC Sec. 309                                             01/08/2008
+    23 USC Sec. 309                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29647,7 +29889,7 @@
 
 
 -CITE-
-    23 USC Sec. 310                                             01/08/2008
+    23 USC Sec. 310                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29702,7 +29944,7 @@
 
 
 -CITE-
-    23 USC Sec. 311                                             01/08/2008
+    23 USC Sec. 311                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29750,7 +29992,7 @@
 
 
 -CITE-
-    23 USC Sec. 312                                             01/08/2008
+    23 USC Sec. 312                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29786,7 +30028,7 @@
 
 
 -CITE-
-    23 USC Sec. 313                                             01/08/2008
+    23 USC Sec. 313                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29924,6 +30166,32 @@
     years 1992 and 1993.
 
             BUY AMERICA WAIVER NOTIFICATION AND ANNUAL REPORTS        
+      Pub. L. 110-244, title I, Sec. 117, June 6, 2008, 122 Stat. 1607,
+    provided that:
+      "(a) Waiver Notification. - 
+        "(1) In general. - If the Secretary of Transportation makes a
+      finding under section 313(b) of title 23, United States Code,
+      with respect to a project, the Secretary shall - 
+          "(A) publish in the Federal Register, before the date on
+        which such finding takes effect, a detailed written
+        justification as to the reasons that such finding is needed;
+        and
+          "(B) provide notice of such finding and an opportunity for
+        public comment on such finding for a period of not to exceed 60
+        days.
+        "(2) Limitation on statutory construction. - Nothing in
+      paragraph (1) shall be construed to require the effective date of
+      a finding referred to in paragraph (1) to be delayed until after
+      the close of the public comment period referred to in paragraph
+      (1)(B).
+      "(b) Annual Reports. - Not later than February 1 of each year
+    beginning after the date of enactment of this Act [June 6, 2008],
+    the Secretary shall submit to the Committee on Transportation and
+    Infrastructure of the House of Representatives and the Committee on
+    Environment and Public Works of the Senate a report on the projects
+    for which the Secretary made findings under section 313(b) of title
+    23, United States Code, during the preceding calendar year and the
+    justifications for such findings."
       Pub. L. 110-161, div. K, title I, Sec. 130, Dec. 26, 2007, 121
     Stat. 2389, provided that: "Not less than 15 days prior to waiving,
     under her statutory authority, any Buy America requirement for
@@ -29939,7 +30207,7 @@
 
 
 -CITE-
-    23 USC Sec. 314                                             01/08/2008
+    23 USC Sec. 314                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29971,7 +30239,7 @@
 
 
 -CITE-
-    23 USC Sec. 315                                             01/08/2008
+    23 USC Sec. 315                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30010,7 +30278,7 @@
 
 
 -CITE-
-    23 USC Sec. 316                                             01/08/2008
+    23 USC Sec. 316                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30041,7 +30309,7 @@
 
 
 -CITE-
-    23 USC Sec. 317                                             01/08/2008
+    23 USC Sec. 317                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30097,7 +30365,7 @@
 
 
 -CITE-
-    23 USC Sec. 318                                             01/08/2008
+    23 USC Sec. 318                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30135,7 +30403,7 @@
 
 
 -CITE-
-    23 USC Sec. 319                                             01/08/2008
+    23 USC Sec. 319                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30270,7 +30538,7 @@
 
 
 -CITE-
-    23 USC Sec. 320                                             01/08/2008
+    23 USC Sec. 320                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30490,7 +30758,7 @@
 
 
 -CITE-
-    23 USC Sec. 321                                             01/08/2008
+    23 USC Sec. 321                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30539,7 +30807,7 @@
 
 
 -CITE-
-    23 USC Sec. 322                                             01/08/2008
+    23 USC Sec. 322                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30807,7 +31075,8 @@
 
          DEPLOYMENT OF MAGNETIC LEVITATION TRANSPORTATION PROJECTS     
       Pub. L. 109-59, title I, Sec. 1307, Aug. 10, 2005, 119 Stat.
-    1217, provided that:
+    1217, as amended by Pub. L. 110-244, title I, Sec. 102(b), (c),
+    June 6, 2008, 122 Stat. 1577, provided that:
       "(a) Definitions. - In this section, the following definitions
     apply:
         "(1) Eligible project costs. - The term 'eligible project
@@ -30852,9 +31121,26 @@
       designated by one or more States.
       "(d) Allocation. - Of the amounts made available to carry out
     this section for a fiscal year, the Secretary [of Transportation]
-    shall allocate 50 percent for the MAGLEV project between Las Vegas
-    and Primm, Nevada, and 50 percent for a MAGLEV project located east
-    of the Mississippi River."
+    shall allocate - 
+        "(1) 50 percent to the Nevada department of transportation who
+      shall cooperate with the California-Nevada Super Speed Train
+      Commission for the MAGLEV project between Las Vegas and Primm,
+      Nevada, as a segment of the high-speed MAGLEV system between Las
+      Vegas, Nevada, and Anaheim, California; and
+        "(2) 50 percent for existing MAGLEV projects located east of
+      the Mississippi River using such criteria as the Secretary deems
+      appropriate.
+      "(e) Contract Authority. - Funds authorized under section
+    1101(a)(18) [119 Stat. 1155] shall be available for obligation in
+    the same manner as if the funds were apportioned under chapter 1 of
+    title 23, United States Code; except that the funds shall not be
+    transferable and shall remain available until expended, and the
+    Federal share of the cost of a project to be carried out with such
+    funds shall be 80 percent."
+      [Pub. L. 110-244, title I, Sec. 102(d), June 6, 2008, 122 Stat.
+    1578, provided that: "The amendments made by this section [amending
+    section 1307 of Pub. L. 109-59, set out above] take effect on
+    October 1, 2007."]
 
                      ADVANCED TECHNOLOGY PILOT PROJECT                 
       Pub. L. 105-178, title III, Sec. 3015(c), June 9, 1998, 112 Stat.
@@ -30914,7 +31200,7 @@
 
 
 -CITE-
-    23 USC Sec. 323                                             01/08/2008
+    23 USC Sec. 323                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -31073,7 +31359,7 @@
 
 
 -CITE-
-    23 USC Sec. 324                                             01/08/2008
+    23 USC Sec. 324                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -31112,7 +31398,7 @@
 
 
 -CITE-
-    23 USC Sec. 325                                             01/08/2008
+    23 USC Sec. 325                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -31248,7 +31534,7 @@
 
 
 -CITE-
-    23 USC Sec. 326                                             01/08/2008
+    23 USC Sec. 326                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -31355,7 +31641,7 @@
 
 
 -CITE-
-    23 USC Sec. 327                                             01/08/2008
+    23 USC Sec. 327                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -31559,7 +31845,7 @@
 
 
 -CITE-
-    23 USC Sec. 328                                             01/08/2008
+    23 USC Sec. 328                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -31596,7 +31882,7 @@
 
 
 -CITE-
-    23 USC Sec. 329                                             01/08/2008
+    23 USC Sec. 329                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -31665,7 +31951,7 @@
 
 
 -CITE-
-    23 USC CHAPTER 4 - HIGHWAY SAFETY                           01/08/2008
+    23 USC CHAPTER 4 - HIGHWAY SAFETY                           01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -31725,7 +32011,7 @@
 
 
 -CITE-
-    23 USC Sec. 401                                             01/08/2008
+    23 USC Sec. 401                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -32347,7 +32633,7 @@
 
 
 -CITE-
-    23 USC Sec. 402                                             01/08/2008
+    23 USC Sec. 402                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -32494,8 +32780,8 @@
     the end of the calendar year preceding the year in which the funds
     are apportioned and shall be certified to by the Governor of the
     State and subject to approval by the Secretary. The annual
-    apportionment to each State shall not be less than one-half of 1
-    per centum of the total apportionment, except that the
+    apportionment to each State shall not be less than three-quarters
+    of 1 percent of the total apportionment, except that the
     apportionment to the Secretary of the Interior shall not be less
     than 2 percent of the total apportionment and the apportionments to
     the Virgin Islands, Guam, American Samoa, and the Commonwealth of
@@ -32666,10 +32952,10 @@
     Secretary.
       (m) Consolidation of Grant Applications. - The Secretary shall
     establish an approval process by which a State may apply for all
-    grants under this chapter through a single application process with
-    one annual deadline. The Bureau of Indian Affairs shall establish a
-    similar simplified process for applications for grants from Indian
-    tribes under this chapter.
+    grants under this chapter for which a single application process
+    with one annual deadline is appropriate. The Bureau of Indian
+    Affairs shall establish a similar simplified process for
+    applications for grants from Indian tribes under this chapter.
 
 -SOURCE-
     (Added Pub. L. 89-564, title I, Sec. 101, Sept. 9, 1966, 80 Stat.
@@ -32689,7 +32975,8 @@
     21, 1995, 109 Stat. 724; Pub. L. 105-178, title I, Sec.
     1212(a)(2)(A)(i), title II, Sec. 2001(a)-(e), June 9, 1998, 112
     Stat. 193, 323, 324; Pub. L. 109-59, title II, Sec. 2002(a)-(d),
-    Aug. 10, 2005, 119 Stat. 1521.)
+    Aug. 10, 2005, 119 Stat. 1521; Pub. L. 110-244, title III, Sec.
+    303(a)-(c)(1), June 6, 2008, 122 Stat. 1619.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -32703,6 +32990,20 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (b). Pub. L. 110-244, Sec. 303(c)(1)(A), repealed
+    amendment by Pub. L. 109-59, Sec. 2002(b)(2). See 2005 Amendment
+    note below.
+      Subsec. (b)(1)(E). Pub. L. 110-244, Sec. 303(c)(1)(B), renumbered
+    Pub. L. 109-59, Sec. 2002(b)(1), (3), (4). See 2005 Amendment note
+    below.
+      Subsec. (c). Pub. L. 110-244, Sec. 303(a), in fifth sentence,
+    substituted "The annual apportionment to each State shall not be
+    less than three-quarters of 1 percent" for "The annual
+    apportionment to each State shall not be less than one-half of 1
+    per centum".
+      Subsec. (m). Pub. L. 110-244, Sec. 303(b), in first sentence,
+    substituted "for which" for "through" and inserted "is appropriate"
+    before period at end.
       2005 - Subsec. (a). Pub. L. 109-59, Sec. 2002(a)(4), inserted
     "aggressive driving, fatigued driving, distracted driving," after
     "school bus accidents," in tenth sentence.
@@ -32712,11 +33013,12 @@
       Subsec. (a)(6), (7). Pub. L. 109-59, Sec. 2002(a)(2), (3), added
     cl. (6) and redesignated former cl. (6) as (7).
       Subsec. (b). Pub. L. 109-59, Sec. 2002(b)(2), which directed
-    amendment of subsec. (b)(1) by redesignating cl. (6) as (7), could
-    not be executed because neither subsec. (b)(1) nor (b) contained a
-    cl. (6).
-      Subsec. (b)(1)(E). Pub. L. 109-59, Sec. 2002(b)(1), (3), (4),
-    added subpar. (E).
+    amendment of subsec. (b)(1) by redesignating cl. (6) as (7) and
+    could not be executed, was repealed by Pub. L. 110-244, Sec.
+    303(c)(1)(A).
+      Subsec. (b)(1)(E). Pub. L. 109-59, Sec. 2002(b)(1)-(3), formerly
+    Sec. 2002(b)(1), (3), (4), as renumbered by Pub. L. 110-244, Sec.
+    303(c)(1)(B), added subpar. (E).
       Subsec. (c). Pub. L. 109-59, Sec. 2002(c)(2), which directed
     amendment of subsec. (c) by substituting "2 percent" for "three-
     fourths of 1 percent" in sixth sentence, was executed by making
@@ -33084,6 +33386,18 @@
     funds apportioned to States not having approved safety programs
     shall be reduced until a safety program is implemented.
 
+                     EFFECTIVE DATE OF 2008 AMENDMENT                 
+      Amendment by sections 101(s)(2) and 303(c)(1) of Pub. L. 110-244
+    effective as of the date of enactment of Pub. L. 109-59 (Aug. 10,
+    2005) and to be treated as included in Pub. L. 109-59 as of that
+    date, and provisions of Pub. L. 109-59, as in effect on the day
+    before June 6, 2008, that are amended by Pub. L. 110-244 to be
+    treated as not enacted, see section 121(b) of Pub. L. 110-244, set
+    out as a note under section 101 of this title.
+      Pub. L. 110-244, title III, Sec. 303(a), June 6, 2008, 122 Stat.
+    1619, provided that the amendment made by section 303(a) is
+    effective Oct. 1, 2007.
+
                      EFFECTIVE DATE OF 2005 AMENDMENT                 
       Pub. L. 109-59, title II, Sec. 2022, Aug. 10, 2005, 119 Stat.
     1544, provided that: "Sections 2002 through 2007 of this title
@@ -33132,7 +33446,8 @@
 
                        SAFE ROUTES TO SCHOOL PROGRAM                   
       Pub. L. 109-59, title I, Sec. 1404, Aug. 10, 2005, 119 Stat.
-    1228, provided that:
+    1228, as amended by Pub. L. 110-244, Sec. 101(s)(2), June 6, 2008,
+    122 Stat. 1577, provided that:
       "(a) Establishment. - Subject to the requirements of this
     section, the Secretary [of Transportation] shall establish and
     carry out a safe routes to school program for the benefit of
@@ -33172,9 +33487,9 @@
     of transportation.
       "(e) Eligible Recipients. - Amounts apportioned to a State under
     this section shall be used by the State to provide financial
-    assistance to State, local, and regional agencies, including
-    nonprofit organizations, that demonstrate an ability to meet the
-    requirements of this section.
+    assistance to State, local, tribal, and regional agencies,
+    including nonprofit organizations, that demonstrate an ability to
+    meet the requirements of this section.
       "(f) Eligible Projects and Activities. - 
         "(1) Infrastructure-related projects. - 
           "(A) In general. - Amounts apportioned to a State under this
@@ -34054,7 +34369,7 @@
 
 
 -CITE-
-    23 USC Sec. 403                                             01/08/2008
+    23 USC Sec. 403                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -34646,7 +34961,7 @@
 
 
 -CITE-
-    23 USC Sec. 404                                             01/08/2008
+    23 USC Sec. 404                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -34788,7 +35103,7 @@
 
 
 -CITE-
-    23 USC Sec. 405                                             01/08/2008
+    23 USC Sec. 405                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -35075,7 +35390,7 @@
 
 
 -CITE-
-    23 USC Sec. 406                                             01/08/2008
+    23 USC Sec. 406                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -35246,7 +35561,7 @@
 
 
 -CITE-
-    23 USC Sec. 407                                             01/08/2008
+    23 USC Sec. 407                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -35300,7 +35615,7 @@
 
 
 -CITE-
-    23 USC Sec. 408                                             01/08/2008
+    23 USC Sec. 408                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -35487,7 +35802,7 @@
 
 
 -CITE-
-    23 USC Sec. 409                                             01/08/2008
+    23 USC Sec. 409                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -35542,7 +35857,7 @@
 
 
 -CITE-
-    23 USC Sec. 410                                             01/08/2008
+    23 USC Sec. 410                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -35574,9 +35889,10 @@
         State receives a grant under this section, 75 percent;
           (B) in each of the third and fourth fiscal years in which the
         State receives a grant under this section, 50 percent; and
-          (C) in each of the fifth, sixth, seventh, and eighth fiscal
-        years in which the State receives a grant under this section,
-        25 percent.
+          (C) in each of the fifth, sixth,,(!1) seventh, and eighth
+        fiscal years in which the State receives a grant under this
+        section, 25 percent.
+
 
       (b) Eligibility Requirements. - To be eligible for a grant under
     subsection (a), a State shall - 
@@ -35718,12 +36034,13 @@
           installed on each of the motor vehicles owned or operated, or
           both, by the individual; and
 
-          (B) the suspension and revocation referred to under clause
-        (i) take effect not later than 30 days after the date on which
-        the individual refused to submit to a chemical test or received
-        notice of having been determined to be driving under the
-        influence of alcohol, in accordance with the procedures of the
-        State.
+          (B) the suspension and revocation referred to under clauses
+        (i) and (ii) (!2) take effect not later than 30 days after the
+        date on which the individual refused to submit to a chemical
+        test or received notice of having been determined to be driving
+        under the influence of alcohol, in accordance with the
+        procedures of the State.
+
 
         (8) Self sustaining impaired driving prevention program. - A
       program under which a significant portion of the fines or
@@ -35828,7 +36145,8 @@
     2004(a), June 9, 1998, 112 Stat. 328; Pub. L. 108-88, Sec. 6(e)(1),
     Sept. 30, 2003, 117 Stat. 1120; Pub. L. 108-310, Sec. 6(e)(1),
     Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109-59, title II, Sec.
-    2007(a), (b), Aug. 10, 2005, 119 Stat. 1529.)
+    2007(a), (b), Aug. 10, 2005, 119 Stat. 1529; Pub. L. 110-244, title
+    III, Sec. 303(c)(2), (3), June 6, 2008, 122 Stat. 1619.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -35842,14 +36160,30 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (a)(3). Pub. L. 110-244, Sec. 303(c)(2)(A), (B),
+    amended Pub. L. 109-59, Sec. 2007(b)(1)(A), (B). See 2005 Amendment
+    note below.
+      Subsec. (a)(3)(C). Pub. L. 110-244, Sec. 303(c)(2)(C), repealed
+    amendment by Pub. L. 109-59, Sec. 2007(b)(1)(C). See 2005 Amendment
+    note below.
+      Subsec. (a)(4). Pub. L. 110-244, Sec. 303(c)(2)(B), amended Pub.
+    L. 109-59, Sec. 2007(b)(1)(B). See 2005 Amendment note below.
+      Subsec. (c)(7)(B). Pub. L. 110-244, Sec. 303(c)(3), substituted
+    "clauses (i) and (ii)" for "clause (i)".
       2005 - Subsec. (a)(2). Pub. L. 109-59, Sec. 2007(a), substituted
     "under this subsection" for "under this section" and "SAFETEA-LU"
     for "Transportation Equity Act for the 21st Century".
-      Subsec. (a)(3), (4). Pub. L. 109-59, Sec. 2007(b)(1),
-    redesignated par. (4) as (3), substituted "sixth," for "sixth,,",
-    and struck out heading and text of former par. (3). Text read as
-    follows: "No State may receive grants under this section in more
-    than 8 fiscal years beginning after September 30, 1997."
+      Subsec. (a)(3). Pub. L. 109-59, Sec. 2007(b)(1)(A), (B), as
+    amended by Pub. L. 110-244, Sec. 303(c)(2)(A), (B), redesignated
+    par. (4) as (3) and struck out heading and text of former par. (3).
+    Text read as follows: "No State may receive grants under this
+    section in more than 8 fiscal years beginning after September 30,
+    1997."
+      Subsec. (a)(3)(C). Pub. L. 109-59, Sec. 2007(b)(1)(C), which
+    directed amendment of par. (3) by striking out second comma after
+    "sixth", was repealed by Pub. L. 110-244, Sec. 303(c)(2)(C).
+      Subsec. (a)(4). Pub. L. 109-59, Sec. 2007(b)(1)(B), as amended by
+    Pub. L. 110-244, Sec. 303(c)(2)(B), redesignated par. (4) as (3).
       Subsec. (b) to (i). Pub. L. 109-59, Sec. 2007(b)(2)-(4), added
     subsecs. (b) to (g), redesignated former subsecs. (e) and (f) as
     (h) and (i), respectively, added pars. (4) and (5) to subsec. (i),
@@ -35956,6 +36290,18 @@
       Subsec. (e)(2). Pub. L. 101-516 inserted "a significant portion
     of" after "under which" and substituted "apprehended and fined for"
     for "convicted of".
+
+                     EFFECTIVE DATE OF 2008 AMENDMENT                 
+      Amendment by section 303(c)(2) of Pub. L. 110-244 effective as of
+    the date of enactment of Pub. L. 109-59 (Aug. 10, 2005) and to be
+    treated as included in Pub. L. 109-59 as of that date, and
+    provisions of Pub. L. 109-59, as in effect on the day before June
+    6, 2008, that are amended by Pub. L. 110-244 to be treated as not
+    enacted, see section 121(b) of Pub. L. 110-244, set out as a note
+    under section 101 of this title.
+      Pub. L. 110-244, title III, Sec. 303(c)(3), June 6, 2008, 122
+    Stat. 1619, provided that the amendment made by section 303(c)(3)
+    is effective Aug. 10, 2005.
 
                      EFFECTIVE DATE OF 2005 AMENDMENT                 
       Amendment by Pub. L. 109-59 effective Oct. 1, 2005, see section
@@ -36088,12 +36434,19 @@
     prohibit the sale of alcoholic beverages to persons who are less
     than 21 years of age."
 
+-FOOTNOTE-
+    (!1) So in original.
+
+    (!2) So in original. Probably should be "clauses (i) and (ii) of
+         subparagraph (A)".
+
+
 -End-
 
 
 
 -CITE-
-    23 USC Sec. 411                                             01/08/2008
+    23 USC Sec. 411                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -36216,8 +36569,7 @@
       used to conduct activities needed to enable the State to qualify
       for a first-year grant in the next fiscal year.
 
-      (c) (!1) Succeeding Year Grants. - 
-
+      (c) Succeeding Year Grants. - 
         (1) Eligibility. - A State shall be eligible for a grant under
       this subsection in a fiscal year succeeding the first fiscal year
       in which the State receives a grant under subsection (b) if the
@@ -36243,16 +36595,17 @@
       except that no State eligible for a grant under this paragraph
       shall receive less than $225,000.
 
-      (c) (!1) Administrative Expenses. - Funds authorized to be
+      (d) Administrative Expenses. - Funds authorized to be
     appropriated to carry out this section in a fiscal year shall be
     subject to a deduction not to exceed 5 percent for the necessary
     costs of administering the provisions of this section.
-      (d) Applicability of Chapter 1. - The provisions contained in
+      (e) Applicability of Chapter 1. - The provisions contained in
     section 402(d) shall apply to this section.
 
 -SOURCE-
     (Added Pub. L. 105-178, title II, Sec. 2005(a), June 9, 1998, 112
-    Stat. 332.)
+    Stat. 332; amended Pub. L. 110-244, title III, Sec. 303(c)(4), June
+    6, 2008, 122 Stat. 1619.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -36260,16 +36613,19 @@
     21st Century, referred to in subsec. (a)(3), is the date of
     enactment of Pub. L. 105-178, which was approved June 9, 1998.
 
--FOOTNOTE-
-    (!1) So in original. Two subsecs. (c) have been enacted.
 
+-MISC1-
+                                AMENDMENTS                            
+      2008 - Subsecs. (c) to (e). Pub. L. 110-244 redesignated subsecs.
+    (c), relating to administrative expenses, and (d) as (d) and (e),
+    respectively.
 
 -End-
 
 
 
 -CITE-
-    23 USC Sec. 412                                             01/08/2008
+    23 USC Sec. 412                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -36366,7 +36722,7 @@
 
 
 -CITE-
-    23 USC CHAPTER 5 - RESEARCH, TECHNOLOGY, AND EDUCATION      01/08/2008
+    23 USC CHAPTER 5 - RESEARCH, TECHNOLOGY, AND EDUCATION      01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -36405,16 +36761,23 @@
     respectively, of Title 42.
 
                                 AMENDMENTS                            
-      2005 - Pub. L. 109-59, title V, Secs. 5201(a)(2), 5207(c),
-    5208(b), 5209(c), 5210(d), 5211(c), 5301(b), 5302(b), Aug. 10,
-    2005, 119 Stat. 1781, 1798, 1799, 1801, 1804, 1805, substituted
-    "RESEARCH, TECHNOLOGY, AND EDUCATION" for "RESEARCH AND TECHNOLOGY"
-    in chapter heading, "Surface transportation environment and
-    planning cooperative research program" for "Surface transportation-
-    environment cooperative research program" in item 507,
-    "Transportation research and development strategic planning" for
-    "Surface transportation research strategic planning" in item 508,
-    and added items 509 to 513.
+      2008 - Pub. L. 110-244, title I, Sec. 111(b)(2)(B), June 6, 2008,
+    122 Stat. 1605, amended Pub. L. 109-59, Sec. 5210. See 2005
+    Amendment note below.
+      2005 - Pub. L. 109-59, title V, Sec. 5210(c), formerly Sec.
+    5210(d), Aug. 10, 2005, 119 Stat. 1804, as renumbered by Pub. L.
+    110-244, title I, Sec. 111(b)(2)(B), June 6, 2008, 122 Stat. 1605,
+    added item 510.
+      Pub. L. 109-59, title V, Secs. 5201(a)(2), 5207(c), 5208(b),
+    5209(c), 5211(c), 5301(b), 5302(b), Aug. 10, 2005, 119 Stat. 1781,
+    1798, 1799, 1801, 1804, 1805, substituted "RESEARCH, TECHNOLOGY,
+    AND EDUCATION" for "RESEARCH AND TECHNOLOGY" in chapter heading,
+    "Surface transportation environment and planning cooperative
+    research program" for "Surface transportation-environment
+    cooperative research program" in item 507, "Transportation research
+    and development strategic planning" for "Surface transportation
+    research strategic planning" in item 508, and added items 509 and
+    511 to 513.
 
 -FOOTNOTE-
     (!1) So in original. Does not conform to section catchline.
@@ -36425,7 +36788,7 @@
 
 
 -CITE-
-    23 USC Sec. 501                                             01/08/2008
+    23 USC Sec. 501                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -36462,7 +36825,7 @@
 
 
 -CITE-
-    23 USC Sec. 502                                             01/08/2008
+    23 USC Sec. 502                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -36775,25 +37138,7 @@
           (C) to conduct seismic research and upgrade earthquake
         simulation facilities as necessary to carry out the program.
 
-      (h) (!1) Infrastructure Investment Needs Report. - 
-
-        (1) In general. - Not later than January 31, 1999, and January
-      31 of every second year thereafter, the Secretary shall report to
-      the Committee on Environment and Public Works of the Senate and
-      the Committee on Transportation and Infrastructure of the House
-      of Representatives on - 
-          (A) estimates of the future highway and bridge needs of the
-        United States; and
-          (B) the backlog of current highway and bridge needs.
-
-        (2) Comparison with prior reports. - Each report under
-      paragraph (1) shall provide the means, including all necessary
-      information, to relate and compare the conditions and service
-      measures used in the 3 biannual reports published prior to the
-      date of enactment of the Transportation Equity Act for the 21st
-      Century.
-
-      (h) (!1) Infrastructure Investment Needs Report. - 
+      (h) Infrastructure Investment Needs Report. - 
         (1) In general. - Not later than July 31, 2006, and July 31 of
       every second year thereafter, the Secretary shall submit to the
       Committee on Environment and Public Works of the Senate and the
@@ -36838,7 +37183,9 @@
 -SOURCE-
     (Added Pub. L. 105-178, title V, Sec. 5102, June 9, 1998, 112 Stat.
     422; amended Pub. L. 109-59, title V, Secs. 5201(b)-(g), (i)(1),
-    (j)(1), (k), (l), 5202(a)(1), Aug. 10, 2005, 119 Stat. 1781-1785.)
+    (j)(1), (k), (l), 5202(a)(1), Aug. 10, 2005, 119 Stat. 1781-1785;
+    Pub. L. 110-244, title I, Sec. 111(g)(1), June 6, 2008, 122 Stat.
+    1605.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -36848,9 +37195,6 @@
     3701 et seq.) of Title 15, Commerce and Trade. For complete
     classification of this Act to the Code, see Short title note set
     out under section 3701 of Title 15 and Tables.
-      The date of enactment of the Transportation Equity Act for the
-    21st Century, referred to in subsec. (h)(2), is the date of
-    enactment of Pub. L. 105-178, which was approved June 9, 1998.
 
 
 -MISC1-
@@ -36861,6 +37205,10 @@
     title II, Sec. 220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
                                 AMENDMENTS                            
+      2008 - Subsec. (h). Pub. L. 110-244 struck out subsec. (h)
+    relating to infrastructure investment needs report to be submitted
+    not later than Jan. 31, 1999, and Jan. 31 of every second year
+    thereafter.
       2005 - Subsec. (a). Pub. L. 109-59, Sec. 5201(b)(2), added
     subsec. (a). Former subsec. (a) redesignated (b).
       Subsec. (b). Pub. L. 109-59, Sec. 5201(b)(1), redesignated
@@ -38070,16 +38418,12 @@
     structural, operational, environmental, and civil disturbance
     factors."
 
--FOOTNOTE-
-    (!1) So in original. Two subsecs. (h) have been enacted.
-
-
 -End-
 
 
 
 -CITE-
-    23 USC Sec. 503                                             01/08/2008
+    23 USC Sec. 503                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -38408,7 +38752,7 @@
 
 
 -CITE-
-    23 USC Sec. 504                                             01/08/2008
+    23 USC Sec. 504                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -38888,7 +39232,7 @@
 
 
 -CITE-
-    23 USC Sec. 505                                             01/08/2008
+    23 USC Sec. 505                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -39019,7 +39363,7 @@
 
 
 -CITE-
-    23 USC Sec. 506                                             01/08/2008
+    23 USC Sec. 506                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -39128,7 +39472,7 @@
 
 
 -CITE-
-    23 USC Sec. 507                                             01/08/2008
+    23 USC Sec. 507                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -39219,7 +39563,7 @@
 
 
 -CITE-
-    23 USC Sec. 508                                             01/08/2008
+    23 USC Sec. 508                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -39477,7 +39821,7 @@
 
 
 -CITE-
-    23 USC Sec. 509                                             01/08/2008
+    23 USC Sec. 509                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -39616,7 +39960,7 @@
 
 
 -CITE-
-    23 USC Sec. 510                                             01/08/2008
+    23 USC Sec. 510                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -39778,7 +40122,7 @@
 
 
 -CITE-
-    23 USC Sec. 511                                             01/08/2008
+    23 USC Sec. 511                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -39828,7 +40172,7 @@
 
 
 -CITE-
-    23 USC Sec. 512                                             01/08/2008
+    23 USC Sec. 512                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -40432,7 +40776,7 @@
 
 
 -CITE-
-    23 USC Sec. 513                                             01/08/2008
+    23 USC Sec. 513                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -40472,7 +40816,7 @@
 
 
 -CITE-
-    23 USC CHAPTER 6 - INFRASTRUCTURE FINANCE                   01/08/2008
+    23 USC CHAPTER 6 - INFRASTRUCTURE FINANCE                   01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -40505,7 +40849,7 @@
 
 
 -CITE-
-    23 USC Sec. 601                                             01/08/2008
+    23 USC Sec. 601                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -40540,8 +40884,8 @@
       credit authorized to be made available under this chapter with
       respect to a project.
         (3) Investment-grade rating. - The term "investment-grade
-      rating" means a rating of BBB minus, Baa3, or higher assigned by
-      a rating agency to project obligations.
+      rating" means a rating of BBB minus, Baa3, bbb minus, BBB (low),
+      or higher assigned by a rating agency to project obligations.
         (4) Lender. - The term "lender" means any non-Federal qualified
       institutional buyer (as defined in section 230.144A(a) of title
       17, Code of Federal Regulations (or any successor regulation),
@@ -40635,7 +40979,8 @@
     Stat. 241, Sec. 181; renumbered Sec. 601 and amended Pub. L. 109-
     59, title I, Secs. 1601(a), 1602(b)(1), (5), (d), Aug. 10, 2005,
     119 Stat. 1239, 1246, 1247; Pub. L. 109-291, Sec. 4(b)(6), Sept.
-    29, 2006, 120 Stat. 1338.)
+    29, 2006, 120 Stat. 1338; Pub. L. 110-244, title I, Sec. 101(r),
+    June 6, 2008, 122 Stat. 1577.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -40660,6 +41005,8 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (a)(3). Pub. L. 110-244 inserted "bbb minus, BBB
+    (low)," after "Baa3,".
       2006 - Subsec. (a)(10). Pub. L. 109-291, which directed amendment
     of section 181(11) of this title by substituting "registered with
     the Securities and Exchange Commission as a nationally recognized
@@ -41148,7 +41495,7 @@
 
 
 -CITE-
-    23 USC Sec. 602                                             01/08/2008
+    23 USC Sec. 602                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -41324,7 +41671,7 @@
 
 
 -CITE-
-    23 USC Sec. 603                                             01/08/2008
+    23 USC Sec. 603                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -41527,7 +41874,7 @@
 
 
 -CITE-
-    23 USC Sec. 604                                             01/08/2008
+    23 USC Sec. 604                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -41680,7 +42027,7 @@
 
 
 -CITE-
-    23 USC Sec. 605                                             01/08/2008
+    23 USC Sec. 605                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -41742,7 +42089,7 @@
 
 
 -CITE-
-    23 USC Sec. 606                                             01/08/2008
+    23 USC Sec. 606                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -41782,7 +42129,7 @@
 
 
 -CITE-
-    23 USC Sec. 607                                             01/08/2008
+    23 USC Sec. 607                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -41813,7 +42160,7 @@
 
 
 -CITE-
-    23 USC Sec. 608                                             01/08/2008
+    23 USC Sec. 608                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -42011,7 +42358,7 @@
 
 
 -CITE-
-    23 USC Sec. 609                                             01/08/2008
+    23 USC Sec. 609                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -42059,17 +42406,14 @@
 
 
 -CITE-
-    23 USC Sec. 610                                             01/08/2008
+    23 USC Sec. 610                                             01/05/2009
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
     CHAPTER 6 - INFRASTRUCTURE FINANCE
 
 -HEAD-
-    Sec. 610. (!1) State infrastructure bank program
-
--STATUTE-
-
+    Sec. 610. State infrastructure bank program
 
 -STATUTE-
       (a) Definitions. - In this section, the following definitions
@@ -42290,25 +42634,26 @@
 
 -SOURCE-
     (Added Pub. L. 109-59, title I, Sec. 1602(a), Aug. 10, 2005, 119
-    Stat. 1243, Sec. 190.)
+    Stat. 1243, Sec. 190; renumbered Sec. 610, Pub. L. 109-59, title I,
+    Sec. 1602(d), Aug. 10, 2005, 119 Stat. 1247, as amended Pub. L. 110-
+    244, title I, Sec. 101(f), June 6, 2008, 122 Stat. 1574.)
 
--COD-
-                               CODIFICATION                           
-      Section was enacted as section 190 in subchapter II of chapter 1
-    of this title and was editorially renumbered 610 and transferred to
-    appear at the end of this chapter to reflect the probable intent of
-    Congress, because of the renumbering of former sections 181 to 189
-    as 601 to 609, respectively, and their transfer to this chapter by
-    Pub. L. 109-59, title I, Sec. 1602(d), Aug. 10, 2005, 119 Stat.
-    1247, the enactment of an item 610 in the analysis of this chapter
-    by Pub. L. 109-59, title I, Sec. 1602(c), Aug. 10, 2005, 119 Stat.
-    1247, which is identical to the section catchline of this section,
-    and the inclusion of references to section 610 in section 609 of
-    this title.
 
--FOOTNOTE-
-    (!1) See Codification note below.
+-MISC1-
+                                AMENDMENTS                            
+      2008 - Pub. L. 110-244 amended Pub. L. 109-59, Sec. 1602(d). See
+    2005 Amendment note below.
+      2005 - Pub. L. 109-59, as amended by Pub. L. 110-244, renumbered
+    section 190 of this title as this section.
 
+                     EFFECTIVE DATE OF 2008 AMENDMENT                 
+      Amendment by Pub. L. 110-244 effective as of the date of
+    enactment of Pub. L. 109-59 (Aug. 10, 2005) and to be treated as
+    included in Pub. L. 109-59 as of that date, and provisions of Pub.
+    L. 109-59, as in effect on the day before June 6, 2008, that are
+    amended by Pub. L. 110-244 to be treated as not enacted, see
+    section 121(b) of Pub. L. 110-244, set out as a note under section
+    101 of this title.
 
 -End-
 
