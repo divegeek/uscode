@@ -1,5 +1,5 @@
 -CITE-
-    39 USC TITLE 39 - POSTAL SERVICE                            01/08/2008
+    39 USC TITLE 39 - POSTAL SERVICE                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1260,7 +1260,7 @@
 
 
 -CITE-
-    39 USC PART I - GENERAL                                     01/08/2008
+    39 USC PART I - GENERAL                                     01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1285,7 +1285,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 1 - POSTAL POLICY AND DEFINITIONS            01/08/2008
+    39 USC CHAPTER 1 - POSTAL POLICY AND DEFINITIONS            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1305,7 +1305,7 @@
 
 
 -CITE-
-    39 USC Sec. 101                                             01/08/2008
+    39 USC Sec. 101                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1351,13 +1351,10 @@
     important letter mail.
       (f) In selecting modes of transportation, the Postal Service
     shall give highest consideration to the prompt and economical
-    delivery of all mail and shall make a fair and equitable
-    distribution of mail business to carriers providing similar modes
-    of transportation services to the Postal Service. Modern methods of
-    transporting mail by containerization and programs designed to
-    achieve overnight transportation to the destination of important
-    letter mail to all parts of the Nation shall be a primary goal of
-    postal operations.
+    delivery of all mail. Modern methods of transporting mail by
+    containerization and programs designed to achieve overnight
+    transportation to the destination of important letter mail to all
+    parts of the Nation shall be a primary goal of postal operations.
       (g) In planning and building new postal facilities, the Postal
     Service shall emphasize the need for facilities and equipment
     designed to create desirable working conditions for its officers
@@ -1367,14 +1364,42 @@
     Service.
 
 -SOURCE-
-    (Pub. L. 91-375, Aug. 12, 1970, 84 Stat. 719.)
+    (Pub. L. 91-375, Aug. 12, 1970, 84 Stat. 719; Pub. L. 110-405, Sec.
+    2(b)(9), Oct. 13, 2008, 122 Stat. 4289.)
 
 
 -MISC1-
+                                AMENDMENTS                            
+      2008 - Subsec. (f). Pub. L. 110-405 substituted "mail." for "mail
+    and shall make a fair and equitable distribution of mail business
+    to carriers providing similar modes of transportation services to
+    the Postal Service."
+
+                     EFFECTIVE DATE OF 2008 AMENDMENT                 
+      Pub. L. 110-405, Sec. 2(c), Oct. 13, 2008, 122 Stat. 4290,
+    provided that: "The amendments made by this section [amending this
+    section, sections 3401 and 5402 of this title, and sections 41901
+    to 41904 and 41910 of Title 49, Transportation, renumbering former
+    sections 41906, 41909, 41910, and 41912 of Title 49 as sections
+    41905, 41906, 41907, and 41908 of Title 49, respectively, and
+    repealing former sections 41905, 41907, 41908, and 41911 of Title
+    49] shall take effect on October 1, 2008."
+
                               EFFECTIVE DATE                          
       Section effective Jan. 20, 1971, pursuant to Resolution No. 71-10
     of the Board of Governors. See section 15(a) of Pub. L. 91-375, set
     out as a note preceding this section.
+
+                       SHORT TITLE OF 2008 AMENDMENT                   
+      Pub. L. 110-405, Sec. 1, Oct. 13, 2008, 122 Stat. 4287, provided
+    that: "This Act [amending this section, sections 3401 and 5402 of
+    this title, and sections 41901 to 41904 and 41910 of Title 49,
+    Transportation, renumbering former sections 41906, 41909, 41910,
+    and 41912 of Title 49 as sections 41905, 41906, 41907, and 41908 of
+    Title 49, respectively, repealing former sections 41905, 41907,
+    41908, and 41911 of Title 49, and enacting provisions set out as a
+    note under this section] may be cited as the 'Air Carriage of
+    International Mail Act'."
 
                        SHORT TITLE OF 2006 AMENDMENT                   
       Pub. L. 109-435, Sec. 1(a), Dec. 20, 2006, 120 Stat. 3198,
@@ -1476,7 +1501,7 @@
 
 
 -CITE-
-    39 USC Sec. 102                                             01/08/2008
+    39 USC Sec. 102                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1537,7 +1562,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 2 - ORGANIZATION                             01/08/2008
+    39 USC CHAPTER 2 - ORGANIZATION                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1571,7 +1596,7 @@
 
 
 -CITE-
-    39 USC Sec. 201                                             01/08/2008
+    39 USC Sec. 201                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1667,7 +1692,7 @@
 
 
 -CITE-
-    39 USC Sec. 202                                             01/08/2008
+    39 USC Sec. 202                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1867,7 +1892,7 @@
 
 
 -CITE-
-    39 USC Sec. 203                                             01/08/2008
+    39 USC Sec. 203                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1898,7 +1923,7 @@
 
 
 -CITE-
-    39 USC Sec. 204                                             01/08/2008
+    39 USC Sec. 204                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -1963,7 +1988,7 @@
 
 
 -CITE-
-    39 USC Sec. 205                                             01/08/2008
+    39 USC Sec. 205                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2015,7 +2040,7 @@
 
 
 -CITE-
-    39 USC Sec. 206                                             01/08/2008
+    39 USC Sec. 206                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2077,7 +2102,7 @@
 
 
 -CITE-
-    39 USC Sec. 207                                             01/08/2008
+    39 USC Sec. 207                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2108,7 +2133,7 @@
 
 
 -CITE-
-    39 USC Sec. 208                                             01/08/2008
+    39 USC Sec. 208                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2138,7 +2163,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 4 - GENERAL AUTHORITY                        01/08/2008
+    39 USC CHAPTER 4 - GENERAL AUTHORITY                        01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2186,7 +2211,7 @@
 
 
 -CITE-
-    39 USC Sec. 401                                             01/08/2008
+    39 USC Sec. 401                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2270,7 +2295,7 @@
 
 
 -CITE-
-    39 USC Sec. 402                                             01/08/2008
+    39 USC Sec. 402                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2309,7 +2334,7 @@
 
 
 -CITE-
-    39 USC Sec. 403                                             01/08/2008
+    39 USC Sec. 403                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2427,7 +2452,7 @@
 
 
 -CITE-
-    39 USC Sec. 404                                             01/08/2008
+    39 USC Sec. 404                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2682,7 +2707,7 @@
 
 
 -CITE-
-    39 USC Sec. 404a                                            01/08/2008
+    39 USC Sec. 404a                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2729,7 +2754,7 @@
 
 
 -CITE-
-    39 USC Sec. 405                                             01/08/2008
+    39 USC Sec. 405                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2766,7 +2791,7 @@
 
 
 -CITE-
-    39 USC Sec. 406                                             01/08/2008
+    39 USC Sec. 406                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -2800,7 +2825,7 @@
 
 
 -CITE-
-    39 USC Sec. 407                                             01/08/2008
+    39 USC Sec. 407                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -3013,7 +3038,7 @@
 
 
 -CITE-
-    39 USC Sec. 408                                             01/08/2008
+    39 USC Sec. 408                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -3045,7 +3070,7 @@
 
 
 -CITE-
-    39 USC Sec. 409                                             01/08/2008
+    39 USC Sec. 409                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -3285,7 +3310,7 @@
 
 
 -CITE-
-    39 USC Sec. 410                                             01/08/2008
+    39 USC Sec. 410                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -3631,7 +3656,7 @@
 
 
 -CITE-
-    39 USC Sec. 411                                             01/08/2008
+    39 USC Sec. 411                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -3667,7 +3692,7 @@
 
 
 -CITE-
-    39 USC Sec. 412                                             01/08/2008
+    39 USC Sec. 412                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -3715,7 +3740,7 @@
 
 
 -CITE-
-    39 USC Sec. 413                                             01/08/2008
+    39 USC Sec. 413                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -3768,7 +3793,7 @@
 
 
 -CITE-
-    39 USC Sec. 414                                             01/08/2008
+    39 USC Sec. 414                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -3938,7 +3963,7 @@
 
 
 -CITE-
-    39 USC Sec. 415                                             01/08/2008
+    39 USC Sec. 415                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -3971,7 +3996,7 @@
 
 
 -CITE-
-    39 USC Sec. 416                                             01/08/2008
+    39 USC Sec. 416                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4256,7 +4281,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 5 - POSTAL REGULATORY COMMISSION             01/08/2008
+    39 USC CHAPTER 5 - POSTAL REGULATORY COMMISSION             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4280,7 +4305,7 @@
 
 
 -CITE-
-    39 USC Sec. 501                                             01/08/2008
+    39 USC Sec. 501                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4424,7 +4449,7 @@
 
 
 -CITE-
-    39 USC Sec. 502                                             01/08/2008
+    39 USC Sec. 502                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4491,7 +4516,7 @@
 
 
 -CITE-
-    39 USC Sec. 503                                             01/08/2008
+    39 USC Sec. 503                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4531,7 +4556,7 @@
 
 
 -CITE-
-    39 USC Sec. 504                                             01/08/2008
+    39 USC Sec. 504                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4562,22 +4587,13 @@
     at rates of compensation and shall be entitled to programs offering
     employee benefits established under chapter 10 or chapter 12 of
     this title, as appropriate.
-      (d)(1) The Commission shall periodically prepare and submit to
-    the Postal Service a budget of the Commission's expenses,
-    including, but not limited to, expenses for facilities, supplies,
-    compensation, and employee benefits. The budget shall be considered
-    approved - 
-        (A) as submitted if the Governors fail to act in accordance
-      with subparagraph (B) of this paragraph; or
-        (B) as adjusted if the Governors holding office, by unanimous
-      written decision, adjust the total amount of money requested in
-      the budget.
-
-    Subparagraph (B) shall not be construed to authorize the Governors
-    to adjust any item included within the budget.
-      (2) Expenses incurred under any budget approved under paragraph
-    (1) of this subsection shall be paid out of the Postal Service fund
-    established under section 2003 of this title.
+      (d) There are authorized to be appropriated, out of the Postal
+    Service Fund, such sums as may be necessary for the Postal
+    Regulatory Commission. In requesting an appropriation under this
+    subsection for a fiscal year, the Commission shall prepare and
+    submit to the Congress under section 2009 a budget of the
+    Commission's expenses, including expenses for facilities, supplies,
+    compensation, and employee benefits.
       (e) The provisions of section 410 and chapter 10 of this title
     shall apply to the Commission, as appropriate.
       (f)(1) Any Commissioner of the Postal Regulatory Commission, any
@@ -4668,22 +4684,6 @@
     and amended Pub. L. 109-435, title VI, Secs. 601(a)(3), 602,
     603(a), 604(a), 605(b), Dec. 20, 2006, 120 Stat. 3239-3242.)
 
-
--STATAMEND-
-                        AMENDMENT OF SUBSECTION (D)                    
-      Pub. L. 109-435, title VI, Sec. 603(a), (d), Dec. 20, 2006, 120
-    Stat. 3240, 3241, provided that, applicable with respect to fiscal
-    years beginning on or after Oct. 1, 2008, subsection (d) of this
-    section is amended to read as follows:
-
-      "(d) There are authorized to be appropriated, out of the Postal
-    Service Fund, such sums as may be necessary for the Postal
-    Regulatory Commission. In requesting an appropriation under this
-    subsection for a fiscal year, the Commission shall prepare and
-    submit to the Congress under section 2009 a budget of the
-    Commission's expenses, including expenses for facilities, supplies,
-    compensation, and employee benefits."
-
 -REFTEXT-
                             REFERENCES IN TEXT                        
       Rule 26(c) of the Federal Rules of Civil Procedure, referred to
@@ -4701,6 +4701,10 @@
     of this title as this section.
       Subsec. (a). Pub. L. 109-435, Sec. 604(a), substituted "Postal
     Regulatory Commission" for "Postal Rate Commission".
+      Subsec. (d). Pub. L. 109-435, Sec. 603(a), amended subsec. (d)
+    generally. Prior to amendment, subsec. (d) related to preparation,
+    submission, and approval of Commission's budget and payment of
+    expenses incurred under approved budget.
       Subsecs. (f), (g). Pub. L. 109-435, Sec. 602, added subsecs. (f)
     and (g).
       Subsec. (h). Pub. L. 109-435, Sec. 605(b), added subsec. (h).
@@ -4791,7 +4795,7 @@
 
 
 -CITE-
-    39 USC Sec. 505                                             01/08/2008
+    39 USC Sec. 505                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4816,7 +4820,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 6 - PRIVATE CARRIAGE OF LETTERS              01/08/2008
+    39 USC CHAPTER 6 - PRIVATE CARRIAGE OF LETTERS              01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4840,7 +4844,7 @@
 
 
 -CITE-
-    39 USC Sec. 601                                             01/08/2008
+    39 USC Sec. 601                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4923,7 +4927,7 @@
 
 
 -CITE-
-    39 USC Sec. 602                                             01/08/2008
+    39 USC Sec. 602                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4960,7 +4964,7 @@
 
 
 -CITE-
-    39 USC Sec. 603                                             01/08/2008
+    39 USC Sec. 603                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -4991,7 +4995,7 @@
 
 
 -CITE-
-    39 USC Sec. 604                                             01/08/2008
+    39 USC Sec. 604                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -5022,7 +5026,7 @@
 
 
 -CITE-
-    39 USC Sec. 605                                             01/08/2008
+    39 USC Sec. 605                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -5048,7 +5052,7 @@
 
 
 -CITE-
-    39 USC Sec. 606                                             01/08/2008
+    39 USC Sec. 606                                             01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -5077,7 +5081,7 @@
 
 
 -CITE-
-    39 USC PART II - PERSONNEL                                  01/08/2008
+    39 USC PART II - PERSONNEL                                  01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -5095,7 +5099,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 10 - EMPLOYMENT WITHIN THE POSTAL SERVICE    01/08/2008
+    39 USC CHAPTER 10 - EMPLOYMENT WITHIN THE POSTAL SERVICE    01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -5125,7 +5129,7 @@
 
 
 -CITE-
-    39 USC Sec. 1001                                            01/08/2008
+    39 USC Sec. 1001                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -5294,7 +5298,7 @@
 
 
 -CITE-
-    39 USC Sec. 1002                                            01/08/2008
+    39 USC Sec. 1002                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -5415,7 +5419,7 @@
 
 
 -CITE-
-    39 USC Sec. 1003                                            01/08/2008
+    39 USC Sec. 1003                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -5554,7 +5558,7 @@
 
 
 -CITE-
-    39 USC Sec. 1004                                            01/08/2008
+    39 USC Sec. 1004                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -5813,7 +5817,7 @@
 
 
 -CITE-
-    39 USC Sec. 1005                                            01/08/2008
+    39 USC Sec. 1005                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6023,7 +6027,7 @@
 
 
 -CITE-
-    39 USC Sec. 1006                                            01/08/2008
+    39 USC Sec. 1006                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6057,7 +6061,7 @@
 
 
 -CITE-
-    39 USC Sec. 1007                                            01/08/2008
+    39 USC Sec. 1007                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6096,7 +6100,7 @@
 
 
 -CITE-
-    39 USC Sec. 1008                                            01/08/2008
+    39 USC Sec. 1008                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6132,7 +6136,7 @@
 
 
 -CITE-
-    39 USC Sec. 1009                                            01/08/2008
+    39 USC Sec. 1009                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6163,7 +6167,7 @@
 
 
 -CITE-
-    39 USC Sec. 1010                                            01/08/2008
+    39 USC Sec. 1010                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6196,7 +6200,7 @@
 
 
 -CITE-
-    39 USC Sec. 1011                                            01/08/2008
+    39 USC Sec. 1011                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6239,7 +6243,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 12 - EMPLOYEE-MANAGEMENT AGREEMENTS          01/08/2008
+    39 USC CHAPTER 12 - EMPLOYEE-MANAGEMENT AGREEMENTS          01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6266,7 +6270,7 @@
 
 
 -CITE-
-    39 USC Sec. 1201                                            01/08/2008
+    39 USC Sec. 1201                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6387,7 +6391,7 @@
 
 
 -CITE-
-    39 USC Sec. 1202                                            01/08/2008
+    39 USC Sec. 1202                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6426,7 +6430,7 @@
 
 
 -CITE-
-    39 USC Sec. 1203                                            01/08/2008
+    39 USC Sec. 1203                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6494,7 +6498,7 @@
 
 
 -CITE-
-    39 USC Sec. 1204                                            01/08/2008
+    39 USC Sec. 1204                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6530,7 +6534,7 @@
 
 
 -CITE-
-    39 USC Sec. 1205                                            01/08/2008
+    39 USC Sec. 1205                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6574,7 +6578,7 @@
 
 
 -CITE-
-    39 USC Sec. 1206                                            01/08/2008
+    39 USC Sec. 1206                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6620,7 +6624,7 @@
 
 
 -CITE-
-    39 USC Sec. 1207                                            01/08/2008
+    39 USC Sec. 1207                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6707,7 +6711,7 @@
 
 
 -CITE-
-    39 USC Sec. 1208                                            01/08/2008
+    39 USC Sec. 1208                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6755,7 +6759,7 @@
 
 
 -CITE-
-    39 USC Sec. 1209                                            01/08/2008
+    39 USC Sec. 1209                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6796,7 +6800,7 @@
 
 
 -CITE-
-    39 USC PART III - MODERNIZATION AND FISCAL ADMINISTRATION    01/08/2008 
+    39 USC PART III - MODERNIZATION AND FISCAL ADMINISTRATION    01/05/2009 
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6825,7 +6829,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 20 - FINANCE                                 01/08/2008
+    39 USC CHAPTER 20 - FINANCE                                 01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6872,7 +6876,7 @@
 
 
 -CITE-
-    39 USC Sec. 2001                                            01/08/2008
+    39 USC Sec. 2001                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -6913,7 +6917,7 @@
 
 
 -CITE-
-    39 USC Sec. 2002                                            01/08/2008
+    39 USC Sec. 2002                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7060,7 +7064,7 @@
 
 
 -CITE-
-    39 USC Sec. 2003                                            01/08/2008
+    39 USC Sec. 2003                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7109,20 +7113,24 @@
     Reserve bank, any depository for public funds, or in such other
     places and in such manner as the Postal Service and the Secretary
     may mutually agree.
-      (e)(1) The Fund shall be available for the payment of all
+      (e)(1) The Fund shall be available for the payment of (A) all
     expenses incurred by the Postal Service in carrying out its
-    functions as provided by law and, subject to the provisions of
-    section 3604 of this title, all of the expenses of the Postal Rate
-    Commission. The Postmaster General shall transfer from the Fund to
-    the Secretary of the Treasury for deposit in the Department of the
-    Treasury Forfeiture Fund amounts appropriate to reflect the degree
-    of participation of Department of the Treasury law enforcement
-    organizations (described in section 9703(p) (!1) of title 31) in
-    the law enforcement effort resulting in the forfeiture pursuant to
-    laws enforced or administered by the Postal Service. Neither the
-    Fund nor any of the funds credited to it shall be subject to
-    apportionment under the provisions of subchapter II of chapter 15
-    of title 31.
+    functions as provided by law, subject to the same limitation as set
+    forth in the parenthetical matter under subsection (a); (B) all
+    expenses of the Postal Regulatory Commission, subject to the
+    availability of amounts appropriated under section 504(d); and (C)
+    all expenses of the Office of Inspector General, subject to the
+    availability of amounts appropriated under section 8G(f) of the
+    Inspector General Act of 1978. The Postmaster General shall
+    transfer from the Fund to the Secretary of the Treasury for deposit
+    in the Department of the Treasury Forfeiture Fund amounts
+    appropriate to reflect the degree of participation of Department of
+    the Treasury law enforcement organizations (described in section
+    9703(p) (!1) of title 31) in the law enforcement effort resulting
+    in the forfeiture pursuant to laws enforced or administered by the
+    Postal Service. Neither the Fund nor any of the funds credited to
+    it shall be subject to apportionment under the provisions of
+    subchapter II of chapter 15 of title 31.
 
       (2) Funds appropriated to the Postal Service under section 2401
     of this title shall be apportioned as provided in this paragraph.
@@ -7169,29 +7177,15 @@
     603(c)(2), title X, Sec. 1008(c)(1), Dec. 20, 2006, 120 Stat. 3225,
     3241, 3260.)
 
-
--STATAMEND-
-                      AMENDMENT OF SUBSECTION (E)(1)                  
-      Pub. L. 109-435, title VI, Sec. 603(c)(2), (d), Dec. 20, 2006,
-    120 Stat. 3241, provided that, applicable with respect to fiscal
-    years beginning on or after Oct. 1, 2008, subsection (e)(1) of this
-    section is amended by striking the first sentence and inserting the
-    following: "The Fund shall be available for the payment of (A) all
-    expenses incurred by the Postal Service in carrying out its
-    functions as provided by law, subject to the same limitation as set
-    forth in the parenthetical matter under subsection (a); (B) all
-    expenses of the Postal Regulatory Commission, subject to the
-    availability of amounts appropriated under section 504(d); and (C)
-    all expenses of the Office of Inspector General, subject to the
-    availability of amounts appropriated under section 8G(f) of the
-    Inspector General Act of 1978."
-
 -REFTEXT-
                             REFERENCES IN TEXT                        
       Former section 2202 of title 39, referred to in subsec. (a)(6),
     means section 2202 of former Title 39, The Postal Service, prior to
     the general revision and reenactment of Title 39 by Pub. L. 91-375,
     Aug. 12, 1970, 84 Stat. 719.
+      The Inspector General Act of 1978, referred to in subsec. (e)(1),
+    is Pub. L. 95-452, Oct. 12, 1978, 92 Stat. 1101, which is set out
+    in the Appendix to Title 5, Government Organization and Employees.
       Section 9703(p) of title 31, referred to in subsec. (e)(1),
     probably means the section 9703 of title 31 added by section
     638(b)(1) of Pub. L. 102-393, title VI, Oct. 6, 1992, 106 Stat.
@@ -7216,6 +7210,20 @@
       Subsec. (b). Pub. L. 109-435, Sec. 401(b)(3)(B), substituted
     "Except as otherwise provided in section 2011, there" for "There".
       Subsec. (b)(9). Pub. L. 109-435, Sec. 1008(c)(1), added par. (9).
+      Subsec. (e)(1). Pub. L. 109-435, Sec. 603(c)(2), substituted "The
+    Fund shall be available for the payment of (A) all expenses
+    incurred by the Postal Service in carrying out its functions as
+    provided by law, subject to the same limitation as set forth in the
+    parenthetical matter under subsection (a); (B) all expenses of the
+    Postal Regulatory Commission, subject to the availability of
+    amounts appropriated under section 504(d); and (C) all expenses of
+    the Office of Inspector General, subject to the availability of
+    amounts appropriated under section 8G(f) of the Inspector General
+    Act of 1978." for "The Fund shall be available for the payment of
+    all expenses incurred by the Postal Service in carrying out its
+    functions as provided by law and, subject to the provisions of
+    section 3604 of this title, all of the expenses of the Postal Rate
+    Commission."
       1997 - Subsec. (e)(2). Pub. L. 105-33, Sec. 7003(a)(2)(B),
     substituted "section 2401" for "sections 2401 and 2004" in two
     places.
@@ -7337,7 +7345,7 @@
 
 
 -CITE-
-    39 USC Sec. 2004                                            01/08/2008
+    39 USC Sec. 2004                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7365,7 +7373,7 @@
 
 
 -CITE-
-    39 USC Sec. 2005                                            01/08/2008
+    39 USC Sec. 2005                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7528,7 +7536,7 @@
 
 
 -CITE-
-    39 USC Sec. 2006                                            01/08/2008
+    39 USC Sec. 2006                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7596,7 +7604,7 @@
 
 
 -CITE-
-    39 USC Sec. 2007                                            01/08/2008
+    39 USC Sec. 2007                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7636,7 +7644,7 @@
 
 
 -CITE-
-    39 USC Sec. 2008                                            01/08/2008
+    39 USC Sec. 2008                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7677,7 +7685,7 @@
 
 
 -CITE-
-    39 USC Sec. 2009                                            01/08/2008
+    39 USC Sec. 2009                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7710,11 +7718,16 @@
     statements shall include estimates of operations by major types of
     activities, together with estimates of administrative expenses and
     estimates of borrowings. The budget program shall also include
-    separate statements of the amounts which the Postal Service
+    separate statements of the amounts which (1) the Postal Service
     requests to be appropriated under subsections (b) and (c) of
-    section 2401 of this title. The President shall include these
-    amounts, with his recommendations but without revision, in the
-    budget transmitted to Congress under section 1105 of title 31.
+    section 2401, (2) the Office of Inspector General of the United
+    States Postal Service requests to be appropriated, out of the
+    Postal Service Fund, under section 8G(f) of the Inspector General
+    Act of 1978, and (3) the Postal Regulatory Commission requests to
+    be appropriated, out of the Postal Service Fund, under section
+    504(d) of this title. The President shall include these amounts,
+    with his recommendations but without revision, in the budget
+    transmitted to Congress under section 1105 of title 31.
 
 -SOURCE-
     (Pub. L. 91-375, Aug. 12, 1970, 84 Stat. 742; Pub. L. 93-328, Sec.
@@ -7722,25 +7735,27 @@
     13, 1982, 96 Stat. 1066; Pub. L. 109-435, title VI, Sec. 603(c)(1),
     Dec. 20, 2006, 120 Stat. 3241.)
 
-
--STATAMEND-
-                           AMENDMENT OF SECTION                       
-      Pub. L. 109-435, title VI, Sec. 603(c)(1), (d), Dec. 20, 2006,
-    120 Stat. 3241, provided that, applicable with respect to fiscal
-    years beginning on or after Oct. 1, 2008, the next to last sentence
-    of this section is amended to read as follows: "The budget program
-    shall also include separate statements of the amounts which (1) the
-    Postal Service requests to be appropriated under subsections (b)
-    and (c) of section 2401, (2) the Office of Inspector General of the
-    United States Postal Service requests to be appropriated, out of
-    the Postal Service Fund, under section 8G(f) of the Inspector
-    General Act of 1978, and (3) the Postal Regulatory Commission
-    requests to be appropriated, out of the Postal Service Fund, under
-    section 504(d) of this title."
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      The Inspector General Act of 1978, referred to in text, is Pub.
+    L. 95-452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the
+    Appendix to Title 5, Government Organization and Employees.
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2006 - Pub. L. 109-435 substituted "The budget program shall also
+    include separate statements of the amounts which (1) the Postal
+    Service requests to be appropriated under subsections (b) and (c)
+    of section 2401, (2) the Office of Inspector General of the United
+    States Postal Service requests to be appropriated, out of the
+    Postal Service Fund, under section 8G(f) of the Inspector General
+    Act of 1978, and (3) the Postal Regulatory Commission requests to
+    be appropriated, out of the Postal Service Fund, under section
+    504(d) of this title." for "The budget program shall also include
+    separate statements of the amounts which the Postal Service
+    requests to be appropriated under subsections (b) and (c) of
+    section 2401 of this title."
       1982 - Pub. L. 97-258 substituted "section 1105 of title 31" for
     "section 11 of title 31".
       1974 - Pub. L. 93-328 required the budget program to include
@@ -7771,7 +7786,7 @@
 
 
 -CITE-
-    39 USC Sec. 2009a                                           01/08/2008
+    39 USC Sec. 2009a                                           01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7849,7 +7864,7 @@
 
 
 -CITE-
-    39 USC Sec. 2010                                            01/08/2008
+    39 USC Sec. 2010                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -7877,7 +7892,7 @@
 
 
 -CITE-
-    39 USC Sec. 2011                                            01/08/2008
+    39 USC Sec. 2011                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8108,7 +8123,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 22 - CONVICT LABOR                           01/08/2008
+    39 USC CHAPTER 22 - CONVICT LABOR                           01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8128,7 +8143,7 @@
 
 
 -CITE-
-    39 USC Sec. 2201                                            01/08/2008
+    39 USC Sec. 2201                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8158,7 +8173,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 24 - APPROPRIATIONS AND ANNUAL REPORT        01/08/2008
+    39 USC CHAPTER 24 - APPROPRIATIONS AND ANNUAL REPORT        01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8178,7 +8193,7 @@
 
 
 -CITE-
-    39 USC Sec. 2401                                            01/08/2008
+    39 USC Sec. 2401                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8531,7 +8546,7 @@
 
 
 -CITE-
-    39 USC Sec. 2402                                            01/08/2008
+    39 USC Sec. 2402                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8569,7 +8584,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 26 - DEBTS AND COLLECTION                    01/08/2008
+    39 USC CHAPTER 26 - DEBTS AND COLLECTION                    01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8594,7 +8609,7 @@
 
 
 -CITE-
-    39 USC Sec. 2601                                            01/08/2008
+    39 USC Sec. 2601                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8652,7 +8667,7 @@
 
 
 -CITE-
-    39 USC Sec. 2602                                            01/08/2008
+    39 USC Sec. 2602                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8717,7 +8732,7 @@
 
 
 -CITE-
-    39 USC Sec. 2603                                            01/08/2008
+    39 USC Sec. 2603                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8752,7 +8767,7 @@
 
 
 -CITE-
-    39 USC Sec. 2604                                            01/08/2008
+    39 USC Sec. 2604                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8776,7 +8791,7 @@
 
 
 -CITE-
-    39 USC Sec. 2605                                            01/08/2008
+    39 USC Sec. 2605                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8803,7 +8818,7 @@
 
 -CITE-
     39 USC CHAPTER 28 - STRATEGIC PLANNING AND PERFORMANCE
-           MANAGEMENT                                      01/08/2008
+           MANAGEMENT                                      01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8826,7 +8841,7 @@
 
 
 -CITE-
-    39 USC Sec. 2801                                            01/08/2008
+    39 USC Sec. 2801                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8877,7 +8892,7 @@
 
 
 -CITE-
-    39 USC Sec. 2802                                            01/08/2008
+    39 USC Sec. 2802                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -8976,7 +8991,7 @@
 
 
 -CITE-
-    39 USC Sec. 2803                                            01/08/2008
+    39 USC Sec. 2803                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9050,7 +9065,7 @@
 
 
 -CITE-
-    39 USC Sec. 2804                                            01/08/2008
+    39 USC Sec. 2804                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9115,7 +9130,7 @@
 
 
 -CITE-
-    39 USC Sec. 2805                                            01/08/2008
+    39 USC Sec. 2805                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9139,7 +9154,7 @@
 
 
 -CITE-
-    39 USC PART IV - MAIL MATTER                                01/08/2008
+    39 USC PART IV - MAIL MATTER                                01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9159,7 +9174,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 30 - NONMAILABLE MATTER                      01/08/2008
+    39 USC CHAPTER 30 - NONMAILABLE MATTER                      01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9214,7 +9229,7 @@
 
 
 -CITE-
-    39 USC Sec. 3001                                            01/08/2008
+    39 USC Sec. 3001                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9544,30 +9559,42 @@
 -SOURCE-
     (Pub. L. 91-375, Aug. 12, 1970, 84 Stat. 745; Pub. L. 91-662, Sec.
     6(1), Jan. 8, 1971, 84 Stat. 1974; Pub. L. 92-191, Sec. 2, Dec. 15,
-    1971, 85 Stat. 647; Pub. L. 89-544, Sec. 26(h)(2), as added Pub. L.
-    94-279, Sec. 17, Apr. 22, 1976, 90 Stat. 423; Pub. L. 97-398, Sec.
-    5, Dec. 31, 1982, 96 Stat. 2011; Pub. L. 101-493, Sec. 2, Oct. 31,
-    1990, 104 Stat. 1184; Pub. L. 101-524, Sec. 2(a), Nov. 6, 1990, 104
-    Stat. 2301; Pub. L. 102-71, Sec. 2(1), July 10, 1991, 105 Stat.
-    330; Pub. L. 106-168, title I, Secs. 102, 103, 110(a), Dec. 12,
-    1999, 113 Stat. 1806, 1808, 1817; Pub. L. 109-435, title X, Sec.
-    1008(a), Dec. 20, 2006, 120 Stat. 3259.)
+    1971, 85 Stat. 647; Pub. L. 89-544, Sec. 26(i)(2), formerly Sec.
+    26(h)(2), as added Pub. L. 94-279, Sec. 17, Apr. 22, 1976, 90 Stat.
+    423, and renumbered Sec. 26(i)(2), Pub. L. 110-234, title XIV, Sec.
+    14207(a)(8), May 22, 2008, 122 Stat. 1462, and Pub. L. 110-246,
+    Sec. 4(a), title XIV, Sec. 14207(a)(8), June 18, 2008, 122 Stat.
+    1664, 2224; Pub. L. 97-398, Sec. 5, Dec. 31, 1982, 96 Stat. 2011;
+    Pub. L. 101-493, Sec. 2, Oct. 31, 1990, 104 Stat. 1184; Pub. L. 101-
+    524, Sec. 2(a), Nov. 6, 1990, 104 Stat. 2301; Pub. L. 102-71, Sec.
+    2(1), July 10, 1991, 105 Stat. 330; Pub. L. 106-168, title I, Secs.
+    102, 103, 110(a), Dec. 12, 1999, 113 Stat. 1806, 1808, 1817; Pub.
+    L. 109-435, title X, Sec. 1008(a), Dec. 20, 2006, 120 Stat. 3259.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
       Section 1738 of title 18, referred to in subsec. (a), was
     repealed by Pub. L. 106-578, Sec. 4, Dec. 28, 2000, 114 Stat. 3076.
       Section 26 of the Animal Welfare Act, referred to in subsec. (a),
-    is section 26(a)-(h)(1) of Pub. L. 89-544 as added by Pub. L. 94-
-    279, Sec. 17, Apr. 22, 1976, 90 Stat. 421, which is classified to
-    section 2156 of Title 7, Agriculture.
+    is section 26 of Pub. L. 89-544, which is classified to section
+    2156 of Title 7, Agriculture.
       Section 2 of the Poison Prevention Packaging Act of 1970,
     referred to in subsec. (f), is classified to section 1471 of Title
     15, Commerce and Trade.
 
+-COD-
+                               CODIFICATION                           
+      Pub. L. 110-234 and Pub. L. 110-246 made identical amendments to
+    Pub. L. 89-544 included in the credit of this section. The
+    amendment by Pub. L. 110-234 was repealed by section 4(a) of Pub.
+    L. 110-246.
+
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Pub. L. 110-246, Sec. 14207(a)(8), renumbered Pub. L. 89-
+    544, Sec. 26(h)(2), as Sec. 26(i)(2). See 1976 Amendment note
+    below.
       2006 - Subsecs. (n), (o). Pub. L. 109-435 added subsec. (n) and
     redesignated former subsec. (n) as (o).
       1999 - Subsec. (a). Pub. L. 106-168, Sec. 110(a), struck out
@@ -9631,8 +9658,10 @@
       Subsec. (j). Pub. L. 101-524 redesignated subsec. (g) as (j).
       1982 - Subsec. (a). Pub. L. 97-398 substituted ", 1718, or 1738"
     for "or 1718".
-      1976 - Subsec. (a). Pub. L. 94-279 inserted ", or section 26 of
-    the Animal Welfare Act" after "title 18".
+      1976 - Subsec. (a). Pub. L. 89-544, Sec. 26(i)(2), formerly Sec.
+    26(h)(2), as added Pub. L. 94-279, Sec. 17, and renumbered Sec.
+    26(i)(2) by Pub. L. 110-246, Sec. 14207(a)(8), inserted ", or
+    section 26 of the Animal Welfare Act" after "title 18".
       1971 - Subsecs. (e), (f). Pub. L. 91-662, Sec. 6(1)(A), (B),
     added subsec. (e) and redesignated former subsec. (e) as (f).
     Section 5(a) of Pub. L. 91-662 inserted a similar provision to
@@ -9641,6 +9670,12 @@
     not been executed in view of the passage of Title 39, Postal
     Service, as enacted by the Postal Reorganization Act.
       Subsec. (g). Pub. L. 92-191 added subsec. (g).
+
+                     EFFECTIVE DATE OF 2008 AMENDMENT                 
+      Amendment of this section and repeal of Pub. L. 110-234 by Pub.
+    L. 110-246 effective May 22, 2008, the date of enactment of Pub. L.
+    110-234, see section 4 of Pub. L. 110-246, set out as an Effective
+    Date note under section 8701 of Title 7, Agriculture.
 
                      EFFECTIVE DATE OF 1999 AMENDMENT                 
       Pub. L. 106-168, title I, Sec. 111, Dec. 12, 1999, 113 Stat.
@@ -9777,7 +9812,7 @@
 
 
 -CITE-
-    39 USC Sec. 3002                                            01/08/2008
+    39 USC Sec. 3002                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9811,7 +9846,7 @@
 
 
 -CITE-
-    39 USC Sec. 3002a                                           01/08/2008
+    39 USC Sec. 3002a                                           01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9850,7 +9885,7 @@
 
 
 -CITE-
-    39 USC Sec. 3003                                            01/08/2008
+    39 USC Sec. 3003                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9888,7 +9923,7 @@
 
 
 -CITE-
-    39 USC Sec. 3004                                            01/08/2008
+    39 USC Sec. 3004                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -9915,7 +9950,7 @@
 
 
 -CITE-
-    39 USC Sec. 3005                                            01/08/2008
+    39 USC Sec. 3005                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10106,7 +10141,7 @@
 
 
 -CITE-
-    39 USC Sec. 3006                                            01/08/2008
+    39 USC Sec. 3006                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10134,7 +10169,7 @@
 
 
 -CITE-
-    39 USC Sec. 3007                                            01/08/2008
+    39 USC Sec. 3007                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10214,7 +10249,7 @@
 
 
 -CITE-
-    39 USC Sec. 3008                                            01/08/2008
+    39 USC Sec. 3008                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10298,7 +10333,7 @@
 
 
 -CITE-
-    39 USC Sec. 3009                                            01/08/2008
+    39 USC Sec. 3009                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10340,7 +10375,7 @@
 
 
 -CITE-
-    39 USC Sec. 3010                                            01/08/2008
+    39 USC Sec. 3010                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10436,7 +10471,7 @@
 
 
 -CITE-
-    39 USC Sec. 3011                                            01/08/2008
+    39 USC Sec. 3011                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10529,7 +10564,7 @@
 
 
 -CITE-
-    39 USC Sec. 3012                                            01/08/2008
+    39 USC Sec. 3012                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10645,7 +10680,7 @@
 
 
 -CITE-
-    39 USC Sec. 3013                                            01/08/2008
+    39 USC Sec. 3013                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10751,7 +10786,7 @@
 
 
 -CITE-
-    39 USC Sec. 3014                                            01/08/2008
+    39 USC Sec. 3014                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -10851,7 +10886,7 @@
 
 
 -CITE-
-    39 USC Sec. 3015                                            01/08/2008
+    39 USC Sec. 3015                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11042,7 +11077,7 @@
 
 
 -CITE-
-    39 USC Sec. 3016                                            01/08/2008
+    39 USC Sec. 3016                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11184,7 +11219,7 @@
 
 
 -CITE-
-    39 USC Sec. 3017                                            01/08/2008
+    39 USC Sec. 3017                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11353,7 +11388,7 @@
 
 
 -CITE-
-    39 USC Sec. 3018                                            01/08/2008
+    39 USC Sec. 3018                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11466,7 +11501,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 32 - PENALTY AND FRANKED MAIL                01/08/2008
+    39 USC CHAPTER 32 - PENALTY AND FRANKED MAIL                01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11524,7 +11559,7 @@
 
 
 -CITE-
-    39 USC Sec. 3201                                            01/08/2008
+    39 USC Sec. 3201                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11578,7 +11613,7 @@
 
 
 -CITE-
-    39 USC Sec. 3202                                            01/08/2008
+    39 USC Sec. 3202                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11596,28 +11631,20 @@
         than Members of Congress;
           (B) the Smithsonian Institution;
           (C) the Pan American Union;
-          (D) the Pan American Sanitary Bureau;
+          (D) the Pan American Sanitary Bureau; and
           (E) the United States Employment Service and the system of
         employment offices operated by it in conformity with the
         provisions of sections 49-49c, 49d, 49e-49k of title 29, and
         all State employment systems which receive funds appropriated
-        under authority of those sections; and
-          (F) any college officer or other person connected with the
-        extension department of the college as the Secretary of
-        Agriculture may designate to the Postal Service to the extent
-        that the official mail consists of correspondence, bulletins,
-        and reports for the furtherance of the purpose of sections 341-
-        343 and 344-348 of title 7;
+        under authority of those sections.
 
         (2) mail relating to naturalization to be sent to the
       Immigration and Naturalization Service by clerks of courts
       addressed to the Department of Justice or the Immigration and
-      Naturalization Service, or any official thereof;
+      Naturalization Service, or any official thereof; and
         (3) mail relating to a collection of statistics, survey, or
       census authorized by title 13 and addressed to the Department of
-      Commerce or a bureau or agency thereof; and
-        (4) mail of State agriculture experiment stations pursuant to
-      sections 325 and 361f of title 7.
+      Commerce or a bureau or agency thereof.
 
       (b) A department or officer authorized to use penalty covers may
     enclose them with return address to any person from or through whom
@@ -11631,17 +11658,46 @@
 -SOURCE-
     (Pub. L. 91-375, Aug. 12, 1970, 84 Stat. 751; Pub. L. 94-553, Sec.
     105(e), Oct. 19, 1976, 90 Stat. 2599; Pub. L. 103-123, title VII,
-    Sec. 708(b), Oct. 28, 1993, 107 Stat. 1272.)
+    Sec. 708(b), Oct. 28, 1993, 107 Stat. 1272; Pub. L. 110-234, title
+    VII, Sec. 7404(b)(2)(B), May 22, 2008, 122 Stat. 1247; Pub. L. 110-
+    246, Sec. 4(a), title VII, Sec. 7404(b)(2)(B), June 18, 2008, 122
+    Stat. 1664, 2008.)
+
+-COD-
+                               CODIFICATION                           
+      Pub. L. 110-234 and Pub. L. 110-246 made identical amendments to
+    this section. The amendments by Pub. L. 110-234 were repealed by
+    section 4(a) of Pub. L. 110-246.
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (a)(1)(D) to (F). Pub. L. 110-246, Sec.
+    7404(b)(2)(B)(i), in subpar. (D) inserted "and" at end, in subpar.
+    (E) substituted period for "; and" at end, and struck out subpar.
+    (F) which read as follows: "any college officer or other person
+    connected with the extension department of the college as the
+    Secretary of Agriculture may designate to the Postal Service to the
+    extent that the official mail consists of correspondence,
+    bulletins, and reports for the furtherance of the purpose of
+    sections 341-343 and 344-348 of title 7;".
+      Subsec. (a)(2) to (4). Pub. L. 110-246, Sec. 7404(b)(2)(B)(ii)-
+    (iv), in par. (2) inserted "and" at end, in par. (3) substituted
+    period for "; and" at end, and struck out par. (4) which read as
+    follows: "mail of State agriculture experiment stations pursuant to
+    sections 325 and 361f of title 7."
       1993 - Subsec. (a)(3), (4). Pub. L. 103-123 inserted "and" at end
     of par. (3) and substituted period for "; and" at end of par. (4).
       1976 - Subsec. (a)(5). Pub. L. 94-553 struck out par. (5) which
     related to articles for copyright deposited with postmasters and
     addressed to the Register of Copyrights pursuant to section 15 of
     title 17.
+
+                     EFFECTIVE DATE OF 2008 AMENDMENT                 
+      Amendment of this section and repeal of Pub. L. 110-234 by Pub.
+    L. 110-246 effective May 22, 2008, the date of enactment of Pub. L.
+    110-234, see section 4 of Pub. L. 110-246, set out as an Effective
+    Date note under section 8701 of Title 7, Agriculture.
 
                      EFFECTIVE DATE OF 1976 AMENDMENT                 
       Amendment by Pub. L. 94-553 effective Jan. 1, 1978, see section
@@ -11699,7 +11755,7 @@
 
 
 -CITE-
-    39 USC Sec. 3203                                            01/08/2008
+    39 USC Sec. 3203                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11727,7 +11783,7 @@
 
 
 -CITE-
-    39 USC Sec. 3204                                            01/08/2008
+    39 USC Sec. 3204                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11791,7 +11847,7 @@
 
 
 -CITE-
-    39 USC Sec. 3205                                            01/08/2008
+    39 USC Sec. 3205                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11815,7 +11871,7 @@
 
 
 -CITE-
-    39 USC Sec. 3206                                            01/08/2008
+    39 USC Sec. 3206                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11881,7 +11937,7 @@
 
 
 -CITE-
-    39 USC Sec. 3207                                            01/08/2008
+    39 USC Sec. 3207                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11919,7 +11975,7 @@
 
 
 -CITE-
-    39 USC Sec. 3208                                            01/08/2008
+    39 USC Sec. 3208                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11947,7 +12003,7 @@
 
 
 -CITE-
-    39 USC Sec. 3209                                            01/08/2008
+    39 USC Sec. 3209                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -11971,7 +12027,7 @@
 
 
 -CITE-
-    39 USC Sec. 3210                                            01/08/2008
+    39 USC Sec. 3210                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -12517,7 +12573,7 @@
 
 
 -CITE-
-    39 USC Sec. 3211                                            01/08/2008
+    39 USC Sec. 3211                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -12562,7 +12618,7 @@
 
 
 -CITE-
-    39 USC Sec. 3212                                            01/08/2008
+    39 USC Sec. 3212                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -12605,7 +12661,7 @@
 
 
 -CITE-
-    39 USC Sec. 3213                                            01/08/2008
+    39 USC Sec. 3213                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -12638,7 +12694,7 @@
 
 
 -CITE-
-    39 USC Sec. 3214                                            01/08/2008
+    39 USC Sec. 3214                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -12709,7 +12765,7 @@
 
 
 -CITE-
-    39 USC Sec. 3215                                            01/08/2008
+    39 USC Sec. 3215                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -12755,7 +12811,7 @@
 
 
 -CITE-
-    39 USC Sec. 3216                                            01/08/2008
+    39 USC Sec. 3216                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -12925,7 +12981,7 @@
 
 
 -CITE-
-    39 USC Sec. 3217                                            01/08/2008
+    39 USC Sec. 3217                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -12964,7 +13020,7 @@
 
 
 -CITE-
-    39 USC Sec. 3218                                            01/08/2008
+    39 USC Sec. 3218                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13012,7 +13068,7 @@
 
 
 -CITE-
-    39 USC Sec. 3219                                            01/08/2008
+    39 USC Sec. 3219                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13063,7 +13119,7 @@
 
 
 -CITE-
-    39 USC Sec. 3220                                            01/08/2008
+    39 USC Sec. 3220                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13171,7 +13227,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 34 - ARMED FORCES AND FREE POSTAGE           01/08/2008
+    39 USC CHAPTER 34 - ARMED FORCES AND FREE POSTAGE           01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13206,7 +13262,7 @@
 
 
 -CITE-
-    39 USC Sec. 3401                                            01/08/2008
+    39 USC Sec. 3401                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13287,12 +13343,11 @@
     point of embarkation or debarkation within the United States, the
     territories and possessions of the United States in the Pacific
     area, the Commonwealth of Puerto Rico, or the Virgin Islands, on a
-    space available basis, on scheduled United States air carriers at
-    rates fixed and determined by the Secretary of Transportation in
-    accordance with section 41901 of title 49, or on military aircraft
-    at rates not to exceed those so fixed and determined for scheduled
-    United States air carriers, the following categories of mail
-    matter:
+    space available basis, on certificated United States air carriers
+    or, for carriage of mail in foreign air transportation, other air
+    carriers, air taxi operators or foreign air carriers as permitted
+    by section 5402 of this title, or on military aircraft, the
+    following categories of mail matter:
         (1)(A) letter mail or sound- or video-recorded communications
       having the character of personal correspondence;
         (B) parcels not exceeding 15 pounds in weight and 60 inches in
@@ -13315,27 +13370,18 @@
       or addressed to any such Armed Forces post office where adequate
       surface transportation is not available.
 
-    Whenever adequate service by scheduled United States air carriers
-    and military aircraft is not available to provide transportation of
-    mail matter by air in accordance with this subsection, the
-    transportation of such mail may be authorized by other than
-    scheduled United States air carriers and military aircraft.
       (c) Any parcel, other than a parcel mailed at a rate of postage
     requiring priority of handling and delivery, not exceeding 30
     pounds in weight and 60 inches in length and girth combined, which
     is mailed at or addressed to any Armed Forces post office
     established under section 406(a) of this title, shall be
-    transported by air on a space available basis on scheduled United
-    States air carriers at rates fixed and determined by the Secretary
-    of Transportation in accordance with section 41901 of title 49, or
-    on military aircraft at rates not to exceed those so fixed and
-    determined for scheduled United States air carriers, upon payment
-    of a fee for such air transportation in addition to the rate of
-    postage otherwise applicable to such a parcel not transported by
-    air. If adequate service by scheduled United States air carriers
-    and military aircraft is not available, any such parcel may be
-    transported by other than scheduled United States air carriers and
-    military aircraft.
+    transported by air on a space available basis on certificated
+    United States air carriers or, for carriage of mail in foreign air
+    transportation, other air carriers, air taxi operators or foreign
+    air carriers as permitted by section 5402 of this title, or on
+    military aircraft, upon payment of a fee for such air
+    transportation in addition to the rate of postage otherwise
+    applicable to such a parcel not transported by air.
       (d) The Department of Defense shall transfer to the Postal
     Service as postal revenues, out of any appropriations or funds
     available to the Department of Defense, as a necessary expense of
@@ -13379,11 +13425,42 @@
     272, Sec. 5(k)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 106-398,
     Sec. 1 [[div. A], title X, Sec. 1088], Oct. 30, 2000, 114 Stat.
     1654, 1654A-294; Pub. L. 108-375, div. A, title X, Sec. 1071, Oct.
-    28, 2004, 118 Stat. 2056.)
+    28, 2004, 118 Stat. 2056; Pub. L. 110-405, Sec. 2(b)(10), Oct. 13,
+    2008, 122 Stat. 4290.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (b). Pub. L. 110-405, Sec. 2(b)(10)(D), struck out
+    concluding provisions which read as follows: "Whenever adequate
+    service by certificated United States air carriers and military
+    aircraft is not available to provide transportation of mail matter
+    by air in accordance with this subsection, the transportation of
+    such mail may be authorized by other than certificated United
+    States air carriers and military aircraft."
+      Pub. L. 110-405, Sec. 2(b)(10)(A)-(C), substituted "or, for
+    carriage of mail in foreign air transportation, other air carriers,
+    air taxi operators or foreign air carriers as permitted by section
+    5402 of this title" for "at rates fixed and determined by the
+    Secretary of Transportation in accordance with section 41901 of
+    title 49", struck out "at rates not to exceed those so fixed and
+    determined for scheduled United States air carriers" after
+    "military aircraft", and substituted "certificated" for "scheduled"
+    wherever appearing.
+      Subsec. (c). Pub. L. 110-405, Sec. 2(b)(10)(D), struck out at end
+    "If adequate service by certificated United States air carriers and
+    military aircraft is not available, any such parcel may be
+    transported by other than certificated United States air carriers
+    and military aircraft.".
+      Pub. L. 110-405, Sec. 2(b)(10)(A)-(C), substituted "or, for
+    carriage of mail in foreign air transportation, other air carriers,
+    air taxi operators or foreign air carriers as permitted by section
+    5402 of this title" for "at rates fixed and determined by the
+    Secretary of Transportation in accordance with section 41901 of
+    title 49", struck out "at rates not to exceed those so fixed and
+    determined for scheduled United States air carriers" after
+    "military aircraft", and substituted "certificated" for "scheduled"
+    wherever appearing.
       2004 - Subsec. (b). Pub. L. 108-375, Sec. 1071(a)(1), substituted
     "title 49, or on military aircraft at rates not to exceed those so
     fixed and determined for scheduled United States air carriers," for
@@ -13449,6 +13526,11 @@
     and redesignated former subsecs. (c) to (e) as (d) to (f),
     respectively.
 
+                     EFFECTIVE DATE OF 2008 AMENDMENT                 
+      Amendment by Pub. L. 110-405 effective Oct. 1, 2008, see section
+    2(c) of Pub. L. 110-405, set out as a note under section 101 of
+    this title.
+
                      EFFECTIVE DATE OF 1984 AMENDMENT                 
       Amendment by Pub. L. 98-443 effective Jan. 1, 1985, see section
     9(v) of Pub. L. 98-443, set out as a note under section 5314 of
@@ -13506,7 +13588,7 @@
 
 
 -CITE-
-    39 USC Sec. 3402                                            01/08/2008
+    39 USC Sec. 3402                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13533,7 +13615,7 @@
 
 
 -CITE-
-    39 USC Sec. 3403                                            01/08/2008
+    39 USC Sec. 3403                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13582,7 +13664,7 @@
 
 
 -CITE-
-    39 USC Sec. 3404                                            01/08/2008
+    39 USC Sec. 3404                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13607,7 +13689,7 @@
 
 
 -CITE-
-    39 USC Sec. 3405                                            01/08/2008
+    39 USC Sec. 3405                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13632,7 +13714,7 @@
 
 
 -CITE-
-    39 USC Sec. 3406                                            01/08/2008
+    39 USC Sec. 3406                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13682,7 +13764,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 36 - POSTAL RATES, CLASSES, AND SERVICES     01/08/2008
+    39 USC CHAPTER 36 - POSTAL RATES, CLASSES, AND SERVICES     01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13771,7 +13853,7 @@
 
 -CITE-
     39 USC SUBCHAPTER I - PROVISIONS RELATING TO
-           MARKET-DOMINANT PRODUCTS                        01/08/2008
+           MARKET-DOMINANT PRODUCTS                        01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13812,7 +13894,7 @@
 
 
 -CITE-
-    39 USC Sec. 3621                                            01/08/2008
+    39 USC Sec. 3621                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -13880,7 +13962,7 @@
 
 
 -CITE-
-    39 USC Sec. 3622                                            01/08/2008
+    39 USC Sec. 3622                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -14162,7 +14244,7 @@
 
 
 -CITE-
-    39 USC Secs. 3623 to 3625                                   01/08/2008
+    39 USC Secs. 3623 to 3625                                   01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -14191,7 +14273,7 @@
 
 
 -CITE-
-    39 USC Sec. 3626                                            01/08/2008
+    39 USC Sec. 3626                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -14747,7 +14829,7 @@
 
 
 -CITE-
-    39 USC Sec. 3627                                            01/08/2008
+    39 USC Sec. 3627                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -14830,7 +14912,7 @@
 
 
 -CITE-
-    39 USC Sec. 3628                                            01/08/2008
+    39 USC Sec. 3628                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -14855,7 +14937,7 @@
 
 
 -CITE-
-    39 USC Sec. 3629                                            01/08/2008
+    39 USC Sec. 3629                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -14908,7 +14990,7 @@
 
 -CITE-
     39 USC SUBCHAPTER II - PROVISIONS RELATING TO COMPETITIVE
-           PRODUCTS                                        01/08/2008
+           PRODUCTS                                        01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -14930,7 +15012,7 @@
 
 
 -CITE-
-    39 USC Sec. 3631                                            01/08/2008
+    39 USC Sec. 3631                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -14970,7 +15052,7 @@
 
 
 -CITE-
-    39 USC Sec. 3632                                            01/08/2008
+    39 USC Sec. 3632                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15036,7 +15118,7 @@
 
 
 -CITE-
-    39 USC Sec. 3633                                            01/08/2008
+    39 USC Sec. 3633                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15118,7 +15200,7 @@
 
 
 -CITE-
-    39 USC Sec. 3634                                            01/08/2008
+    39 USC Sec. 3634                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15175,7 +15257,7 @@
 
 -CITE-
     39 USC SUBCHAPTER III - PROVISIONS RELATING TO
-           EXPERIMENTAL AND NEW PRODUCTS                   01/08/2008
+           EXPERIMENTAL AND NEW PRODUCTS                   01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15201,7 +15283,7 @@
 
 
 -CITE-
-    39 USC Sec. 3641                                            01/08/2008
+    39 USC Sec. 3641                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15400,7 +15482,7 @@
 
 
 -CITE-
-    39 USC Sec. 3642                                            01/08/2008
+    39 USC Sec. 3642                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15505,7 +15587,7 @@
 
 -CITE-
     39 USC SUBCHAPTER IV - REPORTING REQUIREMENTS AND RELATED
-           PROVISIONS                                      01/08/2008
+           PROVISIONS                                      01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15527,7 +15609,7 @@
 
 
 -CITE-
-    39 USC Sec. 3651                                            01/08/2008
+    39 USC Sec. 3651                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15583,7 +15665,7 @@
 
 
 -CITE-
-    39 USC Sec. 3652                                            01/08/2008
+    39 USC Sec. 3652                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15710,7 +15792,7 @@
 
 
 -CITE-
-    39 USC Sec. 3653                                            01/08/2008
+    39 USC Sec. 3653                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15770,7 +15852,7 @@
 
 
 -CITE-
-    39 USC Sec. 3654                                            01/08/2008
+    39 USC Sec. 3654                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15910,7 +15992,7 @@
 
 -CITE-
     39 USC SUBCHAPTER V - POSTAL SERVICES, COMPLAINTS, AND
-           JUDICIAL REVIEW                                 01/08/2008
+           JUDICIAL REVIEW                                 01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -15939,7 +16021,7 @@
 
 
 -CITE-
-    39 USC Sec. 3661                                            01/08/2008
+    39 USC Sec. 3661                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16000,7 +16082,7 @@
 
 
 -CITE-
-    39 USC Sec. 3662                                            01/08/2008
+    39 USC Sec. 3662                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16080,7 +16162,7 @@
 
 
 -CITE-
-    39 USC Sec. 3663                                            01/08/2008
+    39 USC Sec. 3663                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16119,7 +16201,7 @@
 
 
 -CITE-
-    39 USC Sec. 3664                                            01/08/2008
+    39 USC Sec. 3664                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16143,7 +16225,7 @@
 
 
 -CITE-
-    39 USC SUBCHAPTER VI - GENERAL                              01/08/2008
+    39 USC SUBCHAPTER VI - GENERAL                              01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16166,7 +16248,7 @@
 
 
 -CITE-
-    39 USC Sec. 3681                                            01/08/2008
+    39 USC Sec. 3681                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16204,7 +16286,7 @@
 
 
 -CITE-
-    39 USC Sec. 3682                                            01/08/2008
+    39 USC Sec. 3682                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16279,7 +16361,7 @@
 
 
 -CITE-
-    39 USC Sec. 3683                                            01/08/2008
+    39 USC Sec. 3683                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16353,7 +16435,7 @@
 
 
 -CITE-
-    39 USC Sec. 3684                                            01/08/2008
+    39 USC Sec. 3684                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16393,7 +16475,7 @@
 
 
 -CITE-
-    39 USC Sec. 3685                                            01/08/2008
+    39 USC Sec. 3685                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16445,7 +16527,7 @@
 
 
 -CITE-
-    39 USC Sec. 3686                                            01/08/2008
+    39 USC Sec. 3686                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16528,7 +16610,7 @@
 
 
 -CITE-
-    39 USC SUBCHAPTER VII - MODERN SERVICE STANDARDS            01/08/2008
+    39 USC SUBCHAPTER VII - MODERN SERVICE STANDARDS            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16544,7 +16626,7 @@
 
 
 -CITE-
-    39 USC Sec. 3691                                            01/08/2008
+    39 USC Sec. 3691                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16752,7 +16834,7 @@
 
 
 -CITE-
-    39 USC PART V - TRANSPORTATION OF MAIL                      01/08/2008
+    39 USC PART V - TRANSPORTATION OF MAIL                      01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16777,7 +16859,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 50 - GENERAL                                 01/08/2008
+    39 USC CHAPTER 50 - GENERAL                                 01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16803,7 +16885,7 @@
 
 
 -CITE-
-    39 USC Sec. 5001                                            01/08/2008
+    39 USC Sec. 5001                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16839,7 +16921,7 @@
 
 
 -CITE-
-    39 USC Sec. 5002                                            01/08/2008
+    39 USC Sec. 5002                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16867,7 +16949,7 @@
 
 
 -CITE-
-    39 USC Sec. 5003                                            01/08/2008
+    39 USC Sec. 5003                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16897,7 +16979,7 @@
 
 
 -CITE-
-    39 USC Sec. 5004                                            01/08/2008
+    39 USC Sec. 5004                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -16919,7 +17001,7 @@
 
 
 -CITE-
-    39 USC Sec. 5005                                            01/08/2008
+    39 USC Sec. 5005                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -17023,7 +17105,7 @@
 
 
 -CITE-
-    39 USC Sec. 5006                                            01/08/2008
+    39 USC Sec. 5006                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -17059,7 +17141,7 @@
 
 
 -CITE-
-    39 USC Sec. 5007                                            01/08/2008
+    39 USC Sec. 5007                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -17097,7 +17179,7 @@
 
 
 -CITE-
-    39 USC [CHAPTER 52 - REPEALED]                              01/08/2008
+    39 USC [CHAPTER 52 - REPEALED]                              01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -17112,7 +17194,7 @@
 
 
 -CITE-
-    39 USC Secs. 5201 to 5215                                   01/08/2008
+    39 USC Secs. 5201 to 5215                                   01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -17174,7 +17256,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 54 - TRANSPORTATION OF MAIL BY AIR           01/08/2008
+    39 USC CHAPTER 54 - TRANSPORTATION OF MAIL BY AIR           01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -17195,7 +17277,7 @@
 
 
 -CITE-
-    39 USC Sec. 5401                                            01/08/2008
+    39 USC Sec. 5401                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -17242,7 +17324,7 @@
 
 
 -CITE-
-    39 USC Sec. 5402                                            01/08/2008
+    39 USC Sec. 5402                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -17256,9 +17338,12 @@
       (a) In this section - 
         (1) the term "acceptance point" means the point at which
       nonpriority bypass mail originates;
-        (2) the terms "air carrier", "interstate air transportation",
-      and "foreign air transportation" have the meanings given such
-      terms in section 40102(a) of title 49, United States Code;
+        (2) the terms foreign air carrier,(!1) "air carrier",
+      "interstate air transportation", "foreign air carrier".(!2) and
+      "foreign air transportation" have the meanings given such terms
+      in section 40102(a) of title 49, United States Code;
+
+
         (3) the term "base fare" means the fare paid to the carrier
       issuing the passenger ticket or carrying nonmail freight which
       may entail service being provided by more than 1 carrier;
@@ -17272,9 +17357,16 @@
       bush carrier is tendered nonpriority bypass mail between the
       origination point, being either an acceptance point or a hub, as
       determined by the Postal Service, and the destination city;
-        (7) the term "city pair" means service between an origin and
+        (7) the term "certificated air carrier" means an air carrier
+      that holds a certificate of public convenience and necessity
+      issued under section 41102(a) of title 49;
+        (8) the term "city pair" means service between an origin and
       destination city pair;
-        (8) the term "composite rate" - 
+        (9) the term "code-share relationship" means a relationship
+      pursuant to which any certificated air carrier or foreign air
+      carrier's designation code is used to identify a flight operated
+      by another air carrier or foreign air carrier;
+        (10) the term "composite rate" - 
           (A) means a combination of mainline and bush linehaul rates
         and a single terminal handling payment at a bush terminal
         handling rate paid to a bush carrier for a direct flight from
@@ -17285,12 +17377,12 @@
         Alaska for the distance traveled from the hub point to the
         destination point;
 
-        (9) the term "equitable tender" means the practice of the
+        (11) the term "equitable tender" means the practice of the
       Postal Service of equitably distributing mail on a fair and
       reasonable basis between those air carriers that offer equivalent
       services and costs between 2 communities in accordance with the
       regulations of the Postal Service;
-        (10) the term "existing mainline carrier" means a mainline
+        (12) the term "existing mainline carrier" means a mainline
       carrier (as defined in this subsection) that on January 1, 2001,
       was - 
           (A) certified under part 121;
@@ -17298,16 +17390,16 @@
         service; and
           (C) actually engaged in the carriage, on scheduled service
         within the State of Alaska, of mainline nonpriority bypass mail
-        tendered to it under its designator code.(!1)
+        tendered to it under its designator code.(!3)
 
 
-        (11) the term "mainline carrier" means a carrier operating
+        (13) the term "mainline carrier" means a carrier operating
       aircraft under part 121 and certificated within the payload
       capacity requirements of subsection (g)(1)(A)(iv)(II) on a given
       city pair route;
-        (12) the term "mainline route" means a city pair in which a
+        (14) the term "mainline route" means a city pair in which a
       mainline carrier is tendered nonpriority bypass mail;
-        (13) the term "new", when referencing a carrier, means a
+        (15) the term "new", when referencing a carrier, means a
       carrier that - 
           (A) meets the respective requirements of subclause (I) or
         (II) of subsection (g)(1)(A)(iv), depending on the type of
@@ -17318,11 +17410,11 @@
           (C) is not comprised of previously qualified existing
         mainline carriers as a result of merger or sale;
 
-        (14) the term "part 121" means part 121 of title 14, Code of
+        (16) the term "part 121" means part 121 of title 14, Code of
       Federal Regulations;
-        (15) the term "part 135" means part 135 of title 14, Code of
+        (17) the term "part 135" means part 135 of title 14, Code of
       Federal Regulations;
-        (16) the term "scheduled service" means - 
+        (18) the term "scheduled service" means - 
           (A) flights are operated in common carriage available to the
         general public under a published schedule;
           (B) flight schedules are announced in advance in systems
@@ -17332,56 +17424,113 @@
           (D) customers contract for carriage separately on a regular
         basis;
 
-        (17) the term "Secretary" means the Secretary of
+        (19) the term "Secretary" means the Secretary of
       Transportation;
-        (18) the term "121 bush passenger carrier" means a bush
+        (20) the term "121 bush passenger carrier" means a bush
       passenger carrier providing passenger service on bush routes
       under part 121;
-        (19) the term "121 mainline passenger carrier" means a mainline
+        (21) the term "121 mainline passenger carrier" means a mainline
       carrier providing passenger service through scheduled service on
       routes under part 121;
-        (20) the term "121 passenger aircraft" means an aircraft flying
+        (22) the term "121 passenger aircraft" means an aircraft flying
       passengers on a city pair route that is operated under part 121;
-        (21) the term "121 passenger carrier" means a passenger carrier
+        (23) the term "121 passenger carrier" means a passenger carrier
       that provides scheduled service under part 121;
-        (22) the term "135 bush passenger carrier" means a bush
+        (24) the term "135 bush passenger carrier" means a bush
       passenger carrier providing passenger service through scheduled
       service on bush routes under part 135; and
-        (23) the term "135 passenger carrier" means a passenger carrier
+        (25) the term "135 passenger carrier" means a passenger carrier
       that provides scheduled service under part 135.
 
-      (b) The Postal Service may contract with any certificated air
-    carrier, without advertising for bids, in such manner and under
-    such terms and conditions as it deems appropriate, for the
-    transportation of mail by aircraft between any of the points in
-    foreign air transportation between which the carrier is authorized
-    by the Secretary to engage in the transportation of mail. Such
-    contracts shall be for the transportation of at least 750 pounds of
-    mail per flight, and no more than 5 percent, based on weight, of
-    the international mail transported under any such contract shall
-    consist of letter mail. Any such contract shall be filed with the
-    Secretary not later than 90 days before its effective date. Unless
-    the Secretary shall determine otherwise (under criteria prescribed
-    by section 40101(a) of title 49) not later than 10 days prior to
-    the effective date of the contract, such contract shall become
-    effective.
-      (c) When the Postal Service deems that the transportation of mail
-    by aircraft is required between points in foreign air
-    transportation between which the Secretary has not authorized an
-    air carrier or combination of air carriers to engage in the
-    transportation of mail, it may contract with any air carrier in
-    such manner and under such terms and conditions as it may deem
-    appropriate for the transportation of any class or classes of mail.
-    The transportation of mail under contracts entered into under this
-    subsection is not, except for sections 40109(a) and (c)-(h) and
-    42112 of title 49, air transportation within the provisions of part
-    A of subtitle VII of title 49. The Postal Service shall cancel such
-    contract, in whole or in respect to certain points as the
-    certificate shall require, upon the issuance by the Secretary of an
-    authorization under chapters 411 and 413 of title 49 to any air
-    carrier to engage in the transportation of mail by aircraft between
-    any of the points named in the contract, and the inauguration of
-    scheduled service by such carrier.
+      (b) International Mail. - 
+        (1) In general. - 
+          (A) Except as otherwise provided in this subsection, the
+        Postal Service may contract for the transportation of mail by
+        aircraft between any of the points in foreign air
+        transportation only with certificated air carriers. A contract
+        may be awarded to a certificated air carrier to transport mail
+        by air between any of the points in foreign air transportation
+        that the Secretary of Transportation has authorized the carrier
+        to serve either directly or through a code-share relationship
+        with one or more foreign air carriers.
+          (B) If the Postal Service has sought offers or proposals from
+        certificated air carriers to transport mail in foreign air
+        transportation between points, or pairs of points within a
+        geographic region or regions, and has not received offers or
+        proposals that meet Postal Service requirements at a fair and
+        reasonable price from at least 2 such carriers, the Postal
+        Service may seek offers or proposals from foreign air carriers.
+        Where service in foreign air transportation meeting the Postal
+        Service's requirements is unavailable at a fair and reasonable
+        price from at least 2 certificated air carriers, either
+        directly or through a code-share relationship with one or more
+        foreign air carriers, the Postal Service may contract with
+        foreign air carriers to provide the service sought if, when the
+        Postal Service seeks offers or proposals from foreign air
+        carriers, it also seeks an offer or proposal to provide that
+        service from any certificated air carrier providing service
+        between those points, or pairs of points within a geographic
+        region or regions, on the same terms and conditions that are
+        being sought from foreign air carriers.
+          (C) For purposes of this subsection, the Postal Service shall
+        use a methodology for determining fair and reasonable prices
+        for the Postal Service designated region or regions developed
+        in consultation with, and with the concurrence of, certificated
+        air carriers representing at least 51 percent of available ton
+        miles in the markets of interest.
+          (D) For purposes of this subsection, ceiling prices
+        determined pursuant to the methodology used under subparagraph
+        (C) shall be presumed to be fair and reasonable if they do not
+        exceed the ceiling prices derived from - 
+            (i) a weighted average based on market rate data furnished
+          by the International Air Transport Association or a
+          subsidiary unit thereof; or
+            (ii) if such data are not available from those sources,
+          such other neutral, regularly updated set of weighted average
+          market rates as the Postal Service, with the concurrence of
+          certificated air carriers representing at least 51 percent of
+          available ton miles in the markets of interest, may
+          designate.
+
+          (E) If, for purposes of subparagraph (D)(ii), concurrence
+        cannot be attained, then the most recently available market
+        rate data described in this subparagraph shall continue to
+        apply for the relevant market or markets.
+
+        (2) Contract process. - The Postal Service shall contract for
+      foreign air transportation as set forth in paragraph (1) through
+      an open procurement process that will provide - 
+          (A) potential offerors with timely notice of business
+        opportunities in sufficient detail to allow them to make a
+        proposal;
+          (B) requirements, proposed terms and conditions, and
+        evaluation criteria to potential offerors; and
+          (C) an opportunity for unsuccessful offerors to receive
+        prompt feedback upon request.
+
+        (3) Emergency or unanticipated conditions; inadequate lift
+      space. - The Postal Service may enter into contracts to transport
+      mail by air in foreign air transportation with a certificated air
+      carrier or a foreign air carrier without complying with the
+      requirements of paragraphs (b)(1) and (2) if - 
+          (A) emergency or unanticipated conditions exist that make it
+        impractical for the Postal Service to comply with such
+        requirements; or
+          (B) its demand for lift exceeds the space available to it
+        under existing contracts and - 
+            (i) there is insufficient time available to seek additional
+          lift using procedures that comply with those requirements
+          without compromising the Postal Service's service commitments
+          to its own customers; and
+            (ii) the Postal Service first offers any certificated air
+          carrier holding a contract to carry mail between the relevant
+          points the opportunity to carry such excess volumes under the
+          terms of its existing contract.
+
+      (c) Good Faith Effort Required. - The Postal Service and
+    potential offerors shall put a good-faith effort into resolving
+    disputes concerning the award of contracts made under subsection
+    (b).
       (d) If the Postal Service determines that service by certificated
     air carriers or combination of air carriers between any pair or
     pairs of points in foreign air transportation is not adequate for
@@ -18023,7 +18172,8 @@
     III, Sec. 3002(c), (e)(1), Aug. 2, 2002, 116 Stat. 911, 924; Pub.
     L. 108-447, div. J, title III, Sec. 301(c)-(f), Dec. 8, 2004, 118
     Stat. 3350, 3351; Pub. L. 109-435, title X, Secs. 1002(b)(2),
-    1005(a)-(g), Dec. 20, 2006, 120 Stat. 3255-3258.)
+    1005(a)-(g), Dec. 20, 2006, 120 Stat. 3255-3258; Pub. L. 110-405,
+    Sec. 2(a), (b)(11), Oct. 13, 2008, 122 Stat. 4287, 4290.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -18042,6 +18192,29 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (a)(2). Pub. L. 110-405, Sec. 2(b)(11)(D), which
+    directed the insertion of "foreign air carrier," after "terms", was
+    executed by making the insertion after first reference to "terms"
+    to reflect the probable intent of Congress.
+      Pub. L. 110-405, Sec. 2(b)(11)(A), inserted " 'foreign air
+    carrier'." after " 'interstate air transportation',"
+      Subsec. (a)(7), (8). Pub. L. 110-405, Sec. 2(b)(11)(B), added
+    par. (7) and redesignated former par. (7) as (8). Former par. (8)
+    redesignated (9).
+      Subsec. (a)(9) to (24). Pub. L. 110-405, Sec. 2(b)(11)(C), added
+    par. (9) and redesignated former pars. (9) to (23) as (10) to (24),
+    respectively. Former par. (24) redesignated (25).
+      Pub. L. 110-405, Sec. 2(b)(11)(B), redesignated pars. (8) to (23)
+    as (9) to (24), respectively.
+      Subsec. (a)(25). Pub. L. 110-405, Sec. 2(b)(11)(C), redesignated
+    par. (24) as (25).
+      Subsecs. (b), (c). Pub. L. 110-405, Sec. 2(a), added subsecs. (b)
+    and (c) and struck out former subsecs. (b) and (c) which related to
+    contracts with certificated air carriers without advertising for
+    bids for transportation of mail between points in foreign air
+    transportation authorized by Secretary and contracts with air
+    carriers for transportation of mail between points in foreign air
+    transportation not authorized by Secretary, respectively.
       2006 - Subsec. (a)(4), (5). Pub. L. 109-435, Sec. 1005(a)(1),
     (2), substituted "subsection (g)(1)(A)(iv)(I)" for "subsection
     (g)(1)(D)(i)".
@@ -18212,6 +18385,11 @@
       Subsecs. (d) to (f). Pub. L. 98-443, Sec. 9(g)(4)(F), added
     subsecs. (d) to (f).
 
+                     EFFECTIVE DATE OF 2008 AMENDMENT                 
+      Amendment by Pub. L. 110-405 effective Oct. 1, 2008, see section
+    2(c) of Pub. L. 110-405, set out as a note under section 101 of
+    this title.
+
                      EFFECTIVE DATE OF 2006 AMENDMENT                 
       Pub. L. 109-435, title X, Sec. 1005(h) Dec. 20, 2006, 120 Stat.
     3258, provided that:
@@ -18352,9 +18530,18 @@
     Senate on the progress of implementing title III of Pub. L. 107-
     206.
 
--FOOTNOTE-               
+-FOOTNOTE-
+    (!1) So in original. Probably should be set off by quotation marks
+         and the term "foreign air carrier" probably should appear only
+         once.
 
-    (!1) So in original. The period probably should be a semicolon.
+    (!2) So in original. The period probably should be a comma and
+         the term "foreign air carrier" probably should appear only
+         once.
+
+               
+
+    (!3) So in original. The period probably should be a semicolon.
 
 
 -End-
@@ -18362,7 +18549,7 @@
 
 
 -CITE-
-    39 USC Sec. 5403                                            01/08/2008
+    39 USC Sec. 5403                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -18386,7 +18573,7 @@
 
 
 -CITE-
-    39 USC CHAPTER 56 - TRANSPORTATION OF MAIL BY VESSEL        01/08/2008
+    39 USC CHAPTER 56 - TRANSPORTATION OF MAIL BY VESSEL        01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -18410,7 +18597,7 @@
 
 
 -CITE-
-    39 USC Sec. 5601                                            01/08/2008
+    39 USC Sec. 5601                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -18439,7 +18626,7 @@
 
 
 -CITE-
-    39 USC Sec. 5602                                            01/08/2008
+    39 USC Sec. 5602                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -18462,7 +18649,7 @@
 
 
 -CITE-
-    39 USC Sec. 5603                                            01/08/2008
+    39 USC Sec. 5603                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -18491,7 +18678,7 @@
 
 
 -CITE-
-    39 USC Sec. 5604                                            01/08/2008
+    39 USC Sec. 5604                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE
@@ -18516,7 +18703,7 @@
 
 
 -CITE-
-    39 USC Sec. 5605                                            01/08/2008
+    39 USC Sec. 5605                                            01/05/2009
 
 -EXPCITE-
     TITLE 39 - POSTAL SERVICE

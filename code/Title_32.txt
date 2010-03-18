@@ -1,5 +1,5 @@
 -CITE-
-    32 USC TITLE 32 - NATIONAL GUARD                            01/08/2008
+    32 USC TITLE 32 - NATIONAL GUARD                            01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -259,7 +259,7 @@
 
 
 -CITE-
-    32 USC CHAPTER 1 - ORGANIZATION                             01/08/2008
+    32 USC CHAPTER 1 - ORGANIZATION                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -306,7 +306,7 @@
 
 
 -CITE-
-    32 USC Sec. 101                                             01/08/2008
+    32 USC Sec. 101                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -577,7 +577,7 @@
 
 
 -CITE-
-    32 USC Sec. 102                                             01/08/2008
+    32 USC Sec. 102                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -632,7 +632,7 @@
 
 
 -CITE-
-    32 USC Sec. 103                                             01/08/2008
+    32 USC Sec. 103                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -686,7 +686,7 @@
 
 
 -CITE-
-    32 USC Sec. 104                                             01/08/2008
+    32 USC Sec. 104                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -817,6 +817,14 @@
       Subsecs. (c), (d). Pub. L. 100-456, Sec. 1234(b)(1), struck out
     "the Canal Zone," after "Puerto Rico,".
 
+                           COUNCIL OF GOVERNORS                       
+      Pub. L. 110-181, div. A, title XVIII, Sec. 1822, Jan. 28, 2008,
+    122 Stat. 500, provided that: "The President shall establish a
+    bipartisan Council of Governors to advise the Secretary of Defense,
+    the Secretary of Homeland Security, and the White House Homeland
+    Security Council on matters related to the National Guard and civil
+    support missions."
+
        COMPTROLLER GENERAL ASSESSMENTS OF NATIONAL GUARD MANAGEMENT   
       Pub. L. 107-314, div. A, title V, Sec. 511(a), Dec. 2, 2002, 116
     Stat. 2536, provided that: "Not later than one year after the date
@@ -903,7 +911,7 @@
 
 
 -CITE-
-    32 USC Sec. 105                                             01/08/2008
+    32 USC Sec. 105                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -994,7 +1002,7 @@
 
 
 -CITE-
-    32 USC Sec. 106                                             01/08/2008
+    32 USC Sec. 106                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1038,7 +1046,7 @@
 
 
 -CITE-
-    32 USC Sec. 107                                             01/08/2008
+    32 USC Sec. 107                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1227,7 +1235,7 @@
 
 
 -CITE-
-    32 USC Sec. 108                                             01/08/2008
+    32 USC Sec. 108                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1289,7 +1297,7 @@
 
 
 -CITE-
-    32 USC Sec. 109                                             01/08/2008
+    32 USC Sec. 109                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1428,7 +1436,7 @@
 
 
 -CITE-
-    32 USC Sec. 110                                             01/08/2008
+    32 USC Sec. 110                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1467,7 +1475,7 @@
 
 
 -CITE-
-    32 USC Sec. 111                                             01/08/2008
+    32 USC Sec. 111                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1537,7 +1545,7 @@
 
 
 -CITE-
-    32 USC Sec. 112                                             01/08/2008
+    32 USC Sec. 112                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1993,7 +2001,7 @@
 
 
 -CITE-
-    32 USC Sec. 113                                             01/08/2008
+    32 USC Sec. 113                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2074,7 +2082,7 @@
 
 
 -CITE-
-    32 USC Sec. 114                                             01/08/2008
+    32 USC Sec. 114                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2120,7 +2128,7 @@
 
 
 -CITE-
-    32 USC Sec. 115                                             01/08/2008
+    32 USC Sec. 115                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2198,7 +2206,7 @@
 
 
 -CITE-
-    32 USC CHAPTER 3 - PERSONNEL                                01/08/2008
+    32 USC CHAPTER 3 - PERSONNEL                                01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2287,7 +2295,7 @@
 
 
 -CITE-
-    32 USC Sec. 301                                             01/08/2008
+    32 USC Sec. 301                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2328,7 +2336,7 @@
 
 
 -CITE-
-    32 USC Sec. 302                                             01/08/2008
+    32 USC Sec. 302                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2412,7 +2420,7 @@
 
 
 -CITE-
-    32 USC Sec. 303                                             01/08/2008
+    32 USC Sec. 303                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2526,7 +2534,7 @@
 
 
 -CITE-
-    32 USC Sec. 304                                             01/08/2008
+    32 USC Sec. 304                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2610,7 +2618,7 @@
 
 
 -CITE-
-    32 USC Sec. 305                                             01/08/2008
+    32 USC Sec. 305                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2743,7 +2751,7 @@
 
 
 -CITE-
-    32 USC Sec. 307                                             01/08/2008
+    32 USC Sec. 307                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2949,7 +2957,7 @@
 
 
 -CITE-
-    32 USC Sec. 308                                             01/08/2008
+    32 USC Sec. 308                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2968,7 +2976,7 @@
     appointment as a reserve officer of the Air Force. Temporary
     recognition so extended may be withdrawn at any time. If not sooner
     withdrawn or replaced by permanent recognition upon appointment as
-    a reserve officer in the same grade, it terminates six months after
+    a reserve officer in the same grade, it terminates one year after
     its effective date.
       (b) To be eligible for temporary Federal recognition under
     subsection (a), a person must take an oath that during the period
@@ -2977,7 +2985,8 @@
     Force, as the case may be.
 
 -SOURCE-
-    (Aug. 10, 1956, ch. 1041, 70A Stat. 603.)
+    (Aug. 10, 1956, ch. 1041, 70A Stat. 603; Pub. L. 110-181, div. A,
+    title V, Sec. 514, Jan. 28, 2008, 122 Stat. 99.)
 
 -MISC1-
 
@@ -3014,12 +3023,16 @@
     "such recognition". The words "and obligations required of him" and
     "in the same grade" are omitted as surplusage.
 
+                                AMENDMENTS                            
+      2008 - Subsec. (a). Pub. L. 110-181 substituted "one year" for
+    "six months" in last sentence.
+
 -End-
 
 
 
 -CITE-
-    32 USC Sec. 309                                             01/08/2008
+    32 USC Sec. 309                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3089,7 +3102,7 @@
 
 
 -CITE-
-    32 USC Sec. 310                                             01/08/2008
+    32 USC Sec. 310                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3190,7 +3203,7 @@
 
 
 -CITE-
-    32 USC Sec. 312                                             01/08/2008
+    32 USC Sec. 312                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3243,7 +3256,7 @@
 
 
 -CITE-
-    32 USC Sec. 313                                             01/08/2008
+    32 USC Sec. 313                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3341,7 +3354,7 @@
 
 
 -CITE-
-    32 USC Sec. 314                                             01/08/2008
+    32 USC Sec. 314                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3456,7 +3469,7 @@
 
 
 -CITE-
-    32 USC Sec. 315                                             01/08/2008
+    32 USC Sec. 315                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3532,7 +3545,7 @@
 
 
 -CITE-
-    32 USC Sec. 316                                             01/08/2008
+    32 USC Sec. 316                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3572,7 +3585,7 @@
 
 
 -CITE-
-    32 USC Sec. 317                                             01/08/2008
+    32 USC Sec. 317                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3627,7 +3640,7 @@
 
 
 -CITE-
-    32 USC Secs. 318 to 321                                     01/08/2008
+    32 USC Secs. 318 to 321                                     01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3665,7 +3678,7 @@
 
 
 -CITE-
-    32 USC Sec. 322                                             01/08/2008
+    32 USC Sec. 322                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3746,7 +3759,7 @@
 
 
 -CITE-
-    32 USC Sec. 323                                             01/08/2008
+    32 USC Sec. 323                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3946,7 +3959,7 @@
 
 
 -CITE-
-    32 USC Sec. 324                                             01/08/2008
+    32 USC Sec. 324                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3969,12 +3982,18 @@
     Columbia, Guam, or the Virgin Islands, whose (!1) National Guard he
     is a member.
 
+      (c) Notwithstanding subsection (a)(1), an officer of the National
+    Guard serving as a chaplain, medical officer, dental officer,
+    nurse, veterinarian, Medical Service Corps officer, or biomedical
+    sciences officer may be retained, with the officer's consent, until
+    the date on which the officer becomes 68 years of age.
 
 -SOURCE-
     (Aug. 10, 1956, ch. 1041, 70A Stat. 607; Pub. L. 100-456, div. A,
     title XII, Sec. 1234(b)(6), Sept. 29, 1988, 102 Stat. 2059; Pub. L.
     109-163, div. A, title X, Sec. 1057(b)(5), Jan. 6, 2006, 119 Stat.
-    3441.)
+    3441; Pub. L. 110-417, [div. A], title V, Sec. 516(b), Oct. 14,
+    2008, 122 Stat. 4442.)
 
 -MISC1-
 
@@ -4012,6 +4031,7 @@
     law".
 
                                 AMENDMENTS                            
+      2008 - Subsec. (c). Pub. L. 110-417 added subsec. (c).
       2006 - Subsec. (b). Pub. L. 109-163, which directed substitution
     of "State of whose National Guard he is a member, or by the laws of
     the Commonwealth of Puerto Rico, or the District of Columbia, Guam,
@@ -4033,7 +4053,7 @@
 
 
 -CITE-
-    32 USC Sec. 325                                             01/08/2008
+    32 USC Sec. 325                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4056,8 +4076,7 @@
     the Air National Guard of the United States is not relieved from
     duty in the National Guard of his State, or of the Commonwealth of
     Puerto Rico, Guam, or the Virgin Islands or the District of
-    Columbia, under paragraph (1) while serving on active duty in
-    command of a National Guard unit if - 
+    Columbia, under paragraph (1) while serving on active duty if - 
         (A) the President authorizes such service in both duty
       statuses; and
         (B) the Governor of his State, or of the Commonwealth of Puerto
@@ -4065,7 +4084,14 @@
       the District of Columbia National Guard, as the case may be,
       consents to such service in both duty statuses.
 
-      (b) Return to State Status. - So far as practicable, members,
+      (b) Advance Authorization and Consent. - The President and the
+    Governor of a State or Territory, or of the Commonwealth of Puerto
+    Rico, or the commanding general of the District of Columbia
+    National Guard, as applicable, may give the authorization or
+    consent required by subsection (a)(2) with respect to an officer in
+    advance for the purpose of establishing the succession of command
+    of a unit.
+      (c) Return to State Status. - So far as practicable, members,
     organizations, and units of the Army National Guard of the United
     States or the Air National Guard of the United States ordered to
     active duty shall be returned to their National Guard status upon
@@ -4076,7 +4102,8 @@
     title XII, Sec. 1234(b)(6), Sept. 29, 1988, 102 Stat. 2059; Pub. L.
     108-136, div. A, title V, Sec. 516, Nov. 24, 2003, 117 Stat. 1461;
     Pub. L. 109-163, div. A, title X, Sec. 1057(b)(6), Jan. 6, 2006,
-    119 Stat. 3442.)
+    119 Stat. 3442; Pub. L. 110-417, [div. A], title V, Sec. 517, Oct.
+    14, 2008, 122 Stat. 4442.)
 
 -MISC1-
 
@@ -4110,6 +4137,11 @@
     respective States, Territories, and the District of Columbia".
 
                                 AMENDMENTS                            
+      2008 - Subsec. (a)(2). Pub. L. 110-417, Sec. 517(a), struck out
+    "in command of a National Guard unit" after "active duty" in
+    introductory provisions.
+      Subsecs. (b), (c). Pub. L. 110-417, Sec. 517(b), added subsec.
+    (b) and redesignated former subsec. (b) as (c).
       2006 - Subsec. (a). Pub. L. 109-163 substituted "State, or of the
     Commonwealth of Puerto Rico, Guam, or the Virgin Islands" for
     "State or Territory, or of Puerto Rico" in par. (1) and
@@ -4148,7 +4180,7 @@
 
 
 -CITE-
-    32 USC Sec. 326                                             01/08/2008
+    32 USC Sec. 326                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4209,7 +4241,7 @@
 
 
 -CITE-
-    32 USC Sec. 327                                             01/08/2008
+    32 USC Sec. 327                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4345,7 +4377,7 @@
 
 
 -CITE-
-    32 USC Sec. 328                                             01/08/2008
+    32 USC Sec. 328                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4388,7 +4420,7 @@
 
 
 -CITE-
-    32 USC Secs. 329 to 333                                     01/08/2008
+    32 USC Secs. 329 to 333                                     01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4430,7 +4462,7 @@
 
 
 -CITE-
-    32 USC Sec. 334                                             01/08/2008
+    32 USC Sec. 334                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4467,7 +4499,7 @@
 
 
 -CITE-
-    32 USC Sec. 335                                             01/08/2008
+    32 USC Sec. 335                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4486,7 +4518,7 @@
 
 
 -CITE-
-    32 USC CHAPTER 5 - TRAINING                                 01/08/2008
+    32 USC CHAPTER 5 - TRAINING                                 01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4524,7 +4556,7 @@
 
 
 -CITE-
-    32 USC Sec. 501                                             01/08/2008
+    32 USC Sec. 501                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4882,7 +4914,7 @@
 
 
 -CITE-
-    32 USC Sec. 502                                             01/08/2008
+    32 USC Sec. 502                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5071,7 +5103,7 @@
 
 
 -CITE-
-    32 USC Sec. 503                                             01/08/2008
+    32 USC Sec. 503                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5169,7 +5201,7 @@
 
 
 -CITE-
-    32 USC Sec. 504                                             01/08/2008
+    32 USC Sec. 504                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5242,7 +5274,7 @@
 
 
 -CITE-
-    32 USC Sec. 505                                             01/08/2008
+    32 USC Sec. 505                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5329,7 +5361,7 @@
 
 
 -CITE-
-    32 USC Sec. 506                                             01/08/2008
+    32 USC Sec. 506                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5403,7 +5435,7 @@
 
 
 -CITE-
-    32 USC Sec. 507                                             01/08/2008
+    32 USC Sec. 507                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5453,7 +5485,7 @@
 
 
 -CITE-
-    32 USC Sec. 508                                             01/08/2008
+    32 USC Sec. 508                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5523,7 +5555,7 @@
 
 
 -CITE-
-    32 USC Sec. 509                                             01/08/2008
+    32 USC Sec. 509                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5577,19 +5609,15 @@
     to the State for civilian personnel costs attributable to the use
     of civilian employees of the National Guard in the conduct of the
     Program.
-      (d) Matching Funds Required. - The amount of assistance provided
-    under this section to a State program of the Program may not exceed
-    - 
-        (1) for fiscal year 1998, 75 percent of the costs of operating
-      the State program during that year;
-        (2) for fiscal year 1999, 70 percent of the costs of operating
-      the State program during that year;
-        (3) for fiscal year 2000, 65 percent of the costs of operating
-      the State program during that year; and
-        (4) for fiscal year 2001 and each subsequent fiscal year, 60
-      percent of the costs of operating the State program during that
-      year.
-
+      (d) Matching Funds Required. - (1) The amount of assistance
+    provided by the Secretary of Defense to a State program of the
+    Program for a fiscal year under this section may not exceed 60
+    percent of the costs of operating the State program during that
+    fiscal year.
+      (2) The limitation in paragraph (1) may not be construed as a
+    limitation on the amount of assistance that may be provided to a
+    State program of the Program for a fiscal year from sources other
+    than the Department of Defense.
       (e) Persons Eligible To Participate in Program. - A school
     dropout from secondary school shall be eligible to participate in
     the Program. The Secretary of Defense shall prescribe the standards
@@ -5729,7 +5757,8 @@
     Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107-314, div. A, title X,
     Sec. 1062(g)(1), Dec. 2, 2002, 116 Stat. 2651; Pub. L. 108-375,
     div. A, title V, Sec. 594(a), (b)(1), Oct. 28, 2004, 118 Stat.
-    1935, 1936.)
+    1935, 1936; Pub. L. 110-417, [div. A], title V, Sec. 594(a), Oct.
+    14, 2008, 122 Stat. 4475.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -5744,6 +5773,19 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (d). Pub. L. 110-417 amended subsec. (d)
+    generally. Prior to amendment, text read as follows: "The amount of
+    assistance provided under this section to a State program of the
+    Program may not exceed - 
+        "(1) for fiscal year 1998, 75 percent of the costs of operating
+      the State program during that year;
+        "(2) for fiscal year 1999, 70 percent of the costs of operating
+      the State program during that year;
+        "(3) for fiscal year 2000, 65 percent of the costs of operating
+      the State program during that year; and
+        "(4) for fiscal year 2001 and each subsequent fiscal year, 60
+      percent of the costs of operating the State program during that
+      year."
       2004 - Pub. L. 108-375, Sec. 594(b)(1), amended section catchline
     generally, substituting "National Guard Youth" for "National
     Guard".
@@ -5836,6 +5878,13 @@
       Subsec. (b). Pub. L. 106-65, Sec. 579(b), substituted
     "$62,500,000" for "$50,000,000".
 
+                     EFFECTIVE DATE OF 2008 AMENDMENT                 
+      Pub. L. 110-417, [div. A], title V, Sec. 594(b), Oct. 14, 2008,
+    122 Stat. 4475, provided that: "The amendment made by subsection
+    (a) [amending this section] shall take effect on October 1, 2008,
+    and shall apply with respect to fiscal years beginning on or after
+    that date."
+
                      EFFECTIVE DATE OF 2002 AMENDMENT                 
       Pub. L. 107-314, div. A, title X, Sec. 1062(g), Dec. 2, 2002, 116
     Stat. 2651, provided that the amendment made by section 1062(g)(1)
@@ -5846,7 +5895,7 @@
 
 
 -CITE-
-    32 USC CHAPTER 7 - SERVICE, SUPPLY, AND PROCUREMENT         01/08/2008
+    32 USC CHAPTER 7 - SERVICE, SUPPLY, AND PROCUREMENT         01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5909,7 +5958,7 @@
 
 
 -CITE-
-    32 USC Sec. 701                                             01/08/2008
+    32 USC Sec. 701                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5958,7 +6007,7 @@
 
 
 -CITE-
-    32 USC Sec. 702                                             01/08/2008
+    32 USC Sec. 702                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6059,7 +6108,7 @@
 
 
 -CITE-
-    32 USC Sec. 703                                             01/08/2008
+    32 USC Sec. 703                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6158,7 +6207,7 @@
 
 
 -CITE-
-    32 USC Sec. 704                                             01/08/2008
+    32 USC Sec. 704                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6216,7 +6265,7 @@
 
 
 -CITE-
-    32 USC Sec. 705                                             01/08/2008
+    32 USC Sec. 705                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6285,7 +6334,7 @@
 
 
 -CITE-
-    32 USC Sec. 706                                             01/08/2008
+    32 USC Sec. 706                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6298,9 +6347,10 @@
 -STATUTE-
       So far as practicable, whenever units, organizations, or members
     of the National Guard are returned to their National Guard status
-    under section 325(b) of this title, arms and equipment that the
-    Secretary concerned determines are sufficient to accomplish their
-    peacetime mission shall be returned with them.
+    under section 325(b) (!1) of this title, arms and equipment that
+    the Secretary concerned determines are sufficient to accomplish
+    their peacetime mission shall be returned with them.
+
 
 -SOURCE-
     (Aug. 10, 1956, ch. 1041, 70A Stat. 613.)
@@ -6322,12 +6372,22 @@
       The words "So far as practicable" are inserted, since sufficient
     arms and equipment might not be available.
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      Section 325(b) of this title, referred to in text, was
+    redesignated section 325(c) of this title by Pub. L. 110-417, [div.
+    A], title V, Sec. 517(b)(1), Oct. 14, 2008, 122 Stat. 4442.
+
+-FOOTNOTE-
+    (!1) See References in Text note below.
+
+
 -End-
 
 
 
 -CITE-
-    32 USC Sec. 707                                             01/08/2008
+    32 USC Sec. 707                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6367,7 +6427,7 @@
 
 
 -CITE-
-    32 USC Sec. 708                                             01/08/2008
+    32 USC Sec. 708                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6530,7 +6590,7 @@
 
 
 -CITE-
-    32 USC Sec. 709                                             01/08/2008
+    32 USC Sec. 709                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7274,7 +7334,7 @@
 
 
 -CITE-
-    32 USC Sec. 710                                             01/08/2008
+    32 USC Sec. 710                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7530,7 +7590,7 @@
 
 
 -CITE-
-    32 USC Sec. 711                                             01/08/2008
+    32 USC Sec. 711                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7586,7 +7646,7 @@
 
 
 -CITE-
-    32 USC Sec. 712                                             01/08/2008
+    32 USC Sec. 712                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7649,7 +7709,7 @@
 
 
 -CITE-
-    32 USC Sec. 713                                             01/08/2008
+    32 USC Sec. 713                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7692,7 +7752,7 @@
 
 
 -CITE-
-    32 USC Sec. 714                                             01/08/2008
+    32 USC Sec. 714                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7804,7 +7864,7 @@
 
 
 -CITE-
-    32 USC Sec. 715                                             01/08/2008
+    32 USC Sec. 715                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7966,7 +8026,7 @@
 
 
 -CITE-
-    32 USC Sec. 716                                             01/08/2008
+    32 USC Sec. 716                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8095,7 +8155,7 @@
 
 
 -CITE-
-    32 USC Sec. 717                                             01/08/2008
+    32 USC Sec. 717                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8114,7 +8174,7 @@
 
 
 -CITE-
-    32 USC CHAPTER 9 - HOMELAND DEFENSE ACTIVITIES              01/08/2008
+    32 USC CHAPTER 9 - HOMELAND DEFENSE ACTIVITIES              01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8139,7 +8199,7 @@
 
 
 -CITE-
-    32 USC Sec. 901                                             01/08/2008
+    32 USC Sec. 901                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8169,7 +8229,7 @@
 
 
 -CITE-
-    32 USC Sec. 902                                             01/08/2008
+    32 USC Sec. 902                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8205,7 +8265,7 @@
 
 
 -CITE-
-    32 USC Sec. 903                                             01/08/2008
+    32 USC Sec. 903                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8227,7 +8287,7 @@
 
 
 -CITE-
-    32 USC Sec. 904                                             01/08/2008
+    32 USC Sec. 904                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8280,7 +8340,7 @@
 
 
 -CITE-
-    32 USC Sec. 905                                             01/08/2008
+    32 USC Sec. 905                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8315,7 +8375,7 @@
 
 
 -CITE-
-    32 USC Sec. 906                                             01/08/2008
+    32 USC Sec. 906                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8347,7 +8407,7 @@
 
 
 -CITE-
-    32 USC Sec. 907                                             01/08/2008
+    32 USC Sec. 907                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8372,7 +8432,7 @@
 
 
 -CITE-
-    32 USC Sec. 908                                             01/08/2008
+    32 USC Sec. 908                                             01/05/2009
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
