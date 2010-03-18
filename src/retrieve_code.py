@@ -49,7 +49,7 @@ def extract_title(conn, title_name, code_dir):
     zip_file.close()                    # Temp file also disappears
 
 name_map = {
-    "05app.txt" : "Title_05_appendix.txt",
+    "5a.txt"    : "Title_05_appendix.txt",
     "11a.txt"   : "Title_11.txt",
     "160.wtx"   : "Title_16.txt",
     "170.wtx"   : "Title_17.txt",
@@ -62,7 +62,7 @@ name_map = {
     "240.wtx"   : "Title_24.txt",
     "250.wtx"   : "Title_25.txt",
     "28a.txt"   : "Title_28_appendix.txt",
-    "501.txt"   : "Title_50_appendix.txt"
+    "50a.txt"   : "Title_50_appendix.txt"
     }
 
 def get_out_path(code_dir, file_name):
