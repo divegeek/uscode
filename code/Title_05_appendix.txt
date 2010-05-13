@@ -1,11 +1,11 @@
 -CITE-
-    5 USC APPENDIX TITLE 5 - APPENDIX                           01/05/2009
+    5 USC APPENDIX TITLE 5 - APPENDIX                           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
-    
--HEAD-    
-                            TITLE 5 - APPENDIX                        
+                           
+-HEAD-                           
+                           TITLE 5 - APPENDIX                        
 
 
 -MISC1-
@@ -13,7 +13,7 @@
     Federal Advisory Committee Act (Pub. L. 92-463)                   71
     Inspector General Act of 1978 (Pub. L. 95-452)                    72
     Ethics in Government Act of 1978 (Titles I to V of Pub.
-     L. 95-521)                                                    74
+     L. 95-521)                                                       74
     Reorganization Plans                                             527
 
 
@@ -21,7 +21,7 @@
 
 
 -CITE-
-    5 USC APPENDIX FEDERAL ADVISORY COMMITTEE ACT               01/05/2009
+    5 USC APPENDIX FEDERAL ADVISORY COMMITTEE ACT               02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -45,7 +45,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 1                                       01/05/2009
+    5 USC APPENDIX Sec. 1                                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -77,7 +77,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 2                                       01/05/2009
+    5 USC APPENDIX Sec. 2                                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -176,7 +176,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 3                                       01/05/2009
+    5 USC APPENDIX Sec. 3                                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -270,7 +270,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 4                                       01/05/2009
+    5 USC APPENDIX Sec. 4                                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -305,7 +305,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 5                                       01/05/2009
+    5 USC APPENDIX Sec. 5                                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -369,7 +369,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 6                                       01/05/2009
+    5 USC APPENDIX Sec. 6                                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -440,7 +440,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 7                                       01/05/2009
+    5 USC APPENDIX Sec. 7                                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -589,7 +589,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 8                                       01/05/2009
+    5 USC APPENDIX Sec. 8                                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -642,7 +642,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 9                                       01/05/2009
+    5 USC APPENDIX Sec. 9                                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -719,7 +719,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 10                                      01/05/2009
+    5 USC APPENDIX Sec. 10                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -820,7 +820,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 11                                      01/05/2009
+    5 USC APPENDIX Sec. 11                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -854,7 +854,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 12                                      01/05/2009
+    5 USC APPENDIX Sec. 12                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -890,7 +890,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 13                                      01/05/2009
+    5 USC APPENDIX Sec. 13                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -932,7 +932,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 14                                      01/05/2009
+    5 USC APPENDIX Sec. 14                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -1317,23 +1317,27 @@
       Ex. Ord. No. 13385, Sept. 29, 2005, 70 F.R. 57989, which provided
     for the continuance of certain Federal advisory committees, was
     partially superseded by Ex. Ord. No. 13446, Sec. 4, Sept. 28, 2007,
-    72 F.R. 56176, set out below.
+    72 F.R. 56176, formerly set out below.
 
-        EX. ORD. NO. 13446. CONTINUANCE OF CERTAIN FEDERAL ADVISORY
-      COMMITTEES AND AMENDMENTS TO AND REVOCATION OF OTHER EXECUTIVE
-                                  ORDERS
-      Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, provided:
+                         EXECUTIVE ORDER NO. 13446                     
+      Ex. Ord. No. 13446, Sept. 28, 2007, 72 F.R. 56175, which provided
+    for the continuance of certain Federal advisory committees, was
+    partially superseded by Ex. Ord. No. 13511, Sec. 3, Sept. 29, 2009,
+    74 F.R. 50910, set out below.
+
+        EX. ORD. NO. 13511. CONTINUANCE OF CERTAIN FEDERAL ADVISORY
+                                COMMITTEES
+      Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, provided:
       By the authority vested in me as President by the Constitution
     and the laws of the United States of America, and consistent with
     the provisions of the Federal Advisory Committee Act, as amended (5
     U.S.C. App.), it is hereby ordered as follows:
       Section 1. Each advisory committee listed below is continued
-    until September 30, 2009.
+    until September 30, 2011.
       (a) Committee for the Preservation of the White House; Executive
     Order 11145, as amended (Department of the Interior).
-      (b) National Infrastructure Advisory Council; section 3 of
-    Executive Order 13231, as amended (Department of Homeland
-    Security).
+      (b) National Infrastructure Advisory Council; Executive Order
+    13231, as amended (Department of Homeland Security).
       (c) Federal Advisory Council on Occupational Safety and Health;
     Executive Order 12196, as amended (Department of Labor).
       (d) President's Board of Advisors on Historically Black Colleges
@@ -1353,19 +1357,17 @@
     Labor).
       (j) President's Committee on the National Medal of Science;
     Executive Order 11287, as amended (National Science Foundation).
-      (k) President's Council of Advisors on Science and Technology;
+      (k) President's Council on Physical Fitness and Sports; Executive
+    Order 13265 (Department of Health and Human Services).
+      (l) President's Council of Advisors on Science and Technology;
     Executive Order 13226, as amended (Office of Science and Technology
     Policy).
-      (l) President's Council on Bioethics; Executive Order 13237
-    (Department of Health and Human Services).
-      (m) President's Council on Physical Fitness and Sports; Executive
-    Order 13265 (Department of Health and Human Services).
-      (n) President's Export Council; Executive Order 12131, as amended
+      (m) President's Export Council; Executive Order 12131, as amended
     (Department of Commerce).
-      (o) President's National Security Telecommunications Advisory
+      (n) President's National Security Telecommunications Advisory
     Committee; Executive Order 12382, as amended (Department of
     Homeland Security).
-      (p) Trade and Environment Policy Advisory Committee; Executive
+      (o) Trade and Environment Policy Advisory Committee; Executive
     Order 12905 (Office of the United States Trade Representative).
       Sec. 2. Notwithstanding the provisions of any other Executive
     Order, the functions of the President under the Federal Advisory
@@ -1374,22 +1376,17 @@
     department or agency designated after each committee, in accordance
     with the guidelines and procedures established by the Administrator
     of General Services.
-      Sec. 3. The following Executive Order, which established a
-    committee whose work has been completed, is revoked: Executive
-    Order 13369, as amended by Executive Orders 13379 and 13386,
-    establishing the President's Advisory Panel on Federal Tax Reform.
-      Sec. 4. Sections 1 and 2 of Executive Order 13385 are superseded
+      Sec. 3. Sections 1 and 2 of Executive Order 13446 are superseded
     by sections 1 and 2 of this order.
-      Sec. 5. [Amended Ex. Ord. No. 12994, 42 U.S.C. 15001 note.]
-      Sec. 6. This order shall be effective September 30, 2007.
-                                                         George W. Bush.
+      Sec. 4. This order shall be effective September 30, 2009.
+                                                           Barack Obama.
 
 -End-
 
 
 
 -CITE-
-    5 USC APPENDIX Sec. 15                                      01/05/2009
+    5 USC APPENDIX Sec. 15                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -1509,7 +1506,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 16                                      01/05/2009
+    5 USC APPENDIX Sec. 16                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -1532,7 +1529,7 @@
 
 
 -CITE-
-    5 USC APPENDIX INSPECTOR GENERAL ACT OF 1978                01/05/2009
+    5 USC APPENDIX INSPECTOR GENERAL ACT OF 1978                02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -1595,7 +1592,9 @@
      2008, 122 STAT. 2668; PUB. L. 110-409, SECS. 2-4(A)(1), 5, 6(A),
       (B), 7(A), (D)(1), 8, 9, 11-13(A), 14, OCT. 14, 2008, 122 STAT.
      4302, 4305, 4313-4316; PUB. L. 110-417, [DIV. A], TITLE IX, SECS.
-            907, 931(B)(2), OCT. 14, 2008, 122 STAT. 4569, 4575
+       907, 931(B)(2), OCT. 14, 2008, 122 STAT. 4569, 4575; PUB. L.
+    111-13, TITLE IV, SEC. 4101, APR. 21, 2009, 123 STAT. 1597; PUB. L.
+     111-84, DIV. A, TITLE X, SEC. 1042, OCT. 28, 2009, 123 STAT. 2455
 
                                                                 
 
@@ -1604,7 +1603,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 1                                       01/05/2009
+    5 USC APPENDIX Sec. 1                                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -1666,7 +1665,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 2                                       01/05/2009
+    5 USC APPENDIX Sec. 2                                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -1775,7 +1774,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 3                                       01/05/2009
+    5 USC APPENDIX Sec. 3                                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -2038,7 +2037,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 4                                       01/05/2009
+    5 USC APPENDIX Sec. 4                                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -2171,7 +2170,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 5                                       01/05/2009
+    5 USC APPENDIX Sec. 5                                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -2257,7 +2256,7 @@
       period;
         (12) information concerning any significant management decision
       with which the Inspector General is in disagreement; and
-        (13) the information described under section 05(b) (!2 of the
+        (13) the information described under section 05(b) (!2) of the
       Federal Financial Management Improvement Act of 1996.
 
 
@@ -2590,7 +2589,7 @@
 -FOOTNOTE-
     (!1) So in original. Probably should be singular.
 
-    )2(! See References in Text note below.
+    (!2) See References in Text note below.
 
 
 -End-
@@ -2598,7 +2597,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 6                                       01/05/2009
+    5 USC APPENDIX Sec. 6                                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -2903,105 +2902,13 @@
     101-509, set out in a note under section 5376 of this title.
 
             LINKS TO WEBSITES OF OFFICES OF INSPECTORS GENERAL        
-      Pub. L. 110-161, div. B, title V, Sec. 534, Dec. 26, 2007, 121
-    Stat. 1932, provided that: "The Departments, agencies, and
-    commissions funded under this Act [div. B of Pub. L. 110-161, see
-    Tables for classification], shall establish and maintain on the
-    homepages of their Internet websites - 
-        "(1) a direct link to the Internet websites of their Offices of
-      Inspectors General; and
-        "(2) a mechanism on the Offices of Inspectors General website
-      by which individuals may anonymously report cases of waste,
-      fraud, or abuse with respect to those Departments, agencies, and
-      commissions."
-      Pub. L. 110-161, div. D, title VII, Sec. 746, Dec. 26, 2007, 121
-    Stat. 2034, as amended by Pub. L. 110-409, Sec. 13(b), Oct. 14,
-    2008, 122 Stat. 4316, provided that:
-      "(a) Each executive department and agency shall establish and
-    maintain on the homepage of its website, an obvious, direct link to
-    the website of its respective Inspector General.
-      "[(b) Repealed. Pub. L. 110-409, Sec. 13(b), Oct. 14, 2008, 122
-    Stat. 4316.]"
-      Pub. L. 110-161, div. E, title V, Sec. 555, Dec. 26, 2007, 121
-    Stat. 2082, provided that: "Not later than 30 days after the date
-    of enactment of this Act [Dec. 26, 2007] - 
-        "(1) the Secretary of Homeland Security shall establish and
-      maintain on the homepage of the website of the Department of
-      Homeland Security, a direct link to the website of the Office of
-      Inspector General of the Department of Homeland Security; and
-        "(2) the Inspector General of the Department of Homeland
-      Security shall establish and maintain on the homepage of the
-      website of the Office of Inspector General a direct link for
-      individuals to anonymously report waste, fraud, or abuse."
-      Pub. L. 110-161, div. G, title V, Sec. 522, Dec. 26, 2007, 121
-    Stat. 2211, provided that: "Not later than 30 days after the date
-    of enactment of this Act [Dec. 26, 2007], the Departments,
-    agencies, and commissions funded under this Act [div. G of Pub. L.
-    110-161, see Tables for classification], shall establish and
-    maintain on the homepages of their Internet websites - 
-        "(1) a direct link to the Internet websites of their Offices of
-      Inspectors General; and
-        "(2) a mechanism on the Offices of Inspectors General website
-      by which individuals may anonymously report cases of waste,
-      fraud, or abuse with respect to those Departments, agencies, and
-      commissions."
-      Pub. L. 110-161, div. I, title II, Sec. 226, Dec. 26, 2007, 121
-    Stat. 2272, provided that:
-      "(a) Not later than 30 days after the date of the enactment of
-    this Act [Dec. 26, 2007], the Inspector General of the Department
-    of Veterans Affairs shall establish and maintain on the homepage of
-    the Internet website of the Office of Inspector General a mechanism
-    by which individuals can anonymously report cases of waste, fraud,
-    or abuse with respect to the Department of Veterans Affairs.
-      "(b) Not later than 30 days after the date of the enactment of
-    this Act, the Secretary of Veterans Affairs shall establish and
-    maintain on the homepage of the Internet website of the Department
-    of Veterans Affairs a direct link to the Internet website of the
-    Office of Inspector General of the Department of Veterans Affairs."
-      Pub. L. 110-161, div. J, title I, Sec. 115, Dec. 26, 2007, 121
-    Stat. 2288, provided that:
-      "(a) Link to Office of Inspector General From Homepage of
-    Department of State. - Not later than 30 days after the date of the
-    enactment of this Act [Dec. 26, 2007], the Secretary of State shall
-    establish and maintain on the homepage of the Internet website of
-    the Department of State a direct link to the Internet website of
-    the Office of Inspector General of the Department of State.
-      "(b) Anonymous Reporting of Waste, Fraud, or Abuse. - Not later
-    than 30 days after the date of the enactment of this Act, the
-    Inspector General of the Department of State shall establish and
-    maintain on the homepage of the Internet website of the Office of
-    Inspector General a mechanism by which individuals can anonymously
-    report cases of waste, fraud, or abuse with respect to the
-    Department of State."
-      Pub. L. 110-161, div. K, title I, Sec. 195, Dec. 26, 2007, 121
-    Stat. 2408, provided that: "Not later than 30 days after the date
-    of enactment of this Act [Dec. 26, 2007], the Secretary of
-    Transportation shall establish and maintain on the homepage of the
-    Internet website of the Department of Transportation - 
-        "(1) a direct link to the Internet website of the Office of
-      Inspector General of the Department of Transportation; and
-        "(2) a mechanism by which individuals may anonymously report
-      cases of waste, fraud, or abuse with respect to the Department of
-      Transportation."
-      Pub. L. 110-161, div. K, title II, Sec. 234, Dec. 26, 2007, 121
-    Stat. 2439, provided that: "Not later than 30 days after the date
-    of enactment of this Act [Dec. 26, 2007], the Secretary of Housing
-    and Urban Development shall establish and maintain on the homepage
-    of the Internet website of the Department of Housing and Urban
-    Development - 
-        "(1) a direct link to the Internet website of the Office of
-      Inspector General of the Department of Housing and Urban
-      Development; and
-        "(2) a mechanism by which individuals may anonymously report
-      cases of waste, fraud, or abuse with respect to the Department of
-      Housing and Urban Development."
-      Pub. L. 110-116, div. A, title VIII, Sec. 8121, Nov. 13, 2007,
-    121 Stat. 1341, provided that: "Not later than 30 days after the
-    date of the enactment of this Act [Nov. 13, 2007], the Secretary of
-    Defense shall establish and maintain on the homepage of the
-    Internet website of the Department of Defense a direct link to the
-    Internet website of the Office of Inspector General of the
-    Department of Defense."
+      Provisions of Pub. L. 110-161, div. B, title V, Sec. 534, div. D,
+    title VII, Sec. 746, div. E, title V, Sec. 555, div. G, title V,
+    Sec. 522, div. I, title II, Sec. 226, div. J, title I, Sec. 115,
+    div. K, title I, Sec. 195, title II, Sec. 234, and Pub. L. 110-116,
+    div. A, title VIII, Sec. 8121, formerly set out as notes under this
+    section were transferred, and are listed in a table of similar
+    provisions under section 8L of this Appendix.
 
                     PROMULGATION OF INITIAL GUIDELINES                
       Pub. L. 107-296, title VIII, Sec. 812(b), Nov. 25, 2002, 116
@@ -3099,7 +3006,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 7                                       01/05/2009
+    5 USC APPENDIX Sec. 7                                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -3137,7 +3044,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 8                                       01/05/2009
+    5 USC APPENDIX Sec. 8                                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -3262,6 +3169,17 @@
     General of the Department of Defense. The Inspector General may
     appoint to the Office to serve as staff of the General Counsel such
     legal counsel as the Inspector General considers appropriate.
+      (i)(1) The Inspector General of the Department of Defense is
+    authorized to require by subpoena the attendance and testimony of
+    witnesses as necessary in the performance of functions assigned to
+    the Inspector General by this Act, except that the Inspector
+    General shall use procedures other than subpoenas to obtain
+    attendance and testimony from Federal employees.
+      (2) A subpoena issued under this subsection, in the case of
+    contumacy or refusal to obey, shall be enforceable by order of any
+    appropriate United States district court.
+      (3) The Inspector General shall notify the Attorney General 7
+    days before issuing any subpoena under this section.
 
 -SOURCE-
     (Pub. L. 95-452, Sec. 8, Oct. 12, 1978, 92 Stat. 1105; Pub. L. 97-
@@ -3270,11 +3188,13 @@
     L. 104-106, div. A, title XV, Sec. 1502(f)(6), Feb. 10, 1996, 110
     Stat. 510; Pub. L. 106-65, div. A, title X, Sec. 1067(17), Oct. 5,
     1999, 113 Stat. 775; Pub. L. 110-417, [div. A], title IX, Sec. 907,
-    Oct. 14, 2008, 122 Stat. 4569.)
+    Oct. 14, 2008, 122 Stat. 4569; Pub. L. 111-84, div. A, title X,
+    Sec. 1042, Oct. 28, 2009, 123 Stat. 2455.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (i). Pub. L. 111-84 added subsec. (i).
       2008 - Subsec. (h). Pub. L. 110-417 added subsec. (h).
       1999 - Subsecs. (b)(3), (f)(1). Pub. L. 106-65 substituted "and
     the Committee on Armed Services" for "and the Committee on National
@@ -3353,7 +3273,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 8A                                      01/05/2009
+    5 USC APPENDIX Sec. 8A                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -3369,7 +3289,7 @@
     International Development shall supervise, direct, and control all
     security activities relating to the programs and operations of that
     Agency, subject to the supervision of the Administrator of that
-    Agency.)1(!
+    Agency.(!1)
 
       (b) In addition to the Assistant Inspector Generals provided for
     in section 3(d) of this Act, the Inspector General of the Agency
@@ -3399,7 +3319,7 @@
       (f) As used in this Act, the term "Agency for International
     Development" includes any successor agency primarily responsible
     for administering part I of the Foreign Assistance Act of 1961 [22
-    U.S.C. 2151 et seq.].)1(!
+    U.S.C. 2151 et seq.].(!1)
 
 -SOURCE-
     (Pub. L. 95-452, Sec. 8A, as added Pub. L. 97-113, title VII, Sec.
@@ -3469,7 +3389,7 @@
 
 -FOOTNOTE-               
 
-    )1(! See 1999 Amendment note below.
+    (!1) See 1999 Amendment note below.
 
 
 -End-
@@ -3477,7 +3397,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 8B                                      01/05/2009
+    5 USC APPENDIX Sec. 8B                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -3518,7 +3438,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 8C                                      01/05/2009
+    5 USC APPENDIX Sec. 8C                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -3561,7 +3481,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 8D                                      01/05/2009
+    5 USC APPENDIX Sec. 8D                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -3917,7 +3837,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 8E                                      01/05/2009
+    5 USC APPENDIX Sec. 8E                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -4117,7 +4037,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 8F                                      01/05/2009
+    5 USC APPENDIX Sec. 8F                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -4133,9 +4053,8 @@
     Inspector General of the Corporation for National and Community
     Service to - 
         (1) appoint and determine the compensation of such officers and
-      employees in accordance with section 195(b) )1(! of the National
-      and Community Service Trust Act of 1993; and
-
+      employees in accordance with section 195(b) of the National and
+      Community Service Act of 1990 [42 U.S.C. 12651f(b)]; and
         (2) procure the temporary and intermittent services of and
       compensate such experts and consultants, in accordance with
       section 3109(b) of title 5, United States Code,
@@ -4169,16 +4088,8 @@
     (Pub. L. 95-452, Sec. 8F, formerly Sec. 8E, as added Pub. L. 103-
     82, title II, Sec. 202(g)(1), Sept. 21, 1993, 107 Stat. 889;
     renumbered Sec. 8F, Pub. L. 103-204, Sec. 23(a)(3), Dec. 17, 1993,
-    107 Stat. 2408.)
-
--REFTEXT-
-                            REFERENCES IN TEXT                        
-      Section 195(b) of the National and Community Service Trust Act of
-    1993, referred to in subsec. (a)(1), probably means section 195(b)
-    of the National and Community Service Act of 1990, Pub. L. 101-610,
-    which was enacted by section 202(a) of the National and Community
-    Service Trust Act of 1993, Pub. L. 103-82, and is classified to
-    section 12651f(b) of Title 42, The Public Health and Welfare.
+    107 Stat. 2408; amended Pub. L. 111-13, title IV, Sec. 4101, Apr.
+    21, 2009, 123 Stat. 1597.)
 
 -COD-
                                CODIFICATION                           
@@ -4203,21 +4114,27 @@
     relating to rule of construction of special provisions, was
     renumbered section 8J.
 
+                                AMENDMENTS                            
+      2009 - Subsec. (a)(1). Pub. L. 111-13 substituted "National and
+    Community Service Act of 1990" for "National and Community Service
+    Trust Act of 1993".
+
+                     EFFECTIVE DATE OF 2009 AMENDMENT                 
+      Amendment by Pub. L. 111-13 effective Oct. 1, 2009, see section
+    6101(a) of Pub. L. 111-13, set out as a note under section 4950 of
+    Title 42, The Public Health and Welfare.
+
                               EFFECTIVE DATE                          
       Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103-
     82, set out as a note under section 12651 of Title 42, The Public
     Health and Welfare.
-
--FOOTNOTE-
-    )1(! See References in Text note below.
-
 
 -End-
 
 
 
 -CITE-
-    5 USC APPENDIX Sec. 8G                                      01/05/2009
+    5 USC APPENDIX Sec. 8G                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -4678,7 +4595,8 @@
          SPECIAL INSPECTOR GENERAL FOR AFGHANISTAN RECONSTRUCTION     
       Pub. L. 110-181, div. A, title XII, Sec. 1229, Jan. 28, 2008, 122
     Stat. 378, as amended by Pub. L. 110-417, [div. A], title X, Sec.
-    1061(b)(11), Oct. 14, 2008, 122 Stat. 4613, provided that:
+    1061(b)(11), Oct. 14, 2008, 122 Stat. 4613; Pub. L. 111-38, Sec. 1,
+    June 30, 2009, 123 Stat. 1932, provided that:
       "(a) Purposes. - The purposes of this section are as follows:
         "(1) To provide for the independent and objective conduct and
       supervision of audits and investigations relating to the programs
@@ -4817,13 +4735,28 @@
       section 4(b)(1) of the Inspector General Act of 1978 [section
       4(b)(1) of Pub. L. 95-452, set out in this Appendix].
       "(h) Personnel, Facilities, and Other Resources. - 
-        "(1) Personnel. - The Inspector General may select, appoint,
-      and employ such officers and employees as may be necessary for
-      carrying out the duties of the Inspector General, subject to the
-      provisions of title 5, United States Code, governing appointments
-      in the competitive service, and the provisions of chapter 51 and
-      subchapter III of chapter 53 of such title, relating to
-      classification and General Schedule pay rates.
+        "(1) Personnel. - 
+          "(A) In general. - The Inspector General may select, appoint,
+        and employ such officers and employees as may be necessary for
+        carrying out the duties of the Inspector General, subject to
+        the provisions of title 5, United States Code, governing
+        appointments in the competitive service, and the provisions of
+        chapter 51 and subchapter III of chapter 53 of such title,
+        relating to classification and General Schedule pay rates.
+          "(B) Additional authorities. - 
+            "(i) In general. - Subject to clause (ii), the Inspector
+          General may exercise the authorities of subsections (b)
+          through (i) of section 3161 of title 5, United States Code
+          (without regard to subsection (a) of that section).
+            "(ii) Periods of appointments. - In exercising the
+          employment authorities under subsection (b) of section 3161
+          of title 5, United States Code, as provided under clause (i)
+          of this subparagraph - 
+         "(I) paragraph (2) of that subsection (relating to periods of
+          appointments) shall not apply; and
+         "(II) no period of appointment may exceed the date on which
+          the Office of the Special Inspector General for Afghanistan
+          Reconstruction terminates under subsection (o).
         "(2) Employment of experts and consultants. - The Inspector
       General may obtain services as authorized by section 3109 of
       title 5, United States Code, at daily rates not to exceed the
@@ -5041,19 +4974,22 @@
       reconstruction of Afghanistan."
 
     INSPECTOR GENERAL OF CHEMICAL SAFETY AND HAZARD INVESTIGATION BOARD
-      Pub. L. 110-161, div. F, title III, Dec. 26, 2007, 121 Stat.
-    2139, provided in part: "That notwithstanding any other provision
-    of law, the individual appointed to the position of Inspector
-    General of the Environmental Protection Agency (EPA) shall, by
-    virtue of such appointment, also hold the position of Inspector
-    General of the [Chemical Safety and Hazard Investigation] Board:
-    Provided further, That notwithstanding any other provision of law,
-    the Inspector General of the Board shall utilize personnel of the
-    Office of Inspector General of EPA in performing the duties of the
-    Inspector General of the Board, and shall not appoint any
-    individuals to positions within the Board."
+      Pub. L. 111-88, div. A, title III, Oct. 30, 2009, 123 Stat. 2950,
+    provided in part: "That notwithstanding any other provision of law,
+    the individual appointed to the position of Inspector General of
+    the Environmental Protection Agency (EPA) shall, by virtue of such
+    appointment, also hold the position of Inspector General of the
+    [Chemical Safety and Hazard Investigation] Board: Provided further,
+    That notwithstanding any other provision of law, the Inspector
+    General of the Board shall utilize personnel of the Office of
+    Inspector General of EPA in performing the duties of the Inspector
+    General of the Board, and shall not appoint any individuals to
+    positions within the Board".
       Similar provisions were contained in the following prior
     appropriations acts:
+      Pub. L. 111-8, div. E, title III, Mar. 11, 2009, 123 Stat. 739.
+      Pub. L. 110-161, div. F, title III, Dec. 26, 2007, 121 Stat.
+    2139.
       Pub. L. 109-54, title III, Aug. 2, 2005, 119 Stat. 543.
       Pub. L. 108-447, div. I, title III, Dec. 8, 2004, 118 Stat. 3322.
       Pub. L. 108-199, div. G, title III, Jan. 23, 2004, 118 Stat. 399.
@@ -5465,7 +5401,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 8H                                      01/05/2009
+    5 USC APPENDIX Sec. 8H                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -5660,7 +5596,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 8I                                      01/05/2009
+    5 USC APPENDIX Sec. 8I                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -5834,7 +5770,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 8J                                      01/05/2009
+    5 USC APPENDIX Sec. 8J                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -5908,7 +5844,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 8K                                      01/05/2009
+    5 USC APPENDIX Sec. 8K                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -5949,7 +5885,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 8L                                      01/05/2009
+    5 USC APPENDIX Sec. 8L                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -6014,12 +5950,57 @@
     out as a note under section 6 of Pub. L. 95-452, set out in this
     Appendix]."
 
+            LINKS TO WEBSITES OF OFFICES OF INSPECTORS GENERAL        
+      Pub. L. 111-8, div. D, title VII, Sec. 744, Mar. 11, 2009, 123
+    Stat. 693, provided that:
+      "(a) Each executive department and agency shall establish and
+    maintain on the homepage of its website, an obvious, direct link to
+    the website of its respective Inspector General.
+      "(b) Each Office of Inspector General shall: (1) post on its
+    website any public report or audit or portion of any report or
+    audit issued within one day of its release; (2) provide a service
+    on its website to allow an individual to request automatic receipt
+    of information relating to any public report or audit or portion of
+    that report or audit and which permits electronic transmittal of
+    the information, or notice of the availability of the information
+    without further request; and (3) establish and maintain a direct
+    link on its website for individuals to anonymously report waste,
+    fraud and abuse."
+      Similar provisions requiring certain departments, agencies, and
+    commissions to establish and maintain on the homepages of their
+    websites links to the offices of their inspectors general and/or
+    mechanisms for anonymous reporting of waste, fraud, and abuse were
+    contained in the following appropriation acts:
+      Pub. L. 111-117, div. B, title V, Sec. 526, Dec. 16, 2009, 123
+    Stat. 3154.
+      Pub. L. 111-8, div. B, title V, Sec. 526, Mar. 11, 2009, 123
+    Stat. 599.
+      Pub. L. 110-161, div. B, title V, Sec. 534, Dec. 26, 2007, 121
+    Stat. 1932.
+      Pub. L. 110-161, div. D, title VII, Sec. 746, Dec. 26, 2007, 121
+    Stat. 2034, as amended by Pub. L. 110-409, Sec. 13(b), Oct. 14,
+    2008, 122 Stat. 4316.
+      Pub. L. 110-161, div. E, title V, Sec. 555, Dec. 26, 2007, 121
+    Stat. 2082.
+      Pub. L. 110-161, div. G, title V, Sec. 522, Dec. 26, 2007, 121
+    Stat. 2211.
+      Pub. L. 110-161, div. I, title II, Sec. 226, Dec. 26, 2007, 121
+    Stat. 2272.
+      Pub. L. 110-161, div. J, title I, Sec. 115, Dec. 26, 2007, 121
+    Stat. 2288.
+      Pub. L. 110-161, div. K, title I, Sec. 195, Dec. 26, 2007, 121
+    Stat. 2408.
+      Pub. L. 110-161, div. K, title II, Sec. 234, Dec. 26, 2007, 121
+    Stat. 2439.
+      Pub. L. 110-116, div. A, title VIII, Sec. 8121, Nov. 13, 2007,
+    121 Stat. 1341.
+
 -End-
 
 
 
 -CITE-
-    5 USC APPENDIX Sec. 9                                       01/05/2009
+    5 USC APPENDIX Sec. 9                                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -6129,10 +6110,10 @@
         Investigations";
           (U) of the Veterans' Administration, the offices of that
         agency referred to as the "Office of Audits" and the "Office of
-        Investigations"; and )1(!
+        Investigations"; and (!1)
 
           (V) of the Corporation for National and Community Service,
-        the Office of Inspector General of ACTION; )1(!
+        the Office of Inspector General of ACTION; (!1)
           (W) of the Social Security Administration, the functions of
         the Inspector General of the Department of Health and Human
         Services which are transferred to the Social Security
@@ -6394,7 +6375,7 @@
 
 -FOOTNOTE-               
 
-    )1(! So in original. The word "and" at end of subpar. (U)
+    (!1) So in original. The word "and" at end of subpar. (U)
          probably should appear at end of subpar. (V).
 
 
@@ -6403,7 +6384,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 10                                      01/05/2009
+    5 USC APPENDIX Sec. 10                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -6424,7 +6405,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 11                                      01/05/2009
+    5 USC APPENDIX Sec. 11                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -6632,7 +6613,7 @@
         after the date of enactment of this subsection shall be
         construed to limit or supersede any authority under
         subparagraph (A) or (B), unless such provision makes specific
-        reference to the authority in that paragraph.)1(!
+        reference to the authority in that paragraph.(!1)
 
 
         (4) Existing authorities and responsibilities. - The
@@ -6768,7 +6749,7 @@
           to an Inspector General of such an entity or any employee of
           that Inspector General) for resolution; and
             (iii) submit to the Committee on Government Oversight and
-          Reform )2(! of the House of Representatives, the Committee on
+          Reform (!2) of the House of Representatives, the Committee on
           Homeland Security and Governmental Affairs of the Senate, and
           other congressional committees of jurisdiction an executive
           summary of such report and recommendations within 30 days
@@ -6848,23 +6829,34 @@
     1211 of Title 5, Government Organization and Employees] shall
     become effective and operational.
       "(2) Executive orders. - Executive Order No. 12805, dated May 11,
-    1992 [set out under section 501 of Title 31], and Executive Order
-    No. 12933 [probably means Executive Order No. 12993, set out under
-    section 3 of Pub. L. 95-452, set out in this Appendix], dated March
-    21, 1996 (as in effect before the date of the enactment of this Act
-    [Oct. 14, 2008]) shall have no force or effect on and after the
-    earlier of - 
+    1992 [formerly set out under section 501 of Title 31], and
+    Executive Order No. 12933 [probably means Executive Order No.
+    12993, formerly set out under section 3 of Pub. L. 95-452, set out
+    in this Appendix], dated March 21, 1996 (as in effect before the
+    date of the enactment of this Act [Oct. 14, 2008]) shall have no
+    force or effect on and after the earlier of - 
         "(A) the date on which the Council of the Inspectors General on
       Integrity and Efficiency becomes effective and operational as
       determined by the Executive Chairperson of the Council; or
         "(B) the last day of the 180-day period beginning on the date
       of enactment of this Act."
 
+    SPECIAL INSPECTORS GENERAL FOR IRAQ AND AFGHANISTAN RECONSTRUCTION
+      Pub. L. 111-15, Sec. 7, Apr. 24, 2009, 123 Stat. 1605, provided
+    that: "The Special Inspector General for Iraq Reconstruction and
+    the Special Inspector General for Afghanistan Reconstruction shall
+    be a [sic] members of the Council of the Inspectors General on
+    Integrity and Efficiency established under section 11 of the
+    Inspector General Act of 1978 (5 U.S.C. App.) until the date of
+    termination of the Office of the Special Inspector General for Iraq
+    Reconstruction and the Office of the Special Inspector General for
+    Afghanistan Reconstruction, respectively."
+
 -FOOTNOTE-               
 
-    )1(! So in original. Probably should be "subparagraph."
+    (!1) So in original. Probably should be "subparagraph."
 
-    )2(! So in original. Probably should be "Oversight and
+    (!2) So in original. Probably should be "Oversight and
          Government Reform".
 
 
@@ -6873,7 +6865,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 12                                      01/05/2009
+    5 USC APPENDIX Sec. 12                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -6934,10 +6926,10 @@
 
 -SOURCE-
     (Pub. L. 95-452, Sec. 12, formerly Sec. 11, Oct. 12, 1978, 92 Stat.
-    1109; Pub. L. 96-88, title V, Sec. 509(n)(3), (4), Oct. 17, 1979,
+    1109; Pub. L. 96-88, title V, Sec. 508(n)(3), (4), Oct. 17, 1979,
     93 Stat. 695; Pub. L. 97-113, title VII, Sec. 705(a)(2), Dec. 29,
     1981, 95 Stat. 1544; Pub. L. 97-252, title XI, Sec. 1117(a)(4),
-    (5), Sept. 8, 1982, 96 Stat. 750; Pub. L. 99-93, title I, Sec.
+    (5), Sept. 8, 1982, 96 Stat. 751; Pub. L. 99-93, title I, Sec.
     150(a)(2), Aug. 16, 1985, 99 Stat. 427; Pub. L. 99-399, title IV,
     Sec. 412(a)(2), Aug. 27, 1986, 100 Stat. 867; Pub. L. 100-504,
     title I, Sec. 102(c), Oct. 18, 1988, 102 Stat. 2515; Pub. L. 100-
@@ -7275,7 +7267,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 13                                      01/05/2009
+    5 USC APPENDIX Sec. 13                                      02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -7297,7 +7289,7 @@
 
 
 -CITE-
-    5 USC APPENDIX ETHICS IN GOVERNMENT ACT OF 1978             01/05/2009
+    5 USC APPENDIX ETHICS IN GOVERNMENT ACT OF 1978             02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -7398,7 +7390,7 @@
 
 -CITE-
     5 USC APPENDIX TITLE I - FINANCIAL DISCLOSURE
-           REQUIREMENTS OF FEDERAL PERSONNEL               01/05/2009
+           REQUIREMENTS OF FEDERAL PERSONNEL               02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -7420,7 +7412,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 101                                     01/05/2009
+    5 USC APPENDIX Sec. 101                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -7529,7 +7521,7 @@
       designated agency ethics official;
         (8) any civilian employee not described in paragraph (3),
       employed in the Executive Office of the President (other than a
-      special government )1(! employee) who holds a commission of
+      special government (!1) employee) who holds a commission of
       appointment from the President;
 
         (9) a Member of Congress as defined under section 109(12);
@@ -7834,7 +7826,7 @@
       in the case of any other rule of such House."
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be capitalized.
+    (!1) So in original. Probably should be capitalized.
 
 
 -End-
@@ -7842,7 +7834,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 102                                     01/05/2009
+    5 USC APPENDIX Sec. 102                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -7909,7 +7901,7 @@
       business, or for investment or the production of income, which
       has a fair market value which exceeds $1,000 as of the close of
       the preceding calendar year, excluding any personal liability
-      owed to the reporting individual by a spouse,,)1(! or by a
+      owed to the reporting individual by a spouse,,(!1) or by a
       parent, brother, sister, or child of the reporting individual or
       of the reporting individual's spouse, or any deposits aggregating
       $5,000 or less in a personal savings account. For purposes of
@@ -8601,7 +8593,7 @@
     shall take effect on October 1, 1983."
 
 -FOOTNOTE-
-    )1(! So in original.
+    (!1) So in original.
 
 
 -End-
@@ -8609,7 +8601,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 103                                     01/05/2009
+    5 USC APPENDIX Sec. 103                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -8711,7 +8703,7 @@
     an individual who is a candidate for the office of Member shall be
     sent by the Clerk of the House of Representatives or Secretary of
     the Senate, as the case may be, to the appropriate State officer
-    designated under section 316(a) )1(! of the Federal Election
+    designated under section 316(a) (!1) of the Federal Election
     Campaign Act of 1971 of the State represented by the Member or in
     which the individual is a candidate, as the case may be, within the
     30-day period beginning on the day the report is filed with the
@@ -8832,7 +8824,7 @@
     Appendix.
 
 -FOOTNOTE-
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
@@ -8840,7 +8832,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 104                                     01/05/2009
+    5 USC APPENDIX Sec. 104                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -8904,7 +8896,7 @@
     Treasury. The authority under this paragraph to direct the payment
     of a filing fee may be delegated by the supervising ethics office
     in the executive branch to other agencies in the executive
-    branch..)1(!
+    branch..(!1)
 
       (2) The supervising ethics office may waive the filing fee under
     this subsection in extraordinary circumstances.
@@ -8962,7 +8954,7 @@
 
 -FOOTNOTE-               
 
-    )1(! So in original.
+    (!1) So in original.
 
 
 -End-
@@ -8970,7 +8962,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 105                                     01/05/2009
+    5 USC APPENDIX Sec. 105                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -8995,7 +8987,7 @@
       engaged in intelligence activities in any agency of the United
       States, if the President finds or has found that, due to the
       nature of the office or position occupied by such individual,
-      public disclosure of such report would, be )1(! revealing the
+      public disclosure of such report would, be (!1) revealing the
       identity of the individual or other sensitive information,
       compromise the national interest of the United States; and such
       individuals may be authorized, notwithstanding section 104(a), to
@@ -9016,14 +9008,14 @@
     Representatives, and the Secretary of the Senate shall, within
     thirty days after any report is received under this title by such
     agency or office or by the Clerk or the Secretary of the Senate, as
-    the case may be,,)2(! permit inspection of such report by or
+    the case may be,,(!2) permit inspection of such report by or
     furnish a copy of such report to any person requesting such
     inspection or copy. With respect to any report required to be filed
     by May 15 of any year, such report shall be made available for
     public inspection within 30 calendar days after May 15 of such year
     or within 30 days of the date of filing of such a report for which
     an extension is granted pursuant to section 101(g). The agency,
-    office, Clerk, or Secretary of the Senate, as the case may be )3(!
+    office, Clerk, or Secretary of the Senate, as the case may be (!3)
     may require a reasonable fee to be paid in any amount which is
     found necessary to recover the cost of reproduction or mailing of
     such report excluding any salary of any employee involved in such
@@ -9049,7 +9041,7 @@
     unconditional availability of reports filed by an individual
     described in section 109(8) or 109(10) of this Act if a finding is
     made by the Judicial Conference, in consultation with United States
-    Marshall )4(! Service, that revealing personal and sensitive
+    Marshall (!4) Service, that revealing personal and sensitive
     information could endanger that individual or a family member of
     that individual.
 
@@ -9260,13 +9252,13 @@
     reports."
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be "by".
+    (!1) So in original. Probably should be "by".
 
-    )2(! So in original.
+    (!2) So in original.
 
-    )3(! So in original. Probably should be followed by a comma.
+    (!3) So in original. Probably should be followed by a comma.
 
-    )4(! So in original. Probably should be "Marshal".
+    (!4) So in original. Probably should be "Marshal".
 
 
 -End-
@@ -9274,7 +9266,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 106                                     01/05/2009
+    5 USC APPENDIX Sec. 106                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -9436,7 +9428,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 107                                     01/05/2009
+    5 USC APPENDIX Sec. 107                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -9528,7 +9520,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 108                                     01/05/2009
+    5 USC APPENDIX Sec. 108                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -9575,7 +9567,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 109                                     01/05/2009
+    5 USC APPENDIX Sec. 109                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -9910,7 +9902,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 110                                     01/05/2009
+    5 USC APPENDIX Sec. 110                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -9980,7 +9972,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 111                                     01/05/2009
+    5 USC APPENDIX Sec. 111                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -10056,7 +10048,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 112                                     01/05/2009
+    5 USC APPENDIX Sec. 112                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -10086,7 +10078,7 @@
 
 
 -CITE-
-    5 USC APPENDIX [TITLE II - REPEALED]                        01/05/2009
+    5 USC APPENDIX [TITLE II - REPEALED]                        02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -10126,7 +10118,7 @@
 
 
 -CITE-
-    5 USC APPENDIX [TITLE III - REPEALED]                       01/05/2009
+    5 USC APPENDIX [TITLE III - REPEALED]                       02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -10168,7 +10160,7 @@
 
 -CITE-
     5 USC APPENDIX TITLE IV - OFFICE OF GOVERNMENT
-           ETHICS                                          01/05/2009
+           ETHICS                                          02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -10183,7 +10175,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 401                                     01/05/2009
+    5 USC APPENDIX Sec. 401                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -10261,7 +10253,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 402                                     01/05/2009
+    5 USC APPENDIX Sec. 402                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -10480,7 +10472,7 @@
       (iv) The procedures described in clauses (ii) and (iii) of this
     subparagraph do not apply to findings or orders for action made to
     obtain compliance with the financial disclosure requirements in
-    title 2 )1(! of this Act. For those findings and orders, the
+    title 2 (!1) of this Act. For those findings and orders, the
     procedures in section 206 of this Act shall apply.
 
       (3) The Director shall send a copy of any order under paragraph
@@ -10590,7 +10582,7 @@
     Appendix]."
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be title "II".
+    (!1) So in original. Probably should be title "II".
 
 
 -End-
@@ -10598,7 +10590,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 403                                     01/05/2009
+    5 USC APPENDIX Sec. 403                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -10624,7 +10616,7 @@
     Government Ethics responsibilities under this Act. The head of any
     agency may detail such personnel and furnish such services, with or
     without reimbursement, as the Director may request to carry out the
-    provisions of this Act )1(!
+    provisions of this Act (!1)
 
       (b)(1) The Director is authorized to accept and utilize on behalf
     of the United States, any gift, donation, bequest, or devise of
@@ -10686,7 +10678,7 @@
 
 -FOOTNOTE-               
 
-    )1(! So in original. Probably should be followed by a period.
+    (!1) So in original. Probably should be followed by a period.
 
 
 -End-
@@ -10694,7 +10686,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 404                                     01/05/2009
+    5 USC APPENDIX Sec. 404                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -10731,7 +10723,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 405                                     01/05/2009
+    5 USC APPENDIX Sec. 405                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -10743,7 +10735,7 @@
 
 -STATUTE-
       There are authorized to be appropriated to carry out this title
-    such sums as may be necessary for fiscal year 2007 )1(!
+    such sums as may be necessary for fiscal year 2007 (!1)
 
 
 -SOURCE-
@@ -10799,7 +10791,7 @@
 
 -FOOTNOTE-               
 
-    )1(! So in original. Probably should end with a period.
+    (!1) So in original. Probably should end with a period.
 
 
 -End-
@@ -10807,7 +10799,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 406                                     01/05/2009
+    5 USC APPENDIX Sec. 406                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -10828,7 +10820,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 407                                     01/05/2009
+    5 USC APPENDIX Sec. 407                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -10875,7 +10867,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 408                                     01/05/2009
+    5 USC APPENDIX Sec. 408                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -10913,7 +10905,7 @@
 -CITE-
     5 USC APPENDIX TITLE V - GOVERNMENT-WIDE
            LIMITATIONS ON OUTSIDE EARNED INCOME
-           AND EMPLOYMENT                                  01/05/2009
+           AND EMPLOYMENT                                  02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -10930,7 +10922,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 501                                     01/05/2009
+    5 USC APPENDIX Sec. 501                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -11043,7 +11035,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 502                                     01/05/2009
+    5 USC APPENDIX Sec. 502                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -11158,7 +11150,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 503                                     01/05/2009
+    5 USC APPENDIX Sec. 503                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -11237,7 +11229,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 504                                     01/05/2009
+    5 USC APPENDIX Sec. 504                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -11284,7 +11276,7 @@
 
 
 -CITE-
-    5 USC APPENDIX Sec. 505                                     01/05/2009
+    5 USC APPENDIX Sec. 505                                     02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -11357,7 +11349,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLANS                         01/05/2009
+    5 USC APPENDIX REORGANIZATION PLANS                         02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -11376,7 +11368,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. I OF 1939            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. I OF 1939            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -11574,7 +11566,7 @@
       (b) All the functions of the Secretary of the Treasury relating
     to the administration of the Public Health Service, except those
     functions relating to the acceptance and investment of gifts as
-    authorized by sections 23(b) and 137(e),)1(! title 42, U.S. Code
+    authorized by sections 23(b) and 137(e),(!1) title 42, U.S. Code
     [see 42 U.S.C. 219, 286d], are hereby transferred to, and shall be
     exercised by, the Federal Security Administrator.
 
@@ -12403,14 +12395,14 @@
       The White House, April 25, 1939.
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be "sections 23b and 137e,".
+    (!1) So in original. Probably should be "sections 23b and 137e,".
 
 
 -End-
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. II OF 1939           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. II OF 1939           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -13120,7 +13112,7 @@
 
 -CITE-
     5 USC APPENDIX REORGANIZATION PLAN NO. III OF
-      1940                                                 01/05/2009
+      1940                                                 02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -13448,7 +13440,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. IV OF 1940           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. IV OF 1940           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -13937,7 +13929,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. V OF 1940            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. V OF 1940            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -14053,7 +14045,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1946            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1946            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -14083,7 +14075,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1946            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1946            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -14495,7 +14487,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1946            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1946            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -15215,7 +15207,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1947            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1947            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -15616,7 +15608,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1947            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1947            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -15636,7 +15628,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1947            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1947            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -15987,7 +15979,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1949            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1949            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -16002,7 +15994,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1949            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1949            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -16217,7 +16209,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1949            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1949            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -16379,7 +16371,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 4 OF 1949            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 4 OF 1949            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -16478,7 +16470,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 5 OF 1949            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 5 OF 1949            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -16495,7 +16487,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 6 OF 1949            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 6 OF 1949            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -16511,7 +16503,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 7 OF 1949            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 7 OF 1949            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -16662,7 +16654,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 8 OF 1949            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 8 OF 1949            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -16679,7 +16671,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1950            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1950            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -16694,7 +16686,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1950            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1950            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -16763,7 +16755,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1950            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1950            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -16859,7 +16851,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 4 OF 1950            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 4 OF 1950            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -16874,7 +16866,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 5 OF 1950            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 5 OF 1950            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -16957,7 +16949,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 6 OF 1950            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 6 OF 1950            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -17043,7 +17035,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 7 OF 1950            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 7 OF 1950            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -17058,7 +17050,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 8 OF 1950            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 8 OF 1950            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -17138,7 +17130,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 9 OF 1950            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 9 OF 1950            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -17223,7 +17215,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 10 OF 1950           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 10 OF 1950           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -17303,7 +17295,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 11 OF 1950           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 11 OF 1950           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -17319,7 +17311,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 12 OF 1950           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 12 OF 1950           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -17335,7 +17327,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 13 OF 1950           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 13 OF 1950           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -17351,7 +17343,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 14 OF 1950           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 14 OF 1950           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -17469,7 +17461,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 15 OF 1950           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 15 OF 1950           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -17556,7 +17548,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 16 OF 1950           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 16 OF 1950           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -17651,7 +17643,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 17 OF 1950           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 17 OF 1950           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -17768,7 +17760,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 18 OF 1950           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 18 OF 1950           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -18012,7 +18004,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 19 OF 1950           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 19 OF 1950           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -18028,7 +18020,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 20 OF 1950           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 20 OF 1950           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -18189,7 +18181,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 21 OF 1950           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 21 OF 1950           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -18524,7 +18516,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 22 OF 1950           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 22 OF 1950           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -18741,7 +18733,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 23 OF 1950           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 23 OF 1950           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -18906,7 +18898,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 24 OF 1950           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 24 OF 1950           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -18922,7 +18914,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 25 OF 1950           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 25 OF 1950           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -19064,7 +19056,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 26 OF 1950           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 26 OF 1950           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -19171,7 +19163,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 27 OF 1950           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 27 OF 1950           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -19187,7 +19179,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1951            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1951            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -19400,7 +19392,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1952            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1952            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -19697,7 +19689,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1953            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1953            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -19963,7 +19955,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1953            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1953            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -20189,7 +20181,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1953            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1953            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -20468,7 +20460,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 4 OF 1953            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 4 OF 1953            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -20484,7 +20476,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 5 OF 1953            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 5 OF 1953            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -20666,7 +20658,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 6 OF 1953            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 6 OF 1953            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -21199,7 +21191,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 7 OF 1953            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 7 OF 1953            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -21216,7 +21208,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 8 OF 1953            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 8 OF 1953            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -21345,7 +21337,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 9 OF 1953            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 9 OF 1953            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -21532,7 +21524,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 10 OF 1953           01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 10 OF 1953           02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -21547,7 +21539,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1954            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1954            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -21813,7 +21805,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1954            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1954            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -21976,7 +21968,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1957            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1957            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -22281,7 +22273,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1958            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1958            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -22492,7 +22484,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1961            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1961            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -22508,7 +22500,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1961            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1961            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -22524,7 +22516,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1961            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1961            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -22541,7 +22533,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 4 OF 1961            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 4 OF 1961            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -22658,7 +22650,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 5 OF 1961            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 5 OF 1961            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -22674,7 +22666,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 6 OF 1961            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 6 OF 1961            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -22847,7 +22839,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 7 OF 1961            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 7 OF 1961            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -23036,7 +23028,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1962            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1962            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -23052,7 +23044,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1962            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1962            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -23397,7 +23389,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1963            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1963            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -23503,7 +23495,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1965            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1965            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -23653,7 +23645,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1965            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1965            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -23908,7 +23900,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1965            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1965            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -23927,7 +23919,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 4 OF 1965            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 4 OF 1965            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -24143,7 +24135,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 5 OF 1965            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 5 OF 1965            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -24255,7 +24247,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1966            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1966            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -24441,7 +24433,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1966            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1966            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -24703,7 +24695,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1966            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1966            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -24932,7 +24924,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 4 OF 1966            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 4 OF 1966            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -25007,7 +24999,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 5 OF 1966            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 5 OF 1966            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -25124,7 +25116,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1967            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1967            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -25141,7 +25133,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1967            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1967            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -25159,13 +25151,13 @@
 
 -CITE-
     5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1967
-      \1\                                                  01/05/2009
+      \1\                                                  02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
     REORGANIZATION PLANS
 
-                  REORGANIZATION PLAN NO. 3 OF 1967 )1(!              
+                  REORGANIZATION PLAN NO. 3 OF 1967 (!1)              
 
 
        EFF. AUG. 11, 1967 (IN PART), 32 F.R. 11669, 81 STAT. 948, AS
@@ -27100,7 +27092,7 @@
 
 -FOOTNOTE-               
 
-    )1(! D.C. Code citations in this Reorganization Plan are based
+    (!1) D.C. Code citations in this Reorganization Plan are based
          on the 1967 edition. See Parallel Reference Tables in D.C.
          Code for corresponding citations.
 
@@ -27109,7 +27101,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1968            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1968            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -27296,7 +27288,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1968            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1968            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -27316,7 +27308,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1968            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1968            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -27430,7 +27422,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 4 OF 1968            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 4 OF 1968            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -27515,7 +27507,7 @@
     Land Agency or any of the authorities now vested by law in the
     Agency.
       The accompanying reorganization plan has been prepared in
-    accordance with chapter 9 of title 5 of the United State Code. I
+    accordance with chapter 9 of title 5 of the United States Code. I
     have found, after investigation, that each reorganization included
     in the plan is necessary to accomplish one or more of the purposes
     set forth in section 901(a) of title 5 of the United States Code.
@@ -27535,7 +27527,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1969            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1969            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -27555,7 +27547,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1970            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1970            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -27758,7 +27750,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1970            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1970            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -28155,7 +28147,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1970            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1970            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -28863,7 +28855,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 4 OF 1970            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 4 OF 1970            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -29131,7 +29123,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1971            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1971            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -29478,7 +29470,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1973            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1973            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -29811,7 +29803,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1973            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1973            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -30250,7 +30242,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1977            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1977            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -30262,7 +30254,7 @@
                    1(C)(5), JUNE 16, 1982, 96 STAT. 115
     Prepared by the President and transmitted to the Senate and the
       House of Representatives in Congress assembled, July 15,
-      1977,)1(! pursuant to the provisions of Chapter 9 of Title 5 of
+      1977,(!1) pursuant to the provisions of Chapter 9 of Title 5 of
       the United States Code.
 
 
@@ -30720,14 +30712,14 @@
       The White House, July 15, 1977.
 
 -FOOTNOTE-
-    )1(! As amended Sept. 15, 1977.
+    (!1) As amended Sept. 15, 1977.
 
 
 -End-
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1977            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1977            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -30743,9 +30735,9 @@
     1536, 1501A-446, 1501A-447; PUB. L. 107-77, TITLE IV, SEC. 407(C),
                        NOV. 28, 2001, 115 STAT. 790
     Prepared by the President and transmitted to the Senate and House
-      of Representatives in Congress assembled, October 11, 1977,)1(!
+      of Representatives in Congress assembled, October 11, 1977,(!1)
       pursuant to the provisions of chapter 9 of title 5 of the United
-      States Code.)2(!
+      States Code.(!2)
 
 
 
@@ -31181,16 +31173,16 @@
 
 -FOOTNOTE-               
 
-    )1(! Actually transmitted Oct. 12, 1977.
+    (!1) Actually transmitted Oct. 12, 1977.
 
-    )2(! As amended Nov. 1, 1977, and Nov. 3, 1977.
+    (!2) As amended Nov. 1, 1977, and Nov. 3, 1977.
 
 
 -End-
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1978            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1978            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -31604,7 +31596,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1978            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1978            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -31614,7 +31606,7 @@
 
                        43 F.R. 36037, 92 STAT. 3783                   
     Prepared by the President and transmitted to the Senate and the
-      House of Representatives in Congress assembled, May 23, 1978,)1(!
+      House of Representatives in Congress assembled, May 23, 1978,(!1)
       pursuant to the provisions of Chapter 9 of Title 5 of the United
       States Code.
 
@@ -32018,14 +32010,14 @@
       The White House, May 23, 1978.
 
 -FOOTNOTE-
-    )1(! As amended July 11, 1978.
+    (!1) As amended July 11, 1978.
 
 
 -End-
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1978            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1978            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -32315,7 +32307,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 4 OF 1978            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 4 OF 1978            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -32329,7 +32321,7 @@
     Prepared by the President and transmitted to the Senate and the
       House of Representatives in Congress assembled, August 10, 1978,
       pursuant to the provisions of Chapter 9 of Title 5 of the United
-      States Code.)1(!
+      States Code.(!1)
 
 
              EMPLOYEE RETIREMENT INCOME SECURITY ACT TRANSFERS         
@@ -32624,14 +32616,14 @@
 
 -FOOTNOTE-               
 
-    )1(! As amended Sept. 20, 1978.
+    (!1) As amended Sept. 20, 1978.
 
 
 -End-
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1979            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1979            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -33028,7 +33020,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1979            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 2 OF 1979            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -33045,7 +33037,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1979            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 3 OF 1979            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -33622,7 +33614,7 @@
 
 
 -CITE-
-    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1980            01/05/2009
+    5 USC APPENDIX REORGANIZATION PLAN NO. 1 OF 1980            02/01/2010
 
 -EXPCITE-
     TITLE 5 - APPENDIX
@@ -33632,7 +33624,7 @@
 
                        45 F.R. 40561, 94 STAT. 3585                   
     Prepared by the President and submitted to the Senate and the House
-      of Representatives in Congress assembled March 27, 1980,)1(!
+      of Representatives in Congress assembled March 27, 1980,(!1)
       pursuant to the provisions of Chapter 9 of Title 5 of the United
       States Code.
 
@@ -34042,7 +34034,7 @@
       The White House, May 5, 1980.
 
 -FOOTNOTE-
-    )1(! As amended May 5, 1980.
+    (!1) As amended May 5, 1980.
 
 
 -End-

@@ -1,10 +1,8 @@
 -CITE-
-    45 USC TITLE 45 - RAILROADS                                 01/08/2008
+    45 USC TITLE 45 - RAILROADS                                 01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
-    
--HEAD-    
                            TITLE 45 - RAILROADS                       
 
 
@@ -49,7 +47,7 @@
 -CITE-
     45 USC CHAPTER 1 - SAFETY APPLIANCES AND EQUIPMENT ON
            RAILROAD ENGINES AND CARS, AND PROTECTION OF
-           EMPLOYEES AND TRAVELERS                         01/08/2008
+           EMPLOYEES AND TRAVELERS                         01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -65,7 +63,7 @@
 
 
 -CITE-
-    45 USC Secs. 1 to 14                                        01/08/2008
+    45 USC Secs. 1 to 14                                        01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -175,7 +173,7 @@
 
 
 -CITE-
-    45 USC Sec. 15                                              01/08/2008
+    45 USC Sec. 15                                              01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -202,7 +200,7 @@
 
 
 -CITE-
-    45 USC Sec. 16                                              01/08/2008
+    45 USC Sec. 16                                              01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -225,7 +223,7 @@
 
 
 -CITE-
-    45 USC Secs. 17 to 21                                       01/08/2008
+    45 USC Secs. 17 to 21                                       01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -260,7 +258,7 @@
 
 
 -CITE-
-    45 USC Secs. 22 to 43a                                      01/08/2008
+    45 USC Secs. 22 to 43a                                      01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -464,7 +462,7 @@
 
 
 -CITE-
-    45 USC Secs. 44 to 46                                       01/08/2008
+    45 USC Secs. 44 to 46                                       01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -495,7 +493,7 @@
 
 
 -CITE-
-    45 USC CHAPTER 2 - LIABILITY FOR INJURIES TO EMPLOYEES      01/08/2008
+    45 USC CHAPTER 2 - LIABILITY FOR INJURIES TO EMPLOYEES      01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -531,7 +529,7 @@
 
 
 -CITE-
-    45 USC Sec. 51                                              01/08/2008
+    45 USC Sec. 51                                              01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -593,7 +591,7 @@
 
 
 -CITE-
-    45 USC Sec. 52                                              01/08/2008
+    45 USC Sec. 52                                              01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -627,7 +625,7 @@
 
 
 -CITE-
-    45 USC Sec. 53                                              01/08/2008
+    45 USC Sec. 53                                              01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -658,7 +656,7 @@
 
 
 -CITE-
-    45 USC Sec. 54                                              01/08/2008
+    45 USC Sec. 54                                              01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -697,7 +695,7 @@
 
 
 -CITE-
-    45 USC Sec. 54a                                             01/08/2008
+    45 USC Sec. 54a                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -723,7 +721,7 @@
 
 
 -CITE-
-    45 USC Sec. 55                                              01/08/2008
+    45 USC Sec. 55                                              01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -753,7 +751,7 @@
 
 
 -CITE-
-    45 USC Sec. 56                                              01/08/2008
+    45 USC Sec. 56                                              01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -809,7 +807,7 @@
 
 
 -CITE-
-    45 USC Sec. 57                                              01/08/2008
+    45 USC Sec. 57                                              01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -832,7 +830,7 @@
 
 
 -CITE-
-    45 USC Sec. 58                                              01/08/2008
+    45 USC Sec. 58                                              01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -855,7 +853,7 @@
 
 
 -CITE-
-    45 USC Sec. 59                                              01/08/2008
+    45 USC Sec. 59                                              01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -881,7 +879,7 @@
 
 
 -CITE-
-    45 USC Sec. 60                                              01/08/2008
+    45 USC Sec. 60                                              01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -923,7 +921,7 @@
 
 
 -CITE-
-    45 USC CHAPTER 3 - HOURS OF SERVICE OF EMPLOYEES            01/08/2008
+    45 USC CHAPTER 3 - HOURS OF SERVICE OF EMPLOYEES            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -937,7 +935,7 @@
 
 
 -CITE-
-    45 USC Secs. 61 to 64b                                      01/08/2008
+    45 USC Secs. 61 to 64b                                      01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1012,7 +1010,7 @@
 
 
 -CITE-
-    45 USC Secs. 65, 66                                         01/08/2008
+    45 USC Secs. 65, 66                                         01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1040,7 +1038,7 @@
 
 
 -CITE-
-    45 USC CHAPTER 4 - CARE OF ANIMALS IN TRANSIT               01/08/2008
+    45 USC CHAPTER 4 - CARE OF ANIMALS IN TRANSIT               01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1054,7 +1052,7 @@
 
 
 -CITE-
-    45 USC Secs. 71 to 74                                       01/08/2008
+    45 USC Secs. 71 to 74                                       01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1099,7 +1097,7 @@
 
 
 -CITE-
-    45 USC Secs. 75, 76                                         01/08/2008
+    45 USC Secs. 75, 76                                         01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1129,7 +1127,7 @@
 
 
 -CITE-
-    45 USC CHAPTER 5 - GOVERNMENT-AIDED RAILROADS               01/08/2008
+    45 USC CHAPTER 5 - GOVERNMENT-AIDED RAILROADS               01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1143,7 +1141,7 @@
 
 
 -CITE-
-    45 USC Secs. 81 to 92                                       01/08/2008
+    45 USC Secs. 81 to 92                                       01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1210,7 +1208,7 @@
 
 
 -CITE-
-    45 USC Sec. 92a                                             01/08/2008
+    45 USC Sec. 92a                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1233,7 +1231,7 @@
 
 
 -CITE-
-    45 USC Sec. 93                                              01/08/2008
+    45 USC Sec. 93                                              01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1253,7 +1251,7 @@
 
 
 -CITE-
-    45 USC Secs. 94, 95                                         01/08/2008
+    45 USC Secs. 94, 95                                         01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1280,7 +1278,7 @@
 -CITE-
     45 USC CHAPTER 6 - MEDIATION, CONCILIATION, AND
            ARBITRATION IN CONTROVERSIES BETWEEN CARRIERS
-           AND EMPLOYEES                                   01/08/2008
+           AND EMPLOYEES                                   01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1296,7 +1294,7 @@
 
 
 -CITE-
-    45 USC Secs. 101 to 125                                     01/08/2008
+    45 USC Secs. 101 to 125                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1391,7 +1389,7 @@
 
 
 -CITE-
-    45 USC Sec. 126                                             01/08/2008
+    45 USC Sec. 126                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1412,7 +1410,7 @@
 
 
 -CITE-
-    45 USC CHAPTER 7 - ADJUSTMENT BOARDS AND LABOR BOARDS       01/08/2008
+    45 USC CHAPTER 7 - ADJUSTMENT BOARDS AND LABOR BOARDS       01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1426,7 +1424,7 @@
 
 
 -CITE-
-    45 USC Secs. 131 to 146                                     01/08/2008
+    45 USC Secs. 131 to 146                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1491,7 +1489,7 @@
 
 
 -CITE-
-    45 USC CHAPTER 8 - RAILWAY LABOR                            01/08/2008
+    45 USC CHAPTER 8 - RAILWAY LABOR                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1539,7 +1537,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/08/2008
+    45 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1554,7 +1552,7 @@
 
 
 -CITE-
-    45 USC Sec. 151                                             01/08/2008
+    45 USC Sec. 151                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1855,7 +1853,7 @@
 
 
 -CITE-
-    45 USC Sec. 151a                                            01/08/2008
+    45 USC Sec. 151a                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -1901,7 +1899,7 @@
 
 
 -CITE-
-    45 USC Sec. 152                                             01/08/2008
+    45 USC Sec. 152                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -2168,7 +2166,7 @@
 
 
 -CITE-
-    45 USC Sec. 153                                             01/08/2008
+    45 USC Sec. 153                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -2600,7 +2598,7 @@
 
 
 -CITE-
-    45 USC Sec. 154                                             01/08/2008
+    45 USC Sec. 154                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -2788,7 +2786,7 @@
 
 
 -CITE-
-    45 USC Sec. 155                                             01/08/2008
+    45 USC Sec. 155                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -2950,7 +2948,7 @@
 
 
 -CITE-
-    45 USC Sec. 156                                             01/08/2008
+    45 USC Sec. 156                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -3003,7 +3001,7 @@
 
 
 -CITE-
-    45 USC Sec. 157                                             01/08/2008
+    45 USC Sec. 157                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -3309,7 +3307,7 @@
 
 
 -CITE-
-    45 USC Sec. 158                                             01/08/2008
+    45 USC Sec. 158                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -3411,7 +3409,7 @@
 
 
 -CITE-
-    45 USC Sec. 159                                             01/08/2008
+    45 USC Sec. 159                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -3514,7 +3512,7 @@
 
 
 -CITE-
-    45 USC Sec. 159a                                            01/08/2008
+    45 USC Sec. 159a                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -3635,7 +3633,7 @@
 
 
 -CITE-
-    45 USC Sec. 160                                             01/08/2008
+    45 USC Sec. 160                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -3689,7 +3687,7 @@
 
 
 -CITE-
-    45 USC Sec. 161                                             01/08/2008
+    45 USC Sec. 161                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -3724,7 +3722,7 @@
 
 
 -CITE-
-    45 USC Sec. 162                                             01/08/2008
+    45 USC Sec. 162                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -3754,7 +3752,7 @@
 
 
 -CITE-
-    45 USC Sec. 163                                             01/08/2008
+    45 USC Sec. 163                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -3787,7 +3785,7 @@
 
 
 -CITE-
-    45 USC Sec. 164                                             01/08/2008
+    45 USC Sec. 164                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -3808,7 +3806,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER II - CARRIERS BY AIR                      01/08/2008
+    45 USC SUBCHAPTER II - CARRIERS BY AIR                      01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -3823,7 +3821,7 @@
 
 
 -CITE-
-    45 USC Sec. 181                                             01/08/2008
+    45 USC Sec. 181                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -3853,7 +3851,7 @@
 
 
 -CITE-
-    45 USC Sec. 182                                             01/08/2008
+    45 USC Sec. 182                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -3882,7 +3880,7 @@
 
 
 -CITE-
-    45 USC Sec. 183                                             01/08/2008
+    45 USC Sec. 183                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -3917,7 +3915,7 @@
 
 
 -CITE-
-    45 USC Sec. 184                                             01/08/2008
+    45 USC Sec. 184                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -3967,7 +3965,7 @@
 
 
 -CITE-
-    45 USC Sec. 185                                             01/08/2008
+    45 USC Sec. 185                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -4038,7 +4036,7 @@
 
 
 -CITE-
-    45 USC Sec. 186                                             01/08/2008
+    45 USC Sec. 186                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -4059,7 +4057,7 @@
 
 
 -CITE-
-    45 USC Sec. 187                                             01/08/2008
+    45 USC Sec. 187                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -4084,7 +4082,7 @@
 
 
 -CITE-
-    45 USC Sec. 188                                             01/08/2008
+    45 USC Sec. 188                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -4107,7 +4105,7 @@
 
 
 -CITE-
-    45 USC CHAPTER 9 - RETIREMENT OF RAILROAD EMPLOYEES         01/08/2008
+    45 USC CHAPTER 9 - RETIREMENT OF RAILROAD EMPLOYEES         01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -4160,7 +4158,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER I - RAILROAD RETIREMENT ACT OF 1934       01/08/2008
+    45 USC SUBCHAPTER I - RAILROAD RETIREMENT ACT OF 1934       01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -4175,7 +4173,7 @@
 
 
 -CITE-
-    45 USC Secs. 201 to 208                                     01/08/2008
+    45 USC Secs. 201 to 208                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -4212,7 +4210,7 @@
 
 
 -CITE-
-    45 USC Sec. 209                                             01/08/2008
+    45 USC Sec. 209                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -4233,7 +4231,7 @@
 
 
 -CITE-
-    45 USC Secs. 210 to 214                                     01/08/2008
+    45 USC Secs. 210 to 214                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -4260,7 +4258,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER II - RAILROAD RETIREMENT ACT OF 1935      01/08/2008
+    45 USC SUBCHAPTER II - RAILROAD RETIREMENT ACT OF 1935      01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -4289,7 +4287,7 @@
 
 
 -CITE-
-    45 USC Secs. 215 to 228                                     01/08/2008
+    45 USC Secs. 215 to 228                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -4369,7 +4367,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER III - RAILROAD RETIREMENT ACT OF 1937     01/08/2008
+    45 USC SUBCHAPTER III - RAILROAD RETIREMENT ACT OF 1937     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -4395,7 +4393,7 @@
 
 
 -CITE-
-    45 USC Secs. 228a to 228c-1                                 01/08/2008
+    45 USC Secs. 228a to 228c-1                                 01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -4586,7 +4584,7 @@
 
 
 -CITE-
-    45 USC Sec. 228d                                            01/08/2008
+    45 USC Sec. 228d                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -4607,7 +4605,7 @@
 
 
 -CITE-
-    45 USC Secs. 228e to 228z-1                                 01/08/2008
+    45 USC Secs. 228e to 228z-1                                 01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -4960,7 +4958,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER IV - RAILROAD RETIREMENT ACT OF 1974      01/08/2008
+    45 USC SUBCHAPTER IV - RAILROAD RETIREMENT ACT OF 1974      01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -4991,7 +4989,7 @@
 
 
 -CITE-
-    45 USC Sec. 231                                             01/08/2008
+    45 USC Sec. 231                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -6272,7 +6270,7 @@
 
 
 -CITE-
-    45 USC Sec. 231a                                            01/08/2008
+    45 USC Sec. 231a                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -7196,7 +7194,7 @@
 
 
 -CITE-
-    45 USC Sec. 231b                                            01/08/2008
+    45 USC Sec. 231b                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -8122,7 +8120,7 @@
 
 
 -CITE-
-    45 USC Sec. 231c                                            01/08/2008
+    45 USC Sec. 231c                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -9103,7 +9101,7 @@
 
 
 -CITE-
-    45 USC Sec. 231d                                            01/08/2008
+    45 USC Sec. 231d                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -9342,17 +9340,6 @@
     whenever the death of an individual is so established, such
     individual shall be deemed to have died in the month in which such
     individual disappeared.
-    (d) Annuities to surviving former spouses under section 231b(b) of
-      this title
-      Notwithstanding any other provision of law, the payment of any
-    portion of an annuity computed under section 231b(b) of this title
-    to a surviving former spouse in accordance with a court decree of
-    divorce, annulment, or legal separation or the terms of any court-
-    approved property settlement incident to any such court decree
-    shall not be terminated upon the death of the individual who
-    performed the service with respect to which such annuity is so
-    computed unless such termination is otherwise required by the terms
-    of such court decree.
 
 -SOURCE-
     (Aug. 29, 1935, ch. 812, Sec. 5, as restated June 24, 1937, ch.
@@ -9362,7 +9349,8 @@
     Secs. 103(a), 104(c), 106(i), (j), Aug. 12, 1983, 97 Stat. 415,
     416, 418; Pub. L. 107-90, title I, Sec. 103(f), Dec. 21, 2001, 115
     Stat. 881; Pub. L. 109-280, title X, Sec. 1003(a), Aug. 17, 2006,
-    120 Stat. 1053.)
+    120 Stat. 1053; Pub. L. 110-458, title I, Sec. 110(a)(2), Dec. 23,
+    2008, 122 Stat. 5112.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -9377,6 +9365,20 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (d). Pub. L. 110-458, which directed repeal of
+    subsec. (d) of section 5 of the Railroad Retirement Act, was
+    executed by striking out subsec. (d) of this section, which is
+    section 5 of the Railroad Retirement Act of 1974, to reflect the
+    probable intent of Congress. Text read as follows: "Notwithstanding
+    any other provision of law, the payment of any portion of an
+    annuity computed under section 231b(b) of this title to a surviving
+    former spouse in accordance with a court decree of divorce,
+    annulment, or legal separation or the terms of any court-approved
+    property settlement incident to any such court decree shall not be
+    terminated upon the death of the individual who performed the
+    service with respect to which such annuity is so computed unless
+    such termination is otherwise required by the terms of such court
+    decree."
       2006 - Subsec. (d). Pub. L. 109-280 added subsec. (d).
       2001 - Subsec. (b). Pub. L. 107-90 inserted second and third
     sentences and struck out former second sentence which read as
@@ -9433,6 +9435,12 @@
     individual dies or (B) the divorced wife remarries.
       Subsec. (c)(9). Pub. L. 97-35, Sec. 1120(d), added subdiv. (9).
 
+                     EFFECTIVE DATE OF 2008 AMENDMENT                 
+      Pub. L. 110-458, title I, Sec. 110(b)(2), Dec. 23, 2008, 122
+    Stat. 5112, provided that: "The amendment made by subsection (a)(2)
+    [amending this section] shall take effect upon the date of the
+    enactment of this Act [Dec. 23, 2008]."
+
                      EFFECTIVE DATE OF 2006 AMENDMENT                 
       Pub. L. 109-280, title X, Sec. 1003(b), Aug. 17, 2006, 120 Stat.
     1053, provided that: "The amendment made by this section [amending
@@ -9481,7 +9489,7 @@
 
 
 -CITE-
-    45 USC Sec. 231e                                            01/08/2008
+    45 USC Sec. 231e                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -9952,7 +9960,7 @@
 
 
 -CITE-
-    45 USC Sec. 231f                                            01/08/2008
+    45 USC Sec. 231f                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -10743,7 +10751,7 @@
 
 
 -CITE-
-    45 USC Sec. 231f-1                                          01/08/2008
+    45 USC Sec. 231f-1                                          01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -10801,7 +10809,7 @@
 
 
 -CITE-
-    45 USC Sec. 231g                                            01/08/2008
+    45 USC Sec. 231g                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -10842,7 +10850,7 @@
 
 
 -CITE-
-    45 USC Sec. 231h                                            01/08/2008
+    45 USC Sec. 231h                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -10880,7 +10888,7 @@
 
 
 -CITE-
-    45 USC Sec. 231i                                            01/08/2008
+    45 USC Sec. 231i                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -10980,7 +10988,7 @@
 
 
 -CITE-
-    45 USC Sec. 231j                                            01/08/2008
+    45 USC Sec. 231j                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -11009,7 +11017,7 @@
 
 
 -CITE-
-    45 USC Sec. 231k                                            01/08/2008
+    45 USC Sec. 231k                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -11062,7 +11070,7 @@
 
 
 -CITE-
-    45 USC Sec. 231l                                            01/08/2008
+    45 USC Sec. 231l                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -11099,7 +11107,7 @@
 
 
 -CITE-
-    45 USC Sec. 231m                                            01/08/2008
+    45 USC Sec. 231m                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -11135,17 +11143,43 @@
     such court decree. The Board shall make payments of such portions
     in accordance with any such characterization or treatment or any
     such decree or settlement.
+      (3)(A) Payments made pursuant to paragraph (2) of this subsection
+    shall not require that the employee be entitled to an annuity under
+    section 231a(a)(1) of this title: Provided, however, That where an
+    employee is not entitled to such an annuity, payments made pursuant
+    to paragraph (2) may not begin before the month in which the
+    following three conditions are satisfied:
+        (i) The employee has completed ten years of service in the
+      railroad industry or, five years of service all of which accrues
+      after December 31, 1995.
+        (ii) The spouse or former spouse attains age 62.
+        (iii) The employee attains age 62 (or if deceased, would have
+      attained age 62).
+
+      (B) Payments made pursuant to paragraph (2) of this subsection
+    shall terminate upon the death of the spouse or former spouse,
+    unless the court document provides for termination at an earlier
+    date. Notwithstanding the language in a court order, that portion
+    of payments made pursuant to paragraph (2) which represents
+    payments computed pursuant to section 231b(f)(2) of this title
+    shall not be paid after the death of the employee.
+      (C) If the employee is not entitled to an annuity under section
+    231a(a)(1) of this title, payments made pursuant to paragraph (2)
+    of this subsection shall be computed as though the employee were
+    entitled to an annuity.
 
 -SOURCE-
     (Aug. 29, 1935, ch. 812, Sec. 14, as restated June 24, 1937, ch.
     382, pt. I, 50 Stat. 307, as restated Pub. L. 93-445, title I, Sec.
     101, Oct. 16, 1974, 88 Stat. 1345; amended Pub. L. 98-76, title IV,
     Sec. 419(a), Aug. 12, 1983, 97 Stat. 438; Pub. L. 99-514, Sec. 2,
-    Oct. 22, 1986, 100 Stat. 2095.)
+    Oct. 22, 1986, 100 Stat. 2095; Pub. L. 110-458, title I, Sec.
+    110(a)(1), Dec. 23, 2008, 122 Stat. 5112.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2008 - Subsec. (b)(3). Pub. L. 110-458 added par. (3).
       1986 - Subsecs. (a), (b)(1). Pub. L. 99-514 substituted "Internal
     Revenue Code of 1986" for "Internal Revenue Code of 1954".
       1983 - Subsec. (a). Pub. L. 98-76, Sec. 419(a)(1), substituted
@@ -11156,6 +11190,16 @@
     "(b)(1) This" for ": Provided, however, That the provisions of
     this".
       Subsec. (b)(2). Pub. L. 98-76, Sec. 419(a)(3), added par. (2).
+
+                     EFFECTIVE DATE OF 2008 AMENDMENT                 
+      Pub. L. 110-458, title I, Sec. 110(b)(1), Dec. 23, 2008, 122
+    Stat. 5112, provided that: "The amendment made by subsection (a)(1)
+    [amending this section] shall apply with respect to payments due
+    for months after August 2007. If, prior to the effective date of
+    such amendment, payment pursuant to paragraph (2) of section 14(b)
+    of the Railroad Retirement Act of 1974 (45 U.S.C. 231m(b)) was
+    terminated because of the employee's death, payment to the former
+    spouse may be reinstated for months after August 2007."
 
                      EFFECTIVE DATE OF 1983 AMENDMENT                 
       Section 419(b) of Pub. L. 98-76 provided that: "The amendments
@@ -11173,7 +11217,7 @@
 
 
 -CITE-
-    45 USC Sec. 231n                                            01/08/2008
+    45 USC Sec. 231n                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -12221,7 +12265,7 @@
 
 
 -CITE-
-    45 USC Sec. 231n-1                                          01/08/2008
+    45 USC Sec. 231n-1                                          01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -12414,7 +12458,7 @@
 
 
 -CITE-
-    45 USC Sec. 231o                                            01/08/2008
+    45 USC Sec. 231o                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -12445,7 +12489,7 @@
 
 
 -CITE-
-    45 USC Sec. 231p                                            01/08/2008
+    45 USC Sec. 231p                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -12471,7 +12515,7 @@
 
 
 -CITE-
-    45 USC Sec. 231q                                            01/08/2008
+    45 USC Sec. 231q                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -12554,7 +12598,7 @@
 
 
 -CITE-
-    45 USC Sec. 231r                                            01/08/2008
+    45 USC Sec. 231r                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -12720,7 +12764,7 @@
 
 
 -CITE-
-    45 USC Sec. 231s                                            01/08/2008
+    45 USC Sec. 231s                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -12746,7 +12790,7 @@
 
 
 -CITE-
-    45 USC Sec. 231t                                            01/08/2008
+    45 USC Sec. 231t                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -12808,7 +12852,7 @@
 
 
 -CITE-
-    45 USC Sec. 231u                                            01/08/2008
+    45 USC Sec. 231u                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -12958,7 +13002,7 @@
 
 
 -CITE-
-    45 USC Sec. 231v                                            01/08/2008
+    45 USC Sec. 231v                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -13007,7 +13051,7 @@
 
 
 -CITE-
-    45 USC CHAPTER 10 - TAX ON CARRIERS AND EMPLOYEES           01/08/2008
+    45 USC CHAPTER 10 - TAX ON CARRIERS AND EMPLOYEES           01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -13021,7 +13065,7 @@
 
 
 -CITE-
-    45 USC Secs. 241 to 253                                     01/08/2008
+    45 USC Secs. 241 to 253                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -13066,7 +13110,7 @@
 
 
 -CITE-
-    45 USC Secs. 261 to 273                                     01/08/2008
+    45 USC Secs. 261 to 273                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -13167,7 +13211,7 @@
 
 
 -CITE-
-    45 USC CHAPTER 11 - RAILROAD UNEMPLOYMENT INSURANCE         01/08/2008
+    45 USC CHAPTER 11 - RAILROAD UNEMPLOYMENT INSURANCE         01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -13211,7 +13255,7 @@
 
 
 -CITE-
-    45 USC Sec. 351                                             01/08/2008
+    45 USC Sec. 351                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -13449,10 +13493,12 @@
           applicable, computed under the formula:
 
 
-                                    A-37,800                    
-                      B=600  (1+ -------------)              
-                                     56,700                    
-  
+                                              A-37,800                    
+                      B=600  G7A     1+   G7 -  -  -  G7B              
+                                                  -  -                    
+                                                56,700                    
+    --------------------------------------------------------------------
+
           (ii) Meaning of symbols. - For the purposes of the formula in
         clause (i) - 
             (I) "B" is the dollar amount of the monthly compensation
@@ -14035,7 +14081,7 @@
 
 
 -CITE-
-    45 USC Sec. 352                                             01/08/2008
+    45 USC Sec. 352                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -14866,7 +14912,7 @@
 
 
 -CITE-
-    45 USC Sec. 353                                             01/08/2008
+    45 USC Sec. 353                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -14995,7 +15041,7 @@
 
 
 -CITE-
-    45 USC Sec. 354                                             01/08/2008
+    45 USC Sec. 354                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -15331,7 +15377,7 @@
 
 
 -CITE-
-    45 USC Sec. 355                                             01/08/2008
+    45 USC Sec. 355                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -15702,7 +15748,7 @@
 
 
 -CITE-
-    45 USC Sec. 355a                                            01/08/2008
+    45 USC Sec. 355a                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -15748,7 +15794,7 @@
 
 
 -CITE-
-    45 USC Sec. 356                                             01/08/2008
+    45 USC Sec. 356                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -15820,7 +15866,7 @@
 
 
 -CITE-
-    45 USC Sec. 357                                             01/08/2008
+    45 USC Sec. 357                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -15842,7 +15888,7 @@
 
 
 -CITE-
-    45 USC Sec. 358                                             01/08/2008
+    45 USC Sec. 358                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -15901,10 +15947,12 @@
             formula:
 
 
-                                               2A+B
-                           R=         --------------------
-                                                 3                     
-    
+                                               2A+B                       
+                           R=           G7 -  -  -                       
+                                      -                                   
+                                                  3                       
+    --------------------------------------------------------------------
+
           (iii) 5th calendar year
             With respect to compensation paid in calendar year 1992,
           the contribution rate shall be the smaller of - 
@@ -15914,9 +15962,11 @@
             formula:
 
 
-                                            A+2C                       
-                           R=          --------------                      
-                                              3                       
+                                               A+2C                       
+                           R=           G7 -  -  -                       
+                                      -                                   
+                                                  3                       
+    --------------------------------------------------------------------
 
           (iv) Meaning of symbols
             For purposes of the formulas in clauses (ii) and (iii) - 
@@ -16026,8 +16076,10 @@
 
 
                                             2(A2)+B                        
-                             R=  ( ------------------------- )
-                                                3                        
+                             R=  G7A   G7 -  -  -  G7B                  
+                                               -  -                        
+                                                  3                        
+    --------------------------------------------------------------------
 
           (iii) 3d calendar year
             With respect to compensation paid in calendar months in the
@@ -16041,8 +16093,10 @@
 
 
                                               A3+2C                       
-                           R=          ------------------
-                                                3                       
+                           R=           G7 -  -  -                       
+                                      -                                   
+                                                  3                       
+    --------------------------------------------------------------------
 
           (iv) Subsequent calendar years
             With respect to all calendar months in calendar years
@@ -16844,7 +16898,7 @@
 
 
 -CITE-
-    45 USC Sec. 359                                             01/08/2008
+    45 USC Sec. 359                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -16898,7 +16952,7 @@
 
 
 -CITE-
-    45 USC Sec. 360                                             01/08/2008
+    45 USC Sec. 360                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -17120,7 +17174,7 @@
 
 
 -CITE-
-    45 USC Sec. 361                                             01/08/2008
+    45 USC Sec. 361                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -17351,7 +17405,7 @@
 
 
 -CITE-
-    45 USC Sec. 362                                             01/08/2008
+    45 USC Sec. 362                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -18053,7 +18107,7 @@
 
 
 -CITE-
-    45 USC Sec. 363                                             01/08/2008
+    45 USC Sec. 363                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -18424,7 +18478,7 @@
 
 
 -CITE-
-    45 USC Sec. 363a                                            01/08/2008
+    45 USC Sec. 363a                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -18489,7 +18543,7 @@
 
 
 -CITE-
-    45 USC Sec. 364                                             01/08/2008
+    45 USC Sec. 364                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -18517,7 +18571,7 @@
 
 
 -CITE-
-    45 USC Sec. 365                                             01/08/2008
+    45 USC Sec. 365                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -18537,7 +18591,7 @@
 
 
 -CITE-
-    45 USC Sec. 366                                             01/08/2008
+    45 USC Sec. 366                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -18560,7 +18614,7 @@
 
 
 -CITE-
-    45 USC Sec. 366a                                            01/08/2008
+    45 USC Sec. 366a                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -18598,7 +18652,7 @@
 
 
 -CITE-
-    45 USC Sec. 367                                             01/08/2008
+    45 USC Sec. 367                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -18647,7 +18701,7 @@
 
 
 -CITE-
-    45 USC Sec. 368                                             01/08/2008
+    45 USC Sec. 368                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -18671,7 +18725,7 @@
 
 
 -CITE-
-    45 USC Sec. 369                                             01/08/2008
+    45 USC Sec. 369                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -18707,7 +18761,7 @@
 
 -CITE-
     45 USC CHAPTER 12 - TEMPORARY RAILROAD UNEMPLOYMENT
-           INSURANCE PROGRAM                               01/08/2008
+           INSURANCE PROGRAM                               01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -18733,7 +18787,7 @@
 
 
 -CITE-
-    45 USC Sec. 401                                             01/08/2008
+    45 USC Sec. 401                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -18813,7 +18867,7 @@
 
 
 -CITE-
-    45 USC Sec. 402                                             01/08/2008
+    45 USC Sec. 402                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -18849,7 +18903,7 @@
 
 
 -CITE-
-    45 USC Sec. 403                                             01/08/2008
+    45 USC Sec. 403                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -18912,7 +18966,7 @@
 
 
 -CITE-
-    45 USC Sec. 404                                             01/08/2008
+    45 USC Sec. 404                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -18953,7 +19007,7 @@
 
 
 -CITE-
-    45 USC CHAPTER 13 - RAILROAD SAFETY                         01/08/2008
+    45 USC CHAPTER 13 - RAILROAD SAFETY                         01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -18966,7 +19020,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/08/2008
+    45 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -18981,7 +19035,7 @@
 
 
 -CITE-
-    45 USC Sec. 421                                             01/08/2008
+    45 USC Sec. 421                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19003,7 +19057,7 @@
 
 -CITE-
     45 USC SUBCHAPTER II - RULES, REGULATIONS, ORDERS, AND
-           STANDARDS                                       01/08/2008
+           STANDARDS                                       01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19018,7 +19072,7 @@
 
 
 -CITE-
-    45 USC Secs. 431 to 447                                     01/08/2008
+    45 USC Secs. 431 to 447                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19140,7 +19194,7 @@
     trains. See sections 20117 and 20134 of Title 49.
       Section 446, Pub. L. 101-647, title XVII, Sec. 1704, Nov. 29,
     1990, 104 Stat. 4846, related to railroad police officers. See
-    section 26101 of Title 49.
+    section 28101 of Title 49.
       Section 447, Pub. L. 91-458, title II, Sec. 216, as added Pub. L.
     101-508, title X, Sec. 10501(a), Nov. 5, 1990, 104 Stat. 1388-399,
     related to railroad user fees. See section 20115 of Title 49.
@@ -19149,7 +19203,7 @@
 
 
 -CITE-
-    45 USC CHAPTER 14 - RAIL PASSENGER SERVICE                  01/08/2008
+    45 USC CHAPTER 14 - RAIL PASSENGER SERVICE                  01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19162,7 +19216,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/08/2008
+    45 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19177,7 +19231,7 @@
 
 
 -CITE-
-    45 USC Secs. 501 to 502                                     01/08/2008
+    45 USC Secs. 501 to 502                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19229,7 +19283,7 @@
 
 -CITE-
     45 USC SUBCHAPTER II - BASIC NATIONAL RAIL PASSENGER
-           SYSTEM                                          01/08/2008
+           SYSTEM                                          01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19244,7 +19298,7 @@
 
 
 -CITE-
-    45 USC Secs. 521, 522                                       01/08/2008
+    45 USC Secs. 521, 522                                       01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19269,7 +19323,7 @@
 
 -CITE-
     45 USC SUBCHAPTER III - NATIONAL RAILROAD PASSENGER
-           CORPORATION                                     01/08/2008
+           CORPORATION                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19284,7 +19338,7 @@
 
 
 -CITE-
-    45 USC Secs. 541 to 548                                     01/08/2008
+    45 USC Secs. 541 to 548                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19342,8 +19396,8 @@
     Aug. 13, 1981, 95 Stat. 692, 699; Pub. L. 99-272, title IV, Sec.
     4007(e), title XIII, Sec. 13031(h)(1), Apr. 7, 1986, 100 Stat. 108,
     310, enumerated general powers of National Railroad Passenger
-    Corporation. See sections 24301, 24305 to 24307, 24311, 24702,
-    24707, 24709, and 24902 of Title 49.
+    Corporation. See sections 24301, 24305 to 24307, 24311, 24709, and
+    24902 of Title 49.
       Section 545a, Pub. L. 95-421, Sec. 19, Oct. 5, 1978, 92 Stat.
     930, directed National Railroad Passenger Corporation to attract
     and serve bulk mail needs of Postal Service. See section 24305 of
@@ -19392,7 +19446,7 @@
 
 -CITE-
     45 USC SUBCHAPTER IV - PROVISION OF RAIL PASSENGER
-           SERVICES                                        01/08/2008
+           SERVICES                                        01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19407,7 +19461,7 @@
 
 
 -CITE-
-    45 USC Secs. 561 to 563                                     01/08/2008
+    45 USC Secs. 561 to 563                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19463,7 +19517,7 @@
 
 
 -CITE-
-    45 USC Sec. 564                                             01/08/2008
+    45 USC Sec. 564                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19496,7 +19550,7 @@
 
 
 -CITE-
-    45 USC Secs. 565, 566                                       01/08/2008
+    45 USC Secs. 565, 566                                       01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19526,7 +19580,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER V - AMTRAK COMMUTER SERVICES              01/08/2008
+    45 USC SUBCHAPTER V - AMTRAK COMMUTER SERVICES              01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19541,7 +19595,7 @@
 
 
 -CITE-
-    45 USC Secs. 581 to 591                                     01/08/2008
+    45 USC Secs. 581 to 591                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19591,12 +19645,12 @@
     97-35, title XI, Sec. 1137, Aug. 13, 1981, 95 Stat. 650; amended
     Pub. L. 97-468, title V, Sec. 508, Jan. 14, 1983, 96 Stat. 2554,
     related to duties and composition of Northeast Corridor
-    Coordination Board. See section 24905 of Title 49.
+    Coordination Board.
       Section 586, Pub. L. 91-518, title V, Sec. 506, as added Pub. L.
     97-35, title XI, Sec. 1137, Aug. 13, 1981, 95 Stat. 650, related to
     transfers of property and commuter service to Amtrak Commuter
     Services Corporation and commuter authorities. See section 24506 of
-    Title 49.
+    Title 49, Transportation.
       Section 587, Pub. L. 91-518, title V, Sec. 507, as added Pub. L.
     97-35, title XI, Sec. 1137, Aug. 13, 1981, 95 Stat. 652, exempted
     transfers of property and assumptions of service responsibilities
@@ -19624,7 +19678,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER VI - FEDERAL FINANCIAL ASSISTANCE         01/08/2008
+    45 USC SUBCHAPTER VI - FEDERAL FINANCIAL ASSISTANCE         01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19639,7 +19693,7 @@
 
 
 -CITE-
-    45 USC Sec. 601                                             01/08/2008
+    45 USC Sec. 601                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19676,7 +19730,7 @@
 
 
 -CITE-
-    45 USC Sec. 602                                             01/08/2008
+    45 USC Sec. 602                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19689,17 +19743,17 @@
 -MISC1-
     Sec. 602. Repealed. Pub. L. 102-533, Sec. 7(c), Oct. 27, 1992, 106
       Stat. 3519.
-      Section, Pub. 91-518, title VI, Sec. 602, Oct. 30, 1970, 84 Stat.
-    1338; Pub. L. 92-316, Sec. 10(a), June 22, 1972, 86 Stat. 231; Pub.
-    L. 93-146, Sec. 13, Nov. 3, 1973, 87 Stat. 553; Pub. L. 93-496,
-    Sec. 9, Oct. 28, 1974, 88 Stat. 1531; Pub. L. 94-25, Sec. 11, May
-    26, 1975, 89 Stat. 92; Pub. L. 94-555, title I, Sec. 102(c), Oct.
-    19, 1976, 90 Stat. 2614; Pub. L. 95-421, Sec. 2(b)(2), Oct. 5,
-    1978, 92 Stat. 923; Pub. L. 96-73, title I, Sec. 122(b)(2), Sept.
-    29, 1979, 93 Stat. 551; Pub. L. 97-35, title XI, Sec. 1186, Aug.
-    13, 1981, 95 Stat. 698; Pub. L. 99-514, Sec. 2, Oct. 22, 1986, 100
-    Stat. 2095; Pub. L. 100-342, Sec. 18(e), June 22, 1988, 102 Stat.
-    637, related to authority of Secretary of Transportation to
+      Section, Pub. L. 91-518, title VI, Sec. 602, Oct. 30, 1970, 84
+    Stat. 1338; Pub. L. 92-316, Sec. 10(a), June 22, 1972, 86 Stat.
+    231; Pub. L. 93-146, Sec. 13, Nov. 3, 1973, 87 Stat. 553; Pub. L.
+    93-496, Sec. 9, Oct. 28, 1974, 88 Stat. 1531; Pub. L. 94-25, Sec.
+    11, May 26, 1975, 89 Stat. 92; Pub. L. 94-555, title I, Sec.
+    102(c), Oct. 19, 1976, 90 Stat. 2614; Pub. L. 95-421, Sec. 2(b)(2),
+    Oct. 5, 1978, 92 Stat. 923; Pub. L. 96-73, title I, Sec. 122(b)(2),
+    Sept. 29, 1979, 93 Stat. 551; Pub. L. 97-35, title XI, Sec. 1186,
+    Aug. 13, 1981, 95 Stat. 698; Pub. L. 99-514, Sec. 2, Oct. 22, 1986,
+    100 Stat. 2095; Pub. L. 100-342, Sec. 18(e), June 22, 1988, 102
+    Stat. 637, related to authority of Secretary of Transportation to
     guarantee any lender or lessor against loss of principal or
     interest on loans issued to improve rail passenger service.
 
@@ -19707,7 +19761,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER VII - EMERGENCY FINANCIAL ASSISTANCE      01/08/2008
+    45 USC SUBCHAPTER VII - EMERGENCY FINANCIAL ASSISTANCE      01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19722,7 +19776,7 @@
 
 
 -CITE-
-    45 USC Secs. 621, 622                                       01/08/2008
+    45 USC Secs. 621, 622                                       01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19746,7 +19800,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER VIII - MISCELLANEOUS PROVISIONS           01/08/2008
+    45 USC SUBCHAPTER VIII - MISCELLANEOUS PROVISIONS           01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19761,7 +19815,7 @@
 
 
 -CITE-
-    45 USC Sec. 641                                             01/08/2008
+    45 USC Sec. 641                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19790,7 +19844,7 @@
 
 
 -CITE-
-    45 USC Secs. 642 to 644                                     01/08/2008
+    45 USC Secs. 642 to 644                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19823,7 +19877,7 @@
 
 
 -CITE-
-    45 USC Sec. 645                                             01/08/2008
+    45 USC Sec. 645                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19846,7 +19900,7 @@
 
 
 -CITE-
-    45 USC Secs. 646 to 650c                                    01/08/2008
+    45 USC Secs. 646 to 650c                                    01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19894,25 +19948,24 @@
     Stat. 637, related to petitions by National Railroad Passenger
     Corporation seeking relocation or other remedial assistance for
     dangerous conditions, and recommendations by Secretary to Congress
-    to fund such measures. See section 24310 of Title 49,
-    Transportation.
+    to fund such measures.
       Section 650b, Pub. L. 91-518, title VIII, Sec. 812, as added Pub.
     L. 102-533, Sec. 3, Oct. 27, 1992, 106 Stat. 3515, directed
     National Railroad Passenger Corporation to develop and report to
     Congress its plans for experimentation with new technologies. See
-    section 24314 of Title 49.
+    section 24314 of Title 49, Transportation.
       Section 650c, Pub. L. 91-518, title VIII, Sec. 813, as added Pub.
     L. 102-533, Sec. 9, Oct. 27, 1992, 106 Stat. 3520, directed
     National Railroad Passenger Corporation to assist in and report to
     Congress on high-speed rail corridor development outside the
-    Northeast Corridor. See section 24702 of Title 49.
+    Northeast Corridor.
 
 -End-
 
 
 
 -CITE-
-    45 USC Secs. 650d, 650e                                     01/08/2008
+    45 USC Secs. 650d, 650e                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19939,7 +19992,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER IX - RAIL PASSENGER CORRIDORS             01/08/2008
+    45 USC SUBCHAPTER IX - RAIL PASSENGER CORRIDORS             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19954,7 +20007,7 @@
 
 
 -CITE-
-    45 USC Secs. 651 to 658                                     01/08/2008
+    45 USC Secs. 651 to 658                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -19993,11 +20046,10 @@
       Section 656, Pub. L. 91-518, title X, Sec. 1006, as added Pub. L.
     96-254, title II, Sec. 212, May 30, 1980, 94 Stat. 417, related to
     speed restrictions imposed on Amtrak trains by State or local
-    governments. See section 24702 of Title 49, Transportation.
+    governments.
       Section 657, Pub. L. 91-518, title X, Sec. 1007, as added Pub. L.
     96-254, title II, Sec. 212, May 30, 1980, 94 Stat. 417, related to
-    provision of service between corridors to increase ridership. See
-    section 24702 of Title 49.
+    provision of service between corridors to increase ridership.
       Section 658, Pub. L. 91-518, title X, Sec. 1008, as added Pub. L.
     96-254, title II, Sec. 212, May 30, 1980, 94 Stat. 417, authorized
     appropriations for evaluation of corridors, acquisition of
@@ -20007,7 +20059,7 @@
 
 
 -CITE-
-    45 USC CHAPTER 15 - EMERGENCY RAIL SERVICES                 01/08/2008
+    45 USC CHAPTER 15 - EMERGENCY RAIL SERVICES                 01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -20038,7 +20090,7 @@
 
 
 -CITE-
-    45 USC Sec. 661                                             01/08/2008
+    45 USC Sec. 661                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -20098,7 +20150,7 @@
 
 
 -CITE-
-    45 USC Sec. 662                                             01/08/2008
+    45 USC Sec. 662                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -20275,7 +20327,7 @@
 
 
 -CITE-
-    45 USC Sec. 663                                             01/08/2008
+    45 USC Sec. 663                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -20303,7 +20355,7 @@
 
 
 -CITE-
-    45 USC Sec. 664                                             01/08/2008
+    45 USC Sec. 664                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -20376,7 +20428,7 @@
 
 
 -CITE-
-    45 USC Sec. 665                                             01/08/2008
+    45 USC Sec. 665                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -20418,7 +20470,7 @@
 
 
 -CITE-
-    45 USC Sec. 666                                             01/08/2008
+    45 USC Sec. 666                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -20456,7 +20508,7 @@
 
 
 -CITE-
-    45 USC Sec. 667                                             01/08/2008
+    45 USC Sec. 667                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -20482,7 +20534,7 @@
 
 
 -CITE-
-    45 USC Sec. 668                                             01/08/2008
+    45 USC Sec. 668                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -20508,7 +20560,7 @@
 
 
 -CITE-
-    45 USC Sec. 669                                             01/08/2008
+    45 USC Sec. 669                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -20533,7 +20585,7 @@
 
 
 -CITE-
-    45 USC CHAPTER 16 - REGIONAL RAIL REORGANIZATION            01/08/2008
+    45 USC CHAPTER 16 - REGIONAL RAIL REORGANIZATION            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -20611,7 +20663,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/08/2008
+    45 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -20626,7 +20678,7 @@
 
 
 -CITE-
-    45 USC Sec. 701                                             01/08/2008
+    45 USC Sec. 701                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -20756,7 +20808,7 @@
 
 
 -CITE-
-    45 USC Sec. 702                                             01/08/2008
+    45 USC Sec. 702                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -21051,7 +21103,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER II - UNITED STATES RAILWAY ASSOCIATION    01/08/2008
+    45 USC SUBCHAPTER II - UNITED STATES RAILWAY ASSOCIATION    01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -21066,7 +21118,7 @@
 
 
 -CITE-
-    45 USC Sec. 711                                             01/08/2008
+    45 USC Sec. 711                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -21336,7 +21388,7 @@
 
 
 -CITE-
-    45 USC Sec. 712                                             01/08/2008
+    45 USC Sec. 712                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -21583,7 +21635,7 @@
 
 
 -CITE-
-    45 USC Sec. 713                                             01/08/2008
+    45 USC Sec. 713                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -21642,7 +21694,7 @@
 
 
 -CITE-
-    45 USC Sec. 714                                             01/08/2008
+    45 USC Sec. 714                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -21678,7 +21730,7 @@
 
 
 -CITE-
-    45 USC Sec. 715                                             01/08/2008
+    45 USC Sec. 715                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -21701,7 +21753,7 @@
 
 
 -CITE-
-    45 USC Sec. 716                                             01/08/2008
+    45 USC Sec. 716                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -22139,7 +22191,7 @@
 
 
 -CITE-
-    45 USC Sec. 717                                             01/08/2008
+    45 USC Sec. 717                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -22321,7 +22373,7 @@
 
 
 -CITE-
-    45 USC Sec. 718                                             01/08/2008
+    45 USC Sec. 718                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -22502,7 +22554,7 @@
 
 
 -CITE-
-    45 USC Sec. 719                                             01/08/2008
+    45 USC Sec. 719                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -22860,7 +22912,7 @@
 
 
 -CITE-
-    45 USC Sec. 720                                             01/08/2008
+    45 USC Sec. 720                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -23014,7 +23066,7 @@
 
 
 -CITE-
-    45 USC Sec. 721                                             01/08/2008
+    45 USC Sec. 721                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -23659,7 +23711,7 @@
 
 
 -CITE-
-    45 USC Sec. 722                                             01/08/2008
+    45 USC Sec. 722                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -23712,7 +23764,7 @@
 
 
 -CITE-
-    45 USC Sec. 723                                             01/08/2008
+    45 USC Sec. 723                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -23796,7 +23848,7 @@
 
 
 -CITE-
-    45 USC Sec. 724                                             01/08/2008
+    45 USC Sec. 724                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -23937,7 +23989,7 @@
 
 
 -CITE-
-    45 USC Sec. 725                                             01/08/2008
+    45 USC Sec. 725                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -24049,7 +24101,7 @@
 
 
 -CITE-
-    45 USC Sec. 726                                             01/08/2008
+    45 USC Sec. 726                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -24655,7 +24707,7 @@
 
 
 -CITE-
-    45 USC Sec. 727                                             01/08/2008
+    45 USC Sec. 727                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -24799,7 +24851,7 @@
 
 
 -CITE-
-    45 USC Sec. 728                                             01/08/2008
+    45 USC Sec. 728                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -24877,7 +24929,7 @@
 
 
 -CITE-
-    45 USC Sec. 729                                             01/08/2008
+    45 USC Sec. 729                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -24933,7 +24985,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER III - CONSOLIDATED RAIL CORPORATION       01/08/2008
+    45 USC SUBCHAPTER III - CONSOLIDATED RAIL CORPORATION       01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -24948,7 +25000,7 @@
 
 
 -CITE-
-    45 USC Sec. 741                                             01/08/2008
+    45 USC Sec. 741                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -25318,7 +25370,7 @@
 
 
 -CITE-
-    45 USC Sec. 742                                             01/08/2008
+    45 USC Sec. 742                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -25363,7 +25415,7 @@
 
 
 -CITE-
-    45 USC Sec. 743                                             01/08/2008
+    45 USC Sec. 743                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -26116,7 +26168,7 @@
 
 
 -CITE-
-    45 USC Sec. 744                                             01/08/2008
+    45 USC Sec. 744                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -26774,7 +26826,7 @@
 
 
 -CITE-
-    45 USC Sec. 744a                                            01/08/2008
+    45 USC Sec. 744a                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -26836,7 +26888,7 @@
 
 
 -CITE-
-    45 USC Sec. 745                                             01/08/2008
+    45 USC Sec. 745                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -27292,7 +27344,7 @@
 
 
 -CITE-
-    45 USC Sec. 746                                             01/08/2008
+    45 USC Sec. 746                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -27457,7 +27509,7 @@
 
 
 -CITE-
-    45 USC Sec. 747                                             01/08/2008
+    45 USC Sec. 747                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -27632,7 +27684,7 @@
 
 
 -CITE-
-    45 USC Sec. 748                                             01/08/2008
+    45 USC Sec. 748                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -27776,7 +27828,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER IV - TRANSFER OF FREIGHT SERVICES         01/08/2008
+    45 USC SUBCHAPTER IV - TRANSFER OF FREIGHT SERVICES         01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -27791,7 +27843,7 @@
 
 
 -CITE-
-    45 USC Secs. 761 to 769c                                    01/08/2008
+    45 USC Secs. 761 to 769c                                    01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -27873,7 +27925,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER V - EMPLOYEE PROTECTION                   01/08/2008
+    45 USC SUBCHAPTER V - EMPLOYEE PROTECTION                   01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -27888,7 +27940,7 @@
 
 
 -CITE-
-    45 USC Secs. 771 to 780                                     01/08/2008
+    45 USC Secs. 771 to 780                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -27999,7 +28051,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER VI - MISCELLANEOUS PROVISIONS             01/08/2008
+    45 USC SUBCHAPTER VI - MISCELLANEOUS PROVISIONS             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -28014,7 +28066,7 @@
 
 
 -CITE-
-    45 USC Sec. 791                                             01/08/2008
+    45 USC Sec. 791                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -28271,7 +28323,7 @@
 
 
 -CITE-
-    45 USC Sec. 792                                             01/08/2008
+    45 USC Sec. 792                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -28312,7 +28364,7 @@
 
 
 -CITE-
-    45 USC Sec. 793                                             01/08/2008
+    45 USC Sec. 793                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -28342,7 +28394,7 @@
 
 
 -CITE-
-    45 USC Sec. 794                                             01/08/2008
+    45 USC Sec. 794                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -28371,7 +28423,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER VII - PROTECTION OF EMPLOYEES             01/08/2008
+    45 USC SUBCHAPTER VII - PROTECTION OF EMPLOYEES             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -28386,7 +28438,7 @@
 
 
 -CITE-
-    45 USC Sec. 797                                             01/08/2008
+    45 USC Sec. 797                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -28509,7 +28561,7 @@
 
 
 -CITE-
-    45 USC Sec. 797a                                            01/08/2008
+    45 USC Sec. 797a                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -28613,7 +28665,7 @@
 
 
 -CITE-
-    45 USC Sec. 797b                                            01/08/2008
+    45 USC Sec. 797b                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -28668,7 +28720,7 @@
 
 
 -CITE-
-    45 USC Sec. 797c                                            01/08/2008
+    45 USC Sec. 797c                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -28785,7 +28837,7 @@
 
 
 -CITE-
-    45 USC Sec. 797d                                            01/08/2008
+    45 USC Sec. 797d                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -28861,7 +28913,7 @@
 
 
 -CITE-
-    45 USC Sec. 797e                                            01/08/2008
+    45 USC Sec. 797e                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -28915,7 +28967,7 @@
 
 
 -CITE-
-    45 USC Sec. 797f                                            01/08/2008
+    45 USC Sec. 797f                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -28957,7 +29009,7 @@
 
 
 -CITE-
-    45 USC Sec. 797g                                            01/08/2008
+    45 USC Sec. 797g                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -29022,7 +29074,7 @@
 
 
 -CITE-
-    45 USC Sec. 797h                                            01/08/2008
+    45 USC Sec. 797h                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -29103,7 +29155,7 @@
 
 
 -CITE-
-    45 USC Sec. 797i                                            01/08/2008
+    45 USC Sec. 797i                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -29172,7 +29224,7 @@
 
 
 -CITE-
-    45 USC Sec. 797j                                            01/08/2008
+    45 USC Sec. 797j                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -29208,7 +29260,7 @@
 
 
 -CITE-
-    45 USC Sec. 797k                                            01/08/2008
+    45 USC Sec. 797k                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -29254,7 +29306,7 @@
 
 
 -CITE-
-    45 USC Sec. 797l                                            01/08/2008
+    45 USC Sec. 797l                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -29300,7 +29352,7 @@
 
 
 -CITE-
-    45 USC Sec. 797m                                            01/08/2008
+    45 USC Sec. 797m                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -29355,7 +29407,7 @@
 
 -CITE-
     45 USC CHAPTER 17 - RAILROAD REVITALIZATION AND
-           REGULATORY REFORM                               01/08/2008
+           REGULATORY REFORM                               01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -29387,7 +29439,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/08/2008
+    45 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -29402,7 +29454,7 @@
 
 
 -CITE-
-    45 USC Sec. 801                                             01/08/2008
+    45 USC Sec. 801                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -29495,7 +29547,7 @@
 
 
 -CITE-
-    45 USC Sec. 802                                             01/08/2008
+    45 USC Sec. 802                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -29591,7 +29643,7 @@
 
 
 -CITE-
-    45 USC Sec. 803                                             01/08/2008
+    45 USC Sec. 803                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -29617,7 +29669,7 @@
 
 -CITE-
     45 USC SUBCHAPTER II - RAILROAD REHABILITATION AND
-           IMPROVEMENT FINANCING                           01/08/2008
+           IMPROVEMENT FINANCING                           01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -29632,7 +29684,7 @@
 
 
 -CITE-
-    45 USC Sec. 821                                             01/08/2008
+    45 USC Sec. 821                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -29759,7 +29811,7 @@
 
 
 -CITE-
-    45 USC Sec. 822                                             01/08/2008
+    45 USC Sec. 822                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -29881,7 +29933,7 @@
     under this section unless the Secretary has made a finding in
     writing that - 
         (1) repayment of the obligation is required to be made within a
-      term of not more than 25 years from the date of its execution;
+      term of not more than 35 years from the date of its execution;
         (2) the direct loan or loan guarantee is justified by the
       present and probable future demand for rail services or
       intermodal facilities;
@@ -29953,7 +30005,8 @@
     (Pub. L. 94-210, title V, Sec. 502, as added Pub. L. 105-178, title
     VII, Sec. 7203(a)(1), June 9, 1998, 112 Stat. 473; amended Pub. L.
     109-59, title IX, Sec. 9003(b)-(g), Aug. 10, 2005, 119 Stat. 1921-
-    1923.)
+    1923; Pub. L. 110-432, div. A, title VII, Sec. 701(e), Oct. 16,
+    2008, 122 Stat. 4906.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -29972,6 +30025,8 @@
     1998, 112 Stat. 471.
 
                                 AMENDMENTS                            
+      2008 - Subsec. (g)(1). Pub. L. 110-432 substituted "35 years" for
+    "25 years".
       2005 - Subsec. (a). Pub. L. 109-59, Sec. 9003(b), reenacted
     heading without change and amended text of subsec. (a) generally.
     Prior to amendment, text read as follows: "The Secretary may
@@ -30020,7 +30075,7 @@
 
 
 -CITE-
-    45 USC Sec. 823                                             01/08/2008
+    45 USC Sec. 823                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -30214,7 +30269,7 @@
 
 
 -CITE-
-    45 USC Secs. 824, 825                                       01/08/2008
+    45 USC Secs. 824, 825                                       01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -30254,7 +30309,7 @@
 
 
 -CITE-
-    45 USC Sec. 825a                                            01/08/2008
+    45 USC Sec. 825a                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -30277,7 +30332,7 @@
 
 
 -CITE-
-    45 USC Secs. 826 to 830                                     01/08/2008
+    45 USC Secs. 826 to 830                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -30326,7 +30381,7 @@
 
 
 -CITE-
-    45 USC Sec. 831                                             01/08/2008
+    45 USC Sec. 831                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -30355,7 +30410,7 @@
 
 
 -CITE-
-    45 USC Secs. 832 to 834                                     01/08/2008
+    45 USC Secs. 832 to 834                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -30380,7 +30435,7 @@
 
 
 -CITE-
-    45 USC Sec. 835                                             01/08/2008
+    45 USC Sec. 835                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -30406,7 +30461,7 @@
 
 
 -CITE-
-    45 USC Sec. 836                                             01/08/2008
+    45 USC Sec. 836                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -30510,7 +30565,7 @@
 
 
 -CITE-
-    45 USC Secs. 837, 838                                       01/08/2008
+    45 USC Secs. 837, 838                                       01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -30534,7 +30589,7 @@
 
 -CITE-
     45 USC SUBCHAPTER III - NORTHEAST CORRIDOR PROJECT
-           IMPLEMENTATION                                  01/08/2008
+           IMPLEMENTATION                                  01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -30549,7 +30604,7 @@
 
 
 -CITE-
-    45 USC Sec. 851                                             01/08/2008
+    45 USC Sec. 851                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -30574,7 +30629,7 @@
 
 
 -CITE-
-    45 USC Sec. 852                                             01/08/2008
+    45 USC Sec. 852                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -30599,7 +30654,7 @@
 
 
 -CITE-
-    45 USC Secs. 853 to 855                                     01/08/2008
+    45 USC Secs. 853 to 855                                     01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -30642,7 +30697,7 @@
 
 
 -CITE-
-    45 USC Sec. 856                                             01/08/2008
+    45 USC Sec. 856                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -30670,7 +30725,7 @@
 
 
 -CITE-
-    45 USC CHAPTER 18 - MILWAUKEE RAILROAD RESTRUCTURING        01/08/2008
+    45 USC CHAPTER 18 - MILWAUKEE RAILROAD RESTRUCTURING        01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -30710,7 +30765,7 @@
 
 
 -CITE-
-    45 USC Sec. 901                                             01/08/2008
+    45 USC Sec. 901                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -30831,7 +30886,7 @@
 
 
 -CITE-
-    45 USC Sec. 902                                             01/08/2008
+    45 USC Sec. 902                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -30894,7 +30949,7 @@
 
 
 -CITE-
-    45 USC Sec. 903                                             01/08/2008
+    45 USC Sec. 903                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -30945,7 +31000,7 @@
 
 
 -CITE-
-    45 USC Sec. 904                                             01/08/2008
+    45 USC Sec. 904                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -31051,7 +31106,7 @@
 
 
 -CITE-
-    45 USC Sec. 905                                             01/08/2008
+    45 USC Sec. 905                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -31154,7 +31209,7 @@
 
 
 -CITE-
-    45 USC Sec. 906                                             01/08/2008
+    45 USC Sec. 906                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -31271,7 +31326,7 @@
 
 
 -CITE-
-    45 USC Sec. 907                                             01/08/2008
+    45 USC Sec. 907                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -31336,7 +31391,7 @@
 
 
 -CITE-
-    45 USC Sec. 908                                             01/08/2008
+    45 USC Sec. 908                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -31394,7 +31449,7 @@
 
 
 -CITE-
-    45 USC Sec. 909                                             01/08/2008
+    45 USC Sec. 909                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -31505,7 +31560,7 @@
 
 
 -CITE-
-    45 USC Sec. 910                                             01/08/2008
+    45 USC Sec. 910                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -31531,7 +31586,7 @@
 
 
 -CITE-
-    45 USC Sec. 911                                             01/08/2008
+    45 USC Sec. 911                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -31592,7 +31647,7 @@
 
 
 -CITE-
-    45 USC Sec. 912                                             01/08/2008
+    45 USC Sec. 912                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -31632,7 +31687,7 @@
 
 
 -CITE-
-    45 USC Sec. 913                                             01/08/2008
+    45 USC Sec. 913                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -31716,7 +31771,7 @@
 
 
 -CITE-
-    45 USC Sec. 914                                             01/08/2008
+    45 USC Sec. 914                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -31784,7 +31839,7 @@
 
 
 -CITE-
-    45 USC Sec. 915                                             01/08/2008
+    45 USC Sec. 915                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -31980,7 +32035,7 @@
 
 
 -CITE-
-    45 USC Sec. 916                                             01/08/2008
+    45 USC Sec. 916                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32007,7 +32062,7 @@
 
 
 -CITE-
-    45 USC Sec. 917                                             01/08/2008
+    45 USC Sec. 917                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32039,7 +32094,7 @@
 
 
 -CITE-
-    45 USC Sec. 918                                             01/08/2008
+    45 USC Sec. 918                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32064,7 +32119,7 @@
 
 
 -CITE-
-    45 USC Sec. 919                                             01/08/2008
+    45 USC Sec. 919                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32107,7 +32162,7 @@
 
 
 -CITE-
-    45 USC Sec. 920                                             01/08/2008
+    45 USC Sec. 920                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32159,7 +32214,7 @@
 
 
 -CITE-
-    45 USC Sec. 921                                             01/08/2008
+    45 USC Sec. 921                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32183,7 +32238,7 @@
 
 
 -CITE-
-    45 USC Sec. 922                                             01/08/2008
+    45 USC Sec. 922                                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32222,7 +32277,7 @@
 
 -CITE-
     45 USC CHAPTER 19 - ROCK ISLAND RAILROAD EMPLOYEE
-           ASSISTANCE                                      01/08/2008
+           ASSISTANCE                                      01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32258,7 +32313,7 @@
 
 
 -CITE-
-    45 USC Sec. 1001                                            01/08/2008
+    45 USC Sec. 1001                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32311,7 +32366,7 @@
 
 
 -CITE-
-    45 USC Sec. 1002                                            01/08/2008
+    45 USC Sec. 1002                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32387,7 +32442,7 @@
 
 
 -CITE-
-    45 USC Sec. 1003                                            01/08/2008
+    45 USC Sec. 1003                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32505,7 +32560,7 @@
 
 
 -CITE-
-    45 USC Sec. 1004                                            01/08/2008
+    45 USC Sec. 1004                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32578,7 +32633,7 @@
 
 
 -CITE-
-    45 USC Sec. 1005                                            01/08/2008
+    45 USC Sec. 1005                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32705,7 +32760,7 @@
 
 
 -CITE-
-    45 USC Sec. 1006                                            01/08/2008
+    45 USC Sec. 1006                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32731,7 +32786,7 @@
 
 
 -CITE-
-    45 USC Sec. 1007                                            01/08/2008
+    45 USC Sec. 1007                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32840,7 +32895,7 @@
 
 
 -CITE-
-    45 USC Sec. 1008                                            01/08/2008
+    45 USC Sec. 1008                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32862,7 +32917,7 @@
 
 
 -CITE-
-    45 USC Sec. 1009                                            01/08/2008
+    45 USC Sec. 1009                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32904,7 +32959,7 @@
 
 
 -CITE-
-    45 USC Sec. 1010                                            01/08/2008
+    45 USC Sec. 1010                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32944,7 +32999,7 @@
 
 
 -CITE-
-    45 USC Sec. 1011                                            01/08/2008
+    45 USC Sec. 1011                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -32979,7 +33034,7 @@
 
 
 -CITE-
-    45 USC Sec. 1012                                            01/08/2008
+    45 USC Sec. 1012                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -33013,7 +33068,7 @@
 
 
 -CITE-
-    45 USC Sec. 1013                                            01/08/2008
+    45 USC Sec. 1013                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -33038,7 +33093,7 @@
 
 
 -CITE-
-    45 USC Sec. 1014                                            01/08/2008
+    45 USC Sec. 1014                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -33113,7 +33168,7 @@
 
 
 -CITE-
-    45 USC Sec. 1015                                            01/08/2008
+    45 USC Sec. 1015                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -33141,7 +33196,7 @@
 
 
 -CITE-
-    45 USC Sec. 1016                                            01/08/2008
+    45 USC Sec. 1016                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -33192,7 +33247,7 @@
 
 
 -CITE-
-    45 USC Sec. 1017                                            01/08/2008
+    45 USC Sec. 1017                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -33287,7 +33342,7 @@
 
 
 -CITE-
-    45 USC Sec. 1018                                            01/08/2008
+    45 USC Sec. 1018                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -33380,7 +33435,7 @@
 
 
 -CITE-
-    45 USC CHAPTER 20 - NORTHEAST RAIL SERVICE                  01/08/2008
+    45 USC CHAPTER 20 - NORTHEAST RAIL SERVICE                  01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -33412,7 +33467,7 @@
 
 
 -CITE-
-    45 USC Sec. 1101                                            01/08/2008
+    45 USC Sec. 1101                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -33488,7 +33543,7 @@
 
 
 -CITE-
-    45 USC Sec. 1102                                            01/08/2008
+    45 USC Sec. 1102                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -33524,7 +33579,7 @@
 
 
 -CITE-
-    45 USC Sec. 1103                                            01/08/2008
+    45 USC Sec. 1103                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -33606,7 +33661,7 @@
 
 
 -CITE-
-    45 USC Sec. 1104                                            01/08/2008
+    45 USC Sec. 1104                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -33711,7 +33766,7 @@
 
 
 -CITE-
-    45 USC Sec. 1105                                            01/08/2008
+    45 USC Sec. 1105                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -33853,7 +33908,7 @@
 
 
 -CITE-
-    45 USC Sec. 1106                                            01/08/2008
+    45 USC Sec. 1106                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -33919,7 +33974,7 @@
 
 
 -CITE-
-    45 USC Sec. 1107                                            01/08/2008
+    45 USC Sec. 1107                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -33942,7 +33997,7 @@
 
 
 -CITE-
-    45 USC Sec. 1108                                            01/08/2008
+    45 USC Sec. 1108                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -33985,7 +34040,7 @@
 
 
 -CITE-
-    45 USC Sec. 1109                                            01/08/2008
+    45 USC Sec. 1109                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -34028,7 +34083,7 @@
 
 
 -CITE-
-    45 USC Sec. 1110                                            01/08/2008
+    45 USC Sec. 1110                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -34049,7 +34104,7 @@
 
 
 -CITE-
-    45 USC Sec. 1111                                            01/08/2008
+    45 USC Sec. 1111                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -34070,7 +34125,7 @@
 
 
 -CITE-
-    45 USC Sec. 1112                                            01/08/2008
+    45 USC Sec. 1112                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -34194,7 +34249,7 @@
 
 
 -CITE-
-    45 USC Sec. 1113                                            01/08/2008
+    45 USC Sec. 1113                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -34277,7 +34332,7 @@
 
 
 -CITE-
-    45 USC Sec. 1114                                            01/08/2008
+    45 USC Sec. 1114                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -34298,7 +34353,7 @@
 
 
 -CITE-
-    45 USC Sec. 1115                                            01/08/2008
+    45 USC Sec. 1115                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -34351,7 +34406,7 @@
 
 
 -CITE-
-    45 USC Sec. 1116                                            01/08/2008
+    45 USC Sec. 1116                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -34450,7 +34505,7 @@
 
 
 -CITE-
-    45 USC CHAPTER 21 - ALASKA RAILROAD TRANSFER                01/08/2008
+    45 USC CHAPTER 21 - ALASKA RAILROAD TRANSFER                01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -34481,7 +34536,7 @@
 
 
 -CITE-
-    45 USC Sec. 1201                                            01/08/2008
+    45 USC Sec. 1201                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -34560,7 +34615,7 @@
 
 
 -CITE-
-    45 USC Sec. 1202                                            01/08/2008
+    45 USC Sec. 1202                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -34712,7 +34767,7 @@
 
 
 -CITE-
-    45 USC Sec. 1203                                            01/08/2008
+    45 USC Sec. 1203                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -35002,6 +35057,69 @@
     operate the Alaska Railroad. The transfer of the Alaska Railroad to
     the State of Alaska was carried out on January 5, 1985.
 
+
+-MISC2-
+       DENALI NATIONAL PARK AND ALASKA RAILROAD CORPORATION EXCHANGE   
+      Pub. L. 110-229, title III, Sec. 351, May 8, 2008, 122 Stat. 800,
+    provided that:
+      "(a) Definitions. - In this section:
+        "(1) Corporation. - The term 'Corporation' means the Alaska
+      Railroad Corporation owned by the State of Alaska.
+        "(2) Secretary. - The term 'Secretary' means the Secretary of
+      the Interior.
+      "(b) Exchange. - 
+        "(1) In general. - 
+          "(A) Easement expanded. - The Secretary is authorized to
+        grant to the Alaska Railroad Corporation an exclusive-use
+        easement on land that is identified by the Secretary within
+        Denali National Park for the purpose of providing a location to
+        the Corporation for construction, maintenance, and on-going
+        operation of track and associated support facilities for
+        turning railroad trains around near Denali Park Station.
+          "(B) Easement relinquished. - In exchange for the easement
+        granted in subparagraph (A), the Secretary shall require the
+        relinquishment of certain portions of the Corporation's
+        existing exclusive use easement within the boundary of Denali
+        National Park.
+        "(2) Conditions of the exchange. - 
+          "(A) Equal exchange. - The exchange of easements under this
+        section shall be on an approximately equal-acre basis.
+          "(B) Total acres. - The easement granted under paragraph
+        (1)(A) shall not exceed 25 acres.
+          "(C) Interests conveyed. - The easement conveyed to the
+        Alaska Railroad Corporation by the Secretary under this section
+        shall be under the same terms as the exclusive use easement
+        granted to the Railroad in Denali National Park in the Deed for
+        Exclusive Use Easement and Railroad Related Improvements filed
+        in Book 33, pages 985-994 of the Nenana Recording District,
+        Alaska, pursuant to the Alaska Railroad Transfer Act of 1982
+        (45 U.S.C. 1201 et seq.). The easement relinquished by the
+        Alaska Railroad Corporation to the United States under this
+        section shall, with respect to the portion being exchanged, be
+        the full title and interest received by the Alaska Railroad in
+        the Deed for Exclusive Use Easement and Railroad Related
+        Improvements filed in Book 33, pages 985-994 of the Nenana
+        Recording District, Alaska, pursuant to the Alaska Railroad
+        Transfer Act of 1982 (45 U.S.C. 1201 et seq.).
+          "(D) Costs. - The Alaska Railroad shall pay all costs
+        associated with the exchange under this section, including the
+        costs of compliance with the National Environmental Policy Act
+        of 1969 (42 U.S.C. 4321 et seq.), the costs of any surveys, and
+        other reasonable costs.
+          "(E) Land to be part of wilderness. - The land underlying any
+        easement relinquished to the United States under this section
+        that is adjacent to designated wilderness is hereby designated
+        as wilderness and added to the Denali Wilderness, the
+        boundaries of which are modified accordingly, and shall be
+        managed in accordance with applicable provisions of the
+        Wilderness Act (78 Stat. 892) [16 U.S.C. 1131 et seq.] and the
+        Alaska National Interest Lands Conservation Act of 1980 (94
+        Stat. 2371) [see Tables for classification].
+          "(F) Other terms and conditions. - The Secretary shall
+        require any additional terms and conditions under this section
+        that the Secretary determines to be appropriate to protect the
+        interests of the United States and of Denali National Park."
+
 -FOOTNOTE-               
 
     (!1) See References in Text note below.
@@ -35014,7 +35132,7 @@
 
 
 -CITE-
-    45 USC Sec. 1204                                            01/08/2008
+    45 USC Sec. 1204                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -35156,7 +35274,7 @@
 
 
 -CITE-
-    45 USC Sec. 1205                                            01/08/2008
+    45 USC Sec. 1205                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -35357,7 +35475,7 @@
 
 
 -CITE-
-    45 USC Sec. 1206                                            01/08/2008
+    45 USC Sec. 1206                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -35546,7 +35664,7 @@
 
 
 -CITE-
-    45 USC Sec. 1207                                            01/08/2008
+    45 USC Sec. 1207                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -35781,7 +35899,7 @@
 
 
 -CITE-
-    45 USC Sec. 1208                                            01/08/2008
+    45 USC Sec. 1208                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -35863,7 +35981,7 @@
 
 
 -CITE-
-    45 USC Sec. 1209                                            01/08/2008
+    45 USC Sec. 1209                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -35884,7 +36002,7 @@
 
 
 -CITE-
-    45 USC Sec. 1210                                            01/08/2008
+    45 USC Sec. 1210                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -35937,7 +36055,7 @@
 
 
 -CITE-
-    45 USC Sec. 1211                                            01/08/2008
+    45 USC Sec. 1211                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -35966,7 +36084,7 @@
 
 
 -CITE-
-    45 USC Sec. 1212                                            01/08/2008
+    45 USC Sec. 1212                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -36146,7 +36264,7 @@
 
 
 -CITE-
-    45 USC Sec. 1213                                            01/08/2008
+    45 USC Sec. 1213                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -36167,7 +36285,7 @@
 
 
 -CITE-
-    45 USC Sec. 1214                                            01/08/2008
+    45 USC Sec. 1214                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -36189,7 +36307,7 @@
 
 
 -CITE-
-    45 USC CHAPTER 22 - CONRAIL PRIVATIZATION                   01/08/2008
+    45 USC CHAPTER 22 - CONRAIL PRIVATIZATION                   01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -36232,7 +36350,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/08/2008
+    45 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -36247,7 +36365,7 @@
 
 
 -CITE-
-    45 USC Sec. 1301                                            01/08/2008
+    45 USC Sec. 1301                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -36339,7 +36457,7 @@
 
 
 -CITE-
-    45 USC Sec. 1302                                            01/08/2008
+    45 USC Sec. 1302                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -36368,7 +36486,7 @@
 
 
 -CITE-
-    45 USC Sec. 1303                                            01/08/2008
+    45 USC Sec. 1303                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -36500,7 +36618,7 @@
 
 
 -CITE-
-    45 USC SUBCHAPTER II - CONRAIL                              01/08/2008
+    45 USC SUBCHAPTER II - CONRAIL                              01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -36514,7 +36632,7 @@
 
 
 -CITE-
-    45 USC Part A - Sale of Conrail                             01/08/2008
+    45 USC Part A - Sale of Conrail                             01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -36530,7 +36648,7 @@
 
 
 -CITE-
-    45 USC Sec. 1311                                            01/08/2008
+    45 USC Sec. 1311                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -36602,7 +36720,7 @@
 
 
 -CITE-
-    45 USC Sec. 1312                                            01/08/2008
+    45 USC Sec. 1312                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -36737,7 +36855,7 @@
 
 
 -CITE-
-    45 USC Sec. 1313                                            01/08/2008
+    45 USC Sec. 1313                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -36768,7 +36886,7 @@
 
 
 -CITE-
-    45 USC Part B - Other Matters Relating to Sale              01/08/2008
+    45 USC Part B - Other Matters Relating to Sale              01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -36784,7 +36902,7 @@
 
 
 -CITE-
-    45 USC Sec. 1321                                            01/08/2008
+    45 USC Sec. 1321                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -36902,7 +37020,7 @@
 
 
 -CITE-
-    45 USC Sec. 1322                                            01/08/2008
+    45 USC Sec. 1322                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -36987,7 +37105,7 @@
 
 
 -CITE-
-    45 USC Sec. 1323                                            01/08/2008
+    45 USC Sec. 1323                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -37120,7 +37238,7 @@
 
 
 -CITE-
-    45 USC Sec. 1324                                            01/08/2008
+    45 USC Sec. 1324                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -37175,7 +37293,7 @@
 
 
 -CITE-
-    45 USC Part C - Miscellaneous Provisions                    01/08/2008
+    45 USC Part C - Miscellaneous Provisions                    01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -37191,7 +37309,7 @@
 
 
 -CITE-
-    45 USC Sec. 1341                                            01/08/2008
+    45 USC Sec. 1341                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -37260,7 +37378,7 @@
 
 
 -CITE-
-    45 USC Sec. 1342                                            01/08/2008
+    45 USC Sec. 1342                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -37310,7 +37428,7 @@
 
 
 -CITE-
-    45 USC Sec. 1343                                            01/08/2008
+    45 USC Sec. 1343                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -37338,7 +37456,7 @@
 
 
 -CITE-
-    45 USC Sec. 1344                                            01/08/2008
+    45 USC Sec. 1344                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -37374,7 +37492,7 @@
 
 
 -CITE-
-    45 USC Sec. 1345                                            01/08/2008
+    45 USC Sec. 1345                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -37400,7 +37518,7 @@
 
 
 -CITE-
-    45 USC Sec. 1346                                            01/08/2008
+    45 USC Sec. 1346                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS
@@ -37480,7 +37598,7 @@
 
 
 -CITE-
-    45 USC Sec. 1347                                            01/08/2008
+    45 USC Sec. 1347                                            01/05/2009
 
 -EXPCITE-
     TITLE 45 - RAILROADS

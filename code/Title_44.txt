@@ -1,5 +1,5 @@
 -CITE-
-    44 USC TITLE 44 - PUBLIC PRINTING AND DOCUMENTS             01/08/2008
+    44 USC TITLE 44 - PUBLIC PRINTING AND DOCUMENTS             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -490,7 +490,7 @@
 
 
 -CITE-
-    44 USC CHAPTER 1 - JOINT COMMITTEE ON PRINTING              01/08/2008
+    44 USC CHAPTER 1 - JOINT COMMITTEE ON PRINTING              01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -517,7 +517,7 @@
 
 
 -CITE-
-    44 USC Sec. 101                                             01/08/2008
+    44 USC Sec. 101                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -561,6 +561,14 @@
 
 
 -MISC2-
+                       SHORT TITLE OF 2008 AMENDMENT                   
+      Pub. L. 110-404, Sec. 1, Oct. 13, 2008, 122 Stat. 4281, provided
+    that: "This Act [enacting section 2120 of this title, amending
+    sections 2112, 2501, and 2504 of this title, and enacting
+    provisions set out as notes under sections 2107, 2112, 2120, 2501,
+    2504, and 2505 of this title] may be cited as the 'Presidential
+    Historical Records Preservation Act of 2008'."
+
                        SHORT TITLE OF 2004 AMENDMENT                   
       Pub. L. 108-383, Sec. 1, Oct. 30, 2004, 118 Stat. 2218, provided
     that: "This Act [enacting section 2119 of this title, amending
@@ -701,7 +709,7 @@
 
 
 -CITE-
-    44 USC Sec. 102                                             01/08/2008
+    44 USC Sec. 102                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -740,7 +748,7 @@
 
 
 -CITE-
-    44 USC Sec. 103                                             01/08/2008
+    44 USC Sec. 103                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -796,7 +804,7 @@
 
 
 -CITE-
-    44 USC CHAPTER 3 - GOVERNMENT PRINTING OFFICE               01/08/2008
+    44 USC CHAPTER 3 - GOVERNMENT PRINTING OFFICE               01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -871,7 +879,7 @@
 
 
 -CITE-
-    44 USC Sec. 301                                             01/08/2008
+    44 USC Sec. 301                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -910,7 +918,7 @@
 
 
 -CITE-
-    44 USC Sec. 302                                             01/08/2008
+    44 USC Sec. 302                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -943,7 +951,7 @@
 
 
 -CITE-
-    44 USC Sec. 303                                             01/08/2008
+    44 USC Sec. 303                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -1033,7 +1041,7 @@
 
 
 -CITE-
-    44 USC Sec. 304                                             01/08/2008
+    44 USC Sec. 304                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -1072,7 +1080,7 @@
 
 
 -CITE-
-    44 USC Sec. 305                                             01/08/2008
+    44 USC Sec. 305                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -1295,7 +1303,7 @@
 
 
 -CITE-
-    44 USC Sec. 306                                             01/08/2008
+    44 USC Sec. 306                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -1324,7 +1332,7 @@
 
 
 -CITE-
-    44 USC Sec. 307                                             01/08/2008
+    44 USC Sec. 307                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -1352,7 +1360,7 @@
 
 
 -CITE-
-    44 USC Sec. 308                                             01/08/2008
+    44 USC Sec. 308                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -1488,7 +1496,7 @@
 
 
 -CITE-
-    44 USC Sec. 309                                             01/08/2008
+    44 USC Sec. 309                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -1661,7 +1669,7 @@
 
 
 -CITE-
-    44 USC Sec. 310                                             01/08/2008
+    44 USC Sec. 310                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -1697,7 +1705,7 @@
 
 
 -CITE-
-    44 USC Sec. 311                                             01/08/2008
+    44 USC Sec. 311                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -1779,7 +1787,7 @@
 
 
 -CITE-
-    44 USC Sec. 312                                             01/08/2008
+    44 USC Sec. 312                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -1814,7 +1822,7 @@
 
 
 -CITE-
-    44 USC Sec. 313                                             01/08/2008
+    44 USC Sec. 313                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -1855,7 +1863,7 @@
 
 
 -CITE-
-    44 USC Sec. 314                                             01/08/2008
+    44 USC Sec. 314                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -1885,7 +1893,7 @@
 
 
 -CITE-
-    44 USC Sec. 315                                             01/08/2008
+    44 USC Sec. 315                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -1915,7 +1923,7 @@
 
 
 -CITE-
-    44 USC Sec. 316                                             01/08/2008
+    44 USC Sec. 316                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -1945,7 +1953,7 @@
 
 
 -CITE-
-    44 USC Sec. 317                                             01/08/2008
+    44 USC Sec. 317                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -1979,7 +1987,7 @@
 
 
 -CITE-
-    44 USC Sec. 318                                             01/08/2008
+    44 USC Sec. 318                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2018,7 +2026,7 @@
 
 -CITE-
     44 USC CHAPTER 5 - PRODUCTION AND PROCUREMENT OF PRINTING
-           AND BINDING                                     01/08/2008
+           AND BINDING                                     01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2071,7 +2079,7 @@
 
 
 -CITE-
-    44 USC Sec. 501                                             01/08/2008
+    44 USC Sec. 501                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2210,9 +2218,9 @@
       Pub. L. 102-392, title II, Sec. 207(a), Oct. 6, 1992, 106 Stat.
     1719, as amended by Pub. L. 103-283, title II, Sec. 207, July 22,
     1994, 108 Stat. 1440; Pub. L. 104-201, div. A, title XI, Sec.
-    1112(e)(1), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 108-136, div.
-    A, title IX, Sec. 921(g), Nov. 24, 2003, 117 Stat. 1570, provided
-    that:
+    1112(e)(1), Sept. 23, 1996, 110 Stat. 2683; Pub. L. 110-417, [div.
+    A], title IX, Sec. 931(b)(4), Oct. 14, 2008, 122 Stat. 4575,
+    provided that:
       "(1) None of the funds appropriated for any fiscal year may be
     obligated or expended by any entity of the executive branch for the
     procurement of any printing related to the production of Government
@@ -2248,7 +2256,7 @@
 
 
 -CITE-
-    44 USC Sec. 502                                             01/08/2008
+    44 USC Sec. 502                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2316,7 +2324,7 @@
 
 
 -CITE-
-    44 USC Sec. 503                                             01/08/2008
+    44 USC Sec. 503                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2359,7 +2367,7 @@
 
 
 -CITE-
-    44 USC Sec. 504                                             01/08/2008
+    44 USC Sec. 504                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2393,7 +2401,7 @@
 
 
 -CITE-
-    44 USC Sec. 505                                             01/08/2008
+    44 USC Sec. 505                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2438,7 +2446,7 @@
 
 
 -CITE-
-    44 USC Sec. 506                                             01/08/2008
+    44 USC Sec. 506                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2469,7 +2477,7 @@
 
 
 -CITE-
-    44 USC Sec. 507                                             01/08/2008
+    44 USC Sec. 507                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2500,7 +2508,7 @@
 
 
 -CITE-
-    44 USC Sec. 508                                             01/08/2008
+    44 USC Sec. 508                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2530,7 +2538,7 @@
 
 
 -CITE-
-    44 USC Sec. 509                                             01/08/2008
+    44 USC Sec. 509                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2641,7 +2649,7 @@
 
 
 -CITE-
-    44 USC Sec. 510                                             01/08/2008
+    44 USC Sec. 510                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2672,7 +2680,7 @@
 
 
 -CITE-
-    44 USC Sec. 511                                             01/08/2008
+    44 USC Sec. 511                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2715,7 +2723,7 @@
 
 
 -CITE-
-    44 USC Sec. 512                                             01/08/2008
+    44 USC Sec. 512                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2746,7 +2754,7 @@
 
 
 -CITE-
-    44 USC Sec. 513                                             01/08/2008
+    44 USC Sec. 513                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2780,7 +2788,7 @@
 
 
 -CITE-
-    44 USC Sec. 514                                             01/08/2008
+    44 USC Sec. 514                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2810,7 +2818,7 @@
 
 
 -CITE-
-    44 USC Sec. 515                                             01/08/2008
+    44 USC Sec. 515                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2847,7 +2855,7 @@
 
 
 -CITE-
-    44 USC Sec. 516                                             01/08/2008
+    44 USC Sec. 516                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2882,7 +2890,7 @@
 
 
 -CITE-
-    44 USC Sec. 517                                             01/08/2008
+    44 USC Sec. 517                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2911,7 +2919,7 @@
 
 
 -CITE-
-    44 USC CHAPTER 7 - CONGRESSIONAL PRINTING AND BINDING       01/08/2008
+    44 USC CHAPTER 7 - CONGRESSIONAL PRINTING AND BINDING       01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -2997,7 +3005,7 @@
 
 
 -CITE-
-    44 USC Sec. 701                                             01/08/2008
+    44 USC Sec. 701                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3147,7 +3155,7 @@
 
 
 -CITE-
-    44 USC Sec. 702                                             01/08/2008
+    44 USC Sec. 702                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3176,7 +3184,7 @@
 
 
 -CITE-
-    44 USC Sec. 703                                             01/08/2008
+    44 USC Sec. 703                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3228,7 +3236,7 @@
 
 
 -CITE-
-    44 USC Sec. 704                                             01/08/2008
+    44 USC Sec. 704                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3263,7 +3271,7 @@
 
 
 -CITE-
-    44 USC Sec. 705                                             01/08/2008
+    44 USC Sec. 705                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3291,7 +3299,7 @@
 
 
 -CITE-
-    44 USC Sec. 706                                             01/08/2008
+    44 USC Sec. 706                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3356,7 +3364,7 @@
 
 
 -CITE-
-    44 USC Sec. 707                                             01/08/2008
+    44 USC Sec. 707                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3389,7 +3397,7 @@
 
 
 -CITE-
-    44 USC Sec. 708                                             01/08/2008
+    44 USC Sec. 708                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3419,7 +3427,7 @@
 
 
 -CITE-
-    44 USC Sec. 709                                             01/08/2008
+    44 USC Sec. 709                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3450,7 +3458,7 @@
 
 
 -CITE-
-    44 USC Sec. 710                                             01/08/2008
+    44 USC Sec. 710                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3490,7 +3498,7 @@
 
 
 -CITE-
-    44 USC Sec. 711                                             01/08/2008
+    44 USC Sec. 711                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3534,7 +3542,7 @@
 
 
 -CITE-
-    44 USC Sec. 712                                             01/08/2008
+    44 USC Sec. 712                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3576,7 +3584,7 @@
 
 
 -CITE-
-    44 USC Sec. 713                                             01/08/2008
+    44 USC Sec. 713                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3634,7 +3642,7 @@
 
 
 -CITE-
-    44 USC Sec. 714                                             01/08/2008
+    44 USC Sec. 714                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3670,7 +3678,7 @@
 
 
 -CITE-
-    44 USC Sec. 715                                             01/08/2008
+    44 USC Sec. 715                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3699,7 +3707,7 @@
 
 
 -CITE-
-    44 USC Sec. 716                                             01/08/2008
+    44 USC Sec. 716                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3733,7 +3741,7 @@
 
 
 -CITE-
-    44 USC Sec. 717                                             01/08/2008
+    44 USC Sec. 717                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3766,7 +3774,7 @@
 
 
 -CITE-
-    44 USC Sec. 718                                             01/08/2008
+    44 USC Sec. 718                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3798,7 +3806,7 @@
 
 
 -CITE-
-    44 USC Sec. 719                                             01/08/2008
+    44 USC Sec. 719                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3853,7 +3861,7 @@
 
 
 -CITE-
-    44 USC Sec. 720                                             01/08/2008
+    44 USC Sec. 720                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3881,7 +3889,7 @@
 
 
 -CITE-
-    44 USC Sec. 721                                             01/08/2008
+    44 USC Sec. 721                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3934,7 +3942,7 @@
 
 
 -CITE-
-    44 USC Sec. 722                                             01/08/2008
+    44 USC Sec. 722                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -3965,7 +3973,7 @@
 
 
 -CITE-
-    44 USC Sec. 723                                             01/08/2008
+    44 USC Sec. 723                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4051,7 +4059,7 @@
 
 
 -CITE-
-    44 USC Sec. 724                                             01/08/2008
+    44 USC Sec. 724                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4082,7 +4090,7 @@
 
 
 -CITE-
-    44 USC Sec. 725                                             01/08/2008
+    44 USC Sec. 725                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4110,7 +4118,7 @@
 
 
 -CITE-
-    44 USC Sec. 726                                             01/08/2008
+    44 USC Sec. 726                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4140,7 +4148,7 @@
 
 
 -CITE-
-    44 USC Sec. 727                                             01/08/2008
+    44 USC Sec. 727                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4171,7 +4179,7 @@
 
 
 -CITE-
-    44 USC Sec. 728                                             01/08/2008
+    44 USC Sec. 728                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4221,7 +4229,7 @@
 
 
 -CITE-
-    44 USC Sec. 729                                             01/08/2008
+    44 USC Sec. 729                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4266,7 +4274,7 @@
 
 
 -CITE-
-    44 USC Sec. 730                                             01/08/2008
+    44 USC Sec. 730                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4321,7 +4329,7 @@
 
 
 -CITE-
-    44 USC Sec. 731                                             01/08/2008
+    44 USC Sec. 731                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4361,7 +4369,7 @@
 
 
 -CITE-
-    44 USC Sec. 732                                             01/08/2008
+    44 USC Sec. 732                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4392,7 +4400,7 @@
 
 
 -CITE-
-    44 USC Sec. 733                                             01/08/2008
+    44 USC Sec. 733                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4478,7 +4486,7 @@
 
 
 -CITE-
-    44 USC Sec. 734                                             01/08/2008
+    44 USC Sec. 734                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4530,7 +4538,7 @@
 
 
 -CITE-
-    44 USC Sec. 735                                             01/08/2008
+    44 USC Sec. 735                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4578,7 +4586,7 @@
 
 
 -CITE-
-    44 USC Sec. 736                                             01/08/2008
+    44 USC Sec. 736                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4607,7 +4615,7 @@
 
 
 -CITE-
-    44 USC Sec. 737                                             01/08/2008
+    44 USC Sec. 737                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4635,7 +4643,7 @@
 
 
 -CITE-
-    44 USC Sec. 738                                             01/08/2008
+    44 USC Sec. 738                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4671,7 +4679,7 @@
 
 
 -CITE-
-    44 USC Sec. 739                                             01/08/2008
+    44 USC Sec. 739                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4708,7 +4716,7 @@
 
 
 -CITE-
-    44 USC Sec. 740                                             01/08/2008
+    44 USC Sec. 740                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4755,7 +4763,7 @@
 
 
 -CITE-
-    44 USC Sec. 741                                             01/08/2008
+    44 USC Sec. 741                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4821,7 +4829,7 @@
 
 
 -CITE-
-    44 USC CHAPTER 9 - CONGRESSIONAL RECORD                     01/08/2008
+    44 USC CHAPTER 9 - CONGRESSIONAL RECORD                     01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4871,7 +4879,7 @@
 
 
 -CITE-
-    44 USC Sec. 901                                             01/08/2008
+    44 USC Sec. 901                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4903,7 +4911,7 @@
 
 
 -CITE-
-    44 USC Sec. 902                                             01/08/2008
+    44 USC Sec. 902                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -4968,7 +4976,7 @@
 
 
 -CITE-
-    44 USC Sec. 903                                             01/08/2008
+    44 USC Sec. 903                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -5003,7 +5011,7 @@
 
 
 -CITE-
-    44 USC Sec. 904                                             01/08/2008
+    44 USC Sec. 904                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -5031,7 +5039,7 @@
 
 
 -CITE-
-    44 USC Sec. 905                                             01/08/2008
+    44 USC Sec. 905                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -5064,7 +5072,7 @@
 
 
 -CITE-
-    44 USC Sec. 906                                             01/08/2008
+    44 USC Sec. 906                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -5429,7 +5437,7 @@
 
 
 -CITE-
-    44 USC Sec. 907                                             01/08/2008
+    44 USC Sec. 907                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -5502,7 +5510,7 @@
 
 
 -CITE-
-    44 USC Sec. 908                                             01/08/2008
+    44 USC Sec. 908                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -5543,7 +5551,7 @@
 
 
 -CITE-
-    44 USC Sec. 909                                             01/08/2008
+    44 USC Sec. 909                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -5575,7 +5583,7 @@
 
 
 -CITE-
-    44 USC Sec. 910                                             01/08/2008
+    44 USC Sec. 910                                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -5627,7 +5635,7 @@
 
 -CITE-
     44 USC CHAPTER 11 - EXECUTIVE AND JUDICIARY PRINTING AND
-           BINDING                                         01/08/2008
+           BINDING                                         01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -5692,7 +5700,7 @@
 
 
 -CITE-
-    44 USC Sec. 1101                                            01/08/2008
+    44 USC Sec. 1101                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -5724,7 +5732,7 @@
 
 
 -CITE-
-    44 USC Sec. 1102                                            01/08/2008
+    44 USC Sec. 1102                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -5767,7 +5775,7 @@
 
 
 -CITE-
-    44 USC Sec. 1103                                            01/08/2008
+    44 USC Sec. 1103                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -5815,7 +5823,7 @@
 
 
 -CITE-
-    44 USC Sec. 1104                                            01/08/2008
+    44 USC Sec. 1104                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -5852,7 +5860,7 @@
 
 
 -CITE-
-    44 USC Sec. 1105                                            01/08/2008
+    44 USC Sec. 1105                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -5882,7 +5890,7 @@
 
 
 -CITE-
-    44 USC Sec. 1106                                            01/08/2008
+    44 USC Sec. 1106                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -5914,7 +5922,7 @@
 
 
 -CITE-
-    44 USC Sec. 1107                                            01/08/2008
+    44 USC Sec. 1107                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -5960,7 +5968,7 @@
 
 
 -CITE-
-    44 USC Sec. 1108                                            01/08/2008
+    44 USC Sec. 1108                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6019,7 +6027,7 @@
 
 
 -CITE-
-    44 USC Sec. 1109                                            01/08/2008
+    44 USC Sec. 1109                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6056,7 +6064,7 @@
 
 
 -CITE-
-    44 USC Sec. 1110                                            01/08/2008
+    44 USC Sec. 1110                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6099,7 +6107,7 @@
 
 
 -CITE-
-    44 USC Sec. 1111                                            01/08/2008
+    44 USC Sec. 1111                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6158,7 +6166,7 @@
 
 
 -CITE-
-    44 USC Sec. 1112                                            01/08/2008
+    44 USC Sec. 1112                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6187,7 +6195,7 @@
 
 
 -CITE-
-    44 USC Sec. 1113                                            01/08/2008
+    44 USC Sec. 1113                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6221,7 +6229,7 @@
 
 
 -CITE-
-    44 USC Sec. 1114                                            01/08/2008
+    44 USC Sec. 1114                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6274,7 +6282,7 @@
 
 
 -CITE-
-    44 USC Sec. 1115                                            01/08/2008
+    44 USC Sec. 1115                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6308,7 +6316,7 @@
 
 
 -CITE-
-    44 USC Sec. 1116                                            01/08/2008
+    44 USC Sec. 1116                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6345,7 +6353,7 @@
 
 
 -CITE-
-    44 USC Sec. 1117                                            01/08/2008
+    44 USC Sec. 1117                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6383,7 +6391,7 @@
 
 
 -CITE-
-    44 USC Sec. 1118                                            01/08/2008
+    44 USC Sec. 1118                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6412,7 +6420,7 @@
 
 
 -CITE-
-    44 USC Sec. 1119                                            01/08/2008
+    44 USC Sec. 1119                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6448,7 +6456,7 @@
 
 
 -CITE-
-    44 USC Sec. 1120                                            01/08/2008
+    44 USC Sec. 1120                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6479,7 +6487,7 @@
 
 
 -CITE-
-    44 USC Sec. 1121                                            01/08/2008
+    44 USC Sec. 1121                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6514,7 +6522,7 @@
 
 
 -CITE-
-    44 USC Sec. 1122                                            01/08/2008
+    44 USC Sec. 1122                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6550,7 +6558,7 @@
 
 
 -CITE-
-    44 USC Sec. 1123                                            01/08/2008
+    44 USC Sec. 1123                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6596,7 +6604,7 @@
 
 
 -CITE-
-    44 USC CHAPTER 13 - PARTICULAR REPORTS AND DOCUMENTS        01/08/2008
+    44 USC CHAPTER 13 - PARTICULAR REPORTS AND DOCUMENTS        01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6666,9 +6674,10 @@
     1344.       Treasury Department: reports.                         
 
                                 AMENDMENTS                            
-      2003 - Pub. L. 108-136, div. A, title IX, Sec. 921(g), Nov. 24,
-    2003, 117 Stat. 1570, substituted "National Geospatial-Intelligence
-    Agency" for "National Imagery and Mapping Agency" in item 1336.
+      2008 - Pub. L. 110-417, [div. A], title IX, Sec. 931(a)(2), Oct.
+    14, 2008, 122 Stat. 4575, substituted "National Geospatial-
+    Intelligence Agency" for "National Imagery and Mapping Agency" in
+    item 1336.
       2000 - Pub. L. 106-181, title VI, Sec. 606(d), Apr. 5, 2000, 114
     Stat. 154, struck out "and aeronautical" after "nautical" in item
     1307.
@@ -6709,7 +6718,7 @@
 
 
 -CITE-
-    44 USC Sec. 1301                                            01/08/2008
+    44 USC Sec. 1301                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6765,7 +6774,7 @@
 
 
 -CITE-
-    44 USC Sec. 1302                                            01/08/2008
+    44 USC Sec. 1302                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6799,7 +6808,7 @@
 
 
 -CITE-
-    44 USC Sec. 1303                                            01/08/2008
+    44 USC Sec. 1303                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6830,7 +6839,7 @@
 
 
 -CITE-
-    44 USC Sec. 1304                                            01/08/2008
+    44 USC Sec. 1304                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6858,7 +6867,7 @@
 
 
 -CITE-
-    44 USC Sec. 1305                                            01/08/2008
+    44 USC Sec. 1305                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6890,7 +6899,7 @@
 
 
 -CITE-
-    44 USC Sec. 1306                                            01/08/2008
+    44 USC Sec. 1306                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -6938,7 +6947,7 @@
 
 
 -CITE-
-    44 USC Sec. 1307                                            01/08/2008
+    44 USC Sec. 1307                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7129,7 +7138,7 @@
 
 
 -CITE-
-    44 USC Sec. 1308                                            01/08/2008
+    44 USC Sec. 1308                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7186,7 +7195,7 @@
 
 
 -CITE-
-    44 USC Sec. 1309                                            01/08/2008
+    44 USC Sec. 1309                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7243,7 +7252,7 @@
 
 
 -CITE-
-    44 USC Sec. 1310                                            01/08/2008
+    44 USC Sec. 1310                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7305,7 +7314,7 @@
 
 
 -CITE-
-    44 USC Sec. 1311                                            01/08/2008
+    44 USC Sec. 1311                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7326,7 +7335,7 @@
 
 
 -CITE-
-    44 USC Sec. 1312                                            01/08/2008
+    44 USC Sec. 1312                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7358,7 +7367,7 @@
 
 
 -CITE-
-    44 USC Sec. 1313                                            01/08/2008
+    44 USC Sec. 1313                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7394,7 +7403,7 @@
 
 
 -CITE-
-    44 USC Sec. 1314                                            01/08/2008
+    44 USC Sec. 1314                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7438,7 +7447,7 @@
 
 
 -CITE-
-    44 USC Sec. 1315                                            01/08/2008
+    44 USC Sec. 1315                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7477,7 +7486,7 @@
 
 
 -CITE-
-    44 USC Sec. 1316                                            01/08/2008
+    44 USC Sec. 1316                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7517,7 +7526,7 @@
 
 
 -CITE-
-    44 USC Sec. 1317                                            01/08/2008
+    44 USC Sec. 1317                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7572,7 +7581,7 @@
 
 
 -CITE-
-    44 USC Sec. 1318                                            01/08/2008
+    44 USC Sec. 1318                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7642,7 +7651,7 @@
 
 
 -CITE-
-    44 USC Sec. 1319                                            01/08/2008
+    44 USC Sec. 1319                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7681,7 +7690,7 @@
 
 
 -CITE-
-    44 USC Sec. 1320                                            01/08/2008
+    44 USC Sec. 1320                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7718,7 +7727,7 @@
 
 
 -CITE-
-    44 USC Sec. 1320A                                           01/08/2008
+    44 USC Sec. 1320A                                           01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7753,7 +7762,7 @@
 
 
 -CITE-
-    44 USC Sec. 1321                                            01/08/2008
+    44 USC Sec. 1321                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7786,7 +7795,7 @@
 
 
 -CITE-
-    44 USC Sec. 1322                                            01/08/2008
+    44 USC Sec. 1322                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7825,7 +7834,7 @@
 
 
 -CITE-
-    44 USC Sec. 1323                                            01/08/2008
+    44 USC Sec. 1323                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7870,7 +7879,7 @@
 
 
 -CITE-
-    44 USC Sec. 1324                                            01/08/2008
+    44 USC Sec. 1324                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7903,7 +7912,7 @@
 
 
 -CITE-
-    44 USC Sec. 1325                                            01/08/2008
+    44 USC Sec. 1325                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7934,7 +7943,7 @@
 
 
 -CITE-
-    44 USC Sec. 1326                                            01/08/2008
+    44 USC Sec. 1326                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -7962,7 +7971,7 @@
 
 
 -CITE-
-    44 USC Sec. 1327                                            01/08/2008
+    44 USC Sec. 1327                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8002,7 +8011,7 @@
 
 
 -CITE-
-    44 USC Sec. 1328                                            01/08/2008
+    44 USC Sec. 1328                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8049,7 +8058,7 @@
 
 
 -CITE-
-    44 USC Sec. 1329                                            01/08/2008
+    44 USC Sec. 1329                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8080,7 +8089,7 @@
 
 
 -CITE-
-    44 USC Sec. 1330                                            01/08/2008
+    44 USC Sec. 1330                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8113,7 +8122,7 @@
 
 
 -CITE-
-    44 USC Sec. 1331                                            01/08/2008
+    44 USC Sec. 1331                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8143,7 +8152,7 @@
 
 
 -CITE-
-    44 USC Sec. 1332                                            01/08/2008
+    44 USC Sec. 1332                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8186,7 +8195,7 @@
 
 
 -CITE-
-    44 USC Sec. 1333                                            01/08/2008
+    44 USC Sec. 1333                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8231,7 +8240,7 @@
 
 
 -CITE-
-    44 USC Sec. 1334                                            01/08/2008
+    44 USC Sec. 1334                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8262,7 +8271,7 @@
 
 
 -CITE-
-    44 USC Sec. 1335                                            01/08/2008
+    44 USC Sec. 1335                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8295,7 +8304,7 @@
 
 
 -CITE-
-    44 USC Sec. 1336                                            01/08/2008
+    44 USC Sec. 1336                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8315,8 +8324,8 @@
 -SOURCE-
     (Pub. L. 90-620, Oct. 22, 1968, 82 Stat. 1271; Pub. L. 104-201,
     div. A, title XI, Secs. 1112(e)(2), 1123(b)(1), Sept. 23, 1996, 110
-    Stat. 2684, 2688; Pub. L. 108-136, div. A, title IX, Sec. 921(g),
-    Nov. 24, 2003, 117 Stat. 1570.)
+    Stat. 2684, 2688; Pub. L. 110-417, [div. A], title IX, Sec.
+    931(a)(2), Oct. 14, 2008, 122 Stat. 4575.)
 
 
 -MISC1-
@@ -8330,7 +8339,7 @@
     sections 1102, 1116, 1302, 1308, 1309, 1310, of the revision.
 
                                 AMENDMENTS                            
-      2003 - Pub. L. 108-136 substituted "National Geospatial-
+      2008 - Pub. L. 110-417 substituted "National Geospatial-
     Intelligence Agency" for "National Imagery and Mapping Agency" in
     section catchline and two places in text.
       1996 - Pub. L. 104-201, Sec. 1123(b)(1), substituted "National
@@ -8351,7 +8360,7 @@
 
 
 -CITE-
-    44 USC Secs. 1337, 1338                                     01/08/2008
+    44 USC Secs. 1337, 1338                                     01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8382,7 +8391,7 @@
 
 
 -CITE-
-    44 USC Sec. 1339                                            01/08/2008
+    44 USC Sec. 1339                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8419,7 +8428,7 @@
 
 
 -CITE-
-    44 USC Sec. 1340                                            01/08/2008
+    44 USC Sec. 1340                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8447,7 +8456,7 @@
 
 
 -CITE-
-    44 USC Sec. 1341                                            01/08/2008
+    44 USC Sec. 1341                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8477,7 +8486,7 @@
 
 
 -CITE-
-    44 USC Sec. 1342                                            01/08/2008
+    44 USC Sec. 1342                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8497,7 +8506,7 @@
 
 
 -CITE-
-    44 USC Sec. 1343                                            01/08/2008
+    44 USC Sec. 1343                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8529,7 +8538,7 @@
 
 
 -CITE-
-    44 USC Sec. 1344                                            01/08/2008
+    44 USC Sec. 1344                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8563,7 +8572,7 @@
 
 -CITE-
     44 USC CHAPTER 15 - FEDERAL REGISTER AND CODE OF FEDERAL
-           REGULATIONS                                     01/08/2008
+           REGULATIONS                                     01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8610,7 +8619,7 @@
 
 
 -CITE-
-    44 USC Sec. 1501                                            01/08/2008
+    44 USC Sec. 1501                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8660,7 +8669,7 @@
 
 
 -CITE-
-    44 USC Sec. 1502                                            01/08/2008
+    44 USC Sec. 1502                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8706,7 +8715,7 @@
 
 
 -CITE-
-    44 USC Sec. 1503                                            01/08/2008
+    44 USC Sec. 1503                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8782,7 +8791,7 @@
 
 
 -CITE-
-    44 USC Sec. 1504                                            01/08/2008
+    44 USC Sec. 1504                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -8831,7 +8840,7 @@
 
 
 -CITE-
-    44 USC Sec. 1505                                            01/08/2008
+    44 USC Sec. 1505                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9020,7 +9029,7 @@
 
 
 -CITE-
-    44 USC Sec. 1506                                            01/08/2008
+    44 USC Sec. 1506                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9100,7 +9109,7 @@
 
 
 -CITE-
-    44 USC Sec. 1507                                            01/08/2008
+    44 USC Sec. 1507                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9153,7 +9162,7 @@
 
 
 -CITE-
-    44 USC Sec. 1508                                            01/08/2008
+    44 USC Sec. 1508                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9195,7 +9204,7 @@
 
 
 -CITE-
-    44 USC Sec. 1509                                            01/08/2008
+    44 USC Sec. 1509                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9257,7 +9266,7 @@
 
 
 -CITE-
-    44 USC Sec. 1510                                            01/08/2008
+    44 USC Sec. 1510                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9359,7 +9368,7 @@
 
 
 -CITE-
-    44 USC Sec. 1511                                            01/08/2008
+    44 USC Sec. 1511                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9388,7 +9397,7 @@
 
 -CITE-
     44 USC CHAPTER 17 - DISTRIBUTION AND SALE OF PUBLIC
-           DOCUMENTS                                       01/08/2008
+           DOCUMENTS                                       01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9448,7 +9457,7 @@
 
 
 -CITE-
-    44 USC Sec. 1701                                            01/08/2008
+    44 USC Sec. 1701                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9504,7 +9513,7 @@
 
 
 -CITE-
-    44 USC Sec. 1702                                            01/08/2008
+    44 USC Sec. 1702                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9557,7 +9566,7 @@
 
 
 -CITE-
-    44 USC Sec. 1703                                            01/08/2008
+    44 USC Sec. 1703                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9594,7 +9603,7 @@
 
 
 -CITE-
-    44 USC Sec. 1704                                            01/08/2008
+    44 USC Sec. 1704                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9626,7 +9635,7 @@
 
 
 -CITE-
-    44 USC Sec. 1705                                            01/08/2008
+    44 USC Sec. 1705                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9659,7 +9668,7 @@
 
 
 -CITE-
-    44 USC Sec. 1706                                            01/08/2008
+    44 USC Sec. 1706                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9691,7 +9700,7 @@
 
 
 -CITE-
-    44 USC Sec. 1707                                            01/08/2008
+    44 USC Sec. 1707                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9727,7 +9736,7 @@
 
 
 -CITE-
-    44 USC Sec. 1708                                            01/08/2008
+    44 USC Sec. 1708                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9795,7 +9804,7 @@
 
 
 -CITE-
-    44 USC Sec. 1709                                            01/08/2008
+    44 USC Sec. 1709                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9823,7 +9832,7 @@
 
 
 -CITE-
-    44 USC Sec. 1710                                            01/08/2008
+    44 USC Sec. 1710                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9865,7 +9874,7 @@
 
 
 -CITE-
-    44 USC Sec. 1711                                            01/08/2008
+    44 USC Sec. 1711                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9895,7 +9904,7 @@
 
 
 -CITE-
-    44 USC Sec. 1712                                            01/08/2008
+    44 USC Sec. 1712                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9924,7 +9933,7 @@
 
 
 -CITE-
-    44 USC Sec. 1713                                            01/08/2008
+    44 USC Sec. 1713                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -9952,7 +9961,7 @@
 
 
 -CITE-
-    44 USC Sec. 1714                                            01/08/2008
+    44 USC Sec. 1714                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10013,7 +10022,7 @@
 
 
 -CITE-
-    44 USC Sec. 1715                                            01/08/2008
+    44 USC Sec. 1715                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10051,7 +10060,7 @@
 
 
 -CITE-
-    44 USC Sec. 1716                                            01/08/2008
+    44 USC Sec. 1716                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10082,7 +10091,7 @@
 
 
 -CITE-
-    44 USC Sec. 1717                                            01/08/2008
+    44 USC Sec. 1717                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10113,7 +10122,7 @@
 
 
 -CITE-
-    44 USC Sec. 1718                                            01/08/2008
+    44 USC Sec. 1718                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10181,7 +10190,7 @@
 
 
 -CITE-
-    44 USC Sec. 1719                                            01/08/2008
+    44 USC Sec. 1719                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10281,7 +10290,7 @@
 
 
 -CITE-
-    44 USC Sec. 1720                                            01/08/2008
+    44 USC Sec. 1720                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10311,7 +10320,7 @@
 
 
 -CITE-
-    44 USC Sec. 1721                                            01/08/2008
+    44 USC Sec. 1721                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10339,7 +10348,7 @@
 
 
 -CITE-
-    44 USC Sec. 1722                                            01/08/2008
+    44 USC Sec. 1722                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10371,7 +10380,7 @@
 
 
 -CITE-
-    44 USC CHAPTER 19 - DEPOSITORY LIBRARY PROGRAM              01/08/2008
+    44 USC CHAPTER 19 - DEPOSITORY LIBRARY PROGRAM              01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10435,7 +10444,7 @@
 
 
 -CITE-
-    44 USC Sec. 1901                                            01/08/2008
+    44 USC Sec. 1901                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10463,7 +10472,7 @@
 
 
 -CITE-
-    44 USC Sec. 1902                                            01/08/2008
+    44 USC Sec. 1902                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10500,7 +10509,7 @@
 
 
 -CITE-
-    44 USC Sec. 1903                                            01/08/2008
+    44 USC Sec. 1903                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10557,7 +10566,7 @@
 
 
 -CITE-
-    44 USC Sec. 1904                                            01/08/2008
+    44 USC Sec. 1904                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10592,7 +10601,7 @@
 
 
 -CITE-
-    44 USC Sec. 1905                                            01/08/2008
+    44 USC Sec. 1905                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10686,7 +10695,7 @@
 
 
 -CITE-
-    44 USC Sec. 1906                                            01/08/2008
+    44 USC Sec. 1906                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10717,7 +10726,7 @@
 
 
 -CITE-
-    44 USC Sec. 1907                                            01/08/2008
+    44 USC Sec. 1907                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10786,7 +10795,7 @@
 
 
 -CITE-
-    44 USC Sec. 1908                                            01/08/2008
+    44 USC Sec. 1908                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10818,7 +10827,7 @@
 
 
 -CITE-
-    44 USC Sec. 1909                                            01/08/2008
+    44 USC Sec. 1909                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10891,7 +10900,7 @@
 
 
 -CITE-
-    44 USC Sec. 1910                                            01/08/2008
+    44 USC Sec. 1910                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10926,7 +10935,7 @@
 
 
 -CITE-
-    44 USC Sec. 1911                                            01/08/2008
+    44 USC Sec. 1911                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -10966,7 +10975,7 @@
 
 
 -CITE-
-    44 USC Sec. 1912                                            01/08/2008
+    44 USC Sec. 1912                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -11018,7 +11027,7 @@
 
 
 -CITE-
-    44 USC Sec. 1913                                            01/08/2008
+    44 USC Sec. 1913                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -11049,7 +11058,7 @@
 
 
 -CITE-
-    44 USC Sec. 1914                                            01/08/2008
+    44 USC Sec. 1914                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -11079,7 +11088,7 @@
 
 
 -CITE-
-    44 USC Sec. 1915                                            01/08/2008
+    44 USC Sec. 1915                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -11103,7 +11112,7 @@
 
 
 -CITE-
-    44 USC Sec. 1916                                            01/08/2008
+    44 USC Sec. 1916                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -11149,7 +11158,7 @@
 
 -CITE-
     44 USC CHAPTER 21 - NATIONAL ARCHIVES AND RECORDS
-           ADMINISTRATION                                  01/08/2008
+           ADMINISTRATION                                  01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -11183,8 +11192,11 @@
     2117.       Limitation on liability.                              
     2118.       Records of Congress.                                  
     2119.       Cooperative agreements.                               
+    2120.       Online access of founding fathers documents.          
 
                                 AMENDMENTS                            
+      2008 - Pub. L. 110-404, Sec. 4(c), Oct. 13, 2008, 122 Stat. 4283,
+    added item 2120.
       2004 - Pub. L. 108-383, Sec. 5(b), Oct. 30, 2004, 118 Stat. 2219,
     added item 2119.
       1984 - Pub. L. 98-497, title I, Sec. 102(c)(1), Oct. 19, 1984, 98
@@ -11198,7 +11210,7 @@
 
 
 -CITE-
-    44 USC Sec. 2101                                            01/08/2008
+    44 USC Sec. 2101                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -11261,7 +11273,7 @@
 
 
 -CITE-
-    44 USC Sec. 2102                                            01/08/2008
+    44 USC Sec. 2102                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -11520,7 +11532,7 @@
 
 
 -CITE-
-    44 USC Sec. 2103                                            01/08/2008
+    44 USC Sec. 2103                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -11571,7 +11583,7 @@
 
 
 -CITE-
-    44 USC Sec. 2104                                            01/08/2008
+    44 USC Sec. 2104                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -11644,7 +11656,7 @@
 
 
 -CITE-
-    44 USC Sec. 2105                                            01/08/2008
+    44 USC Sec. 2105                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -11708,7 +11720,7 @@
 
 
 -CITE-
-    44 USC Sec. 2106                                            01/08/2008
+    44 USC Sec. 2106                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -11766,7 +11778,7 @@
 
 
 -CITE-
-    44 USC Sec. 2107                                            01/08/2008
+    44 USC Sec. 2107                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -11847,6 +11859,27 @@
     that: "This Act [amending provisions set out as a note below] may
     be cited as the 'President John F. Kennedy Assassination Records
     Collection Extension Act of 1994'."
+
+       NATIONAL DATABASE FOR RECORDS OF SERVITUDE, EMANCIPATION, AND
+                       POST-CIVIL WAR RECONSTRUCTION
+      Pub. L. 110-404, Sec. 7, Oct. 13, 2008, 122 Stat. 4285, provided
+    that:
+      "(a) In General. - The Archivist of the United States may
+    preserve relevant records and establish, as part of the National
+    Archives and Records Administration, an electronically searchable
+    national database consisting of historic records of servitude,
+    emancipation, and post-Civil War reconstruction, including the
+    Refugees, Freedman, and Abandoned Land Records, Southern Claims
+    Commission Records, Records of the Freedmen's Bank, Slave
+    Impressments Records, Slave Payroll Records, Slave Manifest, and
+    others, contained within the agencies and departments of the
+    Federal Government to assist African Americans and others in
+    conducting genealogical and historical research.
+      "(b) Maintenance. - Any database established under this section
+    shall be maintained by the National Archives and Records
+    Administration or an entity within the National Archives and
+    Records Administration designated by the Archivist of the United
+    States."
 
         PRESIDENT JOHN F. KENNEDY ASSASSINATION RECORDS COLLECTION    
       Pub. L. 102-526, Oct. 26, 1992, 106 Stat. 3443, as amended by
@@ -12749,7 +12782,7 @@
 
 
 -CITE-
-    44 USC Sec. 2108                                            01/08/2008
+    44 USC Sec. 2108                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -12872,7 +12905,7 @@
 
 
 -CITE-
-    44 USC Sec. 2109                                            01/08/2008
+    44 USC Sec. 2109                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -12991,7 +13024,7 @@
 
 
 -CITE-
-    44 USC Sec. 2110                                            01/08/2008
+    44 USC Sec. 2110                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -13034,7 +13067,7 @@
 
 
 -CITE-
-    44 USC Sec. 2111                                            01/08/2008
+    44 USC Sec. 2111                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -13279,7 +13312,7 @@
 
 
 -CITE-
-    44 USC Sec. 2112                                            01/08/2008
+    44 USC Sec. 2112                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -13539,7 +13572,7 @@
     takes the oath of office as President for the first time on or
     after July 1, 2002.
       (B) For purposes of subparagraphs (A)(ii), (B)(i)(II), and
-    (B)(ii)(II) of paragraph (3) the percentage of 40 percent shall
+    (B)(ii)(II) of paragraph (3) the percentage of 60 percent shall
     apply instead of 20 percent.
       (C)(i) In this subparagraph, the term "base endowment amount"
     means the amount of the endowment required under paragraph (3).
@@ -13582,7 +13615,8 @@
     19, 1984, 98 Stat. 2280, 2286; Pub. L. 99-323, Sec. 3, May 27,
     1986, 100 Stat. 495; Pub. L. 108-7, div. J, title V, Sec. 513, Feb.
     20, 2003, 117 Stat. 462; Pub. L. 108-383, Sec. 4(a), Oct. 30, 2004,
-    118 Stat. 2218.)
+    118 Stat. 2218; Pub. L. 110-404, Sec. 6(b), Oct. 13, 2008, 122
+    Stat. 4285.)
 
 
 -MISC1-
@@ -13597,6 +13631,8 @@
       A prior section 2112 was renumbered section 2116 of this title.
 
                                 AMENDMENTS                            
+      2008 - Subsec. (g)(5)(B). Pub. L. 110-404 substituted "60" for
+    "40".
       2004 - Subsec. (e). Pub. L. 108-383 substituted "space, or for
     the occasional, non-official use of rooms and spaces (and services
     related to such use)," for "space".
@@ -13652,6 +13688,34 @@
     beginning on or after Jan. 20, 1981, see section 3 of Pub. L. 95-
     591, set out as an Effective Date note under section 2201 of this
     title.
+
+      CAPITAL IMPROVEMENT PLAN FOR PRESIDENTIAL ARCHIVAL DEPOSITORIES  
+      Pub. L. 110-404, Sec. 6(a), Oct. 13, 2008, 122 Stat. 4284,
+    provided that:
+      "(1) Provision of plan. - The Archivist of the United States
+    shall provide to the Committee on Appropriations of the Senate and
+    the Committee on Appropriations of the House of Representatives a
+    10-year capital improvement plan, in accordance with paragraph (2),
+    for all Presidential archival depositories (as defined in section
+    2101 of title 44, United States Code), which shall include - 
+        "(A) a prioritization of all capital projects at Presidential
+      archival depositories that cost more than $1,000,000;
+        "(B) the current estimate of the cost of each capital project;
+      and
+        "(C) the basis upon which each cost estimate was developed.
+      "(2) Provided to congress. - The capital improvement plan shall
+    be provided to the committees, as described in paragraph (1), at
+    the same time as the first Budget of the United States Government
+    after the date of enactment of this Act [Oct. 13, 2008] is
+    submitted to Congress.
+      "(3) Annual updates and explanation of changes in cost estimates.
+    - The Archivist of the United States shall provide to the Committee
+    on Appropriations of the Senate and the Committee on Appropriations
+    of the House of Representatives - 
+        "(A) annual updates to the capital improvement plan described
+      in paragraph (1) at the same time as each subsequent Budget of
+      the United States Government is submitted to Congress; and
+        "(B) an explanation for any changes in cost estimates."
 
                       JOHN FITZGERALD KENNEDY LIBRARY                  
       Pub. L. 89-547, Aug. 27, 1966, 80 Stat. 370, provided: "That the
@@ -13709,7 +13773,7 @@
 
 
 -CITE-
-    44 USC Sec. 2113                                            01/08/2008
+    44 USC Sec. 2113                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -13758,7 +13822,7 @@
 
 
 -CITE-
-    44 USC Sec. 2114                                            01/08/2008
+    44 USC Sec. 2114                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -13810,7 +13874,7 @@
 
 
 -CITE-
-    44 USC Sec. 2115                                            01/08/2008
+    44 USC Sec. 2115                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -13862,7 +13926,7 @@
 
 
 -CITE-
-    44 USC Sec. 2116                                            01/08/2008
+    44 USC Sec. 2116                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -13944,7 +14008,7 @@
 
 
 -CITE-
-    44 USC Sec. 2117                                            01/08/2008
+    44 USC Sec. 2117                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -14004,7 +14068,7 @@
 
 
 -CITE-
-    44 USC Sec. 2118                                            01/08/2008
+    44 USC Sec. 2118                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -14047,7 +14111,7 @@
 
 
 -CITE-
-    44 USC Sec. 2119                                            01/08/2008
+    44 USC Sec. 2119                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -14095,8 +14159,59 @@
 -End-
 
 
+
 -CITE-
-    44 USC CHAPTER 22 - PRESIDENTIAL RECORDS                    01/08/2008
+    44 USC Sec. 2120                                            01/05/2009
+
+-EXPCITE-
+    TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
+    CHAPTER 21 - NATIONAL ARCHIVES AND RECORDS ADMINISTRATION
+
+-HEAD-
+    Sec. 2120. Online access of founding fathers documents
+
+-STATUTE-
+      The Archivist may enter into a cooperative agreement to provide
+    online access to the published volumes of the papers of - 
+        (1) George Washington;
+        (2) Alexander Hamilton;
+        (3) Thomas Jefferson;
+        (4) Benjamin Franklin;
+        (5) John Adams;
+        (6) James Madison; and
+        (7) other prominent historical figures, as determined
+      appropriate by the Archivist of the United States.
+
+-SOURCE-
+    (Added Pub. L. 110-404, Sec. 4(a), Oct. 13, 2008, 122 Stat. 4283.)
+
+
+-MISC1-
+                             TRANSFER OF FUNDS                         
+      Pub. L. 110-404, Sec. 4(b), Oct. 13, 2008, 122 Stat. 4283,
+    provided that:
+      "(1) In general. - The Archivist of the United States, in the
+    role as chairman of the National Historical Publications and
+    Records Commission may enter into cooperative agreements pursuant
+    to section 6305 of title 31, United States Code, that involve the
+    transfer of funds from the National Historical Publications and
+    Records Commission to State and local governments, tribal
+    governments, other public entities, educational institutions, or
+    private nonprofit organizations for the public purpose of carrying
+    out section 2120 of title 44, United States Codes [sic].
+      "(2) Report. - Not later than December 31st of each year, the
+    Archivist of the United States shall submit to the Committee on
+    Homeland Security and Governmental Affairs of the Senate and the
+    Committee on Oversight and Government Reform of the House of
+    Representatives a report on the provisions, amount, and duration of
+    each cooperative agreement entered into as authorized by paragraph
+    (1) during the preceding fiscal year."
+
+-End-
+
+
+-CITE-
+    44 USC CHAPTER 22 - PRESIDENTIAL RECORDS                    01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -14124,7 +14239,7 @@
 
 
 -CITE-
-    44 USC Sec. 2201                                            01/08/2008
+    44 USC Sec. 2201                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -14234,7 +14349,7 @@
 
 
 -CITE-
-    44 USC Sec. 2202                                            01/08/2008
+    44 USC Sec. 2202                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -14257,7 +14372,7 @@
 
 
 -CITE-
-    44 USC Sec. 2203                                            01/08/2008
+    44 USC Sec. 2203                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -14391,7 +14506,7 @@
 
 
 -CITE-
-    44 USC Sec. 2204                                            01/08/2008
+    44 USC Sec. 2204                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -14775,7 +14890,7 @@
 
 
 -CITE-
-    44 USC Sec. 2205                                            01/08/2008
+    44 USC Sec. 2205                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -14832,7 +14947,7 @@
 
 
 -CITE-
-    44 USC Sec. 2206                                            01/08/2008
+    44 USC Sec. 2206                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -14869,7 +14984,7 @@
 
 
 -CITE-
-    44 USC Sec. 2207                                            01/08/2008
+    44 USC Sec. 2207                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -14901,7 +15016,7 @@
 
 
 -CITE-
-    44 USC CHAPTER 23 - NATIONAL ARCHIVES TRUST FUND BOARD      01/08/2008
+    44 USC CHAPTER 23 - NATIONAL ARCHIVES TRUST FUND BOARD      01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -14939,7 +15054,7 @@
 
 
 -CITE-
-    44 USC Sec. 2301                                            01/08/2008
+    44 USC Sec. 2301                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -14997,7 +15112,7 @@
 
 
 -CITE-
-    44 USC Sec. 2302                                            01/08/2008
+    44 USC Sec. 2302                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -15066,7 +15181,7 @@
 
 
 -CITE-
-    44 USC Sec. 2303                                            01/08/2008
+    44 USC Sec. 2303                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -15106,7 +15221,7 @@
 
 
 -CITE-
-    44 USC Sec. 2304                                            01/08/2008
+    44 USC Sec. 2304                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -15165,7 +15280,7 @@
 
 
 -CITE-
-    44 USC Sec. 2305                                            01/08/2008
+    44 USC Sec. 2305                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -15210,7 +15325,7 @@
 
 
 -CITE-
-    44 USC Sec. 2306                                            01/08/2008
+    44 USC Sec. 2306                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -15246,7 +15361,7 @@
 
 
 -CITE-
-    44 USC Sec. 2307                                            01/08/2008
+    44 USC Sec. 2307                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -15318,7 +15433,7 @@
 
 
 -CITE-
-    44 USC Sec. 2308                                            01/08/2008
+    44 USC Sec. 2308                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -15345,7 +15460,7 @@
 
 -CITE-
     44 USC CHAPTER 25 - NATIONAL HISTORICAL PUBLICATIONS AND
-           RECORDS COMMISSION                              01/08/2008
+           RECORDS COMMISSION                              01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -15394,7 +15509,7 @@
 
 
 -CITE-
-    44 USC Sec. 2501                                            01/08/2008
+    44 USC Sec. 2501                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -15437,9 +15552,9 @@
       appointed by the President of the United States.
 
       (b)(1) The members appointed under subsection (a) shall be
-    appointed for terms of 4 years, except that - 
+    appointed for not more than 2 terms of 4 years, except that - 
         (A) a member appointed under subsection (a)(1)(D) shall be
-      appointed for a term of 2 years; and
+      appointed for not more than 4 terms of 2 years; and
         (B) the Archivist and the Librarian of Congress are permanent
       ex officio members.
 
@@ -15447,6 +15562,10 @@
     until a successor has been appointed, but not to exceed one year.
       (c) The Commission shall meet at least annually and at call of
     the Chairman.
+      (d) Recusal. - Members of the Commission shall recuse themselves
+    from voting on any matter that poses, or could potentially pose, a
+    conflict of interest, including a matter that could benefit them or
+    an entity they represent.
 
 -SOURCE-
     (Pub. L. 90-620, Oct. 22, 1968, 82 Stat. 1293; Pub. L. 92-546, Sec.
@@ -15454,7 +15573,8 @@
     22, 1974, 88 Stat. 1735; Pub. L. 96-98, Sec. 2(b), Nov. 1, 1979, 93
     Stat. 731; Pub. L. 98-497, title I, Sec. 107(b)(9), Oct. 19, 1984,
     98 Stat. 2287; Pub. L. 100-365, Sec. 2(a), July 13, 1988, 102 Stat.
-    823.)
+    823; Pub. L. 110-404, Sec. 3(a)(1), (b)(1), Oct. 13, 2008, 122
+    Stat. 4282.)
 
 
 -MISC1-
@@ -15468,6 +15588,12 @@
     sections 1506, 2102, 2301, and 2902 of the revision.
 
                                 AMENDMENTS                            
+      2008 - Subsec. (b)(1). Pub. L. 110-404, Sec. 3(a)(1)(A), inserted
+    "not more than 2" after "subsection (a) shall be appointed for" in
+    introductory provisions.
+      Subsec. (b)(1)(A). Pub. L. 110-404, Sec. 3(a)(1)(B), substituted
+    "not more than 4 terms" for "a term".
+      Subsec. (d). Pub. L. 110-404, Sec. 3(b)(1), added subsec. (d).
       1988 - Pub. L. 100-365 substituted "appointment and tenure;
     meetings" for "appointment and tenure" in section catchline, and
     amended text generally, revising and restating as subsecs. (a) to
@@ -15487,6 +15613,20 @@
     four years by Executive Board of Organization, one to be appointed
     for a term of two years and his successors for a term of four
     years.
+
+                     EFFECTIVE DATE OF 2008 AMENDMENT                 
+      Pub. L. 110-404, Sec. 3(a)(2), Oct. 13, 2008, 122 Stat. 4282,
+    provided that: "The restrictions on the terms of members of the
+    National Historical Publications and Records Commission provided in
+    the amendments made by paragraph (1) [amending this section] shall
+    apply to members serving on or after the date of enactment of this
+    Act [Oct. 13, 2008]."
+      Pub. L. 110-404, Sec. 3(b)(2), Oct. 13, 2008, 122 Stat. 4283,
+    provided that: "The requirement of recusal provided in the
+    amendment made by paragraph (1) [amending this section] shall apply
+    to members of the National Historical Publications and Records
+    Commission serving on or after the date of enactment of this Act
+    [Oct. 13, 2008]."
 
                      EFFECTIVE DATE OF 1988 AMENDMENT                 
       Section 2(b) of Pub. L. 100-365 provided that: "The amendment
@@ -15511,7 +15651,7 @@
 
 
 -CITE-
-    44 USC Sec. 2502                                            01/08/2008
+    44 USC Sec. 2502                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -15541,7 +15681,7 @@
 
 
 -CITE-
-    44 USC Sec. 2503                                            01/08/2008
+    44 USC Sec. 2503                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -15596,7 +15736,7 @@
 
 
 -CITE-
-    44 USC Sec. 2504                                            01/08/2008
+    44 USC Sec. 2504                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -15638,7 +15778,74 @@
     local agencies and to nonprofit organizations, institutions, and
     individuals, for those activities in subsection (d) after
     considering the advice and recommendations of the Commission.
-      (f)(1) For the purposes specified in this section, there is
+      (f) Grants for Presidential Centers of Historical Excellence. - 
+        (1) In general. - The Archivist, with the recommendation of the
+      Commission, may make grants, on a competitive basis and in
+      accordance with this subsection, to eligible entities to promote
+      the historical preservation of, and public access to, historical
+      records and documents relating to any former President who does
+      not have a Presidential archival depository currently managed and
+      maintained by the Federal Government pursuant to section 2112
+      (commonly known as the "Presidential Libraries Act of 1955").
+        (2) Eligible entity. - For purposes of this subsection, an
+      eligible entity is - 
+          (A) an organization described under section 501(c)(3) of the
+        Internal Revenue Code of 1986 and exempt from taxation under
+        section 501(a) of that Code; or
+          (B) a State or local government of the United States.
+
+        (3) Use of funds. - Amounts received by an eligible entity
+      under paragraph (1) shall be used to promote the historical
+      preservation of, and public access to, historical records or
+      historical documents relating to any former President covered
+      under paragraph (1).
+        (4) Prohibition on use of funds. - Amounts received by an
+      eligible entity under paragraph (1) may not be used for the
+      maintenance, operating costs, or construction of any facility to
+      house the historical records or historical documents relating to
+      any former President covered under paragraph (1).
+        (5) Application. - 
+          (A) In general. - An eligible entity seeking a grant under
+        this subsection shall submit to the Commission an application
+        at such time, in such manner, and containing or accompanied by
+        such information as the Commission may require, including a
+        description of the activities for which a grant under this
+        subsection is sought.
+          (B) Approval of application. - The Commission shall not
+        consider or recommend a grant application submitted under
+        subparagraph (A) unless an eligible entity establishes that
+        such entity - 
+            (i) possesses, with respect to any former President covered
+          under paragraph (1), historical works and collections of
+          historical sources that the Commission considers appropriate
+          for preserving, publishing, or otherwise recording at the
+          public expense;
+            (ii) has appropriate facilities and space for preservation
+          of, and public access to, the historical works and
+          collections of historical sources;
+            (iii) shall ensure preservation of, and public access to,
+          such historical works and collections of historical sources
+          at no charge to the public;
+            (iv) has educational programs that make the use of such
+          documents part of the mission of such entity;
+            (v) has raised funds from non-Federal sources in support of
+          the efforts of the entity to promote the historical
+          preservation of, and public access to, such historical works
+          and collections of historical sources in an amount equal to
+          the amount of the grant the entity seeks under this
+          subsection;
+            (vi) shall coordinate with any relevant Federal program or
+          activity, including programs and activities relating to
+          Presidential archival depositories;
+            (vii) shall coordinate with any relevant non-Federal
+          program or activity, including programs and activities
+          conducted by State and local governments and private
+          educational historical entities; and
+            (viii) has a workable plan for preserving and providing
+          public access to such historical works and collections of
+          historical sources.
+
+      (g)(1) For the purposes specified in this section, there is
     hereby authorized to be appropriated to the National Historical
     Publications and Records Commission - 
         (A) $6,000,000 for fiscal year 1989;
@@ -15674,7 +15881,8 @@
     L. 100-365, Sec. 4, July 13, 1988, 102 Stat. 824; Pub. L. 103-262,
     Sec. 1, May 31, 1994, 108 Stat. 706; Pub. L. 104-274, Sec. 1, Oct.
     9, 1996, 110 Stat. 3321; Pub. L. 106-410, Nov. 1, 2000, 114 Stat.
-    1788; Pub. L. 108-383, Sec. 6, Oct. 30, 2004, 118 Stat. 2219.)
+    1788; Pub. L. 108-383, Sec. 6, Oct. 30, 2004, 118 Stat. 2219; Pub.
+    L. 110-404, Sec. 2, Oct. 13, 2008, 122 Stat. 4281.)
 
 
 -MISC1-
@@ -15684,7 +15892,17 @@
     6(d), 64 Stat. 583, and amended July 28, 1964, Pub. L. 88-383, 78
     Stat. 335).
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      Section 501 of the Internal Revenue Code of 1986, referred to in
+    subsec. (f)(2)(A), is classified to section 501 of Title 26,
+    Internal Revenue Code.
+
+
+-MISC2-
                                 AMENDMENTS                            
+      2008 - Subsecs. (f), (g). Pub. L. 110-404 added subsec. (f) and
+    redesignated former subsec. (f) as (g).
       2004 - Subsec. (f)(1)(P) to (S). Pub. L. 108-383 added subpars.
     (P) to (S).
       2000 - Subsec. (f)(1)(L) to (O). Pub. L. 106-410 added subpars.
@@ -15734,12 +15952,28 @@
     section 1113 of Title 31, Money and Finance, and the 16th item on
     page 183 of House Document No. 103-7.
 
+     GRANTS FOR ESTABLISHMENT OF STATE AND LOCAL DATABASES FOR RECORDS
+       OF SERVITUDE, EMANCIPATION, AND POST-CIVIL WAR RECONSTRUCTION
+      Pub. L. 110-404, Sec. 8, Oct. 13, 2008, 122 Stat. 4285, provided
+    that:
+      "(a) In General. - The Executive Director of the National
+    Historical Publications and Records Commission of the National
+    Archives and Records Administration may make grants to States,
+    colleges and universities, museums, libraries, and genealogical
+    associations to preserve records and establish electronically
+    searchable databases consisting of local records of servitude,
+    emancipation, and post-Civil War reconstruction.
+      "(b) Maintenance. - Any database established using a grant under
+    this section shall be maintained by appropriate agencies or
+    institutions designated by the Executive Director of the National
+    Historical Publications and Records Commission."
+
 -End-
 
 
 
 -CITE-
-    44 USC Sec. 2505                                            01/08/2008
+    44 USC Sec. 2505                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -15778,12 +16012,60 @@
     of Pub. L. 92-463, Oct. 6, 1972, 86 Stat. 776, set out in the
     Appendix to Title 5, Government Organization and Employees.
 
+         ADVISORY COMMITTEE ON FOUNDING FATHERS EDITORIAL PROJECTS     
+      Pub. L. 110-404, Sec. 5, Oct. 13, 2008, 122 Stat. 4283, provided
+    that:
+      "(a) Establishment. - The Archivist of the United States may
+    establish an advisory committee to - 
+        "(1) review the progress of the Founding Fathers editorial
+      projects funded by the National Historical Publications and
+      Records Commission;
+        "(2) develop, in consultation with the various Founding Fathers
+      editorial projects, appropriate completion goals for the projects
+      described in paragraph (1);
+        "(3) annually review such goals and report to the Archivist on
+      the progress of the various projects in meeting the goals; and
+        "(4) recommend to the Archivist measures that would aid or
+      encourage the projects in meeting such goals.
+      "(b) Reports to the Advisory Committee. - Each of the projects
+    described in subsection (a)(1) shall provide annually to the
+    advisory committee established under subsection (a) a report on the
+    progress of the project toward accomplishing the completion goals
+    and any assistance needed to achieve such goals, including the
+    following:
+        "(1) The proportion of total project funding for the funding
+      year in which the report is submitted from - 
+          "(A) Federal, State, and local government sources;
+          "(B) the host institution for the project;
+          "(C) private or public foundations; and
+          "(D) individuals.
+        "(2) Information on all activities carried out using
+      nongovernmental funding.
+        "(3) Any and all information related to performance goals for
+      the funding year in which the report is submitted.
+      "(c) Composition; Meetings; Report; Sunset; Action. - The
+    advisory committee established under subsection (a) shall - 
+        "(1) be comprised of 3 nationally recognized historians
+      appointed for not more than 2 consecutive 4-year terms;
+        "(2) meet not less frequently than once a year;
+        "(3) provide a report on the information obtained under
+      subsection (b) to the Committee on Homeland Security and
+      Governmental Affairs of the Senate and the Committee on Oversight
+      and Government Reform of the House of Representatives not later
+      than 1 year after the date of enactment of this Act [Oct. 13,
+      2008] and annually thereafter;
+        "(4) terminate on the date that is 8 years after the date of
+      enactment of this Act; and
+        "(5) recommend legislative or executive action that would
+      facilitate completion of the performance goals for the Founding
+      Fathers editorial projects."
+
 -End-
 
 
 
 -CITE-
-    44 USC Sec. 2506                                            01/08/2008
+    44 USC Sec. 2506                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -15835,7 +16117,7 @@
 
 
 -CITE-
-    44 USC Sec. 2507                                            01/08/2008
+    44 USC Sec. 2507                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -15860,7 +16142,7 @@
 
 -CITE-
     44 USC CHAPTER 27 - ADVISORY COMMITTEE ON THE RECORDS OF
-           CONGRESS                                        01/08/2008
+           CONGRESS                                        01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -15883,7 +16165,7 @@
 
 
 -CITE-
-    44 USC Sec. 2701                                            01/08/2008
+    44 USC Sec. 2701                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -15931,7 +16213,7 @@
 
 
 -CITE-
-    44 USC Sec. 2702                                            01/08/2008
+    44 USC Sec. 2702                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -15997,7 +16279,7 @@
 
 
 -CITE-
-    44 USC Sec. 2703                                            01/08/2008
+    44 USC Sec. 2703                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -16035,7 +16317,7 @@
 
 
 -CITE-
-    44 USC Sec. 2704                                            01/08/2008
+    44 USC Sec. 2704                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -16066,7 +16348,7 @@
 
 
 -CITE-
-    44 USC Sec. 2705                                            01/08/2008
+    44 USC Sec. 2705                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -16093,7 +16375,7 @@
 
 
 -CITE-
-    44 USC Sec. 2706                                            01/08/2008
+    44 USC Sec. 2706                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -16136,7 +16418,7 @@
 -CITE-
     44 USC CHAPTER 29 - RECORDS MANAGEMENT BY THE ARCHIVIST
            OF THE UNITED STATES AND BY THE ADMINISTRATOR
-           OF GENERAL SERVICES                             01/08/2008
+           OF GENERAL SERVICES                             01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -16190,7 +16472,7 @@
 
 
 -CITE-
-    44 USC Sec. 2901                                            01/08/2008
+    44 USC Sec. 2901                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -16397,7 +16679,7 @@
 
 
 -CITE-
-    44 USC Sec. 2902                                            01/08/2008
+    44 USC Sec. 2902                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -16461,7 +16743,7 @@
 
 
 -CITE-
-    44 USC Sec. 2903                                            01/08/2008
+    44 USC Sec. 2903                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -16517,7 +16799,7 @@
 
 
 -CITE-
-    44 USC Sec. 2904                                            01/08/2008
+    44 USC Sec. 2904                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -16685,7 +16967,7 @@
 
 
 -CITE-
-    44 USC Sec. 2905                                            01/08/2008
+    44 USC Sec. 2905                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -16761,7 +17043,7 @@
 
 
 -CITE-
-    44 USC Sec. 2906                                            01/08/2008
+    44 USC Sec. 2906                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -16836,7 +17118,7 @@
 
 
 -CITE-
-    44 USC Sec. 2907                                            01/08/2008
+    44 USC Sec. 2907                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -16877,7 +17159,7 @@
 
 
 -CITE-
-    44 USC Sec. 2908                                            01/08/2008
+    44 USC Sec. 2908                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -16918,7 +17200,7 @@
 
 
 -CITE-
-    44 USC Sec. 2909                                            01/08/2008
+    44 USC Sec. 2909                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -16972,7 +17254,7 @@
 
 
 -CITE-
-    44 USC Sec. 2910                                            01/08/2008
+    44 USC Sec. 2910                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17013,7 +17295,7 @@
 
 -CITE-
     44 USC CHAPTER 31 - RECORDS MANAGEMENT BY FEDERAL
-           AGENCIES                                        01/08/2008
+           AGENCIES                                        01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17043,7 +17325,7 @@
 
 
 -CITE-
-    44 USC Sec. 3101                                            01/08/2008
+    44 USC Sec. 3101                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17076,7 +17358,7 @@
 
 
 -CITE-
-    44 USC Sec. 3102                                            01/08/2008
+    44 USC Sec. 3102                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17135,7 +17417,7 @@
 
 
 -CITE-
-    44 USC Sec. 3103                                            01/08/2008
+    44 USC Sec. 3103                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17178,7 +17460,7 @@
 
 
 -CITE-
-    44 USC Sec. 3104                                            01/08/2008
+    44 USC Sec. 3104                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17223,7 +17505,7 @@
 
 
 -CITE-
-    44 USC Sec. 3105                                            01/08/2008
+    44 USC Sec. 3105                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17269,7 +17551,7 @@
 
 
 -CITE-
-    44 USC Sec. 3106                                            01/08/2008
+    44 USC Sec. 3106                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17327,7 +17609,7 @@
 
 
 -CITE-
-    44 USC Sec. 3107                                            01/08/2008
+    44 USC Sec. 3107                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17379,7 +17661,7 @@
 
 
 -CITE-
-    44 USC CHAPTER 33 - DISPOSAL OF RECORDS                     01/08/2008
+    44 USC CHAPTER 33 - DISPOSAL OF RECORDS                     01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17457,7 +17739,7 @@
 
 
 -CITE-
-    44 USC Sec. 3301                                            01/08/2008
+    44 USC Sec. 3301                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17500,7 +17782,7 @@
 
 
 -CITE-
-    44 USC Sec. 3302                                            01/08/2008
+    44 USC Sec. 3302                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17549,7 +17831,7 @@
 
 
 -CITE-
-    44 USC Sec. 3303                                            01/08/2008
+    44 USC Sec. 3303                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17606,7 +17888,7 @@
 
 
 -CITE-
-    44 USC Sec. 3303a                                           01/08/2008
+    44 USC Sec. 3303a                                           01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17736,7 +18018,7 @@
 
 
 -CITE-
-    44 USC Secs. 3304 to 3307                                   01/08/2008
+    44 USC Secs. 3304 to 3307                                   01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17769,7 +18051,7 @@
 
 
 -CITE-
-    44 USC Sec. 3308                                            01/08/2008
+    44 USC Sec. 3308                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17816,7 +18098,7 @@
 
 
 -CITE-
-    44 USC Sec. 3309                                            01/08/2008
+    44 USC Sec. 3309                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17860,7 +18142,7 @@
 
 
 -CITE-
-    44 USC Sec. 3310                                            01/08/2008
+    44 USC Sec. 3310                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17906,7 +18188,7 @@
 
 
 -CITE-
-    44 USC Sec. 3311                                            01/08/2008
+    44 USC Sec. 3311                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17961,7 +18243,7 @@
 
 
 -CITE-
-    44 USC Sec. 3312                                            01/08/2008
+    44 USC Sec. 3312                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -17994,7 +18276,7 @@
 
 
 -CITE-
-    44 USC Sec. 3313                                            01/08/2008
+    44 USC Sec. 3313                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -18022,7 +18304,7 @@
 
 
 -CITE-
-    44 USC Sec. 3314                                            01/08/2008
+    44 USC Sec. 3314                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -18050,7 +18332,7 @@
 
 
 -CITE-
-    44 USC Sec. 3315                                            01/08/2008
+    44 USC Sec. 3315                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -18091,7 +18373,7 @@
 
 
 -CITE-
-    44 USC Sec. 3316                                            01/08/2008
+    44 USC Sec. 3316                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -18119,7 +18401,7 @@
 
 
 -CITE-
-    44 USC Sec. 3317                                            01/08/2008
+    44 USC Sec. 3317                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -18195,7 +18477,7 @@
 
 
 -CITE-
-    44 USC Sec. 3318                                            01/08/2008
+    44 USC Sec. 3318                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -18297,7 +18579,7 @@
 
 
 -CITE-
-    44 USC Sec. 3319                                            01/08/2008
+    44 USC Sec. 3319                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -18341,7 +18623,7 @@
 
 
 -CITE-
-    44 USC Sec. 3320                                            01/08/2008
+    44 USC Sec. 3320                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -18381,7 +18663,7 @@
 
 
 -CITE-
-    44 USC Sec. 3321                                            01/08/2008
+    44 USC Sec. 3321                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -18414,7 +18696,7 @@
 
 
 -CITE-
-    44 USC Sec. 3322                                            01/08/2008
+    44 USC Sec. 3322                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -18451,7 +18733,7 @@
 
 
 -CITE-
-    44 USC Sec. 3323                                            01/08/2008
+    44 USC Sec. 3323                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -18473,7 +18755,7 @@
 
 
 -CITE-
-    44 USC Sec. 3324                                            01/08/2008
+    44 USC Sec. 3324                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -18496,7 +18778,7 @@
 
 -CITE-
     44 USC CHAPTER 35 - COORDINATION OF FEDERAL INFORMATION
-           POLICY                                          01/08/2008
+           POLICY                                          01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -18580,7 +18862,7 @@
 
 
 -CITE-
-    44 USC SUBCHAPTER I - FEDERAL INFORMATION POLICY            01/08/2008
+    44 USC SUBCHAPTER I - FEDERAL INFORMATION POLICY            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -18602,7 +18884,7 @@
 
 
 -CITE-
-    44 USC Sec. 3501                                            01/08/2008
+    44 USC Sec. 3501                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -20547,7 +20829,7 @@
 
 
 -CITE-
-    44 USC Sec. 3502                                            01/08/2008
+    44 USC Sec. 3502                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -20610,7 +20892,7 @@
       Trading Commission, the Consumer Product Safety Commission, the
       Federal Communications Commission, the Federal Deposit Insurance
       Corporation, the Federal Energy Regulatory Commission, the
-      Federal Housing Finance Board, the Federal Maritime Commission,
+      Federal Housing Finance Agency, the Federal Maritime Commission,
       the Federal Trade Commission, the Interstate Commerce Commission,
       the Mine Enforcement Safety and Health Review Commission, the
       National Labor Relations Board, the Nuclear Regulatory
@@ -20670,7 +20952,9 @@
     title X, Sec. 1064(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A-275;
     Pub. L. 107-217, Sec. 3(l)(4), Aug. 21, 2002, 116 Stat. 1301; Pub.
     L. 108-271, Sec. 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109-
-    435, title VI, Sec. 604(e), Dec. 20, 2006, 120 Stat. 3242.)
+    435, title VI, Sec. 604(e), Dec. 20, 2006, 120 Stat. 3242; Pub. L.
+    110-289, div. A, title II, Sec. 1216(e), July 30, 2008, 122 Stat.
+    2792.)
 
 
 -MISC1-
@@ -20690,6 +20974,8 @@
     Pub. L. 96-511.
 
                                 AMENDMENTS                            
+      2008 - Par. (5). Pub. L. 110-289 substituted "Federal Housing
+    Finance Agency" for "Federal Housing Finance Board".
       2006 - Par. (5). Pub. L. 109-435 substituted "Postal Regulatory
     Commission" for "Postal Rate Commission".
       2004 - Par. (1)(A). Pub. L. 108-271 substituted "Government
@@ -20741,7 +21027,7 @@
 
 
 -CITE-
-    44 USC Sec. 3503                                            01/08/2008
+    44 USC Sec. 3503                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -20837,7 +21123,7 @@
 
 
 -CITE-
-    44 USC Sec. 3504                                            01/08/2008
+    44 USC Sec. 3504                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -21329,7 +21615,7 @@
 
 
 -CITE-
-    44 USC Sec. 3505                                            01/08/2008
+    44 USC Sec. 3505                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -21503,7 +21789,7 @@
 
 
 -CITE-
-    44 USC Sec. 3506                                            01/08/2008
+    44 USC Sec. 3506                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -22015,7 +22301,7 @@
 
 
 -CITE-
-    44 USC Sec. 3507                                            01/08/2008
+    44 USC Sec. 3507                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -22285,7 +22571,7 @@
 
 
 -CITE-
-    44 USC Sec. 3508                                            01/08/2008
+    44 USC Sec. 3508                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -22329,7 +22615,7 @@
 
 
 -CITE-
-    44 USC Sec. 3509                                            01/08/2008
+    44 USC Sec. 3509                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -22387,7 +22673,7 @@
 
 
 -CITE-
-    44 USC Sec. 3510                                            01/08/2008
+    44 USC Sec. 3510                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -22435,7 +22721,7 @@
 
 
 -CITE-
-    44 USC Sec. 3511                                            01/08/2008
+    44 USC Sec. 3511                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -22510,7 +22796,7 @@
 
 
 -CITE-
-    44 USC Sec. 3512                                            01/08/2008
+    44 USC Sec. 3512                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -22570,7 +22856,7 @@
 
 
 -CITE-
-    44 USC Sec. 3513                                            01/08/2008
+    44 USC Sec. 3513                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -22617,7 +22903,7 @@
 
 
 -CITE-
-    44 USC Sec. 3514                                            01/08/2008
+    44 USC Sec. 3514                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -22707,7 +22993,7 @@
 
 
 -CITE-
-    44 USC Sec. 3515                                            01/08/2008
+    44 USC Sec. 3515                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -22750,7 +23036,7 @@
 
 
 -CITE-
-    44 USC Sec. 3516                                            01/08/2008
+    44 USC Sec. 3516                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -22824,7 +23110,7 @@
 
 
 -CITE-
-    44 USC Sec. 3517                                            01/08/2008
+    44 USC Sec. 3517                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -22880,7 +23166,7 @@
 
 
 -CITE-
-    44 USC Sec. 3518                                            01/08/2008
+    44 USC Sec. 3518                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -23022,7 +23308,7 @@
 
 
 -CITE-
-    44 USC Sec. 3519                                            01/08/2008
+    44 USC Sec. 3519                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -23058,7 +23344,7 @@
 
 
 -CITE-
-    44 USC Sec. 3520                                            01/08/2008
+    44 USC Sec. 3520                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -23251,7 +23537,7 @@
 
 
 -CITE-
-    44 USC Sec. 3521                                            01/08/2008
+    44 USC Sec. 3521                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -23294,7 +23580,7 @@
 
 
 -CITE-
-    44 USC SUBCHAPTER II - INFORMATION SECURITY                 01/08/2008
+    44 USC SUBCHAPTER II - INFORMATION SECURITY                 01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -23321,7 +23607,7 @@
 
 
 -CITE-
-    44 USC Sec. 3531                                            01/08/2008
+    44 USC Sec. 3531                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -23405,7 +23691,7 @@
 
 
 -CITE-
-    44 USC Sec. 3532                                            01/08/2008
+    44 USC Sec. 3532                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -23487,7 +23773,7 @@
 
 
 -CITE-
-    44 USC Sec. 3533                                            01/08/2008
+    44 USC Sec. 3533                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -23574,7 +23860,7 @@
 
 
 -CITE-
-    44 USC Sec. 3534                                            01/08/2008
+    44 USC Sec. 3534                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -23852,7 +24138,7 @@
 
 
 -CITE-
-    44 USC Sec. 3535                                            01/08/2008
+    44 USC Sec. 3535                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -23986,7 +24272,7 @@
 
 
 -CITE-
-    44 USC Sec. 3536                                            01/08/2008
+    44 USC Sec. 3536                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -24040,7 +24326,7 @@
 
 
 -CITE-
-    44 USC Sec. 3537                                            01/08/2008
+    44 USC Sec. 3537                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -24070,7 +24356,7 @@
 
 
 -CITE-
-    44 USC Sec. 3538                                            01/08/2008
+    44 USC Sec. 3538                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -24115,7 +24401,7 @@
 
 
 -CITE-
-    44 USC SUBCHAPTER III - INFORMATION SECURITY                01/08/2008
+    44 USC SUBCHAPTER III - INFORMATION SECURITY                01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -24130,7 +24416,7 @@
 
 
 -CITE-
-    44 USC Sec. 3541                                            01/08/2008
+    44 USC Sec. 3541                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -24184,7 +24470,7 @@
 
 
 -CITE-
-    44 USC Sec. 3542                                            01/08/2008
+    44 USC Sec. 3542                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -24247,7 +24533,7 @@
 
 
 -CITE-
-    44 USC Sec. 3543                                            01/08/2008
+    44 USC Sec. 3543                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -24362,7 +24648,7 @@
 
 
 -CITE-
-    44 USC Sec. 3544                                            01/08/2008
+    44 USC Sec. 3544                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -24630,7 +24916,7 @@
 
 
 -CITE-
-    44 USC Sec. 3545                                            01/08/2008
+    44 USC Sec. 3545                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -24754,7 +25040,7 @@
 
 
 -CITE-
-    44 USC Sec. 3546                                            01/08/2008
+    44 USC Sec. 3546                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -24800,7 +25086,7 @@
 
 
 -CITE-
-    44 USC Sec. 3547                                            01/08/2008
+    44 USC Sec. 3547                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -24833,7 +25119,7 @@
 
 
 -CITE-
-    44 USC Sec. 3548                                            01/08/2008
+    44 USC Sec. 3548                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -24857,7 +25143,7 @@
 
 
 -CITE-
-    44 USC Sec. 3549                                            01/08/2008
+    44 USC Sec. 3549                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -24899,7 +25185,7 @@
 
 -CITE-
     44 USC CHAPTER 36 - MANAGEMENT AND PROMOTION OF
-           ELECTRONIC GOVERNMENT SERVICES                  01/08/2008
+           ELECTRONIC GOVERNMENT SERVICES                  01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -24925,7 +25211,7 @@
 
 
 -CITE-
-    44 USC Sec. 3601                                            01/08/2008
+    44 USC Sec. 3601                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -25146,7 +25432,7 @@
 
 
 -CITE-
-    44 USC Sec. 3602                                            01/08/2008
+    44 USC Sec. 3602                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -25343,7 +25629,7 @@
 
 
 -CITE-
-    44 USC Sec. 3603                                            01/08/2008
+    44 USC Sec. 3603                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -25455,7 +25741,7 @@
 
 
 -CITE-
-    44 USC Sec. 3604                                            01/08/2008
+    44 USC Sec. 3604                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -25619,7 +25905,7 @@
 
 
 -CITE-
-    44 USC Sec. 3605                                            01/08/2008
+    44 USC Sec. 3605                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -25677,7 +25963,7 @@
 
 
 -CITE-
-    44 USC Sec. 3606                                            01/08/2008
+    44 USC Sec. 3606                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -25726,7 +26012,7 @@
 
 
 -CITE-
-    44 USC CHAPTER 37 - ADVERTISEMENTS BY GOVERNMENT AGENCIES    01/08/2008 
+    44 USC CHAPTER 37 - ADVERTISEMENTS BY GOVERNMENT AGENCIES    01/05/2009 
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -25748,7 +26034,7 @@
 
 
 -CITE-
-    44 USC Sec. 3701                                            01/08/2008
+    44 USC Sec. 3701                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -25781,7 +26067,7 @@
 
 
 -CITE-
-    44 USC Sec. 3702                                            01/08/2008
+    44 USC Sec. 3702                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -25812,7 +26098,7 @@
 
 
 -CITE-
-    44 USC Sec. 3703                                            01/08/2008
+    44 USC Sec. 3703                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -25851,7 +26137,7 @@
 
 -CITE-
     44 USC CHAPTER 39 - GOVERNMENT PRINTING OFFICE: OFFICE OF
-           INSPECTOR GENERAL                               01/08/2008
+           INSPECTOR GENERAL                               01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -25874,7 +26160,7 @@
 
 
 -CITE-
-    44 USC Sec. 3901                                            01/08/2008
+    44 USC Sec. 3901                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -25954,7 +26240,7 @@
 
 
 -CITE-
-    44 USC Sec. 3902                                            01/08/2008
+    44 USC Sec. 3902                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -25989,7 +26275,7 @@
 
 
 -CITE-
-    44 USC Sec. 3903                                            01/08/2008
+    44 USC Sec. 3903                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -26032,7 +26318,7 @@
 
 -CITE-
     44 USC CHAPTER 41 - ACCESS TO FEDERAL ELECTRONIC
-           INFORMATION                                     01/08/2008
+           INFORMATION                                     01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -26054,7 +26340,7 @@
 
 
 -CITE-
-    44 USC Sec. 4101                                            01/08/2008
+    44 USC Sec. 4101                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -26115,7 +26401,7 @@
 
 
 -CITE-
-    44 USC Sec. 4102                                            01/08/2008
+    44 USC Sec. 4102                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -26145,7 +26431,7 @@
 
 
 -CITE-
-    44 USC Sec. 4103                                            01/08/2008
+    44 USC Sec. 4103                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS
@@ -26179,7 +26465,7 @@
 
 
 -CITE-
-    44 USC Sec. 4104                                            01/08/2008
+    44 USC Sec. 4104                                            01/05/2009
 
 -EXPCITE-
     TITLE 44 - PUBLIC PRINTING AND DOCUMENTS

@@ -1,12 +1,11 @@
 -CITE-
-    8 USC TITLE 8 - ALIENS AND NATIONALITY                      01/05/2009
+    8 USC TITLE 8 - ALIENS AND NATIONALITY                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
     
 -HEAD-    
                      TITLE 8 - ALIENS AND NATIONALITY                 
-
 
 -MISC1-
                                                                 
@@ -31,7 +30,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 1 - GENERAL PROVISIONS                        01/05/2009
+    8 USC CHAPTER 1 - GENERAL PROVISIONS                        02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -45,7 +44,7 @@
 
 
 -CITE-
-    8 USC Secs. 1 to 18                                         01/05/2009
+    8 USC Secs. 1 to 18                                         02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -160,7 +159,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 2 - ELECTIVE FRANCHISE                        01/05/2009
+    8 USC CHAPTER 2 - ELECTIVE FRANCHISE                        02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -174,7 +173,7 @@
 
 
 -CITE-
-    8 USC Secs. 31, 32                                          01/05/2009
+    8 USC Secs. 31, 32                                          02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -192,7 +191,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 3 - CIVIL RIGHTS                              01/05/2009
+    8 USC CHAPTER 3 - CIVIL RIGHTS                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -206,7 +205,7 @@
 
 
 -CITE-
-    8 USC Secs. 41 to 43                                        01/05/2009
+    8 USC Secs. 41 to 43                                        02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -225,7 +224,7 @@
 
 
 -CITE-
-    8 USC Secs. 44, 45                                          01/05/2009
+    8 USC Secs. 44, 45                                          02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -250,7 +249,7 @@
 
 
 -CITE-
-    8 USC Secs. 46 to 51                                        01/05/2009
+    8 USC Secs. 46 to 51                                        02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -269,7 +268,7 @@
 
 
 -CITE-
-    8 USC Sec. 52                                               01/05/2009
+    8 USC Sec. 52                                               02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -291,7 +290,7 @@
 
 
 -CITE-
-    8 USC Secs. 53 to 56                                        01/05/2009
+    8 USC Secs. 53 to 56                                        02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -310,7 +309,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 4 - FREEDMEN                                  01/05/2009
+    8 USC CHAPTER 4 - FREEDMEN                                  02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -324,7 +323,7 @@
 
 
 -CITE-
-    8 USC Secs. 61 to 65                                        01/05/2009
+    8 USC Secs. 61 to 65                                        02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -351,7 +350,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 5 - ALIEN OWNERSHIP OF LAND                   01/05/2009
+    8 USC CHAPTER 5 - ALIEN OWNERSHIP OF LAND                   02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -365,7 +364,7 @@
 
 
 -CITE-
-    8 USC Secs. 71 to 78                                        01/05/2009
+    8 USC Secs. 71 to 78                                        02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -384,7 +383,7 @@
 
 
 -CITE-
-    8 USC Secs. 79 to 82                                        01/05/2009
+    8 USC Secs. 79 to 82                                        02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -409,7 +408,7 @@
 
 
 -CITE-
-    8 USC Secs. 83 to 86                                        01/05/2009
+    8 USC Secs. 83 to 86                                        02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -427,7 +426,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 6 - IMMIGRATION                               01/05/2009
+    8 USC CHAPTER 6 - IMMIGRATION                               02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -441,7 +440,7 @@
 
 -CITE-
     8 USC SUBCHAPTER I - IMMIGRATION AND NATURALIZATION
-           AGENCIES, OFFICERS, AND STATIONS                01/05/2009
+           AGENCIES, OFFICERS, AND STATIONS                02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -458,7 +457,7 @@
 
 
 -CITE-
-    8 USC Secs. 100, 101                                        01/05/2009
+    8 USC Secs. 100, 101                                        02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -479,7 +478,7 @@
 
 
 -CITE-
-    8 USC Sec. 102                                              01/05/2009
+    8 USC Sec. 102                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -504,7 +503,7 @@
 
 
 -CITE-
-    8 USC Secs. 103, 103a                                       01/05/2009
+    8 USC Secs. 103, 103a                                       02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -547,7 +546,7 @@
 
 
 -CITE-
-    8 USC Sec. 104                                              01/05/2009
+    8 USC Sec. 104                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -572,7 +571,7 @@
 
 
 -CITE-
-    8 USC Sec. 105                                              01/05/2009
+    8 USC Sec. 105                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -594,7 +593,7 @@
 
 
 -CITE-
-    8 USC Secs. 106 to 106c                                     01/05/2009
+    8 USC Secs. 106 to 106c                                     02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -621,7 +620,7 @@
 
 
 -CITE-
-    8 USC Sec. 107                                              01/05/2009
+    8 USC Sec. 107                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -645,7 +644,7 @@
 
 
 -CITE-
-    8 USC Secs. 108, 109                                        01/05/2009
+    8 USC Secs. 108, 109                                        02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -674,7 +673,7 @@
 
 
 -CITE-
-    8 USC Secs. 109a to 109d                                    01/05/2009
+    8 USC Secs. 109a to 109d                                    02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -708,7 +707,7 @@
 
 
 -CITE-
-    8 USC Sec. 110                                              01/05/2009
+    8 USC Sec. 110                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -732,7 +731,7 @@
 
 
 -CITE-
-    8 USC Sec. 111                                              01/05/2009
+    8 USC Sec. 111                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -752,7 +751,7 @@
 
 
 -CITE-
-    8 USC Sec. 112                                              01/05/2009
+    8 USC Sec. 112                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -779,7 +778,7 @@
 
 
 -CITE-
-    8 USC Sec. 113                                              01/05/2009
+    8 USC Sec. 113                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -801,7 +800,7 @@
 
 
 -CITE-
-    8 USC Sec. 114                                              01/05/2009
+    8 USC Sec. 114                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -829,7 +828,7 @@
 
 
 -CITE-
-    8 USC Secs. 115, 116                                        01/05/2009
+    8 USC Secs. 115, 116                                        02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -855,7 +854,7 @@
 
 
 -CITE-
-    8 USC Secs. 117, 118                                        01/05/2009
+    8 USC Secs. 117, 118                                        02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -927,7 +926,7 @@
 
 -CITE-
     8 USC SUBCHAPTER II - REGULATION AND RESTRICTION OF
-           IMMIGRATION IN GENERAL                          01/05/2009
+           IMMIGRATION IN GENERAL                          02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -943,7 +942,7 @@
 
 
 -CITE-
-    8 USC Sec. 131                                              01/05/2009
+    8 USC Sec. 131                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -969,7 +968,7 @@
 
 
 -CITE-
-    8 USC Secs. 132 to 137-10                                   01/05/2009
+    8 USC Secs. 132 to 137-10                                   02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1033,7 +1032,7 @@
 
 
 -CITE-
-    8 USC Sec. 137a                                             01/05/2009
+    8 USC Sec. 137a                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1081,7 +1080,7 @@
 
 
 -CITE-
-    8 USC Secs. 137b to 173                                     01/05/2009
+    8 USC Secs. 137b to 173                                     02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1220,7 +1219,7 @@
 
 
 -CITE-
-    8 USC Sec. 174                                              01/05/2009
+    8 USC Sec. 174                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1247,7 +1246,7 @@
 
 
 -CITE-
-    8 USC Secs. 175 to 181                                      01/05/2009
+    8 USC Secs. 175 to 181                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1292,7 +1291,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER III - QUOTA AND NONQUOTA IMMIGRANTS        01/05/2009
+    8 USC SUBCHAPTER III - QUOTA AND NONQUOTA IMMIGRANTS        02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1307,7 +1306,7 @@
 
 
 -CITE-
-    8 USC Secs. 201 to 204                                      01/05/2009
+    8 USC Secs. 201 to 204                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1341,7 +1340,7 @@
 
 
 -CITE-
-    8 USC Secs. 204a, 204b                                      01/05/2009
+    8 USC Secs. 204a, 204b                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1364,7 +1363,7 @@
 
 
 -CITE-
-    8 USC Secs. 204c to 219                                     01/05/2009
+    8 USC Secs. 204c to 219                                     02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1441,7 +1440,7 @@
 
 
 -CITE-
-    8 USC Sec. 220                                              01/05/2009
+    8 USC Sec. 220                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1463,7 +1462,7 @@
 
 
 -CITE-
-    8 USC Secs. 221 to 227                                      01/05/2009
+    8 USC Secs. 221 to 227                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1500,7 +1499,7 @@
 
 
 -CITE-
-    8 USC Sec. 228                                              01/05/2009
+    8 USC Sec. 228                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1521,7 +1520,7 @@
 
 
 -CITE-
-    8 USC Secs. 229 to 231                                      01/05/2009
+    8 USC Secs. 229 to 231                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1548,7 +1547,7 @@
 
 
 -CITE-
-    8 USC Secs. 232 to 237                                      01/05/2009
+    8 USC Secs. 232 to 237                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1572,7 +1571,7 @@
 
 
 -CITE-
-    8 USC Sec. 238                                              01/05/2009
+    8 USC Sec. 238                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1591,7 +1590,7 @@
 
 
 -CITE-
-    8 USC Sec. 239                                              01/05/2009
+    8 USC Sec. 239                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1612,7 +1611,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER IV - ALIEN VETERANS OF WORLD WAR I         01/05/2009
+    8 USC SUBCHAPTER IV - ALIEN VETERANS OF WORLD WAR I         02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1627,7 +1626,7 @@
 
 
 -CITE-
-    8 USC Secs. 241 to 246                                      01/05/2009
+    8 USC Secs. 241 to 246                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1647,7 +1646,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 7 - EXCLUSION OF CHINESE                      01/05/2009
+    8 USC CHAPTER 7 - EXCLUSION OF CHINESE                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1672,7 +1671,7 @@
 
 
 -CITE-
-    8 USC Sec. 261                                              01/05/2009
+    8 USC Sec. 261                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1704,7 +1703,7 @@
 
 
 -CITE-
-    8 USC Secs. 262 to 297                                      01/05/2009
+    8 USC Secs. 262 to 297                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1741,7 +1740,7 @@
 
 
 -CITE-
-    8 USC Sec. 298                                              01/05/2009
+    8 USC Sec. 298                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1766,7 +1765,7 @@
 
 
 -CITE-
-    8 USC Sec. 299                                              01/05/2009
+    8 USC Sec. 299                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1787,7 +1786,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 8 - THE COOLY TRADE                           01/05/2009
+    8 USC CHAPTER 8 - THE COOLY TRADE                           02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1801,7 +1800,7 @@
 
 
 -CITE-
-    8 USC Secs. 331 to 339                                      01/05/2009
+    8 USC Secs. 331 to 339                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1836,7 +1835,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 9 - MISCELLANEOUS PROVISIONS                  01/05/2009
+    8 USC CHAPTER 9 - MISCELLANEOUS PROVISIONS                  02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1850,7 +1849,7 @@
 
 
 -CITE-
-    8 USC Secs. 351 to 416                                      01/05/2009
+    8 USC Secs. 351 to 416                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2184,7 +2183,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 10 - ALIEN REGISTRATION                       01/05/2009
+    8 USC CHAPTER 10 - ALIEN REGISTRATION                       02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2198,7 +2197,7 @@
 
 
 -CITE-
-    8 USC Secs. 451 to 460                                      01/05/2009
+    8 USC Secs. 451 to 460                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2259,7 +2258,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 11 - NATIONALITY                              01/05/2009
+    8 USC CHAPTER 11 - NATIONALITY                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2272,7 +2271,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER I - DEFINITIONS                            01/05/2009
+    8 USC SUBCHAPTER I - DEFINITIONS                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2287,7 +2286,7 @@
 
 
 -CITE-
-    8 USC Secs. 501 to 504                                      01/05/2009
+    8 USC Secs. 501 to 504                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2309,7 +2308,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER II - NATIONALITY AT BIRTH                  01/05/2009
+    8 USC SUBCHAPTER II - NATIONALITY AT BIRTH                  02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2324,7 +2323,7 @@
 
 
 -CITE-
-    8 USC Secs. 601 to 605                                      01/05/2009
+    8 USC Secs. 601 to 605                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2352,7 +2351,7 @@
 
 
 -CITE-
-    8 USC Sec. 606                                              01/05/2009
+    8 USC Sec. 606                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2372,7 +2371,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER III - NATIONALITY THROUGH NATURALIZATION    01/05/2009 
+    8 USC SUBCHAPTER III - NATIONALITY THROUGH NATURALIZATION    02/01/2010 
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2387,7 +2386,7 @@
 
 
 -CITE-
-    8 USC Secs. 701 to 724a                                     01/05/2009
+    8 USC Secs. 701 to 724a                                     02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2507,7 +2506,7 @@
 
 
 -CITE-
-    8 USC Sec. 724a-1                                           01/05/2009
+    8 USC Sec. 724a-1                                           02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2528,7 +2527,7 @@
 
 
 -CITE-
-    8 USC Secs. 725 to 727                                      01/05/2009
+    8 USC Secs. 725 to 727                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2558,7 +2557,7 @@
 
 
 -CITE-
-    8 USC Sec. 727a                                             01/05/2009
+    8 USC Sec. 727a                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2579,7 +2578,7 @@
 
 
 -CITE-
-    8 USC Secs. 728 to 746                                      01/05/2009
+    8 USC Secs. 728 to 746                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2669,7 +2668,7 @@
 
 
 -CITE-
-    8 USC Sec. 747                                              01/05/2009
+    8 USC Sec. 747                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2690,7 +2689,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER IV - LOSS OF NATIONALITY                   01/05/2009
+    8 USC SUBCHAPTER IV - LOSS OF NATIONALITY                   02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2705,7 +2704,7 @@
 
 
 -CITE-
-    8 USC Sec. 800                                              01/05/2009
+    8 USC Sec. 800                                              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2725,7 +2724,7 @@
 
 
 -CITE-
-    8 USC Secs. 801 to 810                                      01/05/2009
+    8 USC Secs. 801 to 810                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2783,7 +2782,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER V - MISCELLANEOUS                          01/05/2009
+    8 USC SUBCHAPTER V - MISCELLANEOUS                          02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2798,7 +2797,7 @@
 
 
 -CITE-
-    8 USC Secs. 901 to 903                                      01/05/2009
+    8 USC Secs. 901 to 903                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2829,7 +2828,7 @@
 
 
 -CITE-
-    8 USC Secs. 903a, 903b                                      01/05/2009
+    8 USC Secs. 903a, 903b                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2849,7 +2848,7 @@
 
 
 -CITE-
-    8 USC Secs. 904 to 907                                      01/05/2009
+    8 USC Secs. 904 to 907                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2892,7 +2891,7 @@
 -CITE-
     8 USC SUBCHAPTER VI - NATURALIZATION OF PERSONS SERVING IN
            THE ARMED FORCES OF THE UNITED STATES DURING
-           WORLD WAR II                                    01/05/2009
+           WORLD WAR II                                    02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2910,7 +2909,7 @@
 
 
 -CITE-
-    8 USC Secs. 1001 to 1006                                    01/05/2009
+    8 USC Secs. 1001 to 1006                                    02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2959,7 +2958,7 @@
 
 
 -CITE-    
-    8 USC CHAPTER 12 - IMMIGRATION AND NATIONALITY              01/05/2009
+    8 USC CHAPTER 12 - IMMIGRATION AND NATIONALITY              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -3074,6 +3073,8 @@
     1253.       Penalties related to removal.                         
     1254.       Repealed.                                             
     1254a.      Temporary protected status.                           
+    1254b.      Collection of fees under temporary protected status
+                 program.                                             
     1255.       Adjustment of status of nonimmigrant to that of person
                  admitted for permanent residence.                    
     1255a.      Adjustment of status of certain entrants before
@@ -3343,7 +3344,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER I - GENERAL PROVISIONS                     01/05/2009
+    8 USC SUBCHAPTER I - GENERAL PROVISIONS                     02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -3358,7 +3359,7 @@
 
 
 -CITE-
-    8 USC Sec. 1101                                             01/05/2009
+    8 USC Sec. 1101                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -3953,11 +3954,11 @@
           (ii) seeks to enter the United States - 
             (I) solely for the purpose of carrying on the vocation of a
           minister of that religious denomination,
-            (II) before March 6, 2009, in order to work for the
+            (II) before September 30, 2012, in order to work for the
           organization at the request of the organization in a
           professional capacity in a religious vocation or occupation,
           or
-            (III) before March 6, 2009, in order to work for the
+            (III) before September 30, 2012, in order to work for the
           organization (or for a bona fide organization which is
           affiliated with the religious denomination and is exempt from
           taxation as an organization described in section 501(c)(3) of
@@ -4771,7 +4772,9 @@
     Stat. 623; Pub. L. 110-229, title VII, Sec. 702(j)(1)-(3), May 8,
     2008, 122 Stat. 866; Pub. L. 110-391, Sec. 2(a), Oct. 10, 2008, 122
     Stat. 4193; Pub. L. 110-457, title II, Secs. 201(a), 235(d)(1),
-    Dec. 23, 2008, 122 Stat. 5052, 5079.)
+    Dec. 23, 2008, 122 Stat. 5052, 5079; Pub. L. 111-9, Sec. 1, Mar.
+    20, 2009, 123 Stat. 989; Pub. L. 111-83, title V, Sec. 568(a)(1),
+    Oct. 28, 2009, 123 Stat. 2186.)
 
 
 -STATAMEND-
@@ -4859,6 +4862,10 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (a)(27)(C)(ii)(II), (III). Pub. L. 111-83
+    substituted "September 30, 2012," for "September 30, 2009,".
+      Pub. L. 111-9 substituted "September 30, 2009," for "March 6,
+    2009,".
       2008 - Subsec. (a)(15)(D)(ii). Pub. L. 110-229, Sec. 702(j)(1),
     inserted "or the Commonwealth of the Northern Mariana Islands"
     after "Guam" in two places.
@@ -7362,6 +7369,271 @@
       [Determination of President of the United States, No. 95-49,
     Sept. 28, 1995, 60 F.R. 53677.]
 
+                         AFGHAN ALLIES PROTECTION                     
+      Pub. L. 111-8, div. F, title VI, Mar. 11, 2009, 123 Stat. 807, as
+    amended by Pub. L. 111-118, div. A, title VIII, Sec. 8120(b), Dec.
+    19, 2009, 123 Stat. 3457, provided that:
+
+      "SEC. 601. SHORT TITLE.
+      "This Act [probably should be "this title"] may be cited as the
+    'Afghan Allies Protection Act of 2009'.
+
+      "SEC. 602. PROTECTION FOR AFGHAN ALLIES.
+      "(a) Appropriate Committees of Congress Defined. - In this
+    section, the term 'appropriate committees of Congress' means - 
+        "(1) the Committee on Armed Services, the Committee on Foreign
+      Relations, and the Committee on the Judiciary of the Senate; and
+        "(2) the Committee on Armed Services, the Committee on Foreign
+      Affairs, and the Committee on the Judiciary of the House of
+      Representatives.
+      "(b) Special Immigrant Status for Certain Afghans. - 
+        "(1) In general. - Subject to paragraph (3), the Secretary of
+      Homeland Security, or, notwithstanding any other provision of
+      law, the Secretary of State in consultation with the Secretary of
+      Homeland Security, may provide an alien described in subparagraph
+      (A), (B), or (C) of paragraph (2) with the status of a special
+      immigrant under section 101(a)(27) of the Immigration and
+      Nationality Act (8 U.S.C. 1101(a)(27)), if the alien - 
+          "(A) or an agent acting on behalf of the alien, submits a
+        petition for classification under section 203(b)(4) of such Act
+        (8 U.S.C. 1153(b)(4));
+          "(B) is otherwise eligible to receive an immigrant visa;
+          "(C) is otherwise admissible to the United States for
+        permanent residence (excluding the grounds for inadmissibility
+        specified in section 212(a)(4) of such Act (8 U.S.C.
+        1182(a)(4))[)]; and
+          "(D) clears a background check and appropriate screening, as
+        determined by the Secretary of Homeland Security.
+        "(2) Aliens described. - 
+          "(A) Principal aliens. - An alien is described in this
+        subparagraph if the alien - 
+            "(i) is a citizen or national of Afghanistan;
+            "(ii) was or is employed by or on behalf of the United
+          States Government in Afghanistan on or after October 7, 2001,
+          for not less than one year;
+            "(iii) provided faithful and valuable service to the United
+          States Government, which is documented in a positive
+          recommendation or evaluation, subject to subparagraph (D),
+          from the employee's senior supervisor or the person currently
+          occupying that position, or a more senior person, if the
+          employee's senior supervisor has left the employer or has
+          left Afghanistan; and
+            "(iv) has experienced or is experiencing an ongoing serious
+          threat as a consequence of the alien's employment by the
+          United States Government.
+          "(B) Spouse or child. - An alien is described in this
+        subparagraph if the alien - 
+            "(i) is the spouse or child of a principal alien described
+          in subparagraph (A); and
+            "(ii) is accompanying or following to join the principal
+          alien in the United States.
+          "(C) Surviving spouse or child. - An alien is described in
+        this subparagraph if the alien - 
+            "(i) was the spouse or child of a principal alien described
+          in subparagraph (A) who had a petition for classification
+          approved pursuant to this section or section 1059 of the
+          National Defense Authorization Act for Fiscal Year 2006
+          (Public Law 109-163; 8 U.S.C. 1101 note) which included the
+          alien as an accompanying spouse or child; and
+            "(ii) due to the death of the principal alien - 
+         "(I) such petition was revoked or terminated (or otherwise
+          rendered null); and
+         "(II) such petition would have been approved if the principal
+          alien had survived.
+          "(D) Approval by chief of mission required. - A
+        recommendation or evaluation required under subparagraph
+        (A)(iii) shall be accompanied by approval from the appropriate
+        Chief of Mission, or the designee of the appropriate Chief of
+        Mission, who shall conduct a risk assessment of the alien and
+        an independent review of records maintained by the United
+        States Government or hiring organization or entity to confirm
+        employment and faithful and valuable service to the United
+        States Government prior to approval of a petition under this
+        section.
+        "(3) Numerical limitations. - 
+          "(A) In general. - Except as provided in subparagraph (C),
+        the total number of principal aliens who may be provided
+        special immigrant status under this section may not exceed
+        1,500 per year for each of the fiscal years 2009, 2010, 2011,
+        2012, and 2013.
+          "(B) Exclusion from numerical limitations. - Aliens provided
+        special immigrant status under this subsection shall not be
+        counted against any numerical limitation under sections 201(d),
+        202(a), or 203(b)(4) of the Immigration and Nationality Act (8
+        U.S.C. 1151(d), 1152(a), and 1153(b)(4)).
+          "(C) Carry forward. - 
+            "(i) Fiscal years 2009 through 2013. - If the numerical
+          limitation specified in subparagraph (A) is not reached
+          during a given fiscal year, with respect to fiscal year 2009,
+          2010, 2011, 2012, or 2013, the numerical limitation specified
+          in such subparagraph for the following fiscal year shall be
+          increased by a number equal to the difference between - 
+         "(I) the numerical limitation specified in subparagraph (A)
+          for the given fiscal year; and
+         "(II) the number of principal aliens provided special
+          immigrant status under this section during the given fiscal
+          year.
+            "(ii) Fiscal year 2014. - If the numerical limitation
+          determined under clause (i) is not reached in fiscal year
+          2013, the total number of principal aliens who may be
+          provided special immigrant status under this subsection for
+          fiscal year 2014 shall be equal to the difference between - 
+         "(I) the numerical limitation determined under clause (i) for
+          fiscal year 2013; and
+         "(II) the number of principal aliens provided such status
+          under this section during fiscal year 2013.
+        "(4) Prohibition on fees. - The Secretary of Homeland Security
+      or the Secretary of State may not charge an alien described in
+      subparagraph (A), (B), or (C) of paragraph (2) any fee in
+      connection with an application for, or issuance of, a special
+      immigrant visa under this section.
+        "(5) Assistance with passport issuance. - The Secretary of
+      State shall make a reasonable effort to ensure that an alien
+      described in subparagraph (A), (B), or (C) of paragraph (2) who
+      is issued a special immigrant visa pursuant to this subsection is
+      provided with the appropriate series Afghan passport necessary to
+      enter the United States.
+        "(6) Protection of aliens. - The Secretary of State, in
+      consultation with the heads of other appropriate Federal
+      agencies, shall make a reasonable effort to provide an alien
+      described in subparagraph (A), (B), or (C) of paragraph (2) who
+      is seeking special immigrant status under this subsection
+      protection or to immediately remove such alien from Afghanistan,
+      if possible, if the Secretary determines, after consultation,
+      that such alien is in imminent danger.
+        "(7) Other eligibility for immigrant status. - No alien shall
+      be denied the opportunity to apply for admission under this
+      subsection solely because such alien qualifies as an immediate
+      relative or is eligible for any other immigrant classification.
+        "(8) Resettlement support. - A citizen or national of
+      Afghanistan who is granted special immigrant status described in
+      section 101(a)(27) of the Immigration and Nationality Act (8
+      U.S.C. 1101(a)(27)) shall be eligible for resettlement
+      assistance, entitlement programs, and other benefits available to
+      refugees admitted under section 207 of such Act (8 U.S.C. 1157)
+      to the same extent, and for the same periods of time, as such
+      refugees.
+        "(9) Adjustment of status. - Notwithstanding paragraph (2),
+      (7), or (8) of subsection (c) of section 245 of the Immigration
+      and Nationality Act (8 U.S.C. 1255), the Secretary of Homeland
+      Security may adjust the status of an alien described in
+      subparagraph (A), (B), or (C) of paragraph (2) of this subsection
+      or in section 1244(b) of the Refugee Crisis in Iraq Act of 2007
+      (Public Law 110-181; 122 Stat. 397) [8 U.S.C. 1157 note] to that
+      of an alien lawfully admitted for permanent residence under
+      subsection (a) of such section 245 if the alien - 
+          "(A) was paroled or admitted as a nonimmigrant into the
+        United States; and
+          "(B) is otherwise eligible for special immigrant status under
+        - 
+            "(i)(I) this subsection; or
+            "(II) such section 1244(b); and
+            "(ii) the Immigration and Nationality Act (8 U.S.C. 1101 et
+          seq.).
+        "(10) Report on implementation and authority to carry out
+      administrative measures. - 
+          "(A) Requirement for report. - Not later than one year after
+        the date of the enactment of this Act [Mar. 11, 2009], the
+        Secretary of Homeland Security and the Secretary of State, in
+        consultation with the Secretary of Defense, shall submit to the
+        appropriate committees of Congress a report on the
+        implementation of this subsection.
+          "(B) Content of report. - The report required by subparagraph
+        (A) shall describe actions taken, and additional administrative
+        measures that may be needed, to ensure the integrity of the
+        program established under this subsection and the national
+        security interests of the United States related to such
+        program.
+          "(C) Authority to carry out administrative measures. - The
+        Secretary of Homeland Security and the Secretary of State shall
+        implement any additional administrative measures described in
+        subparagraph (B) as they may deem necessary and appropriate to
+        ensure the integrity of the program established under this
+        subsection and the national security interests of the United
+        States related to such program.
+        "(11) Annual report on use of special immigrant status. - 
+          "(A) Requirement. - Not later than 120 days after the date of
+        the enactment of this Act, and annually thereafter, the
+        Secretary of Homeland Security shall submit to the appropriate
+        committees of Congress a report on the number of citizens or
+        nationals of Afghanistan or Iraq who have applied for status as
+        special immigrants under this subsection or section 1244 of the
+        Refugee Crisis in Iraq Act of 2007 (Public Law 110-181; 122
+        Stat. 396) [8 U.S.C. 1157 note].
+          "(B) Content. - Each report required by subparagraph (A)
+        submitted in a fiscal year shall include the following
+        information for the previous fiscal year:
+            "(i) The number of citizens or nationals of Afghanistan or
+          Iraq who submitted an application for status as a special
+          immigrant pursuant to this section or section 1244 of the
+          Refugee Crisis in Iraq Act of 2007 (Public Law 110-181; 122
+          Stat. 396), disaggregated - 
+         "(I) by the number of principal aliens applying for such
+          status; and
+         "(II) by the number of spouses and children of principal
+          aliens applying for such status.
+            "(ii) The number of applications referred to in clause (i)
+          that - 
+         "(I) were approved; or
+         "(II) were denied, including a description of the basis for
+          each denial.
+      "(c) Information Regarding Citizens or Nationals of Afghanistan
+    Employed by the United States or Federal Contractors in
+    Afghanistan. - 
+        "(1) Requirement to compile information. - 
+          "(A) In general. - Not later than 120 days after the date of
+        the enactment of this Act [Mar. 11, 2009], the Administrator of
+        the United States Agency for International Development, the
+        Secretary of Defense, the Secretary of Homeland Security, the
+        Secretary of State, and the Secretary of the Treasury shall - 
+            "(i) review internal records and databases of their
+          respective agencies for information that can be used to
+          verify employment of citizens or nationals of Afghanistan by
+          the United States Government; and
+            "(ii) request from each prime contractor or grantee that
+          has performed work in Afghanistan since October 7, 2001,
+          under a contract, grant, or cooperative agreement with their
+          respective agencies that is valued in excess of $25,000,
+          information that may be used to verify the employment of such
+          citizens or nationals by such contractor or grantee.
+          "(B) Information required. - To the extent data is available,
+        the information referred to in subparagraph (A) shall include
+        the name and dates of employment of, biometric data for, and
+        other data that can be used to verify the employment of each
+        citizen or national of Afghanistan who has performed work in
+        Afghanistan since October 7, 2001, under a contract, grant, or
+        cooperative agreement with an executive agency.
+        "(2) Report on establishment of database. - Not later than 120
+      days after the date of the enactment of this Act, the Secretary
+      of Defense, in consultation with the Administrator of the United
+      States Agency for International Development, the Secretary of
+      Homeland Security, the Secretary of State, and the Secretary of
+      the Treasury, shall submit to the appropriate committees of
+      Congress a report examining the options for establishing a
+      unified and classified database of information related to
+      contracts, grants, or cooperative agreements entered into by
+      executive agencies for the performance of work in Afghanistan
+      since October 7, 2001, including the information described and
+      collected under paragraph (1), to be used by relevant Federal
+      departments and agencies to adjudicate refugee, asylum, special
+      immigrant visa, and other immigration claims and applications.
+        "(3) Report on noncompliance. - Not later than 180 days after
+      the date of the enactment of this Act, the President shall submit
+      to the appropriate committees of Congress a report that describes
+      - 
+          "(A) the inability or unwillingness of any contractor or
+        grantee to provide the information requested under paragraph
+        (1)(A)(ii); and
+          "(B) the reasons that such contractor or grantee provided for
+        failing to provide such information.
+        "(4) Executive agency defined. - In this subsection, the term
+      'executive agency' has the meaning given that term in section 4
+      of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
+      "(d) Rule of Construction. - Nothing in this section may be
+    construed to affect the authority of the Secretary of Homeland
+    Security under section 1059 of the National Defense Authorization
+    Act for Fiscal Year 2006 (Public Law 109-163; 8 U.S.C. 1101 note)."
+
      SPECIAL IMMIGRANT STATUS FOR PERSONS SERVING AS TRANSLATORS WITH
                         UNITED STATES ARMED FORCES
       Pub. L. 110-242, Sec. 2, June 3, 2008, 122 Stat. 1567, provided
@@ -8796,7 +9068,7 @@
 
 
 -CITE-
-    8 USC Sec. 1102                                             01/05/2009
+    8 USC Sec. 1102                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -8899,7 +9171,7 @@
 
 
 -CITE-
-    8 USC Sec. 1103                                             01/05/2009
+    8 USC Sec. 1103                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -9064,25 +9336,6 @@
       determinations in immigration proceedings, delegate such
       authority, and perform such other acts as the Attorney General
       determines to be necessary for carrying out this section.
-    (h) Office of Special Investigations
-      (1) The Attorney General shall establish within the Criminal
-    Division of the Department of Justice an Office of Special
-    Investigations with the authority to detect and investigate, and,
-    where appropriate, to take legal action to denaturalize any alien
-    described in section 1182(a)(3)(E) of this title.
-      (2) The Attorney General shall consult with the Secretary of
-    Homeland Security in making determinations concerning the criminal
-    prosecution or extradition of aliens described in section
-    1182(a)(3)(E) of this title.
-      (3) In determining the appropriate legal action to take against
-    an alien described in section 1182(a)(3)(E) of this title,
-    consideration shall be given to - 
-        (A) the availability of criminal prosecution under the laws of
-      the United States for any conduct that may form the basis for
-      removal and denaturalization; or
-        (B) the availability of extradition of the alien to a foreign
-      jurisdiction that is prepared to undertake a prosecution for such
-      conduct.
 
 -SOURCE-
     (June 27, 1952, ch. 477, title I, Sec. 103, 66 Stat. 173; Pub. L.
@@ -9094,7 +9347,8 @@
     107-296, title XI, Sec. 1102, Nov. 25, 2002, 116 Stat. 2273; Pub.
     L. 108-7, div. L, Sec. 105(a)(1), (2), Feb. 20, 2003, 117 Stat.
     531; Pub. L. 108-458, title V, Sec. 5505(a), Dec. 17, 2004, 118
-    Stat. 3741.)
+    Stat. 3741; Pub. L. 111-122, Sec. 2(a), Dec. 22, 2009, 123 Stat.
+    3480.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -9116,6 +9370,12 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (h). Pub. L. 111-122 struck out subsec. (h), which
+    directed the Attorney General to establish within the Criminal
+    Division of the Department of Justice an Office of Special
+    Investigations and to consult with the Secretary of Homeland
+    Security concerning the prosecution or extradition of certain
+    aliens.
       2004 - Subsec. (h). Pub. L. 108-458 added subsec. (h).
       2003 - Subsec. (a). Pub. L. 108-7, Sec. 105(a)(1), amended Pub.
     L. 107-296, Sec. 1102(2). See 2002 Amendment notes below.
@@ -9315,11 +9575,11 @@
           such fencing is to be constructed.
             "(ii) Savings provision. - Nothing in this subparagraph may
           be construed to - 
-    "(I) create or negate any right of action for a State, local
+         "(I) create or negate any right of action for a State, local
           government, or other person or entity affected by this
           subsection; or
-    "(II) affect the eminent domain laws of the United States or of any
-          State.
+         "(II) affect the eminent domain laws of the United States or
+          of any State.
           "(D) Limitation on requirements. - Notwithstanding
         subparagraph (A), nothing in this paragraph shall require the
         Secretary of Homeland Security to install fencing, physical
@@ -9636,7 +9896,7 @@
 
 
 -CITE-
-    8 USC Sec. 1104                                             01/05/2009
+    8 USC Sec. 1104                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -9815,7 +10075,7 @@
 
 
 -CITE-
-    8 USC Sec. 1105                                             01/05/2009
+    8 USC Sec. 1105                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -9958,7 +10218,7 @@
 
 
 -CITE-
-    8 USC Sec. 1105a                                            01/05/2009
+    8 USC Sec. 1105a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10024,7 +10284,7 @@
 
 
 -CITE-
-    8 USC Sec. 1106                                             01/05/2009
+    8 USC Sec. 1106                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10062,7 +10322,7 @@
 
 
 -CITE-
-    8 USC Sec. 1107                                             01/05/2009
+    8 USC Sec. 1107                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10098,7 +10358,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER II - IMMIGRATION                           01/05/2009
+    8 USC SUBCHAPTER II - IMMIGRATION                           02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10112,7 +10372,7 @@
 
 
 -CITE-
-    8 USC Part I - Selection System                             01/05/2009
+    8 USC Part I - Selection System                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10128,7 +10388,7 @@
 
 
 -CITE-
-    8 USC Sec. 1151                                             01/05/2009
+    8 USC Sec. 1151                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10192,19 +10452,18 @@
       spouses, and parents of a citizen of the United States, except
       that, in the case of parents, such citizens shall be at least 21
       years of age. In the case of an alien who was the spouse of a
-      citizen of the United States for at least 2 years at the time of
-      the citizen's death and was not legally separated from the
-      citizen at the time of the citizen's death, the alien (and each
-      child of the alien) shall be considered, for purposes of this
-      subsection, to remain an immediate relative after the date of the
-      citizen's death but only if the spouse files a petition under
-      section 1154(a)(1)(A)(ii) of this title within 2 years after such
-      date and only until the date the spouse remarries. For purposes
-      of this clause, an alien who has filed a petition under clause
-      (iii) or (iv) of section 1154(a)(1)(A) of this title remains an
-      immediate relative in the event that the United States citizen
-      spouse or parent loses United States citizenship on account of
-      the abuse.
+      citizen of the United States and was not legally separated from
+      the citizen at the time of the citizen's death, the alien (and
+      each child of the alien) shall be considered, for purposes of
+      this subsection, to remain an immediate relative after the date
+      of the citizen's death but only if the spouse files a petition
+      under section 1154(a)(1)(A)(ii) of this title within 2 years
+      after such date and only until the date the spouse remarries. For
+      purposes of this clause, an alien who has filed a petition under
+      clause (iii) or (iv) of section 1154(a)(1)(A) of this title
+      remains an immediate relative in the event that the United States
+      citizen spouse or parent loses United States citizenship on
+      account of the abuse.
         (ii) Aliens admitted under section 1181(a) of this title on the
       basis of a prior issuance of a visa to their accompanying parent
       who is such an immediate relative.
@@ -10336,11 +10595,15 @@
     3009-624, 3009-690, 3009-723; Pub. L. 106-386, div. B, title V,
     Sec. 1507(a)(3), Oct. 28, 2000, 114 Stat. 1530; Pub. L. 107-208,
     Sec. 2, Aug. 6, 2002, 116 Stat. 927; Pub. L. 109-162, title VIII,
-    Sec. 805(b)(1), Jan. 5, 2006, 119 Stat. 3056.)
+    Sec. 805(b)(1), Jan. 5, 2006, 119 Stat. 3056; Pub. L. 111-83, title
+    V, Sec. 568(c)(1), Oct. 28, 2009, 123 Stat. 2186.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (b)(2)(A)(i). Pub. L. 111-83 struck out "for at
+    least 2 years at the time of the citizen's death" before "and was
+    not legally separated" in second sentence.
       2006 - Subsec. (f)(4). Pub. L. 109-162 added par. (4).
       2002 - Subsec. (f). Pub. L. 107-208 added subsec. (f).
       2000 - Subsec. (b)(2)(A)(i). Pub. L. 106-386 inserted at end "For
@@ -10447,6 +10710,30 @@
     the immigration pool on June 30, 1968, for provisions permitting
     reduction of annual quotas based on national origins pursuant to
     Act of Congress prior to effective date of proclaimed quotas.
+
+                     EFFECTIVE DATE OF 2009 AMENDMENT                 
+      Pub. L. 111-83, title V, Sec. 568(c)(2), Oct. 28, 2009, 123 Stat.
+    2186, provided that:
+      "(A) In general. - The amendment made by paragraph (1) [amending
+    this section] shall apply to all applications and petitions
+    relating to immediate relative status under section 201(b)(2)(A)(i)
+    of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i))
+    pending on or after the date of the enactment of this Act [Oct. 28,
+    2009].
+      "(B) Transition cases. - 
+        "(i) In general. - Notwithstanding any other provision of law,
+      an alien described in clause (ii) who seeks immediate relative
+      status pursuant to the amendment made by paragraph (1) shall file
+      a petition under section 204(a)(1)(A)(ii) of the Immigration and
+      Nationality Act (8 U.S.C. 1154(a)(1)(A)(ii)) not later than the
+      date that is 2 years after the date of the enactment of this Act.
+        "(ii) Aliens described. - An alien is described in this clause
+      if - 
+          "(I) the alien's United States citizen spouse died before the
+        date of the enactment of this Act;
+          "(II) the alien and the citizen spouse were married for less
+        than 2 years at the time of the citizen spouse's death; and
+          "(III) the alien has not remarried."
 
                      EFFECTIVE DATE OF 2002 AMENDMENT                 
       Pub. L. 107-208, Sec. 8, Aug. 6, 2002, 116 Stat. 930, provided
@@ -10786,7 +11073,7 @@
 
 
 -CITE-
-    8 USC Sec. 1151a                                            01/05/2009
+    8 USC Sec. 1151a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10816,7 +11103,7 @@
 
 
 -CITE-
-    8 USC Sec. 1152                                             01/05/2009
+    8 USC Sec. 1152                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -11337,7 +11624,7 @@
 
 
 -CITE-
-    8 USC Sec. 1153                                             01/05/2009
+    8 USC Sec. 1153                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -12376,12 +12663,20 @@
       years after such date."
 
                          PILOT IMMIGRATION PROGRAM                     
+      Pub. L. 110-329, div. A, Sec. 144, Sept. 30, 2008, 122 Stat.
+    3581, as amended by Pub. L. 111-8, div. J, Sec. 101, Mar. 11, 2009,
+    123 Stat. 988, provided that: "The requirement set forth in section
+    610(b) of the Departments of Commerce, Justice, and State, the
+    Judiciary, and Related Agencies Appropriations Act, 1993 [Pub. L.
+    102-395] (8 U.S.C. 1153 note) shall continue through September 30,
+    2009."
       Pub. L. 102-395, title VI, Sec. 610, Oct. 6, 1992, 106 Stat.
     1874, as amended by Pub. L. 105-119, title I, Sec. 116(a), Nov. 26,
     1997, 111 Stat. 2467; Pub. L. 106-396, Sec. 402, Oct. 30, 2000, 114
     Stat. 1647; Pub. L. 107-273, div. C, title I, Sec. 11037(a), Nov.
     2, 2002, 116 Stat. 1847; Pub. L. 108-156, Sec. 4, Dec. 3, 2003, 117
-    Stat. 1945, provided that:
+    Stat. 1945; Pub. L. 111-83, title V, Sec. 548, Oct. 28, 2009, 123
+    Stat. 2177, provided that:
       "(a) Of the visas otherwise available under section 203(b)(5) of
     the Immigration and Nationality Act (8 U.S.C. 1153(b)(5)), the
     Secretary of State, together with the Secretary of Homeland
@@ -12403,13 +12698,13 @@
       "(b) For purposes of the pilot program established in subsection
     (a), beginning on October 1, 1992, but no later than October 1,
     1993, the Secretary of State, together with the Secretary of
-    Homeland Security, shall set aside 3,000 visas annually for 15
-    years to include such aliens as are eligible for admission under
-    section 203(b)(5) of the Immigration and Nationality Act [8 U.S.C.
-    1153(b)(5)] and this section, as well as spouses or children which
-    are eligible, under the terms of the Immigration and Nationality
-    Act [8 U.S.C. 1101 et seq.], to accompany or follow to join such
-    aliens.
+    Homeland Security, shall set aside 3,000 visas annually until
+    September 30, 2012 to include such aliens as are eligible for
+    admission under section 203(b)(5) of the Immigration and
+    Nationality Act [8 U.S.C. 1153(b)(5)] and this section, as well as
+    spouses or children which are eligible, under the terms of the
+    Immigration and Nationality Act [8 U.S.C. 1101 et seq.], to
+    accompany or follow to join such aliens.
       "(c) In determining compliance with section
     203(b)(5)(A)(iii)[(ii)] of the Immigration and Nationality Act [8
     U.S.C. 1153(b)(5)(A)(iii)[(ii)]], and notwithstanding the
@@ -12945,7 +13240,7 @@
 
 
 -CITE-
-    8 USC Sec. 1154                                             01/05/2009
+    8 USC Sec. 1154                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -13324,7 +13619,7 @@
     title, the Attorney General shall, if he determines that the facts
     stated in the petition are true and that the alien in behalf of
     whom the petition is made is an immediate relative specified in
-    section 1151(b) of this title, or is eligible for preference under
+    section 1151(b) of this title or is eligible for preference under
     subsection (a) or (b) of section 1153 of this title, approve the
     petition and forward one copy thereof to the Department of State.
     The Secretary of State shall then authorize the consular officer
@@ -13525,6 +13820,40 @@
         This subsection shall apply to a petition if it is properly
       filed, regardless of whether it was approved or not before such
       naturalization.
+    (l) Surviving relative consideration for certain petitions and
+      applications
+      (1) In general
+        An alien described in paragraph (2) who resided in the United
+      States at the time of the death of the qualifying relative and
+      who continues to reside in the United States shall have such
+      petition described in paragraph (2), or an application for
+      adjustment of status to that of a person admitted for lawful
+      permanent residence based upon the family relationship described
+      in paragraph (2), and any related applications, adjudicated
+      notwithstanding the death of the qualifying relative, unless the
+      Secretary of Homeland Security determines, in the unreviewable
+      discretion of the Secretary, that approval would not be in the
+      public interest.
+      (2) Alien described
+        An alien described in this paragraph is an alien who,
+      immediately prior to the death of his or her qualifying relative,
+      was - 
+          (A) the beneficiary of a pending or approved petition for
+        classification as an immediate relative (as described in
+        section 1151(b)(2)(A)(i) of this title);
+          (B) the beneficiary of a pending or approved petition for
+        classification under section 1153(a) or (d) of this title;
+          (C) a derivative beneficiary of a pending or approved
+        petition for classification under section 1153(b) of this title
+        (as described in section 1153(d) of this title);
+          (D) the beneficiary of a pending or approved refugee/asylee
+        relative petition under section 1157 or 1158 of this title;
+          (E) an alien admitted in "T" nonimmigrant status as described
+        in section 1101(a)(15)(T)(ii) of this title or in "U"
+        nonimmigrant status as described in section 1101(a)(15)(U)(ii)
+        of this title; or
+          (F) an asylee (as described in section 1158(b)(3) of this
+        title).
 
 -SOURCE-
     (June 27, 1952, ch. 477, title II, ch. 1, Sec. 204, 66 Stat. 179;
@@ -13553,7 +13882,8 @@
     805(a),(c), 814(b),(e), 816, Jan. 5, 2006, 119 Stat. 3056, 3059,
     3060; Pub. L. 109-248, title IV, Sec. 402(a), July 27, 2006, 120
     Stat. 622; Pub. L. 109-271, Sec. 6(a), Aug. 12, 2006, 120 Stat.
-    762.)
+    762; Pub. L. 111-83, title V, Sec. 568(d)(1), Oct. 28, 2009, 123
+    Stat. 2187.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -13574,6 +13904,7 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (l). Pub. L. 111-83 added subsec. (l).
       2006 - Subsec. (a)(1)(A)(i). Pub. L. 109-248, Sec. 402(a)(1),
     substituted "Except as provided in clause (viii), any" for "Any".
       Subsec. (a)(1)(A)(vii). Pub. L. 109-162, Sec. 816, added cl.
@@ -13932,6 +14263,16 @@
     of Pub. L. 89-236, set out as a note under section 1151 of this
     title.
 
+                      CONSTRUCTION OF 2009 AMENDMENT                  
+      Pub. L. 111-83, title V, Sec. 568(d)(2), Oct. 28, 2009, 123 Stat.
+    2187, provided that: "Nothing in the amendment made by paragraph
+    (1) [amending this section] may be construed to limit or waive any
+    ground of removal, basis for denial of petition or application, or
+    other criteria for adjudicating petitions or applications as
+    otherwise provided under the immigration laws of the United States
+    other than ineligibility based solely on the lack of a qualifying
+    family relationship as specifically provided by such amendment."
+
 
 -TRANS-
     ABOLITION OF IMMIGRATION AND NATURALIZATION SERVICE AND TRANSFER OF
@@ -13966,7 +14307,7 @@
 
 
 -CITE-
-    8 USC Sec. 1155                                             01/05/2009
+    8 USC Sec. 1155                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -14070,7 +14411,7 @@
 
 
 -CITE-
-    8 USC Sec. 1156                                             01/05/2009
+    8 USC Sec. 1156                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -14126,7 +14467,7 @@
 
 
 -CITE-
-    8 USC Sec. 1157                                             01/05/2009
+    8 USC Sec. 1157                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -14415,7 +14756,9 @@
                             IRAQ REFUGEE CRISIS                        
       Pub. L. 110-181, div. A, title XII, subtitle C, Jan. 28, 2008,
     122 Stat. 395, as amended by Pub. L. 110-242, Sec. 1, June 3, 2008,
-    122 Stat. 1567, provided that:
+    122 Stat. 1567; Pub. L. 111-84, div. A, title VIII, Sec. 813(d),
+    Oct. 28, 2009, 123 Stat. 2407; Pub. L. 111-118, div. A, title VIII,
+    Sec. 8120(a), Dec. 19, 2009, 123 Stat. 3457, provided that:
 
       "SEC. 1241. SHORT TITLE.
       "This subtitle may be cited as the 'Refugee Crisis in Iraq Act of
@@ -14624,7 +14967,8 @@
     and Nationality Act (8 U.S.C. 1101(a)(27)) shall be eligible for
     resettlement assistance, entitlement programs, and other benefits
     available to refugees admitted under section 207 of such Act (8
-    U.S.C. 1157) for a period not to exceed eight months.
+    U.S.C. 1157) to the same extent, and for the same periods of time,
+    as such refugees.
       "(h) Rule of Construction. - Nothing in this section may be
     construed to affect the authority of the Secretary of Homeland
     Security under section 1059 of the National Defense Authorization
@@ -14738,7 +15082,7 @@
           "(B) request from each prime contractor or grantee that has
         performed work in Iraq since March 20, 2003, under a contract,
         grant, or cooperative agreement with their respective agencies
-        that is valued in excess of $25,000 information that can be
+        that is valued in excess of $100,000 information that can be
         used to verify the employment of Iraqi nationals by such
         contractor or grantee.
         "(2) Information required. - To the extent data is available,
@@ -15021,7 +15365,10 @@
     2005, 119 Stat. 2211; Pub. L. 109-289, div. B, title II, Sec.
     20412(b)(1), as added by Pub. L. 110-5, Sec. 2, Feb. 15, 2007, 121
     Stat. 25; Pub. L. 110-161, div. J, title VI, Sec. 634(k)(1), Dec.
-    26, 2007, 121 Stat. 2329, provided that:
+    26, 2007, 121 Stat. 2329; Pub. L. 111-8, div. H, title VII, Sec.
+    7034(g)(1), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111-117, div. F,
+    title VII, Sec. 7034(f)(1), Dec. 16, 2009, 123 Stat. 3361, provided
+    that:
       "(a) In General. - In the case of an alien who is within a
     category of aliens established under subsection (b), the alien may
     establish, for purposes of admission as a refugee under section 207
@@ -15077,9 +15424,9 @@
       the Immigration and Nationality Act [8 U.S.C. 1157(a)(3)] and
       within the number of such admissions allocated for each of fiscal
       years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002,
-      2003, 2004, 2005, 2006, 2007, and 2008 for refugees who are
-      nationals of the independent states of the former Soviet Union,
-      Estonia, Latvia, and Lithuania under such section,
+      2003, 2004, 2005, 2006, 2007, 2008, 2009, and 2010 for refugees
+      who are nationals of the independent states of the former Soviet
+      Union, Estonia, Latvia, and Lithuania under such section,
       notwithstanding any other provision of law, the President shall
       allocate one thousand of such admissions for such fiscal year to
       refugees who are within the category of aliens described in
@@ -15099,12 +15446,12 @@
       "(e) Period of Application. - 
         "(1) Subsections (a) and (b) shall take effect on the date of
       the enactment of this Act [Nov. 21, 1989] and shall only apply to
-      applications for refugee status submitted before October 1, 2008.
+      applications for refugee status submitted before October 1, 2010.
         "(2) Subsection (c) shall apply to decisions made after the
-      date of the enactment of this Act and before October 1, 2008.
+      date of the enactment of this Act and before October 1, 2010.
         "(3) Subsection (d) shall take effect on the date of the
       enactment of this Act and shall only apply to reapplications for
-      refugee status submitted before October 1, 2008."
+      refugee status submitted before October 1, 2010."
       [Pub. L. 109-102, Sec. 534(m)(1)(A), which directed amendment of
     section 599D(b)(3) of Pub. L. 101-167, set out above, by
     substituting "2005, and 2006" for "and 2005", could not be
@@ -15160,6 +15507,8 @@
     concerning the admission and adjustment of status of refugees for
     particular fiscal years were contained in the following
     Presidential Determinations:
+      Presidential Determination No. 2009-32, Sept. 30, 2009, 74 F.R.
+    52385.
       Presidential Determination No. 2008-29, Sept. 30, 2008, 73 F.R.
     58865.
       Presidential Determination No. 2008-1, Oct. 2, 2007, 72 F.R.
@@ -15254,7 +15603,7 @@
 
 
 -CITE-
-    8 USC Sec. 1158                                             01/05/2009
+    8 USC Sec. 1158                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -15763,7 +16112,7 @@
 
 
 -CITE-
-    8 USC Sec. 1159                                             01/05/2009
+    8 USC Sec. 1159                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -15971,7 +16320,7 @@
 
 
 -CITE-
-    8 USC Sec. 1160                                             01/05/2009
+    8 USC Sec. 1160                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -16562,7 +16911,7 @@
 
 
 -CITE-
-    8 USC Sec. 1161                                             01/05/2009
+    8 USC Sec. 1161                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -16598,7 +16947,7 @@
 -CITE-
     8 USC Part II - Admission Qualifications for Aliens;
                      Travel Control of Citizens and
-                     Aliens                                01/05/2009
+                     Aliens                                02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -16616,7 +16965,7 @@
 
 
 -CITE-
-    8 USC Sec. 1181                                             01/05/2009
+    8 USC Sec. 1181                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -16635,8 +16984,8 @@
     unless at the time of application for admission he (1) has a valid
     unexpired immigrant visa or was born subsequent to the issuance of
     such visa of the accompanying parent, and (2) presents a valid
-    unexpired passport or other suitable travel document or document of
-    identity and nationality, if such document is required under the
+    unexpired passport or other suitable travel document, or document
+    of identity and nationality, if such document is required under the
     regulations issued by the Attorney General. With respect to
     immigrants to be admitted under quotas of quota areas prior to June
     30, 1968, no immigrant visa shall be deemed valid unless the
@@ -16730,7 +17079,7 @@
 
 
 -CITE-
-    8 USC Sec. 1182                                             01/05/2009
+    8 USC Sec. 1182                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -17205,10 +17554,8 @@
           origin, or political opinion is inadmissible.
           (ii) Participation in genocide
             Any alien who ordered, incited, assisted, or otherwise
-          participated in conduct outside the United States that would,
-          if committed in the United States or by a United States
-          national, be genocide, as defined in section 1091(a) of title
-          18, is inadmissible.
+          participated in genocide, as defined in section 1091(a) of
+          title 18, is inadmissible.
           (iii) Commission of acts of torture or extrajudicial killings
             Any alien who, outside the United States, has committed,
           ordered, incited, assisted, or otherwise participated in the
@@ -19217,7 +19564,7 @@
     existing government survey has only 2 levels, 2 intermediate levels
     may be created by dividing by 3, the difference between the 2
     levels offered, adding the quotient thus obtained to the first
-    level and subtracting that quotient from the second level
+    level and subtracting that quotient from the second level.
     (q) Academic honoraria
       Any alien admitted under section 1101(a)(15)(B) of this title may
     accept an honorarium payment and associated incidental expenses for
@@ -19696,7 +20043,8 @@
     110-293, title III, Sec. 305, July 30, 2008, 122 Stat. 2963; Pub.
     L. 110-340, Sec. 2(b), Oct. 3, 2008, 122 Stat. 3736; Pub. L. 110-
     457, title II, Secs. 222(f)(1), 234, Dec. 23, 2008, 122 Stat.
-    5071, 5074.)
+    5071, 5074; Pub. L. 111-122, Sec. 3(b), Dec. 22, 2009, 123 Stat.
+    3481.)
 
 
 -STATAMEND-
@@ -19747,6 +20095,9 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (a)(3)(E)(ii). Pub. L. 111-122 struck out "conduct
+    outside the United States that would, if committed in the United
+    States or by a United States national, be" before "genocide".
       2008 - Subsec. (a)(1)(A)(i). Pub. L. 110-293 substituted a
     semicolon for ", which shall include infection with the etiologic
     agent for acquired immune deficiency syndrome,".
@@ -21021,6 +21372,14 @@
 
 -MISC2-
                      EFFECTIVE DATE OF 2008 AMENDMENT                 
+      Pub. L. 111-122, Sec. 3(c), Dec. 22, 2009, 123 Stat. 3481,
+    provided that: "The amendments made by subsections (b), (c), and
+    (d) of the Child Soldiers Accountability Act of 2008 (Public Law
+    110-340) [probably means subsecs. (b) to (d) of section 2 of Public
+    Law 110-340, amending this section and section 1227 of this title]
+    shall apply to offenses committed before, on, or after the date of
+    the enactment of the Child Soldiers Accountability Act of 2008
+    [Oct. 3, 2008]."
       Amendment by Pub. L. 110-229 effective on the transition program
     effective date described in section 1806 of Title 48, Territories
     and Insular Possessions, see section 705(b) of Pub. L. 110-229, set
@@ -21386,13 +21745,15 @@
     I, Sec. 11018(b), Nov. 2, 2002, 116 Stat. 1825; Pub. L. 108-441,
     Sec. 1(a)(1), Dec. 3, 2004, 118 Stat. 2630; Pub. L. 109-477, Sec.
     2, Jan. 12, 2007, 120 Stat. 3572; Pub. L. 110-362, Sec. 1, Oct. 8,
-    2008, 122 Stat. 4013, provided that: "The amendments made by this
-    section [amending this section and section 1184 of this title]
-    shall apply to aliens admitted to the United States under section
-    101(a)(15)(J) of the Immigration and Nationality Act [8 U.S.C.
-    1101(a)(15)(J)], or acquiring such status after admission to the
-    United States, before, on, or after the date of enactment of this
-    Act [Oct. 25, 1994] and before March 6, 2009."
+    2008, 122 Stat. 4013; Pub. L. 111-9, Sec. 2, Mar. 20, 2009, 123
+    Stat. 989; Pub. L. 111-83, title V, Sec. 568(b), Oct. 28, 2009, 123
+    Stat. 2186, provided that: "The amendments made by this section
+    [amending this section and section 1184 of this title] shall apply
+    to aliens admitted to the United States under section 101(a)(15)(J)
+    of the Immigration and Nationality Act [8 U.S.C. 1101(a)(15)(J)],
+    or acquiring such status after admission to the United States,
+    before, on, or after the date of enactment of this Act [Oct. 25,
+    1994] and before September 30, 2012."
       [Pub. L. 109-477, Sec. 3, Jan. 12, 2007, 120 Stat. 3572, provided
     that: "The amendment made by section 2 [amending section 220(c) of
     Pub. L. 103-416, set out above] shall take effect as if enacted on
@@ -21686,28 +22047,33 @@
 
     INADMISSIBILITY OF FOREIGN OFFICIALS AND FAMILY MEMBERS INVOLVED IN
                                 KLEPTOCRACY
-      Pub. L. 110-161, div. J, title VI, Sec. 699L, Dec. 26, 2007, 121
-    Stat. 2373, provided that:
+      Pub. L. 111-117, div. F, title VII, Sec. 7084, Dec. 16, 2009, 123
+    Stat. 3400, provided that:
       "(a) In furtherance of the National Strategy to Internationalize
     Efforts Against Kleptocracy and Presidential Proclamation 7750 [set
     out below], the Secretary of State shall compile and maintain a
     list of officials of foreign governments and their immediate family
-    members who the Secretary determines there is credible evidence to
-    believe have been involved in corruption relating to the extraction
-    of natural resources in their countries.
-      "(b) Any individual on the list submitted under subsection (a)
+    members who the Secretary has credible evidence have been involved
+    in corruption relating to the extraction of natural resources in
+    their countries.
+      "(b) Any individual on the list compiled under subsection (a)
     shall be ineligible for admission to the United States.
-      "(c) The Secretary may waive the application of subsection (a) if
+      "(c) The Secretary may waive the application of subsection (b) if
     the Secretary determines that admission to the United States is
     necessary to attend the United Nations or to further United States
     law enforcement objectives, or that the circumstances which caused
     the individual to be included on the list have changed sufficiently
     to justify the removal of the individual from the list.
-      "(d) Not later than 90 days after enactment of this Act [Dec. 26,
-    2007] and 180 days thereafter, the Secretary of State shall submit
-    a report, in classified form if necessary, to the Committees on
-    Appropriations describing the evidence considered in determining
-    involvement pursuant to subsection (a)."
+      "(d) Not later than 90 days after enactment of this Act [Dec. 16,
+    2009] and 180 days thereafter, the Secretary of State shall report
+    in writing, in classified form if necessary, to the Committees on
+    Appropriations describing the evidence of corruption concerning
+    each of the individuals listed pursuant to subsection (a)."
+      Similar provisions were contained in the following prior acts:
+      Pub. L. 111-8, div. H, title VII, Sec. 7086, Mar. 11, 2009, 123
+    Stat. 912.
+      Pub. L. 110-161, div. J, title VI, Sec. 699L, Dec. 26, 2007, 121
+    Stat. 2373.
 
                         MONEY LAUNDERING WATCHLIST                    
       Pub. L. 107-56, title X, Sec. 1006(b), Oct. 26, 2001, 115 Stat.
@@ -22381,6 +22747,88 @@
     twenty-eighth.
                                                          George W. Bush.
 
+    PROC. NO. 8342. TO SUSPEND ENTRY AS IMMIGRANTS AND NONIMMIGRANTS OF
+      FOREIGN GOVERNMENT OFFICIALS RESPONSIBLE FOR FAILING TO COMBAT
+                          TRAFFICKING IN PERSONS
+      Proc. No. 8342, Jan. 16, 2009, 74 F.R. 4093, provided:
+      In order to foster greater resolve to address trafficking in
+    persons (TIP), specifically in punishing acts of trafficking and
+    providing protections to the victims of these crimes, consistent
+    with the Trafficking Victims Protection Act of 2000, as amended
+    (the "Act") (22 U.S.C. 7101 et seq.), it is in the interests of the
+    United States to restrict the international travel and to suspend
+    entry into the United States, as immigrants or nonimmigrants, of
+    certain senior government officials responsible for domestic law
+    enforcement, justice, or labor affairs who have impeded their
+    governments' antitrafficking efforts, have failed to implement
+    their governments' antitrafficking laws and policies, or who
+    otherwise bear responsibility for their governments' failures to
+    take steps recognized internationally as appropriate to combat
+    trafficking in persons, and whose governments have been ranked more
+    than once as Tier 3 countries, which represent the worst anti-TIP
+    performers, in the Department of State's annual Trafficking in
+    Persons Report, and for which I have made a determination pursuant
+    to section 110(d)(1)-(2) or (4) of the Act. The Act reflects
+    international antitrafficking standards that guide efforts to
+    eradicate this modern-day form of slavery around the world.
+      NOW, THEREFORE, I, GEORGE W. BUSH, President of the United States
+    of America, by virtue of the authority vested in me by the
+    Constitution and the laws of the United States, including section
+    212(f) of the Immigration and Nationality Act of 1952, 8 U.S.C.
+    1182(f), and section 301 of title 3, United States Code, hereby
+    find that the unrestricted immigrant and nonimmigrant entry into
+    the United States of persons described in section 1 of this
+    proclamation would, except as provided for in sections 2 and 3 of
+    this proclamation, be detrimental to the interests of the United
+    States.
+      I therefore hereby proclaim that:
+      Section 1. The entry into the United States, as immigrants or
+    nonimmigrants, of the following aliens is hereby suspended:
+      (a) Senior government officials - defined as the heads of
+    ministries or agencies and officials occupying positions within the
+    two bureaucratic levels below those top positions - responsible for
+    domestic law enforcement, justice, or labor affairs who have
+    impeded their governments' antitrafficking efforts, have failed to
+    implement their governments' antitrafficking laws and policies, or
+    who otherwise bear responsibility for their governments' failures
+    to take steps recognized internationally as appropriate to combat
+    trafficking in persons, and who are members of governments for
+    which I have made a determination pursuant to section 110(d)(1)-(2)
+    or (4) of the Act, in the current year and at least once in the
+    preceding 3 years;
+      (b) The spouses of persons described in subsection (a) of this
+    section.
+      Sec. 2. Section 1 of this proclamation shall not apply with
+    respect to any person otherwise covered by section 1 where entry of
+    such person would not be contrary to the interest of the United
+    States.
+      Sec. 3. Persons covered by sections 1 or 2 of this proclamation
+    shall be identified by the Secretary of State or the Secretary's
+    designee, in his or her sole discretion, pursuant to such
+    procedures as the Secretary may establish under section 5 of this
+    proclamation.
+      Sec. 4. Nothing in this proclamation shall be construed to
+    derogate from United States Government obligations under applicable
+    international agreements.
+      Sec. 5. The Secretary of State shall implement this proclamation
+    pursuant to such procedures as the Secretary, in consultation with
+    the Secretary of Homeland Security, may establish.
+      Sec. 6. This proclamation is effective immediately. It shall
+    remain in effect until such time as the Secretary of State
+    determines that it is no longer necessary and should be terminated,
+    either in whole or in part. Any such determination by the Secretary
+    of State shall be published in the Federal Register.
+      Sec. 7. This proclamation is not intended to, and does not,
+    create any right, benefit, or privilege, substantive or procedural,
+    enforceable at law or in equity by any party against the United
+    States, its departments, agencies, instrumentalities, or entities,
+    its officers or employees, or any other person.
+      IN WITNESS WHEREOF, I have hereunto set my hand this sixteenth
+    day of January, in the year of our Lord two thousand nine, and of
+    the Independence of the United States of America the two hundred
+    and thirty-third.
+                                                         George W. Bush.
+
                          EXECUTIVE ORDER NO. 12324                     
       Ex. Ord. No. 12324, Sept. 29, 1981, 46 F.R. 48109, which directed
     Secretary of State to enter into cooperative arrangements with
@@ -22645,7 +23093,7 @@
 
 
 -CITE-
-    8 USC Secs. 1182a to 1182c                                  01/05/2009
+    8 USC Secs. 1182a to 1182c                                  02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -22681,7 +23129,7 @@
 
 
 -CITE-
-    8 USC Sec. 1182d                                            01/05/2009
+    8 USC Sec. 1182d                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -22740,7 +23188,7 @@
 
 
 -CITE-
-    8 USC Sec. 1182e                                            01/05/2009
+    8 USC Sec. 1182e                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -22805,7 +23253,7 @@
 
 
 -CITE-
-    8 USC Sec. 1182f                                            01/05/2009
+    8 USC Sec. 1182f                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -22866,7 +23314,7 @@
 
 
 -CITE-
-    8 USC Sec. 1183                                             01/05/2009
+    8 USC Sec. 1183                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -22964,7 +23412,7 @@
 
 
 -CITE-
-    8 USC Sec. 1183a                                            01/05/2009
+    8 USC Sec. 1183a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -23177,10 +23625,13 @@
         which - 
             (i) the individual petitioning under section 1154 of this
           title for the classification of such alien died after the
-          approval of such petition; and
-            (ii) the Attorney General has determined for humanitarian
-          reasons that revocation of such petition under section 1155
-          of this title would be inappropriate.
+          approval of such petition, and the Secretary of Homeland
+          Security has determined for humanitarian reasons that
+          revocation of such petition under section 1155 of this title
+          would be inappropriate; or
+            (ii) the alien's petition is being adjudicated pursuant to
+          section 1154(l) of this title (surviving relative
+          consideration).
       (6) Demonstration of means to maintain income
         (A) In general
           (i) Method of demonstration
@@ -23189,8 +23640,8 @@
           copy of the individual's Federal income tax return for the
           individual's 3 most recent taxable years and a written
           statement, executed under oath or as permitted under penalty
-          of perjury under section 1746 of title 28 that the copies are
-          certified copies of such returns.
+          of perjury under section 1746 of title 28, that the copies
+          are certified copies of such returns.
           (ii) Flexibility
             For purposes of this section, aliens may demonstrate the
           means to maintain income through demonstration of significant
@@ -23240,7 +23691,8 @@
     L. 104-193, title IV, Sec. 423(a), Aug. 22, 1996, 110 Stat. 2271;
     amended Pub. L. 104-208, div. C, title V, Sec. 551(a), Sept. 30,
     1996, 110 Stat. 3009-675; Pub. L. 107-150, Sec. 2(a)(1), (3), Mar.
-    13, 2002, 116 Stat. 74, 75.)
+    13, 2002, 116 Stat. 74, 75; Pub. L. 111-83, title V, Sec. 568(e),
+    Oct. 28, 2009, 123 Stat. 2187.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -23256,6 +23708,15 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (f)(5)(B)(i), (ii). Pub. L. 111-83, added cls. (i)
+    and (ii) and struck out former cls. (i) and (ii), which read as
+    follows:
+      "(i) the individual petitioning under section 1154 of this title
+    for the classification of such alien died after the approval of
+    such petition; and
+      "(ii) the Attorney General has determined for humanitarian
+    reasons that revocation of such petition under section 1155 of this
+    title would be inappropriate."
       2002 - Subsec. (f)(2), (4)(B)(ii). Pub. L. 107-150, Sec. 2(a)(3),
     substituted "paragraph (5)(A)" for "paragraph (5)".
       Subsec. (f)(5). Pub. L. 107-150, Sec. 2(a)(1), amended heading
@@ -23457,7 +23918,7 @@
 
 
 -CITE-
-    8 USC Sec. 1184                                             01/05/2009
+    8 USC Sec. 1184                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -23731,9 +24192,9 @@
     as a nonimmigrant under section 1101(a)(15)(P)(i)(a) of this title.
       (H) The Secretary of Homeland Security shall permit an athlete,
     or the employer of an athlete, to seek admission to the United
-    States for such athlete under a provision of this Act other than
-    section 1101(a)(15)(P)(i) of this title if the athlete is eligible
-    under such other provision.
+    States for such athlete under a provision of this chapter other
+    than section 1101(a)(15)(P)(i) of this title if the athlete is
+    eligible under such other provision.
       (5)(A) In the case of an alien who is provided nonimmigrant
     status under section 1101(a)(15)(H)(i)(b) or 1101(a)(15)(H)(ii)(b)
     of this title and who is dismissed from employment by the employer
@@ -25918,7 +26379,7 @@
 
 
 -CITE-
-    8 USC Sec. 1184a                                            01/05/2009
+    8 USC Sec. 1184a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -25963,7 +26424,7 @@
 
 
 -CITE-
-    8 USC Sec. 1185                                             01/05/2009
+    8 USC Sec. 1185                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -26330,7 +26791,7 @@
 
 
 -CITE-
-    8 USC Sec. 1186                                             01/05/2009
+    8 USC Sec. 1186                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -26356,7 +26817,7 @@
 
 
 -CITE-
-    8 USC Sec. 1186a                                            01/05/2009
+    8 USC Sec. 1186a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -26753,7 +27214,7 @@
 
 
 -CITE-
-    8 USC Sec. 1186b                                            01/05/2009
+    8 USC Sec. 1186b                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -27519,7 +27980,7 @@
 
 
 -CITE-
-    8 USC Sec. 1187                                             01/05/2009
+    8 USC Sec. 1187                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -28901,7 +29362,7 @@
 
 
 -CITE-
-    8 USC Sec. 1188                                             01/05/2009
+    8 USC Sec. 1188                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -29375,7 +29836,7 @@
 
 
 -CITE-
-    8 USC Sec. 1189                                             01/05/2009
+    8 USC Sec. 1189                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -29806,7 +30267,7 @@
 
 
 -CITE-
-    8 USC Part III - Issuance of Entry Documents                01/05/2009
+    8 USC Part III - Issuance of Entry Documents                02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -29822,7 +30283,7 @@
 
 
 -CITE-
-    8 USC Sec. 1201                                             01/05/2009
+    8 USC Sec. 1201                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -30356,7 +30817,7 @@
 
 
 -CITE-
-    8 USC Sec. 1201a                                            01/05/2009
+    8 USC Sec. 1201a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -30386,7 +30847,7 @@
 
 
 -CITE-
-    8 USC Sec. 1202                                             01/05/2009
+    8 USC Sec. 1202                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -30766,7 +31227,7 @@
 
 
 -CITE-
-    8 USC Sec. 1203                                             01/05/2009
+    8 USC Sec. 1203                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -30862,7 +31323,7 @@
 
 
 -CITE-
-    8 USC Sec. 1204                                             01/05/2009
+    8 USC Sec. 1204                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -30901,7 +31362,7 @@
 
 
 -CITE-
-    8 USC Sec. 1205                                             01/05/2009
+    8 USC Sec. 1205                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -30925,7 +31386,7 @@
 
 -CITE-
     8 USC Part IV - Inspection, Apprehension, Examination,
-                     Exclusion, and Removal                01/05/2009
+                     Exclusion, and Removal                02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -30943,7 +31404,7 @@
 
 
 -CITE-
-    8 USC Sec. 1221                                             01/05/2009
+    8 USC Sec. 1221                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31202,7 +31663,7 @@
 
 
 -CITE-
-    8 USC Sec. 1222                                             01/05/2009
+    8 USC Sec. 1222                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31361,7 +31822,7 @@
 
 
 -CITE-
-    8 USC Sec. 1223                                             01/05/2009
+    8 USC Sec. 1223                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31475,7 +31936,7 @@
 
 
 -CITE-
-    8 USC Sec. 1224                                             01/05/2009
+    8 USC Sec. 1224                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31578,7 +32039,7 @@
 
 
 -CITE-
-    8 USC Sec. 1225                                             01/05/2009
+    8 USC Sec. 1225                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -32003,7 +32464,7 @@
 
 
 -CITE-
-    8 USC Sec. 1225a                                            01/05/2009
+    8 USC Sec. 1225a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -32168,7 +32629,7 @@
 
 
 -CITE-
-    8 USC Sec. 1226                                             01/05/2009
+    8 USC Sec. 1226                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -32525,7 +32986,7 @@
 
 
 -CITE-
-    8 USC Sec. 1226a                                            01/05/2009
+    8 USC Sec. 1226a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -32674,7 +33135,7 @@
 
 
 -CITE-
-    8 USC Sec. 1227                                             01/05/2009
+    8 USC Sec. 1227                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -33051,7 +33512,7 @@
         the weight to be given that evidence shall be within the sole
         discretion of the Attorney General.
     (b) Deportation of certain nonimmigrants
-      An alien, admitted as a nonimmigrant under the provision of
+      An alien, admitted as a nonimmigrant under the provisions of
     either section 1101(a)(15)(A)(i) or 1101(a)(15)(G)(i) of this
     title, and who fails to maintain a status under either of those
     provisions, shall not be required to depart from the United States
@@ -33499,6 +33960,11 @@
     alien who is charged with being deportable from the United States
     under subsection (a)(11) of this section."
 
+                     EFFECTIVE DATE OF 2008 AMENDMENT                 
+      Amendment by Pub. L. 110-340 applicable to offenses committed
+    before, on, or after Oct. 3, 2008, see section 3(c) of Pub. L. 111-
+    122, set out as a note under section 1182 of this title.
+
                      EFFECTIVE DATE OF 2005 AMENDMENT                 
       Pub. L. 109-13, div. B, title I, Sec. 105(a)(2), May 11, 2005,
     119 Stat. 309, provided that: "The amendment made by paragraph (1)
@@ -33742,7 +34208,7 @@
 
 
 -CITE-
-    8 USC Sec. 1228                                             01/05/2009
+    8 USC Sec. 1228                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -33757,7 +34223,7 @@
 
 -STATUTE-
     (a) Removal of criminal aliens
-      (1) in general
+      (1) In general
         The Attorney General shall provide for the availability of
       special removal proceedings at certain Federal, State, and local
       correctional facilities for aliens convicted of any criminal
@@ -34281,7 +34747,7 @@
 
 
 -CITE-
-    8 USC Sec. 1229                                             01/05/2009
+    8 USC Sec. 1229                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -34452,7 +34918,7 @@
 
 
 -CITE-
-    8 USC Sec. 1229a                                            01/05/2009
+    8 USC Sec. 1229a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -34985,7 +35451,7 @@
 
 
 -CITE-
-    8 USC Sec. 1229b                                            01/05/2009
+    8 USC Sec. 1229b                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -35506,7 +35972,7 @@
 
 
 -CITE-
-    8 USC Sec. 1229c                                            01/05/2009
+    8 USC Sec. 1229c                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -35723,7 +36189,7 @@
 
 
 -CITE-
-    8 USC Sec. 1230                                             01/05/2009
+    8 USC Sec. 1230                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -35777,7 +36243,7 @@
 
 
 -CITE-
-    8 USC Sec. 1231                                             01/05/2009
+    8 USC Sec. 1231                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -36580,7 +37046,7 @@
 
 
 -CITE-
-    8 USC Sec. 1232                                             01/05/2009
+    8 USC Sec. 1232                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -36971,7 +37437,7 @@
 
 
 -CITE-
-    8 USC Part V - Adjustment and Change of Status              01/05/2009
+    8 USC Part V - Adjustment and Change of Status              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -36987,7 +37453,7 @@
 
 
 -CITE-
-    8 USC Sec. 1251                                             01/05/2009
+    8 USC Sec. 1251                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -37012,7 +37478,7 @@
 
 
 -CITE-
-    8 USC Sec. 1251a                                            01/05/2009
+    8 USC Sec. 1251a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -37050,7 +37516,7 @@
 
 
 -CITE-
-    8 USC Sec. 1252                                             01/05/2009
+    8 USC Sec. 1252                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -37880,7 +38346,7 @@
 
 
 -CITE-
-    8 USC Sec. 1252a                                            01/05/2009
+    8 USC Sec. 1252a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -37907,7 +38373,7 @@
 
 
 -CITE-
-    8 USC Sec. 1252b                                            01/05/2009
+    8 USC Sec. 1252b                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -37941,7 +38407,7 @@
 
 
 -CITE-
-    8 USC Sec. 1252c                                            01/05/2009
+    8 USC Sec. 1252c                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -38001,7 +38467,7 @@
 
 
 -CITE-
-    8 USC Sec. 1253                                             01/05/2009
+    8 USC Sec. 1253                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -38237,7 +38703,7 @@
 
 
 -CITE-
-    8 USC Sec. 1254                                             01/05/2009
+    8 USC Sec. 1254                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -38281,7 +38747,7 @@
 
 
 -CITE-
-    8 USC Sec. 1254a                                            01/05/2009
+    8 USC Sec. 1254a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -38925,7 +39391,42 @@
 
 
 -CITE-
-    8 USC Sec. 1255                                             01/05/2009
+    8 USC Sec. 1254b                                            02/01/2010
+
+-EXPCITE-
+    TITLE 8 - ALIENS AND NATIONALITY
+    CHAPTER 12 - IMMIGRATION AND NATIONALITY
+    SUBCHAPTER II - IMMIGRATION
+    Part V - Adjustment and Change of Status
+
+-HEAD-
+    Sec. 1254b. Collection of fees under temporary protected status
+      program
+
+-STATUTE-
+      (a) In addition to collection of registration fees described in
+    section 1254a(c)(1)(B) of this title, fees for fingerprinting
+    services, biometric services, and other necessary services may be
+    collected when administering the program described in section 1254a
+    of this title.
+      (b) Subsection (a) shall be construed to apply for fiscal year
+    1998 and each fiscal year thereafter.
+
+-SOURCE-
+    (Pub. L. 111-83, title V, Sec. 549, Oct. 28, 2009, 123 Stat. 2177.)
+
+-COD-
+                               CODIFICATION                           
+      This section was enacted as part of the Department of Homeland
+    Security Appropriations Act, 2010, and not as part of the
+    Immigration and Nationality Act which comprises this chapter.
+
+-End-
+
+
+
+-CITE-
+    8 USC Sec. 1255                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -40572,7 +41073,10 @@
     2005, 119 Stat. 2211; Pub. L. 109-289, div. B, title II, Sec.
     20412(b)(2), as added by Pub. L. 110-5, Sec. 2, Feb. 15, 2007, 121
     Stat. 25; Pub. L. 110-161, div. J, title VI, Sec. 634(k)(2), Dec.
-    26, 2007, 121 Stat. 2329, provided that:
+    26, 2007, 121 Stat. 2329; Pub. L. 111-8, div. H, title VII, Sec.
+    7034(g)(2), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111-117, div. F,
+    title VII, Sec. 7034(f)(2), Dec. 16, 2009, 123 Stat. 3361, provided
+    that:
       "(a) In General. - The Attorney General shall adjust the status
     of an alien described in subsection (b) to that of an alien
     lawfully admitted for permanent residence if the alien - 
@@ -40591,7 +41095,7 @@
       Cambodia, and
         "(2) was inspected and granted parole into the United States
       during the period beginning on August 15, 1988, and ending on
-      September 30, 2008, after being denied refugee status.
+      September 30, 2010, after being denied refugee status.
       "(c) Waiver of Certain Grounds for Inadmissibility. - The
     provisions of paragraphs (4), (5), and (7)(A) of section 212(a) of
     the Immigration and Nationality Act [8 U.S.C. 1182(a)(4), (5),
@@ -40783,7 +41287,7 @@
 
 
 -CITE-
-    8 USC Sec. 1255a                                            01/05/2009
+    8 USC Sec. 1255a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -40939,10 +41443,10 @@
         otherwise provided under subsection (d)(2) of this section, or
         (ii) is convicted of any felony or three or more misdemeanors
         committed in the United States; or
-          (C) at the end of the 43rd first month beginning after the
-        date the alien is granted such status, unless the alien has
-        filed an application for adjustment of such status pursuant to
-        paragraph (1) and such application has not been denied.
+          (C) at the end of the 43rd month beginning after the date the
+        alien is granted such status, unless the alien has filed an
+        application for adjustment of such status pursuant to paragraph
+        (1) and such application has not been denied.
       (3) Authorized travel and employment during temporary residence
         During the period an alien is in lawful temporary resident
       status granted under subsection (a) of this section - 
@@ -41998,7 +42502,7 @@
 
 
 -CITE-
-    8 USC Sec. 1255b                                            01/05/2009
+    8 USC Sec. 1255b                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -42133,7 +42637,7 @@
 
 
 -CITE-
-    8 USC Sec. 1256                                             01/05/2009
+    8 USC Sec. 1256                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -42246,7 +42750,7 @@
 
 
 -CITE-
-    8 USC Sec. 1257                                             01/05/2009
+    8 USC Sec. 1257                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -42311,7 +42815,7 @@
 
 
 -CITE-
-    8 USC Sec. 1258                                             01/05/2009
+    8 USC Sec. 1258                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -42427,7 +42931,7 @@
 
 
 -CITE-
-    8 USC Sec. 1259                                             01/05/2009
+    8 USC Sec. 1259                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -42549,7 +43053,7 @@
 
 
 -CITE-
-    8 USC Sec. 1260                                             01/05/2009
+    8 USC Sec. 1260                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -42589,7 +43093,7 @@
 
 -CITE-
     8 USC Part VI - Special Provisions Relating to Alien
-                     Crewmen                               01/05/2009
+                     Crewmen                               02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -42605,7 +43109,7 @@
 
 
 -CITE-
-    8 USC Sec. 1281                                             01/05/2009
+    8 USC Sec. 1281                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -42743,7 +43247,7 @@
 
 
 -CITE-
-    8 USC Sec. 1282                                             01/05/2009
+    8 USC Sec. 1282                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -42853,7 +43357,7 @@
 
 
 -CITE-
-    8 USC Sec. 1283                                             01/05/2009
+    8 USC Sec. 1283                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -42910,7 +43414,7 @@
 
 
 -CITE-
-    8 USC Sec. 1284                                             01/05/2009
+    8 USC Sec. 1284                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43035,7 +43539,7 @@
 
 
 -CITE-
-    8 USC Sec. 1285                                             01/05/2009
+    8 USC Sec. 1285                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43102,7 +43606,7 @@
 
 
 -CITE-
-    8 USC Sec. 1286                                             01/05/2009
+    8 USC Sec. 1286                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43168,7 +43672,7 @@
 
 
 -CITE-
-    8 USC Sec. 1287                                             01/05/2009
+    8 USC Sec. 1287                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43226,7 +43730,7 @@
 
 
 -CITE-
-    8 USC Sec. 1288                                             01/05/2009
+    8 USC Sec. 1288                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43683,7 +44187,7 @@
 
 
 -CITE-
-    8 USC Part VII - Registration of Aliens                     01/05/2009
+    8 USC Part VII - Registration of Aliens                     02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43699,7 +44203,7 @@
 
 
 -CITE-
-    8 USC Sec. 1301                                             01/05/2009
+    8 USC Sec. 1301                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43749,7 +44253,7 @@
 
 
 -CITE-
-    8 USC Sec. 1302                                             01/05/2009
+    8 USC Sec. 1302                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43850,7 +44354,7 @@
 
 
 -CITE-
-    8 USC Sec. 1303                                             01/05/2009
+    8 USC Sec. 1303                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43920,7 +44424,7 @@
 
 
 -CITE-
-    8 USC Sec. 1304                                             01/05/2009
+    8 USC Sec. 1304                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44033,7 +44537,7 @@
 
 
 -CITE-
-    8 USC Sec. 1305                                             01/05/2009
+    8 USC Sec. 1305                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44105,7 +44609,7 @@
 
 
 -CITE-
-    8 USC Sec. 1306                                             01/05/2009
+    8 USC Sec. 1306                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44188,7 +44692,7 @@
 
 
 -CITE-
-    8 USC Part VIII - General Penalty Provisions                01/05/2009
+    8 USC Part VIII - General Penalty Provisions                02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44204,7 +44708,7 @@
 
 
 -CITE-
-    8 USC Sec. 1321                                             01/05/2009
+    8 USC Sec. 1321                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44307,7 +44811,7 @@
 
 
 -CITE-
-    8 USC Sec. 1322                                             01/05/2009
+    8 USC Sec. 1322                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44480,7 +44984,7 @@
 
 
 -CITE-
-    8 USC Sec. 1323                                             01/05/2009
+    8 USC Sec. 1323                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44694,7 +45198,7 @@
 
 
 -CITE-
-    8 USC Sec. 1324                                             01/05/2009
+    8 USC Sec. 1324                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -45097,7 +45601,7 @@
 
 
 -CITE-
-    8 USC Sec. 1324a                                            01/05/2009
+    8 USC Sec. 1324a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -45944,7 +46448,8 @@
       Pub. L. 104-208, div. C, title IV, subtitle A, Sept. 30, 1996,
     110 Stat. 3009-655, as amended by Pub. L. 107-128, Sec. 2, Jan. 16,
     2002, 115 Stat. 2407; Pub. L. 108-156, Secs. 2, 3, Dec. 3, 2003,
-    117 Stat. 1944, provided that:
+    117 Stat. 1944; Pub. L. 111-83, title V, Secs. 547, 551, Oct. 28,
+    2009, 123 Stat. 2177, provided that:
 
       "SEC. 401. ESTABLISHMENT OF PROGRAMS.
       "(a) In General. - The Secretary of Homeland Security shall
@@ -45956,11 +46461,10 @@
     section 402 of this division made and in effect no later than 1
     year after the date of the enactment of this Act [Sept. 30, 1996].
     Unless the Congress otherwise provides, the Secretary of Homeland
-    Security shall terminate a pilot program at the end of the 11-year
-    period beginning on the first day the pilot program is in effect.
+    Security shall terminate a pilot program on September 30, 2012.
       "(c) Scope of Operation of Pilot Programs. - The Secretary of
     Homeland Security shall provide for the operation - 
-        "(1) of the basic pilot program (described in section 403(a) of
+        "(1) of the E-Verify Program (described in section 403(a) of
       this division) in, at a minimum, 5 of the 7 States with the
       highest estimated population of aliens who are not lawfully
       present in the United States, and the Secretary of Homeland
@@ -46141,11 +46645,11 @@
     relation to section 274A.
 
       "SEC. 403. PROCEDURES FOR PARTICIPANTS IN PILOT PROGRAMS.
-      "(a) Basic Pilot Program. - A person or other entity that elects
-    to participate in the basic pilot program described in this
-    subsection agrees to conform to the following procedures in the
-    case of the hiring (or recruitment or referral) for employment in
-    the United States of each individual covered by the election:
+      "(a) E-Verify Program. - A person or other entity that elects to
+    participate in the E-Verify Program described in this subsection
+    agrees to conform to the following procedures in the case of the
+    hiring (or recruitment or referral) for employment in the United
+    States of each individual covered by the election:
         "(1) Provision of additional information. - The person or
       entity shall obtain from the individual (and the individual shall
       provide) and shall record on the I-9 or similar form - 
@@ -46290,7 +46794,7 @@
         "(1) In general. - Except as provided in paragraphs (3) through
       (5), the procedures applicable under the citizen attestation
       pilot program under this subsection shall be the same procedures
-      as those under the basic pilot program under subsection (a).
+      as those under the E-Verify Program under subsection (a).
         "(2) Restrictions. - 
           "(A) State document requirement to participate in pilot
         program. - The Secretary of Homeland Security may not provide
@@ -46357,7 +46861,7 @@
         "(1) In general. - Except as provided in paragraph (3), the
       procedures applicable under the machine-readable-document pilot
       program under this subsection shall be the same procedures as
-      those under the basic pilot program under subsection (a).
+      those under the E-Verify Program under subsection (a).
         "(2) State document requirement to participate in pilot
       program. - The Secretary of Homeland Security may not provide for
       the operation of the machine-readable-document pilot program in a
@@ -46480,7 +46984,7 @@
       any department, bureau, or other agency of the United States
       Government to utilize any information, data base, or other
       records assembled under this subtitle for any other purpose other
-      than as provided for under a pilot program.
+      than as provided for under this subtitle.
         "(2) No national identification card. - Nothing in this
       subtitle shall be construed to authorize, directly or indirectly,
       the issuance or use of national identification cards or the
@@ -46507,10 +47011,17 @@
       submitted under subsection (a) have been substantially resolved;
       and
         "(2) describing what actions the Secretary of Homeland Security
-      shall take before undertaking the expansion of the basic pilot
-      program to all 50 States in accordance with section 401(c)(1), in
+      shall take before undertaking the expansion of the E-Verify
+      Program to all 50 States in accordance with section 401(c)(1), in
       order to resolve any outstanding problems raised in the report
       filed under subsection (a)."
+      [Pub. L. 110-329, div. A, Sec. 143, Sept. 30, 2008, 122 Stat.
+    3580, as amended by Pub. L. 111-8, div. J, Sec. 101, Mar. 11, 2009,
+    123 Stat. 988, provided that: "Section 401(b) of the Illegal
+    Immigration Reform and Immigrant Responsibility Act of 1996 [Pub.
+    L. 104-208] (8 U.S.C. 1324a note) shall be applied by substituting
+    [']September 30, 2009['] for 'the 11-year period beginning on the
+    first day the pilot program is in effect'."]
       [Pub. L. 107-128, Sec. 3, Jan. 16, 2002, 115 Stat. 2407, provided
     that: "The amendment made by this Act [amending section 401(b) of
     Pub. L. 104-208, set out above] shall take effect on the date of
@@ -46864,7 +47375,7 @@
 
 
 -CITE-
-    8 USC Sec. 1324b                                            01/05/2009
+    8 USC Sec. 1324b                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -47214,7 +47725,7 @@
       section, the United States court of appeals does not reverse such
       order, such court shall have the jurisdiction to make and enter a
       decree enforcing the order of the administrative law judge.
-      (4) Awarding of attorneys' fees
+      (4) Awarding of attorney's fees
         In any judicial proceeding under subsection (i) of this section
       or this subsection, the court, in its discretion, may allow a
       prevailing party, other than the United States, a reasonable
@@ -47488,7 +47999,7 @@
 
 
 -CITE-
-    8 USC Sec. 1324c                                            01/05/2009
+    8 USC Sec. 1324c                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -47772,7 +48283,7 @@
 
 
 -CITE-
-    8 USC Sec. 1324d                                            01/05/2009
+    8 USC Sec. 1324d                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -47841,7 +48352,7 @@
 
 
 -CITE-
-    8 USC Sec. 1325                                             01/05/2009
+    8 USC Sec. 1325                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -47960,7 +48471,7 @@
 
 
 -CITE-
-    8 USC Sec. 1326                                             01/05/2009
+    8 USC Sec. 1326                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48170,7 +48681,7 @@
 
 
 -CITE-
-    8 USC Sec. 1327                                             01/05/2009
+    8 USC Sec. 1327                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48247,7 +48758,7 @@
 
 
 -CITE-
-    8 USC Sec. 1328                                             01/05/2009
+    8 USC Sec. 1328                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48301,7 +48812,7 @@
 
 
 -CITE-
-    8 USC Sec. 1329                                             01/05/2009
+    8 USC Sec. 1329                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48358,7 +48869,7 @@
 
 
 -CITE-
-    8 USC Sec. 1330                                             01/05/2009
+    8 USC Sec. 1330                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48514,7 +49025,7 @@
 
 
 -CITE-
-    8 USC Part IX - Miscellaneous                               01/05/2009
+    8 USC Part IX - Miscellaneous                               02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48530,7 +49041,7 @@
 
 
 -CITE-
-    8 USC Sec. 1351                                             01/05/2009
+    8 USC Sec. 1351                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48779,7 +49290,7 @@
 
 
 -CITE-
-    8 USC Sec. 1352                                             01/05/2009
+    8 USC Sec. 1352                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48817,7 +49328,7 @@
 
 
 -CITE-
-    8 USC Sec. 1353                                             01/05/2009
+    8 USC Sec. 1353                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48875,7 +49386,7 @@
 
 
 -CITE-
-    8 USC Sec. 1353a                                            01/05/2009
+    8 USC Sec. 1353a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48961,7 +49472,7 @@
 
 
 -CITE-
-    8 USC Sec. 1353b                                            01/05/2009
+    8 USC Sec. 1353b                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49028,7 +49539,7 @@
 
 
 -CITE-
-    8 USC Sec. 1353c                                            01/05/2009
+    8 USC Sec. 1353c                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49096,7 +49607,7 @@
 
 
 -CITE-
-    8 USC Sec. 1353d                                            01/05/2009
+    8 USC Sec. 1353d                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49161,7 +49672,7 @@
 
 
 -CITE-
-    8 USC Sec. 1354                                             01/05/2009
+    8 USC Sec. 1354                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49213,7 +49724,7 @@
 
 
 -CITE-
-    8 USC Sec. 1355                                             01/05/2009
+    8 USC Sec. 1355                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49270,7 +49781,7 @@
 
 
 -CITE-
-    8 USC Sec. 1356                                             01/05/2009
+    8 USC Sec. 1356                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49769,15 +50280,21 @@
           One-third of the amounts deposited into the Fraud Prevention
         and Detection Account shall remain available to the Secretary
         of Homeland Security until expended for programs and activities
-        to prevent and detect fraud with respect to petitions under
-        paragraph (1) or (2)(A) of section 1184(c) of this title to
-        grant an alien nonimmigrant status described in subparagraph
-        (H)(i), (H)(ii), or (L) of section 1101(a)(15) of this title.
+        to prevent and detect immigration benefit fraud, including
+        fraud with respect to petitions filed under paragraph (1) or
+        (2)(A) of section 1184(c) of this title to grant an alien
+        nonimmigrant status described in subparagraph (H) or (L) of
+        section 1101(a)(15) of this title.
         (C) Secretary of Labor
           One-third of the amounts deposited into the Fraud Prevention
         and Detection Account shall remain available to the Secretary
-        of Labor until expended for enforcement programs and activities
-        described in section 1182(n) of this title.
+        of Labor until expended for wage and hour enforcement programs
+        and activities otherwise authorized to be conducted by the
+        Secretary of Labor that focus on industries likely to employ
+        nonimmigrants, including enforcement programs and activities
+        described in section 1182(n) of this title and enforcement
+        programs and activities related to section 1184(c)(14)(A)(i) of
+        this title.
         (D) Consultation
           The Secretary of State, the Secretary of Homeland Security,
         and the Secretary of Labor shall consult one another with
@@ -49832,7 +50349,8 @@
     Dec. 8, 2004, 118 Stat. 3357, 3358; Pub. L. 109-13, div. A, title
     VI, Sec. 6046, div. B, title IV, Sec. 403(b), May 11, 2005, 119
     Stat. 295, 319; Pub. L. 109-472, Sec. 2, Jan. 11, 2007, 120 Stat.
-    3554.)
+    3554; Pub. L. 111-117, div. D, title V, Sec. 524(a), Dec. 16, 2009,
+    123 Stat. 3283.)
 
 
 -STATAMEND-
@@ -49856,6 +50374,26 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (v)(2)(B), (C). Pub. L. 111-117, which directed
+    substitution of subpars. (B) and (C) for "subparagraphs (B) and (C)
+    that appear within section 426(b) of division J of" Pub. L. 108-
+    447, was executed by adding subpars. (B) and (C) to subsec. (v)(2)
+    and striking out former subpars. (B) and (C), to reflect the
+    probable intent of Congress. See 2004 Amendment note below. Prior
+    to amendment, subpars. (B) and (C) read as follows:
+      "(B) Secretary of homeland security. - One-third of the amounts
+    deposited into the Fraud Prevention and Detection Account shall
+    remain available to the Secretary of Homeland Security until
+    expended for programs and activities to prevent and detect fraud
+    with respect to petitions under paragraph (1) or (2)(A) of section
+    1184(c) of this title to grant an alien nonimmigrant status
+    described in subparagraph (H)(i), (H)(ii), or (L) of section
+    1101(a)(15) of this title.
+      "(C) Secretary of labor. - One-third of the amounts deposited
+    into the Fraud Prevention and Detection Account shall remain
+    available to the Secretary of Labor until expended for enforcement
+    programs and activities described in section 1182(n) of this
+    title."
       2007 - Subsec. (v)(2)(A)(i). Pub. L. 109-472, Sec. 2(1), inserted
     "or primarily" after "exclusively".
       Subsec. (v)(2)(A)(ii). Pub. L. 109-472, Sec. 2(2), amended cl.
@@ -50266,6 +50804,12 @@
     redesignated former subsec. (b) as (c), and inserted "and
     subsection (b)" after "subsection (a)".
 
+                     EFFECTIVE DATE OF 2009 AMENDMENT                 
+      Pub. L. 111-117, div. D, title V, Sec. 524(b), Dec. 16, 2009, 123
+    Stat. 3284, provided that: "The amendment made by subsection (a)
+    [amending this section] shall take effect on the date of the
+    enactment of this Act [Dec. 16, 2009]."
+
              EFFECTIVE AND TERMINATION DATES OF 2005 AMENDMENT         
       Amendment by section 403(b) of Pub. L. 109-13 effective 14 days
     after May 11, 2005, and applicable to filings for a fiscal year
@@ -50466,7 +51010,7 @@
 
 
 -CITE-
-    8 USC Sec. 1357                                             01/05/2009
+    8 USC Sec. 1357                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -50780,7 +51324,7 @@
 
 
 -CITE-
-    8 USC Sec. 1358                                             01/05/2009
+    8 USC Sec. 1358                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -50810,7 +51354,7 @@
 
 
 -CITE-
-    8 USC Sec. 1359                                             01/05/2009
+    8 USC Sec. 1359                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -50836,7 +51380,7 @@
 
 
 -CITE-
-    8 USC Sec. 1360                                             01/05/2009
+    8 USC Sec. 1360                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -50950,7 +51494,7 @@
 
 
 -CITE-
-    8 USC Sec. 1361                                             01/05/2009
+    8 USC Sec. 1361                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51030,7 +51574,7 @@
 
 
 -CITE-
-    8 USC Sec. 1362                                             01/05/2009
+    8 USC Sec. 1362                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51085,7 +51629,7 @@
 
 
 -CITE-
-    8 USC Sec. 1363                                             01/05/2009
+    8 USC Sec. 1363                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51136,7 +51680,7 @@
 
 
 -CITE-
-    8 USC Sec. 1363a                                            01/05/2009
+    8 USC Sec. 1363a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51256,7 +51800,7 @@
 
 
 -CITE-
-    8 USC Sec. 1363b                                            01/05/2009
+    8 USC Sec. 1363b                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51287,7 +51831,7 @@
 
 
 -CITE-
-    8 USC Sec. 1364                                             01/05/2009
+    8 USC Sec. 1364                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51410,7 +51954,7 @@
 
 
 -CITE-
-    8 USC Sec. 1365                                             01/05/2009
+    8 USC Sec. 1365                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51493,7 +52037,7 @@
 
 
 -CITE-
-    8 USC Sec. 1365a                                            01/05/2009
+    8 USC Sec. 1365a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51913,7 +52457,7 @@
 
 
 -CITE-
-    8 USC Sec. 1365b                                            01/05/2009
+    8 USC Sec. 1365b                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52310,7 +52854,7 @@
 
 
 -CITE-
-    8 USC Sec. 1366                                             01/05/2009
+    8 USC Sec. 1366                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52364,7 +52908,7 @@
 
 
 -CITE-
-    8 USC Sec. 1367                                             01/05/2009
+    8 USC Sec. 1367                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52593,7 +53137,7 @@
 
 
 -CITE-
-    8 USC Sec. 1368                                             01/05/2009
+    8 USC Sec. 1368                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52698,7 +53242,7 @@
 
 
 -CITE-
-    8 USC Sec. 1369                                             01/05/2009
+    8 USC Sec. 1369                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52772,7 +53316,7 @@
 
 
 -CITE-
-    8 USC Sec. 1370                                             01/05/2009
+    8 USC Sec. 1370                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52819,7 +53363,7 @@
 
 
 -CITE-
-    8 USC Sec. 1371                                             01/05/2009
+    8 USC Sec. 1371                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52891,7 +53435,7 @@
 
 
 -CITE-
-    8 USC Sec. 1372                                             01/05/2009
+    8 USC Sec. 1372                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53305,7 +53849,7 @@
 
 
 -CITE-
-    8 USC Sec. 1373                                             01/05/2009
+    8 USC Sec. 1373                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53369,7 +53913,7 @@
 
 
 -CITE-
-    8 USC Sec. 1374                                             01/05/2009
+    8 USC Sec. 1374                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53431,7 +53975,7 @@
 
 
 -CITE-
-    8 USC Sec. 1375                                             01/05/2009
+    8 USC Sec. 1375                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53453,7 +53997,7 @@
 
 
 -CITE-
-    8 USC Sec. 1375a                                            01/05/2009
+    8 USC Sec. 1375a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53875,7 +54419,7 @@
           nonimmigrant visas;
             (ii) the annual number (and percentage) of such petitions
           that are denied under subsection (d)(2) or (r) of section
-          1184 of this title;
+          1184 of this title, as amended by this Act;
             (iii) the annual number of waiver applications submitted
           under such a subsection, the number (and percentage) of such
           applications granted or denied, and the reasons for such
@@ -53886,7 +54430,7 @@
           this section contains one or more convictions;
             (v) the annual number and percentage of cases described in
           clause (iv) that were granted or were denied waivers under
-          section 1184(d)(2) of this title;
+          section 1184(d)(2) of this title, as amended by this Act;
             (vi) the annual number of fiance&#233;(e) and spousal K
           nonimmigrant visa petitions or family-based immigration
           petitions filed by petitioners or applicants who have
@@ -53902,7 +54446,7 @@
             (viii) the annual and cumulative number of petitioners and
           applicants tracked in the multiple filings database
           established under paragraph (4) of section 1184(r) of this
-          title;
+          title, as added by this Act;
 
           (B) regarding the number of international marriage brokers
         doing business in the United States, the number of marriages
@@ -53954,6 +54498,12 @@
     832 of Pub. L. 109-162, which amended section 1184 of this title
     and enacted provisions set out as notes under section 1184 of this
     title.
+      This Act, referred to in subsec. (f)(1)(A)(ii), (v), and (viii),
+    is Pub. L. 109-162, Jan. 5, 2006, 119 Stat. 2960, known as the
+    Violence Against Women and Department of Justice Reauthorization
+    Act of 2005. For complete classification of this Act to the Code,
+    see Short Title of 2006 Amendment note set out under section 13701
+    of Title 42, The Public Health and Welfare, and Tables.
 
 -COD-
                                CODIFICATION                           
@@ -53976,7 +54526,7 @@
 
 
 -CITE-
-    8 USC Sec. 1375b                                            01/05/2009
+    8 USC Sec. 1375b                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -54139,7 +54689,7 @@
 
 
 -CITE-
-    8 USC Sec. 1375c                                            01/05/2009
+    8 USC Sec. 1375c                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -54341,7 +54891,7 @@
 
 
 -CITE-
-    8 USC Sec. 1376                                             01/05/2009
+    8 USC Sec. 1376                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -54389,7 +54939,7 @@
 
 
 -CITE-
-    8 USC Sec. 1377                                             01/05/2009
+    8 USC Sec. 1377                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -54466,7 +55016,7 @@
 
 
 -CITE-
-    8 USC Sec. 1378                                             01/05/2009
+    8 USC Sec. 1378                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -54560,7 +55110,7 @@
 
 
 -CITE-
-    8 USC Sec. 1379                                             01/05/2009
+    8 USC Sec. 1379                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -54667,7 +55217,7 @@
 
 
 -CITE-
-    8 USC Sec. 1380                                             01/05/2009
+    8 USC Sec. 1380                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -54724,7 +55274,7 @@
 
 
 -CITE-
-    8 USC Sec. 1381                                             01/05/2009
+    8 USC Sec. 1381                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -54767,7 +55317,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER III - NATIONALITY AND NATURALIZATION       01/05/2009
+    8 USC SUBCHAPTER III - NATIONALITY AND NATURALIZATION       02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -54782,7 +55332,7 @@
 
 -CITE-
     8 USC Part I - Nationality at Birth and Collective
-                    Naturalization                         01/05/2009
+                    Naturalization                         02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -54798,7 +55348,7 @@
 
 
 -CITE-
-    8 USC Sec. 1401                                             01/05/2009
+    8 USC Sec. 1401                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55011,7 +55561,7 @@
 
 
 -CITE-
-    8 USC Sec. 1401a                                            01/05/2009
+    8 USC Sec. 1401a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55115,7 +55665,7 @@
 
 
 -CITE-
-    8 USC Sec. 1401b                                            01/05/2009
+    8 USC Sec. 1401b                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55140,7 +55690,7 @@
 
 
 -CITE-
-    8 USC Sec. 1402                                             01/05/2009
+    8 USC Sec. 1402                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55170,7 +55720,7 @@
 
 
 -CITE-
-    8 USC Sec. 1403                                             01/05/2009
+    8 USC Sec. 1403                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55221,7 +55771,7 @@
 
 
 -CITE-
-    8 USC Sec. 1404                                             01/05/2009
+    8 USC Sec. 1404                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55256,7 +55806,7 @@
 
 
 -CITE-
-    8 USC Sec. 1405                                             01/05/2009
+    8 USC Sec. 1405                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55292,7 +55842,7 @@
 
 
 -CITE-
-    8 USC Sec. 1406                                             01/05/2009
+    8 USC Sec. 1406                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55347,7 +55897,7 @@
 
 
 -CITE-
-    8 USC Sec. 1407                                             01/05/2009
+    8 USC Sec. 1407                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55399,7 +55949,7 @@
 
 
 -CITE-
-    8 USC Sec. 1408                                             01/05/2009
+    8 USC Sec. 1408                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55478,7 +56028,7 @@
 
 
 -CITE-
-    8 USC Sec. 1409                                             01/05/2009
+    8 USC Sec. 1409                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55604,7 +56154,7 @@
 
 
 -CITE-
-    8 USC Part II - Nationality Through Naturalization          01/05/2009
+    8 USC Part II - Nationality Through Naturalization          02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55620,7 +56170,7 @@
 
 
 -CITE-
-    8 USC Sec. 1421                                             01/05/2009
+    8 USC Sec. 1421                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55903,7 +56453,7 @@
 
 
 -CITE-
-    8 USC Sec. 1422                                             01/05/2009
+    8 USC Sec. 1422                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55936,7 +56486,7 @@
 
 
 -CITE-
-    8 USC Sec. 1423                                             01/05/2009
+    8 USC Sec. 1423                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56163,7 +56713,7 @@
 
 
 -CITE-
-    8 USC Sec. 1424                                             01/05/2009
+    8 USC Sec. 1424                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56368,7 +56918,7 @@
 
 
 -CITE-
-    8 USC Sec. 1425                                             01/05/2009
+    8 USC Sec. 1425                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56403,7 +56953,7 @@
 
 
 -CITE-
-    8 USC Sec. 1426                                             01/05/2009
+    8 USC Sec. 1426                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56474,7 +57024,7 @@
 
 
 -CITE-
-    8 USC Sec. 1427                                             01/05/2009
+    8 USC Sec. 1427                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56800,7 +57350,7 @@
 
 
 -CITE-
-    8 USC Sec. 1428                                             01/05/2009
+    8 USC Sec. 1428                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56868,7 +57418,7 @@
 
 
 -CITE-
-    8 USC Sec. 1429                                             01/05/2009
+    8 USC Sec. 1429                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56958,7 +57508,7 @@
 
 
 -CITE-
-    8 USC Sec. 1430                                             01/05/2009
+    8 USC Sec. 1430                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57176,7 +57726,7 @@
 
 
 -CITE-
-    8 USC Sec. 1431                                             01/05/2009
+    8 USC Sec. 1431                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57278,7 +57828,7 @@
 
 
 -CITE-
-    8 USC Sec. 1432                                             01/05/2009
+    8 USC Sec. 1432                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57310,7 +57860,7 @@
 
 
 -CITE-
-    8 USC Sec. 1433                                             01/05/2009
+    8 USC Sec. 1433                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57522,7 +58072,7 @@
 
 
 -CITE-
-    8 USC Sec. 1434                                             01/05/2009
+    8 USC Sec. 1434                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57546,7 +58096,7 @@
 
 
 -CITE-
-    8 USC Sec. 1435                                             01/05/2009
+    8 USC Sec. 1435                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57797,7 +58347,7 @@
 
 
 -CITE-
-    8 USC Sec. 1436                                             01/05/2009
+    8 USC Sec. 1436                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57836,7 +58386,7 @@
 
 
 -CITE-
-    8 USC Sec. 1437                                             01/05/2009
+    8 USC Sec. 1437                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57871,7 +58421,7 @@
 
 
 -CITE-
-    8 USC Sec. 1438                                             01/05/2009
+    8 USC Sec. 1438                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57930,7 +58480,7 @@
     (e) Inapplicability to certain persons
       This section shall not apply to any person who during World War
     II served in the armed forces of a country while such country was
-    at war with the United States
+    at war with the United States.
 
 -SOURCE-
     (June 27, 1952, ch. 477, title III, ch. 2, Sec. 327, 66 Stat. 248;
@@ -57966,7 +58516,7 @@
 
 
 -CITE-
-    8 USC Sec. 1439                                             01/05/2009
+    8 USC Sec. 1439                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58207,7 +58757,7 @@
 
 
 -CITE-
-    8 USC Sec. 1440                                             01/05/2009
+    8 USC Sec. 1440                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58565,7 +59115,7 @@
 
 
 -CITE-
-    8 USC Sec. 1440-1                                           01/05/2009
+    8 USC Sec. 1440-1                                           02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58689,7 +59239,7 @@
 
 
 -CITE-
-    8 USC Secs. 1440a to 1440d                                  01/05/2009
+    8 USC Secs. 1440a to 1440d                                  02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58715,7 +59265,7 @@
 
 
 -CITE-
-    8 USC Sec. 1440e                                            01/05/2009
+    8 USC Sec. 1440e                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58783,7 +59333,7 @@
 
 
 -CITE-
-    8 USC Sec. 1440f                                            01/05/2009
+    8 USC Sec. 1440f                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58891,7 +59441,7 @@
 
 
 -CITE-
-    8 USC Sec. 1440g                                            01/05/2009
+    8 USC Sec. 1440g                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58930,7 +59480,7 @@
 
 
 -CITE-
-    8 USC Sec. 1441                                             01/05/2009
+    8 USC Sec. 1441                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59035,7 +59585,7 @@
 
 
 -CITE-
-    8 USC Sec. 1442                                             01/05/2009
+    8 USC Sec. 1442                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59127,7 +59677,7 @@
 
 
 -CITE-
-    8 USC Sec. 1443                                             01/05/2009
+    8 USC Sec. 1443                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59254,7 +59804,7 @@
 
 
 -CITE-
-    8 USC Sec. 1443a                                            01/05/2009
+    8 USC Sec. 1443a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59336,7 +59886,7 @@
 
 
 -CITE-
-    8 USC Sec. 1444                                             01/05/2009
+    8 USC Sec. 1444                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59408,7 +59958,7 @@
 
 
 -CITE-
-    8 USC Sec. 1445                                             01/05/2009
+    8 USC Sec. 1445                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59565,7 +60115,7 @@
 
 
 -CITE-
-    8 USC Sec. 1446                                             01/05/2009
+    8 USC Sec. 1446                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59752,7 +60302,7 @@
 
 
 -CITE-
-    8 USC Sec. 1447                                             01/05/2009
+    8 USC Sec. 1447                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59905,7 +60455,7 @@
 
 
 -CITE-
-    8 USC Sec. 1448                                             01/05/2009
+    8 USC Sec. 1448                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60132,7 +60682,7 @@
 
 
 -CITE-
-    8 USC Sec. 1448a                                            01/05/2009
+    8 USC Sec. 1448a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60176,7 +60726,7 @@
 
 
 -CITE-
-    8 USC Sec. 1449                                             01/05/2009
+    8 USC Sec. 1449                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60281,7 +60831,7 @@
 
 
 -CITE-
-    8 USC Sec. 1450                                             01/05/2009
+    8 USC Sec. 1450                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60378,7 +60928,7 @@
 
 
 -CITE-
-    8 USC Sec. 1451                                             01/05/2009
+    8 USC Sec. 1451                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60428,7 +60978,7 @@
     which such person last had his residence, such notice shall be
     given either by personal service upon him or by publication in the
     manner provided for the service of summons by publication or upon
-    absentees by the laws of the States or the place where such suit is
+    absentees by the laws of the State or the place where such suit is
     brought.
     (c) Membership in certain organizations; prima facie evidence
       If a person who shall have been naturalized after December 24,
@@ -60629,7 +61179,7 @@
 
 
 -CITE-
-    8 USC Sec. 1452                                             01/05/2009
+    8 USC Sec. 1452                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60779,7 +61329,7 @@
 
 
 -CITE-
-    8 USC Sec. 1453                                             01/05/2009
+    8 USC Sec. 1453                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60835,7 +61385,7 @@
 
 
 -CITE-
-    8 USC Sec. 1454                                             01/05/2009
+    8 USC Sec. 1454                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60913,7 +61463,7 @@
 
 
 -CITE-
-    8 USC Sec. 1455                                             01/05/2009
+    8 USC Sec. 1455                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61153,7 +61703,7 @@
 
 
 -CITE-
-    8 USC Sec. 1456                                             01/05/2009
+    8 USC Sec. 1456                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61177,7 +61727,7 @@
 
 
 -CITE-
-    8 USC Sec. 1457                                             01/05/2009
+    8 USC Sec. 1457                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61215,7 +61765,7 @@
 
 
 -CITE-
-    8 USC Sec. 1458                                             01/05/2009
+    8 USC Sec. 1458                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61262,7 +61812,7 @@
 
 
 -CITE-
-    8 USC Sec. 1459                                             01/05/2009
+    8 USC Sec. 1459                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61287,7 +61837,7 @@
 
 
 -CITE-
-    8 USC Part III - Loss of Nationality                        01/05/2009
+    8 USC Part III - Loss of Nationality                        02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61303,7 +61853,7 @@
 
 
 -CITE-
-    8 USC Sec. 1481                                             01/05/2009
+    8 USC Sec. 1481                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61540,7 +62090,7 @@
 
 
 -CITE-
-    8 USC Sec. 1482                                             01/05/2009
+    8 USC Sec. 1482                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61574,7 +62124,7 @@
 
 
 -CITE-
-    8 USC Sec. 1483                                             01/05/2009
+    8 USC Sec. 1483                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61664,7 +62214,7 @@
 
 
 -CITE-
-    8 USC Secs. 1484 to 1487                                    01/05/2009
+    8 USC Secs. 1484 to 1487                                    02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61704,7 +62254,7 @@
 
 
 -CITE-
-    8 USC Sec. 1488                                             01/05/2009
+    8 USC Sec. 1488                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61729,7 +62279,7 @@
 
 
 -CITE-
-    8 USC Sec. 1489                                             01/05/2009
+    8 USC Sec. 1489                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61767,7 +62317,7 @@
 
 
 -CITE-
-    8 USC Part IV - Miscellaneous                               01/05/2009
+    8 USC Part IV - Miscellaneous                               02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61783,7 +62333,7 @@
 
 
 -CITE-
-    8 USC Sec. 1501                                             01/05/2009
+    8 USC Sec. 1501                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61855,7 +62405,7 @@
 
 
 -CITE-
-    8 USC Sec. 1502                                             01/05/2009
+    8 USC Sec. 1502                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61892,7 +62442,7 @@
 
 
 -CITE-
-    8 USC Sec. 1503                                             01/05/2009
+    8 USC Sec. 1503                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61993,7 +62543,7 @@
 
 
 -CITE-
-    8 USC Sec. 1504                                             01/05/2009
+    8 USC Sec. 1504                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62032,7 +62582,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER IV - REFUGEE ASSISTANCE                    01/05/2009
+    8 USC SUBCHAPTER IV - REFUGEE ASSISTANCE                    02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62047,7 +62597,7 @@
 
 
 -CITE-
-    8 USC Sec. 1521                                             01/05/2009
+    8 USC Sec. 1521                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62145,7 +62695,7 @@
 
 
 -CITE-
-    8 USC Sec. 1522                                             01/05/2009
+    8 USC Sec. 1522                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62159,17 +62709,17 @@
 -STATUTE-
     (a) Conditions and considerations
       (1)(A) In providing assistance under this section, the Director
-    shall, to the extent of available appropriations (i) make available
-    sufficient resources for employment training and placement in order
-    to achieve economic self-sufficiency among refugees as quickly as
-    possible, (ii) provide refugees with the opportunity to acquire
-    sufficient English language training to enable them to become
-    effectively resettled as quickly as possible, (iii) insure that
-    cash assistance is made available to refugees in such a manner as
-    not to discourage their economic self-sufficiency, in accordance
-    with subsection (e)(2) of this section, and (iv) insure that women
-    have the same opportunities as men to participate in training and
-    instruction.
+    shall, to the extent of available appropriations, (i) make
+    available sufficient resources for employment training and
+    placement in order to achieve economic self-sufficiency among
+    refugees as quickly as possible, (ii) provide refugees with the
+    opportunity to acquire sufficient English language training to
+    enable them to become effectively resettled as quickly as possible,
+    (iii) insure that cash assistance is made available to refugees in
+    such a manner as not to discourage their economic self-sufficiency,
+    in accordance with subsection (e)(2) of this section, and (iv)
+    insure that women have the same opportunities as men to participate
+    in training and instruction.
       (B) It is the intent of Congress that in providing refugee
     assistance under this section - 
         (i) employable refugees should be placed on jobs as soon as
@@ -62858,7 +63408,7 @@
     subpars. (B) and (C).
       Subsec. (a)(3). Pub. L. 97-363, Sec. 4(b), inserted provision
     that the Director shall compile and maintain data on secondary
-    migration of refugees within the Untied States and, by State of
+    migration of refugees within the United States and, by State of
     residence and nationality, on the proportion of refugees receiving
     cash or medical assistance described in subsec. (e) of this
     section.
@@ -63812,7 +64362,7 @@
 
 
 -CITE-
-    8 USC Sec. 1523                                             01/05/2009
+    8 USC Sec. 1523                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -63909,7 +64459,7 @@
 
 
 -CITE-
-    8 USC Sec. 1524                                             01/05/2009
+    8 USC Sec. 1524                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -64001,7 +64551,7 @@
 
 
 -CITE-
-    8 USC Sec. 1525                                             01/05/2009
+    8 USC Sec. 1525                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -64032,7 +64582,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER V - ALIEN TERRORIST REMOVAL PROCEDURES     01/05/2009
+    8 USC SUBCHAPTER V - ALIEN TERRORIST REMOVAL PROCEDURES     02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -64047,7 +64597,7 @@
 
 
 -CITE-
-    8 USC Sec. 1531                                             01/05/2009
+    8 USC Sec. 1531                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -64120,7 +64670,7 @@
 
 
 -CITE-
-    8 USC Sec. 1532                                             01/05/2009
+    8 USC Sec. 1532                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -64204,7 +64754,7 @@
 
 
 -CITE-
-    8 USC Sec. 1533                                             01/05/2009
+    8 USC Sec. 1533                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -64290,7 +64840,7 @@
 
 
 -CITE-
-    8 USC Sec. 1534                                             01/05/2009
+    8 USC Sec. 1534                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -64652,7 +65202,7 @@
 
 
 -CITE-
-    8 USC Sec. 1535                                             01/05/2009
+    8 USC Sec. 1535                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -64843,7 +65393,7 @@
 
 
 -CITE-
-    8 USC Sec. 1536                                             01/05/2009
+    8 USC Sec. 1536                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -64926,7 +65476,7 @@
 
 
 -CITE-
-    8 USC Sec. 1537                                             01/05/2009
+    8 USC Sec. 1537                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65077,7 +65627,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 13 - IMMIGRATION AND NATURALIZATION SERVICE    01/05/2009 
+    8 USC CHAPTER 13 - IMMIGRATION AND NATURALIZATION SERVICE    02/01/2010 
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65107,15 +65657,15 @@
                                IMPROVEMENTS
     1571.       Purposes.                                             
     1572.       Definitions.                                          
-    1573.       Immigration services and infrastructure improvement
-                 account.                                             
+    1573.       Immigration Services and Infrastructure Improvements
+                 Account.                                             
     1574.       Reports to Congress.                                  
 
 -End-
 
 
 -CITE-
-    8 USC SUBCHAPTER I - ORGANIZATION                           01/05/2009
+    8 USC SUBCHAPTER I - ORGANIZATION                           02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65130,7 +65680,7 @@
 
 
 -CITE-
-    8 USC Sec. 1551                                             01/05/2009
+    8 USC Sec. 1551                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65383,7 +65933,7 @@
 
 
 -CITE-
-    8 USC Sec. 1552                                             01/05/2009
+    8 USC Sec. 1552                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65475,7 +66025,7 @@
 
 
 -CITE-
-    8 USC Sec. 1553                                             01/05/2009
+    8 USC Sec. 1553                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65529,7 +66079,7 @@
 
 
 -CITE-
-    8 USC Sec. 1554                                             01/05/2009
+    8 USC Sec. 1554                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65583,7 +66133,7 @@
 
 
 -CITE-
-    8 USC Sec. 1555                                             01/05/2009
+    8 USC Sec. 1555                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65634,7 +66184,7 @@
 
 
 -CITE-
-    8 USC Sec. 1556                                             01/05/2009
+    8 USC Sec. 1556                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65653,7 +66203,7 @@
 
 
 -CITE-
-    8 USC Sec. 1557                                             01/05/2009
+    8 USC Sec. 1557                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65763,7 +66313,7 @@
 
 -CITE-
     8 USC SUBCHAPTER II - IMMIGRATION SERVICES AND
-           INFRASTRUCTURE IMPROVEMENTS                     01/05/2009
+           INFRASTRUCTURE IMPROVEMENTS                     02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65779,7 +66329,7 @@
 
 
 -CITE-
-    8 USC Sec. 1571                                             01/05/2009
+    8 USC Sec. 1571                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65835,7 +66385,7 @@
 
 
 -CITE-
-    8 USC Sec. 1572                                             01/05/2009
+    8 USC Sec. 1572                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65884,7 +66434,7 @@
 
 
 -CITE-
-    8 USC Sec. 1573                                             01/05/2009
+    8 USC Sec. 1573                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65892,8 +66442,8 @@
     SUBCHAPTER II - IMMIGRATION SERVICES AND INFRASTRUCTURE IMPROVEMENTS
 
 -HEAD-
-    Sec. 1573. Immigration services and infrastructure improvement
-      account
+    Sec. 1573. Immigration Services and Infrastructure Improvements
+      Account
 
 -STATUTE-
     (a) Authority of the Attorney General
@@ -65954,7 +66504,7 @@
 
 
 -CITE-
-    8 USC Sec. 1574                                             01/05/2009
+    8 USC Sec. 1574                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66095,7 +66645,7 @@
 
 -CITE-
     8 USC CHAPTER 14 - RESTRICTING WELFARE AND PUBLIC BENEFITS
-           FOR ALIENS                                      01/05/2009
+           FOR ALIENS                                      02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66120,7 +66670,7 @@
     1615.       Requirements relating to provision of benefits based
                  on citizenship, alienage, or immigration status under
                  the Richard B. Russell National School Lunch Act, the
-                 Child Nutrition Act of 1966, and certain other acts. 
+                 Child Nutrition Act of 1966, and certain other Acts. 
 
       SUBCHAPTER II - ELIGIBILITY FOR STATE AND LOCAL PUBLIC BENEFITS
                                  PROGRAMS
@@ -66160,7 +66710,7 @@
 
 
 -CITE-
-    8 USC Sec. 1601                                             01/05/2009
+    8 USC Sec. 1601                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66238,7 +66788,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER I - ELIGIBILITY FOR FEDERAL BENEFITS       01/05/2009
+    8 USC SUBCHAPTER I - ELIGIBILITY FOR FEDERAL BENEFITS       02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66253,7 +66803,7 @@
 
 
 -CITE-
-    8 USC Sec. 1611                                             01/05/2009
+    8 USC Sec. 1611                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66524,7 +67074,7 @@
 
 
 -CITE-
-    8 USC Sec. 1612                                             01/05/2009
+    8 USC Sec. 1612                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -67296,7 +67846,7 @@
 
 
 -CITE-
-    8 USC Sec. 1613                                             01/05/2009
+    8 USC Sec. 1613                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -67598,7 +68148,7 @@
 
 
 -CITE-
-    8 USC Sec. 1614                                             01/05/2009
+    8 USC Sec. 1614                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -67634,7 +68184,7 @@
 
 
 -CITE-
-    8 USC Sec. 1615                                             01/05/2009
+    8 USC Sec. 1615                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -67645,7 +68195,7 @@
     Sec. 1615. Requirements relating to provision of benefits based on
       citizenship, alienage, or immigration status under the Richard B.
       Russell National School Lunch Act, the Child Nutrition Act of
-      1966, and certain other acts
+      1966, and certain other Acts
 
 -STATUTE-
     (a) School lunch and breakfast programs
@@ -67732,7 +68282,7 @@
 
 -CITE-
     8 USC SUBCHAPTER II - ELIGIBILITY FOR STATE AND LOCAL
-           PUBLIC BENEFITS PROGRAMS                        01/05/2009
+           PUBLIC BENEFITS PROGRAMS                        02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -67749,7 +68299,7 @@
 
 
 -CITE-
-    8 USC Sec. 1621                                             01/05/2009
+    8 USC Sec. 1621                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -67912,7 +68462,7 @@
 
 
 -CITE-
-    8 USC Sec. 1622                                             01/05/2009
+    8 USC Sec. 1622                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68078,7 +68628,7 @@
 
 
 -CITE-
-    8 USC Sec. 1623                                             01/05/2009
+    8 USC Sec. 1623                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68121,7 +68671,7 @@
 
 
 -CITE-
-    8 USC Sec. 1624                                             01/05/2009
+    8 USC Sec. 1624                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68171,7 +68721,7 @@
 
 
 -CITE-
-    8 USC Sec. 1625                                             01/05/2009
+    8 USC Sec. 1625                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68207,7 +68757,7 @@
 
 -CITE-
     8 USC SUBCHAPTER III - ATTRIBUTION OF INCOME AND
-           AFFIDAVITS OF SUPPORT                           01/05/2009
+           AFFIDAVITS OF SUPPORT                           02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68222,7 +68772,7 @@
 
 
 -CITE-
-    8 USC Sec. 1631                                             01/05/2009
+    8 USC Sec. 1631                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68438,7 +68988,7 @@
 
 
 -CITE-
-    8 USC Sec. 1632                                             01/05/2009
+    8 USC Sec. 1632                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68549,7 +69099,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER IV - GENERAL PROVISIONS                    01/05/2009
+    8 USC SUBCHAPTER IV - GENERAL PROVISIONS                    02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68564,7 +69114,7 @@
 
 
 -CITE-
-    8 USC Sec. 1641                                             01/05/2009
+    8 USC Sec. 1641                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68838,7 +69388,7 @@
 
 
 -CITE-
-    8 USC Sec. 1642                                             01/05/2009
+    8 USC Sec. 1642                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68946,7 +69496,7 @@
 
 
 -CITE-
-    8 USC Sec. 1643                                             01/05/2009
+    8 USC Sec. 1643                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69037,7 +69587,7 @@
 
 
 -CITE-
-    8 USC Sec. 1644                                             01/05/2009
+    8 USC Sec. 1644                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69073,7 +69623,7 @@
 
 
 -CITE-
-    8 USC Sec. 1645                                             01/05/2009
+    8 USC Sec. 1645                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69154,7 +69704,7 @@
 
 
 -CITE-
-    8 USC Sec. 1646                                             01/05/2009
+    8 USC Sec. 1646                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69210,7 +69760,7 @@
 
 -CITE-
     8 USC CHAPTER 15 - ENHANCED BORDER SECURITY AND VISA ENTRY
-           REFORM                                          01/05/2009
+           REFORM                                          02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69288,7 +69838,7 @@
 
 
 -CITE-
-    8 USC Sec. 1701                                             01/05/2009
+    8 USC Sec. 1701                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69523,7 +70073,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER I - FUNDING                                01/05/2009
+    8 USC SUBCHAPTER I - FUNDING                                02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69538,7 +70088,7 @@
 
 
 -CITE-
-    8 USC Sec. 1711                                             01/05/2009
+    8 USC Sec. 1711                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69667,7 +70217,7 @@
 
 
 -CITE-
-    8 USC Sec. 1712                                             01/05/2009
+    8 USC Sec. 1712                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69853,7 +70403,7 @@
 
 
 -CITE-
-    8 USC Sec. 1713                                             01/05/2009
+    8 USC Sec. 1713                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69896,7 +70446,7 @@
 
 
 -CITE-
-    8 USC Sec. 1714                                             01/05/2009
+    8 USC Sec. 1714                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69971,7 +70521,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER II - INTERAGENCY INFORMATION SHARING       01/05/2009
+    8 USC SUBCHAPTER II - INTERAGENCY INFORMATION SHARING       02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69986,7 +70536,7 @@
 
 
 -CITE-
-    8 USC Sec. 1721                                             01/05/2009
+    8 USC Sec. 1721                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70146,7 +70696,7 @@
 
 
 -CITE-
-    8 USC Sec. 1722                                             01/05/2009
+    8 USC Sec. 1722                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70263,7 +70813,8 @@
         Central Intelligence shall complete the survey and issue the
         report previously required by section 309(a) of the
         Intelligence Authorization Act for Fiscal Year 1998 (50 U.S.C.
-        403-3 note).
+        403-3 note).(!1)
+
         (B) Guidelines
           Not later than 120 days after May 14, 2002, the Director of
         Central Intelligence shall issue the guidelines and submit the
@@ -70282,7 +70833,8 @@
     1998, referred to in subsec. (b)(5), is section 309 of Pub. L. 105-
     107, title III, Nov. 20, 1997, 111 Stat. 2253, which was set out
     as a note under former section 403-3 of Title 50, War and National
-    Defense, and has been omitted from the Code.
+    Defense, and is now set out as a note under section 403-1 of Title
+    50.
 
 -COD-
                                CODIFICATION                           
@@ -70311,12 +70863,17 @@
     of functions, and treatment of related references, see note set out
     under section 1551 of this title.
 
+-FOOTNOTE-               
+
+    (!1) See References in Text note below.
+
+
 -End-
 
 
 
 -CITE-
-    8 USC Sec. 1723                                             01/05/2009
+    8 USC Sec. 1723                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70377,7 +70934,7 @@
 
 
 -CITE-
-    8 USC Sec. 1724                                             01/05/2009
+    8 USC Sec. 1724                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70445,7 +71002,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER III - VISA ISSUANCE                        01/05/2009
+    8 USC SUBCHAPTER III - VISA ISSUANCE                        02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70460,7 +71017,7 @@
 
 
 -CITE-
-    8 USC Sec. 1731                                             01/05/2009
+    8 USC Sec. 1731                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70523,7 +71080,7 @@
 
 
 -CITE-
-    8 USC Sec. 1732                                             01/05/2009
+    8 USC Sec. 1732                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70636,7 +71193,7 @@
 
 
 -CITE-
-    8 USC Sec. 1733                                             01/05/2009
+    8 USC Sec. 1733                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70694,7 +71251,7 @@
 
 
 -CITE-
-    8 USC Sec. 1734                                             01/05/2009
+    8 USC Sec. 1734                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70757,7 +71314,7 @@
 
 
 -CITE-
-    8 USC Sec. 1735                                             01/05/2009
+    8 USC Sec. 1735                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70812,7 +71369,7 @@
 
 
 -CITE-
-    8 USC Sec. 1736                                             01/05/2009
+    8 USC Sec. 1736                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70847,7 +71404,7 @@
 
 
 -CITE-
-    8 USC Sec. 1737                                             01/05/2009
+    8 USC Sec. 1737                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70898,7 +71455,7 @@
 
 
 -CITE-
-    8 USC Sec. 1738                                             01/05/2009
+    8 USC Sec. 1738                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70934,7 +71491,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER IV - INSPECTION AND ADMISSION OF ALIENS    01/05/2009
+    8 USC SUBCHAPTER IV - INSPECTION AND ADMISSION OF ALIENS    02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70949,7 +71506,7 @@
 
 
 -CITE-
-    8 USC Sec. 1751                                             01/05/2009
+    8 USC Sec. 1751                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71017,7 +71574,7 @@
 
 
 -CITE-
-    8 USC Sec. 1752                                             01/05/2009
+    8 USC Sec. 1752                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71054,7 +71611,7 @@
 
 
 -CITE-
-    8 USC Sec. 1752a                                            01/05/2009
+    8 USC Sec. 1752a                                            02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71112,7 +71669,7 @@
 
 
 -CITE-
-    8 USC Sec. 1753                                             01/05/2009
+    8 USC Sec. 1753                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71164,7 +71721,7 @@
 
 -CITE-
     8 USC SUBCHAPTER V - FOREIGN STUDENTS AND EXCHANGE
-           VISITORS                                        01/05/2009
+           VISITORS                                        02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71179,7 +71736,7 @@
 
 
 -CITE-
-    8 USC Sec. 1761                                             01/05/2009
+    8 USC Sec. 1761                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71270,7 +71827,7 @@
 
 
 -CITE-
-    8 USC Sec. 1762                                             01/05/2009
+    8 USC Sec. 1762                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71337,7 +71894,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER VI - MISCELLANEOUS PROVISIONS              01/05/2009
+    8 USC SUBCHAPTER VI - MISCELLANEOUS PROVISIONS              02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71352,7 +71909,7 @@
 
 
 -CITE-
-    8 USC Sec. 1771                                             01/05/2009
+    8 USC Sec. 1771                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71403,7 +71960,7 @@
 
 
 -CITE-
-    8 USC Sec. 1772                                             01/05/2009
+    8 USC Sec. 1772                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71466,7 +72023,7 @@
 
 
 -CITE-
-    8 USC Sec. 1773                                             01/05/2009
+    8 USC Sec. 1773                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71490,7 +72047,7 @@
 
 
 -CITE-
-    8 USC Sec. 1774                                             01/05/2009
+    8 USC Sec. 1774                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71535,7 +72092,7 @@
 
 
 -CITE-
-    8 USC Sec. 1775                                             01/05/2009
+    8 USC Sec. 1775                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71573,7 +72130,7 @@
 
 
 -CITE-
-    8 USC Sec. 1776                                             01/05/2009
+    8 USC Sec. 1776                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71730,7 +72287,7 @@
 
 
 -CITE-
-    8 USC Sec. 1777                                             01/05/2009
+    8 USC Sec. 1777                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71967,7 +72524,7 @@
 
 
 -CITE-
-    8 USC Sec. 1778                                             01/05/2009
+    8 USC Sec. 1778                                             02/01/2010
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY

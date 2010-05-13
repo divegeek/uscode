@@ -1,11 +1,12 @@
 -CITE-
-    6 USC TITLE 6 - DOMESTIC SECURITY                           01/05/2009
+    6 USC TITLE 6 - DOMESTIC SECURITY                           02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
     
 -HEAD-    
                         TITLE 6 - DOMESTIC SECURITY                    
+
 
 -MISC1-
                                                                 
@@ -82,7 +83,7 @@
 
 
 -CITE-
-    6 USC CHAPTER 1 - HOMELAND SECURITY ORGANIZATION            01/05/2009
+    6 USC CHAPTER 1 - HOMELAND SECURITY ORGANIZATION            02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -360,6 +361,8 @@
     452.        Reorganization.                                       
     453.        Use of appropriated funds.                            
     453a.       Additional uses of appropriated funds.                
+    453b.       Requirement to buy certain items related to national
+                 security interests from American sources; exceptions.
     454.        Future Years Homeland Security Program.               
     455.        Miscellaneous authorities.                            
     456.        Military activities.                                  
@@ -387,6 +390,8 @@
     468.        Preserving Coast Guard mission performance.           
     469.        Fees for credentialing and background investigations
                  in transportation.                                   
+    469a.       Collection of fees from non-Federal participants in
+                 meetings.                                            
     470.        Disclosures regarding homeland security grants.       
 
                        PART I - INFORMATION SHARING                   
@@ -503,7 +508,7 @@
 
 
 -CITE-
-    6 USC Sec. 101                                              01/05/2009
+    6 USC Sec. 101                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -556,7 +561,7 @@
         command or control the Coast Guard as an armed force or the
         authority of the Director of National Intelligence with respect
         to the Coast Guard as an element of the intelligence community
-        (as defined under section 401a(4) of title 50.)1(!
+        (as defined under section 401a(4) of title 50.(!1)
 
 
         (10) The term "key resources" means publicly or privately
@@ -1068,7 +1073,7 @@
 
 -FOOTNOTE-               
 
-    )1(! So in original. A closing parenthesis probably should
+    (!1) So in original. A closing parenthesis probably should
          precede the period.
 
 
@@ -1077,7 +1082,7 @@
 
 
 -CITE-
-    6 USC Sec. 102                                              01/05/2009
+    6 USC Sec. 102                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -1104,7 +1109,7 @@
 
 
 -CITE-
-    6 USC Sec. 103                                              01/05/2009
+    6 USC Sec. 103                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -1155,7 +1160,7 @@
 
 
 -CITE-
-    6 USC SUBCHAPTER I - DEPARTMENT OF HOMELAND SECURITY        01/05/2009
+    6 USC SUBCHAPTER I - DEPARTMENT OF HOMELAND SECURITY        02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -1170,7 +1175,7 @@
 
 
 -CITE-
-    6 USC Sec. 111                                              01/05/2009
+    6 USC Sec. 111                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -1298,8 +1303,8 @@
     section 1182 of Title 8, Aliens and Nationality.]
       Sec. 2. [Amended Ex. Ord. No. 13274, set out as a note under
     section 301 of Title 49, Transportation.]
-      Sec. 3. [Amended Ex. Ord. No. 13271, set out as a note under
-    section 509 of Title 28, Judiciary and Judicial Procedure.]
+      Sec. 3. [Amended Ex. Ord. No. 13271, formerly set out as a note
+    under section 509 of Title 28, Judiciary and Judicial Procedure.]
       Sec. 4. [Amended and revoked Ex. Ord. No. 13260, set out as a
     note under section 402 of Title 50, War and National Defense.]
       Sec. 5. [Amended Ex. Ord. No. 13257, set out as a note under
@@ -1584,7 +1589,7 @@
 
 
 -CITE-
-    6 USC Sec. 112                                              01/05/2009
+    6 USC Sec. 112                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -1620,7 +1625,7 @@
       other and with appropriate databases of other Departments.
     (c) Coordination with non-Federal entities
       With respect to homeland security, the Secretary shall coordinate
-    through the Office of State and Local Coordination )1(!
+    through the Office of State and Local Coordination (!1)
     (established under section 361 of this title) (including the
     provision of training and equipment) with State and local
     government personnel, agencies, and authorities, with the private
@@ -1756,7 +1761,7 @@
     conducted or supported by the Department."
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be "Office of State and Local
+    (!1) So in original. Probably should be "Office of State and Local
          Government Coordination".
 
 
@@ -1765,7 +1770,7 @@
 
 
 -CITE-
-    6 USC Sec. 113                                              01/05/2009
+    6 USC Sec. 113                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -1891,7 +1896,7 @@
 
 
 -CITE-
-    6 USC Sec. 114                                              01/05/2009
+    6 USC Sec. 114                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -1956,7 +1961,7 @@
 
 
 -CITE-
-    6 USC Sec. 115                                              01/05/2009
+    6 USC Sec. 115                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -2123,7 +2128,7 @@
 
 -CITE-
     6 USC SUBCHAPTER II - INFORMATION ANALYSIS AND
-           INFRASTRUCTURE PROTECTION                       01/05/2009
+           INFRASTRUCTURE PROTECTION                       02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -2138,7 +2143,7 @@
 
 -CITE-
     6 USC Part A - Information and Analysis and Infrastructure
-                    Protection; Access to Information      01/05/2009
+                    Protection; Access to Information      02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -2163,7 +2168,7 @@
 
 
 -CITE-
-    6 USC Sec. 121                                              01/05/2009
+    6 USC Sec. 121                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -2448,7 +2453,8 @@
     2145; Pub. L. 110-53, title V, Secs. 501(a)(2)(A), (b), 531(a),
     title X, Sec. 1002(a), Aug. 3, 2007, 121 Stat. 309, 332, 374; Pub.
     L. 110-417, [div. A], title IX, Sec. 931(b)(5), Oct. 14, 2008, 122
-    Stat. 4575.)
+    Stat. 4575; Pub. L. 111-84, div. A, title X, Sec. 1073(c)(9), Oct.
+    28, 2009, 123 Stat. 2475.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -2473,12 +2479,12 @@
 
 -MISC1-
                                 AMENDMENTS                            
-      2008 - Subsec. (f)(2)(E). Pub. L. 110-417, which directed
-    substitution of "National Geospatial-Intelligence Agency" for
-    "National Imagery and Mapping Agency" in subsec. (e)(2), was
-    executed by making the substitution in subsec. (f)(2)(E) to reflect
-    the probable intent of Congress, because the language to be
-    stricken did not appear in subsec. (e)(2).
+      2009 - Subsec. (f)(2)(E). Pub. L. 111-84 made technical amendment
+    to directory language of Pub. L. 110-417. See 2008 amendment note
+    below.
+      2008 - Subsec. (f)(2)(E). Pub. L. 110-417, Sec. 931(b)(5), as
+    amended by Pub. L. 111-84, substituted "National Geospatial-
+    Intelligence Agency" for "National Imagery and Mapping Agency".
       2007 - Pub. L. 110-53, Sec. 531(a)(1), substituted "Information
     and" for "Directorate for Information" in section catchline.
       Subsecs. (a) to (c). Pub. L. 110-53, Sec. 531(a)(2), added
@@ -2565,10 +2571,17 @@
     Protection" for "Under Secretary for Information Analysis and
     Infrastructure Protection" in introductory provisions.
 
+                     EFFECTIVE DATE OF 2009 AMENDMENT                 
+      Pub. L. 111-84, div. A, title X, Sec. 1073(c), Oct. 28, 2009, 123
+    Stat. 2474, provided that the amendment by section 1073(c)(9) is
+    effective as of Oct. 14, 2008, and as if included in Pub. L. 110-
+    417 as enacted.
+
                                 REGULATIONS                            
       Pub. L. 109-295, title V, Sec. 550, Oct. 4, 2006, 120 Stat. 1388,
     as amended by Pub. L. 110-161, div. E, title V, Sec. 534, Dec. 26,
-    2007, 121 Stat. 2075, provided that:
+    2007, 121 Stat. 2075; Pub. L. 111-83, title V, Sec. 550, Oct. 28,
+    2009, 123 Stat. 2177, provided that:
       "(a) No later than six months after the date of enactment of this
     Act [Oct. 4, 2006], the Secretary of Homeland Security shall issue
     interim final regulations establishing risk-based performance
@@ -2610,8 +2623,7 @@
     promulgated under other laws that establish requirements and
     standards referred to in subsection (a) and expressly supersede
     this section: Provided, That the authority provided by this section
-    shall terminate three years after the date of enactment of this Act
-    [Oct. 4, 2006].
+    shall terminate on October 4, 2010.
       "(c) Notwithstanding any other provision of law and subsection
     (b), information developed under this section, including
     vulnerability assessments, site security plans, and other security
@@ -2883,7 +2895,11 @@
     Federal Advisory Committee Act in the Appendix to Title 5.
       Term of the National Infrastructure Advisory Council extended
     until Sept. 30, 2009, by Ex. Ord. No. 13446, Sept. 28, 2007, 72
-    F.R. 56175, set out as a note under section 14 of the Federal
+    F.R. 56175, formerly set out as a note under section 14 of the
+    Federal Advisory Committee Act in the Appendix to Title 5.
+      Term of the National Infrastructure Advisory Council extended
+    until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74
+    F.R. 50909, set out as a note under section 14 of the Federal
     Advisory Committee Act in the Appendix to Title 5.
 
        EX. ORD. NO. 13284. AMENDMENT OF EXECUTIVE ORDERS, AND OTHER
@@ -2997,7 +3013,7 @@
 
 
 -CITE-
-    6 USC Sec. 122                                              01/05/2009
+    6 USC Sec. 122                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -3069,7 +3085,7 @@
       (1) Access by elements of Federal Government
         Nothing in this subchapter shall preclude any element of the
       intelligence community (as that term is defined in section
-      401a(4) of title 50,)1(! or any other element of the Federal
+      401a(4) of title 50,(!1) or any other element of the Federal
       Government with responsibility for analyzing terrorist threat
       information, from receiving any intelligence or other information
       relating to terrorism.
@@ -3125,7 +3141,7 @@
     National Defense.
 
 -FOOTNOTE-
-    )1(! So in original. There probably should be a closing parenthesis
+    (!1) So in original. There probably should be a closing parenthesis
          after "50".
 
 
@@ -3134,7 +3150,7 @@
 
 
 -CITE-
-    6 USC Sec. 123                                              01/05/2009
+    6 USC Sec. 123                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -3151,7 +3167,7 @@
       Not later than 90 days after August 3, 2007, the Secretary of
     Homeland Security, in consultation with the Director of the
     National Counterterrorism Center and consistent with the strategy
-    developed under section 7201,)1(! shall establish a program to
+    developed under section 7201,(!1) shall establish a program to
     oversee the implementation of the Secretary's responsibilities with
     respect to terrorist travel.
 
@@ -3234,7 +3250,7 @@
     respect to terrorist travel.
 
 -FOOTNOTE-
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
@@ -3242,7 +3258,7 @@
 
 
 -CITE-
-    6 USC Sec. 124                                              01/05/2009
+    6 USC Sec. 124                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -3294,7 +3310,7 @@
 
 
 -CITE-
-    6 USC Sec. 124a                                             01/05/2009
+    6 USC Sec. 124a                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -3421,7 +3437,7 @@
 
 
 -CITE-
-    6 USC Sec. 124b                                             01/05/2009
+    6 USC Sec. 124b                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -3464,7 +3480,7 @@
 
 
 -CITE-
-    6 USC Sec. 124c                                             01/05/2009
+    6 USC Sec. 124c                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -3506,7 +3522,7 @@
 
 
 -CITE-
-    6 USC Sec. 124d                                             01/05/2009
+    6 USC Sec. 124d                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -3563,7 +3579,7 @@
 
 
 -CITE-
-    6 USC Sec. 124e                                             01/05/2009
+    6 USC Sec. 124e                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -3596,7 +3612,7 @@
 
 
 -CITE-
-    6 USC Sec. 124f                                             01/05/2009
+    6 USC Sec. 124f                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -3651,7 +3667,7 @@
 
 
 -CITE-
-    6 USC Sec. 124g                                             01/05/2009
+    6 USC Sec. 124g                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -3673,7 +3689,7 @@
     that section, including homeland security information, terrorism
     information, and weapons of mass destruction information, or
     national intelligence (as defined in section 401a(5) of title 50
-    )1(!, in a manner consistent with any policies, guidelines,
+    (!1), in a manner consistent with any policies, guidelines,
     procedures, instructions, or standards established by the President
     or, as appropriate, the program manager of that environment for the
     implementation and management of that environment.
@@ -3695,8 +3711,8 @@
     title V, Sec. 503(a), Aug. 3, 2007, 121 Stat. 313.)
 
 -FOOTNOTE-
-    )1(! So in original. A closing parenthesis probably should precede the
-         comma.
+    (!1) So in original. A closing parenthesis probably should precede
+         the comma.
 
 
 -End-
@@ -3704,7 +3720,7 @@
 
 
 -CITE-
-    6 USC Sec. 124h                                             01/05/2009
+    6 USC Sec. 124h                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -4043,7 +4059,7 @@
 
 
 -CITE-
-    6 USC Sec. 124i                                             01/05/2009
+    6 USC Sec. 124i                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -4159,7 +4175,7 @@
 
 
 -CITE-
-    6 USC Sec. 124j                                             01/05/2009
+    6 USC Sec. 124j                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -4223,7 +4239,7 @@
 
 
 -CITE-
-    6 USC Sec. 124k                                             01/05/2009
+    6 USC Sec. 124k                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -4391,7 +4407,7 @@
       quarterly, at the facilities of the National Counterterrorism
       Center of the Office of the Director of National Intelligence.
       (2) Management
-        Pursuant to section 404o(f)(E) )1(! of title 50, the Director
+        Pursuant to section 404o(f)(E) (!1) of title 50, the Director
       of the National Counterterrorism Center, acting through the
       senior intelligence official from the Department of Homeland
       Security detailed pursuant to subsection (d)(6), shall ensure
@@ -4409,7 +4425,7 @@
         Advisory Council;
           (B) in consultation with the ITACG Advisory Council and
         consistent with sections 403-1(f)(1)(B)(iii) and 404o(f)(E)
-        )1(! of title 50, all products described in subparagraph (A)
+        (!1) of title 50, all products described in subparagraph (A)
         are disseminated through existing channels of the Department
         and the Department of Justice and other appropriate channels to
         State, local, and tribal government officials and other
@@ -4450,7 +4466,7 @@
     the Appendix to Title 5, Government Organization and Employees.
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be section "404o(f)(1)(E)".
+    (!1) So in original. Probably should be section "404o(f)(1)(E)".
 
 
 -End-
@@ -4458,7 +4474,7 @@
 
 
 -CITE-
-    6 USC Sec. 124l                                             01/05/2009
+    6 USC Sec. 124l                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -4617,7 +4633,7 @@
 
 
 -CITE-
-    6 USC Part B - Critical Infrastructure Information          01/05/2009
+    6 USC Part B - Critical Infrastructure Information          02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -4633,7 +4649,7 @@
 
 
 -CITE-
-    6 USC Sec. 131                                              01/05/2009
+    6 USC Sec. 131                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -4693,7 +4709,7 @@
         and reliability thereof;
           (B) communicating or disclosing critical infrastructure
         information to help prevent, detect, mitigate, or recover from
-        the effects of a )1(! interference, compromise, or a )2(!
+        the effects of a (!1) interference, compromise, or a (!2)
         incapacitation problem related to critical infrastructure or
         protected systems; and
 
@@ -4752,9 +4768,9 @@
     out as a note under section 101 of this title.
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be "an".
+    (!1) So in original. Probably should be "an".
 
-    )2(! So in original. The word "a" probably should not appear.
+    (!2) So in original. The word "a" probably should not appear.
 
 
 -End-
@@ -4762,7 +4778,7 @@
 
 
 -CITE-
-    6 USC Sec. 132                                              01/05/2009
+    6 USC Sec. 132                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -4788,7 +4804,7 @@
 
 
 -CITE-
-    6 USC Sec. 133                                              01/05/2009
+    6 USC Sec. 133                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -4836,7 +4852,7 @@
               (II) to the Comptroller General, or any authorized
             representative of the Comptroller General, in the course of
             the performance of the duties of the Government
-            Accountability Office.)1(!
+            Accountability Office.(!1)
 
 
           (E) shall not, if provided to a State or local government or
@@ -4973,7 +4989,7 @@
 
 -FOOTNOTE-               
 
-    )1(! So in original. The period probably should be a semicolon.
+    (!1) So in original. The period probably should be a semicolon.
 
 
 -End-
@@ -4981,7 +4997,7 @@
 
 
 -CITE-
-    6 USC Sec. 134                                              01/05/2009
+    6 USC Sec. 134                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -5004,7 +5020,7 @@
 
 
 -CITE-
-    6 USC Part C - Information Security                         01/05/2009
+    6 USC Part C - Information Security                         02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -5020,7 +5036,7 @@
 
 
 -CITE-
-    6 USC Sec. 141                                              01/05/2009
+    6 USC Sec. 141                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -5067,7 +5083,7 @@
 
 
 -CITE-
-    6 USC Sec. 142                                              01/05/2009
+    6 USC Sec. 142                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -5255,7 +5271,7 @@
 
 
 -CITE-
-    6 USC Sec. 143                                              01/05/2009
+    6 USC Sec. 143                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -5270,7 +5286,7 @@
       In carrying out the responsibilities under section 121 of this
     title, the Under Secretary for Intelligence and Analysis, in
     cooperation with the Assistant Secretary for Infrastructure
-    Protection )1(! shall - 
+    Protection (!1) shall - 
 
         (1) as appropriate, provide to State and local government
       entities, and upon request to private entities that own or
@@ -5303,7 +5319,7 @@
     provisions.
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be followed by a comma.
+    (!1) So in original. Probably should be followed by a comma.
 
 
 -End-
@@ -5311,7 +5327,7 @@
 
 
 -CITE-
-    6 USC Sec. 144                                              01/05/2009
+    6 USC Sec. 144                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -5347,7 +5363,7 @@
 
 
 -CITE-
-    6 USC Sec. 145                                              01/05/2009
+    6 USC Sec. 145                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -5445,7 +5461,7 @@
 
 
 -CITE-
-    6 USC Part D - Office of Science and Technology             01/05/2009
+    6 USC Part D - Office of Science and Technology             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -5461,7 +5477,7 @@
 
 
 -CITE-
-    6 USC Sec. 161                                              01/05/2009
+    6 USC Sec. 161                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -5511,7 +5527,7 @@
 
 
 -CITE-
-    6 USC Sec. 162                                              01/05/2009
+    6 USC Sec. 162                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -5682,7 +5698,7 @@
 
 
 -CITE-
-    6 USC Sec. 163                                              01/05/2009
+    6 USC Sec. 163                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -5723,7 +5739,7 @@
 
 
 -CITE-
-    6 USC Sec. 164                                              01/05/2009
+    6 USC Sec. 164                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -5799,7 +5815,7 @@
 
 
 -CITE-
-    6 USC Sec. 165                                              01/05/2009
+    6 USC Sec. 165                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -5846,7 +5862,7 @@
 
 -CITE-
     6 USC SUBCHAPTER III - SCIENCE AND TECHNOLOGY IN SUPPORT
-           OF HOMELAND SECURITY                            01/05/2009
+           OF HOMELAND SECURITY                            02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -5863,7 +5879,7 @@
 
 
 -CITE-
-    6 USC Sec. 181                                              01/05/2009
+    6 USC Sec. 181                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -5887,7 +5903,7 @@
 
 
 -CITE-
-    6 USC Sec. 182                                              01/05/2009
+    6 USC Sec. 182                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -5909,7 +5925,7 @@
       identifying priorities, goals, objectives and policies for, and
       coordinating the Federal Government's civilian efforts to
       identify and develop countermeasures to chemical,
-      biological,,)1(! and other emerging terrorist threats, including
+      biological,,(!1) and other emerging terrorist threats, including
       the development of comprehensive, research-based definable goals
       for such efforts and development of annual measurable objectives
       and specific targets to accomplish and evaluate the goals for
@@ -5928,7 +5944,7 @@
         (5) establishing priorities for, directing, funding, and
       conducting national research, development, test and evaluation,
       and procurement of technology and systems for - 
-          (A) preventing the importation of chemical, biological,,)1(!
+          (A) preventing the importation of chemical, biological,,(!1)
         and related weapons and material; and
           (B) detecting, preventing, protecting against, and responding
         to terrorist attacks;
@@ -5982,7 +5998,7 @@
     "radiological, nuclear" after "biological,".
 
 -FOOTNOTE-
-    )1(! So in original.
+    (!1) So in original.
 
 
 -End-
@@ -5990,7 +6006,7 @@
 
 
 -CITE-
-    6 USC Sec. 183                                              01/05/2009
+    6 USC Sec. 183                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -6043,7 +6059,7 @@
 
 
 -CITE-
-    6 USC Sec. 184                                              01/05/2009
+    6 USC Sec. 184                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -6088,7 +6104,7 @@
 
 
 -CITE-
-    6 USC Sec. 185                                              01/05/2009
+    6 USC Sec. 185                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -6126,7 +6142,7 @@
 
 
 -CITE-
-    6 USC Sec. 186                                              01/05/2009
+    6 USC Sec. 186                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -6170,7 +6186,7 @@
 
 
 -CITE-
-    6 USC Sec. 187                                              01/05/2009
+    6 USC Sec. 187                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -6268,7 +6284,7 @@
 
 
 -CITE-
-    6 USC Sec. 188                                              01/05/2009
+    6 USC Sec. 188                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -6413,7 +6429,7 @@
 
 
 -CITE-
-    6 USC Sec. 189                                              01/05/2009
+    6 USC Sec. 189                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -6551,7 +6567,7 @@
 
 
 -CITE-
-    6 USC Sec. 190                                              01/05/2009
+    6 USC Sec. 190                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -6600,7 +6616,7 @@
 
 
 -CITE-
-    6 USC Sec. 191                                              01/05/2009
+    6 USC Sec. 191                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -6731,7 +6747,7 @@
 
 
 -CITE-
-    6 USC Sec. 192                                              01/05/2009
+    6 USC Sec. 192                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -6814,7 +6830,7 @@
 
 
 -CITE-
-    6 USC Sec. 193                                              01/05/2009
+    6 USC Sec. 193                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -6881,7 +6897,7 @@
 
 
 -CITE-
-    6 USC Sec. 194                                              01/05/2009
+    6 USC Sec. 194                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -6960,7 +6976,7 @@
             (i) carry out Department of Homeland Security
           responsibilities and authorities relating to the SAFECOM
           Program; and
-            (ii) carry out section 321 )1(! of this title.
+            (ii) carry out section 321 (!1) of this title.
 
       (3) Authorization of appropriations
         There are authorized to be appropriated to the Secretary to
@@ -7258,7 +7274,7 @@
     final report 18 months after Dec. 17, 2004.
 
 -FOOTNOTE-
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
@@ -7266,7 +7282,7 @@
 
 
 -CITE-
-    6 USC Sec. 195                                              01/05/2009
+    6 USC Sec. 195                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -7342,7 +7358,7 @@
 
 
 -CITE-
-    6 USC Sec. 195a                                             01/05/2009
+    6 USC Sec. 195a                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -7407,7 +7423,7 @@
 
 
 -CITE-
-    6 USC Sec. 195b                                             01/05/2009
+    6 USC Sec. 195b                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -7525,7 +7541,7 @@
         for Intelligence and Analysis, and other offices or agencies of
         the Federal Government, as appropriate.
     (e) Responsibilities of the NBIC member agencies
-      (1) )1(! In general
+      (1) (!1) In general
 
         Each Member Agency shall - 
           (A) use its best efforts to integrate biosurveillance
@@ -7608,7 +7624,7 @@
     operational by not later than September 30, 2008."
 
 -FOOTNOTE-
-    )1(! So in original. No par. (2) has been enacted.
+    (!1) So in original. No par. (2) has been enacted.
 
 
 -End-
@@ -7616,7 +7632,7 @@
 
 
 -CITE-
-    6 USC Sec. 195c                                             01/05/2009
+    6 USC Sec. 195c                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -7834,7 +7850,7 @@
 
 -CITE-
     6 USC SUBCHAPTER IV - DIRECTORATE OF BORDER AND
-           TRANSPORTATION SECURITY                         01/05/2009
+           TRANSPORTATION SECURITY                         02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -7849,7 +7865,7 @@
 
 -CITE-
     6 USC Part A - Under Secretary for Border and
-                    Transportation Security                01/05/2009
+                    Transportation Security                02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -7865,7 +7881,7 @@
 
 
 -CITE-
-    6 USC Sec. 201                                              01/05/2009
+    6 USC Sec. 201                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -7890,7 +7906,7 @@
 
 
 -CITE-
-    6 USC Sec. 202                                              01/05/2009
+    6 USC Sec. 202                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -7953,7 +7969,7 @@
 
 
 -CITE-
-    6 USC Sec. 203                                              01/05/2009
+    6 USC Sec. 203                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -7992,7 +8008,7 @@
 
 
 -CITE-
-    6 USC Part B - United States Customs Service                01/05/2009
+    6 USC Part B - United States Customs Service                02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -8008,7 +8024,7 @@
 
 
 -CITE-
-    6 USC Sec. 211                                              01/05/2009
+    6 USC Sec. 211                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -8069,7 +8085,7 @@
 
 
 -CITE-
-    6 USC Sec. 212                                              01/05/2009
+    6 USC Sec. 212                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -8085,7 +8101,7 @@
     (a) Retention of Customs revenue functions by Secretary of the
       Treasury
       (1) Retention of authority
-        Notwithstanding section 203(a)(1) )1(! of this title, authority
+        Notwithstanding section 203(a)(1) (!1) of this title, authority
       related to Customs revenue functions that was vested in the
       Secretary of the Treasury by law before the effective date of
       this chapter under those provisions of law set forth in paragraph
@@ -8215,7 +8231,7 @@
     section 542 of this title.
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be section "203(1)".
+    (!1) So in original. Probably should be section "203(1)".
 
 
 -End-
@@ -8223,7 +8239,7 @@
 
 
 -CITE-
-    6 USC Sec. 213                                              01/05/2009
+    6 USC Sec. 213                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -8258,7 +8274,7 @@
 
 
 -CITE-
-    6 USC Sec. 214                                              01/05/2009
+    6 USC Sec. 214                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -8289,20 +8305,25 @@
 
 -MISC1-
                            LAND BORDER PROJECTS                       
+      Pub. L. 111-83, title II, Oct. 28, 2009, 123 Stat. 2148, provided
+    in part: "That for fiscal year 2011 and thereafter, the annual
+    budget submission of U.S. Customs and Border Protection for
+    'Construction and Facilities Management' shall, in consultation
+    with the General Services Administration, include a detailed 5-year
+    plan for all Federal land border port of entry projects with a
+    yearly update of total projected future funding needs delineated by
+    land port of entry."
+      Similar provisions were contained in the following prior
+    appropriation act:
       Pub. L. 110-329, div. D, title II, Sept. 30, 2008, 122 Stat.
-    3658, provided in part: "That for fiscal year 2010 and thereafter,
-    the annual budget submission of U.S. Customs and Border Protection
-    for 'Construction' shall, in consultation with the General Services
-    Administration, include a detailed 5-year plan for all Federal land
-    border port of entry projects with a yearly update of total
-    projected future funding needs."
+    3658.
 
 -End-
 
 
 
 -CITE-
-    6 USC Sec. 215                                              01/05/2009
+    6 USC Sec. 215                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -8373,7 +8394,7 @@
 
 
 -CITE-
-    6 USC Sec. 216                                              01/05/2009
+    6 USC Sec. 216                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -8406,7 +8427,7 @@
 
 
 -CITE-
-    6 USC Sec. 217                                              01/05/2009
+    6 USC Sec. 217                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -8453,7 +8474,7 @@
 
 
 -CITE-
-    6 USC Sec. 218                                              01/05/2009
+    6 USC Sec. 218                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -8470,7 +8491,7 @@
     effective date of this chapter, continue to submit to the Committee
     on Ways and Means of the House of Representatives and the Committee
     on Finance of the Senate any report required, on the day before
-    such the )1(! effective date of this chapter, to be so submitted
+    such the (!1) effective date of this chapter, to be so submitted
     under any provision of law.
 
     (b) Report on conforming amendments
@@ -8505,7 +8526,7 @@
     section 542 of this title.
 
 -FOOTNOTE-
-    )1(! So in original.
+    (!1) So in original.
 
 
 -End-
@@ -8513,7 +8534,7 @@
 
 
 -CITE-
-    6 USC Sec. 220                                              01/05/2009
+    6 USC Sec. 220                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -8567,7 +8588,7 @@
       the House of Representatives, that includes - 
           (A) a comprehensive summary of the analysis described in
         paragraph (1); and
-          (B) a description of how the Untied )1(! States Customs and
+          (B) a description of how the Untied (!1) States Customs and
         Border Protection utilized the analysis described in paragraph
         (1) to target shipments presenting a high risk for smuggling or
         circumvention of the Combat Methamphetamine Epidemic Act of
@@ -8620,14 +8641,14 @@
     section 901 of this title.
 
 -FOOTNOTE-
-    )1(! So in original.
+    (!1) So in original.
 
 
 -End-
 
 
 -CITE-
-    6 USC Part C - Miscellaneous Provisions                     01/05/2009
+    6 USC Part C - Miscellaneous Provisions                     02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -8643,7 +8664,7 @@
 
 
 -CITE-
-    6 USC Sec. 231                                              01/05/2009
+    6 USC Sec. 231                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -8799,7 +8820,7 @@
 
 
 -CITE-
-    6 USC Sec. 232                                              01/05/2009
+    6 USC Sec. 232                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -8859,7 +8880,7 @@
 
 
 -CITE-
-    6 USC Sec. 233                                              01/05/2009
+    6 USC Sec. 233                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -8906,7 +8927,7 @@
 
 
 -CITE-
-    6 USC Sec. 234                                              01/05/2009
+    6 USC Sec. 234                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -8938,7 +8959,7 @@
 
 
 -CITE-
-    6 USC Sec. 235                                              01/05/2009
+    6 USC Sec. 235                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -8985,7 +9006,7 @@
 
 
 -CITE-
-    6 USC Sec. 236                                              01/05/2009
+    6 USC Sec. 236                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -8998,7 +9019,7 @@
 
 -STATUTE-
     (a) Definition
-      In this subsection,)1(! the term "consular office" )2(! has the
+      In this subsection,(!1) the term "consular office" (!2) has the
     meaning given that term under section 101(a)(9) of the Immigration
     and Nationality Act (8 U.S.C. 1101(a)(9)).
 
@@ -9063,7 +9084,7 @@
         Solidarity (LIBERTAD) Act of 1996 [22 U.S.C. 6091].
           (L) Section 613 of the Departments of Commerce, Justice, and
         State, the Judiciary and Related Agencies Appropriations Act,
-        1999 )3(! (as contained in section 101(b) of division A of
+        1999 (!3) (as contained in section 101(b) of division A of
         Public Law 105-277) (Omnibus Consolidated and Emergency
         Supplemental Appropriations Act, 1999); 112 Stat. 2681; H.R.
         4328 (originally H.R. 4276) as amended by section 617 of Public
@@ -9191,7 +9212,7 @@
       the Committee on International Relations, and the Committee on
       Government Reform of the House of Representatives, and the
       Committee on the Judiciary, the Committee on Foreign Relations,
-      and the Committee on Government )4(! Affairs of the Senate.
+      and the Committee on Government (!4) Affairs of the Senate.
 
     (h) Report
       Not later than 120 days after November 25, 2002, the Director of
@@ -9254,13 +9275,13 @@
     Congress, Oct. 9, 2004.
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be "section".
+    (!1) So in original. Probably should be "section".
 
-    )2(! So in original. Probably should be " 'consular officer' ".
+    (!2) So in original. Probably should be " 'consular officer' ".
 
-    )3(! See References in Text note below.
+    (!3) See References in Text note below.
 
-    )4(! So in original. Probably should be "Governmental".
+    (!4) So in original. Probably should be "Governmental".
 
 
 -End-
@@ -9268,7 +9289,7 @@
 
 
 -CITE-
-    6 USC Sec. 237                                              01/05/2009
+    6 USC Sec. 237                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -9311,7 +9332,7 @@
 
 
 -CITE-
-    6 USC Sec. 238                                              01/05/2009
+    6 USC Sec. 238                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -9398,7 +9419,7 @@
 
 
 -CITE-
-    6 USC Sec. 239                                              01/05/2009
+    6 USC Sec. 239                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -9457,7 +9478,7 @@
 
 
 -CITE-
-    6 USC Part D - Immigration Enforcement Functions            01/05/2009
+    6 USC Part D - Immigration Enforcement Functions            02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -9473,7 +9494,7 @@
 
 
 -CITE-
-    6 USC Sec. 251                                              01/05/2009
+    6 USC Sec. 251                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -9508,7 +9529,7 @@
 
 
 -CITE-
-    6 USC Sec. 252                                              01/05/2009
+    6 USC Sec. 252                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -9625,7 +9646,7 @@
 
 
 -CITE-
-    6 USC Sec. 253                                              01/05/2009
+    6 USC Sec. 253                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -9666,7 +9687,7 @@
 
 
 -CITE-
-    6 USC Sec. 254                                              01/05/2009
+    6 USC Sec. 254                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -9702,7 +9723,7 @@
 
 
 -CITE-
-    6 USC Sec. 255                                              01/05/2009
+    6 USC Sec. 255                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -9759,7 +9780,7 @@
 
 
 -CITE-
-    6 USC Sec. 256                                              01/05/2009
+    6 USC Sec. 256                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -9793,7 +9814,7 @@
 
 
 -CITE-
-    6 USC Part E - Citizenship and Immigration Services         01/05/2009
+    6 USC Part E - Citizenship and Immigration Services         02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -9809,7 +9830,7 @@
 
 
 -CITE-
-    6 USC Sec. 271                                              01/05/2009
+    6 USC Sec. 271                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -9858,7 +9879,7 @@
       (4) Managerial rotation program
         (A) In general
           Not later than 1 year after the effective date specified in
-        section 455,)1(! the Director of the Bureau of Citizenship and
+        section 455,(!1) the Director of the Bureau of Citizenship and
         Immigration Services shall design and implement a managerial
         rotation program under which employees of such bureau holding
         positions involving supervisory or managerial responsibility
@@ -9871,7 +9892,7 @@
           center of such bureau.
         (B) Report
           Not later than 2 years after the effective date specified in
-        section 455,)1(! the Secretary shall submit a report to
+        section 455,(!1) the Secretary shall submit a report to
         Congress on the implementation of such program.
       (5) Pilot initiatives for backlog elimination
         The Director of the Bureau of Citizenship and Immigration
@@ -9890,14 +9911,14 @@
     Citizenship and Immigration Services the following functions, and
     all personnel, infrastructure, and funding provided to the
     Commissioner in support of such functions immediately before the
-    effective date specified in section 455: )1(!
+    effective date specified in section 455: (!1)
         (1) Adjudications of immigrant visa petitions.
         (2) Adjudications of naturalization petitions.
         (3) Adjudications of asylum and refugee applications.
         (4) Adjudications performed at service centers.
         (5) All other adjudications performed by the Immigration and
       Naturalization Service immediately before the effective date
-      specified in section 455.)1(!
+      specified in section 455.(!1)
     (c) Chief of Policy and Strategy
       (1) In general
         There shall be a position of Chief of Policy and Strategy for
@@ -10038,7 +10059,7 @@
     repealed 5 years after Oct. 9, 2008.]
 
 -FOOTNOTE-
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
@@ -10046,7 +10067,7 @@
 
 
 -CITE-
-    6 USC Sec. 272                                              01/05/2009
+    6 USC Sec. 272                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -10192,7 +10213,7 @@
 
 
 -CITE-
-    6 USC Sec. 273                                              01/05/2009
+    6 USC Sec. 273                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -10246,7 +10267,7 @@
 
 
 -CITE-
-    6 USC Sec. 274                                              01/05/2009
+    6 USC Sec. 274                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -10283,7 +10304,7 @@
 
 
 -CITE-
-    6 USC Sec. 275                                              01/05/2009
+    6 USC Sec. 275                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -10298,7 +10319,7 @@
     (a) References
       With respect to any function transferred by this part to, and
     exercised on or after the effective date specified in section 455
-    )1(! by, the Director of the Bureau of Citizenship and Immigration
+    (!1) by, the Director of the Bureau of Citizenship and Immigration
     Services, any reference in any other Federal law, Executive order,
     rule, regulation, or delegation of authority, or any document of or
     pertaining to a component of government from which such function is
@@ -10317,7 +10338,7 @@
       provision of law that were available with respect to the
       performance of that function to the official responsible for the
       performance of the function immediately before the effective date
-      specified in section 455.)1(!
+      specified in section 455.(!1)
       (2) Transfer and allocation of appropriations and personnel
         The personnel of the Department of Justice employed in
       connection with the functions transferred by this part (and
@@ -10337,7 +10358,7 @@
       appropriated. The Secretary shall have the right to adjust or
       realign transfers of funds and personnel effected pursuant to
       this part for a period of 2 years after the effective date
-      specified in section 455.)1(!
+      specified in section 455.(!1)
 
 -SOURCE-
     (Pub. L. 107-296, title IV, Sec. 456, Nov. 25, 2002, 116 Stat.
@@ -10373,7 +10394,7 @@
     title.
 
 -FOOTNOTE-
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
@@ -10381,7 +10402,7 @@
 
 
 -CITE-
-    6 USC Sec. 276                                              01/05/2009
+    6 USC Sec. 276                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -10444,7 +10465,7 @@
 
 
 -CITE-
-    6 USC Sec. 277                                              01/05/2009
+    6 USC Sec. 277                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -10476,7 +10497,7 @@
 
 
 -CITE-
-    6 USC Sec. 278                                              01/05/2009
+    6 USC Sec. 278                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -10573,7 +10594,7 @@
 
 
 -CITE-
-    6 USC Sec. 279                                              01/05/2009
+    6 USC Sec. 279                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -10690,7 +10711,7 @@
     authority of any official of the Department of Justice, the
     Department of Homeland Security, or the Department of State.
     (d) Effective date
-      Notwithstanding section 4,)1(! this section shall take effect on
+      Notwithstanding section 4,(!1) this section shall take effect on
     the date on which the transfer of functions specified under section
     251 of this title takes effect.
 
@@ -10794,14 +10815,14 @@
     1st Session, set out as a note under section 542 of this title.
 
 -FOOTNOTE-
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
 
 
 -CITE-
-    6 USC Part F - General Immigration Provisions               01/05/2009
+    6 USC Part F - General Immigration Provisions               02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -10817,7 +10838,7 @@
 
 
 -CITE-
-    6 USC Sec. 291                                              01/05/2009
+    6 USC Sec. 291                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -10860,7 +10881,7 @@
 
 
 -CITE-
-    6 USC Sec. 292                                              01/05/2009
+    6 USC Sec. 292                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -11035,7 +11056,7 @@
 
 
 -CITE-
-    6 USC Sec. 293                                              01/05/2009
+    6 USC Sec. 293                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -11136,7 +11157,7 @@
 
 
 -CITE-
-    6 USC Sec. 294                                              01/05/2009
+    6 USC Sec. 294                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -11174,7 +11195,7 @@
 
 
 -CITE-
-    6 USC Sec. 295                                              01/05/2009
+    6 USC Sec. 295                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -11215,7 +11236,7 @@
 
 
 -CITE-
-    6 USC Sec. 296                                              01/05/2009
+    6 USC Sec. 296                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -11265,7 +11286,7 @@
 
 
 -CITE-
-    6 USC Sec. 297                                              01/05/2009
+    6 USC Sec. 297                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -11408,7 +11429,7 @@
 
 
 -CITE-
-    6 USC Sec. 298                                              01/05/2009
+    6 USC Sec. 298                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -11483,7 +11504,7 @@
 
 
 -CITE-
-    6 USC SUBCHAPTER V - NATIONAL EMERGENCY MANAGEMENT          01/05/2009
+    6 USC SUBCHAPTER V - NATIONAL EMERGENCY MANAGEMENT          02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -11505,7 +11526,7 @@
 
 
 -CITE-
-    6 USC Sec. 311                                              01/05/2009
+    6 USC Sec. 311                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -11545,7 +11566,7 @@
       management;
         (8) the term "National Response Plan" means the National
       Response Plan or any successor plan prepared under section
-      314(a)(6) )1(! of this title;
+      314(a)(6) (!1) of this title;
 
         (9) the term "Regional Administrator" means a Regional
       Administrator appointed under section 317 of this title;
@@ -11624,7 +11645,7 @@
     Tables for classification] that takes effect on March 31, 2007."
 
 -FOOTNOTE-
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
@@ -11632,7 +11653,7 @@
 
 
 -CITE-
-    6 USC Sec. 312                                              01/05/2009
+    6 USC Sec. 312                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -11677,7 +11698,7 @@
 
 
 -CITE-
-    6 USC Sec. 313                                              01/05/2009
+    6 USC Sec. 313                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -11841,7 +11862,7 @@
 
 
 -CITE-
-    6 USC Sec. 314                                              01/05/2009
+    6 USC Sec. 314                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -12137,7 +12158,7 @@
 
 
 -CITE-
-    6 USC Sec. 314a                                             01/05/2009
+    6 USC Sec. 314a                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -12176,7 +12197,7 @@
 
 
 -CITE-
-    6 USC Sec. 315                                              01/05/2009
+    6 USC Sec. 315                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -12244,7 +12265,7 @@
 
 
 -CITE-
-    6 USC Sec. 316                                              01/05/2009
+    6 USC Sec. 316                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -12296,7 +12317,7 @@
 
 
 -CITE-
-    6 USC Sec. 317                                              01/05/2009
+    6 USC Sec. 317                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -12492,7 +12513,7 @@
 
 
 -CITE-
-    6 USC Sec. 318                                              01/05/2009
+    6 USC Sec. 318                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -12620,7 +12641,7 @@
 
 
 -CITE-
-    6 USC Sec. 319                                              01/05/2009
+    6 USC Sec. 319                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -12716,7 +12737,7 @@
 
 
 -CITE-
-    6 USC Sec. 320                                              01/05/2009
+    6 USC Sec. 320                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -12811,7 +12832,7 @@
 
 
 -CITE-
-    6 USC Sec. 321                                              01/05/2009
+    6 USC Sec. 321                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -12889,7 +12910,7 @@
 
 
 -CITE-
-    6 USC Sec. 321a                                             01/05/2009
+    6 USC Sec. 321a                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -12984,7 +13005,7 @@
 
 
 -CITE-
-    6 USC Sec. 321b                                             01/05/2009
+    6 USC Sec. 321b                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -13073,7 +13094,7 @@
 
 
 -CITE-
-    6 USC Sec. 321c                                             01/05/2009
+    6 USC Sec. 321c                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -13110,7 +13131,7 @@
 
 
 -CITE-
-    6 USC Sec. 321d                                             01/05/2009
+    6 USC Sec. 321d                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -13167,7 +13188,7 @@
 
 
 -CITE-
-    6 USC Sec. 321e                                             01/05/2009
+    6 USC Sec. 321e                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -13231,7 +13252,7 @@
 
 
 -CITE-
-    6 USC Sec. 321f                                             01/05/2009
+    6 USC Sec. 321f                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -13274,7 +13295,7 @@
 
 
 -CITE-
-    6 USC Sec. 321g                                             01/05/2009
+    6 USC Sec. 321g                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -13316,7 +13337,7 @@
 
 
 -CITE-
-    6 USC Sec. 321h                                             01/05/2009
+    6 USC Sec. 321h                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -13348,7 +13369,7 @@
 
 
 -CITE-
-    6 USC Sec. 321i                                             01/05/2009
+    6 USC Sec. 321i                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -13386,7 +13407,7 @@
 
 
 -CITE-
-    6 USC Sec. 321j                                             01/05/2009
+    6 USC Sec. 321j                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -13411,7 +13432,7 @@
     diagnose, mitigate, prevent, or treat harm resulting from any
     naturally occurring infectious disease or other public health
     threat that are not security countermeasures under section 247d-
-    6b(c)(1)(B) of title 42.)1(!
+    6b(c)(1)(B) of title 42.(!1)
 
     (b) Special reserve fund
       For purposes of the security countermeasures program, the term
@@ -13440,7 +13461,7 @@
       All such analysts shall meet the applicable standards and
       qualifications for the performance of intelligence activities
       promulgated by the Director of Central Intelligence pursuant to
-      section 403-4 )1(! of title 50.
+      section 403-4 (!1) of title 50.
       (2) Intelligence sharing infrastructure
         For the purpose of carrying out the acquisition and deployment
       of secure facilities (including information technology and
@@ -13516,7 +13537,7 @@
 
 -FOOTNOTE-               
 
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
@@ -13524,7 +13545,7 @@
 
 
 -CITE-
-    6 USC Sec. 321k                                             01/05/2009
+    6 USC Sec. 321k                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -13562,7 +13583,7 @@
 
 
 -CITE-
-    6 USC Sec. 321l                                             01/05/2009
+    6 USC Sec. 321l                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -13623,7 +13644,7 @@
 
 
 -CITE-
-    6 USC Sec. 321m                                             01/05/2009
+    6 USC Sec. 321m                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -13936,7 +13957,7 @@
 -CITE-
     6 USC SUBCHAPTER VI - TREATMENT OF CHARITABLE TRUSTS FOR
            MEMBERS OF THE ARMED FORCES OF THE UNITED
-           STATES AND OTHER GOVERNMENTAL ORGANIZATIONS     01/05/2009
+           STATES AND OTHER GOVERNMENTAL ORGANIZATIONS     02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -13955,7 +13976,7 @@
 
 
 -CITE-
-    6 USC Sec. 331                                              01/05/2009
+    6 USC Sec. 331                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -14144,7 +14165,7 @@
 
 
 -CITE-
-    6 USC SUBCHAPTER VII - MANAGEMENT                           01/05/2009
+    6 USC SUBCHAPTER VII - MANAGEMENT                           02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -14159,7 +14180,7 @@
 
 
 -CITE-
-    6 USC Sec. 341                                              01/05/2009
+    6 USC Sec. 341                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -14329,7 +14350,7 @@
 
 
 -CITE-
-    6 USC Sec. 342                                              01/05/2009
+    6 USC Sec. 342                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -14516,7 +14537,7 @@
 
 
 -CITE-
-    6 USC Sec. 343                                              01/05/2009
+    6 USC Sec. 343                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -14653,7 +14674,7 @@
 
 
 -CITE-
-    6 USC Sec. 344                                              01/05/2009
+    6 USC Sec. 344                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -14686,7 +14707,7 @@
 
 
 -CITE-
-    6 USC Sec. 345                                              01/05/2009
+    6 USC Sec. 345                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -14764,7 +14785,7 @@
 
 
 -CITE-
-    6 USC Sec. 346                                              01/05/2009
+    6 USC Sec. 346                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -14780,7 +14801,7 @@
     co-locating - 
         (1) any regional offices or field offices of agencies that are
       transferred to the Department under this chapter, if such
-      officers )1(! are located in the same municipality; and
+      officers (!1) are located in the same municipality; and
 
         (2) portions of regional and field offices of other Federal
       agencies, to the extent such offices perform functions that are
@@ -14800,7 +14821,7 @@
     101 of this title and Tables.
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be "offices".
+    (!1) So in original. Probably should be "offices".
 
 
 -End-
@@ -14808,7 +14829,7 @@
 
 
 -CITE-
-    6 USC Sec. 347                                              01/05/2009
+    6 USC Sec. 347                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -14970,7 +14991,7 @@
     6 USC SUBCHAPTER VIII - COORDINATION WITH NON-FEDERAL
            ENTITIES; INSPECTOR GENERAL; UNITED STATES
            SECRET SERVICE; COAST GUARD; GENERAL
-           PROVISIONS                                      01/05/2009
+           PROVISIONS                                      02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -14988,7 +15009,7 @@
 
 
 -CITE-
-    6 USC Part A - Coordination With Non-Federal Entities       01/05/2009
+    6 USC Part A - Coordination With Non-Federal Entities       02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -15006,7 +15027,7 @@
 
 
 -CITE-
-    6 USC Sec. 361                                              01/05/2009
+    6 USC Sec. 361                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -15049,7 +15070,7 @@
 
 
 -CITE-
-    6 USC Part B - Inspector General                            01/05/2009
+    6 USC Part B - Inspector General                            02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -15067,7 +15088,7 @@
 
 
 -CITE-
-    6 USC Sec. 371                                              01/05/2009
+    6 USC Sec. 371                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -15091,7 +15112,7 @@
 
 
 -CITE-
-    6 USC Part C - United States Secret Service                 01/05/2009
+    6 USC Part C - United States Secret Service                 02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -15109,7 +15130,7 @@
 
 
 -CITE-
-    6 USC Sec. 381                                              01/05/2009
+    6 USC Sec. 381                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -15137,7 +15158,7 @@
 
 
 -CITE-
-    6 USC Part D - Acquisitions                                 01/05/2009
+    6 USC Part D - Acquisitions                                 02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -15155,7 +15176,7 @@
 
 
 -CITE-
-    6 USC Sec. 391                                              01/05/2009
+    6 USC Sec. 391                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -15170,10 +15191,9 @@
 
 -STATUTE-
     (a) Authority
-      Until September 30, 2009 )1(! and subject to subsection (d), the
+      Until September 30, 2010, and subject to subsection (d), the
     Secretary may carry out a pilot program under which the Secretary
     may exercise the following authorities:
-
       (1) In general
         When the Secretary carries out basic, applied, and advanced
       research and development projects, including the expenditure of
@@ -15221,7 +15241,7 @@
     (d) Additional requirements
       (1) In general
         The authority of the Secretary under this section shall
-      terminate September 30, 2009, unless before that date the
+      terminate September 30, 2010, unless before that date the
       Secretary - 
           (A) issues policy guidance detailing the appropriate use of
         that authority; and
@@ -15248,7 +15268,8 @@
     (Pub. L. 107-296, title VIII, Sec. 831, Nov. 25, 2002, 116 Stat.
     2224; Pub. L. 110-161, div. E, title V, Sec. 572, Dec. 26, 2007,
     121 Stat. 2093; Pub. L. 110-329, div. D, title V, Sec. 537, Sept.
-    30, 2008, 122 Stat. 3687.)
+    30, 2008, 122 Stat. 3687; Pub. L. 111-83, title V, Sec. 531, Oct.
+    28, 2009, 123 Stat. 2174.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -15263,6 +15284,12 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (a). Pub. L. 111-83, Sec. 531(1), substituted
+    "September 30, 2010," for "September 30, 2009" in introductory
+    provisions.
+      Subsec. (d)(1). Pub. L. 111-83, Sec. 531(2), substituted
+    "September 30, 2010," for "September 30, 2009," in introductory
+    provisions.
       2008 - Subsec. (a). Pub. L. 110-329, Sec. 537(1), substituted
     "Until September 30, 2009 and subject to subsection (d)," for
     "Until September 30, 2008," in introductory provisions.
@@ -15283,16 +15310,12 @@
     Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth
     Congress, Oct. 9, 2004.
 
--FOOTNOTE-
-    )1(! So in original. Probably should be followed by a comma.
-
-
 -End-
 
 
 
 -CITE-
-    6 USC Sec. 392                                              01/05/2009
+    6 USC Sec. 392                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -15325,7 +15348,7 @@
 
 
 -CITE-
-    6 USC Sec. 393                                              01/05/2009
+    6 USC Sec. 393                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -15471,7 +15494,7 @@
 
 
 -CITE-
-    6 USC Sec. 394                                              01/05/2009
+    6 USC Sec. 394                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -15509,7 +15532,7 @@
 
 
 -CITE-
-    6 USC Sec. 395                                              01/05/2009
+    6 USC Sec. 395                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -15581,7 +15604,7 @@
         the acquisition of a domestic partnership, except as provided
         in regulations, all domestic partnerships which are under
         common control (within the meaning of section 482 of title 26)
-        shall be treated as I )1(! partnership.
+        shall be treated as I (!1) partnership.
 
         (E) Treatment of certain rights
           The Secretary shall prescribe such regulations as may be
@@ -15633,7 +15656,7 @@
     before period at end.
 
 -FOOTNOTE-
-    )1(! So in original.
+    (!1) So in original.
 
 
 -End-
@@ -15641,7 +15664,7 @@
 
 
 -CITE-
-    6 USC Sec. 396                                              01/05/2009
+    6 USC Sec. 396                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -15716,7 +15739,7 @@
 
 
 -CITE-
-    6 USC Part E - Human Resources Management                   01/05/2009
+    6 USC Part E - Human Resources Management                   02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -15734,7 +15757,7 @@
 
 
 -CITE-
-    6 USC Sec. 411                                              01/05/2009
+    6 USC Sec. 411                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -15813,7 +15836,7 @@
 
 
 -CITE-
-    6 USC Sec. 412                                              01/05/2009
+    6 USC Sec. 412                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -15916,7 +15939,7 @@
 
 
 -CITE-
-    6 USC Sec. 413                                              01/05/2009
+    6 USC Sec. 413                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -15977,7 +16000,7 @@
 
 
 -CITE-
-    6 USC Sec. 414                                              01/05/2009
+    6 USC Sec. 414                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -15991,7 +16014,7 @@
     Sec. 414. Homeland Security Rotation Program
 
 -STATUTE-
-    (a) )1(! Establishment
+    (a) (!1) Establishment
 
       (1) In general
         Not later than 180 days after October 4, 2006, the Secretary
@@ -16062,7 +16085,7 @@
     title VI, Sec. 622(a), Oct. 4, 2006, 120 Stat. 1416.)
 
 -FOOTNOTE-
-    )1(! So in original. There is no subsec. (b).
+    (!1) So in original. There is no subsec. (b).
 
 
 -End-
@@ -16070,7 +16093,7 @@
 
 
 -CITE-
-    6 USC Sec. 415                                              01/05/2009
+    6 USC Sec. 415                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -16153,7 +16176,7 @@
           (A) setoff against accrued pay, compensation, amount of
         retirement credit, or other amount due the employee from the
         Government; or
-          (B) such other method as is provided by lay )1(! for the
+          (B) such other method as is provided by lay (!1) for the
         recovery of amounts owing to the Government.
 
 
@@ -16173,14 +16196,14 @@
     of this title.
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be "law".
+    (!1) So in original. Probably should be "law".
 
 
 -End-
 
 
 -CITE-
-    6 USC Part F - Federal Emergency Procurement Flexibility    01/05/2009
+    6 USC Part F - Federal Emergency Procurement Flexibility    02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -16198,7 +16221,7 @@
 
 
 -CITE-
-    6 USC Sec. 421                                              01/05/2009
+    6 USC Sec. 421                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -16224,7 +16247,7 @@
 
 
 -CITE-
-    6 USC Sec. 422                                              01/05/2009
+    6 USC Sec. 422                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -16257,7 +16280,7 @@
 
 
 -CITE-
-    6 USC Sec. 423                                              01/05/2009
+    6 USC Sec. 423                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -16305,7 +16328,7 @@
 
 
 -CITE-
-    6 USC Sec. 424                                              01/05/2009
+    6 USC Sec. 424                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -16334,7 +16357,7 @@
 
 
 -CITE-
-    6 USC Sec. 425                                              01/05/2009
+    6 USC Sec. 425                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -16398,7 +16421,7 @@
 
 
 -CITE-
-    6 USC Sec. 426                                              01/05/2009
+    6 USC Sec. 426                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -16465,7 +16488,7 @@
 
 
 -CITE-
-    6 USC Sec. 427                                              01/05/2009
+    6 USC Sec. 427                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -16553,7 +16576,7 @@
 
 
 -CITE-
-    6 USC Sec. 428                                              01/05/2009
+    6 USC Sec. 428                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -16588,7 +16611,7 @@
 
 -CITE-
     6 USC Part G - Support Anti-Terrorism by Fostering
-                    Effective Technologies                 01/05/2009
+                    Effective Technologies                 02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -16606,7 +16629,7 @@
 
 
 -CITE-
-    6 USC Sec. 441                                              01/05/2009
+    6 USC Sec. 441                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -16668,7 +16691,7 @@
 
 
 -CITE-
-    6 USC Sec. 442                                              01/05/2009
+    6 USC Sec. 442                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -16792,7 +16815,7 @@
 
 
 -CITE-
-    6 USC Sec. 443                                              01/05/2009
+    6 USC Sec. 443                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -16870,7 +16893,7 @@
 
 
 -CITE-
-    6 USC Sec. 444                                              01/05/2009
+    6 USC Sec. 444                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -16919,7 +16942,7 @@
       that provides commercial property and casualty insurance. Such
       term includes any affiliates of a commercial insurance carrier.
       (4) Liability insurance
-        (A) )1(! In general
+        (A) (!1) In general
 
           The term "liability insurance" means insurance for legal
         liabilities incurred by the insured resulting from - 
@@ -16954,14 +16977,14 @@
     Code, see Tables.
 
 -FOOTNOTE-
-    )1(! So in original. No subpar. (B) has been enacted.
+    (!1) So in original. No subpar. (B) has been enacted.
 
 
 -End-
 
 
 -CITE-
-    6 USC Part H - Miscellaneous Provisions                     01/05/2009
+    6 USC Part H - Miscellaneous Provisions                     02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -16979,7 +17002,7 @@
 
 
 -CITE-
-    6 USC Sec. 451                                              01/05/2009
+    6 USC Sec. 451                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -17031,7 +17054,7 @@
 
 
 -CITE-
-    6 USC Sec. 452                                              01/05/2009
+    6 USC Sec. 452                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -17075,7 +17098,7 @@
 
 
 -CITE-
-    6 USC Sec. 453                                              01/05/2009
+    6 USC Sec. 453                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -17137,7 +17160,7 @@
 
 
 -CITE-
-    6 USC Sec. 453a                                             01/05/2009
+    6 USC Sec. 453a                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -17178,7 +17201,137 @@
 
 
 -CITE-
-    6 USC Sec. 454                                              01/05/2009
+    6 USC Sec. 453b                                             02/01/2010
+
+-EXPCITE-
+    TITLE 6 - DOMESTIC SECURITY
+    CHAPTER 1 - HOMELAND SECURITY ORGANIZATION
+    SUBCHAPTER VIII - COORDINATION WITH NON-FEDERAL ENTITIES; INSPECTOR
+           GENERAL; UNITED STATES SECRET SERVICE; COAST GUARD;
+           GENERAL PROVISIONS                            
+    Part H - Miscellaneous Provisions
+
+-HEAD-
+    Sec. 453b. Requirement to buy certain items related to national
+      security interests from American sources; exceptions
+
+-STATUTE-
+    (a) Requirement
+      Except as provided in subsections (c) through (g), funds
+    appropriated or otherwise available to the Department of Homeland
+    Security may not be used for the procurement of an item described
+    in subsection (b) if the item is not grown, reprocessed, reused, or
+    produced in the United States.
+    (b) Covered items
+      An item referred to in subsection (a) is any of the following, if
+    the item is directly related to the national security interests of
+    the United States:
+        (1) (!1) An article or item of - 
+
+          (A) clothing and the materials and components thereof, other
+        than sensors, electronics, or other items added to, and not
+        normally associated with, clothing (and the materials and
+        components thereof);
+          (B) tents, tarpaulins, covers, textile belts, bags,
+        protective equipment (including but not limited to body armor),
+        sleep systems, load carrying equipment (including but not
+        limited to fieldpacks), textile marine equipment, parachutes,
+        or bandages;
+          (C) cotton and other natural fiber products, woven silk or
+        woven silk blends, spun silk yarn for cartridge cloth,
+        synthetic fabric or coated synthetic fabric (including all
+        textile fibers and yarns that are for use in such fabrics),
+        canvas products, or wool (whether in the form of fiber or yarn
+        or contained in fabrics, materials, or manufactured articles);
+        or
+          (D) any item of individual equipment manufactured from or
+        containing such fibers, yarns, fabrics, or materials.
+    (c) Availability exception
+      Subsection (a) does not apply to the extent that the Secretary of
+    Homeland Security determines that satisfactory quality and
+    sufficient quantity of any such article or item described in
+    subsection (b)(1) grown, reprocessed, reused, or produced in the
+    United States cannot be procured as and when needed at United
+    States market prices. This section is not applicable to covered
+    items that are, or include, materials determined to be non-
+    available in accordance with Federal Acquisition Regulation 25.104
+    Nonavailable Articles.
+    (d) De minimis exception
+      Notwithstanding subsection (a), the Secretary of Homeland
+    Security may accept delivery of an item covered by subsection (b)
+    that contains non-compliant fibers if the total value of non-
+    compliant fibers contained in the end item does not exceed 10
+    percent of the total purchase price of the end item.
+    (e) Exception for certain procurements outside the United States
+      Subsection (a) does not apply to the following:
+        (1) Procurements by vessels in foreign waters.
+        (2) Emergency procurements.
+    (f) Exception for small purchases
+      Subsection (a) does not apply to purchases for amounts not
+    greater than the simplified acquisition threshold referred to in
+    section 2304(g) of title 10.
+    (g) Applicability to contracts and subcontracts for procurement of
+      commercial items
+      This section is applicable to contracts and subcontracts for the
+    procurement of commercial items not withstanding section 430 of
+    title 41, with the exception of commercial items listed under
+    subsections (b)(1)(C) and (b)(1)(D) above. For the purposes of this
+    section, "commercial" shall be as defined in the Federal
+    Acquisition Regulation - Part 2.
+    (h) Geographic coverage
+      In this section, the term "United States" includes the
+    possessions of the United States.
+    (i) Notification required within 7 days after contract award if
+      certain exceptions applied
+      In the case of any contract for the procurement of an item
+    described in subsection (b)(1), if the Secretary of Homeland
+    Security applies an exception set forth in subsection (c) with
+    respect to that contract, the Secretary shall, not later than 7
+    days after the award of the contract, post a notification that the
+    exception has been applied on the Internet site maintained by the
+    General Services Administration known as FedBizOps.gov (or any
+    successor site).
+    (j) Training during fiscal year 2009
+      (1) In general
+        The Secretary of Homeland Security shall ensure that each
+      member of the acquisition workforce in the Department of Homeland
+      Security who participates personally and substantially in the
+      acquisition of textiles on a regular basis receives training
+      during fiscal year 2009 on the requirements of this section and
+      the regulations implementing this section.
+      (2) Inclusion of information in new training programs
+        The Secretary shall ensure that any training program for the
+      acquisition workforce developed or implemented after February 17,
+      2009, includes comprehensive information on the requirements
+      described in paragraph (1).
+    (k) Consistency with international agreements
+      This section shall be applied in a manner consistent with United
+    States obligations under international agreements.
+    (l) Effective date
+      This section applies with respect to contracts entered into by
+    the Department of Homeland Security 180 days after February 17,
+    2009.
+
+-SOURCE-
+    (Pub. L. 111-5, div. A, title VI, Sec. 604, Feb. 17, 2009, 123
+    Stat. 165.)
+
+-COD-
+                               CODIFICATION                           
+      Section was enacted as part of the American Recovery and
+    Reinvestment Act of 2009, and not as part of the Homeland Security
+    Act of 2002 which comprises this chapter.
+
+-FOOTNOTE-
+    (!1) So in original. No par. (2) has been enacted.
+
+
+-End-
+
+
+
+-CITE-
+    6 USC Sec. 454                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -17238,7 +17391,7 @@
 
 
 -CITE-
-    6 USC Sec. 455                                              01/05/2009
+    6 USC Sec. 455                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -17273,7 +17426,7 @@
 
 
 -CITE-
-    6 USC Sec. 456                                              01/05/2009
+    6 USC Sec. 456                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -17303,7 +17456,7 @@
 
 
 -CITE-
-    6 USC Sec. 457                                              01/05/2009
+    6 USC Sec. 457                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -17319,7 +17472,7 @@
 -STATUTE-
     (a) Regulatory authority
       Except as otherwise provided in sections 186(c) and 441(c) of
-    this title and section 1315 of title 40,)1(! this chapter vests no
+    this title and section 1315 of title 40,(!1) this chapter vests no
     new regulatory authority in the Secretary or any other Federal
     official, and transfers to the Secretary or another Federal
     official only such regulatory authority as exists on November 25,
@@ -17362,7 +17515,7 @@
     this title and Tables.
 
 -FOOTNOTE-
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
@@ -17370,7 +17523,7 @@
 
 
 -CITE-
-    6 USC Sec. 458                                              01/05/2009
+    6 USC Sec. 458                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -17528,7 +17681,7 @@
 
 
 -CITE-
-    6 USC Sec. 459                                              01/05/2009
+    6 USC Sec. 459                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -17577,7 +17730,7 @@
 
 
 -CITE-
-    6 USC Sec. 460                                              01/05/2009
+    6 USC Sec. 460                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -17606,7 +17759,7 @@
 
 
 -CITE-
-    6 USC Sec. 461                                              01/05/2009
+    6 USC Sec. 461                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -17642,7 +17795,7 @@
 
 
 -CITE-
-    6 USC Sec. 462                                              01/05/2009
+    6 USC Sec. 462                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -17730,7 +17883,7 @@
 
 
 -CITE-
-    6 USC Sec. 463                                              01/05/2009
+    6 USC Sec. 463                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -17776,7 +17929,7 @@
 
 
 -CITE-
-    6 USC Sec. 464                                              01/05/2009
+    6 USC Sec. 464                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -17811,7 +17964,7 @@
 
 
 -CITE-
-    6 USC Sec. 464a                                             01/05/2009
+    6 USC Sec. 464a                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -17895,7 +18048,7 @@
 
 
 -CITE-
-    6 USC Sec. 464b                                             01/05/2009
+    6 USC Sec. 464b                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -17939,7 +18092,7 @@
 
 
 -CITE-
-    6 USC Sec. 464c                                             01/05/2009
+    6 USC Sec. 464c                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -17999,7 +18152,7 @@
 
 
 -CITE-
-    6 USC Sec. 464d                                             01/05/2009
+    6 USC Sec. 464d                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -18075,7 +18228,7 @@
 
 
 -CITE-
-    6 USC Sec. 464e                                             01/05/2009
+    6 USC Sec. 464e                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -18132,7 +18285,7 @@
 
 
 -CITE-
-    6 USC Sec. 465                                              01/05/2009
+    6 USC Sec. 465                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -18169,7 +18322,7 @@
 
 
 -CITE-
-    6 USC Sec. 466                                              01/05/2009
+    6 USC Sec. 466                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -18238,7 +18391,7 @@
 
 
 -CITE-
-    6 USC Sec. 467                                              01/05/2009
+    6 USC Sec. 467                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -18289,7 +18442,7 @@
 
 
 -CITE-
-    6 USC Sec. 468                                              01/05/2009
+    6 USC Sec. 468                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -18420,7 +18573,7 @@
 
 
 -CITE-
-    6 USC Sec. 469                                              01/05/2009
+    6 USC Sec. 469                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -18510,7 +18663,57 @@
 
 
 -CITE-
-    6 USC Sec. 470                                              01/05/2009
+    6 USC Sec. 469a                                             02/01/2010
+
+-EXPCITE-
+    TITLE 6 - DOMESTIC SECURITY
+    CHAPTER 1 - HOMELAND SECURITY ORGANIZATION
+    SUBCHAPTER VIII - COORDINATION WITH NON-FEDERAL ENTITIES; INSPECTOR
+           GENERAL; UNITED STATES SECRET SERVICE; COAST GUARD;
+           GENERAL PROVISIONS                            
+    Part H - Miscellaneous Provisions
+
+-HEAD-
+    Sec. 469a. Collection of fees from non-Federal participants in
+      meetings
+
+-STATUTE-
+      For fiscal year 2010 and thereafter, the Secretary of Homeland
+    Security may collect fees from any non-Federal participant in a
+    conference, seminar, exhibition, symposium, or similar meeting
+    conducted by the Department of Homeland Security in advance of the
+    conference, either directly or by contract, and those fees shall be
+    credited to the appropriation or account from which the costs of
+    the conference, seminar, exhibition, symposium, or similar meeting
+    are paid and shall be available to pay the costs of the Department
+    of Homeland Security with respect to the conference or to reimburse
+    the Department for costs incurred with respect to the conference:
+    Provided, That in the event the total amount of fees collected with
+    respect to a conference exceeds the actual costs of the Department
+    of Homeland Security with respect to the conference, the amount of
+    such excess shall be deposited into the Treasury as miscellaneous
+    receipts: Provided further, That the Secretary shall provide a
+    report to the Committees on Appropriations of the Senate and the
+    House of Representatives not later than January 5, 2011, providing
+    the level of collections and a summary by agency of the purposes
+    and levels of expenditures for the prior fiscal year, and shall
+    report annually thereafter.
+
+-SOURCE-
+    (Pub. L. 111-83, title V, Sec. 554, Oct. 28, 2009, 123 Stat. 2179.)
+
+-COD-
+                               CODIFICATION                           
+      Section was enacted as part of the Department of Homeland
+    Security Appropriations Act, 2010, and not as part of the Homeland
+    Security Act of 2002 which comprises this chapter.
+
+-End-
+
+
+
+-CITE-
+    6 USC Sec. 470                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -18566,7 +18769,7 @@
 
 
 -CITE-
-    6 USC Part I - Information Sharing                          01/05/2009
+    6 USC Part I - Information Sharing                          02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -18584,7 +18787,7 @@
 
 
 -CITE-
-    6 USC Sec. 481                                              01/05/2009
+    6 USC Sec. 481                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -18679,7 +18882,7 @@
 
 
 -CITE-
-    6 USC Sec. 482                                              01/05/2009
+    6 USC Sec. 482                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -18965,7 +19168,7 @@
 
 
 -CITE-
-    6 USC Sec. 483                                              01/05/2009
+    6 USC Sec. 483                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -19013,7 +19216,7 @@
 
 
 -CITE-
-    6 USC Sec. 484                                              01/05/2009
+    6 USC Sec. 484                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -19039,7 +19242,7 @@
 
 
 -CITE-
-    6 USC Sec. 485                                              01/05/2009
+    6 USC Sec. 485                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -19241,7 +19444,7 @@
       from individual department or agency components that are part of
       the ISE), with such delineation of roles to be consistent with - 
           (A) the authority of the Director of National Intelligence
-        under this title,)1(! and the amendments made by this title, to
+        under this title,(!1) and the amendments made by this title, to
         set standards for information sharing throughout the
         intelligence community; and
 
@@ -19871,7 +20074,7 @@
                                                          George W. Bush.
 
 -FOOTNOTE-
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
@@ -19879,7 +20082,7 @@
 
 
 -CITE-
-    6 USC Sec. 486                                              01/05/2009
+    6 USC Sec. 486                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -19918,7 +20121,7 @@
 
 
 -CITE-
-    6 USC Part J - Secure Handling of Ammonium Nitrate          01/05/2009
+    6 USC Part J - Secure Handling of Ammonium Nitrate          02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -19936,7 +20139,7 @@
 
 
 -CITE-
-    6 USC Sec. 488                                              01/05/2009
+    6 USC Sec. 488                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -19976,7 +20179,7 @@
 
 
 -CITE-
-    6 USC Sec. 488a                                             01/05/2009
+    6 USC Sec. 488a                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20199,7 +20402,7 @@
 
 
 -CITE-
-    6 USC Sec. 488b                                             01/05/2009
+    6 USC Sec. 488b                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20229,7 +20432,7 @@
 
 
 -CITE-
-    6 USC Sec. 488c                                             01/05/2009
+    6 USC Sec. 488c                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20313,7 +20516,7 @@
 
 
 -CITE-
-    6 USC Sec. 488d                                             01/05/2009
+    6 USC Sec. 488d                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20345,7 +20548,7 @@
 
 
 -CITE-
-    6 USC Sec. 488e                                             01/05/2009
+    6 USC Sec. 488e                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20417,7 +20620,7 @@
 
 
 -CITE-
-    6 USC Sec. 488f                                             01/05/2009
+    6 USC Sec. 488f                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20460,7 +20663,7 @@
 
 
 -CITE-
-    6 USC Sec. 488g                                             01/05/2009
+    6 USC Sec. 488g                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20496,7 +20699,7 @@
 
 
 -CITE-
-    6 USC Sec. 488h                                             01/05/2009
+    6 USC Sec. 488h                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20525,7 +20728,7 @@
 
 
 -CITE-
-    6 USC Sec. 488i                                             01/05/2009
+    6 USC Sec. 488i                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20551,7 +20754,7 @@
 
 
 -CITE-
-    6 USC SUBCHAPTER IX - NATIONAL HOMELAND SECURITY COUNCIL    01/05/2009
+    6 USC SUBCHAPTER IX - NATIONAL HOMELAND SECURITY COUNCIL    02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20566,7 +20769,7 @@
 
 
 -CITE-
-    6 USC Sec. 491                                              01/05/2009
+    6 USC Sec. 491                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20590,7 +20793,7 @@
 
 
 -CITE-
-    6 USC Sec. 492                                              01/05/2009
+    6 USC Sec. 492                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20613,7 +20816,7 @@
 
 
 -CITE-
-    6 USC Sec. 493                                              01/05/2009
+    6 USC Sec. 493                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20657,7 +20860,7 @@
 
 
 -CITE-
-    6 USC Sec. 494                                              01/05/2009
+    6 USC Sec. 494                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20672,11 +20875,11 @@
     functions of the United States Government relating to homeland
     security, the Council shall - 
         (1) assess the objectives, commitments, and risks of the United
-      States in the interest of homeland security and to )1(! make
+      States in the interest of homeland security and to (!1) make
       resulting recommendations to the President;
 
         (2) oversee and review homeland security policies of the
-      Federal Government and to )1(! make resulting recommendations to
+      Federal Government and to (!1) make resulting recommendations to
       the President; and
         (3) perform such other functions as the President may direct.
 
@@ -20685,7 +20888,7 @@
     2259.)
 
 -FOOTNOTE-
-    )1(! So in original. The word "to" probably should not appear.
+    (!1) So in original. The word "to" probably should not appear.
 
 
 -End-
@@ -20693,7 +20896,7 @@
 
 
 -CITE-
-    6 USC Sec. 495                                              01/05/2009
+    6 USC Sec. 495                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20719,7 +20922,7 @@
 
 
 -CITE-
-    6 USC Sec. 496                                              01/05/2009
+    6 USC Sec. 496                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20742,7 +20945,7 @@
 
 
 -CITE-
-    6 USC SUBCHAPTER X - CONSTRUCTION                           01/05/2009
+    6 USC SUBCHAPTER X - CONSTRUCTION                           02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20757,7 +20960,7 @@
 
 
 -CITE-
-    6 USC Sec. 511                                              01/05/2009
+    6 USC Sec. 511                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20774,7 +20977,7 @@
     the Director of Central Intelligence, or other agency head, as
     authorized by law and as directed by the President, with regard to
     the operation, control, or management of national security systems,
-    as defined by section 3532(3) )1(! of title 44.
+    as defined by section 3532(3) (!1) of title 44.
 
       (B) Omitted
     (2) Atomic Energy Act of 1954
@@ -20830,7 +21033,7 @@
     under section 101 of this title.
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be section "3532(b)(2)".
+    (!1) So in original. Probably should be section "3532(b)(2)".
 
 
 -End-
@@ -20838,7 +21041,7 @@
 
 
 -CITE-
-    6 USC Sec. 512                                              01/05/2009
+    6 USC Sec. 512                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20872,7 +21075,7 @@
 
 
 -CITE-
-    6 USC Sec. 513                                              01/05/2009
+    6 USC Sec. 513                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20908,7 +21111,7 @@
 
 
 -CITE-
-    6 USC SUBCHAPTER XI - DEPARTMENT OF JUSTICE DIVISIONS       01/05/2009
+    6 USC SUBCHAPTER XI - DEPARTMENT OF JUSTICE DIVISIONS       02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20922,7 +21125,7 @@
 
 
 -CITE-
-    6 USC Part A - Executive Office for Immigration Review      01/05/2009
+    6 USC Part A - Executive Office for Immigration Review      02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20938,7 +21141,7 @@
 
 
 -CITE-
-    6 USC Sec. 521                                              01/05/2009
+    6 USC Sec. 521                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -20950,7 +21153,7 @@
     Sec. 521. Legal status of EOIR
 
 -STATUTE-
-    (a) )1(! Existence of EOIR
+    (a) (!1) Existence of EOIR
 
       There is in the Department of Justice the Executive Office for
     Immigration Review, which shall be subject to the direction and
@@ -20975,7 +21178,7 @@
     2003]".
 
 -FOOTNOTE-
-    )1(! So in original. No subsec. (b) has been enacted.
+    (!1) So in original. No subsec. (b) has been enacted.
 
 
 -End-
@@ -20983,7 +21186,7 @@
 
 
 -CITE-
-    6 USC Sec. 522                                              01/05/2009
+    6 USC Sec. 522                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -21019,7 +21222,7 @@
 -CITE-
     6 USC Part B - Transfer of the Bureau of Alcohol, Tobacco
                     and Firearms to the Department of
-                    Justice                                01/05/2009
+                    Justice                                02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -21037,7 +21240,7 @@
 
 
 -CITE-
-    6 USC Sec. 531                                              01/05/2009
+    6 USC Sec. 531                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -21094,7 +21297,7 @@
 
 
 -CITE-
-    6 USC Sec. 532                                              01/05/2009
+    6 USC Sec. 532                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -21137,7 +21340,7 @@
 
 
 -CITE-
-    6 USC Sec. 533                                              01/05/2009
+    6 USC Sec. 533                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -21161,7 +21364,7 @@
 
 
 -CITE-
-    6 USC SUBCHAPTER XII - TRANSITION                           01/05/2009
+    6 USC SUBCHAPTER XII - TRANSITION                           02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -21175,7 +21378,7 @@
 
 
 -CITE-
-    6 USC Part A - Reorganization Plan                          01/05/2009
+    6 USC Part A - Reorganization Plan                          02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -21191,7 +21394,7 @@
 
 
 -CITE-
-    6 USC Sec. 541                                              01/05/2009
+    6 USC Sec. 541                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -21224,7 +21427,7 @@
 
 
 -CITE-
-    6 USC Sec. 542                                              01/05/2009
+    6 USC Sec. 542                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -21463,26 +21666,26 @@
         -- Transfer the United States Secret Service.
         -- Transfer the following programs and activities to the
       Directorate of Science and Technology:
-           --- The chemical and biological national security and
+          - The chemical and biological national security and
         supporting programs and activities of the nonproliferation and
         verification research and development program of the Department
         of Energy.
-           --- The life sciences activities related to microbial
+          -- The life sciences activities related to microbial
         pathogens of the Biological and Environmental Research Program
         of the Department of Energy.
-           --- The National Bio-Weapons Defense Analysis Center of the
+          -- The National Bio-Weapons Defense Analysis Center of the
         Department of Defense.
-           --- The nuclear smuggling programs and activities within the
+          - The nuclear smuggling programs and activities within the
         proliferation detection program of the nonproliferation and
         verification research and development program of the Department
         of Energy.
-           --- The nuclear assessment program and activities of the
+          -- The nuclear assessment program and activities of the
         assessment, detection, and cooperation program of the
         international materials protection and cooperation program of
         the Department of Energy and the advanced scientific computing
         research program and activities at Lawrence Livermore National
         Laboratory of the Department of Energy.
-           --- The Environmental Measurements Laboratory of the
+          -- The Environmental Measurements Laboratory of the
         Department of Energy.
         -- Transfer the Federal Emergency Management Agency ("FEMA").
         -- Transfer the Integrated Hazard Information System of the
@@ -22035,7 +22238,7 @@
       38 Weekly Compilation of Presidential Documents 2095, Dec. 2,
     2002; H. Doc. No. 108-16, provided:
       The White House, Washington, November 25, 2002.
-      Dear Mr. Speaker: (Dear Mr. President:) )1(!
+      Dear Mr. Speaker: (Dear Mr. President:) (!1)
       Pursuant to section 1502 of the Homeland Security Act of 2002 [6
     U.S.C. 542], I submit herewith the enclosed Reorganization Plan for
     the Department of Homeland Security. The Reorganization Plan
@@ -22050,7 +22253,7 @@
     Sincerely,
                                                          George W. Bush.
 
-      )1(! Editorial note. This is the text of identical letters
+      (!1) Editorial note. This is the text of identical letters
     addressed to the Speaker of the House of Representatives and the
     President of the Senate.
       Enclosure.
@@ -22201,7 +22404,7 @@
       39 Weekly Compilation of Presidential Documents 136, Feb. 3,
     2003; H. Doc. No. 108-32, provided:
       The White House, Washington, January 30, 2003.
-      Dear Mr. Speaker: (Dear Mr. President:) )1(!
+      Dear Mr. Speaker: (Dear Mr. President:) (!1)
       Pursuant to section 1502 of the Homeland Security Act of 2002 [6
     U.S.C. 542] (Public Law 107-296) (the "Act"), I submit herewith the
     enclosed Reorganization Plan Modification for the Department of
@@ -22218,7 +22421,7 @@
     Sincerely,
                                                          George W. Bush.
 
-      )1(! Editorial note. This is the text of identical letters
+      (!1) Editorial note. This is the text of identical letters
     addressed to the Speaker of the House of Representatives and the
     President of the Senate.
 
@@ -22227,7 +22430,7 @@
 
 
 -CITE-
-    6 USC Sec. 543                                              01/05/2009
+    6 USC Sec. 543                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -22252,7 +22455,7 @@
 
 
 -CITE-
-    6 USC Part B - Transitional Provisions                      01/05/2009
+    6 USC Part B - Transitional Provisions                      02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -22268,7 +22471,7 @@
 
 
 -CITE-
-    6 USC Sec. 551                                              01/05/2009
+    6 USC Sec. 551                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -22376,7 +22579,7 @@
 
 
 -CITE-
-    6 USC Sec. 552                                              01/05/2009
+    6 USC Sec. 552                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -22472,7 +22675,7 @@
 
 
 -CITE-
-    6 USC Sec. 552a                                             01/05/2009
+    6 USC Sec. 552a                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -22521,7 +22724,7 @@
 
 
 -CITE-
-    6 USC Sec. 553                                              01/05/2009
+    6 USC Sec. 553                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -22555,7 +22758,7 @@
 
 
 -CITE-
-    6 USC Sec. 554                                              01/05/2009
+    6 USC Sec. 554                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -22579,7 +22782,7 @@
 
 
 -CITE-
-    6 USC Sec. 555                                              01/05/2009
+    6 USC Sec. 555                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -22609,7 +22812,7 @@
 
 
 -CITE-
-    6 USC Sec. 556                                              01/05/2009
+    6 USC Sec. 556                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -22638,7 +22841,7 @@
 
 
 -CITE-
-    6 USC Sec. 557                                              01/05/2009
+    6 USC Sec. 557                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -22673,7 +22876,7 @@
 
 
 -CITE-
-    6 USC SUBCHAPTER XIII - EMERGENCY COMMUNICATIONS            01/05/2009
+    6 USC SUBCHAPTER XIII - EMERGENCY COMMUNICATIONS            02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -22696,7 +22899,7 @@
 
 
 -CITE-
-    6 USC Sec. 571                                              01/05/2009
+    6 USC Sec. 571                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -22851,7 +23054,7 @@
 
 
 -CITE-
-    6 USC Sec. 572                                              01/05/2009
+    6 USC Sec. 572                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -22955,7 +23158,7 @@
 
 
 -CITE-
-    6 USC Sec. 573                                              01/05/2009
+    6 USC Sec. 573                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -23027,7 +23230,7 @@
       continue to communicate and to provide and maintain interoperable
       emergency communications in the event of natural disasters, acts
       of terrorism, or other man-made disasters; and
-          (A) )1(! an evaluation of the feasibility and desirability of
+          (A) (!1) an evaluation of the feasibility and desirability of
         the Department developing, on its own or in conjunction with
         the Department of Defense, a mobile communications capability,
         modeled on the Army Signal Corps, that could be deployed to
@@ -23045,7 +23248,7 @@
     1903 and is classified to section 593 of this title.
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be "(5)".
+    (!1) So in original. Probably should be "(5)".
 
 
 -End-
@@ -23053,7 +23256,7 @@
 
 
 -CITE-
-    6 USC Sec. 574                                              01/05/2009
+    6 USC Sec. 574                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -23116,7 +23319,7 @@
 
 
 -CITE-
-    6 USC Sec. 575                                              01/05/2009
+    6 USC Sec. 575                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -23211,7 +23414,7 @@
 
 
 -CITE-
-    6 USC Sec. 576                                              01/05/2009
+    6 USC Sec. 576                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -23261,7 +23464,7 @@
       Communications Plan under section 572 of this title; and
         (4) perform such other functions as are provided in the
       Emergency Communications Preparedness Center (ECPC) Charter
-      described in subsection (b)(1).)1(!
+      described in subsection (b)(1).(!1)
 
 
 -SOURCE-
@@ -23275,7 +23478,7 @@
 
 -FOOTNOTE-               
 
-    )1(! So in original. Subsection (b) of this section does not
+    (!1) So in original. Subsection (b) of this section does not
          contain a paragraph (1).
 
 
@@ -23284,7 +23487,7 @@
 
 
 -CITE-
-    6 USC Sec. 577                                              01/05/2009
+    6 USC Sec. 577                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -23329,7 +23532,7 @@
 
 
 -CITE-
-    6 USC Sec. 578                                              01/05/2009
+    6 USC Sec. 578                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -23353,7 +23556,7 @@
 
 
 -CITE-
-    6 USC Sec. 579                                              01/05/2009
+    6 USC Sec. 579                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -23567,7 +23770,7 @@
 
 
 -CITE-
-    6 USC Sec. 580                                              01/05/2009
+    6 USC Sec. 580                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -23664,7 +23867,7 @@
 
 
 -CITE-
-    6 USC SUBCHAPTER XIV - DOMESTIC NUCLEAR DETECTION OFFICE    01/05/2009
+    6 USC SUBCHAPTER XIV - DOMESTIC NUCLEAR DETECTION OFFICE    02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -23687,7 +23890,7 @@
 
 
 -CITE-
-    6 USC Sec. 591                                              01/05/2009
+    6 USC Sec. 591                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -23722,7 +23925,7 @@
 
 
 -CITE-
-    6 USC Sec. 592                                              01/05/2009
+    6 USC Sec. 592                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -23733,7 +23936,7 @@
     Sec. 592. Mission of Office
 
 -STATUTE-
-    (a) )1(! Mission
+    (a) (!1) Mission
 
       The Office shall be responsible for coordinating Federal efforts
     to detect and protect against the unauthorized importation,
@@ -23819,7 +24022,7 @@
     53, title I, Sec. 104(a)(1), (2), Aug. 3, 2007, 121 Stat. 294.)
 
 -FOOTNOTE-
-    )1(! So in original. No subsec. (b) has been enacted.
+    (!1) So in original. No subsec. (b) has been enacted.
 
 
 -End-
@@ -23827,7 +24030,7 @@
 
 
 -CITE-
-    6 USC Sec. 592a                                             01/05/2009
+    6 USC Sec. 592a                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -23858,7 +24061,7 @@
     (c) Initial report
       Not later than 1 year after October 13, 2006, the Secretary shall
     submit a report to the appropriate congressional committees on - 
-        (1) the impact of this title,)1(! and the amendments made by
+        (1) the impact of this title,(!1) and the amendments made by
       this title, on the responsibilities under section 182 of this
       title; and
 
@@ -23904,7 +24107,7 @@
     this title.
 
 -FOOTNOTE-
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
@@ -23912,7 +24115,7 @@
 
 
 -CITE-
-    6 USC Sec. 593                                              01/05/2009
+    6 USC Sec. 593                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -23949,7 +24152,7 @@
 
 
 -CITE-
-    6 USC Sec. 594                                              01/05/2009
+    6 USC Sec. 594                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -24012,7 +24215,7 @@
 
 
 -CITE-
-    6 USC Sec. 595                                              01/05/2009
+    6 USC Sec. 595                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -24043,7 +24246,7 @@
 
 
 -CITE-
-    6 USC Sec. 596                                              01/05/2009
+    6 USC Sec. 596                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -24090,7 +24293,7 @@
 
 
 -CITE-
-    6 USC Sec. 596a                                             01/05/2009
+    6 USC Sec. 596a                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -24178,7 +24381,7 @@
 
 
 -CITE-
-    6 USC SUBCHAPTER XV - HOMELAND SECURITY GRANTS              01/05/2009
+    6 USC SUBCHAPTER XV - HOMELAND SECURITY GRANTS              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -24193,7 +24396,7 @@
 
 
 -CITE-
-    6 USC Sec. 601                                              01/05/2009
+    6 USC Sec. 601                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -24316,7 +24519,7 @@
 
 
 -CITE-
-    6 USC Part A - Grants to States and High-Risk Urban Areas    01/05/2009 
+    6 USC Part A - Grants to States and High-Risk Urban Areas    02/01/2010 
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -24332,7 +24535,7 @@
 
 
 -CITE-
-    6 USC Sec. 603                                              01/05/2009
+    6 USC Sec. 603                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -24361,7 +24564,7 @@
       of the 9/11 Commission Act of 2007.
         (4) Grants to protect critical infrastructure, including port
       security grants authorized under section 70107 of title 46 and
-      the grants authorized under title )1(! XIV and XV of the
+      the grants authorized under title (!1) XIV and XV of the
       Implementing Recommendations of the 9/11 Commission Act of 2007
       [6 U.S.C. 1131 et seq., 1151 et seq.] and the amendments made by
       such titles.
@@ -24412,7 +24615,7 @@
     section 101 of this title and Tables.
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be "titles".
+    (!1) So in original. Probably should be "titles".
 
 
 -End-
@@ -24420,7 +24623,7 @@
 
 
 -CITE-
-    6 USC Sec. 604                                              01/05/2009
+    6 USC Sec. 604                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -24600,7 +24803,7 @@
 
 
 -CITE-
-    6 USC Sec. 605                                              01/05/2009
+    6 USC Sec. 605                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -24739,7 +24942,7 @@
 
 
 -CITE-
-    6 USC Sec. 606                                              01/05/2009
+    6 USC Sec. 606                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -24848,7 +25051,7 @@
 
 
 -CITE-
-    6 USC Sec. 607                                              01/05/2009
+    6 USC Sec. 607                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -24965,7 +25168,7 @@
 
 
 -CITE-
-    6 USC Sec. 608                                              01/05/2009
+    6 USC Sec. 608                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -25049,7 +25252,7 @@
 
 
 -CITE-
-    6 USC Sec. 609                                              01/05/2009
+    6 USC Sec. 609                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -25254,7 +25457,7 @@
 
 
 -CITE-
-    6 USC Part B - Grants Administration                        01/05/2009
+    6 USC Part B - Grants Administration                        02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -25270,7 +25473,7 @@
 
 
 -CITE-
-    6 USC Sec. 611                                              01/05/2009
+    6 USC Sec. 611                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -25422,7 +25625,7 @@
 
 
 -CITE-
-    6 USC Sec. 612                                              01/05/2009
+    6 USC Sec. 612                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -25737,7 +25940,7 @@
 
 
 -CITE-
-    6 USC CHAPTER 2 - NATIONAL EMERGENCY MANAGEMENT             01/05/2009
+    6 USC CHAPTER 2 - NATIONAL EMERGENCY MANAGEMENT             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -25818,7 +26021,7 @@
 
 
 -CITE-
-    6 USC Sec. 701                                              01/05/2009
+    6 USC Sec. 701                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -25828,7 +26031,7 @@
     Sec. 701. Definitions
 
 -STATUTE-
-      In this title -  )1(!
+      In this title -  (!1)
 
         (1) the term "Administrator" means the Administrator of the
       Agency;
@@ -25976,14 +26179,14 @@
 
 -FOOTNOTE-               
 
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
 
 
 -CITE-
-    6 USC SUBCHAPTER I - PERSONNEL PROVISIONS                   01/05/2009
+    6 USC SUBCHAPTER I - PERSONNEL PROVISIONS                   02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -25998,7 +26201,7 @@
 
 -CITE-
     6 USC Part A - Federal Emergency Management Agency
-                    Personnel                              01/05/2009
+                    Personnel                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26014,7 +26217,7 @@
 
 
 -CITE-
-    6 USC Sec. 711                                              01/05/2009
+    6 USC Sec. 711                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26107,7 +26310,7 @@
 
 
 -CITE-
-    6 USC Part B - Emergency Management Capabilities            01/05/2009
+    6 USC Part B - Emergency Management Capabilities            02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26123,7 +26326,7 @@
 
 
 -CITE-
-    6 USC Sec. 721                                              01/05/2009
+    6 USC Sec. 721                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26152,7 +26355,7 @@
 
 
 -CITE-
-    6 USC Sec. 722                                              01/05/2009
+    6 USC Sec. 722                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26181,7 +26384,7 @@
 
 
 -CITE-
-    6 USC Sec. 723                                              01/05/2009
+    6 USC Sec. 723                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26212,7 +26415,7 @@
 
 
 -CITE-
-    6 USC Sec. 724                                              01/05/2009
+    6 USC Sec. 724                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26240,7 +26443,7 @@
 
 
 -CITE-
-    6 USC Sec. 725                                              01/05/2009
+    6 USC Sec. 725                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26274,7 +26477,7 @@
 
 
 -CITE-
-    6 USC Sec. 726                                              01/05/2009
+    6 USC Sec. 726                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26299,7 +26502,7 @@
 
 
 -CITE-
-    6 USC Sec. 727                                              01/05/2009
+    6 USC Sec. 727                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26358,7 +26561,7 @@
 
 
 -CITE-
-    6 USC Sec. 728                                              01/05/2009
+    6 USC Sec. 728                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26388,7 +26591,7 @@
 
 
 -CITE-
-    6 USC SUBCHAPTER II - COMPREHENSIVE PREPAREDNESS SYSTEM     01/05/2009
+    6 USC SUBCHAPTER II - COMPREHENSIVE PREPAREDNESS SYSTEM     02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26402,7 +26605,7 @@
 
 
 -CITE-
-    6 USC Part A - National Preparedness System                 01/05/2009
+    6 USC Part A - National Preparedness System                 02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26418,7 +26621,7 @@
 
 
 -CITE-
-    6 USC Sec. 741                                              01/05/2009
+    6 USC Sec. 741                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26500,7 +26703,7 @@
 
 
 -CITE-
-    6 USC Sec. 742                                              01/05/2009
+    6 USC Sec. 742                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26542,7 +26745,7 @@
 
 
 -CITE-
-    6 USC Sec. 743                                              01/05/2009
+    6 USC Sec. 743                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26574,7 +26777,7 @@
 
 
 -CITE-
-    6 USC Sec. 744                                              01/05/2009
+    6 USC Sec. 744                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26614,7 +26817,7 @@
 
 
 -CITE-
-    6 USC Sec. 745                                              01/05/2009
+    6 USC Sec. 745                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26654,7 +26857,7 @@
 
 
 -CITE-
-    6 USC Sec. 746                                              01/05/2009
+    6 USC Sec. 746                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26712,7 +26915,7 @@
 
 
 -CITE-
-    6 USC Sec. 747                                              01/05/2009
+    6 USC Sec. 747                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26767,7 +26970,7 @@
 
 
 -CITE-
-    6 USC Sec. 748                                              01/05/2009
+    6 USC Sec. 748                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26881,7 +27084,7 @@
 
 
 -CITE-
-    6 USC Sec. 749                                              01/05/2009
+    6 USC Sec. 749                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26929,7 +27132,7 @@
 
 
 -CITE-
-    6 USC Sec. 750                                              01/05/2009
+    6 USC Sec. 750                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -26960,7 +27163,7 @@
 
 
 -CITE-
-    6 USC Sec. 751                                              01/05/2009
+    6 USC Sec. 751                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -27046,7 +27249,7 @@
 
 
 -CITE-
-    6 USC Sec. 752                                              01/05/2009
+    6 USC Sec. 752                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -27195,7 +27398,7 @@
 
 
 -CITE-
-    6 USC Sec. 753                                              01/05/2009
+    6 USC Sec. 753                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -27340,7 +27543,7 @@
 
 
 -CITE-
-    6 USC Sec. 754                                              01/05/2009
+    6 USC Sec. 754                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -27373,7 +27576,7 @@
 
 
 -CITE-
-    6 USC Part B - Additional Preparedness                      01/05/2009
+    6 USC Part B - Additional Preparedness                      02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -27389,7 +27592,7 @@
 
 
 -CITE-
-    6 USC Sec. 761                                              01/05/2009
+    6 USC Sec. 761                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -27448,7 +27651,7 @@
 
 
 -CITE-
-    6 USC Sec. 762                                              01/05/2009
+    6 USC Sec. 762                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -27540,7 +27743,7 @@
 
 
 -CITE-
-    6 USC Sec. 763                                              01/05/2009
+    6 USC Sec. 763                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -27566,7 +27769,7 @@
 
 
 -CITE-
-    6 USC Sec. 764                                              01/05/2009
+    6 USC Sec. 764                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -27604,7 +27807,7 @@
 
 
 -CITE-
-    6 USC Part C - Miscellaneous Authorities                    01/05/2009
+    6 USC Part C - Miscellaneous Authorities                    02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -27620,7 +27823,7 @@
 
 
 -CITE-
-    6 USC Sec. 771                                              01/05/2009
+    6 USC Sec. 771                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -27692,7 +27895,7 @@
 
 
 -CITE-
-    6 USC Sec. 772                                              01/05/2009
+    6 USC Sec. 772                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -27801,7 +28004,7 @@
 
 
 -CITE-
-    6 USC Sec. 773                                              01/05/2009
+    6 USC Sec. 773                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -27841,7 +28044,7 @@
 
 
 -CITE-
-    6 USC Sec. 774                                              01/05/2009
+    6 USC Sec. 774                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -27952,7 +28155,7 @@
 
 
 -CITE-
-    6 USC Sec. 775                                              01/05/2009
+    6 USC Sec. 775                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -28024,7 +28227,7 @@
 
 
 -CITE-
-    6 USC Sec. 776                                              01/05/2009
+    6 USC Sec. 776                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -28110,7 +28313,7 @@
 
 
 -CITE-
-    6 USC Sec. 777                                              01/05/2009
+    6 USC Sec. 777                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -28213,7 +28416,7 @@
 
 
 -CITE-
-    6 USC Part D - Prevention of Fraud, Waste, and Abuse        01/05/2009
+    6 USC Part D - Prevention of Fraud, Waste, and Abuse        02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -28229,7 +28432,7 @@
 
 
 -CITE-
-    6 USC Sec. 791                                              01/05/2009
+    6 USC Sec. 791                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -28305,7 +28508,7 @@
 
 
 -CITE-
-    6 USC Sec. 792                                              01/05/2009
+    6 USC Sec. 792                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -28346,7 +28549,7 @@
 
 
 -CITE-
-    6 USC Sec. 793                                              01/05/2009
+    6 USC Sec. 793                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -28431,7 +28634,7 @@
 
 
 -CITE-
-    6 USC Sec. 794                                              01/05/2009
+    6 USC Sec. 794                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -28456,7 +28659,7 @@
       services through the use of competitive procedures.
     (b) Specific contract period
       The regulations promulgated under subsection (a) shall require
-    the contract period to not to exceed )1(! 150 days, unless the
+    the contract period to not to exceed (!1) 150 days, unless the
     Secretary determines that exceptional circumstances apply.
 
     (c) Covered contracts
@@ -28471,7 +28674,7 @@
     1460.)
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be "period not to exceed".
+    (!1) So in original. Probably should be "period not to exceed".
 
 
 -End-
@@ -28479,7 +28682,7 @@
 
 
 -CITE-
-    6 USC Sec. 795                                              01/05/2009
+    6 USC Sec. 795                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -28532,7 +28735,7 @@
 
 
 -CITE-
-    6 USC Sec. 796                                              01/05/2009
+    6 USC Sec. 796                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -28617,7 +28820,7 @@
 
 
 -CITE-
-    6 USC Sec. 797                                              01/05/2009
+    6 USC Sec. 797                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -28644,7 +28847,7 @@
 
 
 -CITE-
-    6 USC Part E - Authorization of Appropriations              01/05/2009
+    6 USC Part E - Authorization of Appropriations              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -28660,7 +28863,7 @@
 
 
 -CITE-
-    6 USC Sec. 811                                              01/05/2009
+    6 USC Sec. 811                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -28673,7 +28876,7 @@
 
 -STATUTE-
       There are authorized to be appropriated to carry out this title
-    )1(! and the amendments made by this title for the administration
+    (!1) and the amendments made by this title for the administration
     and operations of the Agency - 
 
         (1) for fiscal year 2008, an amount equal to the amount
@@ -28697,7 +28900,7 @@
     this title and Tables.
 
 -FOOTNOTE-
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
@@ -28705,7 +28908,7 @@
 
 -CITE-
     6 USC CHAPTER 3 - SECURITY AND ACCOUNTABILITY FOR EVERY
-           PORT                                            01/05/2009
+           PORT                                            02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -28781,7 +28984,7 @@
 
 
 -CITE-
-    6 USC Sec. 901                                              01/05/2009
+    6 USC Sec. 901                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -28917,7 +29120,7 @@
 
 
 -CITE-
-    6 USC SUBCHAPTER I - SECURITY OF UNITED STATES SEAPORTS     01/05/2009
+    6 USC SUBCHAPTER I - SECURITY OF UNITED STATES SEAPORTS     02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -28932,7 +29135,7 @@
 
 -CITE-
     6 USC Part A - Port Security Grants; Training and Exercise
-                    Programs                               01/05/2009
+                    Programs                               02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -28948,7 +29151,7 @@
 
 
 -CITE-
-    6 USC Sec. 911                                              01/05/2009
+    6 USC Sec. 911                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -29052,7 +29255,7 @@
 
 
 -CITE-
-    6 USC Sec. 912                                              01/05/2009
+    6 USC Sec. 912                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -29129,7 +29332,7 @@
 
 
 -CITE-
-    6 USC Sec. 913                                              01/05/2009
+    6 USC Sec. 913                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -29156,7 +29359,7 @@
 
 
 -CITE-
-    6 USC Part B - Port Operations                              01/05/2009
+    6 USC Part B - Port Operations                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -29172,7 +29375,7 @@
 
 
 -CITE-
-    6 USC Sec. 921                                              01/05/2009
+    6 USC Sec. 921                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -29294,7 +29497,7 @@
 
 
 -CITE-
-    6 USC Sec. 921a                                             01/05/2009
+    6 USC Sec. 921a                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -29335,7 +29538,7 @@
 
 
 -CITE-
-    6 USC Sec. 922                                              01/05/2009
+    6 USC Sec. 922                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -29365,7 +29568,7 @@
 
 
 -CITE-
-    6 USC Sec. 923                                              01/05/2009
+    6 USC Sec. 923                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -29397,7 +29600,7 @@
 
 
 -CITE-
-    6 USC Sec. 924                                              01/05/2009
+    6 USC Sec. 924                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -29430,7 +29633,7 @@
 
 
 -CITE-
-    6 USC Sec. 925                                              01/05/2009
+    6 USC Sec. 925                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -29460,7 +29663,7 @@
 
 
 -CITE-
-    6 USC Sec. 926                                              01/05/2009
+    6 USC Sec. 926                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -29504,7 +29707,7 @@
 
 -CITE-
     6 USC SUBCHAPTER II - SECURITY OF THE INTERNATIONAL SUPPLY
-           CHAIN                                           01/05/2009
+           CHAIN                                           02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -29518,7 +29721,7 @@
 
 
 -CITE-
-    6 USC Part A - General Provisions                           01/05/2009
+    6 USC Part A - General Provisions                           02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -29534,7 +29737,7 @@
 
 
 -CITE-
-    6 USC Sec. 941                                              01/05/2009
+    6 USC Sec. 941                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -29643,7 +29846,7 @@
 
 
 -CITE-
-    6 USC Sec. 942                                              01/05/2009
+    6 USC Sec. 942                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -29726,7 +29929,7 @@
 
 
 -CITE-
-    6 USC Sec. 943                                              01/05/2009
+    6 USC Sec. 943                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -29832,7 +30035,7 @@
 
 
 -CITE-
-    6 USC Sec. 944                                              01/05/2009
+    6 USC Sec. 944                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -29927,7 +30130,7 @@
 
 
 -CITE-
-    6 USC Sec. 945                                              01/05/2009
+    6 USC Sec. 945                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -30121,7 +30324,7 @@
 
 
 -CITE-
-    6 USC Part B - Customs-Trade Partnership Against Terrorism   01/05/2009 
+    6 USC Part B - Customs-Trade Partnership Against Terrorism   02/01/2010 
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -30137,7 +30340,7 @@
 
 
 -CITE-
-    6 USC Sec. 961                                              01/05/2009
+    6 USC Sec. 961                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -30174,7 +30377,7 @@
 
 
 -CITE-
-    6 USC Sec. 962                                              01/05/2009
+    6 USC Sec. 962                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -30201,7 +30404,7 @@
 
 
 -CITE-
-    6 USC Sec. 963                                              01/05/2009
+    6 USC Sec. 963                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -30243,7 +30446,7 @@
 
 
 -CITE-
-    6 USC Sec. 964                                              01/05/2009
+    6 USC Sec. 964                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -30284,7 +30487,7 @@
 
 
 -CITE-
-    6 USC Sec. 965                                              01/05/2009
+    6 USC Sec. 965                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -30327,7 +30530,7 @@
 
 
 -CITE-
-    6 USC Sec. 966                                              01/05/2009
+    6 USC Sec. 966                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -30392,7 +30595,7 @@
 
 
 -CITE-
-    6 USC Sec. 967                                              01/05/2009
+    6 USC Sec. 967                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -30447,7 +30650,7 @@
 
 
 -CITE-
-    6 USC Sec. 968                                              01/05/2009
+    6 USC Sec. 968                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -30566,7 +30769,7 @@
 
 
 -CITE-
-    6 USC Sec. 969                                              01/05/2009
+    6 USC Sec. 969                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -30601,7 +30804,7 @@
 
 
 -CITE-
-    6 USC Sec. 970                                              01/05/2009
+    6 USC Sec. 970                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -30627,7 +30830,7 @@
 
 
 -CITE-
-    6 USC Sec. 971                                              01/05/2009
+    6 USC Sec. 971                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -30691,7 +30894,7 @@
 
 
 -CITE-
-    6 USC Sec. 972                                              01/05/2009
+    6 USC Sec. 972                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -30719,7 +30922,7 @@
 
 
 -CITE-
-    6 USC Sec. 973                                              01/05/2009
+    6 USC Sec. 973                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -30759,7 +30962,7 @@
 
 
 -CITE-
-    6 USC Part C - Miscellaneous Provisions                     01/05/2009
+    6 USC Part C - Miscellaneous Provisions                     02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -30775,7 +30978,7 @@
 
 
 -CITE-
-    6 USC Sec. 981                                              01/05/2009
+    6 USC Sec. 981                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -30872,7 +31075,7 @@
 
 
 -CITE-
-    6 USC Sec. 981a                                             01/05/2009
+    6 USC Sec. 981a                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -30969,7 +31172,7 @@
 
 
 -CITE-
-    6 USC Sec. 982                                              01/05/2009
+    6 USC Sec. 982                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -31007,7 +31210,7 @@
           (B) such other date as may be established by the Secretary
         under paragraph (3).
       (3) Establishment of earlier deadline
-        The Secretary shall establish a date under (2)(B) )1(! pursuant
+        The Secretary shall establish a date under (2)(B) (!1) pursuant
       to the lessons learned through the pilot integrated scanning
       systems established under section 981 of this title.
 
@@ -31107,7 +31310,7 @@
     risk cargo.
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be "paragraph (2)(B)".
+    (!1) So in original. Probably should be "paragraph (2)(B)".
 
 
 -End-
@@ -31115,7 +31318,7 @@
 
 
 -CITE-
-    6 USC Sec. 983                                              01/05/2009
+    6 USC Sec. 983                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -31154,7 +31357,7 @@
 
 
 -CITE-
-    6 USC Sec. 984                                              01/05/2009
+    6 USC Sec. 984                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -31190,7 +31393,7 @@
 
 
 -CITE-
-    6 USC Sec. 985                                              01/05/2009
+    6 USC Sec. 985                                              02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -31249,7 +31452,7 @@
 
 
 -CITE-
-    6 USC SUBCHAPTER III - ADMINISTRATION                       01/05/2009
+    6 USC SUBCHAPTER III - ADMINISTRATION                       02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -31264,7 +31467,7 @@
 
 
 -CITE-
-    6 USC Sec. 1001                                             01/05/2009
+    6 USC Sec. 1001                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -31298,7 +31501,7 @@
 
 
 -CITE-
-    6 USC Sec. 1002                                             01/05/2009
+    6 USC Sec. 1002                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -31324,7 +31527,7 @@
 
 
 -CITE-
-    6 USC Sec. 1003                                             01/05/2009
+    6 USC Sec. 1003                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -31367,7 +31570,7 @@
 
 
 -CITE-
-    6 USC CHAPTER 4 - TRANSPORTATION SECURITY                   01/05/2009
+    6 USC CHAPTER 4 - TRANSPORTATION SECURITY                   02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -31465,7 +31668,7 @@
 
 -CITE-
     6 USC SUBCHAPTER I - TRANSPORTATION SECURITY PLANNING AND
-           INFORMATION SHARING                             01/05/2009
+           INFORMATION SHARING                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -31482,7 +31685,7 @@
 
 
 -CITE-
-    6 USC Sec. 1101                                             01/05/2009
+    6 USC Sec. 1101                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -31658,7 +31861,7 @@
 
 
 -CITE-
-    6 USC Sec. 1102                                             01/05/2009
+    6 USC Sec. 1102                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -31739,7 +31942,7 @@
 
 
 -CITE-
-    6 USC Sec. 1103                                             01/05/2009
+    6 USC Sec. 1103                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -31807,7 +32010,7 @@
 
 
 -CITE-
-    6 USC Sec. 1104                                             01/05/2009
+    6 USC Sec. 1104                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -31882,12 +32085,12 @@
         title 49;
           (B) over-the-road bus transportation, as defined in
         subchapter IV, and school bus transportation;
-          (C) intercity passenger rail )1(! transportation )2(! as
+          (C) intercity passenger rail (!1) transportation (!2) as
         defined in section 24102 of title 49;
 
 
           (D) the transportation of passengers onboard a passenger
-        vessel )2(! as defined in section 2101 of title 46;
+        vessel (!2) as defined in section 2101 of title 46;
           (E) other regularly scheduled waterborne transportation
         service of passengers by vessel of at least 20 gross tons; and
           (F) air transportation, as defined in section 40102 of title
@@ -31899,7 +32102,7 @@
       transportation.
       (5) Vehicle
         The term "vehicle" has the meaning given to that term in
-      section 1992(16) )3(! of title 18.
+      section 1992(16) (!3) of title 18.
 
     (e) Effective date
       This section shall take effect on October 1, 2006, and shall
@@ -31919,18 +32122,18 @@
     set out under section 1151 of this title and Tables.
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be "intercity rail passenger".
+    (!1) So in original. Probably should be "intercity rail passenger".
 
-    )2(! So in original. Probably should be followed by a comma.
+    (!2) So in original. Probably should be followed by a comma.
 
-    )3(! So in original. Probably should be section "1992(d)(16)".
+    (!3) So in original. Probably should be section "1992(d)(16)".
 
 
 -End-
 
 
 -CITE-
-    6 USC SUBCHAPTER II - TRANSPORTATION SECURITY ENHANCEMENTS   01/05/2009 
+    6 USC SUBCHAPTER II - TRANSPORTATION SECURITY ENHANCEMENTS   02/01/2010 
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -31945,7 +32148,7 @@
 
 
 -CITE-
-    6 USC Sec. 1111                                             01/05/2009
+    6 USC Sec. 1111                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -32002,7 +32205,7 @@
 
 
 -CITE-
-    6 USC Sec. 1112                                             01/05/2009
+    6 USC Sec. 1112                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -32054,7 +32257,7 @@
 
 
 -CITE-
-    6 USC Sec. 1113                                             01/05/2009
+    6 USC Sec. 1113                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -32128,7 +32331,7 @@
       The Secretary shall ensure that the mission of the surface
     transportation security inspectors is consistent with any relevant
     risk assessments required by this Act or completed by the
-    Department, the modal plans required under section 114(t) )1(! of
+    Department, the modal plans required under section 114(t) (!1) of
     title 49, the Memorandum of Understanding between the Department
     and the Department of Transportation on Roles and Responsibilities,
     dated September 28, 2004, and any and all subsequent annexes to
@@ -32182,7 +32385,7 @@
     title V, Sec. 568(a), Dec. 26, 2007, 121 Stat. 2092.
 
 -FOOTNOTE-
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
@@ -32190,7 +32393,7 @@
 
 
 -CITE-
-    6 USC Sec. 1114                                             01/05/2009
+    6 USC Sec. 1114                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -32259,7 +32462,7 @@
 
 
 -CITE-
-    6 USC Sec. 1115                                             01/05/2009
+    6 USC Sec. 1115                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -32296,7 +32499,7 @@
 
 
 -CITE-
-    6 USC Sec. 1116                                             01/05/2009
+    6 USC Sec. 1116                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -32415,7 +32618,7 @@
 
 
 -CITE-
-    6 USC Sec. 1117                                             01/05/2009
+    6 USC Sec. 1117                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -32435,8 +32638,8 @@
     Aviation and Transportation Security Act (Public Law 107-71); the
     Intelligence Reform and Terrorism Prevention Act of 2004 (Public
     Law 108-458); the National Infrastructure Protection Plan required
-    by Homeland Security Presidential Directive-7; The )1(! Homeland
-    Security Act of 2002 [6 U.S.C. 101 et seq.]; The )1(! National
+    by Homeland Security Presidential Directive-7; The (!1) Homeland
+    Security Act of 2002 [6 U.S.C. 101 et seq.]; The (!1) National
     Response Plan; Executive Order No. 13416: Strengthening Surface
     Transportation Security, dated December 5, 2006; the Memorandum of
     Understanding between the Department and the Department of
@@ -32481,14 +32684,14 @@
     note under section 1101 of this title.
 
 -FOOTNOTE-
-    )1(! So in original. Probably should not be capitalized.
+    (!1) So in original. Probably should not be capitalized.
 
 
 -End-
 
 
 -CITE-
-    6 USC SUBCHAPTER III - PUBLIC TRANSPORTATION SECURITY       01/05/2009
+    6 USC SUBCHAPTER III - PUBLIC TRANSPORTATION SECURITY       02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -32503,7 +32706,7 @@
 
 
 -CITE-
-    6 USC Sec. 1131                                             01/05/2009
+    6 USC Sec. 1131                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -32528,7 +32731,7 @@
       (3) Disadvantaged businesses concerns
         The term "disadvantaged business concerns" means small
       businesses that are owned and controlled by socially and
-      economically disadvantaged individuals as defined in section )1(!
+      economically disadvantaged individuals as defined in section (!1)
       124, title 13, Code of Federal Regulations.
 
       (4) Frontline employee
@@ -32560,7 +32763,7 @@
     set out as a note under section 1101 of this title.
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be "part".
+    (!1) So in original. Probably should be "part".
 
 
 -End-
@@ -32568,7 +32771,7 @@
 
 
 -CITE-
-    6 USC Sec. 1132                                             01/05/2009
+    6 USC Sec. 1132                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -32604,7 +32807,7 @@
 
 
 -CITE-
-    6 USC Sec. 1133                                             01/05/2009
+    6 USC Sec. 1133                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -32619,7 +32822,7 @@
       Not later than 9 months after August 3, 2007, and based upon the
     previous and ongoing security assessments conducted by the
     Department and the Department of Transportation, the Secretary,
-    consistent with and as required by section 114(t) )1(! of title 49,
+    consistent with and as required by section 114(t) (!1) of title 49,
     shall develop and implement the modal plan for public
     transportation, entitled the "National Strategy for Public
     Transportation Security".
@@ -32672,7 +32875,7 @@
     Security, the Secretary shall use relevant existing risk
     assessments and strategies developed by the Department or other
     Federal agencies, including those developed or implemented pursuant
-    to section 114(t) )1(! of title 49 or Homeland Security
+    to section 114(t) (!1) of title 49 or Homeland Security
     Presidential Directive-7.
     (f) Funding
       There is authorized to be appropriated to the Secretary to carry
@@ -32691,7 +32894,7 @@
     out as a note under section 1101 of this title.
 
 -FOOTNOTE-
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
@@ -32699,7 +32902,7 @@
 
 
 -CITE-
-    6 USC Sec. 1134                                             01/05/2009
+    6 USC Sec. 1134                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -32891,7 +33094,7 @@
 
 
 -CITE-
-    6 USC Sec. 1135                                             01/05/2009
+    6 USC Sec. 1135                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -33085,7 +33288,7 @@
 
 
 -CITE-
-    6 USC Sec. 1136                                             01/05/2009
+    6 USC Sec. 1136                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -33167,7 +33370,7 @@
 
 
 -CITE-
-    6 USC Sec. 1137                                             01/05/2009
+    6 USC Sec. 1137                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -33289,7 +33492,7 @@
 
 
 -CITE-
-    6 USC Sec. 1138                                             01/05/2009
+    6 USC Sec. 1138                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -33384,7 +33587,7 @@
 
 
 -CITE-
-    6 USC Sec. 1139                                             01/05/2009
+    6 USC Sec. 1139                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -33427,7 +33630,7 @@
     user, the costs and benefits of all centers and programs, the
     coordination among centers and programs, how each center or program
     contributes to implementing the information sharing plan under
-    section 1203,)1(! and analysis of the extent to which the ISAC is
+    section 1203,(!1) and analysis of the extent to which the ISAC is
     duplicative with the Department's information-sharing program.
 
     (d) Authorization
@@ -33455,7 +33658,7 @@
     provisions set out as a note under section 114 of Title 49.
 
 -FOOTNOTE-
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
@@ -33463,7 +33666,7 @@
 
 
 -CITE-
-    6 USC Sec. 1140                                             01/05/2009
+    6 USC Sec. 1140                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -33491,7 +33694,7 @@
 
 
 -CITE-
-    6 USC Sec. 1141                                             01/05/2009
+    6 USC Sec. 1141                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -33565,7 +33768,7 @@
 
 
 -CITE-
-    6 USC Sec. 1142                                             01/05/2009
+    6 USC Sec. 1142                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -33595,7 +33798,7 @@
           (A) a Federal, State, or local regulatory or law enforcement
         agency (including an office of the Inspector General under the
         Inspector General Act of 1978 (5 U.S.C. App.; Public Law 95-
-        452); )1(!
+        452); (!1)
 
           (B) any Member of Congress, any Committee of Congress, or the
         Government Accountability Office; or
@@ -33814,7 +34017,7 @@
       be entitled to all relief necessary to make the employee whole.
       (2) Damages
         Relief in an action under subsection (c) (including an action
-      described in (c)(7)) )2(! shall include - 
+      described in (c)(7)) (!2) shall include - 
 
           (A) reinstatement with the same seniority status that the
         employee would have had, but for the discrimination;
@@ -33885,10 +34088,10 @@
 
 -FOOTNOTE-               
 
-    )1(! So in original. The semicolon probably should be preceded
+    (!1) So in original. The semicolon probably should be preceded
          by an additional closing parenthesis.
 
-    )2(! So in original. Probably should be "subsection (c)(7))".
+    (!2) So in original. Probably should be "subsection (c)(7))".
 
 
 -End-
@@ -33896,7 +34099,7 @@
 
 
 -CITE-
-    6 USC Sec. 1143                                             01/05/2009
+    6 USC Sec. 1143                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -33992,7 +34195,7 @@
       waiver process established for applicants for commercial motor
       vehicle hazardous materials endorsements and transportation
       workers at ports, as required by section 70105(c) of title 49;
-      )1(! and
+      (!1) and
 
         (2) have the authority to order an appropriate remedy,
       including reinstatement of the covered individual, should the
@@ -34043,7 +34246,7 @@
     419.)
 
 -FOOTNOTE-
-    )1(! So in original. Probably should be title "46;".
+    (!1) So in original. Probably should be title "46;".
 
 
 -End-
@@ -34051,7 +34254,7 @@
 
 
 -CITE-
-    6 USC Sec. 1144                                             01/05/2009
+    6 USC Sec. 1144                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -34098,7 +34301,7 @@
 
 
 -CITE-
-    6 USC SUBCHAPTER IV - SURFACE TRANSPORTATION SECURITY       01/05/2009
+    6 USC SUBCHAPTER IV - SURFACE TRANSPORTATION SECURITY       02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -34112,7 +34315,7 @@
 
 
 -CITE-
-    6 USC Part A - General Provisions                           01/05/2009
+    6 USC Part A - General Provisions                           02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -34128,7 +34331,7 @@
 
 
 -CITE-
-    6 USC Sec. 1151                                             01/05/2009
+    6 USC Sec. 1151                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -34157,7 +34360,7 @@
         The term "over-the-road bus" means a bus characterized by an
       elevated passenger deck located over a baggage compartment.
       (5) Over-the-road bus frontline employees
-        In this section,)1(! the term "over-the-road bus frontline
+        In this section,(!1) the term "over-the-road bus frontline
       employees" means over-the-road bus drivers, security personnel,
       dispatchers, maintenance and maintenance support personnel,
       ticket agents, other terminal employees, and other employees of
@@ -34166,7 +34369,7 @@
       this subchapter.
 
       (6) Railroad frontline employees
-        In this section,)1(! the term "railroad frontline employees"
+        In this section,(!1) the term "railroad frontline employees"
       means security personnel, dispatchers, locomotive engineers,
       conductors, trainmen, other onboard employees, maintenance and
       maintenance support personnel, bridge tenders, and any other
@@ -34221,7 +34424,7 @@
         The term "disadvantaged business concerns" means small
       businesses that are owned and controlled by socially and
       economically disadvantaged individuals as defined in section
-      124,)2(! of title 13, Code of Federal Regulations.
+      124,(!2) of title 13, Code of Federal Regulations.
 
       (15) Amtrak
         The term "Amtrak" means the National Railroad Passenger
@@ -34243,9 +34446,9 @@
     Code, see Tables.
 
 -FOOTNOTE-
-    )1(! So in original. "In this section," probably should not appear.
+    (!1) So in original. "In this section," probably should not appear.
 
-    )2(! So in original. Probably should be "part 124,".
+    (!2) So in original. Probably should be "part 124,".
 
 
 -End-
@@ -34253,7 +34456,7 @@
 
 
 -CITE-
-    6 USC Sec. 1152                                             01/05/2009
+    6 USC Sec. 1152                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -34266,7 +34469,7 @@
 
 -STATUTE-
     (a) Secretarial oversight
-      The Secretary, in coordination with )1(! Secretary of
+      The Secretary, in coordination with (!1) Secretary of
     Transportation for grants awarded to Amtrak, shall establish
     necessary procedures, including monitoring and audits, to ensure
     that grants made under this subchapter are expended in accordance
@@ -34347,7 +34550,7 @@
     1151 of this title and Tables.
 
 -FOOTNOTE-
-    )1(! So in original. The word "the" probably should appear.
+    (!1) So in original. The word "the" probably should appear.
 
 
 -End-
@@ -34355,7 +34558,7 @@
 
 
 -CITE-
-    6 USC Sec. 1153                                             01/05/2009
+    6 USC Sec. 1153                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -34383,7 +34586,7 @@
 
 
 -CITE-
-    6 USC Sec. 1154                                             01/05/2009
+    6 USC Sec. 1154                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -34416,7 +34619,7 @@
 
 
 -CITE-
-    6 USC Part B - Railroad Security                            01/05/2009
+    6 USC Part B - Railroad Security                            02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -34432,7 +34635,7 @@
 
 
 -CITE-
-    6 USC Sec. 1161                                             01/05/2009
+    6 USC Sec. 1161                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -34483,7 +34686,7 @@
       (1) Requirement
         Not later than 9 months after August 3, 2007, and based upon
       the assessment conducted under subsection (a), the Secretary,
-      consistent with and as required by section 114(t) )1(! of title
+      consistent with and as required by section 114(t) (!1) of title
       49, shall develop and implement the modal plan for railroad
       transportation, entitled the "National Strategy for Railroad
       Transportation Security".
@@ -34578,7 +34781,7 @@
     under this section, the Secretary shall utilize relevant existing
     plans, strategies, and risk assessments developed by the Department
     or other Federal agencies, including those developed or implemented
-    pursuant to section 114(t) )1(! of title 49 or Homeland Security
+    pursuant to section 114(t) (!1) of title 49 or Homeland Security
     Presidential Directive-7, and, as appropriate, assessments
     developed by other public and private stakeholders.
     (e) Report
@@ -34595,7 +34798,7 @@
       redacted formats if the Secretary determines that such action is
       appropriate or necessary.
     (f) Annual updates
-      Consistent with the requirements of section 114(t) )1(! of title
+      Consistent with the requirements of section 114(t) (!1) of title
     49, the Secretary shall update the assessment and National Strategy
     each year and transmit a report, which may be submitted in both
     classified and redacted formats, to the appropriate congressional
@@ -34617,7 +34820,7 @@
     set out as a note under section 1101 of this title.
 
 -FOOTNOTE-
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
@@ -34625,7 +34828,7 @@
 
 
 -CITE-
-    6 USC Sec. 1162                                             01/05/2009
+    6 USC Sec. 1162                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -34644,7 +34847,7 @@
       under this section to - 
           (A) conduct a vulnerability assessment in accordance with
         subsections (c) and (d); and
-          (B) to )1(! prepare, submit to the Secretary for approval,
+          (B) to (!1) prepare, submit to the Secretary for approval,
         and implement a security plan in accordance with this section
         that addresses security performance requirements; and
 
@@ -34883,7 +35086,7 @@
     (Pub. L. 110-53, title XV, Sec. 1512, Aug. 3, 2007, 121 Stat. 429.)
 
 -FOOTNOTE-
-    )1(! So in original. The word "to" probably should not appear.
+    (!1) So in original. The word "to" probably should not appear.
 
 
 -End-
@@ -34891,7 +35094,7 @@
 
 
 -CITE-
-    6 USC Sec. 1163                                             01/05/2009
+    6 USC Sec. 1163                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -35065,7 +35268,7 @@
 
 
 -CITE-
-    6 USC Sec. 1164                                             01/05/2009
+    6 USC Sec. 1164                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -35151,7 +35354,7 @@
 
 
 -CITE-
-    6 USC Sec. 1165                                             01/05/2009
+    6 USC Sec. 1165                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -35260,7 +35463,7 @@
 
 
 -CITE-
-    6 USC Sec. 1166                                             01/05/2009
+    6 USC Sec. 1166                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -35346,7 +35549,7 @@
 
 
 -CITE-
-    6 USC Sec. 1167                                             01/05/2009
+    6 USC Sec. 1167                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -35456,7 +35659,7 @@
 
 
 -CITE-
-    6 USC Sec. 1168                                             01/05/2009
+    6 USC Sec. 1168                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -35584,7 +35787,7 @@
 
 
 -CITE-
-    6 USC Sec. 1169                                             01/05/2009
+    6 USC Sec. 1169                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -35679,7 +35882,7 @@
 
 
 -CITE-
-    6 USC Sec. 1170                                             01/05/2009
+    6 USC Sec. 1170                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -35699,7 +35902,7 @@
       transportation security or national security, or of terrorism - 
           (A) relevant criminal history databases;
           (B) in the case of an alien (as defined in the Immigration
-        and Nationality Act (8 U.S.C. 1101(a)(3)),)1(! the relevant
+        and Nationality Act (8 U.S.C. 1101(a)(3)),(!1) the relevant
         databases to determine the status of the alien under the
         immigration laws of the United States; and
 
@@ -35825,7 +36028,7 @@
     Short Title note set out under section 1101 of Title 8 and Tables.
 
 -FOOTNOTE-
-    )1(! So in original. Another closing parenthesis probably should
+    (!1) So in original. Another closing parenthesis probably should
          precede the comma.
 
 
@@ -35834,7 +36037,7 @@
 
 
 -CITE-
-    6 USC Sec. 1171                                             01/05/2009
+    6 USC Sec. 1171                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -35916,7 +36119,7 @@
 
 
 -CITE-
-    6 USC Sec. 1172                                             01/05/2009
+    6 USC Sec. 1172                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -35946,7 +36149,7 @@
 
 
 -CITE-
-    6 USC Part C - Over-the-Road Bus and Trucking Security      01/05/2009
+    6 USC Part C - Over-the-Road Bus and Trucking Security      02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -35961,7 +36164,7 @@
 
 
 -CITE-
-    6 USC Sec. 1181                                             01/05/2009
+    6 USC Sec. 1181                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -36198,7 +36401,7 @@
 
 
 -CITE-
-    6 USC Sec. 1182                                             01/05/2009
+    6 USC Sec. 1182                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -36346,7 +36549,7 @@
 
 
 -CITE-
-    6 USC Sec. 1183                                             01/05/2009
+    6 USC Sec. 1183                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -36433,7 +36636,7 @@
 
 
 -CITE-
-    6 USC Sec. 1184                                             01/05/2009
+    6 USC Sec. 1184                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -36539,7 +36742,7 @@
 
 
 -CITE-
-    6 USC Sec. 1185                                             01/05/2009
+    6 USC Sec. 1185                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -36656,7 +36859,7 @@
 
 
 -CITE-
-    6 USC Sec. 1186                                             01/05/2009
+    6 USC Sec. 1186                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -36685,7 +36888,7 @@
 
 
 -CITE-
-    6 USC Part D - Hazardous Material and Pipeline Security     01/05/2009
+    6 USC Part D - Hazardous Material and Pipeline Security     02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -36701,7 +36904,7 @@
 
 
 -CITE-
-    6 USC Sec. 1201                                             01/05/2009
+    6 USC Sec. 1201                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -36832,7 +37035,7 @@
 
 
 -CITE-
-    6 USC Sec. 1202                                             01/05/2009
+    6 USC Sec. 1202                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -36885,7 +37088,7 @@
 
 
 -CITE-
-    6 USC Sec. 1203                                             01/05/2009
+    6 USC Sec. 1203                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -36980,7 +37183,7 @@
 
 
 -CITE-
-    6 USC Sec. 1204                                             01/05/2009
+    6 USC Sec. 1204                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -37078,7 +37281,7 @@
 
 
 -CITE-
-    6 USC Sec. 1205                                             01/05/2009
+    6 USC Sec. 1205                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -37113,7 +37316,7 @@
 
 
 -CITE-
-    6 USC Sec. 1206                                             01/05/2009
+    6 USC Sec. 1206                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -37145,7 +37348,7 @@
 
 
 -CITE-
-    6 USC Sec. 1207                                             01/05/2009
+    6 USC Sec. 1207                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -37216,7 +37419,7 @@
 
 
 -CITE-
-    6 USC Sec. 1208                                             01/05/2009
+    6 USC Sec. 1208                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -37288,7 +37491,7 @@
 
 -CITE-
     6 USC CHAPTER 5 - BORDER INFRASTRUCTURE AND TECHNOLOGY
-           MODERNIZATION                                   01/05/2009
+           MODERNIZATION                                   02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -37310,7 +37513,7 @@
 
 
 -CITE-
-    6 USC Sec. 1401                                             01/05/2009
+    6 USC Sec. 1401                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -37355,7 +37558,7 @@
 
 
 -CITE-
-    6 USC Sec. 1402                                             01/05/2009
+    6 USC Sec. 1402                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -37447,7 +37650,7 @@
 
 
 -CITE-
-    6 USC Sec. 1403                                             01/05/2009
+    6 USC Sec. 1403                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -37501,7 +37704,7 @@
 
 
 -CITE-
-    6 USC Sec. 1404                                             01/05/2009
+    6 USC Sec. 1404                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
@@ -37583,7 +37786,7 @@
 
 
 -CITE-
-    6 USC Sec. 1405                                             01/05/2009
+    6 USC Sec. 1405                                             02/01/2010
 
 -EXPCITE-
     TITLE 6 - DOMESTIC SECURITY
