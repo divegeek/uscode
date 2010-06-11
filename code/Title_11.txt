@@ -1,5 +1,5 @@
 -CITE-
-    11 USC APPENDIX TITLE 11 - APPENDIX                         01/05/2009
+    11 USC APPENDIX TITLE 11 - APPENDIX                         02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -11,7 +11,7 @@
 
 -CITE-
     11 USC APPENDIX FEDERAL RULES OF BANKRUPTCY
-      PROCEDURE AND OFFICIAL BANKRUPTCY FORMS              01/05/2009
+      PROCEDURE AND OFFICIAL BANKRUPTCY FORMS              02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -22,9 +22,29 @@
 
 
 -MISC1-
-         (EFFECTIVE AUGUST 1, 1983, AS AMENDED TO JANUARY 5, 2009)     
+        (EFFECTIVE AUGUST 1, 1983, AS AMENDED TO FEBRUARY 1, 2010)    
 
                                                                 
+
+                              HISTORICAL NOTE                          
+      The Federal Rules of Bankruptcy Procedure were adopted by order
+    of the Supreme Court on Apr. 25, 1983, transmitted to Congress by
+    the Chief Justice on the same day, and became effective Aug. 1,
+    1983.
+      The Rules have been amended Aug. 30, 1983, Pub. L. 98-91, Sec.
+    2(a), 97 Stat. 607, eff. Aug. 1, 1983; July 10, 1984, Pub. L. 98-
+    353, title III, Sec. 321, 98 Stat. 357; Apr. 29, 1985, eff. Aug.
+    1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug.
+    1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug.
+    1, 1993; Apr. 29, 1994, eff. Aug. 1, 1994; Oct. 22, 1994, Pub. L.
+    103-394, title I, Sec. 114, 108 Stat. 4118; Apr. 27, 1995, eff.
+    Dec. 1, 1995; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff.
+    Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff.
+    Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 29, 2002, eff.
+    Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff.
+    Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff.
+    Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff.
+    Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.
     Part                                                             Rule
     I.      Commencement of Case; Proceedings Relating to
              Petition and Order for Relief                          1002
@@ -282,6 +302,7 @@
     7054.       Judgments; Costs.                                     
     7055.       Default.                                              
     7056.       Summary Judgment.                                     
+    7058.       Entering Judgment in Adversary Proceeding.            
     7062.       Stay of Proceedings to Enforce a Judgment.            
     7064.       Seizure of Person or Property.                        
     7065.       Injunctions.                                          
@@ -329,7 +350,7 @@
     9005.       Harmless Error.                                       
     9005.1.     Constitutional Challenge to a Statute - Notice,
                  Certification, and Intervention.                     
-    9006.       Time.                                                 
+    9006.       Computing and Extending Time.                         
     9007.       General Authority to Regulate Notices.                
     9008.       Service or Notice by Publication.                     
     9009.       Forms.                                                
@@ -429,12 +450,13 @@
     26.         Periodic Report Regarding Value, Operations and
                  Profitability of Entities in Which the Debtor's
                  Estate Holds a Substantial or Controlling Interest.  
+    27.         Reaffirmation Agreement Cover Sheet.                  
 
 -End-
 
 
 -CITE-
-    11 USC APPENDIX BANKRUPTCY RULES                            01/05/2009
+    11 USC APPENDIX BANKRUPTCY RULES                            02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -468,7 +490,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1001                                   01/05/2009
+    11 USC APPENDIX Rule 1001                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -571,7 +593,7 @@
 -CITE-
     11 USC APPENDIX PART I - COMMENCEMENT OF CASE;
            PROCEEDINGS RELATING TO PETITION AND
-           ORDER FOR RELIEF                                01/05/2009
+           ORDER FOR RELIEF                                02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -588,7 +610,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1002                                   01/05/2009
+    11 USC APPENDIX Rule 1002                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -681,7 +703,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1003                                   01/05/2009
+    11 USC APPENDIX Rule 1003                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -795,7 +817,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1004                                   01/05/2009
+    11 USC APPENDIX Rule 1004                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -869,7 +891,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1004.1                                 01/05/2009
+    11 USC APPENDIX Rule 1004.1                                 02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -897,7 +919,7 @@
 
 
 -MISC1-
-                 COMMITTEE NOTES ON RULES - 2002 AMENDMENT             
+                      COMMITTEE NOTES ON RULES - 2002                  
       This rule is derived from Rule 17(c) F.R. Civ. P. It does not
     address the commencement of a case filed on behalf of a missing
     person. See, e.g., In re King, 234 B.R. 515 (Bankr. D.N.M. 1999)
@@ -909,7 +931,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1005                                   01/05/2009
+    11 USC APPENDIX Rule 1005                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -984,7 +1006,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1006                                   01/05/2009
+    11 USC APPENDIX Rule 1006                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -1105,7 +1127,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1007                                   01/05/2009
+    11 USC APPENDIX Rule 1007                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -1130,13 +1152,13 @@
       supplemental statement promptly upon any change in circumstances
       that renders the corporate ownership statement inaccurate.
         (2) Involuntary Case. In an involuntary case, the debtor shall
-      file within 15 days after entry of the order for relief, a list
+      file within 14 days after entry of the order for relief, a list
       containing the name and address of each entity included or to be
       included on Schedules D, E, F, G, and H as prescribed by the
       Official Forms.
         (3) Equity Security Holders. In a chapter 11 reorganization
       case, unless the court orders otherwise, the debtor shall file
-      within 15 days after entry of the order for relief a list of the
+      within 14 days after entry of the order for relief a list of the
       debtor's equity security holders of each class showing the number
       and kind of interests registered in the name of each holder, and
       the last known address or place of business of each holder.
@@ -1230,17 +1252,17 @@
 
       (c) Time Limits. In a voluntary case, the schedules, statements,
     and other documents required by subdivision (b)(1), (4), (5), and
-    (6) shall be filed with the petition or within 15 days thereafter,
+    (6) shall be filed with the petition or within 14 days thereafter,
     except as otherwise provided in subdivisions (d), (e), (f), and (h)
     of this rule. In an involuntary case, the list in subdivision
     (a)(2), and the schedules, statements, and other documents required
-    by subdivision (b)(1) shall be filed by the debtor within 15 days
+    by subdivision (b)(1) shall be filed by the debtor within 14 days
     of the entry of the order for relief. In a voluntary case, the
     documents required by paragraphs (A), (C), and (D) of subdivision
     (b)(3) shall be filed with the petition. Unless the court orders
     otherwise, a debtor who has filed a statement under subdivision
     (b)(3)(B), shall file the documents required by subdivision
-    (b)(3)(A) within 15 days of the order for relief. In a chapter 7
+    (b)(3)(A) within 14 days of the order for relief. In a chapter 7
     case, the debtor shall file the statement required by subdivision
     (b)(7) within 45 days after the first date set for the meeting of
     creditors under Sec. 341 of the Code, and in a chapter 11 or 13
@@ -1292,7 +1314,7 @@
     security number, or states that the debtor does not have a social
     security number. In a voluntary case, the debtor shall submit the
     statement with the petition. In an involuntary case, the debtor
-    shall submit the statement within 15 days after the entry of the
+    shall submit the statement within 14 days after the entry of the
     order for relief.
       (g) Partnership and Partners. The general partners of a debtor
     partnership shall prepare and file the list required under
@@ -1305,7 +1327,7 @@
       (h) Interests Acquired or Arising After Petition. If, as provided
     by Sec. 541(a)(5) of the Code, the debtor acquires or becomes
     entitled to acquire any interest in property, the debtor shall
-    within 10 days after the information comes to the debtor's
+    within 14 days after the information comes to the debtor's
     knowledge or within such further time the court may allow, file a
     supplemental schedule in the chapter 7 liquidation case, chapter 11
     reorganization case, chapter 12 family farmer's debt adjustment
@@ -1354,7 +1376,8 @@
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
     Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff.
     Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff.
-    Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008.)
+    Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -1647,7 +1670,7 @@
     the 2005 amendments to Sec. 521 that apply to the same group of
     debtors and have the same time limits as the existing requirements
     of (b)(1). Consistent with the E-Government Act of 2002, Pub. L.
-    No. 107-347, the paymentadvices should be redacted before they are
+    No. 107-347, the payment advices should be redacted before they are
     filed.
       Subdivision (b)(2) is amended to conform to the renumbering of
     the subsections of Sec. 521.
@@ -1737,6 +1760,19 @@
     of a personal financial management course. The Committee Note was
     amended to explain these changes.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. Each deadline in the rule of fewer than 30 days is
+    amended to substitute a deadline that is a multiple of seven days.
+    Throughout the rules, deadlines are amended in the following
+    manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -FOOTNOTE-
     (!1) So in original. Probably should be only one section symbol.
 
@@ -1746,7 +1782,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1008                                   01/05/2009
+    11 USC APPENDIX Rule 1008                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -1784,7 +1820,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1009                                   01/05/2009
+    11 USC APPENDIX Rule 1009                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -1897,7 +1933,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1010                                   01/05/2009
+    11 USC APPENDIX Rule 1010                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -2046,7 +2082,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1011                                   01/05/2009
+    11 USC APPENDIX Rule 1011                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -2068,7 +2104,7 @@
       (b) Defenses and Objections; When Presented. Defenses and
     objections to the petition shall be presented in the manner
     prescribed by Rule 12 F.R.Civ.P. and shall be filed and served
-    within 20 days after service of the summons, except that if service
+    within 21 days after service of the summons, except that if service
     is made by publication on a party or partner not residing or found
     within the state in which the court sits, the court shall prescribe
     the time for filing and serving the response.
@@ -2090,7 +2126,8 @@
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 26, 2004, eff.
-    Dec. 1, 2004; Apr. 23, 2008, eff. Dec. 1, 2008.)
+    Dec. 1, 2004; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -2209,6 +2246,18 @@
     and a petition for recognition of a foreign proceeding to file
     corporate ownership statements to assist the court in determining
     whether recusal is necessary.
+
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadline in the rule is amended to substitute
+    a deadline that is a multiple of seven days. Throughout the rules,
+    deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
       Changes Made After Publication. No changes were made after
     publication.
 
@@ -2223,7 +2272,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1012                                   01/05/2009
+    11 USC APPENDIX Rule 1012                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -2249,7 +2298,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1013                                   01/05/2009
+    11 USC APPENDIX Rule 1013                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -2310,7 +2359,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1014                                   01/05/2009
+    11 USC APPENDIX Rule 1014                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -2458,7 +2507,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1015                                   01/05/2009
+    11 USC APPENDIX Rule 1015                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -2577,7 +2626,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1016                                   01/05/2009
+    11 USC APPENDIX Rule 1016                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -2619,7 +2668,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1017                                   01/05/2009
+    11 USC APPENDIX Rule 1017                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -2863,7 +2912,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1018                                   01/05/2009
+    11 USC APPENDIX Rule 1018                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -2942,7 +2991,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1019                                   01/05/2009
+    11 USC APPENDIX Rule 1019                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -3001,7 +3050,7 @@
         converted to chapter 7, the debtor in possession or, if the
         debtor is not a debtor in possession, the trustee serving at
         the time of conversion, shall:
-            (i) not later than 15 days after conversion of the case,
+            (i) not later than 14 days after conversion of the case,
           file a schedule of unpaid debts incurred after the filing of
           the petition and before conversion of the case, including the
           name and address of each holder of a claim; and
@@ -3011,7 +3060,7 @@
 
           (B) Conversion of Chapter 13 Case. Unless the court directs
         otherwise, if a chapter 13 case is converted to chapter 7,
-            (i) the debtor, not later than 15 days after conversion of
+            (i) the debtor, not later than 14 days after conversion of
           the case, shall file a schedule of unpaid debts incurred
           after the filing of the petition and before conversion of the
           case, including the name and address of each holder of a
@@ -3061,7 +3110,7 @@
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
     Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff.
     Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2008, eff.
-    Dec. 1, 2008.)
+    Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -3297,12 +3346,24 @@
     dismiss a case under Sec. 707(b) and (c) are proper in a case that
     is converted from another chapter.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 1020                                   01/05/2009
+    11 USC APPENDIX Rule 1020                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -3317,7 +3378,7 @@
       (a) Small Business Debtor Designation. In a voluntary chapter 11
     case, the debtor shall state in the petition whether the debtor is
     a small business debtor. In an involuntary chapter 11 case, the
-    debtor shall file within 15 days after entry of the order for
+    debtor shall file within 14 days after entry of the order for
     relief a statement as to whether the debtor is a small business
     debtor. Except as provided in subdivision (c), the status of the
     case as a small business case shall be in accordance with the
@@ -3354,7 +3415,7 @@
 
 -SOURCE-
     (Added Apr. 11, 1997, eff. Dec. 1, 1997; amended Apr. 23, 2008,
-    eff. Dec. 1, 2008.)
+    eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -3393,12 +3454,24 @@
       Changes Made After Publication. No changes were made after
     publication.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadline in the rule is amended to substitute
+    a deadline that is a multiple of seven days. Throughout the rules,
+    deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 1021                                   01/05/2009
+    11 USC APPENDIX Rule 1021                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -3450,7 +3523,7 @@
     11 USC APPENDIX PART II - OFFICERS AND
            ADMINISTRATION; NOTICES; MEETINGS;
            EXAMINATIONS; ELECTIONS; ATTORNEYS
-           AND ACCOUNTANTS                                 01/05/2009
+           AND ACCOUNTANTS                                 02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -3467,7 +3540,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2001                                   01/05/2009
+    11 USC APPENDIX Rule 2001                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -3551,7 +3624,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2002                                   01/05/2009
+    11 USC APPENDIX Rule 2002                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -3566,11 +3639,11 @@
       Cases, United States, and United States Trustee
 
 -STATUTE-
-      (a) Twenty-Day Notices to Parties in Interest. Except as provided
-    in subdivisions (h), (i), (l), (p), and (q) of this rule, the
-    clerk, or some other person as the court may direct, shall give the
-    debtor, the trustee, all creditors and indenture trustees at least
-    20 days' notice by mail of:
+      (a) Twenty-One-Day Notices to Parties in Interest. Except as
+    provided in subdivisions (h), (i), (l), (p), and (q) of this rule,
+    the clerk, or some other person as the court may direct, shall give
+    the debtor, the trustee, all creditors and indenture trustees at
+    least 21 days' notice by mail of:
         (1) the meeting of creditors under Sec. 341 or Sec. 1104(b) of
       the Code, which notice, unless the court orders otherwise, shall
       include the debtor's employer identification number, social
@@ -3599,10 +3672,10 @@
         (8) the time fixed for filing objections and the hearing to
       consider confirmation of a chapter 12 plan.
 
-      (b) Twenty-Five-Day Notices to Parties in Interest. Except as
+      (b) Twenty-Eight-Day Notices to Parties in Interest. Except as
     provided in subdivision (l) of this rule, the clerk, or some other
     person as the court may direct, shall give the debtor, the trustee,
-    all creditors and indenture trustees not less than 25 days notice
+    all creditors and indenture trustees not less than 28 days' notice
     by mail of the time fixed (1) for filing objections and the hearing
     to consider approval of a disclosure statement or, under Sec.
     1125(f), to make a final determination whether the plan provides
@@ -3811,9 +3884,9 @@
     Code.
       (o) Notice of Order for Relief in Consumer Case. In a voluntary
     case commenced by an individual debtor whose debts are primarily
-    consumer debts, the clerk, or some other person as the court may
-    direct, shall give the trustee and all creditors notice by mail of
-    the order for relief within 20 days from the date thereof.
+    consumer debts, the clerk or some other person as the court may
+    direct shall give the trustee and all creditors notice by mail of
+    the order for relief within 21 days from the date thereof.
       (p) Notice to a Creditor With a Foreign Address.
         (1) If, at the request of the United States trustee or a party
       in interest, or on its own initiative, the court finds that a
@@ -3832,7 +3905,7 @@
       under Rule 2002(g).
 
       (q) Notice of Petition for Recognition of Foreign Proceeding and
-    of Court's Intention To Communicate With Foreign Courts and Foreign
+    of Court's Intention to Communicate With Foreign Courts and Foreign
     Representatives.
         (1) Notice of Petition for Recognition. The clerk, or some
       other person as the court may direct, shall forthwith give the
@@ -3841,7 +3914,7 @@
       relief is being sought under Sec. 1519 of the Code, all parties
       to litigation pending in the United States in which the debtor is
       a party at the time of the filing of the petition, and such other
-      entities as the court may direct, at least 20 days' notice by
+      entities as the court may direct, at least 21 days' notice by
       mail of the hearing on the petition for recognition of a foreign
       proceeding. The notice shall state whether the petition seeks
       recognition as a foreign main proceeding or foreign nonmain
@@ -3865,8 +3938,8 @@
     Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999;
     Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2001, eff. Dec. 1, 2001;
     Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff. Dec. 1, 2004;
-    Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1,
-    2008.)
+    Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008;
+    Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -4435,7 +4508,7 @@
     requires that such additional time as is reasonable under the
     circumstances be given to creditors with foreign addresses with
     respect to notices and the filing of a proof of claim. Thus,
-    subdivision (p)(l) is added to this rule to give the court
+    subdivision (p)(1) is added to this rule to give the court
     flexibility to direct that notice by other means shall supplement
     notice by mail, or to enlarge the notice period, for creditors with
     foreign addresses. If cause exists, such as likely delays in the
@@ -4501,6 +4574,18 @@
     debtor." References to Rule 5012 in subdivision (q)(2) and in the
     Committee Note were deleted.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -REFTEXT-
                             REFERENCES IN TEXT                        
       The Securities Investor Protection Act, referred to in subd. (k),
@@ -4538,7 +4623,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2003                                   01/05/2009
+    11 USC APPENDIX Rule 2003                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -4553,13 +4638,13 @@
       (a) Date and Place. Except as otherwise provided in Sec. 341(e)
     of the Code, in a chapter 7 liquidation or a chapter 11
     reorganization case, the United States trustee shall call a meeting
-    of creditors to be held no fewer than 20 and no more than 40 days
-    after the order for relief. In a chapter 12 family farmer's debt
+    of creditors to be held no fewer than 21 and no more than 40 days
+    after the order for relief. In a chapter 12 family farmer debt
     adjustment case, the United States trustee shall call a meeting of
-    creditors to be held no fewer than 20 and no more than 35 days
+    creditors to be held no fewer than 21 and no more than 35 days
     after the order for relief. In a chapter 13 individual's debt
     adjustment case, the United States trustee shall call a meeting of
-    creditors to be held no fewer than 20 and no more than 50 days
+    creditors to be held no fewer than 21 and no more than 50 days
     after the order for relief. If there is an appeal from or a motion
     to vacate the order for relief, or if there is a motion to dismiss
     the case, the United States trustee may set a later date for the
@@ -4626,7 +4711,7 @@
       that has made a request to receive a copy of the report. Pending
       disposition by the court of a disputed election for trustee, the
       interim trustee shall continue in office. Unless a motion for the
-      resolution of the dispute is filed no later than 10 days after
+      resolution of the dispute is filed no later than 14 days after
       the United States trustee files a report of a disputed election
       for trustee, the interim trustee shall serve as trustee in the
       case.
@@ -4649,7 +4734,7 @@
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
     Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 26, 1999, eff.
     Dec. 1, 1999; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 23, 2008, eff.
-    Dec. 1, 2008.)
+    Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -4828,12 +4913,24 @@
       Changes Made After Publication. No changes were made after
     publication.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 2004                                   01/05/2009
+    11 USC APPENDIX Rule 2004                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -4961,7 +5058,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2005                                   01/05/2009
+    11 USC APPENDIX Rule 2005                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -5055,7 +5152,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2006                                   01/05/2009
+    11 USC APPENDIX Rule 2006                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -5093,7 +5190,7 @@
       disqualified from voting under Sec. 702(a) of the Code and (iii)
       who were present or represented at a meeting of which all
       creditors having claims of over $500 or the 100 creditors having
-      the largest claims had at least five days notice in writing and
+      the largest claims had at least seven days' notice in writing and
       of which meeting written minutes were kept and are available
       reporting the names of the creditors present or represented and
       voting and the amounts of their claims; or (D) a bona fide trade
@@ -5177,7 +5274,7 @@
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
-    Aug. 1, 1991.)
+    Aug. 1, 1991; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -5312,12 +5409,24 @@
       The words "with the clerk" are deleted as unnecessary. See Rules
     5005(a) and 9001(3).
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadline in the rule is amended to substitute
+    a deadline that is a multiple of seven days. Throughout the rules,
+    deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 2007                                   01/05/2009
+    11 USC APPENDIX Rule 2007                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -5346,7 +5455,7 @@
       the Code and were present in person or represented at a meeting
       of which all creditors having unsecured claims of over $1,000 or
       the 100 unsecured creditors having the largest claims had at
-      least five days notice in writing, and of which meeting written
+      least seven days' notice in writing, and of which meeting written
       minutes reporting the names of the creditors present or
       represented and voting and the amounts of their claims were kept
       and are available for inspection;
@@ -5366,7 +5475,7 @@
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
-    Aug. 1, 1991.)
+    Aug. 1, 1991; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -5420,12 +5529,24 @@
     does not preclude judicial review under Rule 2020 regarding the
     appointment of other committees.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadline in the rule is amended to substitute
+    a deadline that is a multiple of seven days. Throughout the rules,
+    deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 2007.1                                 01/05/2009
+    11 USC APPENDIX Rule 2007.1                                 02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -5594,7 +5715,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2007.2                                 01/05/2009
+    11 USC APPENDIX Rule 2007.2                                 02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -5612,7 +5733,7 @@
     business, the court shall order the appointment of a patient care
     ombudsman under Sec. 333 of the Code, unless the court, on motion
     of the United States trustee or a party in interest filed no later
-    than 20 days after the commencement of the case or within another
+    than 21 days after the commencement of the case or within another
     time fixed by the court, finds that the appointment of a patient
     care ombudsman is not necessary under the specific circumstances of
     the case for the protection of patients.
@@ -5647,7 +5768,8 @@
     entities as the court may direct.
 
 -SOURCE-
-    (Added Apr. 23, 2008, eff. Dec. 1, 2008.)
+    (Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Mar. 26, 2009,
+    eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -5685,12 +5807,24 @@
       Changes Made After Publication. No changes were made after
     publication.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadline in the rule is amended to substitute
+    a deadline that is a multiple of seven days. Throughout the rules,
+    deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 2008                                   01/05/2009
+    11 USC APPENDIX Rule 2008                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -5708,16 +5842,16 @@
     pursuant to Rule 2010 and has been selected as trustee in a chapter
     7, chapter 12, or chapter 13 case that does not notify the court
     and the United States trustee in writing of rejection of the office
-    within five days after receipt of notice of selection shall be
+    within seven days after receipt of notice of selection shall be
     deemed to have accepted the office. Any other person selected as
     trustee shall notify the court and the United States trustee in
-    writing of acceptance of the office within five days after receipt
+    writing of acceptance of the office within seven days after receipt
     of notice of selection or shall be deemed to have rejected the
     office.
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
-    Aug. 1, 1991.)
+    Aug. 1, 1991; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -5746,12 +5880,24 @@
     when a trustee is either appointed or elected. This rule is also
     amended to provide for chapter 12 cases.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadline in the rule is amended to substitute
+    a deadline that is a multiple of seven days. Throughout the rules,
+    deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 2009                                   01/05/2009
+    11 USC APPENDIX Rule 2009                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -5793,7 +5939,7 @@
       (d) Potential Conflicts of Interest. On a showing that creditors
     or equity security holders of the different estates will be
     prejudiced by conflicts of interest of a common trustee who has
-    been selected or appointed, the court shall order the selection of
+    been elected or appointed, the court shall order the selection of
     separate trustees for estates being jointly administered.
       (e) Separate Accounts. The trustee or trustees of estates being
     jointly administered shall keep separate accounts of the property
@@ -5899,7 +6045,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2010                                   01/05/2009
+    11 USC APPENDIX Rule 2010                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -5974,7 +6120,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2011                                   01/05/2009
+    11 USC APPENDIX Rule 2011                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6021,7 +6167,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2012                                   01/05/2009
+    11 USC APPENDIX Rule 2012                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6094,7 +6240,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2013                                   01/05/2009
+    11 USC APPENDIX Rule 2013                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6185,7 +6331,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2014                                   01/05/2009
+    11 USC APPENDIX Rule 2014                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6280,7 +6426,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2015                                   01/05/2009
+    11 USC APPENDIX Rule 2015                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6331,7 +6477,7 @@
       month that follows the order for relief. If the order for relief
       is after the 15th day of a calendar month, the period for the
       remainder of the month shall be included in the report for the
-      next calendar month. Each report shall be filed no later than 20
+      next calendar month. Each report shall be filed no later than 21
       days after the last day of the calendar month following the month
       covered by the report. The obligation to file reports under this
       subparagraph terminates on the effective date of the plan, or
@@ -6362,7 +6508,7 @@
       (d) Foreign Representative. In a case in which the court has
     granted recognition of a foreign proceeding under chapter 15, the
     foreign representative shall file any notice required under Sec.
-    1518 of the Code within 15 days after the date when the
+    1518 of the Code within 14 days after the date when the
     representative becomes aware of the subsequent information.
       (e) Transmission of Reports. In a chapter 11 case the court may
     direct that copies or summaries of annual reports and copies or
@@ -6375,7 +6521,8 @@
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
     Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 29, 2002, eff.
-    Dec. 1, 2002; Apr.23, 2008, eff. Dec. 1, 2008.)
+    Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -6488,12 +6635,24 @@
       Changes Made After Publication. No changes were made after
     publication.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 2015.1                                 01/05/2009
+    11 USC APPENDIX Rule 2015.1                                 02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6505,7 +6664,7 @@
     Rule 2015.1. Patient Care Ombudsman
 
 -STATUTE-
-      (a) Reports. A patient care ombudsman, at least 10 days before
+      (a) Reports. A patient care ombudsman, at least 14 days before
     making a report under Sec. 333(b)(2) of the Code, shall give notice
     that the report will be made to the court, unless the court orders
     otherwise. The notice shall be transmitted to the United States
@@ -6522,7 +6681,7 @@
     and, if the report is in writing, the name, address, telephone
     number, email address, and website, if any, of the person from whom
     a copy of the report may be obtained at the debtor's expense.
-      (b) Authorization To Review Confidential Patient Records. A
+      (b) Authorization to Review Confidential Patient Records. A
     motion by a patient care ombudsman under Sec. 333(c) to review
     confidential patient records shall be governed by Rule 9014, served
     on the patient and any family member or other contact person whose
@@ -6531,10 +6690,11 @@
     care, and transmitted to the United States trustee subject to
     applicable nonbankruptcy law relating to patient privacy. Unless
     the court orders otherwise, a hearing on the motion may not be
-    commenced earlier than 15 days after service of the motion.
+    commenced earlier than 14 days after service of the motion.
 
 -SOURCE-
-    (Added Apr. 23, 2008, eff. Dec. 1, 2008.)
+    (Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Mar. 26, 2009,
+    eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -6573,12 +6733,24 @@
     sentence of subdivision (a). On line 19, the word "patient" was
     substituted for "health" to be consistent with the Code.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 2015.2                                 01/05/2009
+    11 USC APPENDIX Rule 2015.2                                 02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6593,15 +6765,16 @@
       Unless the court orders otherwise, if the debtor is a health care
     business, the trustee may not transfer a patient to another health
     care business under Sec. 704(a)(12) of the Code unless the trustee
-    gives at least 10 days' notice of the transfer to the patient care
+    gives at least 14 days' notice of the transfer to the patient care
     ombudsman, if any, the patient, and any family member or other
-    contact person whose name and address have been given to the
-    trustee or the debtor for the purpose of providing information
-    regarding the patient's health care. The notice is subject to
-    applicable nonbankruptcy law relating to patient privacy.
+    contact person whose name and address has been given to the trustee
+    or the debtor for the purpose of providing information regarding
+    the patient's health care. The notice is subject to applicable
+    nonbankruptcy law relating to patient privacy.
 
 -SOURCE-
-    (Added Apr. 23, 2008, eff. Dec. 1, 2008.)
+    (Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Mar. 26, 2009,
+    eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -6628,12 +6801,24 @@
       Changes Made After Publication. No changes were made after
     publication.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadline in the rule is amended to substitute
+    a deadline that is a multiple of seven days. Throughout the rules,
+    deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 2015.3                                 01/05/2009
+    11 USC APPENDIX Rule 2015.3                                 02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6656,7 +6841,7 @@
     information reasonably available to the trustee or debtor in
     possession.
       (b) Time for Filing; Service. The first report required by this
-    rule shall be filed no later than five days before the first date
+    rule shall be filed no later than seven days before the first date
     set for the meeting of creditors under Sec. 341 of the Code.
     Subsequent reports shall be filed no less frequently than every six
     months thereafter, until the effective date of a plan or the case
@@ -6698,7 +6883,8 @@
     rule shall not alter or stay the requirements of subdivision (a).
 
 -SOURCE-
-    (Added Apr. 23, 2008, eff. Dec. 1, 2008.)
+    (Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Mar. 26, 2009,
+    eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -6718,12 +6904,24 @@
     it is also consistent with the upcoming time computation
     amendments.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadline in the rule is amended to substitute
+    a deadline that is a multiple of seven days. Throughout the rules,
+    deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 2016                                   01/05/2009
+    11 USC APPENDIX Rule 2016                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6762,7 +6960,7 @@
       (b) Disclosure of Compensation Paid or Promised to Attorney for
     Debtor. Every attorney for a debtor, whether or not the attorney
     applies for compensation, shall file and transmit to the United
-    States trustee within 15 days after the order for relief, or at
+    States trustee within 14 days after the order for relief, or at
     another time as the court may direct, the statement required by
     Sec. 329 of the Code including whether the attorney has shared or
     agreed to share the compensation with any other entity. The
@@ -6771,25 +6969,26 @@
     agreement for the sharing of the compensation with a member or
     regular associate of the attorney's law firm shall not be required.
     A supplemental statement shall be filed and transmitted to the
-    United States trustee within 15 days after any payment or agreement
+    United States trustee within 14 days after any payment or agreement
     not previously disclosed.
       (c) Disclosure of Compensation Paid or Promised to Bankruptcy
-    Petition Preparer. Every bankruptcy petition preparer for a debtor
-    shall file a declaration under penalty of perjury and transmit the
-    declaration to the United States trustee within 10 days after the
-    date of the filing of the petition, or at another time as the court
-    may direct, as required by Sec. 110(h)(1). The declaration must
-    disclose any fee, and the source of any fee, received from or on
-    behalf of the debtor within 12 months of the filing of the case and
-    all unpaid fees charged to the debtor. The declaration must
-    describe the services performed and documents prepared or caused to
-    be prepared by the bankruptcy petition preparer. A supplemental
-    statement shall be filed within 10 days after any payment or
-    agreement not previously disclosed.
+    Petition Preparer. Before a petition is filed, every bankruptcy
+    petition preparer for a debtor shall deliver to the debtor, the
+    declaration under penalty of perjury required by Sec. 110(h)(2).
+    The declaration shall disclose any fee, and the source of any fee,
+    received from or on behalf of the debtor within 12 months of the
+    filing of the case and all unpaid fees charged to the debtor. The
+    declaration shall also describe the services performed and
+    documents prepared or caused to be prepared by the bankruptcy
+    petition preparer. The declaration shall be filed with the
+    petition. The petition preparer shall file a supplemental statement
+    within 14 days after any payment or agreement not previously
+    disclosed.
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
-    Aug. 1, 1991; Mar. 27, 2003, eff. Dec. 1, 2003.)
+    Aug. 1, 1991; Mar. 27, 2003, eff. Dec. 1, 2003; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -6846,12 +7045,33 @@
       Changes Made After Publication and Comments. No changes since
     publication.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadline in the rule is amended to substitute
+    a deadline that is a multiple of seven days. Throughout the rules,
+    deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+      Subdivision (c) is amended to reflect the 2005 amendment to Sec.
+    110(h)(1) of the Bankruptcy Code which now requires that the
+    declaration be filed with the petition. The statute previously
+    required that the petition preparer file the declaration within 10
+    days after the filing of the petition. The amendment to the rule
+    also corrects the cross reference to Sec. 110(h)(1), which was
+    redesignated as subparagraph (h)(2) of Sec. 110 by the 2005
+    amendment to the Code.
+      Other changes are stylistic.
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 2017                                   01/05/2009
+    11 USC APPENDIX Rule 2017                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6875,7 +7095,7 @@
       (b) Payment or Transfer to Attorney After Order for Relief. On
     motion by the debtor, the United States trustee, or on the court's
     own initiative, the court after notice and a hearing may determine
-    whether any payment of money or any transfer of property or any
+    whether any payment of money or any transfer of property, or any
     agreement therefor, by the debtor to an attorney after entry of an
     order for relief in a case under the Code is excessive, whether the
     payment or transfer is made or is to be made directly or
@@ -6933,7 +7153,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2018                                   01/05/2009
+    11 USC APPENDIX Rule 2018                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -7045,7 +7265,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2019                                   01/05/2009
+    11 USC APPENDIX Rule 2019                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -7136,7 +7356,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2020                                   01/05/2009
+    11 USC APPENDIX Rule 2020                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -7185,7 +7405,7 @@
 -CITE-
     11 USC APPENDIX PART III - CLAIMS AND
            DISTRIBUTION TO CREDITORS AND EQUITY
-           INTEREST HOLDERS; PLANS                         01/05/2009
+           INTEREST HOLDERS; PLANS                         02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -7202,7 +7422,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3001                                   01/05/2009
+    11 USC APPENDIX Rule 3001                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -7235,14 +7455,14 @@
       Filed. If a claim has been transferred other than for security
       before proof of the claim has been filed, the proof of claim may
       be filed only by the transferee or an indenture trustee.
-        (2) Transfer of Claim Other Than for Security After Proof
+        (2) Transfer of Claim Other than for Security after Proof
       Filed. If a claim other than one based on a publicly traded note,
       bond, or debenture has been transferred other than for security
       after the proof of claim has been filed, evidence of the transfer
       shall be filed by the transferee. The clerk shall immediately
       notify the alleged transferor by mail of the filing of the
       evidence of transfer and that objection thereto, if any, must be
-      filed within 20 days of the mailing of the notice or within any
+      filed within 21 days of the mailing of the notice or within any
       additional time allowed by the court. If the alleged transferor
       files a timely objection and the court finds, after notice and a
       hearing, that the claim has been transferred other than for
@@ -7266,14 +7486,14 @@
       administration of the estate, on motion by a party in interest
       and after notice and a hearing, the court shall enter such orders
       respecting these matters as may be appropriate.
-        (4) Transfer of Claim for Security After Proof Filed. If a
+        (4) Transfer of Claim for Security after Proof Filed. If a
       claim other than one based on a publicly traded note, bond, or
       debenture has been transferred for security after the proof of
       claim has been filed, evidence of the terms of the transfer shall
       be filed by the transferee. The clerk shall immediately notify
       the alleged transferor by mail of the filing of the evidence of
       transfer and that objection thereto, if any, must be filed within
-      20 days of the mailing of the notice or within any additional
+      21 days of the mailing of the notice or within any additional
       time allowed by the court. If a timely objection is filed by the
       alleged transferor, the court, after notice and a hearing, shall
       determine whether the claim has been transferred for security. If
@@ -7304,7 +7524,8 @@
 
 -SOURCE-
     (As amended Pub. L. 98-353, title III, Sec. 354, July 10, 1984, 98
-    Stat. 361; Apr. 30, 1991, eff. Aug. 1, 1991.)
+    Stat. 361; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -7401,6 +7622,18 @@
       The words "with the clerk" in subdivision (e)(2) and (e)(4) are
     deleted as unnecessary. See Rules 5005(a) and 9001(3).
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -REFTEXT-
                             REFERENCES IN TEXT                        
       The United States Warehouse Act, referred to in subd. (g), is
@@ -7429,7 +7662,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3002                                   01/05/2009
+    11 USC APPENDIX Rule 3002                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -7667,7 +7900,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3003                                   01/05/2009
+    11 USC APPENDIX Rule 3003                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -7791,7 +8024,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3004                                   01/05/2009
+    11 USC APPENDIX Rule 3004                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -7904,7 +8137,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3005                                   01/05/2009
+    11 USC APPENDIX Rule 3005                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -7988,7 +8221,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3006                                   01/05/2009
+    11 USC APPENDIX Rule 3006                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8094,7 +8327,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3007                                   01/05/2009
+    11 USC APPENDIX Rule 3007                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8291,7 +8524,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3008                                   01/05/2009
+    11 USC APPENDIX Rule 3008                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8361,7 +8594,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3009                                   01/05/2009
+    11 USC APPENDIX Rule 3009                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8421,7 +8654,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3010                                   01/05/2009
+    11 USC APPENDIX Rule 3010                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8479,7 +8712,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3011                                   01/05/2009
+    11 USC APPENDIX Rule 3011                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8526,7 +8759,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3012                                   01/05/2009
+    11 USC APPENDIX Rule 3012                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8571,7 +8804,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3013                                   01/05/2009
+    11 USC APPENDIX Rule 3013                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8610,7 +8843,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3014                                   01/05/2009
+    11 USC APPENDIX Rule 3014                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8693,7 +8926,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3015                                   01/05/2009
+    11 USC APPENDIX Rule 3015                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8712,10 +8945,10 @@
     filed within the time prescribed by Sec. 1221 of the Code.
       (b) Chapter 13 Plan. The debtor may file a chapter 13 plan with
     the petition. If a plan is not filed with the petition, it shall be
-    filed within 15 days thereafter, and such time may not be further
+    filed within 14 days thereafter, and such time may not be further
     extended except for cause shown and on notice as the court may
     direct. If a case is converted to chapter 13, a plan shall be filed
-    within 15 days thereafter, and such time may not be further
+    within 14 days thereafter, and such time may not be further
     extended except for cause shown and on notice as the court may
     direct.
       (c) Dating. Every proposed plan and any modification thereof
@@ -8743,7 +8976,7 @@
     identify the proponent and shall be filed together with the
     proposed modification. The clerk, or some other person as the court
     may direct, shall give the debtor, the trustee, and all creditors
-    not less than 20 days notice by mail of the time fixed for filing
+    not less than 21 days' notice by mail of the time fixed for filing
     objections and, if an objection is filed, the hearing to consider
     the proposed modification, unless the court orders otherwise with
     respect to creditors who are not affected by the proposed
@@ -8760,7 +8993,7 @@
 
 -SOURCE-
     (As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff.
-    Aug. 1, 1993.)
+    Aug. 1, 1993; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -8817,12 +9050,24 @@
       Amendments to the title of this rule are stylistic and make no
     substantive change.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 3016                                   01/05/2009
+    11 USC APPENDIX Rule 3016                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -9003,7 +9248,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3017                                   01/05/2009
+    11 USC APPENDIX Rule 3017                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -9019,13 +9264,13 @@
       (a) Hearing on Disclosure Statement and Objections. Except as
     provided in Rule 3017.1, after a disclosure statement is filed in
     accordance with Rule 3016(b), the court shall hold a hearing on at
-    least 25 days' notice to the debtor, creditors, equity security
+    least 28 days' notice to the debtor, creditors, equity security
     holders and other parties in interest as provided in Rule 2002 to
     consider the disclosure statement and any objections or
     modifications thereto. The plan and the disclosure statement shall
     be mailed with the notice of the hearing only to the debtor, any
     trustee or committee appointed under the Code, the Securities and
-    Exchange Commission, and any party in interest who requests in
+    Exchange Commission and any party in interest who requests in
     writing a copy of the statement or plan. Objections to the
     disclosure statement shall be filed and served on the debtor, the
     trustee, any committee appointed under the Code, and any other
@@ -9093,7 +9338,7 @@
     that would be subject to the injunction is not a creditor or equity
     security holder, at the hearing held under Rule 3017(a), the court
     shall consider procedures for providing the entity with:
-        (1) at least 25 days' notice of the time fixed for filing
+        (1) at least 28 days' notice of the time fixed for filing
       objections and the hearing on confirmation of the plan containing
       the information described in Rule 2002(c)(3); and
         (2) to the extent feasible, a copy of the plan and disclosure
@@ -9102,7 +9347,7 @@
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
     Aug. 1, 1991; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 23, 2001, eff.
-    Dec. 1, 2001.)
+    Dec. 1, 2001; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -9261,6 +9506,18 @@
     statement that the rule does not address related substantive law
     issues which are beyond the scope of the rules.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -FOOTNOTE-
     (!1) So in original. The comma probably should not appear.
 
@@ -9270,7 +9527,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3017.1                                 01/05/2009
+    11 USC APPENDIX Rule 3017.1                                 02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -9354,7 +9611,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3018                                   01/05/2009
+    11 USC APPENDIX Rule 3018                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -9517,7 +9774,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3019                                   01/05/2009
+    11 USC APPENDIX Rule 3019                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -9546,7 +9803,7 @@
     request shall identify the proponent and shall be filed together
     with the proposed modification. The clerk, or some other person as
     the court may direct, shall give the debtor, the trustee, and all
-    creditors not less than 20 days' notice by mail of the time fixed
+    creditors not less than 21 days' notice by mail of the time fixed
     to file objections and, if an objection is filed, the hearing to
     consider the proposed modification, unless the court orders
     otherwise with respect to creditors who are not affected by the
@@ -9559,7 +9816,8 @@
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 22, 1993, eff.
-    Aug. 1, 1993; Apr. 23, 2008, eff. Dec. 1, 2008.)
+    Aug. 1, 1993; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -9596,12 +9854,24 @@
     the 2005 amendments to the Bankruptcy Code consistent with their
     identification in other Committee Notes.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadline in the rule is amended to substitute
+    a deadline that is a multiple of seven days. Throughout the rules,
+    deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 3020                                   01/05/2009
+    11 USC APPENDIX Rule 3020                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -9657,13 +9927,14 @@
     confirmation, the court may issue any other order necessary to
     administer the estate.
       (e) Stay of Confirmation Order. An order confirming a plan is
-    stayed until the expiration of 10 days after the entry of the
+    stayed until the expiration of 14 days after the entry of the
     order, unless the court orders otherwise.
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
     Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 26, 1999, eff.
-    Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001.)
+    Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -9760,12 +10031,24 @@
     validity and effect of injunctions provided for in plans is beyond
     the scope of the rules.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadline in the rule is amended to substitute
+    a deadline that is a multiple of seven days. Throughout the rules,
+    deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 3021                                   01/05/2009
+    11 USC APPENDIX Rule 3021                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -9828,7 +10111,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3022                                   01/05/2009
+    11 USC APPENDIX Rule 3022                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -9889,7 +10172,7 @@
 
 -CITE-
     11 USC APPENDIX PART IV - THE DEBTOR: DUTIES AND
-           BENEFITS                                        01/05/2009
+           BENEFITS                                        02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -9904,7 +10187,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 4001                                   01/05/2009
+    11 USC APPENDIX Rule 4001                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -9953,7 +10236,7 @@
       proceed expeditiously to hear and determine the motion.
         (3) Stay of Order. An order granting a motion for relief from
       an automatic stay made in accordance with Rule 4001(a)(1) is
-      stayed until the expiration of 10 days after the entry of the
+      stayed until the expiration of 14 days after the entry of the
       order, unless the court orders otherwise.
 
       (b) Use of Cash Collateral.
@@ -9987,9 +10270,9 @@
         1007(d); and (3) any other entity that the court directs.
 
         (2) Hearing. The court may commence a final hearing on a motion
-      for authorization to use cash collateral no earlier than 15 days
+      for authorization to use cash collateral no earlier than 14 days
       after service of the motion. If the motion so requests, the court
-      may conduct a preliminary hearing before such 15 day period
+      may conduct a preliminary hearing before such 14-day period
       expires, but the court may authorize the use of only that amount
       of cash collateral as is necessary to avoid immediate and
       irreparable harm to the estate pending a final hearing.
@@ -10066,9 +10349,9 @@
         1007(d); and (2) on any other entity that the court directs.
 
         (2) Hearing. The court may commence a final hearing on a motion
-      for authority to obtain credit no earlier than 15 days after
+      for authority to obtain credit no earlier than 14 days after
       service of the motion. If the motion so requests, the court may
-      conduct a hearing before such 15 day period expires, but the
+      conduct a hearing before such 14-day period expires, but the
       court may authorize the obtaining of credit only to the extent
       necessary to avoid immediate and irreparable harm to the estate
       pending a final hearing.
@@ -10141,7 +10424,7 @@
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
     Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 30, 2007; eff.
-    Dec. 1, 2007.)
+    Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -10379,6 +10662,18 @@
         4. Subdivision (d)(1)(A) was restyled to form a vertical list
       of the motions subject to that provision.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -FOOTNOTE-
     (!1) So in original. Probably should be only one section symbol.
 
@@ -10388,7 +10683,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 4002                                   01/05/2009
+    11 USC APPENDIX Rule 4002                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -10449,7 +10744,7 @@
       provide a written statement that the documentation does not
       exist.
         (4) Tax Returns Provided to Creditors. If a creditor, at least
-      15 days before the first date set for the meeting of creditors
+      14 days before the first date set for the meeting of creditors
       under Sec. 341, requests a copy of the debtor's tax return that
       is to be provided to the trustee under subdivision (b)(3), the
       debtor, at least 7 days before the first date set for the meeting
@@ -10465,7 +10760,7 @@
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff.
-    Dec. 1 2008.)
+    Dec. 1 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -10531,12 +10826,24 @@
     different standard than the debtor's duty to provide other
     financial information.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadline in the rule is amended to substitute
+    a deadline that is a multiple of seven days. Throughout the rules,
+    deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 4003                                   01/05/2009
+    11 USC APPENDIX Rule 4003                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -10695,7 +11002,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 4004                                   01/05/2009
+    11 USC APPENDIX Rule 4004                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -10712,9 +11019,9 @@
     filed no later than 60 days after the first date set for the
     meeting of creditors under Sec. 341(a). In a chapter 11
     reorganization case, the complaint shall be filed no later than the
-    first date set for the hearing on confirmation. At least 25 days'
+    first date set for the hearing on confirmation. At least 28 days'
     notice of the time so fixed shall be given to the United States
-    trustee and all creditors as provided in Rule 2002(f) and (k), and
+    trustee and all creditors as provided in Rule 2002(f) and (k) and
     to the trustee and the trustee's attorney.
       (b) Extension of Time. On motion of any party in interest, after
     hearing on notice, the court may for cause extend the time to file
@@ -10779,7 +11086,8 @@
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
     Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff.
     Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff.
-    Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008.)
+    Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -10941,12 +11249,24 @@
       Changes Made After Publication. No changes were made after
     publication.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadline in the rule is amended to substitute
+    a deadline that is a multiple of seven days. Throughout the rules,
+    deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 4005                                   01/05/2009
+    11 USC APPENDIX Rule 4005                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -10984,7 +11304,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 4006                                   01/05/2009
+    11 USC APPENDIX Rule 4006                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -11038,7 +11358,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 4007                                   01/05/2009
+    11 USC APPENDIX Rule 4007                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -11171,7 +11491,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 4008                                   01/05/2009
+    11 USC APPENDIX Rule 4008                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -11185,7 +11505,9 @@
 -STATUTE-
       (a) Filing of Reaffirmation Agreement. A reaffirmation agreement
     shall be filed no later than 60 days after the first date set for
-    the meeting of creditors under Sec. 341(a) of the Code. The court
+    the meeting of creditors under Sec. 341(a) of the Code. The
+    reaffirmation agreement shall be accompanied by a cover sheet,
+    prepared as prescribed by the appropriate Official Form. The court
     may, at any time and in its discretion, enlarge the time to file a
     reaffirmation agreement.
       (b) Statement in Support of Reaffirmation Agreement. The debtor's
@@ -11198,7 +11520,7 @@
 
 -SOURCE-
     (As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff.
-    Dec. 1, 2008.)
+    Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -11260,11 +11582,20 @@
       Changes Made After Publication. The only change was stylistic.
     The phrase "of the Code" was added to subdivision (b).
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      Subdivision (a) of the rule is amended to require that the entity
+    filing the reaffirmation agreement with the court also include
+    Official Form 27, the Reaffirmation Agreement Cover Sheet. The form
+    includes information necessary for the court to determine whether
+    the proposed reaffirmation agreement is presumed to be an undue
+    hardship for the debtor under Sec. 524(m) of the Code.
+      Changes Made After Publication. No changes since publication.
+
 -End-
 
 
 -CITE-
-    11 USC APPENDIX PART V - COURTS AND CLERKS                  01/05/2009
+    11 USC APPENDIX PART V - COURTS AND CLERKS                  02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -11279,7 +11610,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5001                                   01/05/2009
+    11 USC APPENDIX Rule 5001                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -11346,7 +11677,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5002                                   01/05/2009
+    11 USC APPENDIX Rule 5002                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -11567,7 +11898,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5003                                   01/05/2009
+    11 USC APPENDIX Rule 5003                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -11723,7 +12054,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5004                                   01/05/2009
+    11 USC APPENDIX Rule 5004                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -11737,8 +12068,9 @@
       (a) Disqualification of Judge. A bankruptcy judge shall be
     governed by 28 U.S.C. Sec. 455, and disqualified from presiding
     over the proceeding or contested matter in which the disqualifying
-    circumstance arises or, if appropriate, shall be disqualified from
-    presiding over the case.
+    circumstances (!1) arises or, if appropriate, shall be disqualified
+    from presiding over the case.
+
       (b) Disqualification of Judge from Allowing Compensation. A
     bankruptcy judge shall be disqualified from allowing compensation
     to a person who is a relative of the bankruptcy judge or with whom
@@ -11803,12 +12135,16 @@
     before whom the matter is pending determines whether
     disqualification is required.
 
+-FOOTNOTE-
+    (!1) So in original. Probably should be "circumstance".
+
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 5005                                   01/05/2009
+    11 USC APPENDIX Rule 5005                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12056,7 +12392,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5006                                   01/05/2009
+    11 USC APPENDIX Rule 5006                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12091,7 +12427,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5007                                   01/05/2009
+    11 USC APPENDIX Rule 5007                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12143,7 +12479,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5008                                   01/05/2009
+    11 USC APPENDIX Rule 5008                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12200,7 +12536,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5009                                   01/05/2009
+    11 USC APPENDIX Rule 5009                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12252,7 +12588,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5010                                   01/05/2009
+    11 USC APPENDIX Rule 5010                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12266,8 +12602,8 @@
       A case may be reopened on motion of the debtor or other party in
     interest pursuant to Sec. 350(b) of the Code. In a chapter 7, 12,
     or 13 case a trustee shall not be appointed by the United States
-    trustee unless the court determines that a trustee is not necessary
-    to protect the interests of creditors and the debtor or to insure
+    trustee unless the court determines that a trustee is necessary to
+    protect the interests of creditors and the debtor or to insure
     efficient administration of the case.
 
 -SOURCE-
@@ -12312,7 +12648,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5011                                   01/05/2009
+    11 USC APPENDIX Rule 5011                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12398,7 +12734,7 @@
 
 -CITE-
     11 USC APPENDIX PART VI - COLLECTION AND
-           LIQUIDATION OF THE ESTATE                       01/05/2009
+           LIQUIDATION OF THE ESTATE                       02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12413,7 +12749,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 6001                                   01/05/2009
+    11 USC APPENDIX Rule 6001                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12421,7 +12757,7 @@
     PART VI - COLLECTION AND LIQUIDATION OF THE ESTATE
 
 -HEAD-
-    Rule 6001. Burden of Proof As to Validity of Post Petition Transfer
+    Rule 6001. Burden of Proof As to Validity of Postpetition Transfer
 
 -STATUTE-
       Any entity asserting the validity of a transfer under Sec. 549 of
@@ -12443,7 +12779,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 6002                                   01/05/2009
+    11 USC APPENDIX Rule 6002                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12510,7 +12846,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 6003                                   01/05/2009
+    11 USC APPENDIX Rule 6003                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12525,7 +12861,7 @@
 
 -STATUTE-
       Except to the extent that relief is necessary to avoid immediate
-    and irreparable harm, the court shall not, within 20 days after the
+    and irreparable harm, the court shall not, within 21 days after the
     filing of the petition, grant relief regarding the following:
         (a) an application under Rule 2014;
         (b) a motion to use, sell, lease, or otherwise incur an
@@ -12536,7 +12872,8 @@
       unexpired lease in accordance with Sec. 365.
 
 -SOURCE-
-    (Added Apr. 30, 2007; eff. Dec. 1, 2007.)
+    (Added Apr. 30, 2007; eff. Dec. 1, 2007; amended Mar. 26, 2009,
+    eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -12547,7 +12884,7 @@
     Use of estate funds by a trustee or debtor in possession is
     governed by Sec. 363 of the Code.
 
-                 COMMITTEE NOTES ON RULES - 2007 AMENDMENT             
+                      COMMITTEE NOTES ON RULES - 2007                  
       There can be a flurry of activity during the first days of a
     bankruptcy case. This activity frequently takes place prior to the
     formation of a creditors' committee, and it also can include
@@ -12573,12 +12910,24 @@
     assumption or assignment of executory contracts or unexpired leases
     in that subdivision.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadline in the rule is amended to substitute
+    a deadline that is a multiple of seven days. Throughout the rules,
+    deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 6004                                   01/05/2009
+    11 USC APPENDIX Rule 6004                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12596,8 +12945,8 @@
     applicable, in accordance with Sec. 363(b)(2) of the Code.
       (b) Objection to Proposal. Except as provided in subdivisions (c)
     and (d) of this rule, an objection to a proposed use, sale, or
-    lease of property shall be filed and served not less than five days
-    before the date set for the proposed action or within the time
+    lease of property shall be filed and served not less than seven
+    days before the date set for the proposed action or within the time
     fixed by the court. An objection to the proposed use, sale, or
     lease of property is governed by Rule 9014.
       (c) Sale Free and Clear of Liens and Other Interests. A motion
@@ -12616,7 +12965,7 @@
     indenture trustees, committees appointed or elected pursuant to the
     Code, the United States trustee and other persons as the court may
     direct. An objection to any such sale may be filed and served by a
-    party in interest within 15 days of the mailing of the notice, or
+    party in interest within 14 days of the mailing of the notice, or
     within the time fixed by the court. An objection is governed by
     Rule 9014.
       (e) Hearing. If a timely objection is made pursuant to
@@ -12655,25 +13004,25 @@
       direct. The motion shall be transmitted to the United States
       trustee.
         (2) Appointment. If a consumer privacy ombudsman is appointed
-      under Sec. 332, no later than 5 days before the hearing on the
-      motion under Sec. 363(b)(1)(B), the United States trustee shall
-      file a notice of the appointment, including the name and address
-      of the person appointed. The United States trustee's notice shall
-      be accompanied by a verified statement of the person appointed
-      setting forth the person's connections with the debtor,
+      under Sec. 332, no later than seven days before the hearing on
+      the motion under Sec. 363(b)(1)(B), the United States trustee
+      shall file a notice of the appointment, including the name and
+      address of the person appointed. The United States trustee's
+      notice shall be accompanied by a verified statement of the person
+      appointed setting forth the person's connections with the debtor,
       creditors, any other party in interest, their respective
       attorneys and accountants, the United States trustee, or any
       person employed in the office of the United States trustee.
 
       (h) Stay of Order Authorizing Use, Sale, or Lease of Property. An
     order authorizing the use, sale, or lease of property other than
-    cash collateral is stayed until the expiration of 10 days after
+    cash collateral is stayed until the expiration of 14 days after
     entry of the order, unless the court orders otherwise.
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
     Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2008, eff.
-    Dec. 1, 2008.)
+    Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -12805,12 +13154,24 @@
     consumer privacy ombudsman to seek a continuance of a hearing on
     the proposed sale of personally identifiable information.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 6005                                   01/05/2009
+    11 USC APPENDIX Rule 6005                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12855,7 +13216,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 6006                                   01/05/2009
+    11 USC APPENDIX Rule 6006                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12884,7 +13245,7 @@
     States trustee.
       (d) Stay of Order Authorizing Assignment. An order authorizing
     the trustee to assign an executory contract or unexpired lease
-    under Sec. 365(f) is stayed until the expiration of 10 days after
+    under Sec. 365(f) is stayed until the expiration of 14 days after
     the entry of the order, unless the court orders otherwise.
       (e) Limitations. The trustee shall not seek authority to assume
     or assign multiple executory contracts or unexpired leases in one
@@ -12924,7 +13285,8 @@
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
     Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 26, 1999, eff.
-    Dec. 1, 1999; Apr. 30 2007; eff. Dec. 1, 2007.)
+    Dec. 1, 1999; Apr. 30 2007; eff. Dec. 1, 2007; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -13048,12 +13410,24 @@
     list of categories was numbered, and the new category is set out in
     (e)(2).
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadline in the rule is amended to substitute
+    a deadline that is a multiple of seven days. Throughout the rules,
+    deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 6007                                   01/05/2009
+    11 USC APPENDIX Rule 6007                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13070,7 +13444,7 @@
     disposition of property to the United States trustee, all
     creditors, indenture trustees, and committees elected pursuant to
     Sec. 705 or appointed pursuant to Sec. 1102 of the Code. A party in
-    interest may file and serve an objection within 15 days of the
+    interest may file and serve an objection within 14 days of the
     mailing of the notice, or within the time fixed by the court. If a
     timely objection is made, the court shall set a hearing on notice
     to the United States trustee and to other entities as the court may
@@ -13082,7 +13456,8 @@
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
-    Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993.)
+    Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -13136,12 +13511,24 @@
     Rule 9014. Other amendments are stylistic and make no substantive
     change.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadline in the rule is amended to substitute
+    a deadline that is a multiple of seven days. Throughout the rules,
+    deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 6008                                   01/05/2009
+    11 USC APPENDIX Rule 6008                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13174,7 +13561,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 6009                                   01/05/2009
+    11 USC APPENDIX Rule 6009                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13202,7 +13589,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 6010                                   01/05/2009
+    11 USC APPENDIX Rule 6010                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13241,7 +13628,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 6011                                   01/05/2009
+    11 USC APPENDIX Rule 6011                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13339,7 +13726,7 @@
 
 
 -CITE-
-    11 USC APPENDIX PART VII - ADVERSARY PROCEEDINGS            01/05/2009
+    11 USC APPENDIX PART VII - ADVERSARY PROCEEDINGS            02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13354,7 +13741,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7001                                   01/05/2009
+    11 USC APPENDIX Rule 7001                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13518,7 +13905,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7002                                   01/05/2009
+    11 USC APPENDIX Rule 7002                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13567,7 +13954,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7003                                   01/05/2009
+    11 USC APPENDIX Rule 7003                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13599,7 +13986,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7004                                   01/05/2009
+    11 USC APPENDIX Rule 7004                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13726,9 +14113,9 @@
       (e) Summons: Time Limit for Service Within the United States.
     Service made under Rule 4(e), (g), (h)(1), (i), or (j)(2)
     F.R.Civ.P. shall be by delivery of the summons and complaint within
-    10 days after the summons is issued. If service is by any
+    14 days after the summons is issued. If service is by any
     authorized form of mail, the summons and complaint shall be
-    deposited in the mail within 10 days after the summons is issued.
+    deposited in the mail within 14 days after the summons is issued.
     If a summons is not timely delivered or mailed, another summons
     shall be issued and served. This subdivision does not apply to
     service in a foreign country.
@@ -13764,7 +14151,7 @@
     Aug. 1, 1991; Pub. L. 103-394, title I, Sec. 114, Oct. 22, 1994,
     108 Stat. 4118; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999,
     eff. Dec. 1, 1999; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006,
-    eff. Dec. 1, 2006.)
+    eff. Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -14090,6 +14477,18 @@
     Committee believes that the additional explanation in the Committee
     Note is appropriate.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -REFTEXT-
                             REFERENCES IN TEXT                        
       The Federal Rules of Civil Procedure, referred to in text, are
@@ -14118,7 +14517,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7005                                   01/05/2009
+    11 USC APPENDIX Rule 7005                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14149,7 +14548,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7007                                   01/05/2009
+    11 USC APPENDIX Rule 7007                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14173,7 +14572,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7007.1                                 01/05/2009
+    11 USC APPENDIX Rule 7007.1                                 02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14204,7 +14603,7 @@
 
 
 -MISC1-
-                 COMMITTEE NOTES ON RULES - 2003 AMENDMENT             
+                      COMMITTEE NOTES ON RULES - 2003                  
       This rule is derived from Rule 26.1 of the Federal Rules of
     Appellate Procedure. The information that parties shall supply will
     support properly informed disqualification decisions in situations
@@ -14247,7 +14646,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7008                                   01/05/2009
+    11 USC APPENDIX Rule 7008                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14308,7 +14707,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7009                                   01/05/2009
+    11 USC APPENDIX Rule 7009                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14332,7 +14731,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7010                                   01/05/2009
+    11 USC APPENDIX Rule 7010                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14367,7 +14766,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7012                                   01/05/2009
+    11 USC APPENDIX Rule 7012                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14385,10 +14784,10 @@
     The court shall prescribe the time for service of the answer when
     service of a complaint is made by publication or upon a party in a
     foreign country. A party served with a pleading stating a cross-
-    claim shall serve an answer thereto within 20 days after service.
+    claim shall serve an answer thereto within 21 days after service.
     The plaintiff shall serve a reply to a counterclaim in the answer
-    within 20 days after service of the answer or, if a reply is
-    ordered by the court, within 20 days after service of the order,
+    within 21 days after service of the answer or, if a reply is
+    ordered by the court, within 21 days after service of the order,
     unless the order otherwise directs. The United States or an officer
     or agency thereof shall serve an answer to a complaint within 35
     days after the issuance of the summons, and shall serve an answer
@@ -14398,10 +14797,10 @@
     under this rule alters these periods of time as follows, unless a
     different time is fixed by order of the court: (1) if the court
     denies the motion or postpones its disposition until the trial on
-    the merits, the responsive pleading shall be served within 10 days
+    the merits, the responsive pleading shall be served within 14 days
     after notice of the court's action; (2) if the court grants a
     motion for a more definite statement, the responsive pleading shall
-    be served within 10 days after the service of a more definite
+    be served within 14 days after the service of a more definite
     statement.
       (b) Applicability of Rule 12(b)-(i) F.R.Civ.P. Rule 12(b)-(i)
     F.R.Civ.P. applies in adversary proceedings. A responsive pleading
@@ -14415,7 +14814,7 @@
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff.
-    Dec. 1, 2008.)
+    Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -14443,6 +14842,18 @@
     Rules of Civil Procedure through the restyling of those rules
     effective on December 1, 2007.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -REFTEXT-
                             REFERENCES IN TEXT                        
       The Federal Rules of Civil Procedure, referred to in subd. (b),
@@ -14454,7 +14865,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7013                                   01/05/2009
+    11 USC APPENDIX Rule 7013                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14496,7 +14907,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7014                                   01/05/2009
+    11 USC APPENDIX Rule 7014                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14532,7 +14943,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7015                                   01/05/2009
+    11 USC APPENDIX Rule 7015                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14556,7 +14967,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7016                                   01/05/2009
+    11 USC APPENDIX Rule 7016                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14580,7 +14991,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7017                                   01/05/2009
+    11 USC APPENDIX Rule 7017                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14619,7 +15030,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7018                                   01/05/2009
+    11 USC APPENDIX Rule 7018                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14643,7 +15054,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7019                                   01/05/2009
+    11 USC APPENDIX Rule 7019                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14695,7 +15106,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7020                                   01/05/2009
+    11 USC APPENDIX Rule 7020                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14719,7 +15130,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7021                                   01/05/2009
+    11 USC APPENDIX Rule 7021                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14743,7 +15154,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7022                                   01/05/2009
+    11 USC APPENDIX Rule 7022                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14779,7 +15190,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7023                                   01/05/2009
+    11 USC APPENDIX Rule 7023                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14803,7 +15214,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7023.1                                 01/05/2009
+    11 USC APPENDIX Rule 7023.1                                 02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14837,7 +15248,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7023.2                                 01/05/2009
+    11 USC APPENDIX Rule 7023.2                                 02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14862,7 +15273,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7024                                   01/05/2009
+    11 USC APPENDIX Rule 7024                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14896,7 +15307,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7025                                   01/05/2009
+    11 USC APPENDIX Rule 7025                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14928,7 +15339,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7026                                   01/05/2009
+    11 USC APPENDIX Rule 7026                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14952,7 +15363,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7027                                   01/05/2009
+    11 USC APPENDIX Rule 7027                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14984,7 +15395,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7028                                   01/05/2009
+    11 USC APPENDIX Rule 7028                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15008,7 +15419,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7029                                   01/05/2009
+    11 USC APPENDIX Rule 7029                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15032,7 +15443,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7030                                   01/05/2009
+    11 USC APPENDIX Rule 7030                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15063,7 +15474,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7031                                   01/05/2009
+    11 USC APPENDIX Rule 7031                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15087,7 +15498,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7032                                   01/05/2009
+    11 USC APPENDIX Rule 7032                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15111,7 +15522,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7033                                   01/05/2009
+    11 USC APPENDIX Rule 7033                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15135,7 +15546,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7034                                   01/05/2009
+    11 USC APPENDIX Rule 7034                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15160,7 +15571,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7035                                   01/05/2009
+    11 USC APPENDIX Rule 7035                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15184,7 +15595,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7036                                   01/05/2009
+    11 USC APPENDIX Rule 7036                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15208,7 +15619,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7037                                   01/05/2009
+    11 USC APPENDIX Rule 7037                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15232,7 +15643,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7040                                   01/05/2009
+    11 USC APPENDIX Rule 7040                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15256,7 +15667,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7041                                   01/05/2009
+    11 USC APPENDIX Rule 7041                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15315,7 +15726,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7042                                   01/05/2009
+    11 USC APPENDIX Rule 7042                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15339,7 +15750,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7052                                   01/05/2009
+    11 USC APPENDIX Rule 7052                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15350,7 +15761,16 @@
     Rule 7052. Findings by the Court
 
 -STATUTE-
-      Rule 52 F.R.Civ.P. applies in adversary proceedings.
+      Rule 52 F.R.Civ.P. applies in adversary proceedings, except that
+    any motion under subdivision (b) of that rule for amended or
+    additional findings shall be filed no later than 14 days after
+    entry of judgment. In these proceedings, the reference in Rule 52
+    F.R.Civ.P. to the entry of judgment under Rule 58 F.R.Civ.P. shall
+    be read as a reference to the entry of a judgment or order under
+    Rule 5003(a).
+
+-SOURCE-
+    (As amended Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -15358,6 +15778,24 @@
       Rule 52(a) F.R.Civ.P. refers to Rule 12 F.R.Civ.P. Pursuant to
     Rule 7002 this reference is to Rule 12 F.R.Civ.P. as incorporated
     and modified by Rule 7012.
+
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended by limiting the time for filing post judgment
+    motions for amended or additional findings. In 2009, Rule 52 F. R.
+    Civ. P. was amended to extend the deadline for filing those post
+    judgment motions to no later than 28 days after entry of the
+    judgment. That deadline corresponds to the 30-day deadline for
+    filing a notice of appeal in a civil case under Rule 4(a)(1)(A) F.
+    R. App. P. In a bankruptcy case, the deadline for filing a notice
+    of appeal is 14 days. Therefore, the 28-day deadline for filing a
+    motion for amended or additional findings would effectively
+    override the notice of appeal deadline under Rule 8002(a) but for
+    this amendment.
+      The rule is amended to clarify that the reference in Rule 52 F.
+    R. Civ. P. to Rule 58 F. R. Civ. P. and its provisions is construed
+    as a reference to the entry of a judgment or order under Rule
+    5003(a).
+      Changes Made After Publication. No changes since publication.
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -15370,7 +15808,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7054                                   01/05/2009
+    11 USC APPENDIX Rule 7054                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15402,7 +15840,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7055                                   01/05/2009
+    11 USC APPENDIX Rule 7055                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15426,7 +15864,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7056                                   01/05/2009
+    11 USC APPENDIX Rule 7056                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15450,7 +15888,45 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7062                                   01/05/2009
+    11 USC APPENDIX Rule 7058                                   02/01/2010
+
+-EXPCITE-
+    TITLE 11 - APPENDIX
+    FEDERAL RULES OF BANKRUPTCY PROCEDURE AND OFFICIAL BANKRUPTCY FORMS
+    PART VII - ADVERSARY PROCEEDINGS
+
+-HEAD-
+    Rule 7058. Entering Judgment in Adversary Proceeding
+
+-STATUTE-
+      Rule 58 F.R.Civ.P. applies in adversary proceedings. In these
+    proceedings, the reference in Rule 58 F.R.Civ.P. to the civil
+    docket shall be read as a reference to the docket maintained by the
+    clerk under Rule 5003(a).
+
+-SOURCE-
+    (Added Mar. 26, 2009, eff. Dec. 1, 2009.)
+
+
+-MISC1-
+                      COMMITTEE NOTES ON RULES - 2009                  
+      This rule makes Rule 58 F.R.Civ.P. applicable in adversary
+    proceedings and is added in connection with the amendments to Rule
+    9021.
+      Changes Made After Publication. No changes since publication.
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      The Federal Rules of Civil Procedure, referred to in text, are
+    set out in the Appendix to Title 28, Judiciary and Judicial
+    Procedure.
+
+-End-
+
+
+
+-CITE-
+    11 USC APPENDIX Rule 7062                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15502,7 +15978,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7064                                   01/05/2009
+    11 USC APPENDIX Rule 7064                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15526,7 +16002,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7065                                   01/05/2009
+    11 USC APPENDIX Rule 7065                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15553,7 +16029,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7067                                   01/05/2009
+    11 USC APPENDIX Rule 7067                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15577,7 +16053,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7068                                   01/05/2009
+    11 USC APPENDIX Rule 7068                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15601,7 +16077,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7069                                   01/05/2009
+    11 USC APPENDIX Rule 7069                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15625,7 +16101,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7070                                   01/05/2009
+    11 USC APPENDIX Rule 7070                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15661,7 +16137,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7071                                   01/05/2009
+    11 USC APPENDIX Rule 7071                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15685,7 +16161,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7087                                   01/05/2009
+    11 USC APPENDIX Rule 7087                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15715,7 +16191,7 @@
 
 -CITE-
     11 USC APPENDIX PART VIII - APPEALS TO DISTRICT
-           COURT OR BANKRUPTCY APPELLATE PANEL             01/05/2009
+           COURT OR BANKRUPTCY APPELLATE PANEL             02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15730,7 +16206,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8001                                   01/05/2009
+    11 USC APPENDIX Rule 8001                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15853,7 +16329,7 @@
           complained of and any related opinion or memorandum.
 
           (D) A party may file a response to a request for
-        certification or a cross request within 10 days after the
+        certification or a cross request within 14 days after the
         notice of the request is served, or another time fixed by the
         court.
           (E) Rule 9014 does not govern a request, cross request, or
@@ -15872,7 +16348,7 @@
         that contains the information required by subdivision
         (f)(3)(C)(i)-(iv) of this rule.
           (B) A party may file a supplementary short statement of the
-        basis for certification within 10 days after the certification.
+        basis for certification within 14 days after the certification.
 
         (5) Duties of Parties After Certification. A petition for
       permission to appeal in accordance with F.R.App.P. 5 shall be
@@ -15882,7 +16358,7 @@
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
     Aug. 1, 1991; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 23, 2008, eff.
-    Dec. 1, 2008.)
+    Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -16018,6 +16494,18 @@
     different ways in which the certification of a direct appeal to the
     court of appeals.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -REFTEXT-
                             REFERENCES IN TEXT                        
       The Federal Rules of Appellate Procedure, referred to in subd.
@@ -16029,7 +16517,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8002                                   01/05/2009
+    11 USC APPENDIX Rule 8002                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16040,11 +16528,11 @@
     Rule 8002. Time for Filing Notice of Appeal
 
 -STATUTE-
-      (a) Ten-Day Period. The notice of appeal shall be filed with the
-    clerk within 10 days of the date of the entry of the judgment,
+      (a) Fourteen-Day Period. The notice of appeal shall be filed with
+    the clerk within 14 days of the date of the entry of the judgment,
     order, or decree appealed from. If a timely notice of appeal is
     filed by a party, any other party may file a notice of appeal
-    within 10 days of the date on which the first notice of appeal was
+    within 14 days of the date on which the first notice of appeal was
     filed, or within the time otherwise prescribed by this rule,
     whichever period last expires. A notice of appeal filed after the
     announcement of a decision or order but before entry of the
@@ -16066,7 +16554,7 @@
         (2) to alter or amend the judgment under Rule 9023;
         (3) for a new trial under Rule 9023; or
         (4) for relief under Rule 9024 if the motion is filed no later
-      than 10 days after the entry of judgment. A notice of appeal
+      than 14 days after the entry of judgment. A notice of appeal
       filed after announcement or entry of the judgment, order, or
       decree but before disposition of any of the above motions is
       ineffective to appeal from the judgment, order, or decree, or
@@ -16099,18 +16587,18 @@
         (2) A request to extend the time for filing a notice of appeal
       must be made by written motion filed before the time for filing a
       notice of appeal has expired, except that such a motion filed not
-      later than 20 days after the expiration of the time for filing a
+      later than 21 days after the expiration of the time for filing a
       notice of appeal may be granted upon a showing of excusable
       neglect. An extension of time for filing a notice of appeal may
-      not exceed 20 days from the expiration of the time for filing a
-      notice of appeal otherwise prescribed by this rule or 10 days
+      not exceed 21 days from the expiration of the time for filing a
+      notice of appeal otherwise prescribed by this rule or 14 days
       from the date of entry of the order granting the motion,
       whichever is later.
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
     Aug. 1, 1991; Apr. 29, 1994, eff. Aug. 1, 1994; Apr. 11, 1997, eff.
-    Dec. 1, 1997.)
+    Dec. 1, 1997; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -16236,12 +16724,24 @@
     original appeal period under Rule 8002(a) and (b).
       GAP Report on Rule 8002. No changes to the published draft.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 8003                                   01/05/2009
+    11 USC APPENDIX Rule 8003                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16259,7 +16759,7 @@
     sought; (3) a statement of the reasons why an appeal should be
     granted; and (4) a copy of the judgment, order, or decree
     complained of and of any opinion or memorandum relating thereto.
-    Within 10 days after service of the motion an adverse party may
+    Within 14 days after service of the motion, an adverse party may
     file with the clerk an answer in opposition.
       (b) Transmittal; Determination of Motion. The clerk shall
     transmit the notice of appeal, the motion for leave to appeal and
@@ -16268,7 +16768,7 @@
     answers or the time for filing an answer has expired. The motion
     and answer shall be submitted without oral argument unless
     otherwise ordered.
-      (c) Appeal Improperly Taken Regarded as a Motion for Leave To
+      (c) Appeal Improperly Taken Regarded as a Motion for Leave to
     Appeal. If a required motion for leave to appeal is not filed, but
     a notice of appeal is timely filed, the district court or
     bankruptcy appellate panel may grant leave to appeal or direct that
@@ -16276,7 +16776,7 @@
     bankruptcy appellate panel may also deny leave to appeal but in so
     doing shall consider the notice of appeal as a motion for leave to
     appeal. Unless an order directing that a motion for leave to appeal
-    be filed provides otherwise, the motion shall be filed within 10
+    be filed provides otherwise, the motion shall be filed within 14
     days of entry of the order.
       (d) Requirement of Leave to Appeal. If leave to appeal is
     required by 28 U.S.C. Sec. 158(a) and has not earlier been granted,
@@ -16286,7 +16786,7 @@
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff.
-    Dec. 1, 2008.)
+    Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -16316,12 +16816,24 @@
       Changes Made After Publication. No changes were made after
     publication.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 8004                                   01/05/2009
+    11 USC APPENDIX Rule 8004                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16362,7 +16874,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8005                                   01/05/2009
+    11 USC APPENDIX Rule 8005                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16427,7 +16939,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8006                                   01/05/2009
+    11 USC APPENDIX Rule 8006                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16438,20 +16950,20 @@
     Rule 8006. Record and Issues on Appeal
 
 -STATUTE-
-      Within 10 days after filing the notice of appeal as provided by
+      Within 14 days after filing the notice of appeal as provided by
     Rule 8001(a), entry of an order granting leave to appeal, or entry
     of an order disposing of the last timely motion outstanding of a
     type specified in Rule 8002(b), whichever is later, the appellant
     shall file with the clerk and serve on the appellee a designation
     of the items to be included in the record on appeal and a statement
-    of the issues to be presented. Within 10 days after the service of
+    of the issues to be presented. Within 14 days after the service of
     the appellant's statement the appellee may file and serve on the
     appellant a designation of additional items to be included in the
     record on appeal and, if the appellee has filed a cross appeal, the
     appellee as cross appellant shall file and serve a statement of the
     issues to be presented on the cross appeal and a designation of
     additional items to be included in the record. A cross appellee
-    may, within 10 days of service of the cross appellant's statement,
+    may, within 14 days of service of the cross appellant's statement,
     file and serve on the cross appellant a designation of additional
     items to be included in the record. The record on appeal shall
     include the items so designated by the parties, the notice of
@@ -16470,7 +16982,8 @@
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
-    Aug. 1, 1991; Apr. 29, 1994, eff. Aug. 1, 1994.)
+    Aug. 1, 1991; Apr. 29, 1994, eff. Aug. 1, 1994; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -16498,12 +17011,24 @@
     disposing of the last of such postjudgment motions outstanding is
     entered. The other amendments to this rule are stylistic.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 8007                                   01/05/2009
+    11 USC APPENDIX Rule 8007                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16589,7 +17114,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8008                                   01/05/2009
+    11 USC APPENDIX Rule 8008                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16663,7 +17188,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8009                                   01/05/2009
+    11 USC APPENDIX Rule 8009                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16677,18 +17202,18 @@
       (a) Briefs. Unless the district court or the bankruptcy appellate
     panel by local rule or by order excuses the filing of briefs or
     specifies different time limits:
-        (1) The appellant shall serve and file a brief within 15 days
+        (1) The appellant shall serve and file a brief within 14 days
       after entry of the appeal on the docket pursuant to Rule 8007.
-        (2) The appellee shall serve and file a brief within 15 days
+        (2) The appellee shall serve and file a brief within 14 days
       after service of the brief of appellant. If the appellee has
       filed a cross appeal, the brief of the appellee shall contain the
       issues and argument pertinent to the cross appeal, denominated as
       such, and the response to the brief of the appellant.
-        (3) The appellant may serve and file a reply brief within 10
+        (3) The appellant may serve and file a reply brief within 14
       days after service of the brief of the appellee, and if the
       appellee has cross-appealed, the appellee may file and serve a
       reply brief to the response of the appellant to the issues
-      presented in the cross appeal within 10 days after service of the
+      presented in the cross appeal within 14 days after service of the
       reply brief of the appellant. No further briefs may be filed
       except with leave of the district court or the bankruptcy
       appellate panel.
@@ -16717,7 +17242,8 @@
     appellant.
 
 -SOURCE-
-    (As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+    (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -16748,12 +17274,24 @@
     require inclusion of the transcript or a portion thereof in the
     appendix.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 8010                                   01/05/2009
+    11 USC APPENDIX Rule 8010                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16826,7 +17364,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8011                                   01/05/2009
+    11 USC APPENDIX Rule 8011                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16899,7 +17437,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8012                                   01/05/2009
+    11 USC APPENDIX Rule 8012                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16935,7 +17473,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8013                                   01/05/2009
+    11 USC APPENDIX Rule 8013                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16974,7 +17512,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8014                                   01/05/2009
+    11 USC APPENDIX Rule 8014                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17013,7 +17551,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8015                                   01/05/2009
+    11 USC APPENDIX Rule 8015                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17026,14 +17564,15 @@
 -STATUTE-
       Unless the district court or the bankruptcy appellate panel by
     local rule or by court order otherwise provides, a motion for
-    rehearing may be filed within 10 days after entry of the judgment
+    rehearing may be filed within 14 days after entry of the judgment
     of the district court or the bankruptcy appellate panel. If a
     timely motion for rehearing is filed, the time for appeal to the
     court of appeals for all parties shall run from the entry of the
-    order denying rehearing or the entry of a subsequent judgment.
+    order denying rehearing or the entry of subsequent judgment.
 
 -SOURCE-
-    (As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+    (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -17060,12 +17599,24 @@
     the entry of an order denying the motion or the entry of a
     subsequent judgment.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadline in the rule is amended to substitute
+    a deadline that is a multiple of seven days. Throughout the rules,
+    deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 8016                                   01/05/2009
+    11 USC APPENDIX Rule 8016                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17116,7 +17667,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8017                                   01/05/2009
+    11 USC APPENDIX Rule 8017                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17130,7 +17681,7 @@
 -STATUTE-
       (a) Automatic Stay of Judgment on Appeal. Judgments of the
     district court or the bankruptcy appellate panel are stayed until
-    the expiration of 10 days after entry, unless otherwise ordered by
+    the expiration of 14 days after entry, unless otherwise ordered by
     the district court or the bankruptcy appellate panel.
       (b) Stay Pending Appeal to the Court of Appeals. On motion and
     notice to the parties to the appeal, the district court or the
@@ -17155,6 +17706,9 @@
     to make any order appropriate to preserve the status quo or the
     effectiveness of the judgment subsequently to be entered.
 
+-SOURCE-
+    (As amended Mar. 26, 2009, eff. Dec. 1, 2009.)
+
 
 -MISC1-
                 NOTES OF ADVISORY COMMITTEE ON RULES - 1983            
@@ -17178,12 +17732,24 @@
     the course of the appeal in the court of appeals.
       Subdivision (c) is the same as Rule 62(g) F.R.Civ.P.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadline in the rule is amended to substitute
+    a deadline that is a multiple of seven days. Throughout the rules,
+    deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 8018                                   01/05/2009
+    11 USC APPENDIX Rule 8018                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17258,7 +17824,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8019                                   01/05/2009
+    11 USC APPENDIX Rule 8019                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17273,7 +17839,7 @@
     district court or the bankruptcy appellate panel may suspend the
     requirements or provisions of the rules in Part VIII, except Rules
     8001, 8002 and 8013, and may order proceedings in accordance with
-    its direction.
+    the direction.
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
@@ -17288,7 +17854,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8020                                   01/05/2009
+    11 USC APPENDIX Rule 8020                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17326,7 +17892,7 @@
 
 
 -CITE-
-    11 USC APPENDIX PART IX - GENERAL PROVISIONS                01/05/2009
+    11 USC APPENDIX PART IX - GENERAL PROVISIONS                02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17341,7 +17907,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9001                                   01/05/2009
+    11 USC APPENDIX Rule 9001                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17457,7 +18023,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9002                                   01/05/2009
+    11 USC APPENDIX Rule 9002                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17507,7 +18073,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9003                                   01/05/2009
+    11 USC APPENDIX Rule 9003                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17572,7 +18138,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9004                                   01/05/2009
+    11 USC APPENDIX Rule 9004                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17607,7 +18173,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9005                                   01/05/2009
+    11 USC APPENDIX Rule 9005                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17634,7 +18200,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9005.1                                 01/05/2009
+    11 USC APPENDIX Rule 9005.1                                 02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17653,7 +18219,7 @@
 
 
 -MISC1-
-                 COMMITTEE NOTES ON RULES - 2007 AMENDMENT             
+                      COMMITTEE NOTES ON RULES - 2007                  
       The rule is added to adopt the new rule added to the Federal
     Rules of Civil Procedure. The new Civil Rule replaces Rule 24(c) F.
     R. Civ. P., so the cross reference to Civil Rule 24 contained in
@@ -17675,7 +18241,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9006                                   01/05/2009
+    11 USC APPENDIX Rule 9006                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17683,29 +18249,64 @@
     PART IX - GENERAL PROVISIONS
 
 -HEAD-
-    Rule 9006. Time
+    Rule 9006. Computing and Extending Time
 
 -STATUTE-
-      (a) Computation. In computing any period of time prescribed or
-    allowed by these rules or by the Federal Rules of Civil Procedure
-    made applicable by these rules, by the local rules, by order of
-    court, or by any applicable statute, the day of the act, event, or
-    default from which the designated period of time begins to run
-    shall not be included. The last day of the period so computed shall
-    be included, unless it is a Saturday, a Sunday, or a legal holiday,
-    or, when the act to be done is the filing of a paper in court, a
-    day on which weather or other conditions have made the clerk's
-    office inaccessible, in which event the period runs until the end
-    of the next day which is not one of the aforementioned days. When
-    the period of time prescribed or allowed is less than 8 days,
-    intermediate Saturdays, Sundays, and legal holidays shall be
-    excluded in the computation. As used in this rule and in Rule
-    5001(c), "legal holiday" includes New Year's Day, Birthday of
-    Martin Luther King, Jr., Washington's Birthday, Memorial Day,
-    Independence Day, Labor Day, Columbus Day, Veterans Day,
-    Thanksgiving Day, Christmas Day, and any other day appointed as a
-    holiday by the President or the Congress of the United States, or
-    by the state in which the court is held.
+      (a) Computing Time. The following rules apply in computing any
+    time period specified in these rules, in the Federal Rules of Civil
+    Procedure, in any local rule or court order, or in any statute that
+    does not specify a method of computing time.
+        (1) Period Stated in Days or a Longer Unit. When the period is
+      stated in days or a longer unit of time:
+          (A) exclude the day of the event that triggers the period;
+          (B) count every day, including intermediate Saturdays,
+        Sundays, and legal holidays; and
+          (C) include the last day of the period, but if the last day
+        is a Saturday, Sunday, or legal holiday, the period continues
+        to run until the end of the next day that is not a Saturday,
+        Sunday, or legal holiday.
+
+        (2) Period Stated in Hours. When the period is stated in hours:
+          (A) begin counting immediately on the occurrence of the event
+        that triggers the period;
+          (B) count every hour, including hours during intermediate
+        Saturdays, Sundays, and legal holidays; and
+          (C) if the period would end on a Saturday, Sunday, or legal
+        holiday, then continue the period until the same time on the
+        next day that is not a Saturday, Sunday, or legal holiday.
+
+        (3) Inaccessibility of Clerk's Office. Unless the court orders
+      otherwise, if the clerk's office is inaccessible:
+          (A) on the last day for filing under Rule 9006(a)(1), then
+        the time for filing is extended to the first accessible day
+        that is not a Saturday, Sunday, or legal holiday; or
+          (B) during the last hour for filing under Rule 9006(a)(2),
+        then the time for filing is extended to the same time on the
+        first accessible day that is not a Saturday, Sunday, or legal
+        holiday.
+
+        (4) "Last Day" Defined. Unless a different time is set by a
+      statute, local rule, or order in the case, the last day ends:
+          (A) for electronic filing, at midnight in the court's time
+        zone; and
+          (B) for filing by other means, when the clerk's office is
+        scheduled to close.
+
+        (5) "Next Day" Defined. The "next day" is determined by
+      continuing to count forward when the period is measured after an
+      event and backward when measured before an event.
+        (6) "Legal Holiday" Defined. "Legal holiday" means:
+          (A) the day set aside by statute for observing New Year's
+        Day, Martin Luther King Jr.'s Birthday, Washington's Birthday,
+        Memorial Day, Independence Day, Labor Day, Columbus Day,
+        Veterans' Day, Thanksgiving Day, or Christmas Day;
+          (B) any day declared a holiday by the President or Congress;
+        and
+          (C) for periods that are measured after an event, any other
+        day declared a holiday by the state where the district court is
+        located. (In this rule, "state" includes the District of
+        Columbia and any United States commonwealth or territory.)
+
       (b) Enlargement.
         (1) In General. Except as provided in paragraphs (2) and (3) of
       this subdivision, when an act is required or allowed to be done
@@ -17746,7 +18347,7 @@
 
       (d) For Motions - Affidavits. A written motion, other than one
     which may be heard ex parte, and notice of any hearing shall be
-    served not later than five days before the time specified for such
+    served not later than seven days before the time specified for such
     hearing, unless a different period is fixed by these rules or by
     order of the court. Such an order may for cause shown be made on ex
     parte application. When a motion is supported by affidavit, the
@@ -17757,11 +18358,12 @@
       (e) Time of Service. Service of process and service of any paper
     other than process or of notice by mail is complete on mailing.
       (f) Additional Time After Service by Mail or Under Rule
-    5(b)(2)(C) or (D) F.R.Civ.P. When there is a right or requirement
-    to act or undertake some proceedings within a prescribed period
-    after service and that service is by mail or under Rule 5(b)(2)(C)
-    or (D) F. R. Civ. P., three days are added after the prescribed
-    period would otherwise expire under Rule 9006(a).
+    5(b)(2)(D), (E), or (F) F.R.Civ.P. When there is a right or
+    requirement to act or undertake some proceedings within a
+    prescribed period after service and that service is by mail or
+    under Rule 5(b)(2)(D), (E), or (F) F.R.Civ.P., three days are added
+    after the prescribed period would otherwise expire under Rule
+    9006(a).
       (g) Grain Storage Facility Cases. This rule shall not limit the
     court's authority under Sec. 557 of the Code to enter orders
     governing procedures in cases in which the debtor is an owner or
@@ -17771,8 +18373,8 @@
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff.
     Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff.
     Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff.
-    Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008. eff.
-    Dec. 1, 2008.)
+    Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff.
+    Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -17994,6 +18596,252 @@
     the court may not reduce the time under Rule 1007(c) to file the
     statement required by Rule 1007(b)(7).
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      Subdivision (a). Subdivision (a) has been amended to simplify and
+    clarify the provisions that describe how deadlines are computed.
+    Subdivision (a) governs the computation of any time period found in
+    a Federal Rule of Bankruptcy Procedure, a Federal Rule of Civil
+    Procedure, a statute, a local rule, or a court order. In accordance
+    with Bankruptcy Rule 9029(a), a local rule may not direct that a
+    deadline be computed in a manner inconsistent with subdivision (a).
+      The time-computation provisions of subdivision (a) apply only
+    when a time period must be computed. They do not apply when a fixed
+    time to act is set. The amendments thus carry forward the approach
+    taken in Violette v. P.A. Days, Inc., 427 F.3d 1015, 1016 (6th Cir.
+    2005) (holding that Civil Rule 6(a) "does not apply to situations
+    where the court has established a specific calendar day as a
+    deadline"), and reject the contrary holding of In re American
+    Healthcare Management, Inc., 900 F.2d 827, 832 (5th Cir. 1990)
+    (holding that Bankruptcy Rule 9006(a) governs treatment of date-
+    certain deadline set by court order). If, for example, the date
+    for filing is "no later than November 1, 2007," subdivision (a)
+    does not govern. But if a filing is required to be made "within 10
+    days" or "within 72 hours," subdivision (a) describes how that
+    deadline is computed.
+      Subdivision (a) does not apply when computing a time period set
+    by a statute if the statute specifies a method of computing time.
+    See, e.g., 11 U.S.C. Sec. 527(a)(2) (debt relief agencies must
+    provide a written notice to an assisted person "not later than 3
+    business days" after providing bankruptcy assistance services).
+      Subdivision (a)(1). New subdivision (a)(1) addresses the
+    computation of time periods that are stated in days. It also
+    applies to time periods that are stated in weeks, months, or years.
+    See, e.g., Federal Rule of Civil Procedure 60(c)(1) made applicable
+    to bankruptcy cases under Rule 9024. Subdivision (a)(1)(B)'s
+    directive to "count every day" is relevant only if the period is
+    stated in days (not weeks, months, or years).
+      Under former Rule 9006(a), a period of eight days or more was
+    computed differently than a period of less than eight days.
+    Intermediate Saturdays, Sundays, and legal holidays were included
+    in computing the longer periods, but excluded in computing the
+    shorter periods. Former Rule 9006(a) thus made computing deadlines
+    unnecessarily complicated and led to counterintuitive results.
+      Under new subdivision (a)(1), all deadlines stated in days (no
+    matter the length) are computed in the same way. The day of the
+    event that triggers the deadline is not counted. All other days -
+    including intermediate Saturdays, Sundays, and legal holidays - are
+    counted, with only one exception: If the period ends on a Saturday,
+    Sunday, or legal holiday, then the deadline falls on the next day
+    that is not a Saturday, Sunday, or legal holiday. An illustration
+    is provided below in the discussion of subdivision (a)(5).
+    Subdivision (a)(3) addresses filing deadlines that expire on a day
+    when the clerk's office is inaccessible.
+      Where subdivision (a) formerly referred to the "act, event, or
+    default" that triggers the deadline, new subdivision (a) refers
+    simply to the "event" that triggers the deadline; this change in
+    terminology is adopted for brevity and simplicity, and is not
+    intended to change meaning.
+      Periods previously expressed as less than eight days will be
+    shortened as a practical matter by the decision to count
+    intermediate Saturdays, Sundays, and legal holidays in computing
+    all periods. Many of those periods have been lengthened to
+    compensate for the change. See, e.g., Rules 2008 (trustee's duty to
+    notify court of acceptance of the appointment within five days is
+    extended to seven days); 6004(b) (time for filing and service of
+    objection to proposed use, sale or lease of property extended from
+    five days prior to the hearing to seven days prior to the hearing);
+    and 9006(d) (time for giving notice of a hearing extended from five
+    days prior to the hearing to seven days).
+      Most of the 10-day periods were adjusted to meet the change in
+    computation method by setting 14 days as the new period. See, e.g.,
+    Rules 1007(h) (10-day period to file supplemental schedule for
+    property debtor becomes entitled to acquire after the commencement
+    of the case is extended to 14 days); 3020(e) (10-day stay of order
+    confirming a chapter 11 plan extended to 14 days); 8002(a) (10-day
+    period in which to file notice of appeal extended to 14 days). A 14-
+    day period also has the advantage that the final day falls on the
+    same day of the week as the event that triggered the period -
+    the14th day after a Monday, for example, is a Monday. This
+    advantage of using week-long periods led to adopting seven-day
+    periods to replace some of the periods set at less than 10 days, 21-
+    day periods to replace 20-day periods, and 28-day periods to
+    replace 25-day periods.Thirty-day and longer periods, however, were
+    generally retained without change.
+      Subdivision (a)(2). New subdivision (a)(2) addresses the
+    computation of time periods that are stated in hours. No such
+    deadline currently appears in the Federal Rules of Bankruptcy
+    Procedure. But some statutes contain deadlines stated in hours, as
+    do some court orders issued in expedited proceedings.
+      Under subdivision (a)(2), a deadline stated in hours starts to
+    run immediately on the occurrence of the event that triggers the
+    deadline. The deadline generally ends when the time expires. If,
+    however, the time period expires at a specific time (say, 2:17
+    p.m.) on a Saturday, Sunday, or legal holiday, then the deadline is
+    extended to the same time (2:17 p.m.) on the next day that is not a
+    Saturday, Sunday, or legal holiday. Periods stated in hours are not
+    to be "rounded up" to the next whole hour. Subdivision (a)(3)
+    addresses situations when the clerk's office is inaccessible during
+    the last hour before a filing deadline expires.
+      Subdivision (a)(2)(B) directs that every hour be counted. Thus,
+    for example, a 72-hour period that commences at 10:23 a.m. on
+    Friday, November 2, 2007, will run until 9:23 a.m. on Monday,
+    November 5; the discrepancy in start and end times in this example
+    results from the intervening shift from daylight saving time to
+    standard time.
+      Subdivision (a)(3). When determining the last day of a filing
+    period stated in days or a longer unit of time, a day on which the
+    clerk's office is not accessible because of the weather or another
+    reason is treated like a Saturday, Sunday, or legal holiday. When
+    determining the end of a filing period stated in hours, if the
+    clerk's office is inaccessible during the last hour of the filing
+    period computed under subdivision (a)(2) then the period is
+    extended to the same time on the next day that is not a weekend,
+    holiday, or day when the clerk's office is inaccessible.
+      Subdivision (a)(3)'s extensions apply "[u]nless the court orders
+    otherwise." In some circumstances, the court might not wish a
+    period of inaccessibility to trigger a full 24-hour extension; in
+    those instances, the court can specify a briefer extension.
+      The text of the rule no longer refers to "weather or other
+    conditions" as the reason for the inaccessibility of the clerk's
+    office. The reference to "weather" was deleted from the text to
+    underscore that inaccessibility can occur for reasons unrelated to
+    weather, such as an outage of the electronic filing system. Weather
+    can still be a reason for inaccessibility of the clerk's office.
+    The rule does not attempt to define inaccessibility. Rather, the
+    concept will continue to develop through caselaw. See, e.g.,
+    William G. Phelps, When Is Office of Clerk of Court Inaccessible
+    Due to Weather or Other Conditions for Purpose of Computing Time
+    Period for Filing Papers under Rule 6(a) of Federal Rules of Civil
+    Procedure, 135 A.L.R. Fed. 259 (1996) (collecting cases). In
+    addition, many local provisions address inaccessibility for
+    purposes of electronic filing. See, e.g., D. Kan. Rule 5.4.11 ("A
+    Filing User whose filing is made untimely as the result of a
+    technical failure may seek appropriate relief from the court.").
+      Subdivision (a)(4). New subdivision (a)(4) defines the end of the
+    last day of a period for purposes of subdivision (a)(1).
+    Subdivision (a)(4) does not apply in computing periods stated in
+    hours under subdivision (a)(2), and does not apply if a different
+    time is set by a statute, local rule, or order in the case. A local
+    rule may provide, for example, that papers filed in a drop box
+    after the normal hours of the clerk's office are filed as of the
+    day that is date-stamped on the papers by a device in the drop box.
+      28 U.S.C. Sec. 452 provides that "[a]ll courts of the United
+    States shall be deemed always open for the purpose of filing proper
+    papers, issuing and returning process, and making motions and
+    orders." A corresponding provision exists in Rule 5001(a). Some
+    courts have held that these provisions permit an after-hours filing
+    by handing the papers to an appropriate official. See, e.g.,
+    Casalduc v. Diaz, 117 F.2d 915, 917 (1st Cir. 1941). Subdivision
+    (a)(4) does not address the effect of the statute on the question
+    of after-hours filing; instead, the rule is designed to deal with
+    filings in the ordinary course without regard to Section 452.
+      Subdivision (a)(5). New subdivision (a)(5) defines the "next" day
+    for purposes of subdivisions (a)(1)(C) and (a)(2)(C). The Federal
+    Rules of Bankruptcy Procedure contain both forward-looking time
+    periods and backward-looking time periods. A forward-looking time
+    period requires something to be done within a period of time after
+    an event. See, e.g., Rules 1007(c) (["]the schedules, statements,
+    and other documents shall be filed by the debtor within 14 days of
+    the entry of the order for relief"); 1019(5)(B)(ii) ("the trustee,
+    not later than 30 days after conversion of the case, shall file and
+    transmit to the United States trustee a final report and account");
+    and 7012(a) ("If a complaint is duly served, the defendant shall
+    serve an answer within 30 days after the issuance of the summons,
+    except when a different time is prescribed by the court.").
+      A backward-looking time period requires something to be done
+    within a period of time before an event. See, e.g., Rules 6004(b)
+    ("an objection to a proposed use, sale, or lease of property shall
+    be filed and served not less than seven days before the date set
+    for the proposed action"); 9006(d) ("A written motion, other than
+    one which may be heard ex parte, and notice of any hearing shall be
+    served not later than seven days before the time specified for such
+    hearing"). In determining what is the "next" day for purposes of
+    subdivisions (a)(1)(C) and (a)(2)(C), one should continue counting
+    in the same direction - that is, forward when computing a forward-
+    looking period and backward when computing a backward-looking
+    period. If, for example, a filing is due within 10 days after an
+    event, and the tenth day falls on Saturday, September 1, 2007, then
+    the filing is due on Tuesday, September 4, 2007 (Monday, September
+    3, is Labor Day). But if a filing is due 10 days before an event,
+    and the tenth day falls on Saturday, September 1, then the filing
+    is due on Friday, August 31.
+      Subdivision (a)(6). New subdivision (a)(6) defines "legal
+    holiday" for purposes of the Federal Rules of Bankruptcy Procedure,
+    including the time-computation provisions of subdivision (a).
+    Subdivision (a)(6) continues to include within the definition of
+    "legal holiday" days that are declared a holiday by the President
+    or Congress.
+      For forward-counted periods - i.e., periods that are measured
+    after an event - subdivision (a)(6)(C) includes certain state
+    holidays within the definition of legal holidays, and defines the
+    term "state" - for purposes of subdivision (a)(6) - to include the
+    District of Columbia and any commonwealth or territory of the
+    United States. Thus, for purposes of subdivision (a)(6)'s
+    definition of "legal holiday," "state" includes the District of
+    Columbia, Guam, American Samoa, the U.S. Virgin Islands, the
+    Commonwealth of Puerto Rico, and the Commonwealth of the Northern
+    Mariana Islands.
+      However, state legal holidays are not recognized in computing
+    backward-counted periods. For both forward- and backward-counted
+    periods, the rule thus protects those who may be unsure of the
+    effect of state holidays. For forward-counted deadlines, treating
+    state holidays the same as federal holidays extends the deadline.
+    Thus, someone who thought that the federal courts might be closed
+    on a state holiday would be safeguarded against an inadvertent late
+    filing. In contrast, for backward-counted deadlines, not giving
+    state holidays the treatment of federal holidays allows filing on
+    the state holiday itself rather than the day before. Take, for
+    example, Monday, April 21, 2008 (Patriot's Day, a legal holiday in
+    the relevant state). If a filing is due 14 days after an event, and
+    the fourteenth day is April 21, then the filing is due on Tuesday,
+    April 22 because Monday, April 21 counts as a legal holiday. But if
+    a filing is due 14 days before an event, and the fourteenth day is
+    April 21, the filing is due on Monday, April 21; the fact that
+    April 21 is a state holiday does not make April 21 a legal holiday
+    for purposes of computing this backward-counted deadline. But note
+    that if the clerk's office is inaccessible on Monday, April 21,
+    then subdivision (a)(3) extends the April 21 filing deadline
+    forward to the next accessible day that is not a Saturday, Sunday
+    or legal holiday - no earlier than Tuesday, April 22.
+      Changes Made After Publication. The reference to Rule 6(a)(1) in
+    subdivision (a)(3)(A) at line 50 of the rule as it was published
+    was corrected by referring instead to Rule 9006(a)(1).
+      The Standing Committee changed Rule 9006(a)(6) to exclude state
+    holidays from the definition of "legal holiday" for purposes of
+    computing backward-counted periods; conforming changes were made to
+    the Committee Note to subdivision (a)(6). In addition, the term
+    "possession" was deleted from the definition of "state" in
+    subdivision (a)(6), and a conforming change was made to the
+    Committee Note.
+      [Subdivision (d).] The rule is amended to implement changes in
+    connection with the amendment to Rule 9006(a) and the manner by
+    which time is computed under the rules. The deadline in the rule is
+    amended to substitute a deadline that is a multiple of seven days.
+    Throughout the rules, deadlines are amended in the following
+    manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+      Subdivision (f) is amended to conform to the changes made to Rule
+    5(b)(2) of the Federal Rules of Civil Procedure as a part of the
+    Civil Rules Restyling Project. As a part of that project,
+    subparagraphs (b)(2)(C) and (D) of that rule were rewritten as
+    subparagraphs (b)(2)(D), (E), and (F). The cross reference to those
+    rules contained in subdivision (f) of this rule is corrected by
+    this amendment.
+
 -REFTEXT-
                             REFERENCES IN TEXT                        
       The Federal Rules of Civil Procedure, referred to in subds. (a)
@@ -18005,7 +18853,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9007                                   01/05/2009
+    11 USC APPENDIX Rule 9007                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18030,7 +18878,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9008                                   01/05/2009
+    11 USC APPENDIX Rule 9008                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18052,7 +18900,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9009                                   01/05/2009
+    11 USC APPENDIX Rule 9009                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18114,7 +18962,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9010                                   01/05/2009
+    11 USC APPENDIX Rule 9010                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18172,7 +19020,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9011                                   01/05/2009
+    11 USC APPENDIX Rule 9011                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18357,7 +19205,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9012                                   01/05/2009
+    11 USC APPENDIX Rule 9012                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18416,7 +19264,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9013                                   01/05/2009
+    11 USC APPENDIX Rule 9013                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18455,7 +19303,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9014                                   01/05/2009
+    11 USC APPENDIX Rule 9014                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18622,7 +19470,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9015                                   01/05/2009
+    11 USC APPENDIX Rule 9015                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18634,10 +19482,10 @@
 
 -STATUTE-
       (a) Applicability of Certain Federal Rules of Civil Procedure.
-    Rules 38, 39, and 47-51 F.R.Civ.P., and Rule 81(c) F.R.Civ.P.
+    Rules 38, 39, 47-49, and 51, F.R.Civ.P., and Rule 81(c) F.R.Civ.P.
     insofar as it applies to jury trials, apply in cases and
-    proceedings, except that a demand made pursuant to Rule 38(b)
-    F.R.Civ.P. shall be filed in accordance with Rule 5005.
+    proceedings, except that a demand made under Rule 38(b) F.R.Civ.P.
+    shall be filed in accordance with Rule 5005.
       (b) Consent To Have Trial Conducted by Bankruptcy Judge. If the
     right to a jury trial applies, a timely demand has been filed
     pursuant to Rule 38(b) F.R.Civ.P., and the bankruptcy judge has
@@ -18646,9 +19494,14 @@
     under 28 U.S.C. Sec. 157(e) by jointly or separately filing a
     statement of consent within any applicable time limits specified by
     local rule.
+      (c) Applicability of Rule 50 F.R.Civ.P. Rule 50 F.R.Civ.P.
+    applies in cases and proceedings, except that any renewed motion
+    for judgment or request for a new trial shall be filed no later
+    than 14 days after the entry of judgment.
 
 -SOURCE-
-    (Added Apr. 11, 1997, eff. Dec. 1, 1997.)
+    (Added Apr. 11, 1997, eff. Dec. 1, 1997; amended Mar. 26, 2009,
+    eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -18657,6 +19510,23 @@
     is not intended to expand or create any right to trial by jury
     where such right does not otherwise exist.
       GAP Report on Rule 9015. No changes to the published draft.
+
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended by deleting Rule 50 F.R.Civ.P. from the list
+    in subdivision (a) of rules made applicable in cases and
+    proceedings. However, subdivision (c) is added to make Rule 50
+    applicable in cases and proceedings, but it limits the time for
+    filing certain post judgment motions to 14 days after the entry of
+    judgment. The amendment is necessary because Rule 50 F.R.Civ.P. was
+    amended in 2009 to extend the deadline for the filing of these post
+    judgment motions to 28 days. That deadline corresponds to the 30-
+    day deadline for filing a notice of appeal in a civil case under
+    Rule 4(a)(1)(A) F.R.App.P. In a bankruptcy case, the deadline for
+    filing a notice of appeal is 14 days. Therefore, the 28-day
+    deadline for filing these post judgment motions would effectively
+    override the notice of appeal deadline under Rule 8002(a) but for
+    this amendment.
+      Other amendments are stylistic.
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -18669,7 +19539,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9016                                   01/05/2009
+    11 USC APPENDIX Rule 9016                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18704,7 +19574,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9017                                   01/05/2009
+    11 USC APPENDIX Rule 9017                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18745,7 +19615,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9018                                   01/05/2009
+    11 USC APPENDIX Rule 9018                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18782,7 +19652,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9019                                   01/05/2009
+    11 USC APPENDIX Rule 9019                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18837,7 +19707,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9020                                   01/05/2009
+    11 USC APPENDIX Rule 9020                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18975,7 +19845,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9021                                   01/05/2009
+    11 USC APPENDIX Rule 9021                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18986,15 +19856,11 @@
     Rule 9021. Entry of Judgment
 
 -STATUTE-
-      Except as otherwise provided herein, Rule 58 F.R.Civ.P. applies
-    in cases under the Code. Every judgment entered in an adversary
-    proceeding or contested matter shall be set forth on a separate
-    document. A judgment is effective when entered as provided in Rule
-    5003. The reference in Rule 58 F.R.Civ.P. to Rule 79(a) F.R.Civ.P.
-    shall be read as a reference to Rule 5003 of these rules.
+      A judgment or order is effective when entered under Rule 5003.
 
 -SOURCE-
-    (As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+    (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -19037,6 +19903,13 @@
     amended, Rule 9021 adopts Rule 58. The reference in Rule 58 to Rule
     79(a) F.R.Civ.P. is to be read as a reference to Rule 5003.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended in connection with the amendment that adds
+    Rule 7058. The entry of judgment in adversary proceedings is
+    governed by Rule 7058, and the entry of a judgment or order in all
+    other proceedings is governed by this rule.
+      Changes Made After Publication. No changes since publication.
+
 -REFTEXT-
                             REFERENCES IN TEXT                        
       The Federal Rules of Civil Procedure, referred to in text, are
@@ -19048,7 +19921,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9022                                   01/05/2009
+    11 USC APPENDIX Rule 9022                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19119,7 +19992,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9023                                   01/05/2009
+    11 USC APPENDIX Rule 9023                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19130,8 +20003,14 @@
     Rule 9023. New Trials; Amendment of Judgments
 
 -STATUTE-
-      Rule 59 F.R.Civ.P. applies in cases under the Code, except as
-    provided in Rule 3008.
+      Except as provided in this rule and Rule 3008, Rule 59 F.R.Civ.P.
+    applies in cases under the Code. A motion for a new trial or to
+    alter or amend a judgment shall be filed, and a court may on its
+    own order a new trial, no later than 14 days after entry of
+    judgment.
+
+-SOURCE-
+    (As amended Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -19140,6 +20019,19 @@
     amendment of judgment. Those motions must be served within 10 days
     of the entry of judgment. No similar time limit is contained in
     Rule 3008 which governs reconsideration of claims.
+
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to limit to 14 days the time for a party to
+    file a post judgment motion for a new trial and for the court to
+    order sua sponte a new trial. In 2009, Rule 59 F. R. Civ. P. was
+    amended to extend the deadline for these actions to 28 days after
+    the entry of judgment. That deadline corresponds to the 30-day
+    deadline for filing a notice of appeal in a civil case under Rule
+    4(a)(1)(A) F.R.App.P. In a bankruptcy case, however, the deadline
+    for filing a notice of appeal is 14 days. Therefore, the 28-day
+    deadline for filing a motion for a new trial or a motion to alter
+    or amend a judgment would effectively override the notice of appeal
+    deadline under Rule 8002(a) but for this amendment.
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -19152,7 +20044,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9024                                   01/05/2009
+    11 USC APPENDIX Rule 9024                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19218,7 +20110,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9025                                   01/05/2009
+    11 USC APPENDIX Rule 9025                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19249,7 +20141,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9026                                   01/05/2009
+    11 USC APPENDIX Rule 9026                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19273,7 +20165,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9027                                   01/05/2009
+    11 USC APPENDIX Rule 9027                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19339,7 +20231,7 @@
       otherwise.
         (2) The district court or, if the case under the Code has been
       referred to a bankruptcy judge of the district, the bankruptcy
-      judge may require the party filing the notice of removal to file
+      judge, may require the party filing the notice of removal to file
       with the clerk copies of all records and proceedings relating to
       the claim or cause of action in the court from which the claim or
       cause of action was removed.
@@ -19352,7 +20244,7 @@
       state that the party does or does not consent to entry of final
       orders or judgment by the bankruptcy judge. A statement required
       by this paragraph shall be signed pursuant to Rule 9011 and shall
-      be filed not later than 10 days after the filing of the notice of
+      be filed not later than 14 days after the filing of the notice of
       removal. Any party who files a statement pursuant to this
       paragraph shall mail a copy to every other party to the removed
       claim or cause of action.
@@ -19370,11 +20262,11 @@
     not necessary unless the court so orders. In a removed action in
     which the defendant has not answered, the defendant shall answer or
     present the other defenses or objections available under the rules
-    of Part VII within 20 days following the receipt through service or
+    of Part VII within 21 days following the receipt through service or
     otherwise of a copy of the initial pleading setting forth the claim
-    for relief on which the action or proceeding is based, or within 20
+    for relief on which the action or proceeding is based, or within 21
     days following the service of summons on such initial pleading, or
-    within five days following the filing of the notice of removal,
+    within seven days following the filing of the notice of removal,
     whichever period is longest.
       (h) Record Supplied. When a party is entitled to copies of the
     records and proceedings in any civil action or proceeding in a
@@ -19402,7 +20294,8 @@
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
-    Aug. 1, 1991; Apr. 29, 2002, eff. Dec. 1, 2002.)
+    Aug. 1, 1991; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -19553,12 +20446,24 @@
       Changes Made After Publication and Comments. No changes were
     made.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 9028                                   01/05/2009
+    11 USC APPENDIX Rule 9028                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19595,7 +20500,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9029                                   01/05/2009
+    11 USC APPENDIX Rule 9029                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19738,7 +20643,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9030                                   01/05/2009
+    11 USC APPENDIX Rule 9030                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19765,7 +20670,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9031                                   01/05/2009
+    11 USC APPENDIX Rule 9031                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19795,7 +20700,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9032                                   01/05/2009
+    11 USC APPENDIX Rule 9032                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19843,7 +20748,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9033                                   01/05/2009
+    11 USC APPENDIX Rule 9033                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19860,12 +20765,12 @@
     of fact and conclusions of law. The clerk shall serve forthwith
     copies on all parties by mail and note the date of mailing on the
     docket.
-      (b) Objections: Time for Filing. Within 10 days after being
+      (b) Objections: Time for Filing. Within 14 days after being
     served with a copy of the proposed findings of fact and conclusions
     of law a party may serve and file with the clerk written objections
     which identify the specific proposed findings or conclusions
     objected to and state the grounds for such objection. A party may
-    respond to another party's objections within 10 days after being
+    respond to another party's objections within 14 days after being
     served with a copy thereof. A party objecting to the bankruptcy
     judge's proposed findings or conclusions shall arrange promptly for
     the transcription of the record, or such portions of it as all
@@ -19873,10 +20778,10 @@
     unless the district judge otherwise directs.
       (c) Extension of Time. The bankruptcy judge may for cause extend
     the time for filing objections by any party for a period not to
-    exceed 20 days from the expiration of the time otherwise prescribed
+    exceed 21 days from the expiration of the time otherwise prescribed
     by this rule. A request to extend the time for filing objections
     must be made before the time for filing objections has expired,
-    except that a request made no more than 20 days after the
+    except that a request made no more than 21 days after the
     expiration of the time for filing objections may be granted upon a
     showing of excusable neglect.
       (d) Standard of Review. The district judge shall make a de novo
@@ -19889,7 +20794,8 @@
     judge with instructions.
 
 -SOURCE-
-    (Added Mar. 30, 1987, eff. Aug. 1, 1987.)
+    (Added Mar. 30, 1987, eff. Aug. 1, 1987; amended Mar. 26, 2009,
+    eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -19913,12 +20819,24 @@
       Subdivision (d) adopts the de novo review provisions of Rule
     72(b) F.R.Civ.P.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The rule is amended to implement changes in connection with the
+    amendment to Rule 9006(a) and the manner by which time is computed
+    under the rules. The deadlines in the rule are amended to
+    substitute a deadline that is a multiple of seven days. Throughout
+    the rules, deadlines are amended in the following manner:
+        -- 5-day periods become 7-day periods
+        -- 10-day periods become 14-day periods
+        -- 15-day periods become 14-day periods
+        -- 20-day periods become 21-day periods
+        -- 25-day periods become 28-day periods
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 9034                                   01/05/2009
+    11 USC APPENDIX Rule 9034                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19990,7 +20908,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9035                                   01/05/2009
+    11 USC APPENDIX Rule 9035                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -20120,7 +21038,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9036                                   01/05/2009
+    11 USC APPENDIX Rule 9036                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -20191,7 +21109,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9037                                   01/05/2009
+    11 USC APPENDIX Rule 9037                                   02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -20257,7 +21175,7 @@
 
 
 -MISC1-
-                 COMMITTEE NOTES ON RULES - 2007 AMENDMENT             
+                      COMMITTEE NOTES ON RULES - 2007                  
       The rule is adopted in compliance with section 205(c)(3) of the E-
     Government Act of 2002, Public Law No. 107-347. Section 205(c)(3)
     requires the Supreme Court to prescribe rules "to protect privacy
@@ -20369,7 +21287,7 @@
 -CITE-
     11 USC APPENDIX [PART X - UNITED STATES
            TRUSTEES] (Abrogated Apr. 30, 1991,
-           eff. Aug. 1, 1991)                              01/05/2009
+           eff. Aug. 1, 1991)                              02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -20385,7 +21303,7 @@
 
 
 -CITE-
-    11 USC APPENDIX OFFICIAL FORMS                              01/05/2009
+    11 USC APPENDIX OFFICIAL FORMS                              02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -20525,7 +21443,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 1                                      01/05/2009
+    11 USC APPENDIX Form 1                                      02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -20570,7 +21488,7 @@
 
     (ADDED AUG. 1, 1991; AMENDED MAR. 16, 1993; MAR. 14, 1995; OCT. 1,
     1997; DEC. 1, 2001; DEC. 1, 2002; DEC. 1, 2003; OCT. 17, 2005; OCT.
-            1, 2006; DEC. 1, 2007; JAN. 1, 2008; DEC. 1, 2008.)
+     1, 2006; DEC. 1, 2007; JAN. 1, 2008; DEC. 1, 2008; DEC. 1, 2009.)
 
                 NOTES OF ADVISORY COMMITTEE ON RULES - 1991            
 
@@ -20979,7 +21897,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 2                                      01/05/2009
+    11 USC APPENDIX Form 2                                      02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -21010,7 +21928,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 3A                                     01/05/2009
+    11 USC APPENDIX Form 3A                                     02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -21101,7 +22019,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 3B                                     01/05/2009
+    11 USC APPENDIX Form 3B                                     02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -21175,7 +22093,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 4                                      01/05/2009
+    11 USC APPENDIX Form 4                                      02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -21235,7 +22153,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 5                                      01/05/2009
+    11 USC APPENDIX Form 5                                      02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -21381,7 +22299,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 6                                      01/05/2009
+    11 USC APPENDIX Form 6                                      02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -21980,7 +22898,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 7                                      01/05/2009
+    11 USC APPENDIX Form 7                                      02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -22226,7 +23144,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 8                                      01/05/2009
+    11 USC APPENDIX Form 8                                      02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -22325,7 +23243,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 9                                      01/05/2009
+    11 USC APPENDIX Form 9                                      02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -22660,7 +23578,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 10                                     01/05/2009
+    11 USC APPENDIX Form 10                                     02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -22854,7 +23772,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 11A                                    01/05/2009
+    11 USC APPENDIX Form 11A                                    02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -22877,7 +23795,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 11B                                    01/05/2009
+    11 USC APPENDIX Form 11B                                    02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -22900,7 +23818,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 12                                     01/05/2009
+    11 USC APPENDIX Form 12                                     02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -22941,7 +23859,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 13                                     01/05/2009
+    11 USC APPENDIX Form 13                                     02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -22966,7 +23884,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 14                                     01/05/2009
+    11 USC APPENDIX Form 14                                     02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23024,7 +23942,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 15                                     01/05/2009
+    11 USC APPENDIX Form 15                                     02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23055,7 +23973,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 16A                                    01/05/2009
+    11 USC APPENDIX Form 16A                                    02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23128,7 +24046,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 16B                                    01/05/2009
+    11 USC APPENDIX Form 16B                                    02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23169,7 +24087,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 16C                                    01/05/2009
+    11 USC APPENDIX Form 16C                                    02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23211,7 +24129,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 16D                                    01/05/2009
+    11 USC APPENDIX Form 16D                                    02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23246,7 +24164,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 17                                     01/05/2009
+    11 USC APPENDIX Form 17                                     02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23303,7 +24221,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 18                                     01/05/2009
+    11 USC APPENDIX Form 18                                     02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23382,7 +24300,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 19                                     01/05/2009
+    11 USC APPENDIX Form 19                                     02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23435,7 +24353,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 19A                                    01/05/2009
+    11 USC APPENDIX Form 19A                                    02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23483,7 +24401,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 19B                                    01/05/2009
+    11 USC APPENDIX Form 19B                                    02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23516,7 +24434,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 20A                                    01/05/2009
+    11 USC APPENDIX Form 20A                                    02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23556,7 +24474,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 20B                                    01/05/2009
+    11 USC APPENDIX Form 20B                                    02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23596,7 +24514,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 21                                     01/05/2009
+    11 USC APPENDIX Form 21                                     02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23641,7 +24559,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 22A                                    01/05/2009
+    11 USC APPENDIX Form 22A                                    02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -24640,7 +25558,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 22B                                    01/05/2009
+    11 USC APPENDIX Form 22B                                    02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -24673,7 +25591,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 22C                                    01/05/2009
+    11 USC APPENDIX Form 22C                                    02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -24740,7 +25658,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 23                                     01/05/2009
+    11 USC APPENDIX Form 23                                     02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -24800,7 +25718,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 24                                     01/05/2009
+    11 USC APPENDIX Form 24                                     02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -24841,7 +25759,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 25A                                    01/05/2009
+    11 USC APPENDIX Form 25A                                    02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -24902,7 +25820,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 25B                                    01/05/2009
+    11 USC APPENDIX Form 25B                                    02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -25078,7 +25996,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 25C                                    01/05/2009
+    11 USC APPENDIX Form 25C                                    02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -25124,7 +26042,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 26                                     01/05/2009
+    11 USC APPENDIX Form 26                                     02/01/2010
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -25191,6 +26109,46 @@
     subdivisions (d) and (e) of that rule. The form includes
     instructions and examples of the types of information needed to
     complete it.
+
+-End-
+
+
+-CITE-
+    11 USC APPENDIX Form 27                                     02/01/2010
+
+-EXPCITE-
+    TITLE 11 - APPENDIX
+    FEDERAL RULES OF BANKRUPTCY PROCEDURE AND OFFICIAL BANKRUPTCY FORMS
+    OFFICIAL FORMS
+
+-HEAD-
+    Form 27
+
+-MISC1-
+<p><img src="http://uscode.house.gov/images/code09/11af27p1.gif" width=576 height=579 alt="Image of item"><p>
+
+    Form 27
+
+
+<p><img src="http://uscode.house.gov/images/code09/11af27p2.gif" width=576 height=579 alt="Image of item"><p>
+
+                           (ADDED DEC. 1, 2009.)                       
+
+                      COMMITTEE NOTES ON RULES - 2009                  
+
+      This form is new. It gathers certain financial information,
+    including information necessary for the court to determine whether
+    a reaffirmation agreement creates a presumption of undue hardship
+    under Sec. 524(m) of the Code, and it allows the debtor to provide
+    additional information that may rebut such a presumption.
+      To implement the requirements of Bankruptcy Rule 4008(b), the
+    form also provides for a disclosure of any differences between the
+    income and expenses reported on schedules I and J and the income
+    and expenses reported in the debtor's statement in support of the
+    reaffirmation agreement, together with an explanation of any such
+    differences.
+      Finally, the form requires a certification that the information
+    supplied is true and correct.
 
 -End-
 
