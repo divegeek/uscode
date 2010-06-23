@@ -1,5 +1,5 @@
 -CITE-
-    13 USC TITLE 13 - CENSUS                                    01/05/2009
+    13 USC TITLE 13 - CENSUS                                    02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -151,7 +151,7 @@
 
 
 -CITE-
-    13 USC CHAPTER 1 - ADMINISTRATION                           01/05/2009
+    13 USC CHAPTER 1 - ADMINISTRATION                           02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -235,7 +235,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/05/2009
+    13 USC SUBCHAPTER I - GENERAL PROVISIONS                    02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -250,7 +250,7 @@
 
 
 -CITE-
-    13 USC Sec. 1                                               01/05/2009
+    13 USC Sec. 1                                               02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -327,7 +327,7 @@
 
 
 -CITE-
-    13 USC Sec. 2                                               01/05/2009
+    13 USC Sec. 2                                               02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -365,7 +365,7 @@
 
 
 -CITE-
-    13 USC Sec. 3                                               01/05/2009
+    13 USC Sec. 3                                               02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -474,7 +474,7 @@
 
 
 -CITE-
-    13 USC Sec. 4                                               01/05/2009
+    13 USC Sec. 4                                               02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -546,7 +546,7 @@
 
 
 -CITE-
-    13 USC Sec. 5                                               01/05/2009
+    13 USC Sec. 5                                               02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -623,13 +623,15 @@
     title.
 
              RESTRICTION ON COLLECTION OF CENSUS DATA ON RACE         
-      Pub. L. 110-161, div. B, title I, Dec. 26, 2007, 121 Stat. 1887,
+      Pub. L. 111-117, div. B, title I, Dec. 16, 2009, 123 Stat. 3115,
     provided in part: "That none of the funds provided in this or any
     other Act for any fiscal year may be used for the collection of
     census data on race identification that does not include 'some
-    other race' as a category."
+    other race' as a category".
       Similar provisions were contained in the following prior
     appropriation acts:
+      Pub. L. 111-8, div. B, title I, Mar. 11, 2009, 123 Stat. 562.
+      Pub. L. 110-161, div. B, title I, Dec. 26, 2007, 121 Stat. 1887.
       Pub. L. 109-108, title II, Nov. 22, 2005, 119 Stat. 2308.
       Pub. L. 108-447, div. B, title II, Dec. 8, 2004, 118 Stat. 2876.
 
@@ -638,7 +640,7 @@
 
 
 -CITE-
-    13 USC Sec. 6                                               01/05/2009
+    13 USC Sec. 6                                               02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -734,7 +736,7 @@
 
 
 -CITE-
-    13 USC Sec. 7                                               01/05/2009
+    13 USC Sec. 7                                               02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -784,7 +786,7 @@
 
 
 -CITE-
-    13 USC Sec. 8                                               01/05/2009
+    13 USC Sec. 8                                               02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -905,7 +907,7 @@
 
 
 -CITE-
-    13 USC Sec. 9                                               01/05/2009
+    13 USC Sec. 9                                               02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1050,7 +1052,7 @@
 
 
 -CITE-
-    13 USC Sec. 10                                              01/05/2009
+    13 USC Sec. 10                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1070,7 +1072,7 @@
 
 
 -CITE-
-    13 USC Sec. 11                                              01/05/2009
+    13 USC Sec. 11                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1132,7 +1134,7 @@
 
 
 -CITE-
-    13 USC Sec. 12                                              01/05/2009
+    13 USC Sec. 12                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1157,7 +1159,7 @@
 
 
 -CITE-
-    13 USC Sec. 13                                              01/05/2009
+    13 USC Sec. 13                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1180,7 +1182,7 @@
 
 
 -CITE-
-    13 USC Sec. 14                                              01/05/2009
+    13 USC Sec. 14                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1207,7 +1209,7 @@
 
 
 -CITE-
-    13 USC Sec. 15                                              01/05/2009
+    13 USC Sec. 15                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1258,7 +1260,7 @@
 
 
 -CITE-
-    13 USC Sec. 16                                              01/05/2009
+    13 USC Sec. 16                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1349,7 +1351,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER II - OFFICERS AND EMPLOYEES               01/05/2009
+    13 USC SUBCHAPTER II - OFFICERS AND EMPLOYEES               02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1364,7 +1366,7 @@
 
 
 -CITE-
-    13 USC Sec. 21                                              01/05/2009
+    13 USC Sec. 21                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1410,7 +1412,7 @@
 
 
 -CITE-
-    13 USC Sec. 22                                              01/05/2009
+    13 USC Sec. 22                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1472,7 +1474,7 @@
 
 
 -CITE-
-    13 USC Sec. 23                                              01/05/2009
+    13 USC Sec. 23                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1726,7 +1728,7 @@
 
 
 -CITE-
-    13 USC Sec. 24                                              01/05/2009
+    13 USC Sec. 24                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1896,7 +1898,7 @@
 
 
 -CITE-
-    13 USC Sec. 25                                              01/05/2009
+    13 USC Sec. 25                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1950,7 +1952,7 @@
 
 
 -CITE-
-    13 USC Sec. 26                                              01/05/2009
+    13 USC Sec. 26                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1992,7 +1994,7 @@
 
 -CITE-
     13 USC CHAPTER 3 - COLLECTION AND PUBLICATION OF
-           STATISTICS                                      01/05/2009
+           STATISTICS                                      02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2043,7 +2045,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER I - COTTON                                01/05/2009
+    13 USC SUBCHAPTER I - COTTON                                02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2058,7 +2060,7 @@
 
 
 -CITE-
-    13 USC Sec. 41                                              01/05/2009
+    13 USC Sec. 41                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2100,7 +2102,7 @@
 
 
 -CITE-
-    13 USC Sec. 42                                              01/05/2009
+    13 USC Sec. 42                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2170,7 +2172,7 @@
 
 
 -CITE-
-    13 USC Sec. 43                                              01/05/2009
+    13 USC Sec. 43                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2211,7 +2213,7 @@
 
 
 -CITE-
-    13 USC Sec. 44                                              01/05/2009
+    13 USC Sec. 44                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2258,7 +2260,7 @@
 
 
 -CITE-
-    13 USC Sec. 45                                              01/05/2009
+    13 USC Sec. 45                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2303,7 +2305,7 @@
 
 -CITE-
     13 USC SUBCHAPTER II - OILSEEDS, NUTS, AND KERNELS; FATS,
-           OILS, AND GREASES                               01/05/2009
+           OILS, AND GREASES                               02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2319,7 +2321,7 @@
 
 
 -CITE-
-    13 USC Sec. 61                                              01/05/2009
+    13 USC Sec. 61                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2387,7 +2389,7 @@
 
 
 -CITE-
-    13 USC Sec. 62                                              01/05/2009
+    13 USC Sec. 62                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2424,7 +2426,7 @@
 
 
 -CITE-
-    13 USC Sec. 63                                              01/05/2009
+    13 USC Sec. 63                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2471,7 +2473,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER III - APPAREL AND TEXTILES                01/05/2009
+    13 USC SUBCHAPTER III - APPAREL AND TEXTILES                02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2486,7 +2488,7 @@
 
 
 -CITE-
-    13 USC Sec. 81                                              01/05/2009
+    13 USC Sec. 81                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2507,7 +2509,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER IV - QUARTERLY FINANCIAL STATISTICS       01/05/2009
+    13 USC SUBCHAPTER IV - QUARTERLY FINANCIAL STATISTICS       02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2528,7 +2530,7 @@
 
 
 -CITE-
-    13 USC Sec. 91                                              01/05/2009
+    13 USC Sec. 91                                              02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2696,7 +2698,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER V - MISCELLANEOUS                         01/05/2009
+    13 USC SUBCHAPTER V - MISCELLANEOUS                         02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2719,7 +2721,7 @@
 
 
 -CITE-
-    13 USC Sec. 101                                             01/05/2009
+    13 USC Sec. 101                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2815,7 +2817,7 @@
 
 
 -CITE-
-    13 USC Sec. 102                                             01/05/2009
+    13 USC Sec. 102                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2853,7 +2855,7 @@
 
 
 -CITE-
-    13 USC Sec. 103                                             01/05/2009
+    13 USC Sec. 103                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2924,7 +2926,7 @@
 
 
 -CITE-
-    13 USC CHAPTER 5 - CENSUSES                                 01/05/2009
+    13 USC CHAPTER 5 - CENSUSES                                 02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3003,7 +3005,7 @@
 
 -CITE-
     13 USC SUBCHAPTER I - MANUFACTURES, MINERAL INDUSTRIES,
-           AND OTHER BUSINESSES                            01/05/2009
+           AND OTHER BUSINESSES                            02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3020,7 +3022,7 @@
 
 
 -CITE-
-    13 USC Sec. 131                                             01/05/2009
+    13 USC Sec. 131                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3118,7 +3120,7 @@
 
 
 -CITE-
-    13 USC Sec. 132                                             01/05/2009
+    13 USC Sec. 132                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3162,7 +3164,7 @@
 
 -CITE-
     13 USC SUBCHAPTER II - POPULATION, HOUSING, AND
-           UNEMPLOYMENT                                    01/05/2009
+           UNEMPLOYMENT                                    02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3186,7 +3188,7 @@
 
 
 -CITE-
-    13 USC Sec. 141                                             01/05/2009
+    13 USC Sec. 141                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3809,7 +3811,7 @@
 
 
 -CITE-
-    13 USC Sec. 142                                             01/05/2009
+    13 USC Sec. 142                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3844,7 +3846,7 @@
 
 
 -CITE-
-    13 USC Secs. 143 to 146                                     01/05/2009
+    13 USC Secs. 143 to 146                                     02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3873,7 +3875,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER III - GOVERNMENTS                         01/05/2009
+    13 USC SUBCHAPTER III - GOVERNMENTS                         02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3888,7 +3890,7 @@
 
 
 -CITE-
-    13 USC Sec. 161                                             01/05/2009
+    13 USC Sec. 161                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3933,7 +3935,7 @@
 
 
 -CITE-
-    13 USC Sec. 162                                             01/05/2009
+    13 USC Sec. 162                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3954,7 +3956,7 @@
 
 
 -CITE-
-    13 USC Sec. 163                                             01/05/2009
+    13 USC Sec. 163                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3988,7 +3990,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER IV - INTERIM CURRENT DATA                 01/05/2009
+    13 USC SUBCHAPTER IV - INTERIM CURRENT DATA                 02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4003,7 +4005,7 @@
 
 
 -CITE-
-    13 USC Sec. 181                                             01/05/2009
+    13 USC Sec. 181                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4059,7 +4061,7 @@
 
 
 -CITE-
-    13 USC Sec. 182                                             01/05/2009
+    13 USC Sec. 182                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4088,7 +4090,7 @@
 
 
 -CITE-
-    13 USC Sec. 183                                             01/05/2009
+    13 USC Sec. 183                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4128,7 +4130,7 @@
 
 
 -CITE-
-    13 USC Sec. 184                                             01/05/2009
+    13 USC Sec. 184                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4160,7 +4162,7 @@
 
 -CITE-
     13 USC SUBCHAPTER V - GEOGRAPHIC SCOPE, PRELIMINARY AND
-           SUPPLEMENTAL STATISTICS, AND USE OF SAMPLING    01/05/2009
+           SUPPLEMENTAL STATISTICS, AND USE OF SAMPLING    02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4177,7 +4179,7 @@
 
 
 -CITE-
-    13 USC Sec. 191                                             01/05/2009
+    13 USC Sec. 191                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4255,7 +4257,7 @@
 
 
 -CITE-
-    13 USC Sec. 193                                             01/05/2009
+    13 USC Sec. 193                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4281,7 +4283,7 @@
 
 
 -CITE-
-    13 USC Sec. 195                                             01/05/2009
+    13 USC Sec. 195                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4322,7 +4324,7 @@
 
 
 -CITE-
-    13 USC Sec. 196                                             01/05/2009
+    13 USC Sec. 196                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4382,7 +4384,7 @@
 
 
 -CITE-
-    13 USC CHAPTER 7 - OFFENSES AND PENALTIES                   01/05/2009
+    13 USC CHAPTER 7 - OFFENSES AND PENALTIES                   02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4419,7 +4421,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER I - OFFICERS AND EMPLOYEES                01/05/2009
+    13 USC SUBCHAPTER I - OFFICERS AND EMPLOYEES                02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4434,7 +4436,7 @@
 
 
 -CITE-
-    13 USC Sec. 211                                             01/05/2009
+    13 USC Sec. 211                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4508,7 +4510,7 @@
 
 
 -CITE-
-    13 USC Sec. 212                                             01/05/2009
+    13 USC Sec. 212                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4571,7 +4573,7 @@
 
 
 -CITE-
-    13 USC Sec. 213                                             01/05/2009
+    13 USC Sec. 213                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4647,7 +4649,7 @@
 
 
 -CITE-
-    13 USC Sec. 214                                             01/05/2009
+    13 USC Sec. 214                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4736,7 +4738,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER II - OTHER PERSONS                        01/05/2009
+    13 USC SUBCHAPTER II - OTHER PERSONS                        02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4751,7 +4753,7 @@
 
 
 -CITE-
-    13 USC Sec. 221                                             01/05/2009
+    13 USC Sec. 221                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4856,7 +4858,7 @@
 
 
 -CITE-
-    13 USC Sec. 222                                             01/05/2009
+    13 USC Sec. 222                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4947,7 +4949,7 @@
 
 
 -CITE-
-    13 USC Sec. 223                                             01/05/2009
+    13 USC Sec. 223                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5059,7 +5061,7 @@
 
 
 -CITE-
-    13 USC Sec. 224                                             01/05/2009
+    13 USC Sec. 224                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5215,7 +5217,7 @@
 
 
 -CITE-
-    13 USC Sec. 225                                             01/05/2009
+    13 USC Sec. 225                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5335,7 +5337,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER III - PROCEDURE                           01/05/2009
+    13 USC SUBCHAPTER III - PROCEDURE                           02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5350,7 +5352,7 @@
 
 
 -CITE-
-    13 USC Sec. 241                                             01/05/2009
+    13 USC Sec. 241                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5427,7 +5429,7 @@
 
 -CITE-
     13 USC CHAPTER 9 - COLLECTION AND PUBLICATION OF FOREIGN
-           COMMERCE AND TRADE STATISTICS                   01/05/2009
+           COMMERCE AND TRADE STATISTICS                   02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5463,7 +5465,7 @@
 
 
 -CITE-
-    13 USC Sec. 301                                             01/05/2009
+    13 USC Sec. 301                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5815,7 +5817,7 @@
 
 
 -CITE-
-    13 USC Sec. 302                                             01/05/2009
+    13 USC Sec. 302                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5849,7 +5851,7 @@
 
 
 -CITE-
-    13 USC Sec. 303                                             01/05/2009
+    13 USC Sec. 303                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5882,7 +5884,7 @@
 
 
 -CITE-
-    13 USC Sec. 304                                             01/05/2009
+    13 USC Sec. 304                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5951,7 +5953,7 @@
 
 
 -CITE-
-    13 USC Sec. 305                                             01/05/2009
+    13 USC Sec. 305                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6089,7 +6091,7 @@
 
 
 -CITE-
-    13 USC Sec. 306                                             01/05/2009
+    13 USC Sec. 306                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6116,7 +6118,7 @@
 
 
 -CITE-
-    13 USC Sec. 307                                             01/05/2009
+    13 USC Sec. 307                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6138,7 +6140,7 @@
 
 
 -CITE-
-    13 USC CHAPTER 10 - EXCHANGE OF CENSUS INFORMATION          01/05/2009
+    13 USC CHAPTER 10 - EXCHANGE OF CENSUS INFORMATION          02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6163,7 +6165,7 @@
 
 
 -CITE-
-    13 USC Sec. 401                                             01/05/2009
+    13 USC Sec. 401                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6214,7 +6216,7 @@
 
 
 -CITE-
-    13 USC Sec. 402                                             01/05/2009
+    13 USC Sec. 402                                             02/01/2010
 
 -EXPCITE-
     TITLE 13 - CENSUS
