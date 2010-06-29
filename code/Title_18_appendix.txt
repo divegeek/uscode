@@ -1,19 +1,17 @@
 
 TITLE 18, APPENDIX - UNLAWFUL POSSESSION OR RECEIPT OF FIREARMS-CITE-
-    18 USC APPENDIX TITLE 18 - APPENDIX                         01/05/2009
+    18 USC APPENDIX TITLE 18 - APPENDIX                         02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
-    
--HEAD-    
+ 
+-HEAD- 
     TITLE 18 - APPENDIX
 
-
 -MISC1-
-Item
-                                                                    Page
+    Item                                                            Page
 
-    Unlawful Possession or Receipt of Firearms (Repealed)            809
+    Unlawful Possession or Receipt of Firearms (Repealed)            809   
     Interstate Agreement on Detainers (Pub. L. 91-538)               810
     Classified Information Procedures Act (Pub. L. 96-456)           814
     Federal Rules of Evidence                                        821
@@ -25,7 +23,7 @@ Item
 
 -CITE-
     18 USC APPENDIX UNLAWFUL POSSESSION OR RECEIPT
-      OF FIREARMS                                          01/05/2009
+      OF FIREARMS                                          02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -40,7 +38,7 @@ Item
 
 
 -CITE-
-    18 USC APPENDIX Secs. 1201 to 1203                          01/05/2009
+    18 USC APPENDIX Secs. 1201 to 1203                          02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -86,7 +84,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 -CITE-
     18 USC APPENDIX INTERSTATE AGREEMENT ON
-      DETAINERS                                            01/05/2009
+      DETAINERS                                            02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -107,7 +105,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 
 -CITE-
-    18 USC APPENDIX Sec. 1                                      01/05/2009
+    18 USC APPENDIX Sec. 1                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -128,7 +126,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 
 -CITE-
-    18 USC APPENDIX Sec. 2                                      01/05/2009
+    18 USC APPENDIX Sec. 2                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -405,7 +403,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 
 -CITE-
-    18 USC APPENDIX Sec. 3                                      01/05/2009
+    18 USC APPENDIX Sec. 3                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -440,7 +438,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 
 -CITE-
-    18 USC APPENDIX Sec. 4                                      01/05/2009
+    18 USC APPENDIX Sec. 4                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -465,7 +463,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 
 -CITE-
-    18 USC APPENDIX Sec. 5                                      01/05/2009
+    18 USC APPENDIX Sec. 5                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -491,7 +489,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 
 -CITE-
-    18 USC APPENDIX Sec. 6                                      01/05/2009
+    18 USC APPENDIX Sec. 6                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -526,7 +524,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 
 -CITE-
-    18 USC APPENDIX Sec. 7                                      01/05/2009
+    18 USC APPENDIX Sec. 7                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -547,7 +545,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 
 -CITE-
-    18 USC APPENDIX Sec. 8                                      01/05/2009
+    18 USC APPENDIX Sec. 8                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -573,7 +571,7 @@ TITLE 18, APPENDIX - INTERSTATE AGREEMENT ON DETAINERS
 
 
 -CITE-
-    18 USC APPENDIX Sec. 9                                      01/05/2009
+    18 USC APPENDIX Sec. 9                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -610,7 +608,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 -CITE-
     18 USC APPENDIX CLASSIFIED INFORMATION
-      PROCEDURES ACT                                       01/05/2009
+      PROCEDURES ACT                                       02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -627,7 +625,8 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
       PUB. L. 107-306, TITLE VIII, SEC. 811(B)(3), NOV. 27, 2002, 116
     STAT. 2423; PUB. L. 108-458, TITLE I, SEC. 1071(F), DEC. 17, 2004,
      118 STAT. 3691; PUB. L. 109-177, TITLE V, SEC. 506(A)(8), MAR. 9,
-                            2006, 120 STAT. 248
+    2006, 120 STAT. 248; PUB. L. 111-16, SEC. 4, MAY 7, 2009, 123 STAT.
+                                   1608
 
                                                                 
 
@@ -636,7 +635,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 1                                      01/05/2009
+    18 USC APPENDIX Sec. 1                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -664,7 +663,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 2                                      01/05/2009
+    18 USC APPENDIX Sec. 2                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -697,7 +696,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 3                                      01/05/2009
+    18 USC APPENDIX Sec. 3                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -720,7 +719,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 4                                      01/05/2009
+    18 USC APPENDIX Sec. 4                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -752,7 +751,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 5                                      01/05/2009
+    18 USC APPENDIX Sec. 5                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -798,7 +797,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 6                                      01/05/2009
+    18 USC APPENDIX Sec. 6                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -923,7 +922,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 7                                      01/05/2009
+    18 USC APPENDIX Sec. 7                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -942,29 +941,48 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
     the disclosure of classified information.
       (b) An appeal taken pursuant to this section either before or
     during trial shall be expedited by the court of appeals. Prior to
-    trial, an appeal shall be taken within ten days after the decision
-    or order appealed from and the trial shall not commence until the
-    appeal is resolved. If an appeal is taken during trial, the trial
-    court shall adjourn the trial until the appeal is resolved and the
-    court of appeals (1) shall hear argument on such appeal within four
-    days of the adjournment of the trial, (2) may dispense with written
+    trial, an appeal shall be taken within fourteen days after the
+    decision or order appealed from and the trial shall not commence
+    until the appeal is resolved. If an appeal is taken during trial,
+    the trial court shall adjourn the trial until the appeal is
+    resolved and the court of appeals (1) shall hear argument on such
+    appeal within four days of the adjournment of the trial, excluding
+    intermediate weekends and holidays, (2) may dispense with written
     briefs other than the supporting materials previously submitted to
     the trial court, (3) shall render its decision within four days of
-    argument on appeal, and (4) may dispense with the issuance of a
-    written opinion in rendering its decision. Such appeal and decision
-    shall not affect the right of the defendant, in a subsequent appeal
-    from a judgment of conviction, to claim as error reversal by the
-    trial court on remand of a ruling appealed from during trial.
+    argument on appeal, excluding intermediate weekends and holidays,
+    and (4) may dispense with the issuance of a written opinion in
+    rendering its decision. Such appeal and decision shall not affect
+    the right of the defendant, in a subsequent appeal from a judgment
+    of conviction, to claim as error reversal by the trial court on
+    remand of a ruling appealed from during trial.
 
 -SOURCE-
-    (Pub. L. 96-456, Sec. 7, Oct. 15, 1980, 94 Stat. 2028.)
+    (Pub. L. 96-456, Sec. 7, Oct. 15, 1980, 94 Stat. 2028; Pub. L. 111-
+    16, Sec. 4, May 7, 2009, 123 Stat. 1608.)
+
+
+-MISC1-
+                                AMENDMENTS                            
+      2009 - Subsec. (b). Pub. L. 111-16, Sec. 4(1), substituted
+    "fourteen days" for "ten days".
+      Subsec. (b)(1). Pub. L. 111-16, Sec. 4(2), inserted "excluding
+    intermediate weekends and holidays," after "adjournment of the
+    trial,".
+      Subsec. (b)(3). Pub. L. 111-16, Sec. 4(3), inserted "excluding
+    intermediate weekends and holidays," after "argument on appeal,".
+
+                     EFFECTIVE DATE OF 2009 AMENDMENT                 
+      Amendment by Pub. L. 111-16 effective Dec. 1, 2009, see section 7
+    of Pub. L. 111-16, set out as a note under section 109 of Title 11,
+    Bankruptcy.
 
 -End-
 
 
 
 -CITE-
-    18 USC APPENDIX Sec. 8                                      01/05/2009
+    18 USC APPENDIX Sec. 8                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1005,7 +1023,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 9                                      01/05/2009
+    18 USC APPENDIX Sec. 9                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1329,7 +1347,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 9A                                     01/05/2009
+    18 USC APPENDIX Sec. 9A                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1367,8 +1385,10 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
-      Executive Order No. 12958, referred to in subsec. (c), is set out
-    as a note under section 435 of Title 50, War and National Defense.
+      Executive Order No. 12958, referred to in subsec. (c), which was
+    set out as a note under section 435 of Title 50, War and National
+    Defense, was revoked by Ex. Ord. No. 13526, Sec. 6.2(g), Dec. 29,
+    2009, 75 F.R. 731.
 
 
 -MISC1-
@@ -1382,7 +1402,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 10                                     01/05/2009
+    18 USC APPENDIX Sec. 10                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1409,7 +1429,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 11                                     01/05/2009
+    18 USC APPENDIX Sec. 11                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1430,7 +1450,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 12                                     01/05/2009
+    18 USC APPENDIX Sec. 12                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1473,7 +1493,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 13                                     01/05/2009
+    18 USC APPENDIX Sec. 13                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1527,7 +1547,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 14                                     01/05/2009
+    18 USC APPENDIX Sec. 14                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1560,7 +1580,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 15                                     01/05/2009
+    18 USC APPENDIX Sec. 15                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1588,7 +1608,7 @@ TITLE 18, APPENDIX - CLASSIFIED INFORMATION       PROCEDURES ACT
 
 
 -CITE-
-    18 USC APPENDIX Sec. 16                                     01/05/2009
+    18 USC APPENDIX Sec. 16                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1609,7 +1629,7 @@ TITLE 18, APPENDIX - RULES OF EVIDENCE
 
 
 -CITE-
-    18 USC APPENDIX FEDERAL RULES OF EVIDENCE                   01/05/2009
+    18 USC APPENDIX FEDERAL RULES OF EVIDENCE                   02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1626,7 +1646,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 -CITE-
     18 USC APPENDIX FEDERAL RULES OF CRIMINAL
-      PROCEDURE                                            01/05/2009
+      PROCEDURE                                            02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1637,7 +1657,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -MISC1-
-                      (AS AMENDED TO JANUARY 5, 2009)                  
+                     (AS AMENDED TO FEBRUARY 1, 2010)                 
 
                                                                 
 
@@ -1684,7 +1704,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     2004, eff. Dec. 1, 2004; Pub. L. 108-458, title VI, Sec. 6501(a),
     Dec. 17, 2004, 118 Stat. 3760; Apr. 25, 2005, eff. Dec. 1, 2005;
     Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007;
-    Apr. 23, 2008, eff. Dec. 1, 2008.
+    Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.
 
                           TITLE I. APPLICABILITY                      
     Rule                                                     
@@ -1786,7 +1806,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX TITLE I. APPLICABILITY                      01/05/2009
+    18 USC APPENDIX TITLE I. APPLICABILITY                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -1801,7 +1821,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 1                                      01/05/2009
+    18 USC APPENDIX Rule 1                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -2072,7 +2092,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     stylistic only.
 
                  COMMITTEE NOTES ON RULES - 2008 AMENDMENT             
-      Subdivision (b)(ll). This amendment incorporates the definition
+      Subdivision (b)(11). This amendment incorporates the definition
     of the term "crime victim" found in the Crime Victims' Rights Act,
     codified at 18 U.S.C. Sec. 3771(e). It provides that "the term
     'crime victim' means a person directly and proximately harmed as a
@@ -2095,7 +2115,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 2                                      01/05/2009
+    18 USC APPENDIX Rule 2                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -2139,7 +2159,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 -CITE-
     18 USC APPENDIX TITLE II. PRELIMINARY
-      PROCEEDINGS                                          01/05/2009
+      PROCEEDINGS                                          02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -2154,7 +2174,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 3                                      01/05/2009
+    18 USC APPENDIX Rule 3                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -2225,7 +2245,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 4                                      01/05/2009
+    18 USC APPENDIX Rule 4                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -2666,7 +2686,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 5                                      01/05/2009
+    18 USC APPENDIX Rule 5                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -3267,7 +3287,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 5.1                                    01/05/2009
+    18 USC APPENDIX Rule 5.1                                    02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -3295,9 +3315,9 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     have the preliminary hearing conducted in the district where the
     prosecution is pending.
       (c) Scheduling. The magistrate judge must hold the preliminary
-    hearing within a reasonable time, but no later than 10 days after
+    hearing within a reasonable time, but no later than 14 days after
     the initial appearance if the defendant is in custody and no later
-    than 20 days if not in custody.
+    than 21 days if not in custody.
       (d) Extending the Time. With the defendant's consent and upon a
     showing of good cause - taking into account the public interest in
     the prompt disposition of criminal cases - a magistrate judge may
@@ -3336,7 +3356,8 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 -SOURCE-
     (Added Apr. 24, 1972, eff. Oct. 1, 1972; amended Mar. 9, 1987, eff.
     Aug. 1, 1987; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 24, 1998, eff.
-    Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002.)
+    Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -3615,12 +3636,16 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     that a district judge may perform any function in these rules that
     a magistrate judge may perform.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The times set in the former rule at 10 or 20 days have been
+    revised to 14 or 21 days. See the Committee Note to Rule 45(a).
+
 -End-
 
 
 -CITE-
     18 USC APPENDIX TITLE III. THE GRAND JURY, THE
-      INDICTMENT, AND THE INFORMATION                      01/05/2009
+      INDICTMENT, AND THE INFORMATION                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -3635,7 +3660,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 6                                      01/05/2009
+    18 USC APPENDIX Rule 6                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -5121,12 +5146,10 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
           government, when sought by a foreign court or prosecutor for
           use in an official criminal investigation';
             "(ii) in subclause (IV) - 
-              "(I) by inserting 'or foreign' after 'may disclose a 
-                violation of State';
-              "(II) by inserting 'or of a foreign government' after
-                 'to an appropriate official of a State or subdivision
-                 of a State'; and
-              "(III) by striking 'or' at the end;
+     "(I) by inserting 'or foreign' after 'may disclose a violation of State';
+     "(II) by inserting 'or of a foreign government' after 'to an appropriate 
+     official of a State or subdivision of a State'; and
+     "(III) by striking 'or' at the end;
             "(iii) by striking the period at the end of subclause (V)
           and inserting '; or'; and
             "(iv) by adding at the end the following:
@@ -5200,7 +5223,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 7                                      01/05/2009
+    18 USC APPENDIX Rule 7                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -5243,12 +5266,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       indictment to describe the defendant as an individual whose name
       is unknown, but who has a particular DNA profile, as that term is
       defined in that section 3282.
-        (2) Criminal Forfeiture. No judgment of forfeiture may be
-      entered in a criminal proceeding unless the indictment or the
-      information provides notice that the defendant has an interest in
-      property that is subject to forfeiture in accordance with the
-      applicable statute.
-        (3) Citation Error. Unless the defendant was misled and thereby
+        (2) Citation Error. Unless the defendant was misled and thereby
       prejudiced, neither an error in a citation nor a citation's
       omission is a ground to dismiss the indictment or information or
       to reverse a conviction.
@@ -5261,7 +5279,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     any time before the verdict or finding.
       (f) Bill of Particulars. The court may direct the government to
     file a bill of particulars. The defendant may move for a bill of
-    particulars before or within 10 days after arraignment or at a
+    particulars before or within 14 days after arraignment or at a
     later time if the court permits. The government may amend a bill of
     particulars subject to such conditions as justice requires.
 
@@ -5270,7 +5288,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     Oct. 1, 1972; Apr. 30, 1979, eff. Aug. 1, 1979; Mar. 9, 1987, eff.
     Aug. 1, 1987; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff.
     Dec. 1, 2002; Pub. L. 108-21, title VI, Sec. 610(b), Apr. 30, 2003,
-    117 Stat. 692.)
+    117 Stat. 692; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -5490,6 +5508,14 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     in the indictment. That material remains but without any reference
     to harmless error.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The time set in the former rule at 10 days has been revised to 14
+    days. See the Committee Note to Rule 45(a).
+      Subdivision (c). The provision regarding forfeiture is obsolete.
+    In 2000 the same language was repeated in subdivision (a) of Rule
+    32.2, which was intended to consolidate the rules dealing with
+    forfeiture.
+
                           AMENDMENT BY PUBLIC LAW                      
       2003 - Subd. (c)(1). Pub. L. 108-21 inserted at end "For purposes
     of an indictment referred to in section 3282 of title 18, United
@@ -5503,7 +5529,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 8                                      01/05/2009
+    18 USC APPENDIX Rule 8                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -5553,7 +5579,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 9                                      01/05/2009
+    18 USC APPENDIX Rule 9                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -5794,7 +5820,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 -CITE-
     18 USC APPENDIX TITLE IV. ARRAIGNMENT AND
-      PREPARATION FOR TRIAL                                01/05/2009
+      PREPARATION FOR TRIAL                                02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -5809,7 +5835,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 10                                     01/05/2009
+    18 USC APPENDIX Rule 10                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -6028,7 +6054,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 11                                     01/05/2009
+    18 USC APPENDIX Rule 11                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -8061,7 +8087,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 12                                     01/05/2009
+    18 USC APPENDIX Rule 12                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -8653,7 +8679,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 12.1                                   01/05/2009
+    18 USC APPENDIX Rule 12.1                                   02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -8669,7 +8695,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       request in writing that the defendant notify an attorney for the
       government of any intended alibi defense. The request must state
       the time, date, and place of the alleged offense.
-        (2) Defendant's Response. Within 10 days after the request, or
+        (2) Defendant's Response. Within 14 days after the request, or
       at some other time the court sets, the defendant must serve
       written notice on an attorney for the government of any intended
       alibi defense. The defendant's notice must state:
@@ -8703,9 +8729,9 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
         (2) Time to Disclose. Unless the court directs otherwise, an
       attorney for the government must give its Rule 12.1(b)(1)
-      disclosure within 10 days after the defendant serves notice of an
+      disclosure within 14 days after the defendant serves notice of an
       intended alibi defense under Rule 12.1(a)(2), but no later than
-      10 days before trial.
+      14 days before trial.
 
       (c) Continuing Duty to Disclose.
         (1) In General. Both an attorney for the government and the
@@ -8740,7 +8766,8 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     (Added Apr. 22, 1974, eff. Dec. 1, 1975; amended Pub. L. 94-64,
     Sec. 3(13), July 31, 1975, 89 Stat. 372; Apr. 29, 1985, eff. Aug.
     1, 1985; Mar. 9, 1987, eff. Aug. 1, 1987; Apr. 29, 2002, eff. Dec.
-    1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008.)
+    1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec.
+    1, 2009.)
 
 
 -MISC1-
@@ -8938,7 +8965,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     Victims' Rights Act, which states that victims have the right to be
     reasonably protected from the accused and to be treated with
     respect for the victim's dignity and privacy. See 18 U.S.C. Sec.
-    3771(a)(l) & (8). The rule provides that a victim's address and
+    3771(a)(1) & (8). The rule provides that a victim's address and
     telephone number should not automatically be provided to the
     defense when an alibi defense is raised. If a defendant establishes
     a need for this information, the court has discretion to order its
@@ -8955,6 +8982,10 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     to public comments, omitting the suggestion that the court might
     upon occasion have the defendant and victim meet.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The times set in the former rule at 10 days have been revised to
+    14 days. See the Committee Note to Rule 45(a).
+
                           AMENDMENT BY PUBLIC LAW                      
       1975 - Pub. L. 94-64 amended Rule 12.1 generally.
 
@@ -8968,7 +8999,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 12.2                                   01/05/2009
+    18 USC APPENDIX Rule 12.2                                   02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -9677,7 +9708,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 12.3                                   01/05/2009
+    18 USC APPENDIX Rule 12.3                                   02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -9709,8 +9740,8 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
         (3) Response to the Notice. An attorney for the government must
       serve a written response on the defendant or the defendant's
-      attorney within 10 days after receiving the defendant's notice,
-      but no later than 20 days before trial. The response must admit
+      attorney within 14 days after receiving the defendant's notice,
+      but no later than 21 days before trial. The response must admit
       or deny that the defendant exercised the public authority
       identified in the defendant's notice.
         (4) Disclosing Witnesses.
@@ -9721,12 +9752,12 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
         attorney for the government may serve the request when the
         government serves its response to the defendant's notice under
         Rule 12.3(a)(3), or later, but must serve the request no later
-        than 20 days before trial.
-          (B) Defendant's Response. Within 7 days after receiving the
+        than 21 days before trial.
+          (B) Defendant's Response. Within 14 days after receiving the
         government's request, the defendant must serve on an attorney
         for the government a written statement of the name, address,
         and telephone number of each witness.
-          (C) Government's Reply. Within 7 days after receiving the
+          (C) Government's Reply. Within 14 days after receiving the
         defendant's statement, an attorney for the government must
         serve on the defendant or the defendant's attorney a written
         statement of the name, address, and telephone number of each
@@ -9760,7 +9791,8 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 -SOURCE-
     (Added Pub. L. 100-690, title VI, Sec. 6483, Nov. 18, 1988, 102
-    Stat. 4382; amended Apr. 29, 2002, eff. Dec. 1, 2002.)
+    Stat. 4382; amended Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26,
+    2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -9775,12 +9807,16 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     restyled rule the requirement that the parties provide the
     telephone numbers of any witnesses disclosed under the rule.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The times set in the former rule at 7, 10, or 20 days have been
+    revised to 14 or 21 days. See the Committee Note to Rule 45(a).
+
 -End-
 
 
 
 -CITE-
-    18 USC APPENDIX Rule 12.4                                   01/05/2009
+    18 USC APPENDIX Rule 12.4                                   02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -9883,7 +9919,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 13                                     01/05/2009
+    18 USC APPENDIX Rule 13                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -9923,7 +9959,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 14                                     01/05/2009
+    18 USC APPENDIX Rule 14                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -9997,7 +10033,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 15                                     01/05/2009
+    18 USC APPENDIX Rule 15                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -10483,9 +10519,8 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
-      The Federal Rules of Evidence, referred to in subsec. (f), are
-    set out in the Appendix to Title 28, Judiciary and Judicial
-    Procedure.
+      The Federal Rules of Evidence, referred to in subd. (f), are set
+    out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 
 -MISC2-
@@ -10509,7 +10544,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 16                                     01/05/2009
+    18 USC APPENDIX Rule 16                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -12001,7 +12036,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 17                                     01/05/2009
+    18 USC APPENDIX Rule 17                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -12294,7 +12329,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 17.1                                   01/05/2009
+    18 USC APPENDIX Rule 17.1                                   02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -12364,7 +12399,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX TITLE V. VENUE                              01/05/2009
+    18 USC APPENDIX TITLE V. VENUE                              02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -12379,7 +12414,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 18                                     01/05/2009
+    18 USC APPENDIX Rule 18                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -12668,7 +12703,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 19                                     01/05/2009
+    18 USC APPENDIX Rule 19                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -12685,7 +12720,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 20                                     01/05/2009
+    18 USC APPENDIX Rule 20                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -12933,7 +12968,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 21                                     01/05/2009
+    18 USC APPENDIX Rule 21                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -13072,7 +13107,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 22                                     01/05/2009
+    18 USC APPENDIX Rule 22                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -13094,7 +13129,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX TITLE VI. TRIAL                             01/05/2009
+    18 USC APPENDIX TITLE VI. TRIAL                             02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -13109,7 +13144,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 23                                     01/05/2009
+    18 USC APPENDIX Rule 23                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -13427,7 +13462,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 24                                     01/05/2009
+    18 USC APPENDIX Rule 24                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -13623,7 +13658,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 25                                     01/05/2009
+    18 USC APPENDIX Rule 25                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -13709,7 +13744,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 26                                     01/05/2009
+    18 USC APPENDIX Rule 26                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -13819,7 +13854,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 26.1                                   01/05/2009
+    18 USC APPENDIX Rule 26.1                                   02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -13926,7 +13961,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 26.2                                   01/05/2009
+    18 USC APPENDIX Rule 26.2                                   02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -14168,7 +14203,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 -REFTEXT-
                             REFERENCES IN TEXT                        
       The Rules Governing Proceedings under 28 U.S.C. Sec. 2255,
-    referred to in subsec. (g)(5), are set out under section 2255 of
+    referred to in subd. (g)(5), are set out under section 2255 of
     Title 28, Judiciary and Judicial Procedure.
 
 
@@ -14184,7 +14219,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 26.3                                   01/05/2009
+    18 USC APPENDIX Rule 26.3                                   02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -14246,7 +14281,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 27                                     01/05/2009
+    18 USC APPENDIX Rule 27                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -14422,7 +14457,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 28                                     01/05/2009
+    18 USC APPENDIX Rule 28                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -14503,7 +14538,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 29                                     01/05/2009
+    18 USC APPENDIX Rule 29                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -14533,7 +14568,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     reserved.
       (c) After Jury Verdict or Discharge.
         (1) Time for a Motion. A defendant may move for a judgment of
-      acquittal, or renew such a motion, within 7 days after a guilty
+      acquittal, or renew such a motion, within 14 days after a guilty
       verdict or after the court discharges the jury, whichever is
       later.
         (2) Ruling on the Motion. If the jury has returned a guilty
@@ -14571,7 +14606,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     (As amended Feb. 28, 1966, eff. July 1, 1966; Pub. L. 99-646, Sec.
     54(a), Nov. 10, 1986, 100 Stat. 3607; Apr. 29, 1994, eff. Dec. 1,
     1994; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1,
-    2005.)
+    2005; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -14762,6 +14797,18 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       Changes Made After Publication and Comment. The Committee made no
     substantive changes to Rule 29 following publication.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      Former Rules 29, 33, and 34 adopted 7-day periods for their
+    respective motions. This period has been expanded to 14 days.
+    Experience has proved that in many cases it is not possible to
+    prepare a satisfactory motion in 7 days, even under the former rule
+    that excluded intermediate Saturdays, Sundays, and legal holidays.
+    This led to frequent requests for continuances, and the filing of
+    bare bones motions that required later supplementation. The 14-day
+    period - including intermediate Saturdays, Sundays, and legal
+    holidays as provided by Rule 45(a) - sets a more realistic time for
+    the filing of these motions.
+
                           AMENDMENT BY PUBLIC LAW                      
       1986 - Subd. (d). Pub. L. 99-646 added subd. (d).
 
@@ -14775,7 +14822,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 29.1                                   01/05/2009
+    18 USC APPENDIX Rule 29.1                                   02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -14841,7 +14888,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 30                                     01/05/2009
+    18 USC APPENDIX Rule 30                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -14944,7 +14991,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 31                                     01/05/2009
+    18 USC APPENDIX Rule 31                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -15083,7 +15130,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 -CITE-
     18 USC APPENDIX TITLE VII. POST-CONVICTION
-           PROCEDURES                                      01/05/2009
+           PROCEDURES                                      02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -15098,7 +15145,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 32                                     01/05/2009
+    18 USC APPENDIX Rule 32                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -15171,10 +15218,12 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
           (D) when the law provides for restitution, information
         sufficient for a restitution order;
           (E) if the court orders a study under 18 U.S.C. Sec. 3552(b),
-        any resulting report and recommendation; and
+        any resulting report and recommendation;
           (F) any other information that the court requires, including
         information relevant to the factors under 18 U.S.C. Sec.
-        3553(a).
+        3553(a); and
+          (G) specify whether the government seeks forfeiture under
+        Rule 32.2 and any other provision of law.
 
         (3) Exclusions. The presentence report must exclude the
       following:
@@ -15318,7 +15367,8 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     13, 1994, 108 Stat. 2078; Apr. 23, 1996, eff. Dec. 1, 1996; Pub. L.
     104-132, title II, Sec. 207(a), Apr. 24, 1996, 110 Stat. 1236; Apr.
     17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff. Dec. 1, 2002; Apr.
-    30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008.)
+    30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff. Dec. 1, 2008; Mar.
+    26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -16708,7 +16758,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     victim." The new statutory definition has been incorporated in an
     amendment to Rule 1, which supersedes the provisions that have been
     deleted here.
-      Subdivision (c)(l). This amendment implements the victim's
+      Subdivision (c)(1). This amendment implements the victim's
     statutory right under the Crime Victims' Rights Act to "full and
     timely restitution as provided in law." See 18 U.S.C. Sec.
     3771(a)(6). Whenever the law permits restitution, the presentence
@@ -16747,6 +16797,17 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     absent unusual circumstances any victim who is in the courtroom
     should have a reasonable opportunity to speak directly to the
     judge.
+
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      Subdivision (d)(2)(G). Rule 32.2(a) requires that the indictment
+    or information provide notice to the defendant of the government's
+    intent to seek forfeiture as part of the sentence. The amendment
+    provides that the same notice be provided as part of the
+    presentence report to the court. This will ensure timely
+    consideration of the issues concerning forfeiture as part of the
+    sentencing process.
+      Changes Made to Proposed Amendment Released for Public Comment.
+    No changes were made to the proposed amendment to Rule 32.
 
                           AMENDMENT BY PUBLIC LAW                      
       1996 - Subd. (b)(1). Pub. L. 104-132, Sec. 207(a)(1), inserted at
@@ -16901,7 +16962,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 32.1                                   01/05/2009
+    18 USC APPENDIX Rule 32.1                                   02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -17380,7 +17441,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 32.2                                   01/05/2009
+    18 USC APPENDIX Rule 32.2                                   02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -17395,47 +17456,129 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     forfeiture in a criminal proceeding unless the indictment or
     information contains notice to the defendant that the government
     will seek the forfeiture of property as part of any sentence in
-    accordance with the applicable statute.
+    accordance with the applicable statute. The notice should not be
+    designated as a count of the indictment or information. The
+    indictment or information need not identify the property subject to
+    forfeiture or specify the amount of any forfeiture money judgment
+    that the government seeks.
       (b) Entering a Preliminary Order of Forfeiture.
-        (1) In General. As soon as practicable after a verdict or
-      finding of guilty, or after a plea of guilty or nolo contendere
-      is accepted, on any count in an indictment or information
-      regarding which criminal forfeiture is sought, the court must
-      determine what property is subject to forfeiture under the
-      applicable statute. If the government seeks forfeiture of
-      specific property, the court must determine whether the
-      government has established the requisite nexus between the
-      property and the offense. If the government seeks a personal
-      money judgment, the court must determine the amount of money that
-      the defendant will be ordered to pay. The court's determination
-      may be based on evidence already in the record, including any
-      written plea agreement or, if the forfeiture is contested, on
-      evidence or information presented by the parties at a hearing
-      after the verdict or finding of guilt.
-        (2) Preliminary Order. If the court finds that property is
-      subject to forfeiture, it must promptly enter a preliminary order
-      of forfeiture setting forth the amount of any money judgment or
-      directing the forfeiture of specific property without regard to
-      any third party's interest in all or part of it. Determining
-      whether a third party has such an interest must be deferred until
-      any third party files a claim in an ancillary proceeding under
-      Rule 32.2(c).
+        (1) Forfeiture Phase of the Trial.
+          (A) Forfeiture Determinations. As soon as practical after a
+        verdict or finding of guilty, or after a plea of guilty or nolo
+        contendere is accepted, on any count in an indictment or
+        information regarding which criminal forfeiture is sought, the
+        court must determine what property is subject to forfeiture
+        under the applicable statute. If the government seeks
+        forfeiture of specific property, the court must determine
+        whether the government has established the requisite nexus
+        between the property and the offense. If the government seeks a
+        personal money judgment, the court must determine the amount of
+        money that the defendant will be ordered to pay.
+          (B) Evidence and Hearing. The court's determination may be
+        based on evidence already in the record, including any written
+        plea agreement, and on any additional evidence or information
+        submitted by the parties and accepted by the court as relevant
+        and reliable. If the forfeiture is contested, on either party's
+        request the court must conduct a hearing after the verdict or
+        finding of guilty.
+
+        (2) Preliminary Order.
+          (A) Contents of a Specific Order. If the court finds that
+        property is subject to forfeiture, it must promptly enter a
+        preliminary order of forfeiture setting forth the amount of any
+        money judgment, directing the forfeiture of specific property,
+        and directing the forfeiture of any substitute property if the
+        government has met the statutory criteria. The court must enter
+        the order without regard to any third party's interest in the
+        property. Determining whether a third party has such an
+        interest must be deferred until any third party files a claim
+        in an ancillary proceeding under Rule 32.2(c).
+          (B) Timing. Unless doing so is impractical, the court must
+        enter the preliminary order sufficiently in advance of
+        sentencing to allow the parties to suggest revisions or
+        modifications before the order becomes final as to the
+        defendant under Rule 32.2(b)(4).
+          (C) General Order. If, before sentencing, the court cannot
+        identify all the specific property subject to forfeiture or
+        calculate the total amount of the money judgment, the court may
+        enter a forfeiture order that:
+            (i) lists any identified property;
+            (ii) describes other property in general terms; and
+            (iii) states that the order will be amended under Rule
+          32.2(e)(1) when additional specific property is identified or
+          the amount of the money judgment has been calculated.
+
         (3) Seizing Property. The entry of a preliminary order of
       forfeiture authorizes the Attorney General (or a designee) to
       seize the specific property subject to forfeiture; to conduct any
       discovery the court considers proper in identifying, locating, or
       disposing of the property; and to commence proceedings that
-      comply with any statutes governing third-party rights. At
-      sentencing - or at any time before sentencing if the defendant
-      consents - the order of forfeiture becomes final as to the
-      defendant and must be made a part of the sentence and be included
-      in the judgment. The court may include in the order of forfeiture
-      conditions reasonably necessary to preserve the property's value
-      pending any appeal.
-        (4) Jury Determination. Upon a party's request in a case in
-      which a jury returns a verdict of guilty, the jury must determine
-      whether the government has established the requisite nexus
-      between the property and the offense committed by the defendant.
+      comply with any statutes governing third-party rights. The court
+      may include in the order of forfeiture conditions reasonably
+      necessary to preserve the property's value pending any appeal.
+        (4) Sentence and Judgment.
+          (A) When Final. At sentencing - or at any time before
+        sentencing if the defendant consents - the preliminary
+        forfeiture order becomes final as to the defendant. If the
+        order directs the defendant to forfeit specific property, it
+        remains preliminary as to third parties until the ancillary
+        proceeding is concluded under Rule 32.2(c).
+          (B) Notice and Inclusion in the Judgment. The court must
+        include the forfeiture when orally announcing the sentence or
+        must otherwise ensure that the defendant knows of the
+        forfeiture at sentencing. The court must also include the
+        forfeiture order, directly or by reference, in the judgment,
+        but the court's failure to do so may be corrected at any time
+        under Rule 36.
+          (C) Time to Appeal. The time for the defendant or the
+        government to file an appeal from the forfeiture order, or from
+        the court's failure to enter an order, begins to run when
+        judgment is entered. If the court later amends or declines to
+        amend a forfeiture order to include additional property under
+        Rule 32.2(e), the defendant or the government may file an
+        appeal regarding that property under Federal Rule of Appellate
+        Procedure 4(b). The time for that appeal runs from the date
+        when the order granting or denying the amendment becomes final.
+
+        (5) Jury Determination.
+          (A) Retaining the Jury. In any case tried before a jury, if
+        the indictment or information states that the government is
+        seeking forfeiture, the court must determine before the jury
+        begins deliberating whether either party requests that the jury
+        be retained to determine the forfeitability of specific
+        property if it returns a guilty verdict.
+          (B) Special Verdict Form. If a party timely requests to have
+        the jury determine forfeiture, the government must submit a
+        proposed Special Verdict Form listing each property subject to
+        forfeiture and asking the jury to determine whether the
+        government has established the requisite nexus between the
+        property and the offense committed by the defendant.
+
+        (6) Notice of the Forfeiture Order.
+          (A) Publishing and Sending Notice. If the court orders the
+        forfeiture of specific property, the government must publish
+        notice of the order and send notice to any person who
+        reasonably appears to be a potential claimant with standing to
+        contest the forfeiture in the ancillary proceeding.
+          (B) Content of the Notice. The notice must describe the
+        forfeited property, state the times under the applicable
+        statute when a petition contesting the forfeiture must be
+        filed, and state the name and contact information for the
+        government attorney to be served with the petition.
+          (C) Means of Publication; Exceptions to Publication
+        Requirement. Publication must take place as described in
+        Supplemental Rule G(4)(a)(iii) of the Federal Rules of Civil
+        Procedure, and may be by any means described in Supplemental
+        Rule G(4)(a)(iv). Publication is unnecessary if any exception
+        in Supplemental Rule G(4)(a)(i) applies.
+          (D) Means of Sending the Notice. The notice may be sent in
+        accordance with Supplemental Rules G(4)(b)(iii)-(v) of the
+        Federal Rules of Civil Procedure.
+
+        (7) Interlocutory Sale. At any time before entry of a final
+      forfeiture order, the court, in accordance with Supplemental Rule
+      G(7) of the Federal Rules of Civil Procedure, may order the
+      interlocutory sale of property alleged to be forfeitable.
 
       (c) Ancillary Proceeding; Entering a Final Order of Forfeiture.
         (1) In General. If, as prescribed by statute, a third party
@@ -17509,11 +17652,11 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 -SOURCE-
     (Added Apr. 17, 2000, eff. Dec. 1, 2000; amended Apr. 29, 2002,
-    eff. Dec. 1, 2002.)
+    eff. Dec. 1, 2002; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
-                 COMMITTEE NOTES ON RULES - 2000 AMENDMENT             
+                      COMMITTEE NOTES ON RULES - 2000                  
       Rule 32.2 consolidates a number of procedural rules governing the
     forfeiture of assets in a criminal case. Existing Rules 7(c)(2),
     31(e) and 32(d)(2) are also amended to conform to the new rule. In
@@ -18010,9 +18153,196 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     and to make style and terminology consistent throughout the rules.
     These changes are intended to be stylistic only.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      Subdivision (a). The amendment responds to some uncertainty
+    regarding the form of the required notice that the government will
+    seek forfeiture as part of the sentence, making it clear that the
+    notice should not be designated as a separate count in an
+    indictment or information. The amendment also makes it clear that
+    the indictment or information need only provide general notice that
+    the government is seeking forfeiture, without identifying the
+    specific property being sought. This is consistent with the 2000
+    Committee Note, as well as many lower court decisions.
+      Although forfeitures are not charged as counts, the federal
+    judiciary's Case Management and Electronic Case Files system should
+    note that forfeiture has been alleged so as to assist the parties
+    and the court in tracking the subsequent status of forfeiture
+    allegations.
+      The court may direct the government to file a bill of particulars
+    to inform the defendant of the identity of the property that the
+    government is seeking to forfeit or the amount of any money
+    judgment sought if necessary to enable the defendant to prepare a
+    defense or to avoid unfair surprise. See, e.g., United States v.
+    Moffitt, Zwerdling, & Kemler, P.C., 83 F.3d 660, 665 (4th Cir.
+    1996) (holding that the government need not list each asset subject
+    to forfeiture in the indictment because notice can be provided in a
+    bill of particulars); United States v. Vasquez-Ruiz, 136 F. Supp.
+    2d 941, 944 (N.D. Ill. 2001) (directing the government to identify
+    in a bill of particulars, at least 30 days before trial, the
+    specific items of property, including substitute assets, that it
+    claims are subject to forfeiture); United States v. Best, 657 F.
+    Supp. 1179, 1182 (N.D. Ill. 1987) (directing the government to
+    provide a bill of particulars apprising the defendants as to the
+    time periods during which they obtained the specified classes of
+    property through their alleged racketeering activity and the
+    interest in each of these properties that was allegedly obtained
+    unlawfully). See also United States v. Columbo, 2006 WL 2012511 * 5
+    & n.13 (S.D. N.Y. 2006) (denying motion for bill of particulars and
+    noting that government proposed sending letter detailing basis for
+    forfeiture allegations).
+      Subdivision (b)(1). Rule 32.2(b)(1) sets forth the procedure for
+    determining if property is subject to forfeiture. Subparagraph (A)
+    is carried forward from the current Rule without change.
+      Subparagraph (B) clarifies that the parties may submit additional
+    evidence relating to the forfeiture in the forfeiture phase of the
+    trial, which may be necessary even if the forfeiture is not
+    contested. Subparagraph (B) makes it clear that in determining what
+    evidence or information should be accepted, the court should
+    consider relevance and reliability. Finally, subparagraph (B)
+    requires the court to hold a hearing when forfeiture is contested.
+    The Committee foresees that in some instances live testimony will
+    be needed to determine the reliability of proffered information.
+    Cf. Rule 32.1(b)(1)(B)(iii) (providing the defendant in a
+    proceeding for revocation of probation or supervised release with
+    the opportunity, upon request, to question any adverse witness
+    unless the judge determines this is not in the interest of
+    justice).
+      Subdivision (b)(2)(A). Current Rule 32.2(b) provides the
+    procedure for issuing a preliminary forfeiture order once the court
+    finds that the government has established the nexus between the
+    property and the offense (or the amount of the money judgment). The
+    amendment makes clear that the preliminary order may include
+    substitute assets if the government has met the statutory criteria.
+      Subdivision (b)(2)(B). This new subparagraph focuses on the
+    timing of the preliminary forfeiture order, stating that the court
+    should issue the order "sufficiently in advance of sentencing to
+    allow the parties to suggest revisions or modifications before the
+    order becomes final." Many courts have delayed entry of the
+    preliminary order until the time of sentencing. This is undesirable
+    because the parties have no opportunity to advise the court of
+    omissions or errors in the order before it becomes final as to the
+    defendant (which occurs upon oral announcement of the sentence and
+    the entry of the criminal judgment). Once the sentence has been
+    announced, the rules give the sentencing court only very limited
+    authority to correct errors or omissions in the preliminary
+    forfeiture order. Pursuant to Rule 35(a), the district court may
+    correct a sentence, including an incorporated forfeiture order,
+    within seven days after oral announcement of the sentence. During
+    the seven-day period, corrections are limited to those necessary to
+    correct "arithmetical, technical, or other clear error." See United
+    States v. King, 368 F. Supp. 2d 509, 512-13 (D.S.C. 2005).
+    Corrections of clerical errors may also be made pursuant to Rule
+    36. If the order contains errors or omissions that do not fall
+    within Rules 35(a) or 36, and the court delays entry of the
+    preliminary forfeiture order until the time of sentencing, the
+    parties may be left with no alternative to an appeal, which is a
+    waste of judicial resources. The amendment requires the court to
+    enter the preliminary order in advance of sentencing to permit time
+    for corrections, unless it is not practical to do so in an
+    individual case.
+      Subdivision (b)(2)(C). The amendment explains how the court is to
+    reconcile the requirement that it make the forfeiture order part of
+    the sentence with the fact that in some cases the government will
+    not have completed its post-conviction investigation to locate the
+    forfeitable property by the time of sentencing. In that case the
+    court is authorized to issue a forfeiture order describing the
+    property in "general" terms, which order may be amended pursuant to
+    Rule 32.2(e)(1) when additional specific property is identified.
+      The authority to issue a general forfeiture order should be used
+    only in unusual circumstances and not as a matter of course. For
+    cases in which a general order was properly employed, see United
+    States v. BCCI Holdings (Luxembourg), 69 F. Supp. 2d 36 (D.D.C.
+    1999) (ordering forfeiture of all of a large, complex corporation's
+    assets in the United States, permitting the government to continue
+    discovery necessary to identify and trace those assets); United
+    States v. Saccoccia, 898 F. Supp. 53 (D.R.I. 1995) (ordering
+    forfeiture of up to a specified amount of laundered drug proceeds
+    so that the government could continue investigation which led to
+    the discovery and forfeiture of gold bars buried by the defendant
+    in his mother's back yard).
+      Subdivisions (b)(3) and (4). The amendment moves the language
+    explaining when the forfeiture order becomes final as to the
+    defendant to new subparagraph (b)(4)(A), where it is coupled with
+    new language explaining that the order is not final as to third
+    parties until the completion of the ancillary proceedings provided
+    for in Rule 32.2(c).
+      New subparagraphs (B) and (C) are intended to clarify what the
+    district court is required to do at sentencing, and to respond to
+    conflicting decisions in the courts regarding the application of
+    Rule 36 to correct clerical errors. The new subparagraphs add
+    considerable detail regarding the oral announcement of the
+    forfeiture at sentencing, the reference to the forfeiture order in
+    the judgment and commitment order, the availability of Rule 36 to
+    correct the failure to include the forfeiture order in the judgment
+    and commitment order, and the time to appeal.
+      New subparagraph (C) clarifies the time for appeals concerning
+    forfeiture by the defendant or government from two kinds of orders:
+    the original judgment of conviction and later orders amending or
+    refusing to amend the judgment under Rule 32.2(e) to add additional
+    property. This provision does not address appeals by the government
+    or a third party from orders in ancillary proceedings under Rule
+    32.2(c).
+      Subdivision (b)(5)(A). The amendment clarifies the procedure for
+    requesting a jury determination of forfeiture. The goal is to avoid
+    an inadvertent waiver of the right to a jury determination, while
+    also providing timely notice to the court and to the jurors
+    themselves if they will be asked to make the forfeiture
+    determination. The amendment requires that the court determine
+    whether either party requests a jury determination of forfeiture in
+    cases where the government has given notice that it is seeking
+    forfeiture and a jury has been empaneled to determine guilt or
+    innocence. The rule requires the court to make this determination
+    before the jury retires. Jurors who know that they may face an
+    additional task after they return their verdict will be more
+    accepting of the additional responsibility in the forfeiture
+    proceeding, and the court will be better able to plan as well.
+      Although the rule permits a party to make this request just
+    before the jury retires, it is desirable, when possible, to make
+    the request earlier, at the time when the jury is empaneled. This
+    allows the court to plan, and also allows the court to tell
+    potential jurors what to expect in terms of their service.
+      Subdivision (b)(5)(B) explains that "the government must submit a
+    proposed Special Verdict Form listing each property subject to
+    forfeiture." Use of such a form is desirable, and the government is
+    in the best position to draft the form.
+      Subdivisions (b)(6) and (7). These provisions are based upon the
+    civil forfeiture provisions in Supplemental Rule G of the Federal
+    Rules of Civil Procedure, which are also incorporated by cross
+    reference. The amendment governs such mechanical and technical
+    issues as the manner of publishing notice of forfeiture to third
+    parties and the interlocutory sale of property, bringing practice
+    under the Criminal Rules into conformity with the Civil Rules.
+      Changes Made to Proposed Amendment Released for Public Comment.
+    The proposed amendment to Rule 32.2 was modified to use the term
+    "property" throughout. As published, the proposed amendment used
+    the terms property and asset(s) interchangeably. No difference in
+    meaning was intended, and in order to avoid confusion, a single
+    term was used consistently throughout. The term "forfeiture order"
+    was substituted, where possible, for the wordier "order of
+    forfeiture." Other small stylistic changes (such as the insertion
+    of "the" in subpart titles) were also made to conform to the style
+    conventions.
+      In new subpart (b)(4)(C), dealing with the time for appeals, the
+    words "the defendant or the government" were substituted for the
+    phrase "a party." This portion of the rule addresses only appeals
+    from the original judgment of conviction and later orders amending
+    or refusing to amend the judgment under Rule 32.2(e) to add
+    additional property. Only the defendant and the government are
+    parties at this stage of the proceedings. This portion of the rule
+    does not address appeals by the government or a third party from
+    orders in ancillary proceedings under Rule 32.2(c). This point was
+    also clarified in the Committee note.
+      Additionally, two other changes were made to the Committee Note:
+    a reference to the use of the ECF system to aid the court and
+    parties in tracking the status of forfeiture allegations, and an
+    additional illustrative case.
+
 -REFTEXT-
                             REFERENCES IN TEXT                        
-      The Federal Rules of Civil Procedure, referred to in subsec.
+      The Supplemental Rules of the Federal Rules of Civil Procedure,
+    referred to in subd. (b)(6)(C), (D), (7), are set out in the
+    Appendix to Title 28, Judiciary and Judicial Procedure.
+      The Federal Rules of Civil Procedure, referred to in subd.
     (c)(1)(B), are set out in the Appendix to Title 28, Judiciary and
     Judicial Procedure.
 
@@ -18021,7 +18351,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 33                                     01/05/2009
+    18 USC APPENDIX Rule 33                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -18044,12 +18374,13 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       the appellate court remands the case.
         (2) Other Grounds. Any motion for a new trial grounded on any
       reason other than newly discovered evidence must be filed within
-      7 days after the verdict or finding of guilty.
+      14 days after the verdict or finding of guilty.
 
 -SOURCE-
     (As amended Feb. 28, 1966, eff. July 1, 1966; Mar. 9, 1987, eff.
     Aug. 1, 1987; Apr. 24, 1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff.
-    Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005.)
+    Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -18169,12 +18500,24 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       Changes Made After Publication and Comment. The Committee made no
     substantive changes to Rule 33 following publication.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      Former Rules 29, 33, and 34 adopted 7-day periods for their
+    respective motions. This period has been expanded to 14 days.
+    Experience has proved that in many cases it is not possible to
+    prepare a satisfactory motion in 7 days, even under the former rule
+    that excluded intermediate Saturdays, Sundays, and legal holidays.
+    This led to frequent requests for continuances, and the filing of
+    bare bones motions that required later supplementation. The 14-day
+    period - including intermediate Saturdays, Sundays, and legal
+    holidays as provided by Rule 45(a) - sets a more realistic time for
+    the filing of these motions.
+
 -End-
 
 
 
 -CITE-
-    18 USC APPENDIX Rule 34                                     01/05/2009
+    18 USC APPENDIX Rule 34                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -18193,12 +18536,13 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       offense.
 
       (b) Time to File. The defendant must move to arrest judgment
-    within 7 days after the court accepts a verdict or finding of
+    within 14 days after the court accepts a verdict or finding of
     guilty, or after a plea of guilty or nolo contendere.
 
 -SOURCE-
     (As amended Feb. 28, 1966, eff. July 1, 1966; Apr. 29, 2002, eff.
-    Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005.)
+    Dec. 1, 2002; Apr. 25, 2005, eff. Dec. 1, 2005; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -18282,12 +18626,24 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       Changes Made After Publication and Comment. The Committee made no
     substantive changes to Rule 34 following publication.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      Former Rules 29, 33, and 34 adopted 7-day periods for their
+    respective motions. This period has been expanded to 14 days.
+    Experience has proved that in many cases it is not possible to
+    prepare a satisfactory motion in 7 days, even under the former rule
+    that excluded intermediate Saturdays, Sundays, and legal holidays.
+    This led to frequent requests for continuances, and the filing of
+    bare bones motions that required later supplementation. The 14-day
+    period - including intermediate Saturdays, Sundays, and legal
+    holidays as provided by Rule 45(a) - sets a more realistic time for
+    the filing of these motions.
+
 -End-
 
 
 
 -CITE-
-    18 USC APPENDIX Rule 35                                     01/05/2009
+    18 USC APPENDIX Rule 35                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -18298,7 +18654,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     Rule 35. Correcting or Reducing a Sentence
 
 -STATUTE-
-      (a) Correcting Clear Error. Within 7 days after sentencing, the
+      (a) Correcting Clear Error. Within 14 days after sentencing, the
     court may correct a sentence that resulted from arithmetical,
     technical, or other clear error.
       (b) Reducing a Sentence for Substantial Assistance.
@@ -18337,7 +18693,8 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     eff. Aug. 1, 1985; Pub. L. 99-570, title I, Sec. 1009(a), Oct. 27,
     1986, 100 Stat. 3207-8; Apr. 30, 1991, eff. Dec. 1, 1991; Apr. 24,
     1998, eff. Dec. 1, 1998; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26,
-    2004, eff. Dec. 1, 2004; Apr. 30, 2007, eff. Dec. 1, 2007.)
+    2004, eff. Dec. 1, 2004; Apr. 30, 2007, eff. Dec. 1, 2007; Mar. 26,
+    2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -18811,6 +19168,19 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     deleted the reference to the Fifth Amendment from the description
     of the Supreme Court's decision in Booker.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      Former Rule 35 permitted the correction of arithmetic, technical,
+    or clear errors within 7 days of sentencing. In light of the
+    increased complexity of the sentencing process, the Committee
+    concluded it would be beneficial to expand this period to 14 days,
+    including intermediate Saturdays, Sundays, and legal holidays as
+    provided by Rule 45(a). Extension of the period in this fashion
+    will cause no jurisdictional problems if an appeal has been filed,
+    because Federal Rule of Appellate Procedure 4(b)(5) expressly
+    provides that the filing of a notice of appeal does not divest the
+    district court of jurisdiction to correct a sentence under Rule
+    35(a).
+
                           AMENDMENT BY PUBLIC LAW                      
       1986 - Subd. (b). Pub. L. 99-570 substituted "in accordance with
     the guidelines and policy statements issued by the Sentencing
@@ -18902,7 +19272,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 36                                     01/05/2009
+    18 USC APPENDIX Rule 36                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -18939,7 +19309,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 37                                     01/05/2009
+    18 USC APPENDIX Rule 37                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -18956,7 +19326,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 38                                     01/05/2009
+    18 USC APPENDIX Rule 38                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -19207,7 +19577,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 39                                     01/05/2009
+    18 USC APPENDIX Rule 39                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -19224,7 +19594,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 -CITE-
     18 USC APPENDIX TITLE VIII. SUPPLEMENTARY AND
-      SPECIAL PROCEEDINGS                                  01/05/2009
+      SPECIAL PROCEEDINGS                                  02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -19239,7 +19609,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 40                                     01/05/2009
+    18 USC APPENDIX Rule 40                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -19254,13 +19624,9 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       (a) In General. A person must be taken without unnecessary delay
     before a magistrate judge in the district of arrest if the person
     has been arrested under a warrant issued in another district for:
-        (i) (!1) failing to appear as required by the terms of that
-      person's release under 18 U.S.C. Secs. 3141-3156 or by a
-      subpoena; or
-
-        (ii) (!2) violating conditions of release set in another
-      district.
-
+        (i) failing to appear as required by the terms of that person's
+      release under 18 U.S.C. Secs. 3141-3156 or by a subpoena; or
+        (ii) violating conditions of release set in another district.
 
       (b) Proceedings. The judge must proceed under Rule 5(c)(3) as
     applicable.
@@ -19806,18 +20172,12 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     effect of such amendment, see section 235(a)(1) of Pub. L. 98-473,
     set out as an Effective Date note under section 3551 of this title.
 
--FOOTNOTE-
-    (!1) So in original. Probably should be "(1)".
-
-    (!2) So in original. Probably should be "(2)".
-
-
 -End-
 
 
 
 -CITE-
-    18 USC APPENDIX Rule 41                                     01/05/2009
+    18 USC APPENDIX Rule 41                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -19951,14 +20311,23 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
         whom it must be returned. The warrant must command the officer
         to:
             (i) execute the warrant within a specified time no longer
-          than 10 days;
+          than 14 days;
             (ii) execute the warrant during the daytime, unless the
           judge for good cause expressly authorizes execution at
           another time; and
             (iii) return the warrant to the magistrate judge designated
           in the warrant.
 
-          (B) Warrant for a Tracking Device. A tracking-device warrant
+          (B) Warrant Seeking Electronically Stored Information. A
+        warrant under Rule 41(e)(2)(A) may authorize the seizure of
+        electronic storage media or the seizure or copying of
+        electronically stored information. Unless otherwise specified,
+        the warrant authorizes a later review of the media or
+        information consistent with the warrant. The time for executing
+        the warrant in Rule 41(e)(2)(A) and (f)(1)(A) refers to the
+        seizure or on-site copying of the media or information, and not
+        to any later off-site copying or review.
+          (C) Warrant for a Tracking Device. A tracking-device warrant
         must identify the person or property to be tracked, designate
         the magistrate judge to whom it must be returned, and specify a
         reasonable length of time that the device may be used. The time
@@ -20009,7 +20378,12 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
         officer and the person from whom, or from whose premises, the
         property was taken. If either one is not present, the officer
         must prepare and verify the inventory in the presence of at
-        least one other credible person.
+        least one other credible person. In a case involving the
+        seizure of electronic storage media or the seizure or copying
+        of electronically stored information, the inventory may be
+        limited to describing the physical storage media that were
+        seized or copied. The officer may retain a copy of the
+        electronically stored information that was seized or copied.
           (C) Receipt. The officer executing the warrant must give a
         copy of the warrant and a receipt for the property taken to the
         person from whom, or from whose premises, the property was
@@ -20072,7 +20446,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     Apr. 22, 1993, eff. Dec. 1, 1993; Pub. L. 107-56, title II, Sec.
     219, Oct. 26, 2001, 115 Stat. 291; Apr. 29, 2002, eff. Dec. 1,
     2002; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 23, 2008, eff. Dec. 1,
-    2008.)
+    2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -20169,10 +20543,10 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
     U.S.C., Title 49:
 
-     Section 781 (Unlawful use of vessels, vehicles, and aircrafts;
-          contraband article defined)
-     Section 782 (Seizure and forfeiture)
-     Section 784 (Application of related laws)
+     Section 781 [now 80302] (Unlawful use of vessels, vehicles, and
+          aircrafts; contraband article defined)
+     Section 782 [now 80303] (Seizure and forfeiture)
+     Section 784 [now 80306] (Application of related laws)
 
            NOTES OF ADVISORY COMMITTEE ON RULES - 1948 AMENDMENT       
       Subdivision (b)(3). - The amendment is to substitute proper
@@ -21247,6 +21621,103 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     the jurisdictional provision upon which it was based, 18 U.S.C.
     Sec. 7(9).
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The time set in the former rule at 10 days has been revised to 14
+    days. See the Committee Note to Rule 45(a).
+      Subdivision (e)(2). Computers and other electronic storage media
+    commonly contain such large amounts of information that it is often
+    impractical for law enforcement to review all of the information
+    during execution of the warrant at the search location. This rule
+    acknowledges the need for a two-step process: officers may seize or
+    copy the entire storage medium and review it later to determine
+    what electronically stored information falls within the scope of
+    the warrant.
+      The term "electronically stored information" is drawn from Rule
+    34(a) of the Federal Rules of Civil Procedure, which states that it
+    includes "writings, drawings, graphs, charts, photographs, sound
+    recordings, images, and other data or data compilations stored in
+    any medium from which information can be obtained." The 2006
+    Committee Note to Rule 34(a) explains that the description is
+    intended to cover all current types of computer-based information
+    and to encompass future changes and developments. The same broad
+    and flexible description is intended under Rule 41.
+      In addition to addressing the two-step process inherent in
+    searches for electronically stored information, the Rule limits the
+    10 [14] day execution period to the actual execution of the warrant
+    and the on-site activity. While consideration was given to a
+    presumptive national or uniform time period within which any
+    subsequent off-site copying or review of the media or
+    electronically stored information would take place, the practical
+    reality is that there is no basis for a "one size fits all"
+    presumptive period. A substantial amount of time can be involved in
+    the forensic imaging and review of information. This is due to the
+    sheer size of the storage capacity of media, difficulties created
+    by encryption and booby traps, and the workload of the computer
+    labs. The rule does not prevent a judge from imposing a deadline
+    for the return of the storage media or access to the electronically
+    stored information at the time the warrant is issued. However, to
+    arbitrarily set a presumptive time period for the return could
+    result in frequent petitions to the court for additional time.
+      It was not the intent of the amendment to leave the property
+    owner without an expectation of the timing for return of the
+    property, excluding contraband or instrumentalities of crime, or a
+    remedy. Current Rule 41(g) already provides a process for the
+    "person aggrieved" to seek an order from the court for a return of
+    the property, including storage media or electronically stored
+    information, under reasonable circumstances.
+      Where the "person aggrieved" requires access to the storage media
+    or the electronically stored information earlier than anticipated
+    by law enforcement or ordered by the court, the court on a case by
+    case basis can fashion an appropriate remedy, taking into account
+    the time needed to image and search the data and any prejudice to
+    the aggrieved party.
+      The amended rule does not address the specificity of description
+    that the Fourth Amendment may require in a warrant for
+    electronically stored information, leaving the application of this
+    and other constitutional standards concerning both the seizure and
+    the search to ongoing case law development.
+      Subdivision (f)(1). Current Rule 41(f)(1) does not address the
+    question of whether the inventory should include a description of
+    the electronically stored information contained in the media
+    seized. Where it is impractical to record a description of the
+    electronically stored information at the scene, the inventory may
+    list the physical storage media seized. Recording a description of
+    the electronically stored information at the scene is likely to be
+    the exception, and not the rule, given the large amounts of
+    information contained on electronic storage media and the
+    impracticality for law enforcement to image and review all of the
+    information during the execution of the warrant. This is consistent
+    with practice in the "paper world." In circumstances where filing
+    cabinets of documents are seized, routine practice is to list the
+    storage devices, i.e., the cabinets, on the inventory, as opposed
+    to making a document by document list of the contents.
+      Changes Made to Proposed Amendment Released for Public Comment.
+    The words "copying or" were added to the last line of Rule
+    41(e)(2)(B) to clarify that copying as well as review may take
+    place off-site.
+      The Committee Note was amended to reflect the change to the text
+    and to clarify that the amended Rule does not speak to
+    constitutional questions concerning warrants for electronic
+    information. Issues of particularity and search protocol are
+    presently working their way through the courts. Compare United
+    States v. Carey, 172 F.3d 1268 (10th Cir. 1999) (finding warrant
+    authorizing search for "documentary evidence pertaining to the sale
+    and distribution of controlled substances" to prohibit opening of
+    files with a .jpg suffix) and United States v. Fleet Management
+    Ltd., 521 F. Supp. 2d 436 (E.D. Pa. 2007) (warrant invalid when it
+    "did not even attempt to differentiate between data that there was
+    probable cause to seize and data that was completely unrelated to
+    any relevant criminal activity") with United States v.
+    Comprehensive Drug Testing, Inc., 513 F.3d 1085 (9th Cir. 2008)
+    (the government had no reason to confine its search to key words;
+    "computer files are easy to disguise or rename, and were we to
+    limit the warrant to such a specific search protocol, much evidence
+    could escape discovery simply because of [the defendants'] labeling
+    of the files"); United States v. Brooks, 427 F.3d 1246 (10th Cir.
+    2005) (rejecting requirement that warrant describe specific search
+    methodology).
+      Minor changes were also made to conform to style conventions.
+
                           AMENDMENT BY PUBLIC LAW                      
       2001 - Subd. (a). Pub. L. 107-56 inserted before period at end
     "and (3) in an investigation of domestic terrorism or international
@@ -21277,7 +21748,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 42                                     01/05/2009
+    18 USC APPENDIX Rule 42                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -21511,7 +21982,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX TITLE IX. GENERAL PROVISIONS                01/05/2009
+    18 USC APPENDIX TITLE IX. GENERAL PROVISIONS                02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -21526,7 +21997,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 43                                     01/05/2009
+    18 USC APPENDIX Rule 43                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -21809,7 +22280,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     apply; revised Rule 43(b) is former Rule 43(c).
 
                           AMENDMENT BY PUBLIC LAW                      
-      1975 - Pub. L. 94-62 amended subd. (b)(2) generally.
+      1975 - Pub. L. 94-64 amended subd. (b)(2) generally.
 
       EFFECTIVE DATE OF AMENDMENTS PROPOSED APRIL 22, 1974; EFFECTIVE
                           DATE OF 1975 AMENDMENTS
@@ -21824,7 +22295,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 44                                     01/05/2009
+    18 USC APPENDIX Rule 44                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -22327,7 +22798,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 45                                     01/05/2009
+    18 USC APPENDIX Rule 45                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -22339,35 +22810,58 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 -STATUTE-
       (a) Computing Time. The following rules apply in computing any
-    period of time specified in these rules, any local rule, or any
-    court order:
-        (1) Day of the Event Excluded. Exclude the day of the act,
-      event, or default that begins the period.
-        (2) Exclusion from Brief Periods. Exclude intermediate
-      Saturdays, Sundays, and legal holidays when the period is less
-      than 11 days.
-        (3) Last Day. Include the last day of the period unless it is a
-      Saturday, Sunday, legal holiday, or day on which weather or other
-      conditions make the clerk's office inaccessible. When the last
-      day is excluded, the period runs until the end of the next day
-      that is not a Saturday, Sunday, legal holiday, or day when the
-      clerk's office is inaccessible.
-        (4) "Legal Holiday" Defined. As used in this rule, "legal
-      holiday" means:
-          (A) the day set aside by statute for observing:
-            (i) New Year's Day;
-            (ii) Martin Luther King, Jr.'s Birthday;
-            (iii) Washington's Birthday;
-            (iv) Memorial Day;
-            (v) Independence Day;
-            (vi) Labor Day;
-            (vii) Columbus Day;
-            (viii) Veterans' Day;
-            (ix) Thanksgiving Day;
-            (x) Christmas Day; and
+    time period specified in these rules, in any local rule or court
+    order, or in any statute that does not specify a method of
+    computing time.
+        (1) Period Stated in Days or a Longer Unit. When the period is
+      stated in days or a longer unit of time:
+          (A) exclude the day of the event that triggers the period;
+          (B) count every day, including intermediate Saturdays,
+        Sundays, and legal holidays; and
+          (C) include the last day of the period, but if the last day
+        is a Saturday, Sunday, or legal holiday, the period continues
+        to run until the end of the next day that is not a Saturday,
+        Sunday, or legal holiday.
 
-          (B) any other day declared a holiday by the President, the
-        Congress, or the state where the district court is held.
+        (2) Period Stated in Hours. When the period is stated in hours:
+          (A) begin counting immediately on the occurrence of the event
+        that triggers the period;
+          (B) count every hour, including hours during intermediate
+        Saturdays, Sundays, and legal holidays; and
+          (C) if the period would end on a Saturday, Sunday, or legal
+        holiday, the period continues to run until the same time on the
+        next day that is not a Saturday, Sunday, or legal holiday.
+
+        (3) Inaccessibility of the Clerk's Office. Unless the court
+      orders otherwise, if the clerk's office is inaccessible:
+          (A) on the last day for filing under Rule 45(a)(1), then the
+        time for filing is extended to the first accessible day that is
+        not a Saturday, Sunday, or legal holiday; or
+          (B) during the last hour for filing under Rule 45(a)(2), then
+        the time for filing is extended to the same time on the first
+        accessible day that is not a Saturday, Sunday, or legal
+        holiday.
+
+        (4) "Last Day" Defined. Unless a different time is set by a
+      statute, local rule, or court order, the last day ends:
+          (A) for electronic filing, at midnight in the court's time
+        zone; and
+          (B) for filing by other means, when the clerk's office is
+        scheduled to close.
+
+        (5) "Next Day" Defined. The "next day" is determined by
+      continuing to count forward when the period is measured after an
+      event and backward when measured before an event.
+        (6) "Legal Holiday" Defined. "Legal holiday" means:
+          (A) the day set aside by statute for observing New Year's
+        Day, Martin Luther King Jr.'s Birthday, Washington's Birthday,
+        Memorial Day, Independence Day, Labor Day, Columbus Day,
+        Veterans' Day, Thanksgiving Day, or Christmas Day;
+          (B) any day declared a holiday by the President or Congress;
+        and
+          (C) for periods that are measured after an event, any other
+        day declared a holiday by the state where the district court is
+        located.
 
       (b) Extending Time.
         (1) In General. When an act must or may be done within a
@@ -22393,7 +22887,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     Aug. 1, 1982; Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 9, 1987, eff.
     Aug. 1, 1987; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 25, 2005, eff.
     Dec. 1, 2005; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff.
-    Dec. 1, 2008.)
+    Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -22598,6 +23092,224 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     Federal Rules of Civil Procedure. No substantive change is
     intended.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      Subdivision (a). Subdivision (a) has been amended to simplify and
+    clarify the provisions that describe how deadlines are computed.
+    Subdivision (a) governs the computation of any time period found in
+    a statute that does not specify a method of computing time, a
+    Federal Rule of Criminal Procedure, a local rule, or a court order.
+    In accordance with Rule 57(a)(1), a local rule may not direct that
+    a deadline be computed in a manner inconsistent with subdivision
+    (a). In making these time computation rules applicable to statutory
+    time periods, subdivision (a) is consistent with Civil Rule 6(a).
+    It is also consistent with the language of Rule 45 prior to
+    restyling, when the rule applied to "computing any period of time."
+    Although the restyled Rule 45(a) referred only to time periods
+    "specified in these rules, any local rule, or any court order,"
+    some courts nonetheless applied the restyled Rule 45(a) when
+    computing various statutory periods.
+      The time-computation provisions of subdivision (a) apply only
+    when a time period must be computed. They do not apply when a fixed
+    time to act is set. The amendments thus carry forward the approach
+    taken in Violette v. P.A. Days, Inc., 427 F.3d 1015, 1016 (6th Cir.
+    2005) (holding that Civil Rule 6(a) "does not apply to situations
+    where the court has established a specific calendar day as a
+    deadline"), and reject the contrary holding of In re American
+    Healthcare Management, Inc., 900 F.2d 827, 832 (5th Cir. 1990)
+    (holding that Bankruptcy Rule 9006(a) governs treatment of a date-
+    certain deadline set by court order). If, for example, the date
+    for filing is "no later than November 1, 2007," subdivision (a)
+    does not govern. But if a filing is required to be made "within 10
+    days" or "within 72 hours," subdivision (a) describes how that
+    deadline is computed.
+      Subdivision (a) does not apply when computing a time period set
+    by a statute if the statute specifies a method of computing time.
+    See, e.g., 18 U.S.C. Sec. 3142(d) (excluding Saturdays, Sundays,
+    and holidays from 10 day period). In addition, because the time
+    period in Rule 46(h) is derived from 18 U.S.C. Secs. 3142(d) and
+    3144, the Committee concluded that Rule 45(a) should not be applied
+    to Rule 46(h).
+      Subdivision (a)(1). New subdivision (a)(1) addresses the
+    computation of time periods that are stated in days. It also
+    applies to time periods that are stated in weeks, months, or years.
+    See, e.g., Rule 35(b)(1). Subdivision (a)(1)(B)'s directive to
+    "count every day" is relevant only if the period is stated in days
+    (not weeks, months or years).
+      Under former Rule 45(a), a period of 11 days or more was computed
+    differently than a period of less than 11 days. Intermediate
+    Saturdays, Sundays, and legal holidays were included in computing
+    the longer periods, but excluded in computing the shorter periods.
+    Former Rule 45(a) thus made computing deadlines unnecessarily
+    complicated and led to counterintuitive results. For example, a 10-
+    day period and a 14-day period that started on the same day
+    usually ended on the same day - and the 10-day period not
+    infrequently ended later than the 14-day period. See Miltimore
+    Sales, Inc. v. Int'1 Rectifier, Inc., 412 F.3d 685, 686 (6th Cir.
+    2005).
+      Under new subdivision (a)(1), all deadlines stated in days (no
+    matter the length) are computed in the same way. The day of the
+    event that triggers the deadline is not counted. All other days -
+    including intermediate Saturdays, Sundays, and legal holidays - are
+    counted, with only one exception: if the period ends on a Saturday,
+    Sunday, or legal holiday, then the deadline falls on the next day
+    that is not a Saturday, Sunday, or legal holiday. An illustration
+    is provided below in the discussion of subdivision (a)(5).
+    Subdivision (a)(3) addresses filing deadlines that expire on a day
+    when the clerk's office is inaccessible.
+      Where subdivision (a) formerly referred to the "act, event, or
+    default" that triggers the deadline, the new subdivision (a) refers
+    simply to the "event" that triggers the deadline; this change in
+    terminology is adopted for brevity and simplicity, and is not
+    intended to change the meaning.
+      Periods previously expressed as less than 11 days will be
+    shortened as a practical matter by the decision to count
+    intermediate Saturdays, Sundays, and legal holidays in computing
+    all periods. Many of those periods have been lengthened to
+    compensate for the change. See, e.g., Rules 29(c)(1), 33(b)(2), 34,
+    and 35(a).
+      Most of the 10-day periods were adjusted to meet the change in
+    computation method by setting 14 days as the new period. A 14-day
+    period corresponds to the most frequent result of a 10-day period
+    under the former computation method - two Saturdays and two Sundays
+    were excluded, giving 14 days in all. A 14-day period has an
+    additional advantage. The final day falls on the same day of the
+    week as the event that triggered the period - the 14th day after a
+    Monday, for example, is a Monday. This advantage of using weeklong
+    periods led to adopting 7-day periods to replace some of the
+    periods set at less than 10 days, and 21-day periods to replace 20-
+    day periods. Thirty-day and longer periods, however, were
+    generally retained without change.
+      Subdivision (a)(2). New subdivision (a)(2) addresses the
+    computation of time periods that are stated in hours. No such
+    deadline currently appears in the Federal Rules of Criminal
+    Procedure. But some statutes contain deadlines stated in hours, as
+    do some court orders issued in expedited proceedings.
+      Under subdivision (a)(2), a deadline stated in hours starts to
+    run immediately on the occurrence of the event that triggers the
+    deadline. The deadline generally ends when the time expires. If,
+    however, the time period expires at a specific time (say, 2:17
+    p.m.) on a Saturday, Sunday, or legal holiday, then the deadline is
+    extended to the same time (2:17 p.m.) on the next day that is not a
+    Saturday, Sunday, or legal holiday. Periods stated in hours are not
+    to be "rounded up" to the next whole hour. Subdivision (a)(3)
+    addresses situations when the clerk's office is inaccessible during
+    the last hour before a filing deadline expires.
+      Subdivision (a)(2)(B) directs that every hour be counted. Thus,
+    for example, a 72-hour period that commences at 10:23 a.m. on
+    Friday, November 2, 2007, will run until 9:23 a.m. on Monday,
+    November 5; the discrepancy in start and end times in this example
+    results from the intervening shift from daylight saving time to
+    standard time.
+      Subdivision (a)(3). When determining the last day of a filing
+    period stated in days or a longer unit of time, a day on which the
+    clerk's office is not accessible because of the weather or another
+    reason is treated like a Saturday, Sunday, or legal holiday. When
+    determining the end of a filing period stated in hours, if the
+    clerk's office is inaccessible during the last hour of the filing
+    period computed under subdivision (a)(2) then the period is
+    extended to the same time on the next day that is not a weekend,
+    holiday or day when the clerk's office is inaccessible.
+      Subdivision (a)(3)'s extensions apply "[u]nless the court orders
+    otherwise." In some circumstances, the court might not wish a
+    period of inaccessibility to trigger a full 24-hour extension; in
+    those instances, the court can specify a briefer extension.
+      The text of the rule no longer refers to "weather or other
+    conditions" as the reason for the inaccessibility of the clerk's
+    office. The reference to "weather" was deleted from the text to
+    underscore that inaccessibility can occur for reasons unrelated to
+    weather, such as an outage of the electronic filing system. Weather
+    can still be a reason for inaccessibility of the clerk's office.
+    The rule does not attempt to define inaccessibility. Rather, the
+    concept will continue to develop through caselaw, see, e.g.,
+    William G. Phelps, When Is Office of Clerk of Court Inaccessible
+    Due to Weather or Other Conditions for Purpose of Computing Time
+    Period for Filing Papers under Rule 6(a) of Federal Rules of Civil
+    Procedure, 135 A.L.R. Fed. 259 (1996) (collecting cases). In
+    addition, many local provisions address inaccessibility for
+    purposes of electronic filing, see, e.g., D. Kan. Rule CR49.11 ("A
+    Filing User whose filing is made untimely as the result of a
+    technical failure may seek appropriate relief from the court.").
+      Subdivision (a)(4). New subdivision (a)(4) defines the end of the
+    last day of a period for purposes of subdivision (a)(1).
+    Subdivision (a)(4) does not apply in computing periods stated in
+    hours under subdivision (a)(2), and does not apply if a different
+    time is set by a statute, local rule, or order in the case. A local
+    rule may, for example, address the problems that might arise if a
+    single district has clerk's offices in different time zones, or
+    provide that papers filed in a drop box after the normal hours of
+    the clerk's office are filed as of the day that is date-stamped on
+    the papers by a device in the drop box.
+      28 U.S.C. Sec. 452 provides that "[a]ll courts of the United
+    States shall be deemed always open for the purpose of filing proper
+    papers, issuing and returning process, and making motions and
+    orders." A corresponding provision exists in Rule 56(a). Some
+    courts have held that these provisions permit an after-hours filing
+    by handing the papers to an appropriate official. See, e.g.,
+    Casalduc v. Diaz, 117 F.2d 915, 917 (1st Cir. 1941). Subdivision
+    (a)(4) does not address the effect of the statute on the question
+    of after-hours filing; instead, the rule is designed to deal with
+    filings in the ordinary course without regard to Section 452.
+      Subdivision (a)(5). New subdivision (a)(5) defines the "next" day
+    for purposes of subdivisions (a)(1)(C) and (a)(2)(C). The Federal
+    Rules of Criminal Procedure contain both forward-looking time
+    periods and backward-looking time periods. A forward-looking time
+    period requires something to be done within a period of time after
+    an event. See, e.g., Rule 35(a) (stating that a court may correct
+    an arithmetic or technical error in a sentence "[w]ithin 14 days
+    after sentencing"). A backward-looking time period requires
+    something to be done within a period of time before an event. See,
+    e.g., Rule 47(c) (stating that a party must serve a written motion
+    "at least 7 days before the hearing date"). In determining what is
+    the "next" day for purposes of subdivisions (a)(1)(C) and
+    (a)(2)(C), one should continue counting in the same direction -
+    that is, forward when computing a forward-looking period and
+    backward when computing a backward-looking period. If, for example,
+    a filing is due within 10 days after an event, and the tenth day
+    falls on Saturday, September 1, 2007, then the filing is due on
+    Tuesday, September 4, 2007 (Monday, September 3, is Labor Day). But
+    if a filing is due 10 days before an event, and the tenth day falls
+    on Saturday, September 1, then the filing is due on Friday, August
+    31. If the clerk's office is inaccessible on August 31, then
+    subdivision (a)(3) extends the filing deadline forward to the next
+    accessible day that is not a Saturday, Sunday, or legal holiday -
+    no earlier than Tuesday, September 4.
+      Subdivision (a)(6). New subdivision (a)(6) defines "legal
+    holiday" for purposes of the Federal Rules of Criminal Procedure,
+    including the time-computation provisions of subdivision (a).
+    Subdivision (a)(6) continues to include within the definition of
+    "legal holiday" days that are declared a holiday by the President
+    or Congress.
+      For forward-counted periods - i.e., periods that are measured
+    after an event - subdivision (a)(6)(C) includes certain state
+    holidays within the definition of legal holidays. However, state
+    legal holidays are not recognized in computing backward-counted
+    periods. For both forward- and backward-counted periods, the rule
+    thus protects those who may be unsure of the effect of state
+    holidays. For forward-counted deadlines, treating state holidays
+    the same as federal holidays extends the deadline. Thus, someone
+    who thought that the federal courts might be closed on a state
+    holiday would be safeguarded against an inadvertent late filing. In
+    contrast, for backward-counted deadlines, not giving state holidays
+    the treatment of federal holidays allows filing on the state
+    holiday itself rather than the day before. Take, for example,
+    Monday, April 21, 2008 (Patriot's Day, a legal holiday in the
+    relevant state). If a filing is due 14 days after an event, and the
+    fourteenth day is April 21, then the filing is due on Tuesday,
+    April 22 because Monday, April 21 counts as a legal holiday. But if
+    a filing is due 14 days before an event, and the fourteenth day is
+    April 21, the filing is due on Monday, April 21; the fact that
+    April 21 is a state holiday does not make April 21 a legal holiday
+    for purposes of computing this backward-counted deadline. But note
+    that if the clerk's office is inaccessible on Monday, April 21,
+    then subdivision (a)(3) extends the April 21 filing deadline
+    forward to the next accessible day that is not a Saturday, Sunday
+    or legal holiday - no earlier than Tuesday, April 22.
+      Changes Made to Proposed Amendment Released for Public Comment.
+    The Standing Committee changed Rule 45(a)(6) to exclude state
+    holidays from the definition of "legal holiday" for purposes of
+    computing backward-counted periods; conforming changes were made to
+    the Committee Note to subdivision (a)(6).
+
 -REFTEXT-
                             REFERENCES IN TEXT                        
       The Federal Rules of Civil Procedure, referred to in subd. (c),
@@ -22609,7 +23321,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 46                                     01/05/2009
+    18 USC APPENDIX Rule 46                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -22966,7 +23678,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 47                                     01/05/2009
+    18 USC APPENDIX Rule 47                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -22986,7 +23698,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     sought. A motion may be supported by affidavit.
       (c) Timing of a Motion. A party must serve a written motion -
     other than one that the court may hear ex parte - and any hearing
-    notice at least 5 days before the hearing date, unless a rule or
+    notice at least 7 days before the hearing date, unless a rule or
     court order sets a different period. For good cause, the court may
     set a different period upon ex parte application.
       (d) Affidavit Supporting a Motion. The moving party must serve
@@ -22995,7 +23707,8 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     unless the court permits later service.
 
 -SOURCE-
-    (As amended Apr. 29, 2002, eff. Dec. 1, 2002.)
+    (As amended Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff.
+    Dec. 1, 2009.)
 
 
 -MISC1-
@@ -23032,12 +23745,17 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     of that word, the Committee substituted the broader phrase "by
     other means."
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The time set in the former rule at 5 days, which excluded
+    intermediate Saturdays, Sundays, and legal holidays, has been
+    expanded to 7 days. See the Committee Note to Rule 45(a).
+
 -End-
 
 
 
 -CITE-
-    18 USC APPENDIX Rule 48                                     01/05/2009
+    18 USC APPENDIX Rule 48                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -23125,7 +23843,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 49                                     01/05/2009
+    18 USC APPENDIX Rule 49                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -23304,7 +24022,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 49.1                                   01/05/2009
+    18 USC APPENDIX Rule 49.1                                   02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -23539,7 +24257,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 50                                     01/05/2009
+    18 USC APPENDIX Rule 50                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -23732,7 +24450,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 51                                     01/05/2009
+    18 USC APPENDIX Rule 51                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -23802,7 +24520,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 52                                     01/05/2009
+    18 USC APPENDIX Rule 52                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -23867,7 +24585,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 53                                     01/05/2009
+    18 USC APPENDIX Rule 53                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -23928,7 +24646,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 54                                     01/05/2009
+    18 USC APPENDIX Rule 54                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -23962,7 +24680,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 55                                     01/05/2009
+    18 USC APPENDIX Rule 55                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -24049,7 +24767,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 56                                     01/05/2009
+    18 USC APPENDIX Rule 56                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -24068,11 +24786,10 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     except Saturdays, Sundays, and legal holidays.
       (c) Special Hours. A court may provide by local rule or order
     that its clerk's office will be open for specified hours on
-    Saturdays or legal holidays other than than those set aside by
-    statute for observing New Year's Day, Martin Luther King, Jr.'s
-    Birthday, Washington's Birthday, Memorial Day, Independence Day,
-    Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, and
-    Christmas Day.
+    Saturdays or legal holidays other than those set aside by statute
+    for observing New Year's Day, Martin Luther King, Jr.'s Birthday,
+    Washington's Birthday, Memorial Day, Independence Day, Labor Day,
+    Columbus Day, Veterans' Day, Thanksgiving Day, and Christmas Day.
 
 -SOURCE-
     (As amended Dec. 27, 1948, eff. Oct. 20, 1949; Feb. 28, 1966, eff.
@@ -24130,7 +24847,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 57                                     01/05/2009
+    18 USC APPENDIX Rule 57                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -24288,7 +25005,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 58                                     01/05/2009
+    18 USC APPENDIX Rule 58                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -24427,14 +25144,14 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       judge's order or a judgment of conviction or sentence.
         (2) From a Magistrate Judge's Order or Judgment.
           (A) Interlocutory Appeal. Either party may appeal an order of
-        a magistrate judge to a district judge within 10 days of its
+        a magistrate judge to a district judge within 14 days of its
         entry if a district judge's order could similarly be appealed.
         The party appealing must file a notice with the clerk
         specifying the order being appealed and must serve a copy on
         the adverse party.
           (B) Appeal from a Conviction or Sentence. A defendant may
         appeal a magistrate judge's judgment of conviction or sentence
-        to a district judge within 10 days of its entry. To appeal, the
+        to a district judge within 14 days of its entry. To appeal, the
         defendant must file a notice with the clerk specifying the
         judgment being appealed and must serve a copy on an attorney
         for the government.
@@ -24461,7 +25178,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     (Added May 1, 1990, eff. Dec. 1, 1990; amended Apr. 30, 1991, eff.
     Dec. 1, 1991; Apr. 22, 1993, eff. Dec. 1, 1993; Apr. 11, 1997, eff.
     Dec. 1, 1997; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 12, 2006, eff.
-    Dec. 1, 2006.)
+    Dec. 1, 2006; Mar. 26, 2009, eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -24647,6 +25364,10 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       Changes Made After Publication and Comment. The Committee [made]
     no changes to the Rule or Committee note after publication.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The times set in the former rule at 10 days have been revised to
+    14 days. See the Committee Note to Rule 45(a).
+
 -REFTEXT-
                             REFERENCES IN TEXT                        
       The Federal Rules of Appellate Procedure, referred to in subd.
@@ -24658,7 +25379,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 59                                     01/05/2009
+    18 USC APPENDIX Rule 59                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -24674,7 +25395,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     of a charge or defense. The magistrate judge must promptly conduct
     the required proceedings and, when appropriate, enter on the record
     an oral or written order stating the determination. A party may
-    serve and file objections to the order within 10 days after being
+    serve and file objections to the order within 14 days after being
     served with a copy of a written order or after the oral order is
     stated on the record, or at some other time the court sets. The
     district judge must consider timely objections and modify or set
@@ -24693,7 +25414,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       recommendation for disposing of the matter, including any
       proposed findings of fact. The clerk must immediately serve
       copies on all parties.
-        (2) Objections to Findings and Recommendations. Within 10 days
+        (2) Objections to Findings and Recommendations. Within 14 days
       after being served with a copy of the recommended disposition, or
       at some other time the court sets, a party may serve and file
       specific written objections to the proposed findings and
@@ -24709,7 +25430,8 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       matter to the magistrate judge with instructions.
 
 -SOURCE-
-    (Added Apr. 25, 2005, eff. Dec. 1, 2005.)
+    (Added Apr. 25, 2005, eff. Dec. 1, 2005; amended Mar. 26, 2009,
+    eff. Dec. 1, 2009.)
 
 
 -MISC1-
@@ -24795,12 +25517,16 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     the rule, or the Note, what matters might be dispositive or
     nondispositive.
 
+                 COMMITTEE NOTES ON RULES - 2009 AMENDMENT             
+      The times set in the former rule at 10 days have been revised to
+    14 days. See the Committee Note to Rule 45(a).
+
 -End-
 
 
 
 -CITE-
-    18 USC APPENDIX Rule 60                                     01/05/2009
+    18 USC APPENDIX Rule 60                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
@@ -24866,7 +25592,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
       This rule implements several provisions of the Crime Victims'
     Rights Act, codified at 18 U.S.C. Sec. 3771, in judicial
     proceedings in the federal courts.
-      Subdivision (a)(l). This subdivision incorporates 18 U.S.C. Sec.
+      Subdivision (a)(1). This subdivision incorporates 18 U.S.C. Sec.
     3771(a)(2), which provides that a victim has a "right to
     reasonable, accurate, and timely notice of any public court
     proceeding. . . ." The enactment of 18 U.S.C. Sec. 3771(a)(2)
@@ -24898,14 +25624,14 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
     reasonably heard at any public proceeding in the district court
     involving release, plea, [or] sentencing. . . ."
       Subdivision (b). This subdivision incorporates the provisions of
-    18 U.S.C. Sec. 3771(d)(l), (2), (3), and (5). The statute provides
+    18 U.S.C. Sec. 3771(d)(1), (2), (3), and (5). The statute provides
     that the victim, the victim's lawful representative, and the
     attorney for the government, and any other person as authorized by
     18 U.S.C. Sec. 377l(d) and (e) may assert the victim's rights. In
     referring to the victim and the victim's lawful representative, the
     committee intends to include counsel. 18 U.S.C. Sec. 3771(e) makes
     provision for the rights of victims who are incompetent,
-    incapacitated, or deceased, and 18 U.S.C. Sec. 3771(d)(l) provides
+    incapacitated, or deceased, and 18 U.S.C. Sec. 3771(d)(1) provides
     that "[a] person accused of the crime may not obtain any form of
     relief under this chapter."
       The statute provides that those rights are to be asserted in the
@@ -24949,7 +25675,7 @@ TITLE 18, APPENDIX - RULES OF CRIMINAL PROCEDURE
 
 
 -CITE-
-    18 USC APPENDIX Rule 61                                     01/05/2009
+    18 USC APPENDIX Rule 61                                     02/01/2010
 
 -EXPCITE-
     TITLE 18 - APPENDIX
