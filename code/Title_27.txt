@@ -1,5 +1,5 @@
 -CITE-
-    27 USC TITLE 27 - INTOXICATING LIQUORS                      01/05/2009
+    27 USC TITLE 27 - INTOXICATING LIQUORS                      02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -28,7 +28,7 @@
 
 
 -CITE-
-    27 USC CHAPTER 1 - GENERAL PROVISIONS                       01/05/2009
+    27 USC CHAPTER 1 - GENERAL PROVISIONS                       02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -66,7 +66,7 @@
 
 
 -CITE-
-    27 USC Secs. 1 to 5                                         01/05/2009
+    27 USC Secs. 1 to 5                                         02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -106,7 +106,7 @@
 
 
 -CITE-
-    27 USC CHAPTER 2 - PROHIBITION OF INTOXICATING BEVERAGES    01/05/2009
+    27 USC CHAPTER 2 - PROHIBITION OF INTOXICATING BEVERAGES    02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -126,7 +126,7 @@
 
 
 -CITE-
-    27 USC Secs. 11 to 40                                       01/05/2009
+    27 USC Secs. 11 to 40                                       02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -282,7 +282,7 @@
 
 
 -CITE-
-    27 USC Sec. 40a                                             01/05/2009
+    27 USC Sec. 40a                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -306,7 +306,7 @@
 
 
 -CITE-
-    27 USC Secs. 41 to 43                                       01/05/2009
+    27 USC Secs. 41 to 43                                       02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -334,7 +334,7 @@
 
 
 -CITE-
-    27 USC Secs. 43a, 43b                                       01/05/2009
+    27 USC Secs. 43a, 43b                                       02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -360,7 +360,7 @@
 
 
 -CITE-
-    27 USC Secs. 44 to 57                                       01/05/2009
+    27 USC Secs. 44 to 57                                       02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -438,7 +438,7 @@
 
 
 -CITE-
-    27 USC Secs. 58 to 60                                       01/05/2009
+    27 USC Secs. 58 to 60                                       02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -463,7 +463,7 @@
 
 
 -CITE-
-    27 USC Secs. 61, 62                                         01/05/2009
+    27 USC Secs. 61, 62                                         02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -489,7 +489,7 @@
 
 
 -CITE-
-    27 USC Sec. 63                                              01/05/2009
+    27 USC Sec. 63                                              02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -510,7 +510,7 @@
 
 
 -CITE-
-    27 USC Secs. 63a to 63d                                     01/05/2009
+    27 USC Secs. 63a to 63d                                     02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -545,7 +545,7 @@
 
 
 -CITE-
-    27 USC Sec. 64                                              01/05/2009
+    27 USC Sec. 64                                              02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -565,7 +565,7 @@
 
 -CITE-
     27 USC CHAPTER 2A - BEER, ALE, PORTER, AND SIMILAR
-           FERMENTED LIQUOR                                01/05/2009
+           FERMENTED LIQUOR                                02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -579,7 +579,7 @@
 
 
 -CITE-
-    27 USC Secs. 64a to 64o                                     01/05/2009
+    27 USC Secs. 64a to 64o                                     02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -641,7 +641,7 @@
 
 
 -CITE-
-    27 USC Sec. 64p                                             01/05/2009
+    27 USC Sec. 64p                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -660,7 +660,7 @@
 
 
 -CITE-
-    27 USC CHAPTER 3 - INDUSTRIAL ALCOHOL                       01/05/2009
+    27 USC CHAPTER 3 - INDUSTRIAL ALCOHOL                       02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -674,7 +674,7 @@
 
 
 -CITE-
-    27 USC Secs. 71 to 90a                                      01/05/2009
+    27 USC Secs. 71 to 90a                                      02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -799,7 +799,7 @@
 
 
 -CITE-
-    27 USC CHAPTER 4 - PENALTIES                                01/05/2009
+    27 USC CHAPTER 4 - PENALTIES                                02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -813,7 +813,7 @@
 
 
 -CITE-
-    27 USC Secs. 91, 92                                         01/05/2009
+    27 USC Secs. 91, 92                                         02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -838,7 +838,7 @@
 
 
 -CITE-
-    27 USC CHAPTER 5 - PROHIBITION REORGANIZATION ACT OF 1930   01/05/2009
+    27 USC CHAPTER 5 - PROHIBITION REORGANIZATION ACT OF 1930   02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -852,7 +852,7 @@
 
 
 -CITE-
-    27 USC Secs. 101 to 108                                     01/05/2009
+    27 USC Secs. 101 to 108                                     02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -897,7 +897,7 @@
 
 
 -CITE-
-    27 USC CHAPTER 6 - TRANSPORTATION IN INTERSTATE COMMERCE    01/05/2009
+    27 USC CHAPTER 6 - TRANSPORTATION IN INTERSTATE COMMERCE    02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -922,7 +922,7 @@
 
 
 -CITE-
-    27 USC Sec. 121                                             01/05/2009
+    27 USC Sec. 121                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -957,7 +957,7 @@
 
 
 -CITE-
-    27 USC Sec. 122                                             01/05/2009
+    27 USC Sec. 122                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1002,7 +1002,7 @@
 
 
 -CITE-
-    27 USC Sec. 122a                                            01/05/2009
+    27 USC Sec. 122a                                            02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1144,7 +1144,7 @@
 
 
 -CITE-
-    27 USC Sec. 122b                                            01/05/2009
+    27 USC Sec. 122b                                            02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1207,7 +1207,7 @@
 
 
 -CITE-
-    27 USC Sec. 123                                             01/05/2009
+    27 USC Sec. 123                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1218,17 +1218,17 @@
 
 -MISC1-
       Section, acts Mar. 3, 1917, ch. 162, Sec. 5, 39 Stat. 1069; Mar.
-    4, 1917, ch. 192, 39 Stat. 1202; Feb. 24, 1919, ch. 18, Sec. 1407,
-    40 Stat. 1151; Jan. 11, 1934, ch. 1, title I, Sec. 12, 48 Stat.
-    316, prescribed punishment for violation of section 122 of this
-    title.
+    4, 1917, ch. 192, 39 Stat. 1202; Feb. 24, 1919, ch. 18, title XIV,
+    Sec. 1407, 40 Stat. 1151; Jan. 11, 1934, ch. 1, title I, Sec. 12,
+    48 Stat. 316, prescribed punishment for violation of section 122 of
+    this title.
 
 -End-
 
 
 
 -CITE-
-    27 USC Sec. 124                                             01/05/2009
+    27 USC Sec. 124                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1275,7 +1275,7 @@
 
 
 -CITE-
-    27 USC CHAPTER 7 - LIQUOR LAW REPEAL AND ENFORCEMENT ACT    01/05/2009
+    27 USC CHAPTER 7 - LIQUOR LAW REPEAL AND ENFORCEMENT ACT    02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1289,7 +1289,7 @@
 
 
 -CITE-
-    27 USC Secs. 151 to 167                                     01/05/2009
+    27 USC Secs. 151 to 167                                     02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1382,7 +1382,7 @@
 
 
 -CITE-
-    27 USC CHAPTER 8 - FEDERAL ALCOHOL ADMINISTRATION ACT       01/05/2009
+    27 USC CHAPTER 8 - FEDERAL ALCOHOL ADMINISTRATION ACT       02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1423,7 +1423,7 @@
 
 
 -CITE-
-    27 USC SUBCHAPTER I - FEDERAL ALCOHOL ADMINISTRATION        01/05/2009
+    27 USC SUBCHAPTER I - FEDERAL ALCOHOL ADMINISTRATION        02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1438,7 +1438,7 @@
 
 
 -CITE-
-    27 USC Sec. 201                                             01/05/2009
+    27 USC Sec. 201                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1500,7 +1500,7 @@
 
 
 -CITE-
-    27 USC Sec. 202                                             01/05/2009
+    27 USC Sec. 202                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1577,7 +1577,7 @@
 
 
 -CITE-
-    27 USC Secs. 202a, 202b                                     01/05/2009
+    27 USC Secs. 202a, 202b                                     02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1601,7 +1601,7 @@
 
 
 -CITE-
-    27 USC Sec. 202c                                            01/05/2009
+    27 USC Sec. 202c                                            02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1624,7 +1624,7 @@
 
 
 -CITE-
-    27 USC Sec. 203                                             01/05/2009
+    27 USC Sec. 203                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1712,7 +1712,7 @@
 
 
 -CITE-
-    27 USC Sec. 204                                             01/05/2009
+    27 USC Sec. 204                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1925,7 +1925,7 @@
 
 
 -CITE-
-    27 USC Sec. 205                                             01/05/2009
+    27 USC Sec. 205                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2282,7 +2282,7 @@
 
 
 -CITE-
-    27 USC Sec. 206                                             01/05/2009
+    27 USC Sec. 206                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2353,7 +2353,7 @@
 
 
 -CITE-
-    27 USC Sec. 207                                             01/05/2009
+    27 USC Sec. 207                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2453,7 +2453,7 @@
 
 
 -CITE-
-    27 USC Sec. 208                                             01/05/2009
+    27 USC Sec. 208                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2570,7 +2570,7 @@
 
 
 -CITE-
-    27 USC Secs. 209, 210                                       01/05/2009
+    27 USC Secs. 209, 210                                       02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2603,7 +2603,7 @@
 
 
 -CITE-
-    27 USC Sec. 211                                             01/05/2009
+    27 USC Sec. 211                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2727,7 +2727,7 @@
 
 
 -CITE-
-    27 USC Sec. 212                                             01/05/2009
+    27 USC Sec. 212                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2751,7 +2751,7 @@
 
 
 -CITE-
-    27 USC SUBCHAPTER II - ALCOHOLIC BEVERAGE LABELING          01/05/2009
+    27 USC SUBCHAPTER II - ALCOHOLIC BEVERAGE LABELING          02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2766,7 +2766,7 @@
 
 
 -CITE-
-    27 USC Sec. 213                                             01/05/2009
+    27 USC Sec. 213                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2837,7 +2837,7 @@
 
 
 -CITE-
-    27 USC Sec. 214                                             01/05/2009
+    27 USC Sec. 214                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2913,7 +2913,7 @@
 
 
 -CITE-
-    27 USC Sec. 215                                             01/05/2009
+    27 USC Sec. 215                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2981,7 +2981,7 @@
 
 
 -CITE-
-    27 USC Sec. 216                                             01/05/2009
+    27 USC Sec. 216                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -3008,7 +3008,7 @@
 
 
 -CITE-
-    27 USC Sec. 217                                             01/05/2009
+    27 USC Sec. 217                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -3038,7 +3038,7 @@
 
 
 -CITE-
-    27 USC Sec. 218                                             01/05/2009
+    27 USC Sec. 218                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -3062,7 +3062,7 @@
 
 
 -CITE-
-    27 USC Sec. 219                                             01/05/2009
+    27 USC Sec. 219                                             02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -3093,7 +3093,7 @@
 
 
 -CITE-
-    27 USC Sec. 219a                                            01/05/2009
+    27 USC Sec. 219a                                            02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -3118,7 +3118,7 @@
 
 
 -CITE-
-    27 USC CHAPTER 9 - LIQUOR ENFORCEMENT ACT OF 1936           01/05/2009
+    27 USC CHAPTER 9 - LIQUOR ENFORCEMENT ACT OF 1936           02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -3132,7 +3132,7 @@
 
 
 -CITE-
-    27 USC Secs. 221 to 228                                     01/05/2009
+    27 USC Secs. 221 to 228                                     02/01/2010
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
