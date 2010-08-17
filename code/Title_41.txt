@@ -1,10 +1,10 @@
 -CITE-
-    41 USC TITLE 41 - PUBLIC CONTRACTS                          01/05/2009
+    41 USC TITLE 41 - PUBLIC CONTRACTS                          02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
     
--HEAD-    
+-HEAD-
                         TITLE 41 - PUBLIC CONTRACTS                    
 
 
@@ -28,7 +28,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 1 - GENERAL PROVISIONS                       01/05/2009
+    41 USC CHAPTER 1 - GENERAL PROVISIONS                       02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -153,7 +153,7 @@
 
 
 -CITE-
-    41 USC Secs. 1 to 4a                                        01/05/2009
+    41 USC Secs. 1 to 4a                                        02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -181,7 +181,7 @@
 
 
 -CITE-
-    41 USC Sec. 5                                               01/05/2009
+    41 USC Sec. 5                                               02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -279,7 +279,7 @@
 
 
 -CITE-
-    41 USC Sec. 5a                                              01/05/2009
+    41 USC Sec. 5a                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -330,7 +330,7 @@
 
 
 -CITE-
-    41 USC Sec. 6                                               01/05/2009
+    41 USC Sec. 6                                               02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -377,7 +377,7 @@
 
 
 -CITE-
-    41 USC Sec. 6a                                              01/05/2009
+    41 USC Sec. 6a                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -542,7 +542,7 @@
 
 
 -CITE-
-    41 USC Sec. 6a-1                                            01/05/2009
+    41 USC Sec. 6a-1                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -583,7 +583,7 @@
 
 
 -CITE-
-    41 USC Sec. 6a-2                                            01/05/2009
+    41 USC Sec. 6a-2                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -609,7 +609,7 @@
 
 
 -CITE-
-    41 USC Sec. 6a-3                                            01/05/2009
+    41 USC Sec. 6a-3                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -633,7 +633,7 @@
 
 
 -CITE-
-    41 USC Sec. 6a-4                                            01/05/2009
+    41 USC Sec. 6a-4                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -660,7 +660,7 @@
 
 
 -CITE-
-    41 USC Sec. 6b                                              01/05/2009
+    41 USC Sec. 6b                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -774,7 +774,7 @@
 
 
 -CITE-
-    41 USC Secs. 6c to 6jj                                      01/05/2009
+    41 USC Secs. 6c to 6jj                                      02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -963,7 +963,7 @@
 
 
 -CITE-
-    41 USC Sec. 6kk                                             01/05/2009
+    41 USC Sec. 6kk                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -988,7 +988,7 @@
 
 
 -CITE-
-    41 USC Sec. 6ll                                             01/05/2009
+    41 USC Sec. 6ll                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1009,7 +1009,7 @@
 
 
 -CITE-
-    41 USC Sec. 6mm                                             01/05/2009
+    41 USC Sec. 6mm                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1030,7 +1030,7 @@
 
 
 -CITE-
-    41 USC Secs. 7 to 7d                                        01/05/2009
+    41 USC Secs. 7 to 7d                                        02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1080,7 +1080,7 @@
 
 
 -CITE-
-    41 USC Sec. 8                                               01/05/2009
+    41 USC Sec. 8                                               02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1117,7 +1117,7 @@
 
 
 -CITE-
-    41 USC Sec. 9                                               01/05/2009
+    41 USC Sec. 9                                               02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1141,7 +1141,7 @@
 
 
 -CITE-
-    41 USC Sec. 10                                              01/05/2009
+    41 USC Sec. 10                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1162,7 +1162,7 @@
 
 
 -CITE-
-    41 USC Sec. 10a                                             01/05/2009
+    41 USC Sec. 10a                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1344,7 +1344,7 @@
 
 
 -CITE-
-    41 USC Sec. 10b                                             01/05/2009
+    41 USC Sec. 10b                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1441,7 +1441,7 @@
 
 
 -CITE-
-    41 USC Sec. 10b-1                                           01/05/2009
+    41 USC Sec. 10b-1                                           02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1471,7 +1471,7 @@
 
 
 -CITE-
-    41 USC Sec. 10b-2                                           01/05/2009
+    41 USC Sec. 10b-2                                           02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1529,6 +1529,8 @@
                             SIMILAR PROVISIONS                        
       Provisions similar to those in this section and section 10b-3 of
     this title were contained in the following acts:
+      Pub. L. 111-118, div. A, title VIII, Sec. 8030, Dec. 19, 2009,
+    123 Stat. 3435.
       Pub. L. 110-329, div. C, title VIII, Sec. 8030, Sept. 30, 2008,
     122 Stat. 3627.
       Pub. L. 110-116, div. A, title VIII, Sec. 8029, Nov. 13, 2007,
@@ -1576,7 +1578,7 @@
 
 
 -CITE-
-    41 USC Sec. 10b-3                                           01/05/2009
+    41 USC Sec. 10b-3                                           02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1635,7 +1637,7 @@
 
 
 -CITE-
-    41 USC Sec. 10c                                             01/05/2009
+    41 USC Sec. 10c                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1715,7 +1717,7 @@
 
 
 -CITE-
-    41 USC Sec. 10d                                             01/05/2009
+    41 USC Sec. 10d                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1850,7 +1852,7 @@
 
 
 -CITE-
-    41 USC Sec. 11                                              01/05/2009
+    41 USC Sec. 11                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1930,7 +1932,7 @@
 
 
 -CITE-
-    41 USC Sec. 11a                                             01/05/2009
+    41 USC Sec. 11a                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2011,7 +2013,7 @@
 
 
 -CITE-
-    41 USC Sec. 12                                              01/05/2009
+    41 USC Sec. 12                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2039,7 +2041,7 @@
 
 
 -CITE-
-    41 USC Sec. 13                                              01/05/2009
+    41 USC Sec. 13                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2083,7 +2085,7 @@
 
 
 -CITE-
-    41 USC Sec. 13a                                             01/05/2009
+    41 USC Sec. 13a                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2104,7 +2106,7 @@
 
 
 -CITE-
-    41 USC Sec. 14                                              01/05/2009
+    41 USC Sec. 14                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2130,7 +2132,7 @@
 
 
 -CITE-
-    41 USC Sec. 15                                              01/05/2009
+    41 USC Sec. 15                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2359,7 +2361,7 @@
 
 
 -CITE-
-    41 USC Sec. 16                                              01/05/2009
+    41 USC Sec. 16                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2381,7 +2383,7 @@
 
 
 -CITE-
-    41 USC Secs. 16a to 16d                                     01/05/2009
+    41 USC Secs. 16a to 16d                                     02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2412,7 +2414,7 @@
 
 
 -CITE-
-    41 USC Secs. 17 to 19                                       01/05/2009
+    41 USC Secs. 17 to 19                                       02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2438,7 +2440,7 @@
 
 
 -CITE-
-    41 USC Sec. 20                                              01/05/2009
+    41 USC Sec. 20                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2466,7 +2468,7 @@
 
 
 -CITE-
-    41 USC Secs. 20a, 20b                                       01/05/2009
+    41 USC Secs. 20a, 20b                                       02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2496,7 +2498,7 @@
 
 
 -CITE-
-    41 USC Sec. 21                                              01/05/2009
+    41 USC Sec. 21                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2525,7 +2527,7 @@
 
 
 -CITE-
-    41 USC Sec. 22                                              01/05/2009
+    41 USC Sec. 22                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2657,7 +2659,7 @@
 
 
 -CITE-
-    41 USC Sec. 23                                              01/05/2009
+    41 USC Sec. 23                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2700,7 +2702,7 @@
 
 
 -CITE-
-    41 USC Sec. 24                                              01/05/2009
+    41 USC Sec. 24                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2730,7 +2732,7 @@
 
 
 -CITE-
-    41 USC Sec. 24a                                             01/05/2009
+    41 USC Sec. 24a                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2751,7 +2753,7 @@
 
 
 -CITE-
-    41 USC Sec. 25                                              01/05/2009
+    41 USC Sec. 25                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2770,7 +2772,7 @@
 
 
 -CITE-
-    41 USC Sec. 26                                              01/05/2009
+    41 USC Sec. 26                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2796,7 +2798,7 @@
 
 
 -CITE-
-    41 USC Sec. 27                                              01/05/2009
+    41 USC Sec. 27                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2817,7 +2819,7 @@
 
 
 -CITE-
-    41 USC Secs. 28 to 34                                       01/05/2009
+    41 USC Secs. 28 to 34                                       02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2856,7 +2858,7 @@
 
 
 -CITE-
-    41 USC Sec. 35                                              01/05/2009
+    41 USC Sec. 35                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3123,7 +3125,7 @@
 
 
 -CITE-
-    41 USC Sec. 36                                              01/05/2009
+    41 USC Sec. 36                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3172,7 +3174,7 @@
 
 
 -CITE-
-    41 USC Sec. 37                                              01/05/2009
+    41 USC Sec. 37                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3202,7 +3204,7 @@
 
 
 -CITE-
-    41 USC Sec. 38                                              01/05/2009
+    41 USC Sec. 38                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3281,7 +3283,7 @@
 
 
 -CITE-
-    41 USC Sec. 39                                              01/05/2009
+    41 USC Sec. 39                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3350,7 +3352,7 @@
 
 
 -CITE-
-    41 USC Sec. 40                                              01/05/2009
+    41 USC Sec. 40                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3402,7 +3404,7 @@
 
 
 -CITE-
-    41 USC Sec. 41                                              01/05/2009
+    41 USC Sec. 41                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3437,7 +3439,7 @@
 
 
 -CITE-
-    41 USC Sec. 42                                              01/05/2009
+    41 USC Sec. 42                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3520,7 +3522,7 @@
 
 
 -CITE-
-    41 USC Sec. 43                                              01/05/2009
+    41 USC Sec. 43                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3561,7 +3563,7 @@
 
 
 -CITE-
-    41 USC Sec. 43a                                             01/05/2009
+    41 USC Sec. 43a                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3645,7 +3647,7 @@
 
 
 -CITE-
-    41 USC Sec. 43b                                             01/05/2009
+    41 USC Sec. 43b                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3702,7 +3704,7 @@
 
 
 -CITE-
-    41 USC Sec. 44                                              01/05/2009
+    41 USC Sec. 44                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3738,7 +3740,7 @@
 
 
 -CITE-
-    41 USC Sec. 45                                              01/05/2009
+    41 USC Sec. 45                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3768,7 +3770,7 @@
 
 
 -CITE-
-    41 USC Sec. 46                                              01/05/2009
+    41 USC Sec. 46                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4080,7 +4082,7 @@
 
 
 -CITE-
-    41 USC Sec. 47                                              01/05/2009
+    41 USC Sec. 47                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4187,7 +4189,7 @@
 
 
 -CITE-
-    41 USC Sec. 48                                              01/05/2009
+    41 USC Sec. 48                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4237,7 +4239,7 @@
 
 
 -CITE-
-    41 USC Sec. 48a                                             01/05/2009
+    41 USC Sec. 48a                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4276,7 +4278,7 @@
 
 
 -CITE-
-    41 USC Sec. 48b                                             01/05/2009
+    41 USC Sec. 48b                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4385,7 +4387,7 @@
 
 
 -CITE-
-    41 USC Sec. 48c                                             01/05/2009
+    41 USC Sec. 48c                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4427,7 +4429,7 @@
 
 
 -CITE-
-    41 USC Sec. 49                                              01/05/2009
+    41 USC Sec. 49                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4481,7 +4483,7 @@
 
 
 -CITE-
-    41 USC Sec. 50                                              01/05/2009
+    41 USC Sec. 50                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4536,7 +4538,7 @@
 
 
 -CITE-
-    41 USC Sec. 51                                              01/05/2009
+    41 USC Sec. 51                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4598,7 +4600,7 @@
 
 
 -CITE-
-    41 USC Sec. 52                                              01/05/2009
+    41 USC Sec. 52                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4682,7 +4684,7 @@
 
 
 -CITE-
-    41 USC Sec. 53                                              01/05/2009
+    41 USC Sec. 53                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4732,7 +4734,7 @@
 
 
 -CITE-
-    41 USC Sec. 54                                              01/05/2009
+    41 USC Sec. 54                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4773,7 +4775,7 @@
 
 
 -CITE-
-    41 USC Sec. 55                                              01/05/2009
+    41 USC Sec. 55                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4821,7 +4823,7 @@
 
 
 -CITE-
-    41 USC Sec. 56                                              01/05/2009
+    41 USC Sec. 56                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4889,7 +4891,7 @@
 
 
 -CITE-
-    41 USC Sec. 57                                              01/05/2009
+    41 USC Sec. 57                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4981,7 +4983,7 @@
 
 
 -CITE-
-    41 USC Sec. 58                                              01/05/2009
+    41 USC Sec. 58                                              02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -5034,7 +5036,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 2 - TERMINATION OF WAR CONTRACTS             01/05/2009
+    41 USC CHAPTER 2 - TERMINATION OF WAR CONTRACTS             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -5082,7 +5084,7 @@
 
 
 -CITE-
-    41 USC Sec. 101                                             01/05/2009
+    41 USC Sec. 101                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -5139,7 +5141,7 @@
 
 
 -CITE-
-    41 USC Sec. 102                                             01/05/2009
+    41 USC Sec. 102                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -5174,7 +5176,7 @@
 
 
 -CITE-
-    41 USC Sec. 103                                             01/05/2009
+    41 USC Sec. 103                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -5321,7 +5323,7 @@
 
 
 -CITE-
-    41 USC Sec. 104                                             01/05/2009
+    41 USC Sec. 104                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -5472,7 +5474,7 @@
 
 
 -CITE-
-    41 USC Sec. 105                                             01/05/2009
+    41 USC Sec. 105                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -5599,7 +5601,7 @@
 
 
 -CITE-
-    41 USC Sec. 106                                             01/05/2009
+    41 USC Sec. 106                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -5833,7 +5835,7 @@
 
 
 -CITE-
-    41 USC Sec. 107                                             01/05/2009
+    41 USC Sec. 107                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -5957,7 +5959,7 @@
 
 
 -CITE-
-    41 USC Sec. 108                                             01/05/2009
+    41 USC Sec. 108                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -6105,7 +6107,7 @@
 
 
 -CITE-
-    41 USC Sec. 109                                             01/05/2009
+    41 USC Sec. 109                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -6156,7 +6158,7 @@
 
 
 -CITE-
-    41 USC Sec. 110                                             01/05/2009
+    41 USC Sec. 110                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -6242,7 +6244,7 @@
 
 
 -CITE-
-    41 USC Sec. 111                                             01/05/2009
+    41 USC Sec. 111                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -6316,7 +6318,7 @@
 
 
 -CITE-
-    41 USC Sec. 112                                             01/05/2009
+    41 USC Sec. 112                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -6513,7 +6515,7 @@
 
 
 -CITE-
-    41 USC Sec. 113                                             01/05/2009
+    41 USC Sec. 113                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -6783,7 +6785,7 @@
 
 
 -CITE-
-    41 USC Sec. 114                                             01/05/2009
+    41 USC Sec. 114                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -6904,7 +6906,7 @@
 
 
 -CITE-
-    41 USC Sec. 115                                             01/05/2009
+    41 USC Sec. 115                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -6947,7 +6949,7 @@
 
 
 -CITE-
-    41 USC Sec. 116                                             01/05/2009
+    41 USC Sec. 116                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -6975,7 +6977,7 @@
 
 
 -CITE-
-    41 USC Sec. 117                                             01/05/2009
+    41 USC Sec. 117                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7068,7 +7070,7 @@
 
 
 -CITE-
-    41 USC Sec. 118                                             01/05/2009
+    41 USC Sec. 118                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7176,7 +7178,7 @@
 
 
 -CITE-
-    41 USC Sec. 119                                             01/05/2009
+    41 USC Sec. 119                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7264,7 +7266,7 @@
 
 
 -CITE-
-    41 USC Sec. 120                                             01/05/2009
+    41 USC Sec. 120                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7386,7 +7388,7 @@
 
 
 -CITE-
-    41 USC Sec. 121                                             01/05/2009
+    41 USC Sec. 121                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7474,7 +7476,7 @@
 
 
 -CITE-
-    41 USC Sec. 122                                             01/05/2009
+    41 USC Sec. 122                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7534,7 +7536,7 @@
 
 
 -CITE-
-    41 USC Sec. 123                                             01/05/2009
+    41 USC Sec. 123                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7609,7 +7611,7 @@
 
 
 -CITE-
-    41 USC Sec. 124                                             01/05/2009
+    41 USC Sec. 124                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7642,7 +7644,7 @@
 
 
 -CITE-
-    41 USC Sec. 125                                             01/05/2009
+    41 USC Sec. 125                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7693,7 +7695,7 @@
 
 -CITE-
     41 USC CHAPTER 3 - PROCUREMENT OF SUPPLIES AND SERVICES
-           BY ARMED SERVICES                               01/05/2009
+           BY ARMED SERVICES                               02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7707,7 +7709,7 @@
 
 
 -CITE-
-    41 USC Secs. 151 to 162                                     01/05/2009
+    41 USC Secs. 151 to 162                                     02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7774,7 +7776,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 4 - PROCUREMENT PROCEDURES                   01/05/2009
+    41 USC CHAPTER 4 - PROCUREMENT PROCEDURES                   02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7867,7 +7869,7 @@
 
 
 -CITE-
-    41 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/05/2009
+    41 USC SUBCHAPTER I - GENERAL PROVISIONS                    02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7882,7 +7884,7 @@
 
 
 -CITE-
-    41 USC Secs. 201 to 205                                     01/05/2009
+    41 USC Secs. 201 to 205                                     02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7935,7 +7937,7 @@
 
 
 -CITE-
-    41 USC SUBCHAPTER II - GENERAL SERVICES ADMINISTRATION      01/05/2009
+    41 USC SUBCHAPTER II - GENERAL SERVICES ADMINISTRATION      02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7950,7 +7952,7 @@
 
 
 -CITE-
-    41 USC Secs. 211 to 219                                     01/05/2009
+    41 USC Secs. 211 to 219                                     02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -8042,7 +8044,7 @@
 
 
 -CITE-
-    41 USC SUBCHAPTER III - PROPERTY MANAGEMENT                 01/05/2009
+    41 USC SUBCHAPTER III - PROPERTY MANAGEMENT                 02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -8057,7 +8059,7 @@
 
 
 -CITE-
-    41 USC Secs. 231 to 240                                     01/05/2009
+    41 USC Secs. 231 to 240                                     02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -8167,7 +8169,7 @@
 
 
 -CITE-
-    41 USC SUBCHAPTER IV - PROCUREMENT PROVISIONS               01/05/2009
+    41 USC SUBCHAPTER IV - PROCUREMENT PROVISIONS               02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -8182,7 +8184,7 @@
 
 
 -CITE-
-    41 USC Sec. 251                                             01/05/2009
+    41 USC Sec. 251                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -8685,128 +8687,277 @@
     instrumentalities, its officers or employees, or any other person.
                                                      William J. Clinton.
 
-    EX. ORD. NO. 13202. PRESERVATION OF OPEN COMPETITION AND GOVERNMENT
-       NEUTRALITY TOWARDS GOVERNMENT CONTRACTORS' LABOR RELATIONS ON
-            FEDERAL AND FEDERALLY FUNDED CONSTRUCTION PROJECTS
+                         EXECUTIVE ORDER NO. 13202                     
       Ex. Ord. No. 13202, Feb. 17, 2001, 66 F.R. 11225, as amended by
-    Ex. Ord. No. 13208, Apr. 6, 2001, 66 F.R. 18717, provided:
+    Ex. Ord. No. 13208, Apr. 6, 2001, 66 F.R. 18717, which promoted
+    preservation of open competition and Government neutrality towards
+    Government contractors' labor relations on Federal and Federally
+    funded construction projects, was revoked by Ex. Ord. No. 13502,
+    Sec. 8, Feb. 6, 2009, 74 F.R. 6986, set out below.
+
+      EX. ORD. NO. 13502. USE OF PROJECT LABOR AGREEMENTS FOR FEDERAL
+                           CONSTRUCTION PROJECTS
+      Ex. Ord. No. 13502, Feb. 6, 2009, 74 F.R. 6985, provided:
       By the authority vested in me as President by the Constitution
-    and laws of the United States of America, including the Federal
-    Property and Administrative Services Act, 40 U.S.C. 471 et seq.
-    [now chapters 1 to 11 of Title 40, Public Buildings, Property, and
-    Works, and title III of the Act of June 30, 1949 (41 U.S.C. 251 et
-    seq.)], and in order to (1) promote and ensure open competition on
-    Federal and federally funded or assisted construction projects; (2)
-    maintain Government neutrality towards Government contractors'
-    labor relations on Federal and federally funded or assisted
-    construction projects; (3) reduce construction costs to the Federal
-    Government and to the taxpayers; (4) expand job opportunities,
-    especially for small and disadvantaged businesses; and (5) prevent
-    discrimination against Government contractors or their employees
-    based upon labor affiliation or lack thereof; thereby promoting the
-    economical, nondiscriminatory, and efficient administration and
-    completion of Federal and federally funded or assisted construction
-    projects, it is hereby ordered that:
-      Section 1. To the extent permitted by law, any executive agency
-    awarding any construction contract after the date of this order, or
-    obligating funds pursuant to such a contract, shall ensure that
-    neither the awarding Government authority nor any construction
-    manager acting on behalf of the Government shall, in its bid
-    specifications, project agreements, or other controlling documents:
-      (a) Require or prohibit bidders, offerors, contractors, or
-    subcontractors to enter into or adhere to agreements with one or
-    more labor organizations, on the same or other related construction
-    project(s); or
-      (b) Otherwise discriminate against bidders, offerors,
-    contractors, or subcontractors for becoming or refusing to become
-    or remain signatories or otherwise to adhere to agreements with one
-    or more labor organizations, on the same or other related
-    construction project(s).
-      (c) Nothing in this section shall prohibit contractors or
-    subcontractors from voluntarily entering into agreements described
-    in subsection (a).
-      Sec. 2. Contracts awarded before the date of this order, and
-    subcontracts awarded pursuant to such contracts, whenever awarded,
-    shall not be governed by this order.
-      Sec. 3. To the extent permitted by law, any executive agency
-    issuing grants, providing financial assistance, or entering into
-    cooperative agreements for construction projects, shall ensure that
-    neither the bid specifications, project agreements, nor other
-    controlling documents for construction contracts awarded after the
-    date of this order by recipients of grants or financial assistance
-    or by parties to cooperative agreements, nor those of any
-    construction manager acting on their behalf, shall contain any of
-    the requirements or prohibitions set forth in section 1(a) or (b)
-    of this order.
-      Sec. 4. In the event that an awarding authority, a recipient of
-    grants or financial assistance, a party to a cooperative agreement,
-    or a construction manager acting on behalf of the foregoing,
-    performs in a manner contrary to the provisions of sections 1 or 3
-    of this order, the executive agency awarding the contract, grant,
-    or assistance shall take such action, consistent with law and
-    regulation, as the agency determines may be appropriate.
-      Sec. 5. (a) The head of an executive agency may exempt a
-    particular project, contract, subcontract, grant, or cooperative
-    agreement from the requirements of any or all of the provisions of
-    sections 1 and 3 of this order, if the agency head finds that
-    special circumstances require an exemption in order to avert an
-    imminent threat to public health or safety or to serve the national
-    security.
-      (b) A finding of "special circumstances" under section 5(a) may
-    not be based on the possibility or presence of a labor dispute
-    concerning the use of contractors or subcontractors who are
-    nonsignatories to, or otherwise do not adhere to, agreements with
-    one or more labor organizations, or concerning employees on the
-    project who are not members of or affiliated with a labor
-    organization.
-      (c) The head of an executive agency, upon application of an
-    awarding authority, a recipient of grants or financial assistance,
-    a party to a cooperative agreement, or a construction manager
-    acting on behalf of the foregoing, may exempt a particular project
-    from the requirements of any or all of the provisions of sections 1
-    and 3 of this order, if the agency head finds: (i) that the
-    awarding authority, recipient of grants or financial assistance,
-    party to a cooperative agreement, or construction manager acting on
-    behalf of the foregoing had issued or was a party to, as of the
-    date of this order, bid specifications, project agreements,
-    agreements with one or more labor organizations, or other
-    controlling documents with respect to that particular project,
-    which contained any of the requirements or prohibitions set forth
-    in sections 1(a) or (b) of this order; and (ii) that one or more
-    construction contracts subject to such requirements or prohibitions
-    had been awarded as of the date of this order.
-      Sec. 6. (a) The term "construction contract" as used in this
-    order means any contract for the construction, rehabilitation,
-    alteration, conversion, extension, or repair of buildings,
-    highways, or other improvements to real property.
-      (b) The term "executive agency" as used in this order shall have
-    the same meaning it has in 5 U.S.C. 105, excluding the General
-    Accounting Office [now Government Accountability Office].
-      (c) The term "labor organization" as used in this order shall
-    have the same meaning it has in 42 U.S.C. 2000e(d).
-      Sec. 7. With respect to Federal contracts, within 60 days of the
-    issuance of this order, the Federal Acquisition Regulatory Council
-    shall take whatever action is required to amend the Federal
-    Acquisition Regulation in order to implement the provisions of this
-    order.
-      Sec. 8. As it relates to project agreements, Executive Order
-    12836 of February 1, 1993, which, among other things, revoked
-    Executive Order 12818 of October 23, 1992, is revoked.
-      Sec. 9. The Presidential Memorandum of June 5, 1997, entitled
-    "Use of Project Labor Agreements for Federal Construction Projects"
-    (the "Memorandum"), is also revoked.
-      Sec. 10. The heads of executive departments and agencies shall
-    revoke expeditiously any orders, rules, regulations, guidelines, or
-    policies implementing or enforcing the Memorandum or Executive
-    Order 12836 of February 1, 1993, as it relates to project
-    agreements, to the extent consistent with law.
-      Sec. 11. This order is intended only to improve the internal
-    management of the executive branch and is not intended to, nor does
-    it, create any right to administrative or judicial review, or any
-    right, whether substantive or procedural, enforceable by any party
-    against the United States, its agencies or instrumentalities, its
-    officers or employees, or any other person.
-                                                         George W. Bush.
+    and the laws of the United States of America, including the Federal
+    Property and Administrative Services Act, 40 U.S.C. 101 et seq.,
+    and in order to promote the efficient administration and completion
+    of Federal construction projects, it is hereby ordered that:
+      Section 1. Policy. (a) Large-scale construction projects pose
+    special challenges to efficient and timely procurement by the
+    Federal Government. Construction employers typically do not have a
+    permanent workforce, which makes it difficult for them to predict
+    labor costs when bidding on contracts and to ensure a steady supply
+    of labor on contracts being performed. Challenges also arise due to
+    the fact that construction projects typically involve multiple
+    employers at a single location. A labor dispute involving one
+    employer can delay the entire project. A lack of coordination among
+    various employers, or uncertainty about the terms and conditions of
+    employment of various groups of workers, can create frictions and
+    disputes in the absence of an agreed-upon resolution mechanism.
+    These problems threaten the efficient and timely completion of
+    construction projects undertaken by Federal contractors. On larger
+    projects, which are generally more complex and of longer duration,
+    these problems tend to be more pronounced.
+      (b) The use of a project labor agreement may prevent these
+    problems from developing by providing structure and stability to
+    large-scale construction projects, thereby promoting the efficient
+    and expeditious completion of Federal construction contracts.
+    Accordingly, it is the policy of the Federal Government to
+    encourage executive agencies to consider requiring the use of
+    project labor agreements in connection with large-scale
+    construction projects in order to promote economy and efficiency in
+    Federal procurement.
+      Sec. 2. Definitions.
+      (a) The term "labor organization" as used in this order means a
+    labor organization as defined in 29 U.S.C. 152(5).
+      (b) The term "construction" as used in this order means
+    construction, rehabilitation, alteration, conversion, extension,
+    repair, or improvement of buildings, highways, or other real
+    property.
+      (c) The term "large-scale construction project" as used in this
+    order means a construction project where the total cost to the
+    Federal Government is $25 million or more.
+      (d) The term "executive agency" as used in this order has the
+    same meaning as in 5 U.S.C. 105, but excludes the Government
+    Accountability Office.
+      (e) The term "project labor agreement" as used in this order
+    means a pre-hire collective bargaining agreement with one or more
+    labor organizations that establishes the terms and conditions of
+    employment for a specific construction project and is an agreement
+    described in 29 U.S.C. 158(f).
+      Sec. 3. (a) In awarding any contract in connection with a large-
+    scale construction project, or obligating funds pursuant to such a
+    contract, executive agencies may, on a project-by-project basis,
+    require the use of a project labor agreement by a contractor where
+    use of such an agreement will (i) advance the Federal Government's
+    interest in achieving economy and efficiency in Federal
+    procurement, producing labor-management stability, and ensuring
+    compliance with laws and regulations governing safety and health,
+    equal employment opportunity, labor and employment standards, and
+    other matters, and (ii) be consistent with law.
+      (b) If an executive agency determines under subsection (a) that
+    the use of a project labor agreement will satisfy the criteria in
+    clauses (i) and (ii) of that subsection, the agency may, if
+    appropriate, require that every contractor or subcontractor on the
+    project agree, for that project, to negotiate or become a party to
+    a project labor agreement with one or more appropriate labor
+    organizations.
+      Sec. 4. Any project labor agreement reached pursuant to this
+    order shall:
+      (a) bind all contractors and subcontractors on the Construction
+    project through the inclusion of appropriate specifications in all
+    relevant solicitation provisions and contract documents;
+      (b) allow all contractors and subcontractors to compete for
+    contracts and subcontracts without regard to whether they are
+    otherwise parties to collective bargaining agreements;
+      (c) contain guarantees against strikes, lockouts, and similar job
+    disruptions;
+      (d) set forth effective, prompt, and mutually binding procedures
+    for resolving labor disputes arising during the project labor
+    agreement;
+      (e) provide other mechanisms for labor-management cooperation on
+    matters of mutual interest and concern, including productivity,
+    quality of work, safety, and health; and
+      (f) fully conform to all statutes, regulations, and Executive
+    Orders.
+      Sec. 5. This order does not require an executive agency to use a
+    project labor agreement on any construction project, nor does it
+    preclude the use of a project labor agreement in circumstances not
+    covered by this order, including leasehold arrangements and
+    projects receiving Federal financial assistance. This order also
+    does not require contractors or subcontractors to enter into a
+    project labor agreement with any particular labor organization.
+      Sec. 6. Within 120 days of the date of this order, the Federal
+    Acquisition Regulatory Council (FAR Council), to the extent
+    permitted by law, shall take whatever action is required to amend
+    the Federal Acquisition Regulation to implement the provisions of
+    this order.
+      Sec. 7. The Director of OMB, in consultation with the Secretary
+    of Labor and with other officials as appropriate, shall provide the
+    President within 180 days of this order, recommendations about
+    whether broader use of project labor agreements, with respect to
+    both construction projects undertaken under Federal contracts and
+    construction projects receiving Federal financial assistance, would
+    help to promote the economical, efficient, and timely completion of
+    such projects.
+      Sec. 8. Revocation of Prior Orders, Rules, and Regulations.
+    Executive Order 13202 of February 17, 2001, and Executive Order
+    13208 of April 6, 2001, are revoked. The heads of executive
+    agencies shall, to the extent permitted by law, revoke
+    expeditiously any orders, rules, or regulations implementing
+    Executive Orders 13202 and 13208.
+      Sec. 9. Severability. If any provision of this order, or the
+    application of such provision to any person or circumstance, is
+    held to be invalid, the remainder of this order and the application
+    of the provisions of such to any person or circumstance shall not
+    be affected thereby.
+      Sec. 10. General. (a) Nothing in this order shall be construed to
+    impair or otherwise affect:
+        (i) authority granted by law to an executive department,
+      agency, or the head thereof; or
+        (ii) functions of the Director of the Office of Management and
+      Budget relating to budgetary, administrative, or legislative
+      proposals.
+      (b) This order shall be implemented consistent with applicable
+    law and subject to the availability of appropriations.
+      (c) This order is not intended to, and does not, create any right
+    or benefit, substantive or procedural, enforceable at law or in
+    equity by any party against the United States, its departments,
+    agencies, or entities, its officers, employees, or agents, or any
+    other person.
+      Sec. 11. Effective Date. This order shall be effective
+    immediately and shall apply to all solicitations for contracts
+    issued on or after the effective date of the action taken by the
+    FAR Council under section 6 of this order.
+                                                           Barack Obama.
+
+                          GOVERNMENT CONTRACTING                      
+      Memorandum of President of the United States, Mar. 4, 2009, 74
+    F.R. 9755, provided:
+      Memorandum for the Heads of Executive Departments and Agencies
+      The Federal Government has an overriding obligation to American
+    taxpayers. It should perform its functions efficiently and
+    effectively while ensuring that its actions result in the best
+    value for the taxpayers.
+      Since 2001, spending on Government contracts has more than
+    doubled, reaching over $500 billion in 2008. During this same
+    period, there has been a significant increase in the dollars
+    awarded without full and open competition and an increase in the
+    dollars obligated through cost-reimbursement contracts. Between
+    fiscal years 2000 and 2008, for example, dollars obligated under
+    cost-reimbursement contracts nearly doubled, from $71 billion in
+    2000 to $135 billion in 2008. Reversing these trends away from full
+    and open competition and toward cost-reimbursement contracts could
+    result in savings of billions of dollars each year for the American
+    taxpayer.
+      Excessive reliance by executive agencies on sole-source contracts
+    (or contracts with a limited number of sources) and cost-
+    reimbursement contracts creates a risk that taxpayer funds will be
+    spent on contracts that are wasteful, inefficient, subject to
+    misuse, or otherwise not well designed to serve the needs of the
+    Federal Government or the interests of the American taxpayer.
+    Reports by agency Inspectors General, the Government Accountability
+    Office (GAO), and other independent reviewing bodies have shown
+    that noncompetitive and cost-reimbursement contracts have been
+    misused, resulting in wasted taxpayer resources, poor contractor
+    performance, and inadequate accountability for results.
+      When awarding Government contracts, the Federal Government must
+    strive for an open and competitive process. However, executive
+    agencies must have the flexibility to tailor contracts to carry out
+    their missions and achieve the policy goals of the Government. In
+    certain exigent circumstances, agencies may need to consider
+    whether a competitive process will not accomplish the agency's
+    mission. In such cases, the agency must ensure that the risks
+    associated with noncompetitive contracts are minimized.
+      Moreover, it is essential that the Federal Government have the
+    capacity to carry out robust and thorough management and oversight
+    of its contracts in order to achieve programmatic goals, avoid
+    significant overcharges, and curb wasteful spending. A GAO study
+    last year of 95 major defense acquisitions projects found cost
+    overruns of 26 percent, totaling $295 billion over the life of the
+    projects. Improved contract oversight could reduce such sums
+    significantly.
+      Government outsourcing for services also raises special concerns.
+    For decades, the Federal Government has relied on the private
+    sector for necessary commercial services used by the Government,
+    such as transportation, food, and maintenance. Office of Management
+    and Budget Circular A-76, first issued in 1966, was based on the
+    reasonable premise that while inherently governmental activities
+    should be performed by Government employees, taxpayers may receive
+    more value for their dollars if non-inherently governmental
+    activities that can be provided commercially are subject to the
+    forces of competition.
+      However, the line between inherently governmental activities that
+    should not be outsourced and commercial activities that may be
+    subject to private sector competition has been blurred and
+    inadequately defined. As a result, contractors may be performing
+    inherently governmental functions. Agencies and departments must
+    operate under clear rules prescribing when outsourcing is and is
+    not appropriate.
+      It is the policy of the Federal Government that executive
+    agencies shall not engage in noncompetitive contracts except in
+    those circumstances where their use can be fully justified and
+    where appropriate safeguards have been put in place to protect the
+    taxpayer. In addition, there shall be a preference for fixed-price
+    type contracts. Cost-reimbursement contracts shall be used only
+    when circumstances do not allow the agency to define its
+    requirements sufficiently to allow for a fixed-price type contract.
+    Moreover, the Federal Government shall ensure that taxpayer dollars
+    are not spent on contracts that are wasteful, inefficient, subject
+    to misuse, or otherwise not well designed to serve the Federal
+    Government's needs and to manage the risk associated with the goods
+    and services being procured. The Federal Government must have
+    sufficient capacity to manage and oversee the contracting process
+    from start to finish, so as to ensure that taxpayer funds are spent
+    wisely and are not subject to excessive risk. Finally, the Federal
+    Government must ensure that those functions that are inherently
+    governmental in nature are performed by executive agencies and are
+    not outsourced.
+      I hereby direct the Director of the Office of Management and
+    Budget (OMB), in collaboration with the Secretary of Defense, the
+    Administrator of the National Aeronautics and Space Administration,
+    the Administrator of General Services, the Director of the Office
+    of Personnel Management, and the heads of such other agencies as
+    the Director of OMB determines to be appropriate, and with the
+    participation of appropriate management councils and program
+    management officials, to develop and issue by July 1, 2009,
+    Government-wide guidance to assist agencies in reviewing, and
+    creating processes for ongoing review of, existing contracts in
+    order to identify contracts that are wasteful, inefficient, or not
+    otherwise likely to meet the agency's needs, and to formulate
+    appropriate corrective action in a timely manner. Such corrective
+    action may include modifying or canceling such contracts in a
+    manner and to the extent consistent with applicable laws,
+    regulations, and policy.
+      I further direct the Director of OMB, in collaboration with the
+    aforementioned officials and councils, and with input from the
+    public, to develop and issue by September 30, 2009, Government-wide
+    guidance to:
+      (1) govern the appropriate use and oversight of sole-source and
+    other types of noncompetitive contracts and to maximize the use of
+    full and open competition and other competitive procurement
+    processes;
+      (2) govern the appropriate use and oversight of all contract
+    types, in full consideration of the agency's needs, and to minimize
+    risk and maximize the value of Government contracts generally,
+    consistent with the regulations to be promulgated pursuant to
+    section 864 of Public Law 110-417;
+      (3) assist agencies in assessing the capacity and ability of the
+    Federal acquisition workforce to develop, manage, and oversee
+    acquisitions appropriately; and
+      (4) clarify when governmental outsourcing for services is and is
+    not appropriate, consistent with section 321 of Public Law 110-417
+    (31 U.S.C. 501 note).
+      Executive departments and agencies shall carry out the provisions
+    of this memorandum to the extent permitted by law. This memorandum
+    is not intended to, and does not, create any right or benefit,
+    substantive or procedural, enforceable at law or in equity by any
+    party against the United States, its departments, agencies, or
+    entities, its officers, employees, or agents, or any other person.
+      The Director of OMB is hereby authorized and directed to publish
+    this memorandum in the Federal Register.
+                                                           Barack Obama.
 
 -CROSS-
                                 DEFINITIONS                            
@@ -8818,7 +8969,7 @@
 
 
 -CITE-
-    41 USC Sec. 252                                             01/05/2009
+    41 USC Sec. 252                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -9155,7 +9306,7 @@
 
 
 -CITE-
-    41 USC Sec. 252a                                            01/05/2009
+    41 USC Sec. 252a                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -9197,7 +9348,7 @@
 
 
 -CITE-
-    41 USC Sec. 252b                                            01/05/2009
+    41 USC Sec. 252b                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -9228,7 +9379,7 @@
 
 
 -CITE-
-    41 USC Sec. 252c                                            01/05/2009
+    41 USC Sec. 252c                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -9305,7 +9456,7 @@
 
 
 -CITE-
-    41 USC Sec. 253                                             01/05/2009
+    41 USC Sec. 253                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -9926,7 +10077,7 @@
 
 
 -CITE-
-    41 USC Sec. 253a                                            01/05/2009
+    41 USC Sec. 253a                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -10134,7 +10285,7 @@
 
 
 -CITE-
-    41 USC Sec. 253b                                            01/05/2009
+    41 USC Sec. 253b                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -10565,7 +10716,7 @@
 
 
 -CITE-
-    41 USC Sec. 253c                                            01/05/2009
+    41 USC Sec. 253c                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -10719,7 +10870,7 @@
 
 
 -CITE-
-    41 USC Sec. 253d                                            01/05/2009
+    41 USC Sec. 253d                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -10849,7 +11000,7 @@
 
 
 -CITE-
-    41 USC Sec. 253e                                            01/05/2009
+    41 USC Sec. 253e                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -10878,7 +11029,7 @@
 
 
 -CITE-
-    41 USC Sec. 253f                                            01/05/2009
+    41 USC Sec. 253f                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -10929,7 +11080,7 @@
 
 
 -CITE-
-    41 USC Sec. 253g                                            01/05/2009
+    41 USC Sec. 253g                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -11008,7 +11159,7 @@
 
 
 -CITE-
-    41 USC Sec. 253h                                            01/05/2009
+    41 USC Sec. 253h                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -11312,7 +11463,7 @@
 
 
 -CITE-
-    41 USC Sec. 253i                                            01/05/2009
+    41 USC Sec. 253i                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -11576,7 +11727,7 @@
 
 
 -CITE-
-    41 USC Sec. 253j                                            01/05/2009
+    41 USC Sec. 253j                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -11718,7 +11869,7 @@
 
 
 -CITE-
-    41 USC Sec. 253k                                            01/05/2009
+    41 USC Sec. 253k                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -11765,7 +11916,7 @@
 
 
 -CITE-
-    41 USC Sec. 253l                                            01/05/2009
+    41 USC Sec. 253l                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -11815,7 +11966,7 @@
 
 
 -CITE-
-    41 USC Sec. 253l-1                                          01/05/2009
+    41 USC Sec. 253l-1                                          02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -11848,7 +11999,7 @@
 
 
 -CITE-
-    41 USC Sec. 253l-2                                          01/05/2009
+    41 USC Sec. 253l-2                                          02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -11880,7 +12031,7 @@
 
 
 -CITE-
-    41 USC Sec. 253l-3                                          01/05/2009
+    41 USC Sec. 253l-3                                          02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -11918,7 +12069,7 @@
 
 
 -CITE-
-    41 USC Sec. 253l-4                                          01/05/2009
+    41 USC Sec. 253l-4                                          02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -11956,7 +12107,7 @@
 
 
 -CITE-
-    41 USC Sec. 253l-5                                          01/05/2009
+    41 USC Sec. 253l-5                                          02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -11998,7 +12149,7 @@
 
 
 -CITE-
-    41 USC Sec. 253l-6                                          01/05/2009
+    41 USC Sec. 253l-6                                          02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12038,7 +12189,7 @@
 
 
 -CITE-
-    41 USC Sec. 253l-7                                          01/05/2009
+    41 USC Sec. 253l-7                                          02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12078,7 +12229,7 @@
 
 
 -CITE-
-    41 USC Sec. 253l-8                                          01/05/2009
+    41 USC Sec. 253l-8                                          02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12116,7 +12267,7 @@
 
 
 -CITE-
-    41 USC Sec. 253m                                            01/05/2009
+    41 USC Sec. 253m                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12257,7 +12408,7 @@
 
 
 -CITE-
-    41 USC Sec. 254                                             01/05/2009
+    41 USC Sec. 254                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12473,163 +12624,157 @@
     jobs, was revoked by Ex. Ord. No. 12836, Sec. 1, Feb. 1, 1993, 58
     F.R. 7045, which was itself revoked as it relates to notification
     of employee rights concerning payment of union dues or fees by Ex.
-    Ord. No. 13201, Sec. 11, Feb. 17, 2001, 66 F.R. 11221, and as it
-    relates to project agreements by Ex. Ord. No. 13202, Sec. 8, Feb.
-    17, 2001, 66 F.R. 11226.
+    Ord. No. 13201, Sec. 11, Feb. 17, 2001, 66 F.R. 11221, which was
+    itself revoked by Ex. Ord. No. 13496, Sec. 13, Jan. 30, 2009, 74
+    F.R. 6110, set out below, and as it relates to project agreements
+    by Ex. Ord. No. 13202, Sec. 8, Feb. 17, 2001, 66 F.R. 11226, which
+    was itself revoked by Ex. Ord. No. 13502, Sec. 8, Feb. 6, 2009, 74
+    F.R. 6986, set out as a note under section 251 of this title.
 
-      EX. ORD. NO. 13201. NOTIFICATION OF EMPLOYEE RIGHTS CONCERNING
-                       PAYMENT OF UNION DUES OR FEES
-      Ex. Ord. No. 13201, Feb. 17, 2001, 66 F.R. 11221, provided:
+                         EXECUTIVE ORDER NO. 13201                     
+      Ex. Ord. No. 13201, Feb. 17, 2001, 66 F.R. 11221, which related
+    to notification of employee rights concerning payment of union dues
+    or fees, was revoked by Ex. Ord. No. 13496, Sec. 13, Jan. 30, 2009,
+    74 F.R. 6110, set out below.
+
+     EX. ORD. NO. 13496. NOTIFICATION OF EMPLOYEE RIGHTS UNDER FEDERAL
+                                LABOR LAWS
+      Ex. Ord. No. 13496, Jan. 30, 2009, 74 F.R. 6107, provided:
       By the authority vested in me as President by the Constitution
     and the laws of the United States of America, including the Federal
-    Property and Administrative Services Act, 40 U.S.C. 471 et seq.
-    [now chapters 1 to 11 of Title 40, Public Buildings, Property, and
-    Works, and title III of the Act of June 30, 1949 (41 U.S.C. 251 et
-    seq.)], and in order to ensure the economical and efficient
-    administration and completion of Government contracts, it is hereby
-    ordered that:
-      Section 1. (a) This order is designed to promote economy and
-    efficiency in Government procurement. When workers are better
-    informed of their rights, including their rights under the Federal
-    labor laws, their productivity is enhanced. The availability of
-    such a workforce from which the United States may draw facilitates
-    the efficient and economical completion of its procurement
-    contracts.
-      (b) The Secretary of Labor (Secretary) shall be responsible for
-    the administration and enforcement of this order. The Secretary
-    shall adopt such rules and regulations and issue such orders as are
-    deemed necessary and appropriate to achieve the purposes of this
-    order.
-      Sec. 2. (a) Except in contracts exempted in accordance with
-    section 3 of this order, all Government contracting departments and
-    agencies shall, to the extent consistent with law, include the
-    following provisions in every Government contract, other than
-    collective bargaining agreements as defined in 5 U.S.C. 7103(a)(8)
-    and purchases under the "Simplified Acquisition Threshold" as
-    defined in the Office of Federal Procurement Policy Act (41 U.S.C.
-    403).
+    Property and Administrative Services Act, 40 U.S.C. 101 et seq.,
+    and in order to ensure the economical and efficient administration
+    and completion of Government contracts, it is hereby ordered that:
+      Section 1. Policy. This order is designed to promote economy and
+    efficiency in Government procurement. When the Federal Government
+    contracts for goods or services, it has a proprietary interest in
+    ensuring that those contracts will be performed by contractors
+    whose work will not be interrupted by labor unrest. The attainment
+    of industrial peace is most easily achieved and workers'
+    productivity is enhanced when workers are well informed of their
+    rights under Federal labor laws, including the National Labor
+    Relations Act (Act), 29 U.S.C. 151 et seq. As the Act recognizes,
+    "encouraging the practice and procedure of collective bargaining
+    and . . . protecting the exercise by workers of full freedom of
+    association, self-organization, and designation of representatives
+    of their own choosing, for the purpose of negotiating the terms and
+    conditions of their employment or other mutual aid or protection"
+    will "eliminate the causes of certain substantial obstructions to
+    the free flow of commerce" and "mitigate and eliminate these
+    obstructions when they have occurred." 29 U.S.C. 151. Relying on
+    contractors whose employees are informed of such rights under
+    Federal labor laws facilitates the efficient and economical
+    completion of the Federal Government's contracts.
+      Sec. 2. Contract Clause. Except in contracts exempted in
+    accordance with section 3 of this order, all Government contracting
+    departments and agencies shall, to the extent consistent with law,
+    include the following provisions in every Government contract,
+    other than collective bargaining agreements as defined in 5 U.S.C.
+    7103(a)(8) and purchases under the simplified acquisition threshold
+    as defined in the Office of Federal Procurement Policy Act, 41
+    U.S.C. 403.
       "1. During the term of this contract, the contractor agrees to
-    post a notice, of such size and in such form as the Secretary of
-    Labor shall prescribe, in conspicuous places in and about its
-    plants and offices, including all places where notices to employees
-    are customarily posted. The notice shall include the following
-    information (except that the last sentence shall not be included in
-    notices posted in the plants or offices of carriers subject to the
-    Railway Labor Act, as amended (45 U.S.C. 151-188)):
-      "NOTICE TO EMPLOYEES
-      Under Federal law, employees cannot be required to join a union
-    or maintain membership in a union in order to retain their jobs.
-    Under certain conditions, the law permits a union and an employer
-    to enter into a union-security agreement requiring employees to pay
-    uniform periodic dues and initiation fees. However, employees who
-    are not union members can object to the use of their payments for
-    certain purposes and can only be required to pay their share of
-    union costs relating to collective bargaining, contract
-    administration, and grievance adjustment.
-      "If you do not want to pay that portion of dues or fees used to
-    support activities not related to collective bargaining, contract
-    administration, or grievance adjustment, you are entitled to an
-    appropriate reduction in your payment. If you believe that you have
-    been required to pay dues or fees used in part to support
-    activities not related to collective bargaining, contract
-    administration, or grievance adjustment, you may be entitled to a
-    refund and to an appropriate reduction in future payments.
-      "For further information concerning your rights, you may wish to
-    contact the National Labor Relations Board (NLRB) either at one of
-    its Regional offices or at the following address:
-      National Labor Relations Board
-      Division of Information
-      1099 14th Street, N.W.
-      Washington, D.C. 20570
-      "To locate the nearest NLRB office, see NLRB's website at
-    www.nlrb.gov."
-      "2. The contractor will comply with all provisions of Executive
-    Order 13201 of February 17, 2001, and related rules, regulations,
-    and orders of the Secretary of Labor.
+    post a notice, of such size and in such form, and containing such
+    content as the Secretary of Labor shall prescribe, in conspicuous
+    places in and about its plants and offices where employees covered
+    by the National Labor Relations Act engage in activities relating
+    to the performance of the contract, including all places where
+    notices to employees are customarily posted both physically and
+    electronically. The notice shall include the information contained
+    in the notice published by the Secretary of Labor in the Federal
+    Register (Secretary's Notice).
+      "2. The contractor will comply with all provisions of the
+    Secretary's Notice, and related rules, regulations, and orders of
+    the Secretary of Labor.
       "3. In the event that the contractor does not comply with any of
     the requirements set forth in paragraphs (1) or (2) above, this
     contract may be cancelled, terminated, or suspended in whole or in
     part, and the contractor may be declared ineligible for further
     Government contracts in accordance with procedures authorized in or
-    adopted pursuant to Executive Order 13201 of February 17, 2001.
+    adopted pursuant to Executive Order [number as provided by the
+    Federal Register [13496]] of [insert new date [Jan. 30, 2009]].
     Such other sanctions or remedies may be imposed as are provided in
-    Executive Order 13201 of February 17, 2001, or by rule, regulation,
-    or order of the Secretary of Labor, or as are otherwise provided by
-    law.
+    Executive Order [number as provided by the Federal Register
+    [13496]] of [insert new date [Jan. 30, 2009]], or by rule,
+    regulation, or order of the Secretary of Labor, or as are otherwise
+    provided by law.
       "4. The contractor will include the provisions of paragraphs (1)
-    through (3) herein in every subcontract or purchase order entered
-    into in connection with this contract unless exempted by rules,
-    regulations, or orders of the Secretary of Labor issued pursuant to
-    section 3 of Executive Order 13201 of February 17, 2001, so that
-    such provisions will be binding upon each subcontractor or vendor.
-    The contractor will take such action with respect to any such
-    subcontract or purchase order as may be directed by the Secretary
-    of Labor as a means of enforcing such provisions, including the
-    imposition of sanctions for non compliance: Provided, however, that
-    if the contractor becomes involved in litigation with a
-    subcontractor or vendor, or is threatened with such involvement, as
-    a result of such direction, the contractor may request the United
-    States to enter into such litigation to protect the interests of
-    the United States."
-      (b) Whenever, through Acts of Congress or through clarification
-    of existing law by the courts or otherwise, it appears that
-    contractual provisions other than, or in addition to, those set out
-    in subsection (a) of this section are needed to inform employees
-    fully and accurately of their rights with respect to union dues,
-    union-security agreements, or the like, the Secretary shall
-    promptly issue such rules, regulations, or orders as are needed to
-    cause the substitution or addition of appropriate contractual
-    provisions in Government contracts thereafter entered into.
-      Sec. 3. (a) The Secretary may, if the Secretary finds that
-    special circumstances require an exemption in order to serve the
-    national interest, exempt a contracting department or agency from
-    the requirements of any or all of the provisions of section 2 of
-    this order with respect to a particular contract, subcontract, or
-    purchase order.
-      (b) The Secretary may, by rule, regulation, or order, exempt from
-    the provisions of section 2 of this order certain classes of
-    contracts to the extent that they involve (i) work outside the
-    United States and do not involve the recruitment or employment of
-    workers within the United States; (ii) work in jurisdictions where
-    State law forbids enforcement of union-security agreements; (iii)
-    work at sites where the notice to employees described in section
-    2(a) of this order would be unnecessary because the employees are
-    not represented by a union; (iv) numbers of workers below
-    appropriate thresholds set by the Secretary; or (v) subcontracts
-    below an appropriate tier set by the Secretary.
-      (c) The Secretary may provide, by rule, regulation, or order, for
-    the exemption of facilities of a contractor, subcontractor, or
-    vendor that are in all respects separate and distinct from
-    activities related to the performance of the contract: Provided,
-    that such exemption will not interfere with or impede the
-    effectuation of the purposes of this order: And provided further,
-    that in the absence of such an exemption all facilities shall be
-    covered by the provisions of this order.
-      Sec. 4. (a) The Secretary may investigate any Government
-    contractor, subcontractor, or vendor to determine whether the
-    contractual provisions required by section 2 of this order have
-    been violated. Such investigations shall be conducted in accordance
-    with procedures established by the Secretary.
+    through (3) above in every subcontract entered into in connection
+    with this contract (unless exempted by rules, regulations, or
+    orders of the Secretary of Labor issued pursuant to section 3 of
+    Executive Order [number as provided by the Federal Register
+    [13496]] of [insert new date [Jan. 30, 2009]]) so that such
+    provisions will be binding upon each subcontractor. The contractor
+    will take such action with respect to any such subcontract as may
+    be directed by the Secretary of Labor as a means of enforcing such
+    provisions, including the imposition of sanctions for non-
+    compliance: Provided, however, that if the contractor becomes
+    involved in litigation with a subcontractor, or is threatened with
+    such involvement, as a result of such direction, the contractor may
+    request the United States to enter into such litigation to protect
+    the interests of the United States."
+      Sec. 3. Administration.
+      (a) The Secretary of Labor (Secretary) shall be responsible for
+    the administration and enforcement of this order. The Secretary
+    shall adopt such rules and regulations and issue such orders as are
+    necessary and appropriate to achieve the purposes of this order.
+      (b) Within 120 days of the effective date of this order, the
+    Secretary shall initiate a rulemaking to prescribe the size, form,
+    and content of the notice to be posted by a contractor under
+    paragraph 1 of the contract clause described in section 2 of this
+    order. Such notice shall describe the rights of employees under
+    Federal labor laws, consistent with the policy set forth in section
+    1 of this order.
+      (c) Whenever the Secretary finds that an act of Congress,
+    clarification of existing law by the courts or the National Labor
+    Relations Board, or other circumstances make modification of the
+    contractual provisions set out in subsection (a) of this section
+    necessary to achieve the purposes of this order, the Secretary
+    promptly shall issue such rules, regulations, or orders as are
+    needed to cause the substitution or addition of appropriate
+    contractual provisions in Government contracts thereafter entered
+    into.
+      Sec. 4. Exemptions. (a) If the Secretary finds that the
+    application of any of the requirements of this order would not
+    serve the purposes of this order or would impair the ability of the
+    Government to procure goods or services on an economical and
+    efficient basis, the Secretary may exempt a contracting department
+    or agency or group of departments or agencies from the requirements
+    of any or all of the provisions of this order with respect to a
+    particular contract or subcontract or any class of contracts or
+    subcontracts.
+      (b) The Secretary may, if the Secretary finds that special
+    circumstances require an exemption in order to serve the national
+    interest, exempt a contracting department or agency from the
+    requirements of any or all of the provisions of section 2 of this
+    order with respect to a particular contract or subcontract or class
+    of contracts or subcontracts.
+      Sec. 5. Investigation.
+      (a) The Secretary may investigate any Government contractor,
+    subcontractor, or vendor to determine whether the contractual
+    provisions required by section 2 of this order have been violated.
+      Such investigations shall be conducted in accordance with
+    procedures established by the Secretary.
       (b) The Secretary shall receive and investigate complaints by
-    employees of a Government contractor, subcontractor, or vendor
-    where such complaints allege a failure to perform or a violation of
-    the contractual provisions required by section 2 of this order.
-      Sec. 5. (a) The Secretary, or any agency or officer in the
-    executive branch of the Government designated by rule, regulation,
-    or order of the Secretary, may hold such hearings, public or
-    private, regarding compliance with this order as the Secretary may
-    deem advisable.
+    employees of a Government contractor or subcontractor, where such
+    complaints allege a failure to perform or a violation of the
+    contractual provisions required by section 2 of this order.
+      Sec. 6. Compliance.
+      (a) The Secretary, or any agency or officer in the executive
+    branch lawfully designated by rule, regulation, or order of the
+    Secretary, may hold such hearings, public or private, regarding
+    compliance with this order as the Secretary may deem advisable.
       (b) The Secretary may hold hearings, or cause hearings to be
-    held, in accordance with subsection (a) of this section prior to
+    held, in accordance with subsection (a) of this section, prior to
     imposing, ordering, or recommending the imposition of sanctions
-    under this order. Neither an order for debarment of any contractor
-    from further Government contracts under section 6(b) of this order
-    nor the inclusion of a contractor on a published list of
-    noncomplying contractors under section 6(c) of this order shall be
-    carried out without affording the contractor an opportunity for a
-    hearing.
-      Sec. 6. In accordance with such rules, regulations, or orders as
-    the Secretary may issue or adopt, the Secretary may:
+    under this order. Neither an order for cancellation, termination,
+    or suspension of any contract or debarment of any contractor from
+    further Government contracts under section 7(b) of this order nor
+    the inclusion of a contractor on a published list of noncomplying
+    contractors under section 7(c) of this order shall be carried out
+    without affording the contractor an opportunity for a hearing.
+      Sec. 7. Remedies. In accordance with such rules, regulations, or
+    orders as the Secretary may issue or adopt, the Secretary may:
       (a) after consulting with the contracting department or agency,
     direct that department or agency to cancel, terminate, suspend, or
     cause to be cancelled, terminated, or suspended, any contract, or
@@ -12646,8 +12791,8 @@
     contract is essential to the agency's mission: And provided
     further, that no directive shall be issued by the Secretary under
     this subsection so long as the head of the contracting department
-    or agency continues personally to object to the issuance of such
-    directive;
+    or agency, or his or her designee, continues to object to the
+    issuance of such directive;
       (b) after consulting with each affected contracting department or
     agency, provide that one or more contracting departments or
     agencies shall refrain from entering into further contracts, or
@@ -12664,55 +12809,69 @@
     contracts with the noncomplying contractor are essential to the
     agency's mission: And provided further, that no directive shall be
     issued by the Secretary under this subsection so long as the head
-    of a contracting department or agency continues personally to
-    object to the issuance of such directive; and
+    of a contracting department or agency, or his or her designee,
+    continues to object to the issuance of such directive; and
       (c) publish, or cause to be published, the names of contractors
     that have, in the judgment of the Secretary, failed to comply with
     the provisions of this order or of related rules, regulations, and
     orders of the Secretary.
-      Sec. 7. Whenever the Secretary invokes section 6(a) or 6(b) of
-    this order, the contracting department or agency shall report the
-    results of the action it has taken to the Secretary within such
-    time as the Secretary shall specify.
-      Sec. 8. Each contracting department and agency shall cooperate
-    with the Secretary and provide such information and assistance as
-    the Secretary may require in the performance of the Secretary's
-    functions under this order.
-      Sec. 9. The Secretary may delegate any function or duty of the
-    Secretary under this order to any officer in the Department of
-    Labor or to any other officer in the executive branch of the
-    Government, with the consent of the head of the department or
-    agency in which that officer serves.
-      Sec. 10. The Federal Acquisition Regulatory Council (FAR Council)
-    shall take whatever action is required to implement in the Federal
-    Acquisition Regulation (FAR) the provisions of this order and of
-    any related rules, regulations, or orders of the Secretary that
-    were issued to implement this Executive Order. The FAR Council
-    shall amend the FAR to require each solicitation of offers for a
-    contract to include a provision that implements section 2 of this
-    order.
-      Sec. 11. As it relates to notification of employee rights
-    concerning payment of union dues or fees, Executive Order 12836 of
-    February 1, 1993, which, among other things, revoked Executive
-    Order 12800 of April 13, 1992, is revoked.
-      Sec. 12. The heads of executive departments and agencies shall
+      Sec. 8. Reports. Whenever the Secretary invokes section 7(a) or
+    7(b) of this order, the contracting department or agency shall
+    report to the Secretary the results of the action it has taken
+    within such time as the Secretary shall specify.
+      Sec. 9. Cooperation. Each contracting department and agency shall
+    cooperate with the Secretary and provide such information and
+    assistance as the Secretary may require in the performance of the
+    Secretary's functions under this order.
+      Sec. 10. Sufficiency of Remedies. If the Secretary finds that the
+    authority vested in the Secretary by sections 5 through 9 of this
+    order is not sufficient to effectuate the purposes of this order,
+    the Secretary shall develop recommendations on how better to
+    effectuate those purposes.
+      Sec. 11. Delegation. The Secretary may, in accordance with law,
+    delegate any function or duty of the Secretary under this order to
+    any officer in the Department of Labor or to any other officer in
+    the executive branch of the Government, with the consent of the
+    head of the department or agency in which that officer serves.
+      Sec. 12. Implementation. To the extent permitted by law, the
+    Federal Acquisition Regulatory Council (FAR Council) shall take
+    whatever action is required to implement in the Federal Acquisition
+    Regulation (FAR) the provisions of this order and any related
+    rules, regulations, or orders issued by the Secretary under this
+    order and shall amend the FAR to require each solicitation of
+    offers for a contract to include a provision that implements
+    section 2 of this order.
+      Sec. 13. Revocation of Prior Order and Actions. Executive Order
+    13201 of February 17, 2001, is revoked. The heads of executive
+    departments and agencies shall, to the extent permitted by law,
     revoke expeditiously any orders, rules, regulations, guidelines, or
-    policies implementing or enforcing Executive Order 12836 of
-    February 1, 1993, as it relates to notification of employee rights
-    concerning payment of union dues or fees, to the extent consistent
-    with law.
-      Sec. 13. This order is intended only to improve the internal
-    management of the executive branch and is not intended to, nor does
-    it, create any right to administrative or judicial review, or any
-    right, whether substantive or procedural, enforceable by any party
-    against the United States, its agencies or instrumentalities, its
-    officers or employees, or any other person.
-      Sec. 14. The provisions of this order shall apply to contracts
-    resulting from solicitations issued on or after the effective date
-    of this order.
-      Sec. 15. This order shall become effective 60 days after the date
-    of this order.
-                                                         George W. Bush.
+    policies implementing or enforcing Executive Order 13201.
+      Sec. 14. Severability. If any provision of this order, or the
+    application of such provision to any person or circumstance, is
+    held to be invalid, the remainder of this order and the application
+    of the provisions of such to any person or circumstances shall not
+    be affected thereby.
+      Sec. 15. General Provisions.
+      (a) Nothing in this order shall be construed to impair or
+    otherwise affect:
+        (i) authority granted by law to a department, agency, or the
+      head thereof; or
+        (ii) functions of the Director of the Office of Management and
+      Budget relating to budgetary, administrative, or legislative
+      proposals.
+      (b) This order shall be implemented consistent with applicable
+    law and subject to the availability of appropriations.
+      (c) This order is not intended to, and does not, create any right
+    or benefit, substantive or procedural, enforceable at law or in
+    equity by any party against the United States, its departments,
+    agencies, or entities, its officers, employees, or agents, or any
+    other person.
+      Sec. 16. Effective Date. This order shall become effective
+    immediately, and shall apply to contracts resulting from
+    solicitations issued on or after the effective date of the rule
+    promulgated by the Secretary pursuant to section 3(b) of this
+    order.
+                                                           Barack Obama.
 
 -CROSS-
                                 DEFINITIONS                            
@@ -12724,7 +12883,7 @@
 
 
 -CITE-
-    41 USC Sec. 254a                                            01/05/2009
+    41 USC Sec. 254a                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12756,7 +12915,7 @@
 
 
 -CITE-
-    41 USC Sec. 254b                                            01/05/2009
+    41 USC Sec. 254b                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -13255,7 +13414,7 @@
 
 
 -CITE-
-    41 USC Sec. 254c                                            01/05/2009
+    41 USC Sec. 254c                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -13325,7 +13484,7 @@
 
 
 -CITE-
-    41 USC Sec. 254d                                            01/05/2009
+    41 USC Sec. 254d                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -13532,7 +13691,7 @@
 
 
 -CITE-
-    41 USC Sec. 255                                             01/05/2009
+    41 USC Sec. 255                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -13753,7 +13912,7 @@
 
 
 -CITE-
-    41 USC Sec. 256                                             01/05/2009
+    41 USC Sec. 256                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14230,12 +14389,87 @@
     title]) or the date on which the amendments made by section 2151
     apply (as provided in section 10001), whichever is later."
 
+
+-EXEC-
+           EX. ORD. NO. 13494. ECONOMY IN GOVERNMENT CONTRACTING       
+      Ex. Ord. No. 13494, Jan. 30, 2009, 74 F.R. 6101, as amended by
+    Ex. Ord. No. 13517, Sec. 2, Oct. 30, 2009, 74 F.R. 57239, provided:
+      By the authority vested in me as President by the Constitution
+    and the laws of the United States of America, including the Federal
+    Property and Administrative Services Act, 40 U.S.C. 101 et seq., it
+    is hereby ordered that:
+      Section 1. To promote economy and efficiency in Government
+    contracting, certain costs that are not directly related to the
+    contractors' provision of goods and services to the Government
+    shall be unallowable for payment, thereby directly reducing
+    Government expenditures. This order is also consistent with the
+    policy of the United States to remain impartial concerning any
+    labor-management dispute involving Government contractors. This
+    order does not restrict the manner in which recipients of Federal
+    funds may expend those funds.
+      Sec. 2. It is the policy of the executive branch in procuring
+    goods and services that, to ensure the economical and efficient
+    administration of Government contracts, contracting departments and
+    agencies, when they enter into, receive proposals for, or make
+    disbursements pursuant to a contract as to which certain costs are
+    treated as unallowable, shall treat as unallowable the costs of any
+    activities undertaken to persuade employees - whether employees of
+    the recipient of the Federal disbursements or of any other entity -
+    to exercise or not to exercise, or concerning the manner of
+    exercising, the right to organize and bargain collectively through
+    representatives of the employees' own choosing. Such unallowable
+    costs shall be excluded from any billing, claim, proposal, or
+    disbursement applicable to any such Federal Government contract.
+      Sec. 3. Contracting departments and agencies shall treat as
+    allowable costs incurred in maintaining satisfactory relations
+    between the contractor and its employees (other than the costs of
+    any activities undertaken to persuade employees to exercise or not
+    to exercise, or concerning the manner of exercising, the right to
+    organize and bargain collectively), including costs of labor
+    management committees, employee publications, and other related
+    activities. See 48 C.F.R. 31.205-21.
+      Sec. 4. Examples of costs unallowable under section 2 of this
+    order include the costs of the following activities, when they are
+    undertaken to persuade employees to exercise or not to exercise, or
+    concern the manner of exercising, rights to organize and bargain
+    collectively:
+      (a) preparing and distributing materials;
+      (b) hiring or consulting legal counsel or consultants;
+      (c) holding meetings (including paying the salaries of the
+    attendees at meetings held for this purpose); and
+      (d) planning or conducting activities by managers, supervisors,
+    or union representatives during work hours.
+      Sec. 5. Within 150 days of the effective date of this order, the
+    Federal Acquisition Regulatory Council (FAR Council) shall adopt
+    such rules and regulations and issue such orders as are deemed
+    necessary and appropriate to carry out this order. Such rules,
+    regulations, and orders shall minimize the costs of compliance for
+    contractors and shall not interfere with the ability of contractors
+    to engage in advocacy through activities for which they do not
+    claim reimbursement.
+      Sec. 6. Each contracting department or agency shall cooperate
+    with the FAR Council and provide such information and assistance as
+    the FAR Council may require in the performance of its functions
+    under this order.
+      Sec. 7. (a) This order shall be implemented consistent with
+    applicable law and subject to the availability of appropriations.
+      (b) This order is not intended to, and does not, create any right
+    or benefit, substantive or procedural, enforceable at law or in
+    equity by any party against the United States, its departments,
+    agencies, or entities, its officers, employees, or agents, or any
+    other person.
+      Sec. 8. This order shall become effective immediately, and shall
+    apply to contracts resulting from solicitations issued on or after
+    the effective date of the action taken by the FAR Council under
+    section 5 of this order.
+                                                           Barack Obama.
+
 -End-
 
 
 
 -CITE-
-    41 USC Sec. 256a                                            01/05/2009
+    41 USC Sec. 256a                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14273,7 +14507,7 @@
 
 
 -CITE-
-    41 USC Sec. 257                                             01/05/2009
+    41 USC Sec. 257                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14407,7 +14641,7 @@
 
 
 -CITE-
-    41 USC Sec. 258                                             01/05/2009
+    41 USC Sec. 258                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14430,7 +14664,7 @@
 
 
 -CITE-
-    41 USC Sec. 259                                             01/05/2009
+    41 USC Sec. 259                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14595,7 +14829,7 @@
 
 
 -CITE-
-    41 USC Sec. 260                                             01/05/2009
+    41 USC Sec. 260                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14675,7 +14909,7 @@
 
 
 -CITE-
-    41 USC Sec. 261                                             01/05/2009
+    41 USC Sec. 261                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14741,7 +14975,7 @@
 
 
 -CITE-
-    41 USC Sec. 262                                             01/05/2009
+    41 USC Sec. 262                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14787,7 +15021,7 @@
 
 
 -CITE-
-    41 USC Sec. 263                                             01/05/2009
+    41 USC Sec. 263                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14883,7 +15117,7 @@
 
 
 -CITE-
-    41 USC Sec. 264                                             01/05/2009
+    41 USC Sec. 264                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15090,7 +15324,7 @@
 
 
 -CITE-
-    41 USC Sec. 264a                                            01/05/2009
+    41 USC Sec. 264a                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15132,7 +15366,7 @@
 
 
 -CITE-
-    41 USC Sec. 264b                                            01/05/2009
+    41 USC Sec. 264b                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15245,7 +15479,7 @@
 
 
 -CITE-
-    41 USC Sec. 265                                             01/05/2009
+    41 USC Sec. 265                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15360,7 +15594,7 @@
 
 
 -CITE-
-    41 USC Sec. 266                                             01/05/2009
+    41 USC Sec. 266                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15426,7 +15660,7 @@
 
 
 -CITE-
-    41 USC Sec. 266a                                            01/05/2009
+    41 USC Sec. 266a                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15581,7 +15815,7 @@
 
 
 -CITE-
-    41 USC SUBCHAPTER V - FOREIGN EXCESS PROPERTY               01/05/2009
+    41 USC SUBCHAPTER V - FOREIGN EXCESS PROPERTY               02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15596,7 +15830,7 @@
 
 
 -CITE-
-    41 USC Secs. 271 to 274                                     01/05/2009
+    41 USC Secs. 271 to 274                                     02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15638,7 +15872,7 @@
 
 
 -CITE-
-    41 USC SUBCHAPTER VI - FEDERAL RECORD MANAGEMENT            01/05/2009
+    41 USC SUBCHAPTER VI - FEDERAL RECORD MANAGEMENT            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15653,7 +15887,7 @@
 
 
 -CITE-
-    41 USC Secs. 281 to 291                                     01/05/2009
+    41 USC Secs. 281 to 291                                     02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15716,7 +15950,7 @@
 
 -CITE-
     41 USC CHAPTER 5 - JUDICIAL REVIEW OF ADMINISTRATIVE
-           DECISIONS                                       01/05/2009
+           DECISIONS                                       02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15737,7 +15971,7 @@
 
 
 -CITE-
-    41 USC Sec. 321                                             01/05/2009
+    41 USC Sec. 321                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15779,7 +16013,7 @@
 
 
 -CITE-
-    41 USC Sec. 322                                             01/05/2009
+    41 USC Sec. 322                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15801,7 +16035,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 6 - SERVICE CONTRACT LABOR STANDARDS         01/05/2009
+    41 USC CHAPTER 6 - SERVICE CONTRACT LABOR STANDARDS         02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15829,7 +16063,7 @@
 
 
 -CITE-
-    41 USC Sec. 351                                             01/05/2009
+    41 USC Sec. 351                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15946,12 +16180,223 @@
       Section 1 of Pub. L. 89-286 provided that: "This Act [enacting
     this chapter] may be cited as the 'Service Contract Act of 1965'."
 
+
+-EXEC-
+      EX. ORD. NO. 13495. NONDISPLACEMENT OF QUALIFIED WORKERS UNDER
+                             SERVICE CONTRACTS
+      Ex. Ord. No. 13495, Jan. 30, 2009, 74 F.R. 6103, provided:
+      When a service contract expires, and a follow-on contract is
+    awarded for the same service, at the same location, the successor
+    contractor or its subcontractors often hires the majority of the
+    predecessor's employees. On some occasions, however, a successor
+    contractor or its subcontractors hires a new work force, thus
+    displacing the predecessor's employees.
+      The Federal Government's procurement interests in economy and
+    efficiency are served when the successor contractor hires the
+    predecessor's employees. A carryover work force reduces disruption
+    to the delivery of services during the period of transition between
+    contractors and provides the Federal Government the benefits of an
+    experienced and trained work force that is familiar with the
+    Federal Government's personnel, facilities, and requirements.
+      Therefore, by the authority vested in me as President by the
+    Constitution and the laws of the United States of America,
+    including the Federal Property and Administrative Services Act, 40
+    U.S.C. 101 et seq., and in order to promote economy and efficiency
+    in Federal Government procurement, it is hereby ordered as follows:
+      Section 1. Policy. It is the policy of the Federal Government
+    that service contracts and solicitations for such contracts shall
+    include a clause that requires the contractor, and its
+    subcontractors, under a contract that succeeds a contract for
+    performance of the same or similar services at the same location,
+    to offer those employees (other than managerial and supervisory
+    employees) employed under the predecessor contract whose employment
+    will be terminated as a result of the award of the successor
+    contract, a right of first refusal of employment under the contract
+    in positions for which they are qualified. There shall be no
+    employment openings under the contract until such right of first
+    refusal has been provided. Nothing in this order shall be construed
+    to permit a contractor or subcontractor to fail to comply with any
+    provision of any other Executive Order or law of the United States.
+      Sec. 2. Definitions.
+      (a) "Service contract" or "contract" means any contract or
+    subcontract for services entered into by the Federal Government or
+    its contractors that is covered by the Service Contract Act of
+    1965, as amended, 41 U.S.C. 351 et seq., and its implementing
+    regulations.
+      (b) "Employee" means a service employee as defined in the Service
+    Contract Act of 1965, 41 U.S.C. 357(b).
+      Sec. 3. Exclusions. This order shall not apply to:
+      (a) contracts or subcontracts under the simplified acquisition
+    threshold as defined in 41 U.S.C. 403;
+      (b) contracts or subcontracts awarded pursuant to the Javits-
+    Wagner-O'Day Act, 41 U.S.C. 46-48c;
+      (c) guard, elevator operator, messenger, or custodial services
+    provided to the Federal Government under contracts or subcontracts
+    with sheltered workshops employing the severely handicapped as
+    described in section 505 of the Treasury, Postal Services [sic] and
+    General Government Appropriations Act, 1995, Public Law 103-329;
+      (d) agreements for vending facilities entered into pursuant to
+    the preference regulations issued under the Randolph-Sheppard Act,
+    20 U.S.C. 107; or
+      (e) employees who were hired to work under a Federal service
+    contract and one or more nonfederal service contracts as part of a
+    single job, provided that the employees were not deployed in a
+    manner that was designed to avoid the purposes of this order.
+      Sec. 4. Authority to Exempt Contracts. If the head of a
+    contracting department or agency finds that the application of any
+    of the requirements of this order would not serve the purposes of
+    this order or would impair the ability of the Federal Government to
+    procure services on an economical and efficient basis, the head of
+    such department or agency may exempt its department or agency from
+    the requirements of any or all of the provisions of this order with
+    respect to a particular contract, subcontract, or purchase order or
+    any class of contracts, subcontracts, or purchase orders.
+      Sec. 5. Contract Clause. The following contract clause shall be
+    included in solicitations for and service contracts that succeed
+    contracts for performance of the same or similar work at the same
+    location:
+      "NONDISPLACEMENT OF QUALIFIED WORKERS
+      "(a) Consistent with the efficient performance of this contract,
+    the contractor and its subcontractors shall, except as otherwise
+    provided herein, in good faith offer those employees (other than
+    managerial and supervisory employees) employed under the
+    predecessor contract whose employment will be terminated as a
+    result of award of this contract or the expiration of the contract
+    under which the employees were hired, a right of first refusal of
+    employment under this contract in positions for which employees are
+    qualified. The contractor and its subcontractors shall determine
+    the number of employees necessary for efficient performance of this
+    contract and may elect to employ fewer employees than the
+    predecessor contractor employed in connection with performance of
+    the work. Except as provided in paragraph (b) there shall be no
+    employment opening under this contract, and the contractor and any
+    subcontractors shall not offer employment under this contract, to
+    any person prior to having complied fully with this obligation. The
+    contractor and its subcontractors shall make an express offer of
+    employment to each employee as provided herein and shall state the
+    time within which the employee must accept such offer, but in no
+    case shall the period within which the employee must accept the
+    offer of employment be less than 10 days.
+      "(b) Notwithstanding the obligation under paragraph (a) above,
+    the contractor and any subcontractors (1) may employ under this
+    contract any employee who has worked for the contractor or
+    subcontractor for at least 3 months immediately preceding the
+    commencement of this contract and who would otherwise face lay-off
+    or discharge, (2) are not required to offer a right of first
+    refusal to any employee(s) of the predecessor contractor who are
+    not service employees within the meaning of the Service Contract
+    Act of 1965, as amended, 41 U.S.C. 357(b), and (3) are not required
+    to offer a right of first refusal to any employee(s) of the
+    predecessor contractor whom the contractor or any of its
+    subcontractors reasonably believes, based on the particular
+    employee's past performance, has failed to perform suitably on the
+    job.
+      "(c) In accordance with Federal Acquisition Regulation 52.222-
+    41(n), the contractor shall, not less than 10 days before
+    completion of this contract, furnish the Contracting Officer a
+    certified list of the names of all service employees working under
+    this contract and its subcontracts during the last month of
+    contract performance. The list shall also contain anniversary dates
+    of employment of each service employee under this contract and its
+    predecessor contracts either with the current or predecessor
+    contractors or their subcontractors. The Contracting Officer will
+    provide the list to the successor contractor, and the list shall be
+    provided on request to employees or their representatives.
+      "(d) If it is determined, pursuant to regulations issued by the
+    Secretary of Labor (Secretary), that the contractor or its
+    subcontractors are not in compliance with the requirements of this
+    clause or any regulation or order of the Secretary, appropriate
+    sanctions may be imposed and remedies invoked against the
+    contractor or its subcontractors, as provided in Executive Order
+    (No.) _____ [13495], the regulations, and relevant orders of the
+    Secretary, or as otherwise provided by law.
+      "(e) In every subcontract entered into in order to perform
+    services under this contract, the contractor will include
+    provisions that ensure that each subcontractor will honor the
+    requirements of paragraphs (a) through (b) with respect to the
+    employees of a predecessor subcontractor or subcontractors working
+    under this contract, as well as of a predecessor contractor and its
+    subcontractors. The subcontract shall also include provisions to
+    ensure that the subcontractor will provide the contractor with the
+    information about the employees of the subcontractor needed by the
+    contractor to comply with paragraph 5(c), above. The contractor
+    will take such action with respect to any such subcontract as may
+    be directed by the Secretary as a means of enforcing such
+    provisions, including the imposition of sanctions for non-
+    compliance: provided, however, that if the contractor, as a result
+    of such direction, becomes involved in litigation with a
+    subcontractor, or is threatened with such involvement, the
+    contractor may request that the United States enter into such
+    litigation to protect the interests of the United States."
+      Sec. 6. Enforcement. (a) The Secretary of Labor (Secretary) is
+    responsible for investigating and obtaining compliance with this
+    order. In such proceedings, the Secretary shall have the authority
+    to issue final orders prescribing appropriate sanctions and
+    remedies, including, but not limited to, orders requiring
+    employment and payment of wages lost. The Secretary also may
+    provide that where a contractor or subcontractor has failed to
+    comply with any order of the Secretary or has committed willful
+    violations of this order or the regulations issued pursuant
+    thereto, the contractor or subcontractor, and its responsible
+    officers, and any firm in which the contractor or subcontractor has
+    a substantial interest, shall be ineligible to be awarded any
+    contract of the United States for a period of up to 3 years.
+    Neither an order for debarment of any contractor or subcontractor
+    from further Government contracts under this section nor the
+    inclusion of a contractor or subcontractor on a published list of
+    noncomplying contractors shall be carried out without affording the
+    contractor or subcontractor an opportunity for a hearing.
+      (b) This order creates no rights under the Contract Disputes Act
+    [of 1978], and disputes regarding the requirement of the contract
+    clause prescribed by section 5 of this order, to the extent
+    permitted by law, shall be disposed of only as provided by the
+    Secretary in regulations issued under this order. To the extent
+    practicable, such regulations shall favor the resolution of
+    disputes by efficient and informal alternative dispute resolution
+    methods. The Secretary shall, in consultation with the Federal
+    Acquisition Regulatory Council, issue regulations, within 180 days
+    of the date of this order, to the extent permitted by law, to
+    implement the requirements of this order. The Federal Acquisition
+    Regulatory Council shall issue, within 180 days of the date of this
+    order, to the extent permitted by law, regulations in the Federal
+    Acquisition Regulation to provide for inclusion of the contract
+    clause in Federal solicitations and contracts subject to this
+    order.
+      Sec. 7. Revocation. Executive Order 13204 of February 17, 2001,
+    is revoked.
+      Sec. 8. Severability. If any provision of this order, or the
+    application of such provision or amendment to any person or
+    circumstance, is held to be invalid, the remainder of this order
+    and the application of the provisions of such to any person or
+    circumstances shall not be affected thereby.
+      Sec. 9. General Provisions. (a) Nothing in this order shall be
+    construed to impair or otherwise affect:
+        (i) authority granted by law to an executive department,
+      agency, or the head thereof; or
+        (ii) functions of the Director of the Office of Management and
+      Budget relating to budgetary, administrative, or legislative
+      proposals.
+      (b) This order shall be implemented consistent with applicable
+    law and subject to the availability of appropriations.
+      (c) This order is not intended to, and does not, create any right
+    or benefit, substantive or procedural, enforceable at law or in
+    equity by any party against the United States, its departments,
+    agencies, or entities, its officers, employees, or agents, or any
+    other person. This order is not intended, however, to preclude
+    judicial review of final decisions by the Secretary in accordance
+    with the Administrative Procedure Act, 5 U.S.C. 701 et seq.
+      Sec. 10. Effective Date. This order shall become effective
+    immediately and shall apply to solicitations issued on or after the
+    effective date for the action taken by the Federal Acquisition
+    Regulatory Council under section 6(b) of this order.
+                                                           Barack Obama.
+
 -End-
 
 
 
 -CITE-
-    41 USC Sec. 352                                             01/05/2009
+    41 USC Sec. 352                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15997,7 +16442,7 @@
 
 
 -CITE-
-    41 USC Sec. 353                                             01/05/2009
+    41 USC Sec. 353                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16073,7 +16518,7 @@
 
 
 -CITE-
-    41 USC Sec. 354                                             01/05/2009
+    41 USC Sec. 354                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16132,7 +16577,7 @@
 
 
 -CITE-
-    41 USC Sec. 355                                             01/05/2009
+    41 USC Sec. 355                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16167,7 +16612,7 @@
 
 
 -CITE-
-    41 USC Sec. 356                                             01/05/2009
+    41 USC Sec. 356                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16235,7 +16680,7 @@
 
 
 -CITE-
-    41 USC Sec. 357                                             01/05/2009
+    41 USC Sec. 357                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16309,7 +16754,7 @@
 
 
 -CITE-
-    41 USC Sec. 358                                             01/05/2009
+    41 USC Sec. 358                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16363,7 +16808,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 7 - OFFICE OF FEDERAL PROCUREMENT POLICY     01/05/2009
+    41 USC CHAPTER 7 - OFFICE OF FEDERAL PROCUREMENT POLICY     02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16452,7 +16897,7 @@
 
 
 -CITE-
-    41 USC Secs. 401, 402                                       01/05/2009
+    41 USC Secs. 401, 402                                       02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16649,9 +17094,13 @@
     Ex. Ord. No. 12836, Sec. 1, Feb. 1, 1993, 58 F.R. 7045, which was
     itself revoked as it relates to notification of employee rights
     concerning payment of union dues or fees by Ex. Ord. No. 13201,
-    Sec. 11, Feb. 17, 2001, 66 F.R. 11221, and as it relates to project
-    agreements by Ex. Ord. No. 13202, Sec. 8, Feb. 17, 2001, 66 F.R.
-    11226.
+    Sec. 11, Feb. 17, 2001, 66 F.R. 11221, which was itself revoked by
+    Ex. Ord. No. 13496, Sec. 13, Jan. 30, 2009, 74 F.R. 6110, set out
+    as a note under section 254 of this title, and as it relates to
+    project agreements by Ex. Ord. No. 13202, Sec. 8, Feb. 17, 2001, 66
+    F.R. 11226, which was itself revoked by Ex. Ord. No. 13502, Sec. 8,
+    Feb. 6, 2009, 74 F.R. 6986, set out as a note under section 251 of
+    this title.
 
               EX. ORD. NO. 12931. FEDERAL PROCUREMENT REFORM          
       Ex. Ord. No. 12931, Oct. 13, 1994, 59 F.R. 52387, provided:
@@ -16830,7 +17279,7 @@
 
 
 -CITE-
-    41 USC Sec. 403                                             01/05/2009
+    41 USC Sec. 403                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -17147,7 +17596,7 @@
 
 
 -CITE-
-    41 USC Sec. 404                                             01/05/2009
+    41 USC Sec. 404                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -17194,7 +17643,7 @@
 
 
 -CITE-
-    41 USC Sec. 405                                             01/05/2009
+    41 USC Sec. 405                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -17851,7 +18300,7 @@
 
 
 -CITE-
-    41 USC Sec. 405a                                            01/05/2009
+    41 USC Sec. 405a                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -17915,7 +18364,7 @@
 
 
 -CITE-
-    41 USC Sec. 405b                                            01/05/2009
+    41 USC Sec. 405b                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18038,7 +18487,7 @@
 
 
 -CITE-
-    41 USC Sec. 405c                                            01/05/2009
+    41 USC Sec. 405c                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18171,7 +18620,7 @@
 
 
 -CITE-
-    41 USC Sec. 406                                             01/05/2009
+    41 USC Sec. 406                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18199,7 +18648,7 @@
 
 
 -CITE-
-    41 USC Sec. 407                                             01/05/2009
+    41 USC Sec. 407                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18226,7 +18675,7 @@
 
 
 -CITE-
-    41 USC Sec. 408                                             01/05/2009
+    41 USC Sec. 408                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18249,7 +18698,7 @@
 
 
 -CITE-
-    41 USC Sec. 409                                             01/05/2009
+    41 USC Sec. 409                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18277,7 +18726,7 @@
 
 
 -CITE-
-    41 USC Sec. 410                                             01/05/2009
+    41 USC Sec. 410                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18347,7 +18796,7 @@
 
 
 -CITE-
-    41 USC Sec. 411                                             01/05/2009
+    41 USC Sec. 411                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18405,7 +18854,7 @@
 
 
 -CITE-
-    41 USC Sec. 412                                             01/05/2009
+    41 USC Sec. 412                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18447,7 +18896,7 @@
 
 
 -CITE-
-    41 USC Sec. 413                                             01/05/2009
+    41 USC Sec. 413                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18723,7 +19172,7 @@
 
 
 -CITE-
-    41 USC Sec. 414                                             01/05/2009
+    41 USC Sec. 414                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18837,7 +19286,7 @@
 
 
 -CITE-
-    41 USC Sec. 414a                                            01/05/2009
+    41 USC Sec. 414a                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18899,7 +19348,7 @@
 
 
 -CITE-
-    41 USC Sec. 414b                                            01/05/2009
+    41 USC Sec. 414b                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18973,7 +19422,7 @@
 
 
 -CITE-
-    41 USC Sec. 415                                             01/05/2009
+    41 USC Sec. 415                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19001,7 +19450,7 @@
 
 
 -CITE-
-    41 USC Sec. 416                                             01/05/2009
+    41 USC Sec. 416                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19396,7 +19845,7 @@
 
 
 -CITE-
-    41 USC Sec. 417                                             01/05/2009
+    41 USC Sec. 417                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19486,7 +19935,7 @@
 
 
 -CITE-
-    41 USC Sec. 417a                                            01/05/2009
+    41 USC Sec. 417a                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19561,7 +20010,7 @@
 
 
 -CITE-
-    41 USC Sec. 417b                                            01/05/2009
+    41 USC Sec. 417b                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19705,7 +20154,7 @@
 
 
 -CITE-
-    41 USC Sec. 418                                             01/05/2009
+    41 USC Sec. 418                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19826,7 +20275,7 @@
 
 
 -CITE-
-    41 USC Sec. 418a                                            01/05/2009
+    41 USC Sec. 418a                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19992,7 +20441,7 @@
 
 
 -CITE-
-    41 USC Sec. 418b                                            01/05/2009
+    41 USC Sec. 418b                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -20101,7 +20550,7 @@
 
 
 -CITE-
-    41 USC Sec. 419                                             01/05/2009
+    41 USC Sec. 419                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -20186,7 +20635,7 @@
 
 
 -CITE-
-    41 USC Sec. 420                                             01/05/2009
+    41 USC Sec. 420                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -20208,7 +20657,7 @@
 
 
 -CITE-
-    41 USC Sec. 421                                             01/05/2009
+    41 USC Sec. 421                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -20423,6 +20872,64 @@
     106, see section 4401 of Pub. L. 104-106, set out as a note under
     section 251 of this title.
 
+            JUSTIFICATION AND APPROVAL OF SOLE-SOURCE CONTRACTS        
+      Pub. L. 111-84, div. A, title VIII, Sec. 811, Oct. 28, 2009, 123
+    Stat. 2405, provided that:
+      "(a) In General. - Not later than 180 days after the date of the
+    enactment of this Act [Oct. 28, 2009], the Federal Acquisition
+    Regulation shall be revised to provide that the head of an agency
+    may not award a sole-source contract in a covered procurement for
+    an amount exceeding $20,000,000 unless - 
+        "(1) the contracting officer for the contract justifies the use
+      of a sole-source contract in writing;
+        "(2) the justification is approved by the appropriate official
+      designated to approve contract awards for dollar amounts that are
+      comparable to the amount of the sole-source contract; and
+        "(3) the justification and related information are made public
+      as provided in sections 2304(f)(1)(C) and 2304(l) of title 10,
+      United States Code, or sections 303(f)(1)(C) and 303(j) of the
+      Federal Property and Administrative Services Act of 1949 (41
+      U.S.C. 253(f)(1)(C) and 253(j)), as applicable.
+      "(b) Elements of Justification. - The justification of a sole-
+    source contract required pursuant to subsection (a) shall include
+    the following:
+        "(1) A description of the needs of the agency concerned for the
+      matters covered by the contract.
+        "(2) A specification of the statutory provision providing the
+      exception from the requirement to use competitive procedures in
+      entering into the contract.
+        "(3) A determination that the use of a sole-source contract is
+      in the best interest of the agency concerned.
+        "(4) A determination that the anticipated cost of the contract
+      will be fair and reasonable.
+        "(5) Such other matters as the head of the agency concerned
+      shall specify for purposes of this section.
+      "(c) Definitions. - In this section:
+        "(1) Covered procurement. - The term 'covered procurement'
+      means either of the following:
+          "(A) A procurement described in section 2304(f)(2)(D)(ii) of
+        title 10, United States Code.
+          "(B) A procurement described in section 303(f)(2)(D)(ii) of
+        the Federal Property and Administrative Services Act of 1949
+        (41 U.S.C. 253(f)(2)(D)(ii)).
+        "(2) Head of an agency. - The term 'head of an agency' - 
+          "(A) in the case of a covered procurement as defined in
+        paragraph (1)(A), has the meaning provided in section 2302(1)
+        of title 10, United States Code; and
+          "(B) in the case of a covered procurement as defined in
+        paragraph (1)(B), has the meaning provided the term 'agency
+        head' in section 309(a) of the Federal Property and
+        Administrative Services Act of 1949 (41 U.S.C. 259(a)).
+        "(3) Appropriate official. - The term 'appropriate official'
+      means - 
+          "(A) in the case of a covered procurement as defined in
+        paragraph (1)(A), an official designated in section
+        2304(f)(1)(B) of title 10, United States Code; and
+          "(B) in the case of a covered procurement as defined in
+        paragraph (1)(B), an official designated in section
+        303(f)(1)(B) of the Federal Property and Administrative
+        Services Act of 1949 (41 U.S.C. 253(f)(1)(B))."
+
                  STATUS OF DIRECTOR OF DEFENSE PROCUREMENT             
       Pub. L. 102-190, div. A, title VIII, Sec. 809, Dec. 5, 1991, 105
     Stat. 1423, as amended by Pub. L. 103-160, div. A, title IX, Sec.
@@ -20446,7 +20953,7 @@
 
 
 -CITE-
-    41 USC Sec. 422                                             01/05/2009
+    41 USC Sec. 422                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -20927,7 +21434,7 @@
 
 
 -CITE-
-    41 USC Sec. 423                                             01/05/2009
+    41 USC Sec. 423                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -21416,7 +21923,7 @@
 
 
 -CITE-
-    41 USC Sec. 424                                             01/05/2009
+    41 USC Sec. 424                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -21442,7 +21949,7 @@
 
 
 -CITE-
-    41 USC Sec. 425                                             01/05/2009
+    41 USC Sec. 425                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -21559,7 +22066,7 @@
 
 
 -CITE-
-    41 USC Sec. 426                                             01/05/2009
+    41 USC Sec. 426                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -21696,7 +22203,7 @@
 
 
 -CITE-
-    41 USC Sec. 426a                                            01/05/2009
+    41 USC Sec. 426a                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -21736,7 +22243,7 @@
 
 
 -CITE-
-    41 USC Sec. 427                                             01/05/2009
+    41 USC Sec. 427                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -21893,7 +22400,7 @@
 
 
 -CITE-
-    41 USC Sec. 428                                             01/05/2009
+    41 USC Sec. 428                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -21995,7 +22502,7 @@
 
 
 -CITE-
-    41 USC Sec. 428a                                            01/05/2009
+    41 USC Sec. 428a                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -22145,7 +22652,7 @@
 
 
 -CITE-
-    41 USC Sec. 429                                             01/05/2009
+    41 USC Sec. 429                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -22218,7 +22725,7 @@
 
 
 -CITE-
-    41 USC Sec. 430                                             01/05/2009
+    41 USC Sec. 430                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -22317,7 +22824,7 @@
 
 
 -CITE-
-    41 USC Sec. 431                                             01/05/2009
+    41 USC Sec. 431                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -22413,7 +22920,7 @@
 
 
 -CITE-
-    41 USC Sec. 431a                                            01/05/2009
+    41 USC Sec. 431a                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -22539,7 +23046,7 @@
 
 
 -CITE-
-    41 USC Sec. 432                                             01/05/2009
+    41 USC Sec. 432                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -22576,7 +23083,7 @@
 
 
 -CITE-
-    41 USC Sec. 433                                             01/05/2009
+    41 USC Sec. 433                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -22949,7 +23456,7 @@
 
 
 -CITE-
-    41 USC Sec. 433a                                            01/05/2009
+    41 USC Sec. 433a                                            02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23144,7 +23651,7 @@
 
 
 -CITE-
-    41 USC Sec. 434                                             01/05/2009
+    41 USC Sec. 434                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23212,7 +23719,7 @@
 
 
 -CITE-
-    41 USC Sec. 435                                             01/05/2009
+    41 USC Sec. 435                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23341,7 +23848,7 @@
 
 
 -CITE-
-    41 USC Sec. 436                                             01/05/2009
+    41 USC Sec. 436                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23387,7 +23894,7 @@
 
 
 -CITE-
-    41 USC Sec. 437                                             01/05/2009
+    41 USC Sec. 437                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23453,7 +23960,7 @@
 
 
 -CITE-
-    41 USC Sec. 438                                             01/05/2009
+    41 USC Sec. 438                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23556,7 +24063,7 @@
 
 
 -CITE-
-    41 USC Sec. 439                                             01/05/2009
+    41 USC Sec. 439                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23735,7 +24242,7 @@
 
 
 -CITE-
-    41 USC Sec. 440                                             01/05/2009
+    41 USC Sec. 440                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23817,7 +24324,7 @@
 
 -CITE-
     41 USC CHAPTER 8 - FEDERAL GRANTS AND COOPERATIVE
-           AGREEMENTS                                      01/05/2009
+           AGREEMENTS                                      02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23831,7 +24338,7 @@
 
 
 -CITE-
-    41 USC Secs. 501 to 509                                     01/05/2009
+    41 USC Secs. 501 to 509                                     02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23890,7 +24397,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 9 - CONTRACT DISPUTES                        01/05/2009
+    41 USC CHAPTER 9 - CONTRACT DISPUTES                        02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23921,7 +24428,7 @@
 
 
 -CITE-
-    41 USC Sec. 601                                             01/05/2009
+    41 USC Sec. 601                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -24058,7 +24565,7 @@
 
 
 -CITE-
-    41 USC Sec. 602                                             01/05/2009
+    41 USC Sec. 602                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -24103,7 +24610,7 @@
 
 
 -CITE-
-    41 USC Sec. 603                                             01/05/2009
+    41 USC Sec. 603                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -24157,7 +24664,7 @@
 
 
 -CITE-
-    41 USC Sec. 604                                             01/05/2009
+    41 USC Sec. 604                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -24190,7 +24697,7 @@
 
 
 -CITE-
-    41 USC Sec. 605                                             01/05/2009
+    41 USC Sec. 605                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -24433,7 +24940,7 @@
 
 
 -CITE-
-    41 USC Sec. 606                                             01/05/2009
+    41 USC Sec. 606                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -24456,7 +24963,7 @@
 
 
 -CITE-
-    41 USC Sec. 607                                             01/05/2009
+    41 USC Sec. 607                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -24770,7 +25277,7 @@
 
 
 -CITE-
-    41 USC Sec. 608                                             01/05/2009
+    41 USC Sec. 608                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -24847,7 +25354,7 @@
 
 
 -CITE-
-    41 USC Sec. 609                                             01/05/2009
+    41 USC Sec. 609                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -24970,7 +25477,7 @@
 
 
 -CITE-
-    41 USC Sec. 610                                             01/05/2009
+    41 USC Sec. 610                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -25004,7 +25511,7 @@
 
 
 -CITE-
-    41 USC Sec. 611                                             01/05/2009
+    41 USC Sec. 611                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -25051,7 +25558,7 @@
 
 
 -CITE-
-    41 USC Sec. 612                                             01/05/2009
+    41 USC Sec. 612                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -25107,7 +25614,7 @@
 
 
 -CITE-
-    41 USC Sec. 613                                             01/05/2009
+    41 USC Sec. 613                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -25130,7 +25637,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 10 - DRUG-FREE WORKPLACE                     01/05/2009
+    41 USC CHAPTER 10 - DRUG-FREE WORKPLACE                     02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -25156,7 +25663,7 @@
 
 
 -CITE-
-    41 USC Sec. 701                                             01/05/2009
+    41 USC Sec. 701                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -25324,7 +25831,7 @@
 
 
 -CITE-
-    41 USC Sec. 702                                             01/05/2009
+    41 USC Sec. 702                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -25450,7 +25957,7 @@
 
 
 -CITE-
-    41 USC Sec. 703                                             01/05/2009
+    41 USC Sec. 703                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -25479,7 +25986,7 @@
 
 
 -CITE-
-    41 USC Sec. 704                                             01/05/2009
+    41 USC Sec. 704                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -25520,7 +26027,7 @@
 
 
 -CITE-
-    41 USC Sec. 705                                             01/05/2009
+    41 USC Sec. 705                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -25553,7 +26060,7 @@
 
 
 -CITE-
-    41 USC Sec. 706                                             01/05/2009
+    41 USC Sec. 706                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -25609,7 +26116,7 @@
 
 
 -CITE-
-    41 USC Sec. 707                                             01/05/2009
+    41 USC Sec. 707                                             02/01/2010
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS

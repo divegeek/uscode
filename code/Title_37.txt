@@ -1,6 +1,7 @@
--CITE-    
+
+-CITE-
     37 USC TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED
-           SERVICES                                        01/05/2009
+           SERVICES                                        02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -331,7 +332,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 1 - DEFINITIONS                              01/05/2009
+    37 USC CHAPTER 1 - DEFINITIONS                              02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -354,7 +355,7 @@
 
 
 -CITE-
-    37 USC Sec. 101                                             01/05/2009
+    37 USC Sec. 101                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -792,7 +793,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 3 - BASIC PAY                                01/05/2009
+    37 USC CHAPTER 3 - BASIC PAY                                02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -865,7 +866,7 @@
 
 
 -CITE-
-    37 USC Sec. 201                                             01/05/2009
+    37 USC Sec. 201                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -1172,7 +1173,7 @@
 
 
 -CITE-
-    37 USC Sec. 202                                             01/05/2009
+    37 USC Sec. 202                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -1403,7 +1404,7 @@
 
 
 -CITE-
-    37 USC Sec. 203                                             01/05/2009
+    37 USC Sec. 203                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -1982,7 +1983,7 @@
 
 
 -CITE-
-    37 USC Sec. 204                                             01/05/2009
+    37 USC Sec. 204                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -2366,7 +2367,7 @@
 
 
 -CITE-
-    37 USC Sec. 205                                             01/05/2009
+    37 USC Sec. 205                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -2727,7 +2728,7 @@
 
 
 -CITE-
-    37 USC Sec. 206                                             01/05/2009
+    37 USC Sec. 206                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -2958,7 +2959,7 @@
 
 
 -CITE-
-    37 USC Sec. 207                                             01/05/2009
+    37 USC Sec. 207                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -3051,7 +3052,7 @@
 
 
 -CITE-
-    37 USC Sec. 208                                             01/05/2009
+    37 USC Sec. 208                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -3073,7 +3074,7 @@
 
 
 -CITE-
-    37 USC Sec. 209                                             01/05/2009
+    37 USC Sec. 209                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -3370,7 +3371,7 @@
 
 
 -CITE-
-    37 USC Sec. 210                                             01/05/2009
+    37 USC Sec. 210                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -3441,7 +3442,7 @@
 
 
 -CITE-
-    37 USC Sec. 211                                             01/05/2009
+    37 USC Sec. 211                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -3600,7 +3601,7 @@
 
 
 -CITE-
-    37 USC Sec. 212                                             01/05/2009
+    37 USC Sec. 212                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -3645,7 +3646,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 5 - SPECIAL AND INCENTIVE PAYS               01/05/2009
+    37 USC CHAPTER 5 - SPECIAL AND INCENTIVE PAYS               02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -3958,7 +3959,7 @@
 
 -CITE-
     37 USC SUBCHAPTER I - EXISTING SPECIAL PAY, INCENTIVE
-           PAY, AND BONUS AUTHORITIES                      01/05/2009
+           PAY, AND BONUS AUTHORITIES                      02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -3975,7 +3976,7 @@
 
 
 -CITE-
-    37 USC Sec. 301                                             01/05/2009
+    37 USC Sec. 301                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -4570,6 +4571,36 @@
     14 of Pub. L. 88-132, set out as a note under section 201 of this
     title.
 
+      TEMPORARY AUTHORITY FOR MONTHLY SPECIAL PAY FOR MEMBERS OF THE
+      ARMED FORCES SUBJECT TO CONTINUING ACTIVE DUTY OR SERVICE UNDER
+                           STOP-LOSS AUTHORITIES
+      Pub. L. 111-84, div. A, title VI, Sec. 620, Oct. 28, 2009, 123
+    Stat. 2357, provided that:
+      "(a) Special Pay Authorized. - The Secretary of the military
+    department concerned may pay monthly special pay to any member of
+    the Army, Navy, Air Force, or Marine Corps (including a member of a
+    reserve component thereof) for any month, or portion of a month, in
+    which the member serves on active duty in the Armed Forces, or has
+    the member's eligibility for retirement from the Armed Forces
+    suspended, as described in subsection (b).
+      "(b) Eligibility Requirements. - A member of the Armed Forces
+    referred to in subsection (a) is eligible to receive special pay
+    under this section if the member, at any time during the period
+    beginning on October 1, 2009, and ending on June 30, 2011, serves
+    on active duty while the member's enlistment or period of obligated
+    service is extended, or has the member's eligibility for retirement
+    suspended, pursuant to section 123 or 12305 of title 10, United
+    States Code, or any other provision of law (commonly referred to as
+    a 'stop-loss authority') that authorizes the President to extend an
+    enlistment or period of obligated service, or suspend eligibility
+    for retirement, of a member of the Armed Forces in time of war or
+    national emergency declared by Congress or the President.
+      "(c) Amount. - The amount of monthly special pay payable to a
+    member under this section for a month may not exceed $500.
+      "(d) Construction With Other Pays. - Monthly special pay payable
+    to a member under this section is in addition to any other amounts
+    payable to the member by law."
+
                           TRANSITIONAL PROVISIONS                      
       Pub. L. 110-181, div. A, title VI, Sec. 662, Jan. 28, 2008, 122
     Stat. 180, provided that:
@@ -4757,7 +4788,7 @@
 
 
 -CITE-
-    37 USC Sec. 301a                                            01/05/2009
+    37 USC Sec. 301a                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -5314,7 +5345,7 @@
 
 
 -CITE-
-    37 USC Sec. 301b                                            01/05/2009
+    37 USC Sec. 301b                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -5329,7 +5360,7 @@
 -STATUTE-
       (a) Bonus Authorized. - An aviation officer described in
     subsection (b) who, during the period beginning on January 1, 1989,
-    and ending on December 31, 2009, executes a written agreement to
+    and ending on December 31, 2010, executes a written agreement to
     remain on active duty in aviation service for at least one year
     may, upon the acceptance of the agreement by the Secretary
     concerned, be paid a retention bonus as provided in this section.
@@ -5421,11 +5452,14 @@
     614(a), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110-181, div. A,
     title VI, Sec. 614(a), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110-
     417, [div. A], title VI, Sec. 614(a), Oct. 14, 2008, 122 Stat.
-    4485.)
+    4485; Pub. L. 111-84, div. A, title VI, Sec. 615(1), Oct. 28, 2009,
+    123 Stat. 2354.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (a). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (a). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       Pub. L. 110-181 substituted "December 31, 2008" for "December 31,
@@ -5896,7 +5930,7 @@
 
 
 -CITE-
-    37 USC Sec. 301c                                            01/05/2009
+    37 USC Sec. 301c                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -6180,7 +6214,7 @@
 
 
 -CITE-
-    37 USC Sec. 301d                                            01/05/2009
+    37 USC Sec. 301d                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -6338,7 +6372,7 @@
 
 
 -CITE-
-    37 USC Sec. 301e                                            01/05/2009
+    37 USC Sec. 301e                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -6440,7 +6474,7 @@
 
 
 -CITE-
-    37 USC Sec. 302                                             01/05/2009
+    37 USC Sec. 302                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -7016,7 +7050,7 @@
 
 
 -CITE-
-    37 USC Sec. 302a                                            01/05/2009
+    37 USC Sec. 302a                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -7199,7 +7233,7 @@
 
 
 -CITE-
-    37 USC Sec. 302b                                            01/05/2009
+    37 USC Sec. 302b                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -7570,7 +7604,7 @@
 
 
 -CITE-
-    37 USC Sec. 302c                                            01/05/2009
+    37 USC Sec. 302c                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -7740,7 +7774,7 @@
 
 
 -CITE-
-    37 USC Sec. 302c-1                                          01/05/2009
+    37 USC Sec. 302c-1                                          02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -7824,18 +7858,25 @@
       of section 303a(e) of this title.
 
       (f) Termination of Authority. - No agreement under subsection (a)
-    or (b) may be entered into after December 31, 2009.
+    or (b) may be entered into after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 110-417, [div. A], title VI, Sec. 620(b)(1), Oct.
-    14, 2008, 122 Stat. 4490.)
+    14, 2008, 122 Stat. 4490; amended Pub. L. 111-84, div. A, title VI,
+    Sec. 612(b)(1), Oct. 28, 2009, 123 Stat. 2353.)
+
+
+-MISC1-
+                                AMENDMENTS                            
+      2009 - Subsec. (f). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
 
 -End-
 
 
 
 -CITE-
-    37 USC Sec. 302d                                            01/05/2009
+    37 USC Sec. 302d                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -7849,7 +7890,7 @@
 -STATUTE-
       (a) Accession Bonus Authorized. - (1) A person who is a
     registered nurse and who, during the period beginning on November
-    29, 1989, and ending on December 31, 2009, executes a written
+    29, 1989, and ending on December 31, 2010, executes a written
     agreement described in subsection (c) to accept a commission as an
     officer and remain on active duty for a period of not less than
     three years may, upon the acceptance of the agreement by the
@@ -7905,11 +7946,15 @@
     3328; Pub. L. 109-364, div. A, title VI, Sec. 612(c), Oct. 17,
     2006, 120 Stat. 2248; Pub. L. 110-181, div. A, title VI, Sec.
     612(c), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110-417, [div. A],
-    title VI, Sec. 612(c), Oct. 14, 2008, 122 Stat. 4484.)
+    title VI, Sec. 612(c), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111-
+    84, div. A, title VI, Sec. 612(b)(2), Oct. 28, 2009, 123 Stat.
+    2353.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (a)(1). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (a)(1). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       Pub. L. 110-181 substituted "December 31, 2008" for "December 31,
@@ -8010,7 +8055,7 @@
 
 
 -CITE-
-    37 USC Sec. 302e                                            01/05/2009
+    37 USC Sec. 302e                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -8024,7 +8069,7 @@
 -STATUTE-
       (a) Special Pay Authorized. - (1) An officer described in
     subsection (b)(1) who, during the period beginning on November 29,
-    1989, and ending on December 31, 2009, executes a written agreement
+    1989, and ending on December 31, 2010, executes a written agreement
     to remain on active duty for a period of one year or more may, upon
     the acceptance of the agreement by the Secretary concerned, be paid
     incentive special pay in an amount not to exceed $50,000 for any 12-
@@ -8099,11 +8144,15 @@
     3328; Pub. L. 109-364, div. A, title VI, Sec. 612(d), Oct. 17,
     2006, 120 Stat. 2248; Pub. L. 110-181, div. A, title VI, Sec.
     612(d), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110-417, [div. A],
-    title VI, Sec. 612(d), Oct. 14, 2008, 122 Stat. 4484.)
+    title VI, Sec. 612(d), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111-
+    84, div. A, title VI, Sec. 612(b)(3), Oct. 28, 2009, 123 Stat.
+    2353.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (a)(1). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (a)(1). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       Pub. L. 110-181 substituted "December 31, 2008" for "December 31,
@@ -8226,7 +8275,7 @@
 
 
 -CITE-
-    37 USC Sec. 302f                                            01/05/2009
+    37 USC Sec. 302f                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -8367,7 +8416,7 @@
 
 
 -CITE-
-    37 USC Sec. 302g                                            01/05/2009
+    37 USC Sec. 302g                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -8399,7 +8448,7 @@
     into under subsection (a) shall be subject to the repayment
     provisions of section 303a(e) of this title.
       (e) Termination of Agreement Authority. - No agreement under this
-    section may be entered into after December 31, 2009.
+    section may be entered into after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 104-106, div. A, title VI, Sec. 614(a)(1), Feb. 10,
@@ -8419,7 +8468,9 @@
     3329; Pub. L. 109-364, div. A, title VI, Secs. 612(e), 616(a), Oct.
     17, 2006, 120 Stat. 2248, 2249; Pub. L. 110-181, div. A, title VI,
     Sec. 612(e), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110-417, [div.
-    A], title VI, Sec. 612(e), Oct. 14, 2008, 122 Stat. 4484.)
+    A], title VI, Sec. 612(e), Oct. 14, 2008, 122 Stat. 4484; Pub. L.
+    111-84, div. A, title VI, Sec. 612(b)(4), Oct. 28, 2009, 123 Stat.
+    2353.)
 
 
 -MISC1-
@@ -8431,6 +8482,8 @@
     614(c)(1).
 
                                 AMENDMENTS                            
+      2009 - Subsec. (e). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (e). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       Pub. L. 110-181 substituted "December 31, 2008" for "December 31,
@@ -8504,7 +8557,7 @@
 
 
 -CITE-
-    37 USC Sec. 302h                                            01/05/2009
+    37 USC Sec. 302h                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -8518,7 +8571,7 @@
 -STATUTE-
       (a) Accession Bonus Authorized. - (1) A person who is a graduate
     of an accredited dental school and who, during the period beginning
-    on September 23, 1996, and ending on December 31, 2009, executes a
+    on September 23, 1996, and ending on December 31, 2010, executes a
     written agreement described in subsection (c) to accept a
     commission as an officer of the armed forces and remain on active
     duty for a period of not less than four years may, upon the
@@ -8561,11 +8614,14 @@
     div. A, title VI, Secs. 612(f), 617(a), Oct. 17, 2006, 120 Stat.
     2248, 2249; Pub. L. 110-181, div. A, title VI, Sec. 612(f), Jan.
     28, 2008, 122 Stat. 148; Pub. L. 110-417, [div. A], title VI, Sec.
-    612(f), Oct. 14, 2008, 122 Stat. 4484.)
+    612(f), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111-84, div. A,
+    title VI, Sec. 612(b)(5), Oct. 28, 2009, 123 Stat. 2353.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (a)(1). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (a)(1). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       Pub. L. 110-181 substituted "December 31, 2008" for "December 31,
@@ -8624,7 +8680,7 @@
 
 
 -CITE-
-    37 USC Sec. 302i                                            01/05/2009
+    37 USC Sec. 302i                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -8709,7 +8765,7 @@
 
 
 -CITE-
-    37 USC Sec. 302j                                            01/05/2009
+    37 USC Sec. 302j                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -8723,7 +8779,7 @@
 -STATUTE-
       (a) Accession Bonus Authorized. - A person who is a graduate of
     an accredited pharmacy school and who, during the period beginning
-    on October 30, 2000, and ending on December 31, 2009, executes a
+    on October 30, 2000, and ending on December 31, 2010, executes a
     written agreement described in subsection (d) to accept a
     commission as an officer of a uniformed service and remain on
     active duty for a period of not less than 4 years may, upon
@@ -8766,11 +8822,14 @@
     div. A, title VI, Sec. 612(g), Oct. 17, 2006, 120 Stat. 2248; Pub.
     L. 110-181, div. A, title VI, Sec. 612(g), Jan. 28, 2008, 122 Stat.
     149; Pub. L. 110-417, [div. A], title VI, Sec. 612(g), Oct. 14,
-    2008, 122 Stat. 4484.)
+    2008, 122 Stat. 4484; Pub. L. 111-84, div. A, title VI, Sec.
+    612(b)(6), Oct. 28, 2009, 123 Stat. 2353.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (a). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (a). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       Pub. L. 110-181 substituted "December 31, 2008" for "December 31,
@@ -8813,7 +8872,7 @@
 
 
 -CITE-
-    37 USC Sec. 302k                                            01/05/2009
+    37 USC Sec. 302k                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -8863,17 +8922,21 @@
     specialty specified in the agreement, shall be subject to the
     repayment provisions of section 303a(e) of this title.
       (f) Termination of Authority. - No agreement under this section
-    may be entered into after December 31, 2009.
+    may be entered into after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 109-364, div. A, title VI, Sec. 617(b), Oct. 17,
     2006, 120 Stat. 2249; amended Pub. L. 110-181, div. A, title VI,
     Sec. 612(h), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110-417, [div.
-    A], title VI, Sec. 612(h), Oct. 14, 2008, 122 Stat. 4484.)
+    A], title VI, Sec. 612(h), Oct. 14, 2008, 122 Stat. 4484; Pub. L.
+    111-84, div. A, title VI, Sec. 612(b)(7), Oct. 28, 2009, 123 Stat.
+    2353.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (f). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (f). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       Pub. L. 110-181 substituted "December 31, 2008" for "December 31,
@@ -8898,7 +8961,7 @@
 
 
 -CITE-
-    37 USC Sec. 302l                                            01/05/2009
+    37 USC Sec. 302l                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -8953,17 +9016,21 @@
     the agreement under. A person may not execute an agreement under
     both subsection (a) and such section 302h.
       (g) Termination of Authority. - No agreement under this section
-    may be entered into after December 31, 2009.
+    may be entered into after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 109-364, div. A, title VI, Sec. 617(c), Oct. 17,
     2006, 120 Stat. 2250; amended Pub. L. 110-181, div. A, title VI,
     Sec. 612(i), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110-417, [div.
-    A], title VI, Sec. 612(i), Oct. 14, 2008, 122 Stat. 4485.)
+    A], title VI, Sec. 612(i), Oct. 14, 2008, 122 Stat. 4485; Pub. L.
+    111-84, div. A, title VI, Sec. 612(b)(8), Oct. 28, 2009, 123 Stat.
+    2353.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (g). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (g). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       Pub. L. 110-181 substituted "December 31, 2008" for "December 31,
@@ -8988,7 +9055,7 @@
 
 
 -CITE-
-    37 USC Sec. 303                                             01/05/2009
+    37 USC Sec. 303                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -9177,7 +9244,7 @@
 
 
 -CITE-
-    37 USC Sec. 303a                                            01/05/2009
+    37 USC Sec. 303a                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -9227,10 +9294,10 @@
     sections 301d, 302 through 302j, and 303 of this title.
       (e) Repayment of Unearned Portion of Bonuses and Other Benefits
     When Conditions of Payment not Met; Termination of Entitlement to
-    Unpaid Amounts. - (1)(A) Except as provided in paragraph (2), a
-    member of the uniformed services who receives a bonus or similar
-    benefit and whose receipt of the bonus or similar benefit is
-    subject to the condition that the member continue to satisfy
+    Unpaid Amounts. - (1)(A) Except as provided in paragraphs (2) and
+    (3), a member of the uniformed services who receives a bonus or
+    similar benefit and whose receipt of the bonus or similar benefit
+    is subject to the condition that the member continue to satisfy
     certain eligibility requirements shall repay to the United States
     an amount equal to the unearned portion of the bonus or similar
     benefit if the member fails to satisfy the eligibility requirements
@@ -9242,7 +9309,7 @@
     would be contrary to a personnel policy or management objective,
     would be against equity and good conscience, or would be contrary
     to the best interests of the United States.
-      (B) (!1) The Secretary concerned may establish, by regulations,
+      (B) The Secretary concerned may establish, by regulations,
     procedures for determining the amount of the repayment required
     under this subsection and the circumstances under which an
     exception to the required repayment may be granted. The Secretary
@@ -9253,8 +9320,7 @@
     similar benefit. For the military departments, this subsection
     shall be administered under regulations prescribed by the Secretary
     of Defense.
-
-      (B)(A) (!1) If a member of the uniformed services receives a sole
+      (2)(A) If a member of the uniformed services receives a sole
     survivorship discharge, the Secretary concerned - 
         (i) shall not require repayment by the member of the unearned
       portion of any bonus, incentive pay, or similar benefit
@@ -9267,10 +9333,10 @@
       against equity and good conscience, or would be contrary to the
       best interests of the United States.
 
-      (B) (!1) In this paragraph, the term "sole survivorship
-    discharge" means the separation of a member from the Armed Forces,
-    at the request of the member, pursuant to the Department of Defense
-    policy permitting the early separation of a member who is the only
+      (B) In this paragraph, the term "sole survivorship discharge"
+    means the separation of a member from the Armed Forces, at the
+    request of the member, pursuant to the Department of Defense policy
+    permitting the early separation of a member who is the only
     surviving child in a family in which - 
         (i) the father or mother or one or more siblings - 
           (I) served in the Armed Forces; and
@@ -9285,7 +9351,7 @@
       sibling and was not incurred during a period of unauthorized
       absence.
 
-      (2)(A) If a member of the uniformed services dies or is retired
+      (3)(A) If a member of the uniformed services dies or is retired
     or separated with a combat-related disability, the Secretary
     concerned - 
         (i) shall not require repayment by the member or the member's
@@ -9299,7 +9365,7 @@
       separation of the member.
 
       (B) Subparagraph (A) does not apply if the death or disability of
-    the member is the result (!2) the member's misconduct.
+    the member is the result (!1) the member's misconduct.
 
       (C) The amount to be paid under subparagraph (A)(ii) shall be
     equal to the full amount specified by the agreement or contract
@@ -9312,7 +9378,7 @@
     member, whichever applies.
       (E) In this paragraph, the term "combat-related disability" has
     the meaning given that term in section 1413a(e) of title 10.
-      (3) An obligation to repay the United States under this
+      (4) An obligation to repay the United States under this
     subsection is, for all purposes, a debt owed the United States. A
     discharge in bankruptcy under title 11 does not discharge a person
     from such debt if the discharge order is entered less than five
@@ -9322,13 +9388,13 @@
         (B) in the absence of such an agreement or contract, the date
       of the termination of the service on which the debt is based.
 
-      (4) In this subsection:
+      (5) In this subsection:
         (A) The term "bonus or similar benefit" means a bonus,
       incentive pay, special pay, or similar payment, or an educational
       benefit or stipend, paid to a member of the uniformed services
       under a provision of law that refers to the repayment
       requirements of this subsection.
-        (B) The term "service", as used in paragraph (3)(B), refers to
+        (B) The term "service", as used in paragraph (4)(B), refers to
       an obligation willingly undertaken by a member of the uniformed
       services, in exchange for a bonus or similar benefit offered by
       the Secretary of Defense or the Secretary concerned - 
@@ -9356,7 +9422,8 @@
     VI, Sec. 687(a)(1), (e)(1), Jan. 6, 2006, 119 Stat. 3326, 3336;
     Pub. L. 110-317, Sec. 2(a), Aug. 29, 2008, 122 Stat. 3526; Pub. L.
     110-417, [div. A], title VI, Sec. 651(a), (b), Oct. 14, 2008, 122
-    Stat. 4495.)
+    Stat. 4495; Pub. L. 111-84, div. A, title VI, Sec. 617(a), Oct. 28,
+    2009, 123 Stat. 2354.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -9383,6 +9450,15 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (e)(1)(A). Pub. L. 111-84, Sec. 617(a)(1),
+    substituted "paragraphs (2) and (3)" for "paragraph (2)".
+      Subsec. (e)(1)(B), (2). Pub. L. 111-84, Sec. 617(a)(5),
+    redesignated subpar. (B), relating to sole survivorship discharge,
+    as par. (2). Former par. (2) redesignated (3).
+      Subsec. (e)(3) to (5). Pub. L. 111-84, Sec. 617(a)(2)-(4),
+    redesignated pars. (2) to (4) as (3) to (5), respectively, and, in
+    par. (5)(B), substituted "paragraph (4)(B)" for "paragraph (3)(B)"
+    in introductory provisions.
       2008 - Subsec. (e). Pub. L. 110-417, Sec. 651(a)(1), inserted ";
     Termination of Entitlement to Unpaid Amounts" after "Met" in
     heading.
@@ -9488,10 +9564,7 @@
     10, Armed Forces.
 
 -FOOTNOTE-
-    (!1) So in original. Par. (1) has two subpars. designated (B). The
-         second subpar. (B) has its own (A) and (B).
-
-    (!2) So in original. Probably should be followed by "of".
+    (!1) So in original. Probably should be followed by "of".
 
 
 -End-
@@ -9499,7 +9572,7 @@
 
 
 -CITE-
-    37 USC Sec. 303b                                            01/05/2009
+    37 USC Sec. 303b                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -9585,7 +9658,7 @@
 
 
 -CITE-
-    37 USC Sec. 304                                             01/05/2009
+    37 USC Sec. 304                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -9733,7 +9806,7 @@
 
 
 -CITE-
-    37 USC Sec. 305                                             01/05/2009
+    37 USC Sec. 305                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -10000,7 +10073,7 @@
 
 
 -CITE-
-    37 USC Sec. 305a                                            01/05/2009
+    37 USC Sec. 305a                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -10327,7 +10400,7 @@
 
 
 -CITE-
-    37 USC Sec. 305b                                            01/05/2009
+    37 USC Sec. 305b                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -10382,7 +10455,7 @@
 
 
 -CITE-
-    37 USC Sec. 306                                             01/05/2009
+    37 USC Sec. 306                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -10548,7 +10621,7 @@
 
 
 -CITE-
-    37 USC Sec. 306a                                            01/05/2009
+    37 USC Sec. 306a                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -10613,7 +10686,7 @@
 
 
 -CITE-
-    37 USC Sec. 307                                             01/05/2009
+    37 USC Sec. 307                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -10829,7 +10902,7 @@
 
 
 -CITE-
-    37 USC Sec. 307a                                            01/05/2009
+    37 USC Sec. 307a                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -10910,7 +10983,7 @@
       member or the release of the member from active duty.
 
       (g) Termination of Authority. - No agreement under this section
-    may be entered into after December 31, 2009.
+    may be entered into after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 107-314, div. A, title VI, Sec. 616(a)(1), Dec. 2,
@@ -10920,11 +10993,14 @@
     Jan. 6, 2006, 119 Stat. 3295, 3296, 3329; Pub. L. 109-364, div. A,
     title VI, Sec. 614(b), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110-
     417, [div. A], title VI, Sec. 614(b), Oct. 14, 2008, 122 Stat.
-    4485.)
+    4485; Pub. L. 111-84, div. A, title VI, Sec. 615(2), Oct. 28, 2009,
+    123 Stat. 2354.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (g). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (g). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       2006 - Subsec. (a). Pub. L. 109-163, Sec. 628(a)(1), struck out
@@ -11044,7 +11120,7 @@
 
 
 -CITE-
-    37 USC Sec. 308                                             01/05/2009
+    37 USC Sec. 308                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -11079,8 +11155,7 @@
         member was entitled at the time of the discharge or release of
         the member; and
           (ii) the number of years (or the monthly fractions thereof)
-        of the term of reenlistment or extension of enlistment,.(!1)
-
+        of the term of reenlistment or extension of enlistment.
 
         (B) $90,000.
 
@@ -11142,7 +11217,7 @@
     the Navy.
       (g) No bonus shall be paid under this section with respect to any
     reenlistment, or voluntary extension of an active-duty enlistment,
-    in the armed forces entered into after December 31, 2009.
+    in the armed forces entered into after December 31, 2010.
 
 -SOURCE-
     (Pub. L. 87-649, Sept. 7, 1962, 76 Stat. 467; Pub. L. 89-132, Sec.
@@ -11186,7 +11261,9 @@
     364, div. A, title VI, Sec. 614(c), Oct. 17, 2006, 120 Stat. 2248;
     Pub. L. 110-181, div. A, title VI, Sec. 614(b), Jan. 28, 2008, 122
     Stat. 149; Pub. L. 110-417, [div. A], title V, Sec. 531(b), title
-    VI, Sec. 614(c), Oct. 14, 2008, 122 Stat. 4449, 4485.)
+    VI, Sec. 614(c), Oct. 14, 2008, 122 Stat. 4449, 4485; Pub. L. 111-
+    84, div. A, title VI, Sec. 615(3), title X, Sec. 1073(b), Oct. 28,
+    2009, 123 Stat. 2354, 2474.)
 
 -MISC1-
 
@@ -11231,6 +11308,10 @@
     surplusage.
 
                                 AMENDMENTS                            
+      2009 - Subsec. (a)(2)(A)(ii). Pub. L. 111-84, Sec. 1073(b),
+    struck out comma before period at end.
+      Subsec. (g). Pub. L. 111-84, Sec. 615(3), substituted "December
+    31, 2010" for "December 31, 2009".
       2008 - Subsec. (a)(2)(A)(ii). Pub. L. 110-417, Sec. 531(b),
     struck out "not to exceed six" after "extension of enlistment,".
       Subsec. (g). Pub. L. 110-417, Sec. 614(c), substituted "December
@@ -11581,17 +11662,12 @@
     Act, or under section 308 of that title, as amended by this Act, or
     from a combination of both."
 
--FOOTNOTE-               
-
-    (!1) So in original.
-
-
 -End-
 
 
 
 -CITE-
-    37 USC Sec. 308a                                            01/05/2009
+    37 USC Sec. 308a                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -11646,7 +11722,7 @@
 
 
 -CITE-
-    37 USC Sec. 308b                                            01/05/2009
+    37 USC Sec. 308b                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -11706,7 +11782,7 @@
     Security for the Coast Guard when it is not operating as a service
     in the Navy.
       (g) Termination of Authority. - No bonus may be paid under this
-    section to any enlisted member who, after December 31, 2009,
+    section to any enlisted member who, after December 31, 2010,
     reenlists or voluntarily extends his enlistment in a reserve
     component.
 
@@ -11743,11 +11819,14 @@
     VI, Sec. 611(a), title X, Sec. 1071(e)(7), Oct. 17, 2006, 120 Stat.
     2247, 2401; Pub. L. 110-181, div. A, title VI, Secs. 611(a), 619(a)-
     (c), Jan. 28, 2008, 122 Stat. 148, 151; Pub. L. 110-417, [div. A],
-    title VI, Sec. 611(a), Oct. 14, 2008, 122 Stat. 4484.)
+    title VI, Sec. 611(a), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111-
+    84, div. A, title VI, Sec. 611(1), Oct. 28, 2009, 123 Stat. 2352.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (g). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (a)(2). Pub. L. 110-181, Sec. 619(a), substituted
     "an enlistment for a period of at least three years" for "his
     enlistment for a period of three years or for a period of six
@@ -12014,7 +12093,7 @@
 
 
 -CITE-
-    37 USC Sec. 308c                                            01/05/2009
+    37 USC Sec. 308c                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -12084,7 +12163,7 @@
     not operating as a service in the Navy.
       (i) Termination of Bonus Authority. - No bonus may be paid under
     this section with respect to any agreement entered into under
-    subsection (a) or (c) after December 31, 2009.
+    subsection (a) or (c) after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 95-485, title IV, Sec. 404(a), Oct. 20, 1978, 92
@@ -12118,11 +12197,14 @@
     Oct. 17, 2006, 120 Stat. 2247; Pub. L. 110-181, div. A, title VI,
     Secs. 611(b), 620, Jan. 28, 2008, 122 Stat. 148, 151; Pub. L. 110-
     417, [div. A], title VI, Sec. 611(b), Oct. 14, 2008, 122 Stat.
-    4484.)
+    4484; Pub. L. 111-84, div. A, title VI, Sec. 611(2), Oct. 28, 2009,
+    123 Stat. 2352.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (i). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (c)(1). Pub. L. 110-181, Sec. 620, inserted before
     semicolon "or has served in the armed forces, but was released from
     such service before completing the basic training requirements of
@@ -12277,7 +12359,7 @@
 
 
 -CITE-
-    37 USC Sec. 308d                                            01/05/2009
+    37 USC Sec. 308d                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -12310,7 +12392,7 @@
     a designation made under this subsection at any time he considers
     the designation no longer necessary.
       (c) Additional compensation may not be paid under this section
-    for inactive duty performed after December 31, 2009.
+    for inactive duty performed after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 101-189, div. A, title V, Sec. 505(a)(1), Nov. 29,
@@ -12338,7 +12420,8 @@
     611(c), Oct. 17, 2006, 120 Stat. 2247; Pub. L. 110-181, div. A,
     title VI, Sec. 611(c), Jan. 28, 2008, 122 Stat. 148; Pub. L. 110-
     417, [div. A], title VI, Sec. 611(c), Oct. 14, 2008, 122 Stat.
-    4484.)
+    4484; Pub. L. 111-84, div. A, title VI, Sec. 611(3), Oct. 28, 2009,
+    123 Stat. 2352.)
 
 
 -MISC1-
@@ -12352,6 +12435,8 @@
     and 308h of this title.
 
                                 AMENDMENTS                            
+      2009 - Subsec. (c). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (c). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       Pub. L. 110-181 substituted "December 31, 2008" for "December 31,
@@ -12449,7 +12534,7 @@
 
 
 -CITE-
-    37 USC Sec. 308e                                            01/05/2009
+    37 USC Sec. 308e                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -12495,7 +12580,7 @@
 
 
 -CITE-
-    37 USC Sec. 308f                                            01/05/2009
+    37 USC Sec. 308f                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -12537,7 +12622,7 @@
 
 
 -CITE-
-    37 USC Sec. 308g                                            01/05/2009
+    37 USC Sec. 308g                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -12582,7 +12667,7 @@
     an enlistment - 
         (1) during the period beginning on October 1, 1992, and ending
       on September 30, 2005; or
-        (2) after December 31, 2009.
+        (2) after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 98-94, title X, Sec. 1011(a), Sept. 24, 1983, 97
@@ -12599,11 +12684,14 @@
     X, Sec. 1071(c)(3), Oct. 17, 2006, 120 Stat. 2247, 2400; Pub. L.
     110-181, div. A, title VI, Sec. 611(d), Jan. 28, 2008, 122 Stat.
     148; Pub. L. 110-417, [div. A], title VI, Sec. 611(d), Oct. 14,
-    2008, 122 Stat. 4484.)
+    2008, 122 Stat. 4484; Pub. L. 111-84, div. A, title VI, Sec.
+    611(4), Oct. 28, 2009, 123 Stat. 2352.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (f)(2). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (f)(2). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       Pub. L. 110-181 substituted "December 31, 2008" for "December 31,
@@ -12704,7 +12792,7 @@
 
 
 -CITE-
-    37 USC Sec. 308h                                            01/05/2009
+    37 USC Sec. 308h                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -12789,7 +12877,7 @@
     Secretary concerned.
       (e) Termination of Authority. - A bonus may not be paid under
     this section to any person for a reenlistment, enlistment, or
-    voluntary extension of an enlistment after December 31, 2009.
+    voluntary extension of an enlistment after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 98-94, title X, Sec. 1011(a), Sept. 24, 1983, 97
@@ -12822,11 +12910,14 @@
     L. 109-364, div. A, title VI, Sec. 611(e), Oct. 17, 2006, 120 Stat.
     2247; Pub. L. 110-181, div. A, title VI, Sec. 611(e), Jan. 28,
     2008, 122 Stat. 148; Pub. L. 110-417, [div. A], title VI, Sec.
-    611(e), Oct. 14, 2008, 122 Stat. 4484.)
+    611(e), Oct. 14, 2008, 122 Stat. 4484; Pub. L. 111-84, div. A,
+    title VI, Sec. 611(5), Oct. 28, 2009, 123 Stat. 2352.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (e). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (e). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       Pub. L. 110-181 substituted "December 31, 2008" for "December 31,
@@ -13035,7 +13126,7 @@
 
 
 -CITE-
-    37 USC Sec. 308i                                            01/05/2009
+    37 USC Sec. 308i                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -13118,7 +13209,7 @@
     Security for the Coast Guard when the Coast Guard is not operating
     as a service in the Navy.
       (f) Termination of Authority. - No bonus may be paid under this
-    section to any person for an enlistment after December 31, 2009.
+    section to any person for an enlistment after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 99-145, title VI, Sec. 644(a)(1), Nov. 8, 1985, 99
@@ -13150,11 +13241,14 @@
     VI, Sec. 611(f), Oct. 17, 2006, 120 Stat. 2247; Pub. L. 110-181,
     div. A, title VI, Sec. 611(f), Jan. 28, 2008, 122 Stat. 148; Pub.
     L. 110-417, [div. A], title VI, Sec. 611(f), Oct. 14, 2008, 122
-    Stat. 4484.)
+    Stat. 4484; Pub. L. 111-84, div. A, title VI, Sec. 611(6), Oct. 28,
+    2009, 123 Stat. 2352.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (f). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (f). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       Pub. L. 110-181 substituted "December 31, 2008" for "December 31,
@@ -13342,7 +13436,7 @@
 
 
 -CITE-
-    37 USC Sec. 308j                                            01/05/2009
+    37 USC Sec. 308j                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -13472,7 +13566,7 @@
 
 
 -CITE-
-    37 USC Sec. 309                                             01/05/2009
+    37 USC Sec. 309                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -13504,7 +13598,7 @@
     Coast Guard is not operating as a service in the Navy.
       (e) Duration of Authority. - No bonus shall be paid under this
     section with respect to any enlistment in the armed forces made
-    after December 31, 2009.
+    after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 106-398, Sec. 1 [[div. A], title VI, Sec.
@@ -13520,7 +13614,8 @@
     VI, Sec. 614(d), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110-181,
     div. A, title VI, Sec. 614(c), Jan. 28, 2008, 122 Stat. 149; Pub.
     L. 110-417, [div. A], title VI, Sec. 614(d), Oct. 14, 2008, 122
-    Stat. 4485.)
+    Stat. 4485; Pub. L. 111-84, div. A, title VI, Sec. 615(4), Oct. 28,
+    2009, 123 Stat. 2354.)
 
 
 -MISC1-
@@ -13534,6 +13629,8 @@
     administrative functions performed after September 30, 1980.
 
                                 AMENDMENTS                            
+      2009 - Subsec. (e). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (e). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       Pub. L. 110-181 substituted "December 31, 2008" for "December 31,
@@ -13595,7 +13692,7 @@
 
 
 -CITE-
-    37 USC Sec. 310                                             01/05/2009
+    37 USC Sec. 310                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -13608,10 +13705,10 @@
       danger
 
 -STATUTE-
-      (a) Eligibility and Special Pay Amount. - Under regulations
-    prescribed by the Secretary of Defense, a member of a uniformed
-    service may be paid special pay at the rate of $225 for any month
-    in which - 
+      (a) Eligibility. - Under regulations prescribed by the Secretary
+    of Defense, a member of a uniformed service may be paid special pay
+    under subsection (b) for any month or portion of a month in which -
+    
         (1) the member was entitled to basic pay or compensation under
       section 204 or 206 of this title; and
         (2) the member - 
@@ -13629,7 +13726,15 @@
         the basis of civil insurrection, civil war, terrorism, or
         wartime conditions.
 
-      (b) Continuation During Hospitalization. - (1) A member described
+      (b) Special Pay Amount; Proration. - (1) The special pay
+    authorized by subsection (a) may not exceed $225 a month.
+      (2) Except as provided in subsection (c), if a member does not
+    satisfy the eligibility requirements specified in paragraphs (1)
+    and (2) of subsection (a) for an entire month for receipt of
+    special pay under subsection (a), the Secretary concerned may
+    prorate the payment amount to reflect the duration of the member's
+    actual qualifying service during the month.
+      (c) Continuation During Hospitalization. - (1) A member described
     in paragraph (2) may be paid special pay under this section for not
     more than three additional months during which the member is
     hospitalized as described in such paragraph.
@@ -13643,7 +13748,7 @@
       of the combat operation or the combat zone for the treatment of
       the wound, injury, or illness.
 
-      (c) Limitations and Administration. - (1) In the case of an area
+      (d) Limitations and Administration. - (1) In the case of an area
     described in subparagraph (B) or (D) of subsection (a)(2), the
     Secretary of Defense shall be responsible for designating the
     period during which duty in the area will qualify members for
@@ -13660,12 +13765,7 @@
     section for any month. A member may be paid special pay under this
     section in addition to any other pay and allowances to which he may
     be entitled.
-      (3) A member of a reserve component who is eligible for special
-    pay under this section for a month shall receive the full amount
-    authorized in subsection (a) for that month regardless of the
-    number of days during that month on which the member satisfies the
-    eligibility criteria specified in such subsection.
-      (d) Determinations of Fact. - Any determination of fact that is
+      (e) Determinations of Fact. - Any determination of fact that is
     made in administering this section is conclusive. Such a
     determination may not be reviewed by any other officer or agency of
     the United States unless there has been fraud or gross negligence.
@@ -13686,11 +13786,29 @@
     (d)(2), 619, Nov. 24, 2003, 117 Stat. 1503, 1504; Pub. L. 108-375,
     div. A, title VI, Sec. 623(a), Oct. 28, 2004, 118 Stat. 1955; Pub.
     L. 109-163, div. A, title VI, Secs. 636, 642(b), Jan. 6, 2006, 119
-    Stat. 3300, 3306.)
+    Stat. 3300, 3306; Pub. L. 111-84, div. A, title VI, Sec. 618(a),
+    Oct. 28, 2009, 123 Stat. 2355.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (a). Pub. L. 111-84, Sec. 618(a)(1), struck out
+    "and Special Pay Amount" after "Eligibility" in heading and
+    substituted "under subsection (b) for any month or portion of a
+    month" for "at the rate of $225 for any month" in introductory
+    provisions.
+      Subsecs. (b), (c). Pub. L. 111-84, Sec. 618(a)(3), (4), added
+    subsec. (b) and redesignated former subsec. (b) as (c). Former
+    subsec. (c) redesignated (d).
+      Subsec. (c)(3). Pub. L. 111-84, Sec. 618(a)(2), struck out par.
+    (3) which read as follows: "A member of a reserve component who is
+    eligible for special pay under this section for a month shall
+    receive the full amount authorized in subsection (a) for that month
+    regardless of the number of days during that month on which the
+    member satisfies the eligibility criteria specified in such
+    subsection."
+      Subsecs. (d), (e). Pub. L. 111-84, Sec. 618(a)(3), redesignated
+    subsecs. (c) and (d) as (d) and (e), respectively.
       2006 - Subsec. (b). Pub. L. 109-163, Sec. 642(b), designated
     existing text as par. (1), substituted "A member described in
     paragraph (2)" for "A member covered by subsection (a)(2)(C) who is
@@ -13895,7 +14013,7 @@
 
 
 -CITE-
-    37 USC Sec. 311                                             01/05/2009
+    37 USC Sec. 311                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -13929,7 +14047,7 @@
 
 
 -CITE-
-    37 USC Sec. 312                                             01/05/2009
+    37 USC Sec. 312                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -14008,7 +14126,7 @@
     prescribed by the Secretary of the Navy.
       (f) Duration of Authority. - The provisions of this section shall
     be effective only in the case of officers who, on or before
-    December 31, 2009, execute the required written agreement to remain
+    December 31, 2010, execute the required written agreement to remain
     in active service.
 
 -SOURCE-
@@ -14039,11 +14157,14 @@
     title VI, Secs. 613(a), 618, Oct. 17, 2006, 120 Stat. 2248, 2251;
     Pub. L. 110-181, div. A, title VI, Secs. 613(a), 621(a), Jan. 28,
     2008, 122 Stat. 149, 151; Pub. L. 110-417, [div. A], title VI,
-    Secs. 613(a), 617, Oct. 14, 2008, 122 Stat. 4485, 4486.)
+    Secs. 613(a), 617, Oct. 14, 2008, 122 Stat. 4485, 4486; Pub. L. 111-
+    84, div. A, title VI, Sec. 613(1), Oct. 28, 2009, 123 Stat. 2353.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (f). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (a)(3). Pub. L. 110-417, Sec. 617, substituted
     "not less than three years" for "three, four, or five years".
       Pub. L. 110-181, Sec. 621(a)(1), substituted "30 years" for "26
@@ -14336,7 +14457,7 @@
 
 
 -CITE-
-    37 USC Sec. 312a                                            01/05/2009
+    37 USC Sec. 312a                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -14361,7 +14482,7 @@
 
 
 -CITE-
-    37 USC Sec. 312b                                            01/05/2009
+    37 USC Sec. 312b                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -14397,7 +14518,7 @@
       and maintenance of naval nuclear propulsion plants.
 
       (c) The provisions of this section shall be effective only in the
-    case of officers who, on or before December 31, 2009, have been
+    case of officers who, on or before December 31, 2010, have been
     accepted for training for duty in connection with the supervision,
     operation, and maintenance of naval nuclear propulsion plants.
 
@@ -14429,11 +14550,14 @@
     Secs. 613(b), 619(a), Oct. 17, 2006, 120 Stat. 2248, 2252; Pub. L.
     110-181, div. A, title VI, Sec. 613(b), Jan. 28, 2008, 122 Stat.
     149; Pub. L. 110-417, [div. A], title VI, Sec. 613(b), Oct. 14,
-    2008, 122 Stat. 4485.)
+    2008, 122 Stat. 4485; Pub. L. 111-84, div. A, title VI, Sec.
+    613(2), Oct. 28, 2009, 123 Stat. 2353.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (c). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (c). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       Pub. L. 110-181 substituted "December 31, 2008" for "December 31,
@@ -14586,7 +14710,7 @@
 
 
 -CITE-
-    37 USC Sec. 312c                                            01/05/2009
+    37 USC Sec. 312c                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -14681,7 +14805,7 @@
     loss of technical qualifications was voluntary or was the result of
     his own misconduct.
       (d) For the purposes of this section, a "nuclear service year" is
-    any fiscal year beginning before December 31, 2009.
+    any fiscal year beginning before December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 94-356, Sec. 3, July 12, 1976, 90 Stat. 901; amended
@@ -14710,11 +14834,14 @@
     Pub. L. 109-364, div. A, title VI, Sec. 613(c), Oct. 17, 2006, 120
     Stat. 2248; Pub. L. 110-181, div. A, title VI, Sec. 613(c), Jan.
     28, 2008, 122 Stat. 149; Pub. L. 110-417, [div. A], title VI, Sec.
-    613(c), Oct. 14, 2008, 122 Stat. 4485.)
+    613(c), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111-84, div. A,
+    title VI, Sec. 613(3), Oct. 28, 2009, 123 Stat. 2353.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (d). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (d). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       Pub. L. 110-181 substituted "December 31, 2008" for "December 31,
@@ -14870,7 +14997,7 @@
 
 
 -CITE-
-    37 USC Sec. 313                                             01/05/2009
+    37 USC Sec. 313                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -14901,7 +15028,7 @@
 
 
 -CITE-
-    37 USC Sec. 314                                             01/05/2009
+    37 USC Sec. 314                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -15032,7 +15159,7 @@
 
 
 -CITE-
-    37 USC Sec. 315                                             01/05/2009
+    37 USC Sec. 315                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -15142,7 +15269,7 @@
 
 
 -CITE-
-    37 USC Sec. 316                                             01/05/2009
+    37 USC Sec. 316                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -15416,7 +15543,7 @@
 
 
 -CITE-
-    37 USC Sec. 316a                                            01/05/2009
+    37 USC Sec. 316a                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -15501,7 +15628,7 @@
 
 
 -CITE-
-    37 USC Sec. 317                                             01/05/2009
+    37 USC Sec. 317                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -15589,7 +15716,7 @@
 
 
 -CITE-
-    37 USC Sec. 318                                             01/05/2009
+    37 USC Sec. 318                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -15703,7 +15830,7 @@
 
 
 -CITE-
-    37 USC Sec. 319                                             01/05/2009
+    37 USC Sec. 319                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -15792,7 +15919,7 @@
 
 
 -CITE-
-    37 USC Sec. 320                                             01/05/2009
+    37 USC Sec. 320                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -15945,7 +16072,7 @@
 
 
 -CITE-
-    37 USC Sec. 321                                             01/05/2009
+    37 USC Sec. 321                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -16028,7 +16155,7 @@
 
 
 -CITE-
-    37 USC Sec. 322                                             01/05/2009
+    37 USC Sec. 322                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -16046,7 +16173,7 @@
 
 
 -CITE-
-    37 USC Sec. 323                                             01/05/2009
+    37 USC Sec. 323                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -16064,7 +16191,7 @@
 
 
 -CITE-
-    37 USC Sec. 324                                             01/05/2009
+    37 USC Sec. 324                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -16115,7 +16242,7 @@
     agreement shall be subject to the repayment provisions of section
     303a(e) of this title.
       (g) Termination of Authority. - No agreement under this section
-    may be entered into after December 31, 2009.
+    may be entered into after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 107-107, div. A, title VI, Sec. 621(a), Dec. 28,
@@ -16128,11 +16255,14 @@
     3295, 3332; Pub. L. 109-364, div. A, title VI, Sec. 614(f), Oct.
     17, 2006, 120 Stat. 2249; Pub. L. 110-181, div. A, title VI, Sec.
     614(e), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110-417, [div. A],
-    title VI, Sec. 614(e), Oct. 14, 2008, 122 Stat. 4485.)
+    title VI, Sec. 614(e), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111-
+    84, div. A, title VI, Sec. 615(5), Oct. 28, 2009, 123 Stat. 2354.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (g). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (g). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       Pub. L. 110-181 substituted "December 31, 2008" for "December 31,
@@ -16180,7 +16310,7 @@
 
 
 -CITE-
-    37 USC Sec. 325                                             01/05/2009
+    37 USC Sec. 325                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -16314,7 +16444,7 @@
 
 
 -CITE-
-    37 USC Sec. 326                                             01/05/2009
+    37 USC Sec. 326                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -16361,7 +16491,7 @@
     the Secretary of a military department shall be subject to the
     approval of the Secretary of Defense.
       (g) Termination of Authority. - No agreement under this section
-    may be entered into after December 31, 2009.
+    may be entered into after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 108-136, div. A, title VI, Sec. 625(a), Nov. 24,
@@ -16371,11 +16501,14 @@
     109-364, div. A, title VI, Sec. 614(g), Oct. 17, 2006, 120 Stat.
     2249; Pub. L. 110-181, div. A, title VI, Sec. 614(f), Jan. 28,
     2008, 122 Stat. 149; Pub. L. 110-417, [div. A], title VI, Sec.
-    614(f), Oct. 14, 2008, 122 Stat. 4485.)
+    614(f), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111-84, div. A,
+    title VI, Sec. 615(6), Oct. 28, 2009, 123 Stat. 2354.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (g). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (g). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       Pub. L. 110-181 substituted "December 31, 2008" for "December 31,
@@ -16423,7 +16556,7 @@
 
 
 -CITE-
-    37 USC Sec. 327                                             01/05/2009
+    37 USC Sec. 327                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -16489,17 +16622,20 @@
     the Secretary of a military department under this subsection shall
     be subject to the approval of the Secretary of Defense.
       (h) Termination of Authority. - No agreement under this section
-    may be entered into after December 31, 2009.
+    may be entered into after December 31, 2010.
 
 -SOURCE-
     (Added and amended Pub. L. 109-163, div. A, title VI, Secs. 641(a),
     687(b)(35), Jan. 6, 2006, 119 Stat. 3304, 3333; Pub. L. 109-364,
     div. A, title VI, Secs. 614(h), 620(a), Oct. 17, 2006, 120 Stat.
-    2249, 2252.)
+    2249, 2252; Pub. L. 111-84, div. A, title VI, Sec. 615(7), Oct. 28,
+    2009, 123 Stat. 2354.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (h). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2006 - Subsec. (d)(1). Pub. L. 109-364, Sec. 620(a), substituted
     "$10,000" for "$2,500".
       Subsec. (f). Pub. L. 109-163, Sec. 687(b)(35), amended heading
@@ -16540,7 +16676,7 @@
 
 
 -CITE-
-    37 USC Sec. 328                                             01/05/2009
+    37 USC Sec. 328                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -16581,7 +16717,8 @@
       (d) Amount of Special Pay. - The monthly amount of special pay
     paid to a member under this section shall be equal to $430, less
     any payment received by the member for the same month under section
-    310(b) of this title.
+    310(b) (!1) of this title.
+
       (e) Relationship to Other Pay and Allowances. - Special pay paid
     to a member under this section is in addition to any other pay and
     allowances to which the member is entitled or authorized to
@@ -16590,6 +16727,13 @@
 -SOURCE-
     (Added Pub. L. 109-163, div. A, title VI, Sec. 642(a), Jan. 6,
     2006, 119 Stat. 3305.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      Section 310(b) of this title, referred to in subsec. (d), was
+    redesignated section 310(c) of this title, and a new section 310(b)
+    was added, by Pub. L. 111-84, div. A, title VI, Sec. 618(a)(3),
+    (4), Oct. 28, 2009, 123 Stat. 2355.
 
 
 -MISC1-
@@ -16606,12 +16750,16 @@
     that date so long as the member continues to satisfy the
     eligibility criteria specified in such section."
 
+-FOOTNOTE-
+    (!1) See References in Text note below.
+
+
 -End-
 
 
 
 -CITE-
-    37 USC Sec. 329                                             01/05/2009
+    37 USC Sec. 329                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -16708,7 +16856,7 @@
 
 
 -CITE-
-    37 USC Sec. 330                                             01/05/2009
+    37 USC Sec. 330                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -16746,17 +16894,21 @@
     as specified in such agreement shall be subject to the repayment
     provisions of section 303a(e) of this title.
       (f) Termination of Authority. - No agreement under this section
-    may be entered into after December 31, 2009.
+    may be entered into after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 109-364, div. A, title VI, Sec. 622(a)(1), Oct. 17,
     2006, 120 Stat. 2255; amended Pub. L. 110-181, div. A, title VI,
     Sec. 614(g), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110-417, [div.
-    A], title VI, Sec. 614(g), Oct. 14, 2008, 122 Stat. 4485.)
+    A], title VI, Sec. 614(g), Oct. 14, 2008, 122 Stat. 4485; Pub. L.
+    111-84, div. A, title VI, Sec. 615(8), Oct. 28, 2009, 123 Stat.
+    2354.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (f). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (f). Pub. L. 110-417 substituted "December 31,
     2009" for "December 31, 2008".
       Pub. L. 110-181 substituted "December 31, 2008" for "December 31,
@@ -16781,7 +16933,7 @@
 
 -CITE-
     37 USC SUBCHAPTER II - CONSOLIDATION OF SPECIAL PAY,
-           INCENTIVE PAY, AND BONUS AUTHORITIES            01/05/2009
+           INCENTIVE PAY, AND BONUS AUTHORITIES            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -16798,7 +16950,7 @@
 
 
 -CITE-
-    37 USC Sec. 331                                             01/05/2009
+    37 USC Sec. 331                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -16885,18 +17037,25 @@
     specified in the written agreement under subsection (d), shall be
     subject to the repayment provisions of section 373 of this title.
       (h) Termination of Authority. - No agreement may be entered into
-    under this section after December 31, 2009.
+    under this section after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 110-181, div. A, title VI, Sec. 661(a)(2), Jan. 28,
-    2008, 122 Stat. 163.)
+    2008, 122 Stat. 163; amended Pub. L. 111-84, div. A, title VI, Sec.
+    614(1), Oct. 28, 2009, 123 Stat. 2353.)
+
+
+-MISC1-
+                                AMENDMENTS                            
+      2009 - Subsec. (h). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
 
 -End-
 
 
 
 -CITE-
-    37 USC Sec. 332                                             01/05/2009
+    37 USC Sec. 332                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -16980,18 +17139,25 @@
     specified in the written agreement under subsection (d), shall be
     subject to the repayment provisions of section 373 of this title.
       (g) Termination of Authority. - No agreement may be entered into
-    under this section after December 31, 2009.
+    under this section after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 110-181, div. A, title VI, Sec. 661(a)(2), Jan. 28,
-    2008, 122 Stat. 164.)
+    2008, 122 Stat. 164; amended Pub. L. 111-84, div. A, title VI, Sec.
+    614(2), Oct. 28, 2009, 123 Stat. 2353.)
+
+
+-MISC1-
+                                AMENDMENTS                            
+      2009 - Subsec. (g). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
 
 -End-
 
 
 
 -CITE-
-    37 USC Sec. 333                                             01/05/2009
+    37 USC Sec. 333                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -17094,16 +17260,19 @@
       (h) Regulations. - This section shall be administered under
     regulations prescribed by the Secretary of the Navy.
       (i) Termination of Authority. - No agreement may be entered into
-    under this section after December 31, 2009.
+    under this section after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 110-181, div. A, title VI, Sec. 661(a)(2), Jan. 28,
     2008, 122 Stat. 166; amended Pub. L. 110-417, [div. A], title VI,
-    Sec. 618(a), Oct. 14, 2008, 122 Stat. 4486.)
+    Sec. 618(a), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111-84, div. A,
+    title VI, Sec. 614(3), Oct. 28, 2009, 123 Stat. 2353.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (i). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsecs. (a)(2), (b)(2). Pub. L. 110-417 struck out "and
     operational" after "current technical".
 
@@ -17112,7 +17281,7 @@
 
 
 -CITE-
-    37 USC Sec. 334                                             01/05/2009
+    37 USC Sec. 334                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -17230,16 +17399,19 @@
       designated as an aviation cadet under section 6911 of title 10.
 
       (i) Termination of Authority. - No agreement may be entered into
-    under this section after December 31, 2009.
+    under this section after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 110-181, div. A, title VI, Sec. 661(a)(2), Jan. 28,
     2008, 122 Stat. 167; amended Pub. L. 110-417, [div. A], title VI,
-    Sec. 618(b), Oct. 14, 2008, 122 Stat. 4486.)
+    Sec. 618(b), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111-84, div. A,
+    title VI, Sec. 614(4), Oct. 28, 2009, 123 Stat. 2353.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (i). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (f)(1). Pub. L. 110-417 substituted "section
     351(a)(2)" for "section 351".
 
@@ -17248,7 +17420,7 @@
 
 
 -CITE-
-    37 USC Sec. 335                                             01/05/2009
+    37 USC Sec. 335                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -17405,16 +17577,19 @@
       or reserve corps of the Public Health Service.
 
       (k) Termination of Authority. - No agreement may be entered into
-    under this section after December 31, 2009.
+    under this section after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 110-181, div. A, title VI, Sec. 661(a)(2), Jan. 28,
     2008, 122 Stat. 169; amended Pub. L. 110-417, [div. A], title VI,
-    Sec. 618(c), Oct. 14, 2008, 122 Stat. 4486.)
+    Sec. 618(c), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111-84, div. A,
+    title VI, Sec. 614(5), Oct. 28, 2009, 123 Stat. 2354.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (k). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Subsec. (e)(1)(D)(i). Pub. L. 110-417 substituted "dental
     officers" for "dental surgeons".
 
@@ -17453,7 +17628,7 @@
 
 
 -CITE-
-    37 USC Sec. 351                                             01/05/2009
+    37 USC Sec. 351                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -17496,25 +17671,24 @@
       designated as an imminent danger area, as described in subsection
       (a)(3), hazardous duty pay may not exceed $250 per month.
 
-      (c) Method of Payment. - Hazardous duty pay shall be paid on a
-    monthly basis. A member who is eligible for hazardous duty pay by
-    reason of paragraph (1) or (3) of subsection (a) shall receive the
-    full monthly rate of hazardous duty pay authorized by the Secretary
-    concerned under such paragraph, notwithstanding subsection (d).
-      (d) Reserve Component Members Performing Inactive Duty Training. -
-     A member of a reserve component entitled to compensation under
-    section 206 of this title who is authorized hazardous duty pay
-    under this section may be paid an amount of hazardous duty pay that
-    is proportionate to the compensation received by the member under
-    section 206 of this title for inactive-duty training.
-      (e) Administration and Retroactive Payments. - The effective date
+      (c) Method of Payment; Proration. - 
+        (1) Monthly payment. - Subject to paragraph (2), hazardous duty
+      pay shall be paid on a monthly basis.
+        (2) Proration. - If a member does not satisfy the eligibility
+      requirements specified in paragraph (1), (2), or (3) of
+      subsection (a) for an entire month for receipt of hazardous duty
+      pay, the Secretary concerned may prorate the payment amount to
+      reflect the duration of the member's actual qualifying service
+      during the month.
+
+      (d) Administration and Retroactive Payments. - The effective date
     for the designation of a hostile fire area, as described in
     paragraph (1) of subsection (a), and for the designation of a
     foreign area as an imminent danger area, as described in paragraph
     (3) of such subsection, may be a date that occurs before, on, or
     after the actual date of the designation by the Secretary
     concerned.
-      (f) Determination of Fact. - Any determination of fact that is
+      (e) Determination of Fact. - Any determination of fact that is
     made in connection with determining whether a triggering event has
     occurred for the provision of hazardous duty pay under subsection
     (a)(1) is conclusive. The determination may not be reviewed by any
@@ -17522,7 +17696,7 @@
     fraud or gross negligence. However, the Secretary concerned may
     change the determination on the basis of new evidence or for other
     good cause.
-      (g) Relationship to Other Pay and Allowances. - 
+      (f) Relationship to Other Pay and Allowances. - 
         (1) In addition to other pay and allowances. - A member may be
       paid hazardous duty pay under this section in addition to any
       other pay and allowances to which the member is entitled. The
@@ -17537,20 +17711,31 @@
       under this section for a month for more than three qualifying
       instances described in subsection (a)(2).
 
-      (h) Prohibition on Variable Rates. - The regulations prescribed
+      (g) Prohibition on Variable Rates. - The regulations prescribed
     to administer this section may not include varied criteria or rates
     for payment of hazardous duty for officers and enlisted members.
-      (i) Termination of Authority. - No hazardous duty pay under this
-    section may be paid after December 31, 2009.
+      (h) Termination of Authority. - No hazardous duty pay under this
+    section may be paid after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 110-181, div. A, title VI, Sec. 661(a)(2), Jan. 28,
     2008, 122 Stat. 172; amended Pub. L. 110-417, [div. A], title VI,
-    Sec. 618(d), (e), Oct. 14, 2008, 122 Stat. 4486.)
+    Sec. 618(d), (e), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111-84,
+    div. A, title VI, Secs. 614(6), 618(b), Oct. 28, 2009, 123 Stat.
+    2354, 2356.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsecs. (c) to (h). Pub. L. 111-84, Sec. 618(b), added
+    subsec. (c), redesignated former subsecs. (e) to (i) as (d) to (h),
+    respectively, and struck out former subsecs. (c) and (d), which
+    related to method of payment and reserve component members
+    performing inactive duty training.
+      Subsec. (i). Pub. L. 111-84, Sec. 618(b)(1), redesignated subsec.
+    (i) as (h).
+      Pub. L. 111-84, Sec. 614(6), substituted "December 31, 2010" for
+    "December 31, 2009".
       2008 - Subsec. (c). Pub. L. 110-417, Sec. 618(d), substituted
     "paragraph (1) or (3) of subsection (a)" for "subsection (a)".
       Subsec. (f). Pub. L. 110-417, Sec. 618(e), substituted "in
@@ -17566,7 +17751,7 @@
 
 
 -CITE-
-    37 USC Sec. 352                                             01/05/2009
+    37 USC Sec. 352                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -17592,7 +17777,11 @@
         (1) Lump sum or installments. - Assignment or special duty pay
       under subsection (a) may be paid monthly, in a lump sum, or in
       periodic installments other than monthly, as determined by the
-      Secretary concerned.
+      Secretary concerned. If paid monthly, the Secretary concerned may
+      prorate the monthly amount of the assignment or special duty pay
+      for a member who does not satisfy the eligibility requirement for
+      an entire month to reflect the duration of the member's actual
+      qualifying service during the month.
         (2) Maximum monthly amount. - The maximum monthly amount of
       assignment or special duty pay may not exceed $5,000.
         (3) Maximum lump sum amount. - The amount of a lump sum payment
@@ -17659,18 +17848,64 @@
     requirements under subsection (a) for receipt of such pay shall be
     subject to the repayment provisions of section 373 of this title.
       (g) Termination of Authority. - No agreement may be entered into
-    under this section after December 31, 2009.
+    under this section after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 110-181, div. A, title VI, Sec. 661(a)(2), Jan. 28,
-    2008, 122 Stat. 173.)
+    2008, 122 Stat. 173; amended Pub. L. 111-84, div. A, title VI,
+    Secs. 614(7), 618(c), Oct. 28, 2009, 123 Stat. 2354, 2356.)
+
+
+-MISC1-
+                                AMENDMENTS                            
+      2009 - Subsec. (b)(1). Pub. L. 111-84, Sec. 618(c), inserted at
+    end "If paid monthly, the Secretary concerned may prorate the
+    monthly amount of the assignment or special duty pay for a member
+    who does not satisfy the eligibility requirement for an entire
+    month to reflect the duration of the member's actual qualifying
+    service during the month."
+      Subsec. (g). Pub. L. 111-84, Sec. 614(7), substituted "December
+    31, 2010" for "December 31, 2009".
+
+       ADDITIONAL ASSIGNMENT PAY OR SPECIAL DUTY PAY AUTHORIZED FOR
+       MEMBERS AGREEING TO SERVE IN AFGHANISTAN FOR EXTENDED PERIODS
+      Pub. L. 111-84, div. A, title VI, Sec. 619, Oct. 28, 2009, 123
+    Stat. 2357, provided that:
+      "(a) Authority to Provide Additional Assignment Pay or Special
+    Duty Pay. - The Secretary of Defense may provide assignment pay or
+    special duty pay under section 352 of title 37, United States Code,
+    in excess of the maximum amount of monthly or lump sum assignment
+    or special duty pay authorized under subsection (b) of such
+    section, to members of the Armed Forces (particularly members who
+    achieve language proficiency at levels and in languages specified
+    by the Secretary of Defense) who agree to serve on active duty in
+    Afghanistan for a minimum of three years. The assignment period
+    required by the agreement shall provide for reasonable periods of
+    leave.
+      "(b) Reporting Requirements. - The Secretary shall submit to
+    Congress an annual report on the use of the authority provided
+    under subsection (a) during the preceding year, including - 
+        "(1) the number of members of the Armed Forces receiving
+      assignment pay or special duty pay under section 352 of title 37,
+      United States Code, in excess of the maximum amount otherwise
+      authorized under such section; and
+        "(2) an assessment of the impact of the use of such authority
+      on the effectiveness and efficiency in achieving the United
+      States mission in Afghanistan.
+      "(c) Duration of Authority. - The authority provided by
+    subsection (a) to offer additional assignment pay or special duty
+    pay under section 352 of title 37, United States Code, expires on
+    December 31, 2012. The expiration of such authority shall not
+    affect the terms or duration of any agreement entered into before
+    that date to provide additional assignment pay or special duty pay
+    under such section."
 
 -End-
 
 
 
 -CITE-
-    37 USC Sec. 353                                             01/05/2009
+    37 USC Sec. 353                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -17713,14 +17948,24 @@
       monthly subsistence allowance under section 209(c) of this title
       even though the student has not entered into an agreement under
       section 2103a of title 10. However, if the student receives
-      incentive pay under subsection (g)(2) for the same period, the
-      student may receive only a single monthly subsistence allowance
-      under section 209(c) of this title.
+      incentive pay under subsection (g)(2) (!1) for the same period,
+      the student may receive only a single monthly subsistence
+      allowance under section 209(c) of this title.
+
 
       (c) Maximum Amounts and Methods of Payment. - 
-        (1) Skill incentive pay. - Skill incentive pay under subsection
-      (a) shall be paid monthly in an amount not to exceed $1,000 per
-      month.
+        (1) Skill incentive pay. - (A) Skill incentive pay under
+      subsection (a) may not exceed $1,000 a month.
+        (B) If a member does not satisfy the eligibility requirements
+      specified in paragraphs (1) and (2) of subsection (a) for an
+      entire month for receipt of skill incentive pay, the Secretary
+      concerned may prorate the payment amount to reflect the duration
+      of the member's actual qualifying service during the month. A
+      member of a reserve component entitled to compensation under
+      section 206 of this title who is authorized skill incentive pay
+      under subsection (a) may be paid an amount of such pay that is
+      proportionate to the compensation received by the member under
+      section 206 of this title for inactive-duty training.
         (2) Proficiency bonus. - A proficiency bonus under subsection
       (b) may be paid in a lump sum at the beginning of the proficiency
       certification period or in periodic installments during the
@@ -17758,22 +18003,7 @@
       will be paid, and the initial certification or recertification
       necessary for payment of the proficiency bonus.
 
-      (f) Reserve Component Members Performing Inactive Duty Training. -
-     
-        (1) Proration. - A member of a reserve component entitled to
-      compensation under section 206 of this title who is authorized
-      skill incentive pay under subsection (a) or a skill proficiency
-      bonus under subsection (b) may be paid an amount of the pay or
-      bonus, as the case may be, that is proportionate to the
-      compensation received by the member under section 206 of this
-      title for inactive-duty training.
-        (2) Exception for foreign language proficiency. - No reduction
-      in the amount of a skill proficiency bonus may be made under
-      paragraph (1) in the case of a member of a reserve component who
-      is authorized the bonus because of the member's proficiency in a
-      foreign language.
-
-      (g) Foreign Language Studies in Officer Training Programs. - 
+      (f) Foreign Language Studies in Officer Training Programs. - 
         (1) Availability of incentive pay. - The Secretary concerned
       may pay incentive pay to a person enrolled in an officer training
       program to also participate in an education or training program
@@ -17798,11 +18028,11 @@
       Russian, Portuguese, or other language designated as critical by
       the Secretary concerned.
 
-      (h) Repayment. - A member who receives skill incentive pay or a
+      (g) Repayment. - A member who receives skill incentive pay or a
     proficiency bonus under this section and who fails to fulfill the
     eligibility requirement for receipt of the pay or bonus shall be
     subject to the repayment provisions of section 373 of this title.
-      (i) Relationship to Other Pays and Allowances. - A member may not
+      (h) Relationship to Other Pays and Allowances. - A member may not
     be paid more than one pay under this section in any month for the
     same period of service and skill. A member may be paid skill
     incentive pay or the proficiency bonus under this section in
@@ -17811,17 +18041,36 @@
     or a proficiency bonus under this section and hazardous duty pay
     under section 351 of this title for the same period of service in
     the same career field or skill.
-      (j) Termination of Authority. - No agreement may be entered into
-    under this section after December 31, 2009.
+      (i) Termination of Authority. - No agreement may be entered into
+    under this section after December 31, 2010.
 
 -SOURCE-
     (Added Pub. L. 110-181, div. A, title VI, Sec. 661(a)(2), Jan. 28,
     2008, 122 Stat. 175; amended Pub. L. 110-417, [div. A], title VI,
-    Sec. 619(a), Oct. 14, 2008, 122 Stat. 4487.)
+    Sec. 619(a), Oct. 14, 2008, 122 Stat. 4487; Pub. L. 111-84, div. A,
+    title VI, Secs. 614(8), 618(d), Oct. 28, 2009, 123 Stat. 2354,
+    2356.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      Subsection (g)(2), referred to in subsec. (b)(2), was
+    redesignated subsec. (f)(2) by Pub. L. 111-84, div. A, title VI,
+    Sec. 618(d)(1), Oct. 28, 2009, 123 Stat. 2356.
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (c)(1). Pub. L. 111-84, Sec. 618(d)(2), added par.
+    (1) and struck out former par. (1) which provided that skill
+    incentive pay was not to exceed $1,000 per month.
+      Subsecs. (f) to (i). Pub. L. 111-84, Sec. 618(d)(1), redesignated
+    subsecs. (g) to (j) as (f) to (i), respectively, and struck out
+    former subsec. (f) which related to reserve component members
+    performing inactive duty training.
+      Subsec. (j). Pub. L. 111-84, Sec. 618(d)(1), redesignated subsec.
+    (j) as (i).
+      Pub. L. 111-84, Sec. 614(8), substituted "December 31, 2010" for
+    "December 31, 2009".
       2008 - Subsec. (b). Pub. L. 110-417, Sec. 619(a)(1), amended
     subsec. (b) generally. Prior to amendment, text read as follows:
     "The Secretary concerned may pay a proficiency bonus to a member of
@@ -17869,12 +18118,16 @@
     subsections [sic], for persons enrolled in officer training
     programs."
 
+-FOOTNOTE-
+    (!1) See References in Text note below.
+
+
 -End-
 
 
 
 -CITE-
-    37 USC Sec. 354                                             01/05/2009
+    37 USC Sec. 354                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -18014,7 +18267,7 @@
 
 
 -CITE-
-    37 USC Sec. 355                                             01/05/2009
+    37 USC Sec. 355                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -18128,7 +18381,7 @@
       (i) Termination of Bonus Authority. - No bonus may be paid under
     this section with respect to any reenlistment, or voluntary
     extension of an enlistment, in the armed forces entered into after
-    December 31, 2009, and no agreement under this section may be
+    December 31, 2010, and no agreement under this section may be
     entered into after that date.
 
 -SOURCE-
@@ -18148,11 +18401,14 @@
     renumbered Sec. 355 and amended Pub. L. 110-181, div. A, title VI,
     Secs. 614(d), 622, 661(c), Jan. 28, 2008, 122 Stat. 149, 152, 178;
     Pub. L. 110-417, [div. A], title VI, Sec. 614(h), Oct. 14, 2008,
-    122 Stat. 4485.)
+    122 Stat. 4485; Pub. L. 111-84, div. A, title VI, Sec. 614(9), Oct.
+    28, 2009, 123 Stat. 2354.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (i). Pub. L. 111-84 substituted "December 31,
+    2010" for "December 31, 2009".
       2008 - Pub. L. 110-181, Sec. 661(c)(1), renumbered section 323 of
     this title as this section.
       Subsec. (e)(4). Pub. L. 110-181, Sec. 622, added par. (4).
@@ -18293,7 +18549,7 @@
 
 
 -CITE-
-    37 USC SUBCHAPTER III - GENERAL PROVISIONS                  01/05/2009
+    37 USC SUBCHAPTER III - GENERAL PROVISIONS                  02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -18308,7 +18564,7 @@
 
 
 -CITE-
-    37 USC Sec. 371                                             01/05/2009
+    37 USC Sec. 371                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -18343,7 +18599,7 @@
 
 
 -CITE-
-    37 USC Sec. 372                                             01/05/2009
+    37 USC Sec. 372                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -18395,7 +18651,7 @@
 
 
 -CITE-
-    37 USC Sec. 373                                             01/05/2009
+    37 USC Sec. 373                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -18430,8 +18686,7 @@
       contrary to a personnel policy or management objective, would be
       against equity and good conscience, or would be contrary to the
       best interests of the United States.
-        (2) Mandatory payment of unpaid amounts under certain
-      circumstances; no repayment of unearned amounts. - (A) If a
+        (2) Special rule for deceased and disabled members. - (A) If a
       member of the uniformed services dies or is retired or separated
       with a combat-related disability, the Secretary concerned - 
           (i) shall not require repayment by the member or the member's
@@ -18458,6 +18713,37 @@
       the member, whichever applies.
         (E) In this paragraph, the term "combat-related disability" has
       the meaning given that term in section 1413a(e) of title 10.
+        (3) Special rule for members who receive sole survivorship
+      discharge. - (A) If a member of the uniformed services receives a
+      sole survivorship discharge, the Secretary concerned - 
+          (i) shall not require repayment by the member of the unearned
+        portion of any bonus, incentive pay, or similar benefit
+        previously paid to the member; and
+          (ii) may grant an exception to the requirement to terminate
+        the payment of any unpaid amounts of a bonus, incentive pay, or
+        similar benefit if the Secretary concerned determines that
+        termination of the payment of the unpaid amounts would be
+        contrary to a personnel policy or management objective, would
+        be against equity and good conscience, or would be contrary to
+        the best interests of the United States.
+
+        (B) In this paragraph, the term "sole survivorship discharge"
+      means the separation of a member from the Armed Forces, at the
+      request of the member, pursuant to the Department of Defense
+      policy permitting the early separation of a member who is the
+      only surviving child in a family in which - 
+          (i) the father or mother or one or more siblings - 
+            (I) served in the Armed Forces; and
+            (II) was killed, died as a result of wounds, accident, or
+          disease, is in a captured or missing in action status, or is
+          permanently 100 percent disabled or hospitalized on a
+          continuing basis (and is not employed gainfully because of
+          the disability or hospitalization); and
+
+          (ii) the death, status, or disability did not result from the
+        intentional misconduct or willful neglect of the parent or
+        sibling and was not incurred during a period of unauthorized
+        absence.
 
       (c) Effect of Bankruptcy. - An obligation to repay the United
     States under this section is, for all purposes, a debt owed the
@@ -18490,11 +18776,18 @@
 -SOURCE-
     (Added Pub. L. 110-181, div. A, title VI, Sec. 661(a)(2), Jan. 28,
     2008, 122 Stat. 177; amended Pub. L. 110-417, [div. A], title VI,
-    Sec. 651(c)(1), (2)(A), Oct. 14, 2008, 122 Stat. 4496, 4497.)
+    Sec. 651(c)(1), (2)(A), Oct. 14, 2008, 122 Stat. 4496, 4497; Pub.
+    L. 111-84, div. A, title VI, Sec. 617(b), Oct. 28, 2009, 123 Stat.
+    2355.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (b)(2). Pub. L. 111-84, Sec. 617(b)(1),
+    substituted "Special rule for deceased and disabled members" for
+    "Mandatory payment of unpaid amounts under certain circumstances;
+    no repayment of unearned amounts" in heading.
+      Subsec. (b)(3). Pub. L. 111-84, Sec. 617(b)(2), added par. (3).
       2008 - Pub. L. 110-417, Sec. 651(c)(2)(A), substituted "Repayment
     of unearned portion of bonus, incentive pay, or similar benefit,
     and termination of remaining payments, when conditions of payment
@@ -18517,7 +18810,7 @@
 
 
 -CITE-
-    37 USC Sec. 374                                             01/05/2009
+    37 USC Sec. 374                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -18547,7 +18840,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 7 - ALLOWANCES                               01/05/2009
+    37 USC CHAPTER 7 - ALLOWANCES                               02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -18613,19 +18906,25 @@
                  incident to certain emergencies for members
                  performing temporary duty.                           
     411f.       Travel and transportation allowances: transportation
-                 for survivors of deceased member to attend the
-                 member's burial ceremonies.                          
+                 for survivors of deceased member to attend member's
+                 burial ceremonies; transportation for survivors of
+                 member dying overseas to attend transfer ceremonies. 
     411g.       Travel and transportation allowances: transportation
                  incident to voluntary extensions of overseas tours of
                  duty.                                                
     411h.       Travel and transportation allowances: transportation
-                 of family members incident to illness or injury of
-                 members.                                             
+                 of designated individuals incident to hospitalization
+                 of members for treatment of wounds, illness, or
+                 injury.                                              
     411i.       Travel and transportation allowances: parking
                  expenses.                                            
     411j.       Travel and transportation allowances: transportation
                  of family members incident to the repatriation of
                  members held captive.                                
+    411k.       Travel and transportation allowances: non-medical
+                 attendants for members determined to be very
+                 seriously or seriously wounded, ill, or injured.(!1) 
+
     412.        Appropriations for travel: may not be used for
                  attendance at certain meetings.                      
     413.        Chairman and Vice Chairman of the Joint Chiefs of
@@ -18669,9 +18968,22 @@
                  Group Life Insurance: members serving in Operation
                  Enduring Freedom or Operation Iraqi Freedom.         
     438.        Preventive health care allowance.(!1)                 
-
+    439.        Special compensation: members of the uniformed
+                 services with catastrophic injuries or illnesses
+                 requiring assistance in everyday living.             
 
                                 AMENDMENTS                            
+      2009 - Pub. L. 111-84, div. A, title V, Sec. 542(b)(2)(B), title
+    VI, Secs. 603(c), 632(g)(2), 633(a)(2), Oct. 28, 2009, 123 Stat.
+    2300, 2350, 2362, 2363, added items 411f, 411k, and 439, struck out
+    former item 411f "Travel and transportation allowances:
+    transportation for survivors of deceased member to attend the
+    member's burial ceremonies", and substituted "Travel and
+    transportation allowances: transportation of designated individuals
+    incident to hospitalization of members for treatment of wounds,
+    illness, or injury" for "Travel and transportation allowances:
+    transportation of family members incident to illness or injury of
+    members" in item 411h.
       2008 - Pub. L. 110-417, [div. A], title VII, Sec. 714(b), Oct.
     14, 2008, 122 Stat. 4505, added item 438.
       Pub. L. 110-181, div. A, title VI, Secs. 631(a)(2), 633(a)(2),
@@ -18820,7 +19132,7 @@
 
 
 -CITE-
-    37 USC Sec. 401                                             01/05/2009
+    37 USC Sec. 401                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -19036,7 +19348,7 @@
 
 
 -CITE-
-    37 USC Sec. 402                                             01/05/2009
+    37 USC Sec. 402                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -19517,7 +19829,7 @@
 
 
 -CITE-
-    37 USC Sec. 402a                                            01/05/2009
+    37 USC Sec. 402a                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -19536,7 +19848,7 @@
     allowance") designed to remove the member's household from
     eligibility for benefits under the supplemental nutrition
     assistance program.
-      (2) The supplemental subsistence allowance may not exceed $500
+      (2) The supplemental subsistence allowance may not exceed $1,100
     per month. In establishing the amount of the supplemental
     subsistence allowance to be paid an eligible member under this
     paragraph, the Secretary shall take into consideration the amount
@@ -19555,7 +19867,7 @@
     amount of the supplemental subsistence allowance for the member
     shall be equal to the lesser of the following:
         (A) The value of that allotment.
-        (B) $500.
+        (B) $1,100.
 
       (b) Members Entitled to Allowance. - (1) Subject to subsection
     (d), a member of the armed forces with dependents is entitled to
@@ -19666,7 +19978,8 @@
     Pub. L. 110-234, title IV, Sec. 4002(b)(1)(A), (B), (2)(T), May 22,
     2008, 122 Stat. 1095-1097; Pub. L. 110-246, Sec. 4(a), title IV,
     Sec. 4002(b)(1)(A), (B), (2)(T), June 18, 2008, 122 Stat. 1664,
-    1857, 1858.)
+    1857, 1858; Pub. L. 111-84, div. A, title VI, Sec. 602(a), Oct. 28,
+    2009, 123 Stat. 2347.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -19715,6 +20028,8 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (a)(2), (3)(B). Pub. L. 111-84 substituted
+    "$1,100" for "$500".
       2008 - Subsec. (a)(1), (3). Pub. L. 110-246, Sec. 4002(b)(1)(A),
     (2)(T), substituted "supplemental nutrition assistance program" for
     "food stamp program".
@@ -19753,6 +20068,14 @@
     Homeland Security" for "of Transportation".
       2001 - Subsec. (b)(1). Pub. L. 107-107 inserted "with dependents"
     after "a member of the armed forces".
+
+                     EFFECTIVE DATE OF 2009 AMENDMENT                 
+      Pub. L. 111-84, div. A, title VI, Sec. 602(b), Oct. 28, 2009, 123
+    Stat. 2347, provided that: "The amendments made by subsection (a)
+    [amending this section] shall take effect on October 1, 2009, and
+    shall apply with respect to monthly supplemental subsistence
+    allowances for low-income members with dependents payable on or
+    after that date."
 
                      EFFECTIVE DATE OF 2008 AMENDMENT                 
       Amendment of this section and repeal of Pub. L. 110-234 by Pub.
@@ -19799,7 +20122,7 @@
 
 
 -CITE-
-    37 USC Sec. 403                                             01/05/2009
+    37 USC Sec. 403                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -21154,7 +21477,7 @@
 
 
 -CITE-
-    37 USC Sec. 403a                                            01/05/2009
+    37 USC Sec. 403a                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -21191,7 +21514,7 @@
 
 
 -CITE-
-    37 USC Sec. 403b                                            01/05/2009
+    37 USC Sec. 403b                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -21397,7 +21720,7 @@
 
 
 -CITE-
-    37 USC Sec. 404                                             01/05/2009
+    37 USC Sec. 404                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -22080,7 +22403,7 @@
 
 
 -CITE-
-    37 USC Sec. 404a                                            01/05/2009
+    37 USC Sec. 404a                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -22265,7 +22588,7 @@
 
 
 -CITE-
-    37 USC Sec. 404b                                            01/05/2009
+    37 USC Sec. 404b                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -22344,7 +22667,7 @@
 
 
 -CITE-
-    37 USC Sec. 405                                             01/05/2009
+    37 USC Sec. 405                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -22537,7 +22860,7 @@
 
 
 -CITE-
-    37 USC Sec. 405a                                            01/05/2009
+    37 USC Sec. 405a                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -22687,7 +23010,7 @@
 
 
 -CITE-
-    37 USC Sec. 406                                             01/05/2009
+    37 USC Sec. 406                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -23999,7 +24322,7 @@
 
 
 -CITE-
-    37 USC Sec. 406a                                            01/05/2009
+    37 USC Sec. 406a                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24051,7 +24374,7 @@
 
 
 -CITE-
-    37 USC Sec. 406b                                            01/05/2009
+    37 USC Sec. 406b                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24168,7 +24491,7 @@
 
 
 -CITE-
-    37 USC Sec. 406c                                            01/05/2009
+    37 USC Sec. 406c                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24244,7 +24567,7 @@
 
 
 -CITE-
-    37 USC Sec. 407                                             01/05/2009
+    37 USC Sec. 407                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24569,7 +24892,7 @@
 
 
 -CITE-
-    37 USC Sec. 408                                             01/05/2009
+    37 USC Sec. 408                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24651,7 +24974,7 @@
 
 
 -CITE-
-    37 USC Sec. 408a                                            01/05/2009
+    37 USC Sec. 408a                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24710,7 +25033,7 @@
 
 
 -CITE-
-    37 USC Sec. 409                                             01/05/2009
+    37 USC Sec. 409                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24843,7 +25166,7 @@
 
 
 -CITE-
-    37 USC Sec. 410                                             01/05/2009
+    37 USC Sec. 410                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -24915,7 +25238,7 @@
 
 
 -CITE-
-    37 USC Sec. 411                                             01/05/2009
+    37 USC Sec. 411                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25034,7 +25357,7 @@
 
 
 -CITE-
-    37 USC Sec. 411a                                            01/05/2009
+    37 USC Sec. 411a                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25074,7 +25397,7 @@
 
 
 -CITE-
-    37 USC Sec. 411b                                            01/05/2009
+    37 USC Sec. 411b                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25217,7 +25540,7 @@
 
 
 -CITE-
-    37 USC Sec. 411c                                            01/05/2009
+    37 USC Sec. 411c                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25272,7 +25595,7 @@
 
 
 -CITE-
-    37 USC Sec. 411d                                            01/05/2009
+    37 USC Sec. 411d                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25431,7 +25754,7 @@
 
 
 -CITE-
-    37 USC Sec. 411e                                            01/05/2009
+    37 USC Sec. 411e                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25484,7 +25807,7 @@
 
 
 -CITE-
-    37 USC Sec. 411f                                            01/05/2009
+    37 USC Sec. 411f                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25492,8 +25815,9 @@
 
 -HEAD-
     Sec. 411f. Travel and transportation allowances: transportation for
-      survivors of deceased member to attend the member's burial
-      ceremonies
+      survivors of deceased member to attend member's burial
+      ceremonies; transportation for survivors of member dying overseas
+      to attend transfer ceremonies
 
 -STATUTE-
       (a) Allowances Authorized. - (1) The Secretary concerned may
@@ -25504,7 +25828,17 @@
     location determined under subsection (a)(8) of section 1482 of
     title 10 or attend a memorial service for the deceased member,
     under circumstances covered by subsection (d) of such section.
-      (2) The Secretary concerned may also provide round trip travel
+      (2) The Secretary concerned may provide round trip travel and
+    transportation allowances to eligible relatives of a member of the
+    uniformed services who dies while on active duty in order that the
+    eligible relatives may attend a memorial service for the deceased
+    member that occurs at a location other than the location of the
+    burial ceremony for which travel and transportation allowances are
+    provided under paragraph (1). Travel and transportation allowances
+    may be provided under this paragraph for travel of eligible
+    relatives to only one memorial service for the deceased member
+    concerned.
+      (3) The Secretary concerned may also provide round trip travel
     and transportation allowances to an attendant who accompanies an
     eligible relative provided travel and transportation allowances
     under paragraph (1) for travel to the burial ceremony if the
@@ -25522,7 +25856,8 @@
     necessary for such travel.
       (c) Eligible Relatives. - (1) The following members of the family
     of a deceased member of the uniformed services are eligible for the
-    travel and transportation allowances under subsection (a)(1):
+    travel and transportation allowances under paragraphs (1) and (2)
+    of subsection (a):
         (A) The surviving spouse (including a remarried surviving
       spouse) of the deceased member.
         (B) The child or children of the deceased member (including
@@ -25539,12 +25874,12 @@
 
       (2) If no person described in subparagraphs (A) through (D) of
     paragraph (1) is provided travel and transportation allowances
-    under subsection (a)(1), the travel and transportation allowances
-    may be provided to one or two other persons who are closely related
-    to the deceased member and are selected by the person referred to
-    in paragraph (1)(E). A person provided travel and transportation
-    allowances under this paragraph is in addition to the person
-    referred to in paragraph (1)(E).
+    under paragraph (1) or (2) of subsection (a), the travel and
+    transportation allowances may be provided to one or two other
+    persons who are closely related to the deceased member and are
+    selected by the person referred to in paragraph (1)(E). A person
+    provided travel and transportation allowances under this paragraph
+    is in addition to the person referred to in paragraph (1)(E).
       (d) Expanded Allowances Related to Recovery of Remains From
     Vietnam Conflict. - (1) The Secretary of Defense may provide round
     trip travel and transportation allowances for the family of a
@@ -25570,7 +25905,35 @@
       (1), any brothers, sisters, halfbrothers, halfsisters,
       stepbrothers, and stepsisters of the deceased member.
 
-      (e) Burial Ceremony Defined. - In this section, the term "burial
+      (e) Transportation to Transfer Ceremonies of Members of the Armed
+    Forces Who Die Overseas. - (1) The Secretary of the military
+    department concerned may provide round trip transportation to
+    ceremonies for the transfer of a member of the armed forces who
+    dies while located or serving overseas to the following:
+        (A) The primary next of kin of the member.
+        (B) Two family members (other than primary next of kin) of the
+      member.
+        (C) One or more additional family members of the member, at the
+      discretion of the Secretary.
+
+      (2)(A) For purposes of this subsection, the primary next of kin
+    of a member of the armed forces shall be the eligible relatives of
+    the member specified in subparagraphs (A) through (D) of subsection
+    (c)(1).
+      (B) The Secretaries of the military departments shall prescribe
+    in regulations the family members of a member of the armed forces
+    who shall constitute family members for purposes of subparagraphs
+    (B) and (C) of paragraph (1). The Secretary of Defense shall ensure
+    that such regulations are uniform across the military departments.
+      (3) Transportation shall be provided under this subsection by
+    means of Invitational Travel Authorizations.
+      (4) The Secretary of a military department may, upon the request
+    of the primary next of kin covered by paragraph (1)(A) and at the
+    discretion of the Secretary, provide for the accompaniment of such
+    next of kin in travel under this subsection by a casualty
+    assistance officer or family liaison officer of the military
+    department who shall act as an escort in such accompaniment.
+      (f) Burial Ceremony Defined. - In this section, the term "burial
     ceremony" includes the following:
         (1) An interment of casketed or cremated remains.
         (2) A placement of cremated remains in a columbarium.
@@ -25579,7 +25942,7 @@
         (4) A burial of commingled remains that cannot be individually
       identified in a common grave in a national cemetery.
 
-      (f) Regulations. - The Secretaries concerned shall prescribe
+      (g) Regulations. - The Secretaries concerned shall prescribe
     uniform regulations to carry out this section.
 
 -SOURCE-
@@ -25590,11 +25953,26 @@
     title VI, Sec. 638(a), Dec. 28, 2001, 115 Stat. 1146; Pub. L. 108-
     375, div. A, title VI, Sec. 631, Oct. 28, 2004, 118 Stat. 1956;
     Pub. L. 110-181, div. A, title VI, Sec. 632, Jan. 28, 2008, 122
-    Stat. 154.)
+    Stat. 154; Pub. L. 111-84, div. A, title V, Sec. 542(b)(1), (2)(A),
+    title VI, Sec. 631, Oct. 28, 2009, 123 Stat. 2299, 2300, 2359.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Pub. L. 111-84, Sec. 542(b)(2)(A), substituted "member's
+    burial ceremonies; transportation for survivors of member dying
+    overseas to attend transfer ceremonies" for "the member's burial
+    ceremonies" in section catchline.
+      Subsec. (a)(2), (3). Pub. L. 111-84, Sec. 631(a), added par. (2)
+    and redesignated former par. (2) as (3).
+      Subsec. (c). Pub. L. 111-84, Sec. 631(b), in introductory
+    provisions of par. (1), substituted "paragraphs (1) and (2) of
+    subsection (a)" for "subsection (a)(1)" and, in par. (2),
+    substituted "paragraph (1) or (2) of subsection (a)" for
+    "subsection (a)(1)".
+      Subsecs. (e) to (g). Pub. L. 111-84, Sec. 542(b)(1), added
+    subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and
+    (g), respectively.
       2008 - Subsec. (c)(1)(B). Pub. L. 110-181, Sec. 632(a)(1), added
     subpar. (B) and struck out former subpar. (B) which read as
     follows: "The unmarried child or children of the deceased member
@@ -25675,6 +26053,14 @@
     in order that such dependents may" for "for a period of 30 days or
     more in order to".
 
+                     EFFECTIVE DATE OF 2009 AMENDMENT                 
+      Pub. L. 111-84, div. A, title V, Sec. 542(c), Oct. 28, 2009, 123
+    Stat. 2300, provided that: "This section [amending this section and
+    enacting provisions set out as a note under section 1482 of Title
+    10, Armed Forces] and the amendments made by this section shall
+    take effect on the date that is one year after the date of the
+    enactment of this Act [Oct. 28, 2009]."
+
                      EFFECTIVE DATE OF 2001 AMENDMENT                 
       Pub. L. 107-107, div. A, title VI, Sec. 638(c), Dec. 28, 2001,
     115 Stat. 1148, provided that: "Section 411f of title 37, United
@@ -25699,7 +26085,7 @@
 
 
 -CITE-
-    37 USC Sec. 411g                                            01/05/2009
+    37 USC Sec. 411g                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25785,7 +26171,7 @@
 
 
 -CITE-
-    37 USC Sec. 411h                                            01/05/2009
+    37 USC Sec. 411h                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -25793,20 +26179,23 @@
 
 -HEAD-
     Sec. 411h. Travel and transportation allowances: transportation of
-      family members incident to illness or injury of members
+      designated individuals incident to hospitalization of members for
+      treatment of wounds, illness, or injury
 
 -STATUTE-
-      (a)(1) Under uniform regulations prescribed by the Secretaries
-    concerned, travel and transportation described in subsection (c)
-    may be provided for not more than three family members of a member
-    described in paragraph (2) if the attending physician or surgeon
-    and the commander or head of the military medical facility
-    exercising control over the member determine that the presence of
-    the family member may contribute to the member's health and
+      (a) Travel and Transportation Authorized. - (1) Under uniform
+    regulations prescribed by the Secretaries concerned, travel and
+    transportation described in subsection (c) may be provided for not
+    more than three individuals who, with respect to a member described
+    in paragraph (2), are designated individuals for that member if the
+    attending physician or surgeon and the commander or head of the
+    military medical facility exercising control over the member
+    determine, with respect to any such individual, that the presence
+    of such individual may contribute to the member's health and
     welfare. In circumstances determined to be appropriate by the
     Secretary concerned, the Secretary may waive the limitation on the
-    number of family members provided travel and transportation under
-    this section.
+    number of designated individuals provided travel and transportation
+    under this section.
       (2) A member referred to in paragraph (1) is a member of the
     uniformed services who - 
         (A) is serving on active duty, is entitled to pay and
@@ -25815,52 +26204,103 @@
       that section), or is retired for the illness or injury referred
       to in subparagraph (B); and
         (B) either - 
-          (i) is seriously ill, seriously injured, or in a situation of
-        imminent death (whether or not electrical brain activity still
-        exists or brain death is declared), and is hospitalized in a
-        medical facility in or outside the United States; or
-          (ii) is not described in clause (i), but has an injury
-        incurred in an operation or area designated as a combat
+          (i) is seriously wounded, seriously ill, seriously injured
+        (including having a serious mental disorder), or in a situation
+        of imminent death (whether or not electrical brain activity
+        still exists or brain death is declared), and is hospitalized
+        in a medical facility; or
+          (ii) is not described in clause (i), but has a wound or an
+        injury incurred in an operation or area designated as a combat
         operation or combat zone, respectively, by the Secretary of
-        Defense and is hospitalized in a medical facility in the United
-        States for treatment of that injury.
+        Defense and is hospitalized in a medical facility for treatment
+        of that wound or injury.
 
-      (3) Not more than one roundtrip may be provided to a family
-    member under paragraph (1) on the basis of clause (ii) of paragraph
-    (2)(B).
-      (b)(1) In this section, the term "family member", with respect to
-    a member, means - 
-        (A) the member's spouse;
-        (B) children of the member (including stepchildren, adopted
-      children, and illegitimate children);
-        (C) parents of the member or persons in loco parentis to the
-      member, as provided in paragraph (2);
-        (D) siblings of the member; and
-        (E) a person related to the member as described in subparagraph
-      (A), (B), (C), or (D) who is also a member of the uniformed
+      (3) Not more than a total of three roundtrips may be provided
+    under paragraph (1) in any 60-day period at Government expense to
+    the individuals who, with respect to a member, are the designated
+    individuals of that member in effect during that period. However,
+    if the Secretary concerned has granted a waiver under the second
+    sentence of paragraph (1) with respect to a member, then for any 60-
+    day period in which the waiver is in effect the limitation in the
+    preceding sentence shall be adjusted accordingly. In addition,
+    during any period during which there is in effect a non-medical
+    attendant designation for a member under section 411k of this
+    title, not more than a total of two roundtrips may be provided
+    under paragraph (1) in any 60-day period at Government expense
+    until there no longer is a designation of a non-medical attendant
+    or that designation transfers to another individual, in which case
+    during the transfer period three roundtrips may be provided.
+      (4) In the case of a designated individual who is also a member
+    of the uniformed services, that member may be provided travel and
+    transportation under this section in the same manner as a
+    designated individual who is not a member.
+      (b) Definitions. - (1) In this section, the term "designated
+    individual", with respect to a member, means - 
+        (A) an individual designated by the member for the purposes of
+      this section; or
+        (B) in the case of a member who has not made a designation
+      under subparagraph (A) and, as determined by the attending
+      physician or surgeon, is not able to make such a designation, an
+      individual who, as designated by the attending physician or
+      surgeon and the commander or head of the military medical
+      facility exercising control over the member, is someone with a
+      personal relationship to the member whose presence may aid and
+      support the health and welfare of the member during the duration
+      of the member's inpatient treatment.
+
+      (2) The designation of an individual as a designated individual
+    for purposes of this section may be changed at any time.
+      (3)(A) In this section, the term "health and welfare", with
+    respect to a member, includes a situation in which a decision must
+    be made by family members regarding the termination of artificial
+    life support being provided to the member.
+      (B) In this paragraph, the term "family member", with respect to
+    a member, means the following:
+        (i) The member's spouse.
+        (ii) Children of the member (including stepchildren, adopted
+      children, and illegitimate children).
+        (iii) Parents of the member or persons in loco parentis to the
+      member, including fathers and mothers through adoption and
+      persons who stood in loco parentis to the member for a period not
+      less than one year immediately before the member entered the
+      uniformed service, except that only one father and one mother or
+      their counterparts in loco parentis may be recognized in any one
+      case.
+        (iv) Siblings of the member.
+        (v) A person related to the member as described in clause (i),
+      (ii), (iii), or (iv) who is also a member of the uniformed
       services.
 
-      (2) Parents of a member or persons in loco parentis to a member
-    include fathers and mothers through adoption and persons who stood
-    in loco parentis to the member for a period not less than one year
-    immediately before the member entered the uniformed service.
-    However, only one father and one mother or their counterparts in
-    loco parentis may be recognized in any one case.
-      (3) In this section, the term "health and welfare", with respect
-    to a member, includes a situation in which a decision must be made
-    by family members regarding the termination of artificial life
-    support being provided to the member.
-      (c)(1) The transportation authorized by subsection (a) is round-
-    trip transportation between the home of the family member and the
-    location of the medical facility in which the member is
+      (4)(A) In this section, the term "serious mental disorder", in
+    the case of a member, means that the member has been diagnosed with
+    a mental disorder that requires intensive mental health treatment
+    or hospitalization.
+      (B) The circumstances in which a member shall be considered to
+    have a serious mental disorder for purposes of this section shall
+    include, but not be limited to, the following:
+        (i) The member is considered to be a potential danger to self
+      or others as a result of a diagnosed mental disorder that
+      requires intensive mental health treatment or hospitalization.
+        (ii) The member is diagnosed with a mental disorder and has
+      psychotic symptoms that require intensive mental health treatment
+      or hospitalization.
+        (iii) The member is diagnosed with a mental disorder and has
+      severe symptoms or severe impairment in functioning that require
+      intensive mental health treatment or hospitalization.
+
+      (c) Round Trip Transportation and Per Diem Allowance. - (1) The
+    transportation authorized by subsection (a) is round-trip
+    transportation between the home of the designated individual and
+    the location of the medical facility in which the member is
     hospitalized.
       (2) In addition to the transportation authorized by subsection
     (a), the Secretary concerned may provide a per diem allowance or
     reimbursement for the actual and necessary expenses of the travel,
     or a combination thereof, but not to exceed the rates established
     under section 404(d) of this title.
-      (d)(1) The transportation authorized by subsection (a) may be
-    provided by any of the following means:
+      (d) Method of Transportation Authorized. - (1) The transportation
+    authorized by subsection (a) may be provided by any of the
+    following means:
         (A) Transportation in-kind.
         (B) A monetary allowance in place of transportation in-kind at
       a rate to be prescribed by the Secretaries concerned.
@@ -25881,11 +26321,59 @@
     118 Stat. 1956; Pub. L. 109-13, div. A, title I, Sec. 1026(a),
     (b)(1), May 11, 2005, 119 Stat. 254; Pub. L. 109-163, div. A, title
     VI, Sec. 655(b), Jan. 6, 2006, 119 Stat. 3314; Pub. L. 109-364,
-    div. A, title VI, Sec. 631, Oct. 17, 2006, 120 Stat. 2258.)
+    div. A, title VI, Sec. 631, Oct. 17, 2006, 120 Stat. 2258; Pub. L.
+    111-84, div. A, title VI, Sec. 632(a)-(g)(1), Oct. 28, 2009, 123
+    Stat. 2359-2362.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Pub. L. 111-84, Sec. 632(g)(1), substituted "designated
+    individuals incident to hospitalization of members for treatment of
+    wounds, illness, or injury" for "family members incident to illness
+    or injury of members" in section catchline.
+      Subsec. (a). Pub. L. 111-84, Sec. 632(f)(1), inserted heading.
+      Subsec. (a)(1). Pub. L. 111-84, Sec. 632(a)(1), substituted
+    "individuals who, with respect to a member described in paragraph
+    (2), are designated individuals for that member" for "family
+    members of a member described in paragraph (2)", ", with respect to
+    any such individual, that the presence of such individual" for
+    "that the presence of the family member", and "of designated
+    individuals" for "of family members".
+      Subsec. (a)(2)(B)(i). Pub. L. 111-84, Sec. 632(c)(1)(A), (2)(A),
+    (d)(1), inserted "seriously wounded," after "(i) is" and
+    "(including having a serious mental disorder)" after "seriously
+    injured" and struck out "in or outside the United States" after
+    "medical facility".
+      Subsec. (a)(2)(B)(ii). Pub. L. 111-84, Sec. 632(c)(1)(B), (2)(B),
+    substituted "a wound or an injury" for "an injury" and "that wound
+    or injury" for "that injury" and struck out "in the United States"
+    after "facility".
+      Subsec. (a)(3). Pub. L. 111-84, Sec. 632(e), amended par. (3)
+    generally. Prior to amendment par. (3) read as follows: "Not more
+    than one roundtrip may be provided to a family member under
+    paragraph (1) on the basis of clause (ii) of paragraph (2)(B)."
+      Subsec. (a)(4). Pub. L. 111-84, Sec. 632(a)(2), added par. (4).
+      Subsec. (b). Pub. L. 111-84, Sec. 632(f)(2)(A), inserted heading.
+      Subsec. (b)(1). Pub. L. 111-84, Sec. 632(b)(1), substituted "
+    'designated individual' " for " 'family member' " in introductory
+    provisions, added subpars. (A) and (B), and struck out former
+    subpars. (A) to (E) which defined "family member."
+      Subsec. (b)(2). Pub. L. 111-84, Sec. 632(b)(2), amended par. (2)
+    generally. Prior to amendment, par. (2) read as follows: "Parents
+    of a member or persons in loco parentis to a member include fathers
+    and mothers through adoption and persons who stood in loco parentis
+    to the member for a period not less than one year immediately
+    before the member entered the uniformed service. However, only one
+    father and one mother or their counterparts in loco parentis may be
+    recognized in any one case."
+      Subsec. (b)(3). Pub. L. 111-84, Sec. 632(f)(2)(B), designated
+    existing provisions as subpar. (A) and added subpar. (B).
+      Subsec. (b)(4). Pub. L. 111-84, Sec. 632(d)(2), added par. (4).
+      Subsec. (c). Pub. L. 111-84, Sec. 632(f)(3)(A), inserted heading.
+      Subsec. (c)(1). Pub. L. 111-84, Sec. 632(f)(3)(B), substituted
+    "designated individual" for "family member".
+      Subsec. (d). Pub. L. 111-84, Sec. 632(f)(4), inserted heading.
       2006 - Subsec. (a)(2)(B)(ii). Pub. L. 109-163 struck out "under
     section 1967(e)(1)(A) of title 38" after "Secretary of Defense".
       Subsec. (b)(1)(E). Pub. L. 109-364 added subpar. (E).
@@ -25925,6 +26413,15 @@
     section 204(g) of this title (or would be so entitled were it not
     for offsetting earned income described in that section)" in subpar.
     (A).
+
+                     EFFECTIVE DATE OF 2009 AMENDMENT                 
+      Pub. L. 111-84, div. A, title VI, Sec. 632(i), Oct. 28, 2009, 123
+    Stat. 2362, provided that: "No reimbursement may be provided under
+    section 411h of title 37, United States Code, by reason of the
+    amendments made by this section [amending this section and
+    provisions set out as a note under section 1071 of Title 10, Armed
+    Forces] for travel and transportation costs incurred before the
+    date of the enactment of this Act [Oct. 28, 2009]."
 
                      EFFECTIVE DATE OF 2006 AMENDMENT                 
       Pub. L. 109-163, div. A, title VI, Sec. 655(c), Jan. 6, 2006, 119
@@ -26000,7 +26497,7 @@
 
 
 -CITE-
-    37 USC Sec. 411i                                            01/05/2009
+    37 USC Sec. 411i                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -26035,7 +26532,7 @@
 
 
 -CITE-
-    37 USC Sec. 411j                                            01/05/2009
+    37 USC Sec. 411j                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -26111,7 +26608,102 @@
 
 
 -CITE-
-    37 USC Sec. 412                                             01/05/2009
+    37 USC Sec. 411k                                            02/01/2010
+
+-EXPCITE-
+    TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
+    CHAPTER 7 - ALLOWANCES
+
+-HEAD-
+    Sec. 411k. Travel and transportation allowances: non-medical
+      attendants for members who are determined to be very seriously or
+      seriously wounded, ill, or injured
+
+-STATUTE-
+      (a) Allowance for Non-medical Attendant. - Under uniform
+    regulations prescribed by the Secretaries concerned, travel and
+    transportation described in subsection (d) may be provided for a
+    qualified non-medical attendant for a covered member of the
+    uniformed services described in subsection (c) if the attending
+    physician or surgeon and the commander or head of the military
+    medical facility exercising control over the member determine that
+    the presence of such an attendant may contribute to the member's
+    health and welfare.
+      (b) Qualified Non-medical Attendant. - For purposes of this
+    section, a qualified non-medical attendant, with respect to a
+    covered member, is an individual who - 
+        (1) is designated by the member to be a non-medical attendant
+      for the member for purposes of this section; and
+        (2) is determined by the attending physician or surgeon and the
+      commander or head of the military medical facility to be
+      appropriate to serve as a non-medical attendant for the member
+      and whose presence may contribute to the health and welfare of
+      the member.
+
+      (c) Covered Members. - A member of the uniformed services covered
+    by this section is a member who - 
+        (1) as a result of a wound, illness, or injury, has been
+      determined by the attending physician or surgeon to be in the
+      category known as "very seriously wounded, ill, or injured" or
+      "seriously wounded, ill, or injured"; and
+        (2) is hospitalized for treatment of the wound, illness, or
+      injury or requires continuing outpatient treatment for the wound,
+      illness, or injury.
+
+      (d) Authorized Travel and Transportation. - (1) The
+    transportation authorized by subsection (a) for a qualified non-
+    medical attendant for a member is round-trip transportation
+    between the home of the attendant and the location at which the
+    member is receiving treatment and may include transportation, while
+    accompanying the member, to any other location to which the member
+    is subsequently transferred for further treatment. A designated non-
+    medical attendant under this section may not also be a designated
+    individual for travel and transportation allowances (!1) section
+    411h(a) of this title.
+
+      (2) The transportation authorized by subsection (a) includes any
+    travel necessary to obtain treatment for the member at the location
+    to which the member is permanently assigned.
+      (3) In addition to the transportation authorized by subsection
+    (a), the Secretary concerned may provide a per diem allowance or
+    reimbursement for the actual and necessary expenses of the travel,
+    or a combination thereof, but not to exceed the rates established
+    under section 404(d) of this title.
+      (4) The transportation authorized by subsection (a) may be
+    provided by any of the following means:
+        (A) Transportation in-kind.
+        (B) A monetary allowance in place of transportation in-kind at
+      a rate to be prescribed by the Secretaries concerned.
+        (C) Reimbursement for the commercial cost of transportation.
+
+      (5) An allowance payable under this subsection may be paid in
+    advance.
+      (6) Reimbursement payable under this subsection may not exceed
+    the cost of Government-procured commercial round-trip air travel.
+
+-SOURCE-
+    (Added Pub. L. 111-84, div. A, title VI, Sec. 633(a)(1), Oct. 28,
+    2009, 123 Stat. 2362.)
+
+
+-MISC1-
+                              EFFECTIVE DATE                          
+      Pub. L. 111-84, div. A, title VI, Sec. 633(b), Oct. 28, 2009, 123
+    Stat. 2363, provided that: "No reimbursement may be provided under
+    section 411k of title 37, United States Code, as added by
+    subsection (a), for travel and transportation costs incurred before
+    the date of the enactment of this Act [Oct. 28, 2009]."
+
+-FOOTNOTE-
+    (!1) So in original. Probably should be followed by "under".
+
+
+-End-
+
+
+
+-CITE-
+    37 USC Sec. 412                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -26174,7 +26766,7 @@
 
 
 -CITE-
-    37 USC Sec. 413                                             01/05/2009
+    37 USC Sec. 413                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -26223,7 +26815,7 @@
 
 
 -CITE-
-    37 USC Sec. 414                                             01/05/2009
+    37 USC Sec. 414                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -26376,7 +26968,7 @@
 
 
 -CITE-
-    37 USC Sec. 415                                             01/05/2009
+    37 USC Sec. 415                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -26569,7 +27161,7 @@
 
 
 -CITE-
-    37 USC Sec. 416                                             01/05/2009
+    37 USC Sec. 416                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -26714,7 +27306,7 @@
 
 
 -CITE-
-    37 USC Sec. 417                                             01/05/2009
+    37 USC Sec. 417                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -26822,7 +27414,7 @@
 
 
 -CITE-
-    37 USC Sec. 418                                             01/05/2009
+    37 USC Sec. 418                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -26957,7 +27549,7 @@
 
 
 -CITE-
-    37 USC Sec. 419                                             01/05/2009
+    37 USC Sec. 419                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -27007,7 +27599,7 @@
 
 
 -CITE-
-    37 USC Sec. 420                                             01/05/2009
+    37 USC Sec. 420                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -27079,7 +27671,7 @@
 
 
 -CITE-
-    37 USC Sec. 421                                             01/05/2009
+    37 USC Sec. 421                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -27133,7 +27725,7 @@
 
 
 -CITE-
-    37 USC Sec. 422                                             01/05/2009
+    37 USC Sec. 422                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -27235,7 +27827,7 @@
 
 
 -CITE-
-    37 USC Sec. 423                                             01/05/2009
+    37 USC Sec. 423                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -27300,7 +27892,7 @@
 
 
 -CITE-
-    37 USC Sec. 424                                             01/05/2009
+    37 USC Sec. 424                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -27312,7 +27904,7 @@
 -STATUTE-
       (a) The leader of the Army Band is entitled to the allowances of
     a captain in the Army.
-      (b) The leader of the United State Navy Band is entitled to the
+      (b) The leader of the United States Navy Band is entitled to the
     allowances of a lieutenant of the Navy.
       (c) A member of the Marine Corps who is appointed as director or
     assistant director of the United States Marine Corps Band under
@@ -27388,7 +27980,7 @@
 
 
 -CITE-
-    37 USC Sec. 425                                             01/05/2009
+    37 USC Sec. 425                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -27434,7 +28026,7 @@
 
 
 -CITE-
-    37 USC Sec. 426                                             01/05/2009
+    37 USC Sec. 426                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -27457,7 +28049,7 @@
 
 
 -CITE-
-    37 USC Sec. 427                                             01/05/2009
+    37 USC Sec. 427                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -27790,7 +28382,7 @@
 
 
 -CITE-
-    37 USC Sec. 428                                             01/05/2009
+    37 USC Sec. 428                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -27827,7 +28419,7 @@
 
 
 -CITE-
-    37 USC Sec. 429                                             01/05/2009
+    37 USC Sec. 429                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -27920,7 +28512,7 @@
 
 
 -CITE-
-    37 USC Sec. 430                                             01/05/2009
+    37 USC Sec. 430                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28150,7 +28742,7 @@
 
 
 -CITE-
-    37 USC Sec. 431                                             01/05/2009
+    37 USC Sec. 431                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28244,7 +28836,7 @@
 
 
 -CITE-
-    37 USC Sec. 432                                             01/05/2009
+    37 USC Sec. 432                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28296,7 +28888,7 @@
 
 
 -CITE-
-    37 USC Sec. 433                                             01/05/2009
+    37 USC Sec. 433                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28370,7 +28962,7 @@
 
 
 -CITE-
-    37 USC Sec. 433a                                            01/05/2009
+    37 USC Sec. 433a                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28410,7 +29002,7 @@
 
 
 -CITE-
-    37 USC Sec. 434                                             01/05/2009
+    37 USC Sec. 434                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28459,7 +29051,7 @@
 
 
 -CITE-
-    37 USC Sec. 435                                             01/05/2009
+    37 USC Sec. 435                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28531,7 +29123,7 @@
 
 
 -CITE-
-    37 USC Sec. 436                                             01/05/2009
+    37 USC Sec. 436                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28668,7 +29260,7 @@
 
 
 -CITE-
-    37 USC Sec. 437                                             01/05/2009
+    37 USC Sec. 437                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28782,7 +29374,7 @@
 
 
 -CITE-
-    37 USC Sec. 438                                             01/05/2009
+    37 USC Sec. 438                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28861,8 +29453,109 @@
 -End-
 
 
+
 -CITE-
-    37 USC CHAPTER 9 - LEAVE                                    01/05/2009
+    37 USC Sec. 439                                             02/01/2010
+
+-EXPCITE-
+    TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
+    CHAPTER 7 - ALLOWANCES
+
+-HEAD-
+    Sec. 439. Special compensation: members of the uniformed services
+      with catastrophic injuries or illnesses requiring assistance in
+      everyday living
+
+-STATUTE-
+      (a) Monthly Compensation Authorized. - The Secretary concerned
+    may pay to any member of the uniformed services described in
+    subsection (b) monthly special compensation in an amount determined
+    under subsection (c).
+      (b) Covered Members. - A member eligible for monthly special
+    compensation authorized by subsection (a) is a member who - 
+        (1) has a catastrophic injury or illness that was incurred or
+      aggravated in the line of duty;
+        (2) has been certified by a licensed physician to be in need of
+      assistance from another person to perform the personal functions
+      required in everyday living;
+        (3) in the absence of the provision of such assistance, would
+      require hospitalization, nursing home care, or other residential
+      institutional care; and
+        (4) meets such other criteria, if any, as the Secretary of
+      Defense (or the Secretary of Homeland Security, with respect to
+      the Coast Guard) prescribes for purposes of this section.
+
+      (c) Amount. - (1) The amount of monthly special compensation
+    payable to a member under subsection (a) shall be determined under
+    criteria prescribed by the Secretary of Defense (or the Secretary
+    of Homeland Security, with respect to the Coast Guard), but may not
+    exceed the amount of aid and attendance allowance authorized by
+    section 1114(r)(2) of title 38 for veterans in need of aid and
+    attendance.
+      (2) In determining the amount of monthly special compensation,
+    the Secretary concerned shall consider the following:
+        (A) The extent to which home health care and related services
+      are being provided by the Government.
+        (B) The value of the aid and attendance care necessary to
+      assist the member in performing the personal functions required
+      in everyday living, to be determined regardless of the sources of
+      the care (other than the source identified in subparagraph (A))
+      actually being provided to the member.
+
+      (d) Duration. - The eligibility of a member to receive special
+    monthly compensation under subsection (a) expires on the earlier of
+    the following:
+        (1) The last day of the month during which a 90-day period ends
+      that begins on the date of the separation or retirement of the
+      member.
+        (2) The last day of the month during which the member dies.
+        (3) The last day of the month during which the member is
+      determined to be no longer afflicted with the catastrophic injury
+      or illness referred to in subsection (b)(1).
+        (4) The last day of the month preceding the month during which
+      the member begins receiving compensation under section 1114(r)(2)
+      of title 38.
+
+      (e) Construction With Other Pay and Allowances. - Monthly special
+    compensation payable to a member under this section is in addition
+    to any other pay and allowances payable to the member by law.
+      (f) Benefit Information. - (1) The Secretary of Defense, in
+    collaboration with the Secretary of Veterans Affairs, shall ensure
+    that members of the uniformed services who may be eligible for
+    compensation under this section are made aware of the availability
+    of such compensation by including information about such
+    compensation in written and online materials for such members and
+    their families.
+      (2) The Secretary of Defense shall ensure that a member eligible
+    to receive special monthly compensation under this section is aware
+    that the member's eligibility for such compensation will expire
+    pursuant to subsection (d)(1) after the end of the 90-day period
+    that begins on the date of the separation or retirement of the
+    member even though the member has not begun to receive compensation
+    under section 1114(r)(2) of title 38 before the end of such period.
+      (g) Catastrophic Injury or Illness Defined. - In this section,
+    the term "catastrophic injury or illness" means a permanent,
+    severely disabling injury, disorder, or illness that the Secretary
+    concerned determines compromises the ability of the afflicted
+    person to carry out the activities of daily living to such a degree
+    that the person requires - 
+        (1) personal or mechanical assistance to leave home or bed; or
+        (2) constant supervision to avoid physical harm to self or
+      others.
+
+      (h) Regulations. - The Secretary of Defense (or the Secretary of
+    Homeland Security, with respect to the Coast Guard) shall prescribe
+    regulations to carry out this section.
+
+-SOURCE-
+    (Added Pub. L. 111-84, div. A, title VI, Sec. 603(a), Oct. 28,
+    2009, 123 Stat. 2348.)
+
+-End-
+
+
+-CITE-
+    37 USC CHAPTER 9 - LEAVE                                    02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -28889,7 +29582,7 @@
 
 
 -CITE-
-    37 USC Sec. 501                                             01/05/2009
+    37 USC Sec. 501                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29358,7 +30051,7 @@
 
 
 -CITE-
-    37 USC Sec. 502                                             01/05/2009
+    37 USC Sec. 502                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29472,7 +30165,7 @@
 
 
 -CITE-
-    37 USC Sec. 503                                             01/05/2009
+    37 USC Sec. 503                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29563,7 +30256,7 @@
 
 
 -CITE-
-    37 USC Sec. 504                                             01/05/2009
+    37 USC Sec. 504                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29619,7 +30312,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 10 - PAYMENTS TO MISSING PERSONS             01/05/2009
+    37 USC CHAPTER 10 - PAYMENTS TO MISSING PERSONS             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29663,7 +30356,7 @@
 
 
 -CITE-
-    37 USC Sec. 551                                             01/05/2009
+    37 USC Sec. 551                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29791,7 +30484,7 @@
 
 
 -CITE-
-    37 USC Sec. 552                                             01/05/2009
+    37 USC Sec. 552                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -29988,7 +30681,7 @@
 
 
 -CITE-
-    37 USC Sec. 553                                             01/05/2009
+    37 USC Sec. 553                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -30198,7 +30891,7 @@
 
 
 -CITE-
-    37 USC Sec. 554                                             01/05/2009
+    37 USC Sec. 554                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -30532,7 +31225,7 @@
 
 
 -CITE-
-    37 USC Sec. 555                                             01/05/2009
+    37 USC Sec. 555                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -30667,7 +31360,7 @@
 
 
 -CITE-
-    37 USC Sec. 556                                             01/05/2009
+    37 USC Sec. 556                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -30892,7 +31585,7 @@
 
 
 -CITE-
-    37 USC Sec. 557                                             01/05/2009
+    37 USC Sec. 557                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -30983,7 +31676,7 @@
 
 
 -CITE-
-    37 USC Sec. 558                                             01/05/2009
+    37 USC Sec. 558                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -31078,7 +31771,7 @@
 
 
 -CITE-
-    37 USC Sec. 559                                             01/05/2009
+    37 USC Sec. 559                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -31353,7 +32046,7 @@
 
 -CITE-
     37 USC CHAPTER 11 - PAYMENTS TO MENTALLY INCOMPETENT
-           PERSONS                                         01/05/2009
+           PERSONS                                         02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -31380,7 +32073,7 @@
 
 
 -CITE-
-    37 USC Sec. 601                                             01/05/2009
+    37 USC Sec. 601                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -31433,7 +32126,7 @@
 
 
 -CITE-
-    37 USC Sec. 602                                             01/05/2009
+    37 USC Sec. 602                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -31559,7 +32252,7 @@
 
 
 -CITE-
-    37 USC Sec. 603                                             01/05/2009
+    37 USC Sec. 603                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -31604,7 +32297,7 @@
 
 
 -CITE-
-    37 USC Sec. 604                                             01/05/2009
+    37 USC Sec. 604                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -31649,7 +32342,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 13 - ALLOTMENTS AND ASSIGNMENTS OF PAY       01/05/2009
+    37 USC CHAPTER 13 - ALLOTMENTS AND ASSIGNMENTS OF PAY       02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -31695,7 +32388,7 @@
 
 
 -CITE-
-    37 USC Sec. 701                                             01/05/2009
+    37 USC Sec. 701                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -31823,7 +32516,7 @@
 
 
 -CITE-
-    37 USC Sec. 702                                             01/05/2009
+    37 USC Sec. 702                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -31845,7 +32538,7 @@
 
 
 -CITE-
-    37 USC Sec. 703                                             01/05/2009
+    37 USC Sec. 703                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -31904,7 +32597,7 @@
 
 
 -CITE-
-    37 USC Sec. 704                                             01/05/2009
+    37 USC Sec. 704                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -31967,7 +32660,7 @@
 
 
 -CITE-
-    37 USC Sec. 705                                             01/05/2009
+    37 USC Sec. 705                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -31988,7 +32681,7 @@
 
 
 -CITE-
-    37 USC Sec. 706                                             01/05/2009
+    37 USC Sec. 706                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32049,7 +32742,7 @@
 
 
 -CITE-
-    37 USC Sec. 707                                             01/05/2009
+    37 USC Sec. 707                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32129,7 +32822,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 15 - PROHIBITIONS AND PENALTIES              01/05/2009
+    37 USC CHAPTER 15 - PROHIBITIONS AND PENALTIES              02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32167,7 +32860,7 @@
 
 
 -CITE-
-    37 USC Sec. 801                                             01/05/2009
+    37 USC Sec. 801                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32199,7 +32892,7 @@
 
 
 -CITE-
-    37 USC Sec. 802                                             01/05/2009
+    37 USC Sec. 802                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32248,7 +32941,7 @@
 
 
 -CITE-
-    37 USC Sec. 803                                             01/05/2009
+    37 USC Sec. 803                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32287,7 +32980,7 @@
 
 
 -CITE-
-    37 USC Sec. 804                                             01/05/2009
+    37 USC Sec. 804                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32309,7 +33002,7 @@
 
 
 -CITE-
-    37 USC Sec. 805                                             01/05/2009
+    37 USC Sec. 805                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32329,7 +33022,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 17 - MISCELLANEOUS RIGHTS AND BENEFITS       01/05/2009
+    37 USC CHAPTER 17 - MISCELLANEOUS RIGHTS AND BENEFITS       02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32389,7 +33082,7 @@
 
 
 -CITE-
-    37 USC Sec. 901                                             01/05/2009
+    37 USC Sec. 901                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32437,7 +33130,7 @@
 
 
 -CITE-
-    37 USC Sec. 902                                             01/05/2009
+    37 USC Sec. 902                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32510,7 +33203,7 @@
 
 
 -CITE-
-    37 USC Sec. 903                                             01/05/2009
+    37 USC Sec. 903                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32559,7 +33252,7 @@
 
 
 -CITE-
-    37 USC Sec. 904                                             01/05/2009
+    37 USC Sec. 904                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32590,7 +33283,7 @@
 
 
 -CITE-
-    37 USC Sec. 905                                             01/05/2009
+    37 USC Sec. 905                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32697,7 +33390,7 @@
 
 
 -CITE-
-    37 USC Sec. 906                                             01/05/2009
+    37 USC Sec. 906                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32767,7 +33460,7 @@
 
 
 -CITE-
-    37 USC Sec. 907                                             01/05/2009
+    37 USC Sec. 907                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -32930,7 +33623,7 @@
 
 
 -CITE-
-    37 USC Sec. 908                                             01/05/2009
+    37 USC Sec. 908                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -33001,7 +33694,7 @@
 
 
 -CITE-
-    37 USC Sec. 909                                             01/05/2009
+    37 USC Sec. 909                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -33053,7 +33746,7 @@
 
 
 -CITE-
-    37 USC Sec. 910                                             01/05/2009
+    37 USC Sec. 910                                             02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -33132,7 +33825,7 @@
       (f) Regulations. - This section shall be administered under
     regulations to be prescribed by the Secretary of Defense.
       (g) Termination. - No payment shall be made to a member under
-    this section for months beginning after December 31, 2009, unless
+    this section for months beginning after December 31, 2010, unless
     the entitlement of the member to payments under this section
     commenced on or before that date.
 
@@ -33140,11 +33833,14 @@
     (Added Pub. L. 109-163, div. A, title VI, Sec. 614(a), Jan. 6,
     2006, 119 Stat. 3292; amended Pub. L. 110-181, div. A, title VI,
     Sec. 604, Jan. 28, 2008, 122 Stat. 145; Pub. L. 110-417, [div. A],
-    title VI, Sec. 605, Oct. 14, 2008, 122 Stat. 4483.)
+    title VI, Sec. 605, Oct. 14, 2008, 122 Stat. 4483; Pub. L. 111-84,
+    div. A, title VI, Sec. 611(7), Oct. 28, 2009, 123 Stat. 2352.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      Subsec. (g). Pub. L. 111-84 substituted "December 31, 2010" for
+    "December 31, 2009".
       2008 - Subsec. (a). Pub. L. 110-181, Sec. 604(a), inserted before
     period at end of first sentence ", when the total monthly military
     compensation of the member is less than the average monthly
@@ -33180,7 +33876,7 @@
 
 
 -CITE-
-    37 USC CHAPTER 19 - ADMINISTRATION                          01/05/2009
+    37 USC CHAPTER 19 - ADMINISTRATION                          02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -33257,7 +33953,7 @@
 
 
 -CITE-
-    37 USC Sec. 1001                                            01/05/2009
+    37 USC Sec. 1001                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -33371,7 +34067,7 @@
 
 
 -CITE-
-    37 USC Sec. 1002                                            01/05/2009
+    37 USC Sec. 1002                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -33476,7 +34172,7 @@
 
 
 -CITE-
-    37 USC Sec. 1003                                            01/05/2009
+    37 USC Sec. 1003                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -33518,7 +34214,7 @@
 
 
 -CITE-
-    37 USC Sec. 1004                                            01/05/2009
+    37 USC Sec. 1004                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -33558,7 +34254,7 @@
 
 
 -CITE-
-    37 USC Sec. 1005                                            01/05/2009
+    37 USC Sec. 1005                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -33596,7 +34292,7 @@
 
 
 -CITE-
-    37 USC Sec. 1006                                            01/05/2009
+    37 USC Sec. 1006                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -33907,7 +34603,7 @@
 
 
 -CITE-
-    37 USC Sec. 1007                                            01/05/2009
+    37 USC Sec. 1007                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -33941,26 +34637,44 @@
     the pay actually received by a member of the uniformed services for
     any month to less than one-third of the member's pay for that
     month.
-      (3) If the indebtedness of a member of the uniformed services to
-    the United States is due to the overpayment of pay or allowances to
-    the member through no fault of the member, the amount of the
+      (3)(A) If the indebtedness of a member of the uniformed services
+    to the United States is due to the overpayment of pay or allowances
+    to the member through no fault of the member, the amount of the
     overpayment shall be recovered in monthly installments. The amount
     deducted from the pay of the member for a month to recover the
-    overpayment amount may not exceed 20 percent of the member's pay
+    overpayment amount may not exceed 15 percent of the member's pay
     for that month unless the member requests or consents to collection
     of the overpayment at an accelerated rate.
-      (4) If a member of the uniformed services is injured or wounded
-    under the circumstances described in section 310(a)(2)(C) of this
-    title or, while in the line of duty, incurs a wound, injury, or
-    illness in a combat operation or combat zone designated by the
-    Secretary of Defense, any overpayment of pay or allowances made to
-    the member while the member recovers from the wound, injury, or
-    illness may not be deducted from the member's pay until - 
-        (A) the end of the 90-day period beginning on the date on which
-      the member is notified of the overpayment; or
-        (B) such earlier date as may be requested or agreed to by the
-      member.
+      (B) In all cases described in subparagraph (A), the Secretary
+    concerned shall provide a reasonable opportunity for the member to
+    request a delay in the imposition of the repayment requirement to
+    recover the indebtedness. Before beginning collection efforts, the
+    Secretary concerned shall consider the reasons provided by the
+    member for the requested delay, including the financial ability of
+    the member to repay the indebtedness, and the hardship that
+    immediate collection would impose on the member and the member's
+    dependents.
+      (4)(A) If a member of the uniformed services, through no fault of
+    the member, incurs a wound, injury, or illness while in the line of
+    duty in a combat operation or combat zone designated by the
+    President or the Secretary of Defense, any overpayment of pay or
+    allowances made to the member while the member recovers from the
+    wound, injury, or illness may not be deducted from the member's pay
+    until - 
+        (i) the member is notified of the overpayment; and
+        (ii) the later of the following occurs:
+          (I) The end of the 180-day period beginning on the date of
+        the completion of the tour of duty of the member in the combat
+        operation or combat zone.
+          (II) The end of the 90-day period beginning on the date of
+        the reassignment of the member from a military treatment
+        facility or other medical unit outside of the theater of
+        operations.
 
+      (B) Subparagraph (A) shall not apply if the member, after
+    receiving notification of the overpayment, requests or consents to
+    initiation at an earlier date of the collection of the overpayment
+    of the pay or allowances.
       (d) Subject to subsection (c), an amount due the United States
     from an enlisted member of the Army or the Air Force may be
     deducted from his pay on final statement, or from his savings on
@@ -34039,7 +34753,9 @@
     1999, 113 Stat. 773; Pub. L. 107-296, title XVII, Sec. 1704(c),
     Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107-314, div. A, title X,
     Sec. 1006(b), Dec. 2, 2002, 116 Stat. 2633; Pub. L. 109-364, div.
-    A, title VI, Sec. 674, Oct. 17, 2006, 120 Stat. 2272.)
+    A, title VI, Sec. 674, Oct. 17, 2006, 120 Stat. 2272; Pub. L. 111-
+    84, div. A, title VI, Sec. 661(a)-(c), Oct. 28, 2009, 123 Stat.
+    2370.)
 
 -MISC1-
 
@@ -34073,6 +34789,22 @@
     to repeal by Pub. L. 101-189, Sec. 347(4).
 
                                 AMENDMENTS                            
+      2009 - Subsec. (c)(3). Pub. L. 111-84, Sec. 661(a), (b),
+    designated existing provisions as subpar. (A), substituted "15
+    percent" for "20 percent", and added subpar. (B).
+      Subsec. (c)(4). Pub. L. 111-84, Sec. 661(c), amended par. (4)
+    generally. Prior to amendment, text read as follows: "If a member
+    of the uniformed services is injured or wounded under the
+    circumstances described in section 310(a)(2)(C) of this title or,
+    while in the line of duty, incurs a wound, injury, or illness in a
+    combat operation or combat zone designated by the Secretary of
+    Defense, any overpayment of pay or allowances made to the member
+    while the member recovers from the wound, injury, or illness may
+    not be deducted from the member's pay until - 
+        "(A) the end of the 90-day period beginning on the date on
+      which the member is notified of the overpayment; or
+        "(B) such earlier date as may be requested or agreed to by the
+      member."
       2006 - Subsec. (c). Pub. L. 109-364 designated existing
     provisions as pars. (1) and (2), in pars. (1) and (2) substituted
     "the member's pay" for "his pay", in par. (2) substituted "After"
@@ -34147,6 +34879,14 @@
     have been administratively determined to owe the United States,
     payable by deductions in monthly installments.
 
+                     EFFECTIVE DATE OF 2009 AMENDMENT                 
+      Pub. L. 111-84, div. A, title VI, Sec. 661(d), Oct. 28, 2009, 123
+    Stat. 2370, provided that: "The amendments made by this section
+    [amending this section] shall apply only with respect to an
+    overpayment of pay or allowances made to a member of the uniformed
+    services after the date of the enactment of this Act [Oct. 28,
+    2009]."
+
                      EFFECTIVE DATE OF 2002 AMENDMENTS                 
       Amendment by Pub. L. 107-314 applicable with respect to loss,
     spoilage, unserviceability, unsuitability, or destruction of, or
@@ -34208,7 +34948,7 @@
 
 
 -CITE-
-    37 USC Sec. 1008                                            01/05/2009
+    37 USC Sec. 1008                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -34274,7 +35014,7 @@
 
 
 -CITE-
-    37 USC Sec. 1009                                            01/05/2009
+    37 USC Sec. 1009                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -34470,35 +35210,23 @@
     title, and enacting provisions set out as notes under this section]
     is effective upon enactment [Sept. 19, 1974]."
 
-                INCREASE IN BASIC PAY FOR FISCAL YEAR 2009            
-      Pub. L. 110-417, [div. A], title VI, Sec. 601, Oct. 14, 2008, 122
-    Stat. 4482, provided that:
+                INCREASE IN BASIC PAY FOR FISCAL YEAR 2010            
+      Pub. L. 111-84, div. A, title VI, Sec. 601, Oct. 28, 2009, 123
+    Stat. 2347, provided that:
       "(a) Waiver of Section 1009 Adjustment. - The adjustment to
-    become effective during fiscal year 2009 required by section 1009
+    become effective during fiscal year 2010 required by section 1009
     of title 37, United States Code, in the rates of monthly basic pay
     authorized members of the uniformed services shall not be made.
-      "(b) Increase in Basic Pay. - Effective on January 1, 2009, the
+      "(b) Increase in Basic Pay. - Effective on January 1, 2010, the
     rates of monthly basic pay for members of the uniformed services
-    are increased by 3.9 percent."
-
-                INCREASE IN BASIC PAY FOR FISCAL YEAR 2008            
-      Pub. L. 110-181, div. A, title VI, Sec. 601, Jan. 28, 2008, 122
-    Stat. 145, provided that:
-      "(a) Rescission of Prior Basic Pay Adjustment. - The adjustment
-    made as of January 1, 2008, pursuant to section 4 of Executive
-    Order No. 13454 (issued January 4, 2008) [formerly set out under
-    section 5332 of Title 5, Government Organization and Employees], in
-    elements of compensation of members of the uniformed services
-    pursuant to section 1009 of title 37, United States Code, is hereby
-    rescinded in order to permit the 3.5 percent increase in monthly
-    basic pay for members of the uniformed services required by
-    subsection (b) to take effect as intended.
-      "(b) Increase in Basic Pay. - Effective as of January 1, 2008,
-    the rates of monthly basic pay for members of the uniformed
-    services are increased by 3.5 percent."
+    are increased by 3.4 percent."
       Provisions relating to adjustment of compensation for members of
     the uniformed services for prior fiscal years were contained in the
     following acts:
+      2009 - Pub. L. 110-417, [div. A], title VI, Sec. 601, Oct. 14,
+    2008, 122 Stat. 4482.
+      2008 - Pub. L. 110-181, div. A, title VI, Sec. 601, Jan. 28,
+    2008, 122 Stat. 145.
       2007 - Pub. L. 109-364, div. A, title VI, Sec. 601, Oct. 17,
     2006, 120 Stat. 2240.
       2006 - Pub. L. 109-163, div. A, title VI, Sec. 601, Jan. 6, 2006,
@@ -34593,7 +35321,7 @@
 
 
 -CITE-
-    37 USC Sec. 1010                                            01/05/2009
+    37 USC Sec. 1010                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -34631,7 +35359,7 @@
 
 
 -CITE-
-    37 USC Sec. 1011                                            01/05/2009
+    37 USC Sec. 1011                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -34724,7 +35452,7 @@
 
 
 -CITE-
-    37 USC Sec. 1012                                            01/05/2009
+    37 USC Sec. 1012                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -34800,7 +35528,7 @@
 
 
 -CITE-
-    37 USC Sec. 1013                                            01/05/2009
+    37 USC Sec. 1013                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -34837,7 +35565,7 @@
 
 
 -CITE-
-    37 USC Sec. 1014                                            01/05/2009
+    37 USC Sec. 1014                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
@@ -34905,7 +35633,7 @@
 
 
 -CITE-
-    37 USC Sec. 1015                                            01/05/2009
+    37 USC Sec. 1015                                            02/01/2010
 
 -EXPCITE-
     TITLE 37 - PAY AND ALLOWANCES OF THE UNIFORMED SERVICES
