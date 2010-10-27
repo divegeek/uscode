@@ -1,10 +1,8 @@
 -CITE-
-    48 USC TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS       01/05/2009
+    48 USC TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
-    
--HEAD-    
               TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS          
 
 
@@ -38,7 +36,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 1 - BUREAU OF INSULAR AFFAIRS                01/05/2009
+    48 USC CHAPTER 1 - BUREAU OF INSULAR AFFAIRS                02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -52,7 +50,7 @@
 
 
 -CITE-
-    48 USC Sec. 1                                               01/05/2009
+    48 USC Sec. 1                                               02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -91,7 +89,7 @@
 
 
 -CITE-
-    48 USC Sec. 2                                               01/05/2009
+    48 USC Sec. 2                                               02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -111,7 +109,7 @@
 
 
 -CITE-
-    48 USC Sec. 3                                               01/05/2009
+    48 USC Sec. 3                                               02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -132,7 +130,7 @@
 
 
 -CITE-
-    48 USC Secs. 4, 5                                           01/05/2009
+    48 USC Secs. 4, 5                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -160,7 +158,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 2 - ALASKA                                   01/05/2009
+    48 USC CHAPTER 2 - ALASKA                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2111,7 +2109,7 @@
 
 
 -CITE-
-    48 USC Secs. 21 to 27                                       01/05/2009
+    48 USC Secs. 21 to 27                                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2149,7 +2147,7 @@
 
 
 -CITE-
-    48 USC Sec. 28                                              01/05/2009
+    48 USC Sec. 28                                              02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2169,7 +2167,7 @@
 
 
 -CITE-
-    48 USC Secs. 29 to 38                                       01/05/2009
+    48 USC Secs. 29 to 38                                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2221,7 +2219,7 @@
 
 
 -CITE-
-    48 USC Sec. 39                                              01/05/2009
+    48 USC Sec. 39                                              02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2245,7 +2243,7 @@
 
 
 -CITE-
-    48 USC Secs. 40, 41                                         01/05/2009
+    48 USC Secs. 40, 41                                         02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2270,7 +2268,7 @@
 
 
 -CITE-
-    48 USC Sec. 42                                              01/05/2009
+    48 USC Sec. 42                                              02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2291,7 +2289,7 @@
 
 
 -CITE-
-    48 USC Secs. 43 to 45                                       01/05/2009
+    48 USC Secs. 43 to 45                                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2341,7 +2339,7 @@
 
 
 -CITE-
-    48 USC Sec. 46                                              01/05/2009
+    48 USC Sec. 46                                              02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2364,7 +2362,7 @@
 
 
 -CITE-
-    48 USC Secs. 46-1 to 46-3                                   01/05/2009
+    48 USC Secs. 46-1 to 46-3                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2393,7 +2391,7 @@
 
 
 -CITE-
-    48 USC Sec. 46a                                             01/05/2009
+    48 USC Sec. 46a                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2416,7 +2414,7 @@
 
 
 -CITE-
-    48 USC Secs. 46b to 48a                                     01/05/2009
+    48 USC Secs. 46b to 48a                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2468,7 +2466,7 @@
 
 
 -CITE-
-    48 USC Sec. 49                                              01/05/2009
+    48 USC Sec. 49                                              02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2488,7 +2486,7 @@
 
 
 -CITE-
-    48 USC Secs. 50, 50a                                        01/05/2009
+    48 USC Secs. 50, 50a                                        02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2514,7 +2512,7 @@
 
 
 -CITE-
-    48 USC Secs. 50b to 50d-1                                   01/05/2009
+    48 USC Secs. 50b to 50d-1                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2545,7 +2543,7 @@
 
 
 -CITE-
-    48 USC Sec. 50e                                             01/05/2009
+    48 USC Sec. 50e                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2589,7 +2587,7 @@
 
 
 -CITE-
-    48 USC Sec. 50f                                             01/05/2009
+    48 USC Sec. 50f                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2614,7 +2612,7 @@
 
 
 -CITE-
-    48 USC Secs. 50g to 58                                      01/05/2009
+    48 USC Secs. 50g to 58                                      02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2664,7 +2662,7 @@
 
 
 -CITE-
-    48 USC Secs. 61 to 64                                       01/05/2009
+    48 USC Secs. 61 to 64                                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2700,7 +2698,7 @@
 
 
 -CITE-
-    48 USC Sec. 65                                              01/05/2009
+    48 USC Sec. 65                                              02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2719,7 +2717,7 @@
 
 
 -CITE-
-    48 USC Sec. 65a                                             01/05/2009
+    48 USC Sec. 65a                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2738,7 +2736,7 @@
 
 
 -CITE-
-    48 USC Secs. 65b, 66                                        01/05/2009
+    48 USC Secs. 65b, 66                                        02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2761,7 +2759,7 @@
 
 
 -CITE-
-    48 USC Secs. 67 to 72                                       01/05/2009
+    48 USC Secs. 67 to 72                                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2801,7 +2799,7 @@
 
 
 -CITE-
-    48 USC Secs. 73, 73a                                        01/05/2009
+    48 USC Secs. 73, 73a                                        02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2826,7 +2824,7 @@
 
 
 -CITE-
-    48 USC Secs. 74, 75                                         01/05/2009
+    48 USC Secs. 74, 75                                         02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2852,7 +2850,7 @@
 
 
 -CITE-
-    48 USC Secs. 76 to 92                                       01/05/2009
+    48 USC Secs. 76 to 92                                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -2916,7 +2914,7 @@
 
 
 -CITE-
-    48 USC Secs. 101 to 122                                     01/05/2009
+    48 USC Secs. 101 to 122                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3032,7 +3030,7 @@
 
 
 -CITE-
-    48 USC Sec. 131                                             01/05/2009
+    48 USC Sec. 131                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3053,7 +3051,7 @@
 
 
 -CITE-
-    48 USC Secs. 132, 134                                       01/05/2009
+    48 USC Secs. 132, 134                                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3075,7 +3073,7 @@
 
 
 -CITE-
-    48 USC Secs. 135 to 149                                     01/05/2009
+    48 USC Secs. 135 to 149                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3136,7 +3134,7 @@
 
 
 -CITE-
-    48 USC Secs. 161 to 170a                                    01/05/2009
+    48 USC Secs. 161 to 170a                                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3189,7 +3187,7 @@
 
 
 -CITE-
-    48 USC Sec. 171                                             01/05/2009
+    48 USC Sec. 171                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3213,7 +3211,7 @@
 
 
 -CITE-
-    48 USC Secs. 172, 173                                       01/05/2009
+    48 USC Secs. 172, 173                                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3237,7 +3235,7 @@
 
 
 -CITE-
-    48 USC Sec. 174                                             01/05/2009
+    48 USC Sec. 174                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3259,7 +3257,7 @@
 
 
 -CITE-
-    48 USC Secs. 175, 175a                                      01/05/2009
+    48 USC Secs. 175, 175a                                      02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3284,7 +3282,7 @@
 
 
 -CITE-
-    48 USC Secs. 191 to 213                                     01/05/2009
+    48 USC Secs. 191 to 213                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3402,7 +3400,7 @@
 
 
 -CITE-
-    48 USC Secs. 220 to 224                                     01/05/2009
+    48 USC Secs. 220 to 224                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3448,7 +3446,7 @@
 
 
 -CITE-
-    48 USC Sec. 225                                             01/05/2009
+    48 USC Sec. 225                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3468,7 +3466,7 @@
 
 
 -CITE-
-    48 USC Secs. 226 to 239                                     01/05/2009
+    48 USC Secs. 226 to 239                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3527,7 +3525,7 @@
 
 
 -CITE-
-    48 USC Sec. 240                                             01/05/2009
+    48 USC Sec. 240                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3548,7 +3546,7 @@
 
 
 -CITE-
-    48 USC Secs. 241 to 248b                                    01/05/2009
+    48 USC Secs. 241 to 248b                                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3602,7 +3600,7 @@
 
 
 -CITE-
-    48 USC Secs. 250 to 250p                                    01/05/2009
+    48 USC Secs. 250 to 250p                                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3676,7 +3674,7 @@
 
 
 -CITE-
-    48 USC Secs. 261 to 291                                     01/05/2009
+    48 USC Secs. 261 to 291                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3770,7 +3768,7 @@
 
 
 -CITE-
-    48 USC Secs. 292, 293                                       01/05/2009
+    48 USC Secs. 292, 293                                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3795,7 +3793,7 @@
 
 
 -CITE-
-    48 USC Sec. 301                                             01/05/2009
+    48 USC Sec. 301                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3817,7 +3815,7 @@
 
 
 -CITE-
-    48 USC Sec. 301a                                            01/05/2009
+    48 USC Sec. 301a                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3843,7 +3841,7 @@
 
 
 -CITE-
-    48 USC Secs. 302 to 308                                     01/05/2009
+    48 USC Secs. 302 to 308                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3891,7 +3889,7 @@
 
 
 -CITE-
-    48 USC Sec. 309                                             01/05/2009
+    48 USC Sec. 309                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3910,7 +3908,7 @@
 
 
 -CITE-
-    48 USC Secs. 310, 311                                       01/05/2009
+    48 USC Secs. 310, 311                                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3937,7 +3935,7 @@
 
 
 -CITE-
-    48 USC Secs. 312 to 312d                                    01/05/2009
+    48 USC Secs. 312 to 312d                                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -3981,7 +3979,7 @@
 
 
 -CITE-
-    48 USC Secs. 315 to 315i                                    01/05/2009
+    48 USC Secs. 315 to 315i                                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4033,7 +4031,7 @@
 
 
 -CITE-
-    48 USC Sec. 321                                             01/05/2009
+    48 USC Sec. 321                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4054,7 +4052,7 @@
 
 
 -CITE-
-    48 USC Secs. 321a to 325                                    01/05/2009
+    48 USC Secs. 321a to 325                                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4106,7 +4104,7 @@
 
 
 -CITE-
-    48 USC Secs. 326 to 330                                     01/05/2009
+    48 USC Secs. 326 to 330                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4142,7 +4140,7 @@
 
 
 -CITE-
-    48 USC Secs. 331 to 337                                     01/05/2009
+    48 USC Secs. 331 to 337                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4174,7 +4172,7 @@
 
 
 -CITE-
-    48 USC Secs. 338 to 338g                                    01/05/2009
+    48 USC Secs. 338 to 338g                                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4225,7 +4223,7 @@
 
 
 -CITE-
-    48 USC Sec. 341                                             01/05/2009
+    48 USC Sec. 341                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4247,7 +4245,7 @@
 
 
 -CITE-
-    48 USC Secs. 351, 352                                       01/05/2009
+    48 USC Secs. 351, 352                                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4272,7 +4270,7 @@
 
 
 -CITE-
-    48 USC Sec. 353                                             01/05/2009
+    48 USC Sec. 353                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4297,7 +4295,7 @@
 
 
 -CITE-
-    48 USC Secs. 353a to 362                                    01/05/2009
+    48 USC Secs. 353a to 362                                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4415,7 +4413,7 @@
 
 
 -CITE-
-    48 USC Sec. 363                                             01/05/2009
+    48 USC Sec. 363                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4437,7 +4435,7 @@
 
 
 -CITE-
-    48 USC Secs. 364 to 365                                     01/05/2009
+    48 USC Secs. 364 to 365                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4500,7 +4498,7 @@
 
 
 -CITE-
-    48 USC Secs. 366 to 367                                     01/05/2009
+    48 USC Secs. 366 to 367                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4532,7 +4530,7 @@
 
 
 -CITE-
-    48 USC Sec. 367a                                            01/05/2009
+    48 USC Sec. 367a                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4553,7 +4551,7 @@
 
 
 -CITE-
-    48 USC Sec. 368                                             01/05/2009
+    48 USC Sec. 368                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4573,7 +4571,7 @@
 
 
 -CITE-
-    48 USC Secs. 371 to 371c                                    01/05/2009
+    48 USC Secs. 371 to 371c                                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4615,7 +4613,7 @@
 
 
 -CITE-
-    48 USC Sec. 372                                             01/05/2009
+    48 USC Sec. 372                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4636,7 +4634,7 @@
 
 
 -CITE-
-    48 USC Secs. 373 to 385                                     01/05/2009
+    48 USC Secs. 373 to 385                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4740,7 +4738,7 @@
 
 
 -CITE-
-    48 USC Sec. 386                                             01/05/2009
+    48 USC Sec. 386                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4765,7 +4763,7 @@
 
 
 -CITE-
-    48 USC Secs. 387 to 391                                     01/05/2009
+    48 USC Secs. 387 to 391                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4797,7 +4795,7 @@
 
 
 -CITE-
-    48 USC Sec. 392                                             01/05/2009
+    48 USC Sec. 392                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4817,7 +4815,7 @@
 
 
 -CITE-
-    48 USC Secs. 395 to 405                                     01/05/2009
+    48 USC Secs. 395 to 405                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4865,7 +4863,7 @@
 
 
 -CITE-
-    48 USC Secs. 411 to 423                                     01/05/2009
+    48 USC Secs. 411 to 423                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4945,7 +4943,7 @@
 
 
 -CITE-
-    48 USC Sec. 431                                             01/05/2009
+    48 USC Sec. 431                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4966,7 +4964,7 @@
 
 
 -CITE-
-    48 USC Sec. 432                                             01/05/2009
+    48 USC Sec. 432                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -4987,7 +4985,7 @@
 
 
 -CITE-
-    48 USC Sec. 433                                             01/05/2009
+    48 USC Sec. 433                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5008,7 +5006,7 @@
 
 
 -CITE-
-    48 USC Secs. 434 to 445                                     01/05/2009
+    48 USC Secs. 434 to 445                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5069,7 +5067,7 @@
 
 
 -CITE-
-    48 USC Sec. 445a                                            01/05/2009
+    48 USC Sec. 445a                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5091,7 +5089,7 @@
 
 
 -CITE-
-    48 USC Secs. 446 to 452                                     01/05/2009
+    48 USC Secs. 446 to 452                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5126,7 +5124,7 @@
 
 
 -CITE-
-    48 USC Sec. 453                                             01/05/2009
+    48 USC Sec. 453                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5147,7 +5145,7 @@
 
 
 -CITE-
-    48 USC Secs. 455 to 456h                                    01/05/2009
+    48 USC Secs. 455 to 456h                                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5202,7 +5200,7 @@
 
 
 -CITE-
-    48 USC Secs. 461 to 466                                     01/05/2009
+    48 USC Secs. 461 to 466                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5259,7 +5257,7 @@
 
 
 -CITE-
-    48 USC Secs. 471 to 471o                                    01/05/2009
+    48 USC Secs. 471 to 471o                                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5339,7 +5337,7 @@
 
 
 -CITE-
-    48 USC Secs. 472, 472a                                      01/05/2009
+    48 USC Secs. 472, 472a                                      02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5363,7 +5361,7 @@
 
 
 -CITE-
-    48 USC Secs. 473 to 484d                                    01/05/2009
+    48 USC Secs. 473 to 484d                                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5455,7 +5453,7 @@
 
 
 -CITE-
-    48 USC Sec. 484e                                            01/05/2009
+    48 USC Sec. 484e                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5477,7 +5475,7 @@
 
 
 -CITE-
-    48 USC Secs. 485 to 486j                                    01/05/2009
+    48 USC Secs. 485 to 486j                                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5570,7 +5568,7 @@
 
 
 -CITE-
-    48 USC Secs. 487 to 487b                                    01/05/2009
+    48 USC Secs. 487 to 487b                                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5600,7 +5598,7 @@
 
 
 -CITE-
-    48 USC Secs. 488 to 488f                                    01/05/2009
+    48 USC Secs. 488 to 488f                                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -5639,7 +5637,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 3 - HAWAII                                   01/05/2009
+    48 USC CHAPTER 3 - HAWAII                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7614,7 +7612,7 @@
 
 
 -CITE-
-    48 USC Secs. 491 to 503                                     01/05/2009
+    48 USC Secs. 491 to 503                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7675,7 +7673,7 @@
 
 
 -CITE-
-    48 USC Sec. 504                                             01/05/2009
+    48 USC Sec. 504                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7696,7 +7694,7 @@
 
 
 -CITE-
-    48 USC Secs. 505 to 518                                     01/05/2009
+    48 USC Secs. 505 to 518                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7763,7 +7761,7 @@
 
 
 -CITE-
-    48 USC Sec. 518a                                            01/05/2009
+    48 USC Sec. 518a                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7783,7 +7781,7 @@
 
 
 -CITE-
-    48 USC Sec. 519                                             01/05/2009
+    48 USC Sec. 519                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7805,7 +7803,7 @@
 
 
 -CITE-
-    48 USC Sec. 520                                             01/05/2009
+    48 USC Sec. 520                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7825,7 +7823,7 @@
 
 
 -CITE-
-    48 USC Secs. 531 to 535                                     01/05/2009
+    48 USC Secs. 531 to 535                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7860,7 +7858,7 @@
 
 
 -CITE-
-    48 USC Sec. 536                                             01/05/2009
+    48 USC Sec. 536                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7883,7 +7881,7 @@
 
 
 -CITE-
-    48 USC Secs. 537, 538                                       01/05/2009
+    48 USC Secs. 537, 538                                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7906,7 +7904,7 @@
 
 
 -CITE-
-    48 USC Sec. 539                                             01/05/2009
+    48 USC Sec. 539                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7928,7 +7926,7 @@
 
 
 -CITE-
-    48 USC Sec. 540                                             01/05/2009
+    48 USC Sec. 540                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7948,7 +7946,7 @@
 
 
 -CITE-
-    48 USC Sec. 541                                             01/05/2009
+    48 USC Sec. 541                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -7970,7 +7968,7 @@
 
 
 -CITE-
-    48 USC Secs. 542 to 546                                     01/05/2009
+    48 USC Secs. 542 to 546                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8010,7 +8008,7 @@
 
 
 -CITE-
-    48 USC Secs. 561 to 599                                     01/05/2009
+    48 USC Secs. 561 to 599                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8272,7 +8270,7 @@
 
 
 -CITE-
-    48 USC Secs. 611 to 620                                     01/05/2009
+    48 USC Secs. 611 to 620                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8335,7 +8333,7 @@
 
 
 -CITE-
-    48 USC Secs. 631 to 633                                     01/05/2009
+    48 USC Secs. 631 to 633                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8368,7 +8366,7 @@
 
 
 -CITE-
-    48 USC Secs. 634, 634a                                      01/05/2009
+    48 USC Secs. 634, 634a                                      02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8393,7 +8391,7 @@
 
 
 -CITE-
-    48 USC Secs. 634b, 634c                                     01/05/2009
+    48 USC Secs. 634b, 634c                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8417,7 +8415,7 @@
 
 
 -CITE-
-    48 USC Secs. 635, 636                                       01/05/2009
+    48 USC Secs. 635, 636                                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8448,7 +8446,7 @@
 
 
 -CITE-
-    48 USC Secs. 641 to 644                                     01/05/2009
+    48 USC Secs. 641 to 644                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8497,7 +8495,7 @@
 
 
 -CITE-
-    48 USC Sec. 644a                                            01/05/2009
+    48 USC Sec. 644a                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8567,7 +8565,7 @@
 
 
 -CITE-
-    48 USC Sec. 645                                             01/05/2009
+    48 USC Sec. 645                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8596,7 +8594,7 @@
 
 
 -CITE-
-    48 USC Sec. 646                                             01/05/2009
+    48 USC Sec. 646                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8616,7 +8614,7 @@
 
 
 -CITE-
-    48 USC Sec. 651                                             01/05/2009
+    48 USC Sec. 651                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8638,7 +8636,7 @@
 
 
 -CITE-
-    48 USC Secs. 661 to 678                                     01/05/2009
+    48 USC Secs. 661 to 678                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8772,7 +8770,7 @@
 
 
 -CITE-
-    48 USC Secs. 691 to 718                                     01/05/2009
+    48 USC Secs. 691 to 718                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8919,7 +8917,7 @@
 
 
 -CITE-
-    48 USC Secs. 721 to 723                                     01/05/2009
+    48 USC Secs. 721 to 723                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8959,7 +8957,7 @@
 
 
 -CITE-
-    48 USC Sec. 724                                             01/05/2009
+    48 USC Sec. 724                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -8980,7 +8978,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 4 - PUERTO RICO                              01/05/2009
+    48 USC CHAPTER 4 - PUERTO RICO                              02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9104,7 +9102,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/05/2009
+    48 USC SUBCHAPTER I - GENERAL PROVISIONS                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9119,7 +9117,7 @@
 
 
 -CITE-
-    48 USC Sec. 731                                             01/05/2009
+    48 USC Sec. 731                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9207,11 +9205,11 @@
                            PUERTO RICO'S STATUS
       Ex. Ord. No. 13183, Dec. 23, 2000, 65 F.R. 82889, as amended by
     Ex. Ord. No. 13209, Apr. 30, 2001, 66 F.R. 22105; Ex. Ord. No.
-    13319, Dec. 3, 2003, 68 F.R. 68233, provided:
+    13319, Dec. 3, 2003, 68 F.R. 68233; Ex. Ord. No. 13517, Sec. 1,
+    Oct. 30, 2009, 74 F.R. 57239, provided:
       By the authority vested in me as President by the Constitution
-    and the laws of the United States of America, including Public Law
-    106-346 [see Tables for classification], it is hereby ordered as
-    follows:
+    and the laws of the United States of America, it is hereby ordered
+    as follows:
       Section 1. Policy. It is the policy of the executive branch of
     the Government of the United States of America to help answer the
     questions that the people of Puerto Rico have asked for years
@@ -9227,7 +9225,11 @@
     laws and policies of the United States; and to implement such an
     option if chosen by a majority, including helping Puerto Ricans
     obtain a governing arrangement under which they would vote for
-    national government officials, if they choose such a status.
+    national government officials, if they choose such a status. It is
+    also the policy of the executive branch to improve the treatment of
+    Puerto Rico in Federal programs and to promote job creation,
+    education, health care, clean energy, and economic development on
+    the islands.
       Sec. 2. The President's Task Force on Puerto Rico's Status. There
     is established a task force to be known as "The President's Task
     Force on Puerto Rico's Status" (Task Force). It shall be composed
@@ -9237,29 +9239,30 @@
     the Attorney General's designee and the Deputy Assistant to the
     President and Director for Intergovernmental Affairs.
       Sec. 3. Functions. The Task Force shall seek to implement the
-    policy set forth in section 1 of this order. It shall ensure
-    official attention to and facilitate action on matters related to
-    proposals for Puerto Rico's status and the process by which an
-    option can be realized. It shall provide advice and recommendations
-    on such matters to the President and the Congress. It shall also
-    provide advice and recommendations to assist the Executive Office
-    of the President in fulfilling its responsibilities under Public
-    Law 106-346 to transfer funding to the Elections Commission of the
-    Commonwealth of Puerto Rico for public education on and a public
-    choice among options for Puerto Rico's future status that are not
-    incompatible with the Constitution and the basic laws and policies
-    of the United States.
-      Sec. 4. Report. The Task Force shall report on its actions to the
-    President as needed, but no less frequently than once every 2
-    years, on progress made in the determination of Puerto Rico's
-    ultimate status.
+    policy set forth in section 1 of this order. The Task Force shall
+    ensure official attention to and facilitate action on matters
+    related to proposals for Puerto Rico's status and provide advice
+    and recommendations on such matters to the President and the
+    Congress. The Task Force shall also identify and promote existing
+    Federal initiatives that benefit Puerto Rico; provide advice and
+    recommendations to the President and the Congress on the treatment
+    of Puerto Rico in Federal programs; and provide advice and
+    recommendations to the President and the Congress on policies and
+    initiatives that promote job creation, education, health care,
+    clean energy, and economic development on the islands.
+      Sec. 4. Report. The Task Force shall submit to the President a
+    report on the actions it has taken to perform the functions set
+    forth in section 3 no later than 1 year from the date of this
+    order. The Task Force shall also report to the President, as
+    appropriate, on other matters relating to the Task Force's
+    responsibilities under this order.
 
 -End-
 
 
 
 -CITE-
-    48 USC Sec. 731a                                            01/05/2009
+    48 USC Sec. 731a                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9301,7 +9304,7 @@
 
 
 -CITE-
-    48 USC Sec. 731b                                            01/05/2009
+    48 USC Sec. 731b                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9337,7 +9340,7 @@
 
 
 -CITE-
-    48 USC Sec. 731c                                            01/05/2009
+    48 USC Sec. 731c                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9385,7 +9388,7 @@
 
 
 -CITE-
-    48 USC Sec. 731d                                            01/05/2009
+    48 USC Sec. 731d                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9428,7 +9431,7 @@
 
 
 -CITE-
-    48 USC Sec. 731e                                            01/05/2009
+    48 USC Sec. 731e                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9465,7 +9468,7 @@
 
 
 -CITE-
-    48 USC Sec. 732                                             01/05/2009
+    48 USC Sec. 732                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9510,7 +9513,7 @@
 
 
 -CITE-
-    48 USC Sec. 733                                             01/05/2009
+    48 USC Sec. 733                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9556,7 +9559,7 @@
 
 
 -CITE-
-    48 USC Sec. 733a                                            01/05/2009
+    48 USC Sec. 733a                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9593,7 +9596,7 @@
 
 
 -CITE-
-    48 USC Sec. 733a-1                                          01/05/2009
+    48 USC Sec. 733a-1                                          02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9615,7 +9618,7 @@
 
 
 -CITE-
-    48 USC Sec. 733b                                            01/05/2009
+    48 USC Sec. 733b                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9656,7 +9659,7 @@
 
 
 -CITE-
-    48 USC Sec. 734                                             01/05/2009
+    48 USC Sec. 734                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9844,7 +9847,7 @@
 
 
 -CITE-
-    48 USC Sec. 734a                                            01/05/2009
+    48 USC Sec. 734a                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9894,7 +9897,7 @@
 
 
 -CITE-
-    48 USC Sec. 735                                             01/05/2009
+    48 USC Sec. 735                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9922,7 +9925,7 @@
 
 
 -CITE-
-    48 USC Sec. 736                                             01/05/2009
+    48 USC Sec. 736                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -9969,7 +9972,7 @@
 
 
 -CITE-
-    48 USC Sec. 737                                             01/05/2009
+    48 USC Sec. 737                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10015,7 +10018,7 @@
 
 
 -CITE-
-    48 USC Sec. 738                                             01/05/2009
+    48 USC Sec. 738                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10075,7 +10078,7 @@
 
 
 -CITE-
-    48 USC Sec. 739                                             01/05/2009
+    48 USC Sec. 739                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10122,7 +10125,7 @@
 
 
 -CITE-
-    48 USC Sec. 740                                             01/05/2009
+    48 USC Sec. 740                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10207,7 +10210,7 @@
 
 
 -CITE-
-    48 USC Sec. 741                                             01/05/2009
+    48 USC Sec. 741                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10256,7 +10259,7 @@
 
 
 -CITE-
-    48 USC Sec. 741a                                            01/05/2009
+    48 USC Sec. 741a                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10311,7 +10314,7 @@
 
 
 -CITE-
-    48 USC Sec. 742                                             01/05/2009
+    48 USC Sec. 742                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10355,7 +10358,7 @@
 
 
 -CITE-
-    48 USC Sec. 743                                             01/05/2009
+    48 USC Sec. 743                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10388,7 +10391,7 @@
 
 
 -CITE-
-    48 USC Sec. 744                                             01/05/2009
+    48 USC Sec. 744                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10431,7 +10434,7 @@
 
 
 -CITE-
-    48 USC Sec. 745                                             01/05/2009
+    48 USC Sec. 745                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10524,7 +10527,7 @@
 
 
 -CITE-
-    48 USC Sec. 745a                                            01/05/2009
+    48 USC Sec. 745a                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10559,7 +10562,7 @@
 
 
 -CITE-
-    48 USC Sec. 745b                                            01/05/2009
+    48 USC Sec. 745b                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10590,7 +10593,7 @@
 
 
 -CITE-
-    48 USC Sec. 746                                             01/05/2009
+    48 USC Sec. 746                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10650,7 +10653,7 @@
 
 
 -CITE-
-    48 USC Sec. 747                                             01/05/2009
+    48 USC Sec. 747                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10713,7 +10716,7 @@
 
 
 -CITE-
-    48 USC Sec. 748                                             01/05/2009
+    48 USC Sec. 748                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10763,7 +10766,7 @@
 
 
 -CITE-
-    48 USC Sec. 749                                             01/05/2009
+    48 USC Sec. 749                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10862,7 +10865,7 @@
 
 
 -CITE-
-    48 USC Sec. 750                                             01/05/2009
+    48 USC Sec. 750                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10888,7 +10891,7 @@
 
 
 -CITE-
-    48 USC Sec. 751                                             01/05/2009
+    48 USC Sec. 751                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -10955,7 +10958,7 @@
 
 
 -CITE-
-    48 USC Sec. 752                                             01/05/2009
+    48 USC Sec. 752                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11029,7 +11032,7 @@
 
 
 -CITE-
-    48 USC Secs. 753, 754                                       01/05/2009
+    48 USC Secs. 753, 754                                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11060,7 +11063,7 @@
 
 
 -CITE-
-    48 USC Sec. 755                                             01/05/2009
+    48 USC Sec. 755                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11087,7 +11090,7 @@
 
 -CITE-
     48 USC SUBCHAPTER II - THE EXECUTIVE AND GOVERNMENT
-           OFFICIALS                                       01/05/2009
+           OFFICIALS                                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11102,7 +11105,7 @@
 
 
 -CITE-
-    48 USC Secs. 771 to 793                                     01/05/2009
+    48 USC Secs. 771 to 793                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11214,7 +11217,7 @@
 
 
 -CITE-
-    48 USC Sec. 793a                                            01/05/2009
+    48 USC Sec. 793a                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11240,7 +11243,7 @@
 
 
 -CITE-
-    48 USC Sec. 793b                                            01/05/2009
+    48 USC Sec. 793b                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11268,7 +11271,7 @@
 
 
 -CITE-
-    48 USC Sec. 794                                             01/05/2009
+    48 USC Sec. 794                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11333,7 +11336,7 @@
 
 
 -CITE-
-    48 USC Sec. 795                                             01/05/2009
+    48 USC Sec. 795                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11377,7 +11380,7 @@
 
 
 -CITE-
-    48 USC Secs. 796 to 799                                     01/05/2009
+    48 USC Secs. 796 to 799                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11414,7 +11417,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER III - THE LEGISLATURE                     01/05/2009
+    48 USC SUBCHAPTER III - THE LEGISLATURE                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11429,7 +11432,7 @@
 
 
 -CITE-
-    48 USC Secs. 811 to 820                                     01/05/2009
+    48 USC Secs. 811 to 820                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11493,7 +11496,7 @@
 
 
 -CITE-
-    48 USC Sec. 821                                             01/05/2009
+    48 USC Sec. 821                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11539,7 +11542,7 @@
 
 
 -CITE-
-    48 USC Secs. 822, 823                                       01/05/2009
+    48 USC Secs. 822, 823                                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11567,7 +11570,7 @@
 
 
 -CITE-
-    48 USC Sec. 823a                                            01/05/2009
+    48 USC Sec. 823a                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11587,7 +11590,7 @@
 
 
 -CITE-
-    48 USC Secs. 824 to 844                                     01/05/2009
+    48 USC Secs. 824 to 844                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11670,7 +11673,7 @@
 
 
 -CITE-
-    48 USC Sec. 845                                             01/05/2009
+    48 USC Sec. 845                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11714,7 +11717,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER IV - THE JUDICIARY                        01/05/2009
+    48 USC SUBCHAPTER IV - THE JUDICIARY                        02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11729,7 +11732,7 @@
 
 
 -CITE-
-    48 USC Sec. 861                                             01/05/2009
+    48 USC Sec. 861                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11759,7 +11762,7 @@
 
 
 -CITE-
-    48 USC Sec. 862                                             01/05/2009
+    48 USC Sec. 862                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11780,7 +11783,7 @@
 
 
 -CITE-
-    48 USC Sec. 863                                             01/05/2009
+    48 USC Sec. 863                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11818,7 +11821,7 @@
 
 
 -CITE-
-    48 USC Sec. 864                                             01/05/2009
+    48 USC Sec. 864                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11909,7 +11912,7 @@
 
 
 -CITE-
-    48 USC Sec. 865                                             01/05/2009
+    48 USC Sec. 865                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11936,7 +11939,7 @@
 
 
 -CITE-
-    48 USC Sec. 866                                             01/05/2009
+    48 USC Sec. 866                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11959,7 +11962,7 @@
 
 
 -CITE-
-    48 USC Sec. 867                                             01/05/2009
+    48 USC Sec. 867                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -11991,7 +11994,7 @@
 
 
 -CITE-
-    48 USC Sec. 868                                             01/05/2009
+    48 USC Sec. 868                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12043,7 +12046,7 @@
 
 
 -CITE-
-    48 USC Sec. 869                                             01/05/2009
+    48 USC Sec. 869                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12096,7 +12099,7 @@
 
 
 -CITE-
-    48 USC Sec. 870                                             01/05/2009
+    48 USC Sec. 870                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12124,7 +12127,7 @@
 
 
 -CITE-
-    48 USC Sec. 871                                             01/05/2009
+    48 USC Sec. 871                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12146,7 +12149,7 @@
 
 
 -CITE-
-    48 USC Sec. 872                                             01/05/2009
+    48 USC Sec. 872                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12199,7 +12202,7 @@
 
 
 -CITE-
-    48 USC Sec. 873                                             01/05/2009
+    48 USC Sec. 873                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12224,7 +12227,7 @@
 
 
 -CITE-
-    48 USC Sec. 873a                                            01/05/2009
+    48 USC Sec. 873a                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12250,7 +12253,7 @@
 
 
 -CITE-
-    48 USC Sec. 874                                             01/05/2009
+    48 USC Sec. 874                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12292,7 +12295,7 @@
 
 
 -CITE-
-    48 USC Secs. 875, 876                                       01/05/2009
+    48 USC Secs. 875, 876                                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12319,7 +12322,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER V - RESIDENT COMMISSIONER                 01/05/2009
+    48 USC SUBCHAPTER V - RESIDENT COMMISSIONER                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12334,7 +12337,7 @@
 
 
 -CITE-
-    48 USC Sec. 891                                             01/05/2009
+    48 USC Sec. 891                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12407,7 +12410,7 @@
 
 
 -CITE-
-    48 USC Sec. 892                                             01/05/2009
+    48 USC Sec. 892                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12449,7 +12452,7 @@
 
 
 -CITE-
-    48 USC Sec. 893                                             01/05/2009
+    48 USC Sec. 893                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12483,7 +12486,7 @@
 
 
 -CITE-
-    48 USC Sec. 894                                             01/05/2009
+    48 USC Sec. 894                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12527,7 +12530,7 @@
 
 -CITE-
     48 USC SUBCHAPTER VI - SLUM CLEARANCE AND URBAN
-           REDEVELOPMENT PROJECTS                          01/05/2009
+           REDEVELOPMENT PROJECTS                          02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12542,7 +12545,7 @@
 
 
 -CITE-
-    48 USC Sec. 910                                             01/05/2009
+    48 USC Sec. 910                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12643,7 +12646,7 @@
 
 
 -CITE-
-    48 USC Sec. 910a                                            01/05/2009
+    48 USC Sec. 910a                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12688,7 +12691,7 @@
 
 
 -CITE-
-    48 USC Sec. 910b                                            01/05/2009
+    48 USC Sec. 910b                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12729,7 +12732,7 @@
 
 -CITE-
     48 USC SUBCHAPTER VII - LOW RENT HOUSING PROJECTS AND
-           ELIMINATION OF SUB-STANDARD HOUSING             01/05/2009
+           ELIMINATION OF SUB-STANDARD HOUSING             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12746,7 +12749,7 @@
 
 
 -CITE-
-    48 USC Sec. 911                                             01/05/2009
+    48 USC Sec. 911                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12775,7 +12778,7 @@
 
 
 -CITE-
-    48 USC Sec. 912                                             01/05/2009
+    48 USC Sec. 912                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12806,7 +12809,7 @@
 
 
 -CITE-
-    48 USC Sec. 913                                             01/05/2009
+    48 USC Sec. 913                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12844,7 +12847,7 @@
 
 
 -CITE-
-    48 USC Sec. 914                                             01/05/2009
+    48 USC Sec. 914                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12874,7 +12877,7 @@
 
 
 -CITE-
-    48 USC Sec. 915                                             01/05/2009
+    48 USC Sec. 915                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12903,7 +12906,7 @@
 
 
 -CITE-
-    48 USC Sec. 916                                             01/05/2009
+    48 USC Sec. 916                                             02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12931,7 +12934,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 5 - PHILIPPINE ISLANDS                       01/05/2009
+    48 USC CHAPTER 5 - PHILIPPINE ISLANDS                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12953,7 +12956,7 @@
 
 
 -CITE-
-    48 USC Secs. 1001 to 1008                                   01/05/2009
+    48 USC Secs. 1001 to 1008                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -12993,7 +12996,7 @@
 
 
 -CITE-
-    48 USC Sec. 1009                                            01/05/2009
+    48 USC Sec. 1009                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13018,7 +13021,7 @@
 
 
 -CITE-
-    48 USC Secs. 1010 to 1019                                   01/05/2009
+    48 USC Secs. 1010 to 1019                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13068,7 +13071,7 @@
 
 
 -CITE-
-    48 USC Secs. 1041 to 1055                                   01/05/2009
+    48 USC Secs. 1041 to 1055                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13123,7 +13126,7 @@
 
 
 -CITE-
-    48 USC Secs. 1071 to 1078                                   01/05/2009
+    48 USC Secs. 1071 to 1078                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13164,7 +13167,7 @@
 
 
 -CITE-
-    48 USC Secs. 1091 to 1094                                   01/05/2009
+    48 USC Secs. 1091 to 1094                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13194,7 +13197,7 @@
 
 
 -CITE-
-    48 USC Secs. 1111 to 1125                                   01/05/2009
+    48 USC Secs. 1111 to 1125                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13246,7 +13249,7 @@
 
 
 -CITE-
-    48 USC Secs. 1141 to 1156                                   01/05/2009
+    48 USC Secs. 1141 to 1156                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13304,7 +13307,7 @@
 
 
 -CITE-
-    48 USC Sec. 1157                                            01/05/2009
+    48 USC Sec. 1157                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13327,7 +13330,7 @@
 
 
 -CITE-
-    48 USC Secs. 1171 to 1173                                   01/05/2009
+    48 USC Secs. 1171 to 1173                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13353,7 +13356,7 @@
 
 
 -CITE-
-    48 USC Secs. 1191 to 1202                                   01/05/2009
+    48 USC Secs. 1191 to 1202                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13402,7 +13405,7 @@
 
 
 -CITE-
-    48 USC Secs. 1221 to 1226                                   01/05/2009
+    48 USC Secs. 1221 to 1226                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13439,7 +13442,7 @@
 
 
 -CITE-
-    48 USC Secs. 1231 to 1234                                   01/05/2009
+    48 USC Secs. 1231 to 1234                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13473,7 +13476,7 @@
 
 
 -CITE-
-    48 USC Secs. 1235 to 1236                                   01/05/2009
+    48 USC Secs. 1235 to 1236                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13504,7 +13507,7 @@
 
 
 -CITE-
-    48 USC Sec. 1236a                                           01/05/2009
+    48 USC Sec. 1236a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13528,7 +13531,7 @@
 
 
 -CITE-
-    48 USC Secs. 1236b to 1237c                                 01/05/2009
+    48 USC Secs. 1236b to 1237c                                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13570,7 +13573,7 @@
 
 
 -CITE-
-    48 USC Sec. 1238                                            01/05/2009
+    48 USC Sec. 1238                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13592,7 +13595,7 @@
 
 
 -CITE-
-    48 USC Secs. 1238a, 1239                                    01/05/2009
+    48 USC Secs. 1238a, 1239                                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13617,7 +13620,7 @@
 
 
 -CITE-
-    48 USC Sec. 1240                                            01/05/2009
+    48 USC Sec. 1240                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13639,7 +13642,7 @@
 
 
 -CITE-
-    48 USC Secs. 1241 to 1243                                   01/05/2009
+    48 USC Secs. 1241 to 1243                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13670,7 +13673,7 @@
 
 
 -CITE-
-    48 USC Sec. 1244                                            01/05/2009
+    48 USC Sec. 1244                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13692,7 +13695,7 @@
 
 
 -CITE-
-    48 USC Sec. 1245                                            01/05/2009
+    48 USC Sec. 1245                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13713,7 +13716,7 @@
 
 
 -CITE-
-    48 USC Sec. 1246                                            01/05/2009
+    48 USC Sec. 1246                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13734,7 +13737,7 @@
 
 
 -CITE-
-    48 USC Sec. 1247                                            01/05/2009
+    48 USC Sec. 1247                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13754,7 +13757,7 @@
 
 
 -CITE-
-    48 USC Sec. 1247a                                           01/05/2009
+    48 USC Sec. 1247a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13775,7 +13778,7 @@
 
 
 -CITE-
-    48 USC Secs. 1248, 1249                                     01/05/2009
+    48 USC Secs. 1248, 1249                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13800,7 +13803,7 @@
 
 
 -CITE-
-    48 USC Secs. 1251 to 1257                                   01/05/2009
+    48 USC Secs. 1251 to 1257                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13846,7 +13849,7 @@
 
 
 -CITE-
-    48 USC Secs. 1261 to 1264                                   01/05/2009
+    48 USC Secs. 1261 to 1264                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13914,7 +13917,7 @@
 
 
 -CITE-
-    48 USC Secs. 1266 to 1270b                                  01/05/2009
+    48 USC Secs. 1266 to 1270b                                  02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -13976,7 +13979,7 @@
 
 
 -CITE-
-    48 USC Secs. 1272 to 1272g                                  01/05/2009
+    48 USC Secs. 1272 to 1272g                                  02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14021,7 +14024,7 @@
 
 
 -CITE-
-    48 USC Secs. 1274 to 1274i                                  01/05/2009
+    48 USC Secs. 1274 to 1274i                                  02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14072,7 +14075,7 @@
 
 
 -CITE-
-    48 USC Secs. 1276 to 1276e                                  01/05/2009
+    48 USC Secs. 1276 to 1276e                                  02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14108,7 +14111,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 6 - CANAL ZONE                               01/05/2009
+    48 USC CHAPTER 6 - CANAL ZONE                               02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14142,7 +14145,7 @@
 
 
 -CITE-
-    48 USC Secs. 1301 to 1304                                   01/05/2009
+    48 USC Secs. 1301 to 1304                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14175,7 +14178,7 @@
 
 
 -CITE-
-    48 USC Secs. 1304a to 1304c                                 01/05/2009
+    48 USC Secs. 1304a to 1304c                                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14200,7 +14203,7 @@
 
 
 -CITE-
-    48 USC Secs. 1305 to 1314                                   01/05/2009
+    48 USC Secs. 1305 to 1314                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14280,7 +14283,7 @@
 
 
 -CITE-
-    48 USC Sec. 1314a                                           01/05/2009
+    48 USC Sec. 1314a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14300,7 +14303,7 @@
 
 
 -CITE-
-    48 USC Secs. 1314b to 1314e                                 01/05/2009
+    48 USC Secs. 1314b to 1314e                                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14327,7 +14330,7 @@
 
 
 -CITE-
-    48 USC Secs. 1314f to 1315a                                 01/05/2009
+    48 USC Secs. 1314f to 1315a                                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14364,7 +14367,7 @@
 
 
 -CITE-
-    48 USC Sec. 1316                                            01/05/2009
+    48 USC Sec. 1316                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14384,7 +14387,7 @@
 
 
 -CITE-
-    48 USC Secs. 1317 to 1319                                   01/05/2009
+    48 USC Secs. 1317 to 1319                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14418,7 +14421,7 @@
 
 
 -CITE-
-    48 USC Sec. 1320                                            01/05/2009
+    48 USC Sec. 1320                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14438,7 +14441,7 @@
 
 
 -CITE-
-    48 USC Secs. 1321, 1322                                     01/05/2009
+    48 USC Secs. 1321, 1322                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14465,7 +14468,7 @@
 
 
 -CITE-
-    48 USC Secs. 1323 to 1323-3                                 01/05/2009
+    48 USC Secs. 1323 to 1323-3                                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14495,7 +14498,7 @@
 
 
 -CITE-
-    48 USC Sec. 1323a                                           01/05/2009
+    48 USC Sec. 1323a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14519,7 +14522,7 @@
 
 
 -CITE-
-    48 USC Sec. 1323b                                           01/05/2009
+    48 USC Sec. 1323b                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14539,7 +14542,7 @@
 
 
 -CITE-
-    48 USC Sec. 1323c                                           01/05/2009
+    48 USC Sec. 1323c                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14564,7 +14567,7 @@
 
 
 -CITE-
-    48 USC Secs. 1323d to 1323h                                 01/05/2009
+    48 USC Secs. 1323d to 1323h                                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14595,7 +14598,7 @@
 
 
 -CITE-
-    48 USC Sec. 1323i                                           01/05/2009
+    48 USC Sec. 1323i                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14620,7 +14623,7 @@
 
 
 -CITE-
-    48 USC Sec. 1323j                                           01/05/2009
+    48 USC Sec. 1323j                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14640,7 +14643,7 @@
 
 
 -CITE-
-    48 USC Sec. 1323k                                           01/05/2009
+    48 USC Sec. 1323k                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14662,7 +14665,7 @@
 
 
 -CITE-
-    48 USC Secs. 1324, 1325                                     01/05/2009
+    48 USC Secs. 1324, 1325                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14685,7 +14688,7 @@
 
 
 -CITE-
-    48 USC Secs. 1325a to 1327                                  01/05/2009
+    48 USC Secs. 1325a to 1327                                  02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14723,7 +14726,7 @@
 
 
 -CITE-
-    48 USC Secs. 1328, 1329                                     01/05/2009
+    48 USC Secs. 1328, 1329                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14747,7 +14750,7 @@
 
 
 -CITE-
-    48 USC Secs. 1330 to 1336h                                  01/05/2009
+    48 USC Secs. 1330 to 1336h                                  02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14839,7 +14842,7 @@
 
 
 -CITE-
-    48 USC Sec. 1336i                                           01/05/2009
+    48 USC Sec. 1336i                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14859,7 +14862,7 @@
 
 
 -CITE-
-    48 USC Secs. 1336j, 1336k                                   01/05/2009
+    48 USC Secs. 1336j, 1336k                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14885,7 +14888,7 @@
 
 
 -CITE-
-    48 USC Sec. 1337                                            01/05/2009
+    48 USC Sec. 1337                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14906,7 +14909,7 @@
 
 
 -CITE-
-    48 USC Secs. 1337a to 1337c                                 01/05/2009
+    48 USC Secs. 1337a to 1337c                                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14939,7 +14942,7 @@
 
 
 -CITE-
-    48 USC Secs. 1341 to 1344                                   01/05/2009
+    48 USC Secs. 1341 to 1344                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14974,7 +14977,7 @@
 
 
 -CITE-
-    48 USC Sec. 1344-1                                          01/05/2009
+    48 USC Sec. 1344-1                                          02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -14994,7 +14997,7 @@
 
 
 -CITE-
-    48 USC Secs. 1344a to 1355                                  01/05/2009
+    48 USC Secs. 1344a to 1355                                  02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15065,7 +15068,7 @@
 
 
 -CITE-
-    48 USC Sec. 1356                                            01/05/2009
+    48 USC Sec. 1356                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15092,7 +15095,7 @@
 
 
 -CITE-
-    48 USC Secs. 1357, 1358                                     01/05/2009
+    48 USC Secs. 1357, 1358                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15117,7 +15120,7 @@
 
 
 -CITE-
-    48 USC Sec. 1361                                            01/05/2009
+    48 USC Sec. 1361                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15137,7 +15140,7 @@
 
 
 -CITE-
-    48 USC Secs. 1361a to 1361l                                 01/05/2009
+    48 USC Secs. 1361a to 1361l                                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15185,7 +15188,7 @@
 
 
 -CITE-
-    48 USC Secs. 1371 to 1371b                                  01/05/2009
+    48 USC Secs. 1371 to 1371b                                  02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15219,7 +15222,7 @@
 
 
 -CITE-
-    48 USC Sec. 1371b-1                                         01/05/2009
+    48 USC Sec. 1371b-1                                         02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15239,7 +15242,7 @@
 
 
 -CITE-
-    48 USC Secs. 1371c to 1371p                                 01/05/2009
+    48 USC Secs. 1371c to 1371p                                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15308,7 +15311,7 @@
 
 
 -CITE-
-    48 USC Sec. 1372                                            01/05/2009
+    48 USC Sec. 1372                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15329,7 +15332,7 @@
 
 
 -CITE-
-    48 USC Secs. 1373 to 1374d                                  01/05/2009
+    48 USC Secs. 1373 to 1374d                                  02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15389,7 +15392,7 @@
 
 
 -CITE-
-    48 USC Secs. 1381, 1382                                     01/05/2009
+    48 USC Secs. 1381, 1382                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15414,7 +15417,7 @@
 
 
 -CITE-
-    48 USC Sec. 1383                                            01/05/2009
+    48 USC Sec. 1383                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15435,7 +15438,7 @@
 
 
 -CITE-
-    48 USC Secs. 1384 to 1387                                   01/05/2009
+    48 USC Secs. 1384 to 1387                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15466,7 +15469,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 7 - VIRGIN ISLANDS                           01/05/2009
+    48 USC CHAPTER 7 - VIRGIN ISLANDS                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15540,7 +15543,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/05/2009
+    48 USC SUBCHAPTER I - GENERAL PROVISIONS                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15663,7 +15666,7 @@
 
 
 -CITE-
-    48 USC Sec. 1391                                            01/05/2009
+    48 USC Sec. 1391                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15685,7 +15688,7 @@
 
 
 -CITE-
-    48 USC Sec. 1392                                            01/05/2009
+    48 USC Sec. 1392                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15746,7 +15749,7 @@
 
 
 -CITE-
-    48 USC Sec. 1392a                                           01/05/2009
+    48 USC Sec. 1392a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15773,7 +15776,7 @@
 
 
 -CITE-
-    48 USC Sec. 1392b                                           01/05/2009
+    48 USC Sec. 1392b                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15796,7 +15799,7 @@
 
 
 -CITE-
-    48 USC Sec. 1393                                            01/05/2009
+    48 USC Sec. 1393                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15820,7 +15823,7 @@
 
 
 -CITE-
-    48 USC Sec. 1394                                            01/05/2009
+    48 USC Sec. 1394                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15866,7 +15869,7 @@
 
 
 -CITE-
-    48 USC Sec. 1395                                            01/05/2009
+    48 USC Sec. 1395                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15937,7 +15940,7 @@
 
 
 -CITE-
-    48 USC Sec. 1396                                            01/05/2009
+    48 USC Sec. 1396                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -15962,7 +15965,7 @@
 
 
 -CITE-
-    48 USC Sec. 1397                                            01/05/2009
+    48 USC Sec. 1397                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16022,7 +16025,7 @@
 
 
 -CITE-
-    48 USC Sec. 1398                                            01/05/2009
+    48 USC Sec. 1398                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16044,7 +16047,7 @@
 
 
 -CITE-
-    48 USC Sec. 1399                                            01/05/2009
+    48 USC Sec. 1399                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16068,7 +16071,7 @@
 
 
 -CITE-
-    48 USC Sec. 1400                                            01/05/2009
+    48 USC Sec. 1400                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16094,7 +16097,7 @@
 
 
 -CITE-
-    48 USC Secs. 1401 to 1401e                                  01/05/2009
+    48 USC Secs. 1401 to 1401e                                  02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16143,7 +16146,7 @@
 
 
 -CITE-
-    48 USC Sec. 1401f                                           01/05/2009
+    48 USC Sec. 1401f                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16216,7 +16219,7 @@
 
 
 -CITE-
-    48 USC Sec. 1402                                            01/05/2009
+    48 USC Sec. 1402                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16266,7 +16269,7 @@
 
 
 -CITE-
-    48 USC Sec. 1403                                            01/05/2009
+    48 USC Sec. 1403                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16346,7 +16349,7 @@
 
 
 -CITE-
-    48 USC Sec. 1403a                                           01/05/2009
+    48 USC Sec. 1403a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16371,7 +16374,7 @@
 
 
 -CITE-
-    48 USC Sec. 1403b                                           01/05/2009
+    48 USC Sec. 1403b                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16393,7 +16396,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER II - CIVIL GOVERNMENT                     01/05/2009
+    48 USC SUBCHAPTER II - CIVIL GOVERNMENT                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16408,7 +16411,7 @@
 
 
 -CITE-
-    48 USC Sec. 1405                                            01/05/2009
+    48 USC Sec. 1405                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16436,7 +16439,7 @@
 
 
 -CITE-
-    48 USC Secs. 1405a, 1405b                                   01/05/2009
+    48 USC Secs. 1405a, 1405b                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16462,7 +16465,7 @@
 
 
 -CITE-
-    48 USC Sec. 1405c                                           01/05/2009
+    48 USC Sec. 1405c                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16574,7 +16577,7 @@
 
 
 -CITE-
-    48 USC Secs. 1405d to 1405g                                 01/05/2009
+    48 USC Secs. 1405d to 1405g                                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16605,7 +16608,7 @@
 
 
 -CITE-
-    48 USC Secs. 1405h, 1405i                                   01/05/2009
+    48 USC Secs. 1405h, 1405i                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16629,7 +16632,7 @@
 
 
 -CITE-
-    48 USC Secs. 1405j to 1405p                                 01/05/2009
+    48 USC Secs. 1405j to 1405p                                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16673,7 +16676,7 @@
 
 
 -CITE-
-    48 USC Sec. 1405q                                           01/05/2009
+    48 USC Sec. 1405q                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16723,7 +16726,7 @@
 
 
 -CITE-
-    48 USC Sec. 1405r                                           01/05/2009
+    48 USC Sec. 1405r                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16745,7 +16748,7 @@
 
 
 -CITE-
-    48 USC Secs. 1405s to 1405t                                 01/05/2009
+    48 USC Secs. 1405s to 1405t                                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16776,7 +16779,7 @@
 
 
 -CITE-
-    48 USC Secs. 1405u to 1405w                                 01/05/2009
+    48 USC Secs. 1405u to 1405w                                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16806,7 +16809,7 @@
 
 
 -CITE-
-    48 USC Sec. 1405w-1                                         01/05/2009
+    48 USC Sec. 1405w-1                                         02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16829,7 +16832,7 @@
 
 
 -CITE-
-    48 USC Sec. 1405x                                           01/05/2009
+    48 USC Sec. 1405x                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16852,7 +16855,7 @@
 
 
 -CITE-
-    48 USC Sec. 1405y                                           01/05/2009
+    48 USC Sec. 1405y                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16876,7 +16879,7 @@
 
 
 -CITE-
-    48 USC Secs. 1405z to 1406e                                 01/05/2009
+    48 USC Secs. 1405z to 1406e                                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16911,7 +16914,7 @@
 
 
 -CITE-
-    48 USC Sec. 1406f                                           01/05/2009
+    48 USC Sec. 1406f                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16936,7 +16939,7 @@
 
 
 -CITE-
-    48 USC Sec. 1406g                                           01/05/2009
+    48 USC Sec. 1406g                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -16957,7 +16960,7 @@
 
 
 -CITE-
-    48 USC Sec. 1406h                                           01/05/2009
+    48 USC Sec. 1406h                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17000,7 +17003,7 @@
 
 
 -CITE-
-    48 USC Sec. 1406i                                           01/05/2009
+    48 USC Sec. 1406i                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17054,7 +17057,7 @@
 
 
 -CITE-
-    48 USC Sec. 1406j                                           01/05/2009
+    48 USC Sec. 1406j                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17075,7 +17078,7 @@
 
 
 -CITE-
-    48 USC Sec. 1406k                                           01/05/2009
+    48 USC Sec. 1406k                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17097,7 +17100,7 @@
 
 
 -CITE-
-    48 USC Sec. 1406l                                           01/05/2009
+    48 USC Sec. 1406l                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17125,7 +17128,7 @@
 
 
 -CITE-
-    48 USC Sec. 1406m                                           01/05/2009
+    48 USC Sec. 1406m                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17146,7 +17149,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER III - VIRGIN ISLANDS CORPORATION          01/05/2009
+    48 USC SUBCHAPTER III - VIRGIN ISLANDS CORPORATION          02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17161,7 +17164,7 @@
 
 
 -CITE-
-    48 USC Secs. 1407 to 1407i                                  01/05/2009
+    48 USC Secs. 1407 to 1407i                                  02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17259,7 +17262,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER IV - PUBLIC HOUSING                       01/05/2009
+    48 USC SUBCHAPTER IV - PUBLIC HOUSING                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17274,7 +17277,7 @@
 
 
 -CITE-
-    48 USC Sec. 1408                                            01/05/2009
+    48 USC Sec. 1408                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17344,7 +17347,7 @@
 
 
 -CITE-
-    48 USC Sec. 1408a                                           01/05/2009
+    48 USC Sec. 1408a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17388,7 +17391,7 @@
 
 
 -CITE-
-    48 USC Sec. 1408b                                           01/05/2009
+    48 USC Sec. 1408b                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17424,7 +17427,7 @@
 
 
 -CITE-
-    48 USC Sec. 1408c                                           01/05/2009
+    48 USC Sec. 1408c                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17495,7 +17498,7 @@
 
 
 -CITE-
-    48 USC Sec. 1408d                                           01/05/2009
+    48 USC Sec. 1408d                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17528,7 +17531,7 @@
 
 
 -CITE-
-    48 USC Sec. 1408e                                           01/05/2009
+    48 USC Sec. 1408e                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17560,7 +17563,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER V - INTERNAL DEVELOPMENT                  01/05/2009
+    48 USC SUBCHAPTER V - INTERNAL DEVELOPMENT                  02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17575,7 +17578,7 @@
 
 
 -CITE-
-    48 USC Secs. 1409 to 1409j                                  01/05/2009
+    48 USC Secs. 1409 to 1409j                                  02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17652,7 +17655,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER VI - AGRICULTURAL PROGRAM                 01/05/2009
+    48 USC SUBCHAPTER VI - AGRICULTURAL PROGRAM                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17667,7 +17670,7 @@
 
 
 -CITE-
-    48 USC Secs. 1409m to 1409o                                 01/05/2009
+    48 USC Secs. 1409m to 1409o                                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17694,7 +17697,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 8 - GUANO ISLANDS                            01/05/2009
+    48 USC CHAPTER 8 - GUANO ISLANDS                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17721,7 +17724,7 @@
 
 
 -CITE-
-    48 USC Sec. 1411                                            01/05/2009
+    48 USC Sec. 1411                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17752,7 +17755,7 @@
 
 
 -CITE-
-    48 USC Sec. 1412                                            01/05/2009
+    48 USC Sec. 1412                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17787,7 +17790,7 @@
 
 
 -CITE-
-    48 USC Sec. 1413                                            01/05/2009
+    48 USC Sec. 1413                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17818,7 +17821,7 @@
 
 
 -CITE-
-    48 USC Sec. 1414                                            01/05/2009
+    48 USC Sec. 1414                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17851,7 +17854,7 @@
 
 
 -CITE-
-    48 USC Sec. 1415                                            01/05/2009
+    48 USC Sec. 1415                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17892,7 +17895,7 @@
 
 
 -CITE-
-    48 USC Sec. 1416                                            01/05/2009
+    48 USC Sec. 1416                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17920,7 +17923,7 @@
 
 
 -CITE-
-    48 USC Sec. 1417                                            01/05/2009
+    48 USC Sec. 1417                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17952,7 +17955,7 @@
 
 
 -CITE-
-    48 USC Sec. 1418                                            01/05/2009
+    48 USC Sec. 1418                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -17981,7 +17984,7 @@
 
 
 -CITE-
-    48 USC Sec. 1419                                            01/05/2009
+    48 USC Sec. 1419                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18007,7 +18010,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 8A - GUAM                                    01/05/2009
+    48 USC CHAPTER 8A - GUAM                                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18137,7 +18140,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/05/2009
+    48 USC SUBCHAPTER I - GENERAL PROVISIONS                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18152,7 +18155,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421                                            01/05/2009
+    48 USC Sec. 1421                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18260,7 +18263,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421a                                           01/05/2009
+    48 USC Sec. 1421a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18317,7 +18320,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421b                                           01/05/2009
+    48 USC Sec. 1421b                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18426,7 +18429,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421c                                           01/05/2009
+    48 USC Sec. 1421c                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18469,7 +18472,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421d                                           01/05/2009
+    48 USC Sec. 1421d                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18530,7 +18533,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421e                                           01/05/2009
+    48 USC Sec. 1421e                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18581,7 +18584,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421f                                           01/05/2009
+    48 USC Sec. 1421f                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18776,7 +18779,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421f-1                                         01/05/2009
+    48 USC Sec. 1421f-1                                         02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18823,7 +18826,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421g                                           01/05/2009
+    48 USC Sec. 1421g                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18897,7 +18900,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421h                                           01/05/2009
+    48 USC Sec. 1421h                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -18985,7 +18988,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421i                                           01/05/2009
+    48 USC Sec. 1421i                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19227,7 +19230,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421j                                           01/05/2009
+    48 USC Sec. 1421j                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19259,7 +19262,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421k                                           01/05/2009
+    48 USC Sec. 1421k                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19291,7 +19294,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421k-1                                         01/05/2009
+    48 USC Sec. 1421k-1                                         02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19314,7 +19317,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421l                                           01/05/2009
+    48 USC Sec. 1421l                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19337,7 +19340,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421m                                           01/05/2009
+    48 USC Sec. 1421m                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19376,7 +19379,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421n                                           01/05/2009
+    48 USC Sec. 1421n                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19409,7 +19412,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421o                                           01/05/2009
+    48 USC Sec. 1421o                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19447,7 +19450,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421p                                           01/05/2009
+    48 USC Sec. 1421p                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19477,7 +19480,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421q                                           01/05/2009
+    48 USC Sec. 1421q                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19542,7 +19545,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421q-1                                         01/05/2009
+    48 USC Sec. 1421q-1                                         02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19634,7 +19637,7 @@
 
 
 -CITE-
-    48 USC Sec. 1421r                                           01/05/2009
+    48 USC Sec. 1421r                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19733,7 +19736,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER II - THE EXECUTIVE BRANCH                 01/05/2009
+    48 USC SUBCHAPTER II - THE EXECUTIVE BRANCH                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19748,7 +19751,7 @@
 
 
 -CITE-
-    48 USC Sec. 1422                                            01/05/2009
+    48 USC Sec. 1422                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19899,7 +19902,7 @@
 
 
 -CITE-
-    48 USC Sec. 1422a                                           01/05/2009
+    48 USC Sec. 1422a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -19958,7 +19961,7 @@
 
 
 -CITE-
-    48 USC Sec. 1422b                                           01/05/2009
+    48 USC Sec. 1422b                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20045,7 +20048,7 @@
 
 
 -CITE-
-    48 USC Sec. 1422c                                           01/05/2009
+    48 USC Sec. 1422c                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20118,7 +20121,7 @@
 
 
 -CITE-
-    48 USC Sec. 1422d                                           01/05/2009
+    48 USC Sec. 1422d                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20188,7 +20191,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER III - THE LEGISLATURE                     01/05/2009
+    48 USC SUBCHAPTER III - THE LEGISLATURE                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20203,7 +20206,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423                                            01/05/2009
+    48 USC Sec. 1423                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20284,7 +20287,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423a                                           01/05/2009
+    48 USC Sec. 1423a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20449,7 +20452,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423b                                           01/05/2009
+    48 USC Sec. 1423b                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20495,7 +20498,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423c                                           01/05/2009
+    48 USC Sec. 1423c                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20522,7 +20525,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423d                                           01/05/2009
+    48 USC Sec. 1423d                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20550,7 +20553,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423e                                           01/05/2009
+    48 USC Sec. 1423e                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20575,7 +20578,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423f                                           01/05/2009
+    48 USC Sec. 1423f                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20602,7 +20605,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423g                                           01/05/2009
+    48 USC Sec. 1423g                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20626,7 +20629,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423h                                           01/05/2009
+    48 USC Sec. 1423h                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20669,7 +20672,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423i                                           01/05/2009
+    48 USC Sec. 1423i                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20742,7 +20745,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423j                                           01/05/2009
+    48 USC Sec. 1423j                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20775,7 +20778,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423k                                           01/05/2009
+    48 USC Sec. 1423k                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20799,7 +20802,7 @@
 
 
 -CITE-
-    48 USC Sec. 1423l                                           01/05/2009
+    48 USC Sec. 1423l                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20870,7 +20873,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER IV - THE JUDICIARY                        01/05/2009
+    48 USC SUBCHAPTER IV - THE JUDICIARY                        02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -20885,7 +20888,7 @@
 
 
 -CITE-
-    48 USC Sec. 1424                                            01/05/2009
+    48 USC Sec. 1424                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21023,7 +21026,7 @@
 
 
 -CITE-
-    48 USC Sec. 1424-1                                          01/05/2009
+    48 USC Sec. 1424-1                                          02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21120,7 +21123,7 @@
 
 
 -CITE-
-    48 USC Sec. 1424-2                                          01/05/2009
+    48 USC Sec. 1424-2                                          02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21179,7 +21182,7 @@
 
 
 -CITE-
-    48 USC Sec. 1424-3                                          01/05/2009
+    48 USC Sec. 1424-3                                          02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21273,7 +21276,7 @@
 
 
 -CITE-
-    48 USC Sec. 1424-4                                          01/05/2009
+    48 USC Sec. 1424-4                                          02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21320,7 +21323,7 @@
 
 
 -CITE-
-    48 USC Sec. 1424a                                           01/05/2009
+    48 USC Sec. 1424a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21350,7 +21353,7 @@
 
 
 -CITE-
-    48 USC Sec. 1424b                                           01/05/2009
+    48 USC Sec. 1424b                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21446,7 +21449,7 @@
 
 
 -CITE-
-    48 USC Sec. 1424c                                           01/05/2009
+    48 USC Sec. 1424c                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21544,7 +21547,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER V - PUBLIC HOUSING AND URBAN RENEWAL      01/05/2009
+    48 USC SUBCHAPTER V - PUBLIC HOUSING AND URBAN RENEWAL      02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21559,7 +21562,7 @@
 
 
 -CITE-
-    48 USC Sec. 1425                                            01/05/2009
+    48 USC Sec. 1425                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21581,7 +21584,7 @@
 
 
 -CITE-
-    48 USC Sec. 1425a                                           01/05/2009
+    48 USC Sec. 1425a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21621,7 +21624,7 @@
 
 
 -CITE-
-    48 USC Sec. 1425b                                           01/05/2009
+    48 USC Sec. 1425b                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21666,7 +21669,7 @@
 
 
 -CITE-
-    48 USC Sec. 1425c                                           01/05/2009
+    48 USC Sec. 1425c                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21696,7 +21699,7 @@
 
 
 -CITE-
-    48 USC Sec. 1425d                                           01/05/2009
+    48 USC Sec. 1425d                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21725,7 +21728,7 @@
 
 
 -CITE-
-    48 USC Sec. 1425e                                           01/05/2009
+    48 USC Sec. 1425e                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21753,7 +21756,7 @@
 
 
 -CITE-
-    48 USC Sec. 1426                                            01/05/2009
+    48 USC Sec. 1426                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21777,7 +21780,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER VI - GUAM DEVELOPMENT FUND                01/05/2009
+    48 USC SUBCHAPTER VI - GUAM DEVELOPMENT FUND                02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21792,7 +21795,7 @@
 
 
 -CITE-
-    48 USC Sec. 1428                                            01/05/2009
+    48 USC Sec. 1428                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21833,7 +21836,7 @@
 
 
 -CITE-
-    48 USC Sec. 1428a                                           01/05/2009
+    48 USC Sec. 1428a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21883,7 +21886,7 @@
 
 
 -CITE-
-    48 USC Sec. 1428b                                           01/05/2009
+    48 USC Sec. 1428b                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21924,7 +21927,7 @@
 
 
 -CITE-
-    48 USC Sec. 1428c                                           01/05/2009
+    48 USC Sec. 1428c                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21953,7 +21956,7 @@
 
 
 -CITE-
-    48 USC Sec. 1428d                                           01/05/2009
+    48 USC Sec. 1428d                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -21994,7 +21997,7 @@
 
 
 -CITE-
-    48 USC Sec. 1428e                                           01/05/2009
+    48 USC Sec. 1428e                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22026,7 +22029,7 @@
 
 -CITE-
     48 USC CHAPTER 9 - SAMOA, TUTUILA, MANUA, SWAINS ISLAND,
-           AND TRUST TERRITORY OF THE PACIFIC ISLANDS      01/05/2009
+           AND TRUST TERRITORY OF THE PACIFIC ISLANDS      02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22042,7 +22045,7 @@
 
 
 -CITE-
-    48 USC Secs. 1431 to 1440                                   01/05/2009
+    48 USC Secs. 1431 to 1440                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22103,7 +22106,7 @@
 
 -CITE-
     48 USC CHAPTER 10 - TERRITORIAL PROVISIONS OF A GENERAL
-           NATURE                                          01/05/2009
+           NATURE                                          02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22234,7 +22237,7 @@
 
 
 -CITE-
-    48 USC Sec. 1451                                            01/05/2009
+    48 USC Sec. 1451                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22296,7 +22299,7 @@
 
 
 -CITE-
-    48 USC Sec. 1452                                            01/05/2009
+    48 USC Sec. 1452                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22353,7 +22356,7 @@
 
 
 -CITE-
-    48 USC Secs. 1453 to 1455                                   01/05/2009
+    48 USC Secs. 1453 to 1455                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22386,7 +22389,7 @@
 
 
 -CITE-
-    48 USC Sec. 1456                                            01/05/2009
+    48 USC Sec. 1456                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22408,7 +22411,7 @@
 
 
 -CITE-
-    48 USC Secs. 1457 to 1469-1                                 01/05/2009
+    48 USC Secs. 1457 to 1469-1                                 02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22490,7 +22493,7 @@
 
 
 -CITE-
-    48 USC Sec. 1469a                                           01/05/2009
+    48 USC Sec. 1469a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22605,7 +22608,7 @@
 
 
 -CITE-
-    48 USC Sec. 1469a-1                                         01/05/2009
+    48 USC Sec. 1469a-1                                         02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22696,7 +22699,7 @@
 
 
 -CITE-
-    48 USC Sec. 1469b                                           01/05/2009
+    48 USC Sec. 1469b                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22715,7 +22718,7 @@
     31.
 
 -SOURCE-
-    (Pub. L. 110-161, div. F, title I, Dec. 26, 2007, 121 Stat. 2114.)
+    (Pub. L. 111-88, div. A, title I, Oct. 30, 2009, 123 Stat. 2920.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -22732,6 +22735,8 @@
                              PRIOR PROVISIONS                         
       Provisions similar to those in this section were contained in the
     following prior appropriations acts:
+      Pub. L. 111-8, div. E, title I, Mar. 11, 2009, 123 Stat. 717.
+      Pub. L. 110-161, div. F, title I, Dec. 26, 2007, 121 Stat. 2114.
       Pub. L. 109-54, title I, Aug. 2, 2005, 119 Stat. 517.
       Pub. L. 108-447, div. E, title I, Dec. 8, 2004, 118 Stat. 3059.
       Pub. L. 108-108, title I, Nov. 10, 2003, 117 Stat. 1260; Pub. L.
@@ -22777,7 +22782,7 @@
 
 
 -CITE-
-    48 USC Sec. 1469c                                           01/05/2009
+    48 USC Sec. 1469c                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22813,7 +22818,7 @@
 
 
 -CITE-
-    48 USC Sec. 1469d                                           01/05/2009
+    48 USC Sec. 1469d                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22912,7 +22917,7 @@
 
 
 -CITE-
-    48 USC Sec. 1469e                                           01/05/2009
+    48 USC Sec. 1469e                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22950,7 +22955,7 @@
 
 
 -CITE-
-    48 USC Sec. 1470                                            01/05/2009
+    48 USC Sec. 1470                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -22971,7 +22976,7 @@
 
 
 -CITE-
-    48 USC Sec. 1470a                                           01/05/2009
+    48 USC Sec. 1470a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23025,7 +23030,7 @@
 
 
 -CITE-
-    48 USC Secs. 1471 to 1479                                   01/05/2009
+    48 USC Secs. 1471 to 1479                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23075,7 +23080,7 @@
 
 
 -CITE-
-    48 USC Secs. 1480 to 1480b                                  01/05/2009
+    48 USC Secs. 1480 to 1480b                                  02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23109,7 +23114,7 @@
 
 
 -CITE-
-    48 USC Secs. 1481 to 1485                                   01/05/2009
+    48 USC Secs. 1481 to 1485                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23142,7 +23147,7 @@
 
 
 -CITE-
-    48 USC Sec. 1486                                            01/05/2009
+    48 USC Sec. 1486                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23172,7 +23177,7 @@
 
 
 -CITE-
-    48 USC Secs. 1487, 1488                                     01/05/2009
+    48 USC Secs. 1487, 1488                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23197,7 +23202,7 @@
 
 
 -CITE-
-    48 USC Sec. 1489                                            01/05/2009
+    48 USC Sec. 1489                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23232,7 +23237,7 @@
 
 
 -CITE-
-    48 USC Sec. 1490                                            01/05/2009
+    48 USC Sec. 1490                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23258,7 +23263,7 @@
 
 
 -CITE-
-    48 USC Sec. 1491                                            01/05/2009
+    48 USC Sec. 1491                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23303,7 +23308,7 @@
 
 
 -CITE-
-    48 USC Sec. 1492                                            01/05/2009
+    48 USC Sec. 1492                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23614,7 +23619,7 @@
 
 
 -CITE-
-    48 USC Sec. 1493                                            01/05/2009
+    48 USC Sec. 1493                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23659,7 +23664,7 @@
 
 
 -CITE-
-    48 USC Sec. 1494                                            01/05/2009
+    48 USC Sec. 1494                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23716,7 +23721,7 @@
 
 
 -CITE-
-    48 USC Sec. 1494a                                           01/05/2009
+    48 USC Sec. 1494a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -23777,7 +23782,7 @@
 
 
 -CITE-
-    48 USC Sec. 1494b                                           01/05/2009
+    48 USC Sec. 1494b                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24103,7 +24108,7 @@
 
 
 -CITE-
-    48 USC Sec. 1494c                                           01/05/2009
+    48 USC Sec. 1494c                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24128,7 +24133,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 11 - ALIEN OWNERS OF LAND                    01/05/2009
+    48 USC CHAPTER 11 - ALIEN OWNERS OF LAND                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24157,7 +24162,7 @@
 
 
 -CITE-
-    48 USC Sec. 1501                                            01/05/2009
+    48 USC Sec. 1501                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24192,7 +24197,7 @@
 
 
 -CITE-
-    48 USC Sec. 1502                                            01/05/2009
+    48 USC Sec. 1502                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24236,7 +24241,7 @@
 
 
 -CITE-
-    48 USC Sec. 1503                                            01/05/2009
+    48 USC Sec. 1503                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24274,7 +24279,7 @@
 
 
 -CITE-
-    48 USC Sec. 1504                                            01/05/2009
+    48 USC Sec. 1504                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24309,7 +24314,7 @@
 
 
 -CITE-
-    48 USC Sec. 1505                                            01/05/2009
+    48 USC Sec. 1505                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24354,7 +24359,7 @@
 
 
 -CITE-
-    48 USC Sec. 1506                                            01/05/2009
+    48 USC Sec. 1506                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24400,7 +24405,7 @@
 
 
 -CITE-
-    48 USC Sec. 1507                                            01/05/2009
+    48 USC Sec. 1507                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24434,7 +24439,7 @@
 
 
 -CITE-
-    48 USC Sec. 1508                                            01/05/2009
+    48 USC Sec. 1508                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24471,7 +24476,7 @@
 
 
 -CITE-
-    48 USC Secs. 1509 to 1512                                   01/05/2009
+    48 USC Secs. 1509 to 1512                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24514,7 +24519,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 12 - VIRGIN ISLANDS                          01/05/2009
+    48 USC CHAPTER 12 - VIRGIN ISLANDS                          02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24690,7 +24695,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/05/2009
+    48 USC SUBCHAPTER I - GENERAL PROVISIONS                    02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24705,7 +24710,7 @@
 
 
 -CITE-
-    48 USC Sec. 1541                                            01/05/2009
+    48 USC Sec. 1541                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24835,7 +24840,7 @@
 
 
 -CITE-
-    48 USC Sec. 1542                                            01/05/2009
+    48 USC Sec. 1542                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24874,7 +24879,7 @@
 
 
 -CITE-
-    48 USC Sec. 1543                                            01/05/2009
+    48 USC Sec. 1543                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24911,7 +24916,7 @@
 
 
 -CITE-
-    48 USC Sec. 1544                                            01/05/2009
+    48 USC Sec. 1544                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -24943,7 +24948,7 @@
 
 
 -CITE-
-    48 USC Sec. 1545                                            01/05/2009
+    48 USC Sec. 1545                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25014,7 +25019,7 @@
 
 
 -CITE-
-    48 USC Sec. 1546                                            01/05/2009
+    48 USC Sec. 1546                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25036,7 +25041,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER II - BILL OF RIGHTS                       01/05/2009
+    48 USC SUBCHAPTER II - BILL OF RIGHTS                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25051,7 +25056,7 @@
 
 
 -CITE-
-    48 USC Sec. 1561                                            01/05/2009
+    48 USC Sec. 1561                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25212,7 +25217,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER III - LEGISLATIVE BRANCH                  01/05/2009
+    48 USC SUBCHAPTER III - LEGISLATIVE BRANCH                  02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25227,7 +25232,7 @@
 
 
 -CITE-
-    48 USC Sec. 1571                                            01/05/2009
+    48 USC Sec. 1571                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25296,7 +25301,7 @@
 
 
 -CITE-
-    48 USC Sec. 1572                                            01/05/2009
+    48 USC Sec. 1572                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25445,7 +25450,7 @@
 
 
 -CITE-
-    48 USC Sec. 1573                                            01/05/2009
+    48 USC Sec. 1573                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25508,7 +25513,7 @@
 
 
 -CITE-
-    48 USC Sec. 1574                                            01/05/2009
+    48 USC Sec. 1574                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25821,7 +25826,7 @@
 
 
 -CITE-
-    48 USC Sec. 1574-1                                          01/05/2009
+    48 USC Sec. 1574-1                                          02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -25909,7 +25914,7 @@
 
 
 -CITE-
-    48 USC Sec. 1574a                                           01/05/2009
+    48 USC Sec. 1574a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26000,7 +26005,7 @@
 
 
 -CITE-
-    48 USC Sec. 1574b                                           01/05/2009
+    48 USC Sec. 1574b                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26198,7 +26203,7 @@
 
 
 -CITE-
-    48 USC Sec. 1574c                                           01/05/2009
+    48 USC Sec. 1574c                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26256,7 +26261,7 @@
 
 
 -CITE-
-    48 USC Sec. 1574d                                           01/05/2009
+    48 USC Sec. 1574d                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26278,7 +26283,7 @@
 
 
 -CITE-
-    48 USC Sec. 1575                                            01/05/2009
+    48 USC Sec. 1575                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26417,7 +26422,7 @@
 
 
 -CITE-
-    48 USC Sec. 1576                                            01/05/2009
+    48 USC Sec. 1576                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26450,7 +26455,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER IV - EXECUTIVE BRANCH                     01/05/2009
+    48 USC SUBCHAPTER IV - EXECUTIVE BRANCH                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26465,7 +26470,7 @@
 
 
 -CITE-
-    48 USC Sec. 1591                                            01/05/2009
+    48 USC Sec. 1591                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26638,7 +26643,7 @@
 
 
 -CITE-
-    48 USC Sec. 1592                                            01/05/2009
+    48 USC Sec. 1592                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26670,7 +26675,7 @@
 
 
 -CITE-
-    48 USC Sec. 1593                                            01/05/2009
+    48 USC Sec. 1593                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26815,7 +26820,7 @@
 
 
 -CITE-
-    48 USC Sec. 1594                                            01/05/2009
+    48 USC Sec. 1594                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26843,7 +26848,7 @@
 
 
 -CITE-
-    48 USC Sec. 1595                                            01/05/2009
+    48 USC Sec. 1595                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26933,7 +26938,7 @@
 
 
 -CITE-
-    48 USC Sec. 1596                                            01/05/2009
+    48 USC Sec. 1596                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -26956,7 +26961,7 @@
 
 
 -CITE-
-    48 USC Sec. 1597                                            01/05/2009
+    48 USC Sec. 1597                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27049,7 +27054,7 @@
 
 
 -CITE-
-    48 USC Sec. 1598                                            01/05/2009
+    48 USC Sec. 1598                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27073,7 +27078,7 @@
 
 
 -CITE-
-    48 USC Sec. 1599                                            01/05/2009
+    48 USC Sec. 1599                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27147,7 +27152,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER V - JUDICIAL BRANCH                       01/05/2009
+    48 USC SUBCHAPTER V - JUDICIAL BRANCH                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27162,7 +27167,7 @@
 
 
 -CITE-
-    48 USC Sec. 1611                                            01/05/2009
+    48 USC Sec. 1611                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27219,7 +27224,7 @@
 
 
 -CITE-
-    48 USC Sec. 1612                                            01/05/2009
+    48 USC Sec. 1612                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27346,7 +27351,7 @@
 
 
 -CITE-
-    48 USC Sec. 1613                                            01/05/2009
+    48 USC Sec. 1613                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27423,7 +27428,7 @@
 
 
 -CITE-
-    48 USC Sec. 1613a                                           01/05/2009
+    48 USC Sec. 1613a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27528,7 +27533,7 @@
 
 
 -CITE-
-    48 USC Sec. 1614                                            01/05/2009
+    48 USC Sec. 1614                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27678,7 +27683,7 @@
 
 
 -CITE-
-    48 USC Sec. 1615                                            01/05/2009
+    48 USC Sec. 1615                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27734,7 +27739,7 @@
 
 
 -CITE-
-    48 USC Sec. 1616                                            01/05/2009
+    48 USC Sec. 1616                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27769,7 +27774,7 @@
 
 
 -CITE-
-    48 USC Sec. 1617                                            01/05/2009
+    48 USC Sec. 1617                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27835,7 +27840,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER VI - SYSTEM OF ACCOUNTS                   01/05/2009
+    48 USC SUBCHAPTER VI - SYSTEM OF ACCOUNTS                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27850,7 +27855,7 @@
 
 
 -CITE-
-    48 USC Sec. 1631                                            01/05/2009
+    48 USC Sec. 1631                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27921,7 +27926,7 @@
 
 
 -CITE-
-    48 USC Sec. 1632                                            01/05/2009
+    48 USC Sec. 1632                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27949,7 +27954,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER VII - FISCAL PROVISIONS                   01/05/2009
+    48 USC SUBCHAPTER VII - FISCAL PROVISIONS                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -27964,7 +27969,7 @@
 
 
 -CITE-
-    48 USC Sec. 1641                                            01/05/2009
+    48 USC Sec. 1641                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28079,7 +28084,7 @@
 
 
 -CITE-
-    48 USC Sec. 1642                                            01/05/2009
+    48 USC Sec. 1642                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28168,7 +28173,7 @@
 
 
 -CITE-
-    48 USC Sec. 1642a                                           01/05/2009
+    48 USC Sec. 1642a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28209,7 +28214,7 @@
 
 
 -CITE-
-    48 USC Sec. 1643                                            01/05/2009
+    48 USC Sec. 1643                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28255,7 +28260,7 @@
 
 
 -CITE-
-    48 USC Sec. 1644                                            01/05/2009
+    48 USC Sec. 1644                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28318,7 +28323,7 @@
 
 
 -CITE-
-    48 USC Sec. 1645                                            01/05/2009
+    48 USC Sec. 1645                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28378,7 +28383,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 13 - EASTERN SAMOA                           01/05/2009
+    48 USC CHAPTER 13 - EASTERN SAMOA                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28412,7 +28417,7 @@
 
 
 -CITE-
-    48 USC Sec. 1661                                            01/05/2009
+    48 USC Sec. 1661                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28489,7 +28494,7 @@
 
 
 -CITE-
-    48 USC Sec. 1662                                            01/05/2009
+    48 USC Sec. 1662                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28567,7 +28572,7 @@
 
 
 -CITE-
-    48 USC Sec. 1662a                                           01/05/2009
+    48 USC Sec. 1662a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28595,7 +28600,7 @@
 
 
 -CITE-
-    48 USC Sec. 1663                                            01/05/2009
+    48 USC Sec. 1663                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28639,7 +28644,7 @@
 
 
 -CITE-
-    48 USC Sec. 1664                                            01/05/2009
+    48 USC Sec. 1664                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28662,7 +28667,7 @@
 
 
 -CITE-
-    48 USC Sec. 1665                                            01/05/2009
+    48 USC Sec. 1665                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28733,7 +28738,7 @@
 
 
 -CITE-
-    48 USC Sec. 1666                                            01/05/2009
+    48 USC Sec. 1666                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28817,7 +28822,7 @@
 
 
 -CITE-
-    48 USC Sec. 1667                                            01/05/2009
+    48 USC Sec. 1667                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28843,7 +28848,7 @@
 
 
 -CITE-
-    48 USC Sec. 1668                                            01/05/2009
+    48 USC Sec. 1668                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28950,7 +28955,7 @@
 
 
 -CITE-
-    48 USC Sec. 1669                                            01/05/2009
+    48 USC Sec. 1669                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -28978,7 +28983,7 @@
 
 
 -CITE-
-    48 USC Sec. 1670                                            01/05/2009
+    48 USC Sec. 1670                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29053,7 +29058,7 @@
 
 -CITE-
     48 USC CHAPTER 14 - TRUST TERRITORY OF THE PACIFIC
-           ISLANDS                                         01/05/2009
+           ISLANDS                                         02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29123,7 +29128,7 @@
 
 
 -CITE-
-    48 USC Sec. 1681                                            01/05/2009
+    48 USC Sec. 1681                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29333,7 +29338,7 @@
 
 
 -CITE-
-    48 USC Sec. 1681a                                           01/05/2009
+    48 USC Sec. 1681a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29356,7 +29361,7 @@
 
 
 -CITE-
-    48 USC Sec. 1681b                                           01/05/2009
+    48 USC Sec. 1681b                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29447,7 +29452,7 @@
 
 
 -CITE-
-    48 USC Sec. 1681c                                           01/05/2009
+    48 USC Sec. 1681c                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29469,7 +29474,7 @@
 
 
 -CITE-
-    48 USC Sec. 1682                                            01/05/2009
+    48 USC Sec. 1682                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29540,7 +29545,7 @@
 
 
 -CITE-
-    48 USC Sec. 1683                                            01/05/2009
+    48 USC Sec. 1683                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29629,7 +29634,7 @@
 
 
 -CITE-
-    48 USC Sec. 1684                                            01/05/2009
+    48 USC Sec. 1684                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29667,7 +29672,7 @@
 
 
 -CITE-
-    48 USC Sec. 1685                                            01/05/2009
+    48 USC Sec. 1685                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29715,7 +29720,7 @@
 
 
 -CITE-
-    48 USC Secs. 1686, 1687                                     01/05/2009
+    48 USC Secs. 1686, 1687                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29777,7 +29782,7 @@
 
 
 -CITE-
-    48 USC Sec. 1688                                            01/05/2009
+    48 USC Sec. 1688                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29813,7 +29818,7 @@
 
 
 -CITE-
-    48 USC Sec. 1689                                            01/05/2009
+    48 USC Sec. 1689                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29841,7 +29846,7 @@
 
 
 -CITE-
-    48 USC Sec. 1690                                            01/05/2009
+    48 USC Sec. 1690                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29873,7 +29878,7 @@
 
 
 -CITE-
-    48 USC Sec. 1691                                            01/05/2009
+    48 USC Sec. 1691                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29897,7 +29902,7 @@
 
 
 -CITE-
-    48 USC Sec. 1692                                            01/05/2009
+    48 USC Sec. 1692                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -29990,7 +29995,7 @@
 
 
 -CITE-
-    48 USC Sec. 1693                                            01/05/2009
+    48 USC Sec. 1693                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30014,7 +30019,7 @@
 
 
 -CITE-
-    48 USC Secs. 1694 to 1694e                                  01/05/2009
+    48 USC Secs. 1694 to 1694e                                  02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30039,7 +30044,7 @@
 
 
 -CITE-
-    48 USC Sec. 1695                                            01/05/2009
+    48 USC Sec. 1695                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30085,7 +30090,7 @@
 
 -CITE-
     48 USC CHAPTER 15 - CONVEYANCE OF SUBMERGED LANDS TO
-           TERRITORIES                                     01/05/2009
+           TERRITORIES                                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30111,7 +30116,7 @@
 
 
 -CITE-
-    48 USC Secs. 1701 to 1703                                   01/05/2009
+    48 USC Secs. 1701 to 1703                                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30143,7 +30148,7 @@
 
 
 -CITE-
-    48 USC Sec. 1704                                            01/05/2009
+    48 USC Sec. 1704                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30201,7 +30206,7 @@
 
 
 -CITE-
-    48 USC Sec. 1705                                            01/05/2009
+    48 USC Sec. 1705                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30474,7 +30479,7 @@
 
 
 -CITE-
-    48 USC Sec. 1706                                            01/05/2009
+    48 USC Sec. 1706                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30533,7 +30538,7 @@
 
 
 -CITE-
-    48 USC Sec. 1707                                            01/05/2009
+    48 USC Sec. 1707                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30571,7 +30576,7 @@
 
 
 -CITE-
-    48 USC Sec. 1708                                            01/05/2009
+    48 USC Sec. 1708                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30615,7 +30620,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 16 - DELEGATES TO CONGRESS                   01/05/2009
+    48 USC CHAPTER 16 - DELEGATES TO CONGRESS                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30663,7 +30668,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER I - GUAM AND VIRGIN ISLANDS               01/05/2009
+    48 USC SUBCHAPTER I - GUAM AND VIRGIN ISLANDS               02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30678,7 +30683,7 @@
 
 
 -CITE-
-    48 USC Sec. 1711                                            01/05/2009
+    48 USC Sec. 1711                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30703,7 +30708,7 @@
 
 
 -CITE-
-    48 USC Sec. 1712                                            01/05/2009
+    48 USC Sec. 1712                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30751,7 +30756,7 @@
 
 
 -CITE-
-    48 USC Sec. 1713                                            01/05/2009
+    48 USC Sec. 1713                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30780,7 +30785,7 @@
 
 
 -CITE-
-    48 USC Sec. 1714                                            01/05/2009
+    48 USC Sec. 1714                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30808,7 +30813,7 @@
 
 
 -CITE-
-    48 USC Sec. 1715                                            01/05/2009
+    48 USC Sec. 1715                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30852,7 +30857,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER II - AMERICAN SAMOA                       01/05/2009
+    48 USC SUBCHAPTER II - AMERICAN SAMOA                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30867,7 +30872,7 @@
 
 
 -CITE-
-    48 USC Sec. 1731                                            01/05/2009
+    48 USC Sec. 1731                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30890,7 +30895,7 @@
 
 
 -CITE-
-    48 USC Sec. 1732                                            01/05/2009
+    48 USC Sec. 1732                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -30985,7 +30990,7 @@
 
 
 -CITE-
-    48 USC Sec. 1733                                            01/05/2009
+    48 USC Sec. 1733                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31020,7 +31025,7 @@
 
 
 -CITE-
-    48 USC Sec. 1734                                            01/05/2009
+    48 USC Sec. 1734                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31050,7 +31055,7 @@
 
 
 -CITE-
-    48 USC Sec. 1735                                            01/05/2009
+    48 USC Sec. 1735                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31088,7 +31093,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER III - NORTHERN MARIANA ISLANDS DELEGATE    01/05/2009 
+    48 USC SUBCHAPTER III - NORTHERN MARIANA ISLANDS DELEGATE    02/01/2010 
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31103,7 +31108,7 @@
 
 
 -CITE-
-    48 USC Sec. 1751                                            01/05/2009
+    48 USC Sec. 1751                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31149,7 +31154,7 @@
 
 
 -CITE-
-    48 USC Sec. 1752                                            01/05/2009
+    48 USC Sec. 1752                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31196,7 +31201,7 @@
 
 
 -CITE-
-    48 USC Sec. 1753                                            01/05/2009
+    48 USC Sec. 1753                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31227,7 +31232,7 @@
 
 
 -CITE-
-    48 USC Sec. 1754                                            01/05/2009
+    48 USC Sec. 1754                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31266,7 +31271,7 @@
 
 
 -CITE-
-    48 USC Sec. 1755                                            01/05/2009
+    48 USC Sec. 1755                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31293,7 +31298,7 @@
 
 
 -CITE-
-    48 USC Sec. 1756                                            01/05/2009
+    48 USC Sec. 1756                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31330,7 +31335,7 @@
 
 
 -CITE-
-    48 USC Sec. 1757                                            01/05/2009
+    48 USC Sec. 1757                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31360,7 +31365,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 17 - NORTHERN MARIANA ISLANDS                01/05/2009
+    48 USC CHAPTER 17 - NORTHERN MARIANA ISLANDS                02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31418,7 +31423,7 @@
 
 -CITE-
     48 USC SUBCHAPTER I - APPROVAL OF COVENANT AND
-           SUPPLEMENTAL PROVISIONS                         01/05/2009
+           SUPPLEMENTAL PROVISIONS                         02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -31433,7 +31438,7 @@
 
 
 -CITE-
-    48 USC Sec. 1801                                            01/05/2009
+    48 USC Sec. 1801                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -32641,7 +32646,7 @@
 
 
 -CITE-
-    48 USC Sec. 1802                                            01/05/2009
+    48 USC Sec. 1802                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -32683,7 +32688,7 @@
 
 
 -CITE-
-    48 USC Sec. 1803                                            01/05/2009
+    48 USC Sec. 1803                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -32752,7 +32757,7 @@
 
 
 -CITE-
-    48 USC Sec. 1804                                            01/05/2009
+    48 USC Sec. 1804                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -32962,7 +32967,7 @@
 
 
 -CITE-
-    48 USC Sec. 1805                                            01/05/2009
+    48 USC Sec. 1805                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33011,7 +33016,7 @@
 
 
 -CITE-
-    48 USC Sec. 1806                                            01/05/2009
+    48 USC Sec. 1806                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33486,7 +33491,7 @@
     in Guam and the Commonwealth."
       Pub. L. 110-229, title VII, Sec. 702(h)(4), May 8, 2008, 122
     Stat. 865, provided that:
-      "(4) Reports by the Local Government. - The Governor of the
+      "(4) Reports by the local government. - The Governor of the
     Commonwealth may submit an annual report to the President on the
     implementation of this subtitle [subtitle A (Secs. 701-705) of
     title VII of Pub. L. 110-229, see Effective Date note set out
@@ -33532,7 +33537,7 @@
 
 
 -CITE-
-    48 USC Sec. 1807                                            01/05/2009
+    48 USC Sec. 1807                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33608,7 +33613,7 @@
 
 
 -CITE-
-    48 USC Sec. 1808                                            01/05/2009
+    48 USC Sec. 1808                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33663,7 +33668,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER II - JUDICIAL MATTERS                     01/05/2009
+    48 USC SUBCHAPTER II - JUDICIAL MATTERS                     02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33678,7 +33683,7 @@
 
 
 -CITE-
-    48 USC Sec. 1821                                            01/05/2009
+    48 USC Sec. 1821                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33833,7 +33838,7 @@
 
 
 -CITE-
-    48 USC Sec. 1822                                            01/05/2009
+    48 USC Sec. 1822                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33893,7 +33898,7 @@
 
 
 -CITE-
-    48 USC Sec. 1823                                            01/05/2009
+    48 USC Sec. 1823                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -33991,7 +33996,7 @@
 
 
 -CITE-
-    48 USC Sec. 1824                                            01/05/2009
+    48 USC Sec. 1824                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -34067,7 +34072,7 @@
 
 
 -CITE-
-    48 USC Sec. 1825                                            01/05/2009
+    48 USC Sec. 1825                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -34103,7 +34108,7 @@
 
 
 -CITE-
-    48 USC Sec. 1826                                            01/05/2009
+    48 USC Sec. 1826                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -34134,7 +34139,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER III - MISCELLANEOUS                       01/05/2009
+    48 USC SUBCHAPTER III - MISCELLANEOUS                       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -34149,7 +34154,7 @@
 
 
 -CITE-
-    48 USC Sec. 1841                                            01/05/2009
+    48 USC Sec. 1841                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -34369,7 +34374,7 @@
 
 
 -CITE-
-    48 USC Sec. 1842                                            01/05/2009
+    48 USC Sec. 1842                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -34420,7 +34425,7 @@
 
 
 -CITE-
-    48 USC Sec. 1843                                            01/05/2009
+    48 USC Sec. 1843                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -34533,7 +34538,7 @@
 
 
 -CITE-
-    48 USC Sec. 1844                                            01/05/2009
+    48 USC Sec. 1844                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -34580,7 +34585,7 @@
 
 
 -CITE-
-    48 USC Sec. 1845                                            01/05/2009
+    48 USC Sec. 1845                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -34623,7 +34628,7 @@
 
 
 -CITE-
-    48 USC Sec. 1846                                            01/05/2009
+    48 USC Sec. 1846                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -34663,7 +34668,7 @@
 
 -CITE-
     48 USC CHAPTER 18 - MICRONESIA, MARSHALL ISLANDS, AND
-           PALAU                                           01/05/2009
+           PALAU                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -34740,7 +34745,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER I - MICRONESIA AND MARSHALL ISLANDS       01/05/2009
+    48 USC SUBCHAPTER I - MICRONESIA AND MARSHALL ISLANDS       02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -34755,7 +34760,7 @@
 
 -CITE-
     48 USC Part A - Approval and Implementation of Original
-                     Compact                               01/05/2009
+                     Compact                               02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -34771,7 +34776,7 @@
 
 
 -CITE-
-    48 USC Sec. 1901                                            01/05/2009
+    48 USC Sec. 1901                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -37452,7 +37457,7 @@
 
 
 -CITE-
-    48 USC Sec. 1902                                            01/05/2009
+    48 USC Sec. 1902                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -37711,7 +37716,7 @@
 
 
 -CITE-
-    48 USC Sec. 1903                                            01/05/2009
+    48 USC Sec. 1903                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -38458,7 +38463,7 @@
 
 
 -CITE-
-    48 USC Sec. 1904                                            01/05/2009
+    48 USC Sec. 1904                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -38754,7 +38759,7 @@
 
 
 -CITE-
-    48 USC Sec. 1905                                            01/05/2009
+    48 USC Sec. 1905                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -39318,7 +39323,7 @@
 
 
 -CITE-
-    48 USC Sec. 1906                                            01/05/2009
+    48 USC Sec. 1906                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -39385,7 +39390,7 @@
 
 
 -CITE-
-    48 USC Sec. 1907                                            01/05/2009
+    48 USC Sec. 1907                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -39459,7 +39464,7 @@
 
 
 -CITE-
-    48 USC Sec. 1908                                            01/05/2009
+    48 USC Sec. 1908                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -39516,7 +39521,7 @@
 
 
 -CITE-
-    48 USC Sec. 1909                                            01/05/2009
+    48 USC Sec. 1909                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -39558,7 +39563,7 @@
 
 
 -CITE-
-    48 USC Sec. 1910                                            01/05/2009
+    48 USC Sec. 1910                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -39613,7 +39618,7 @@
 
 
 -CITE-
-    48 USC Sec. 1911                                            01/05/2009
+    48 USC Sec. 1911                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -39743,7 +39748,7 @@
 
 
 -CITE-
-    48 USC Sec. 1912                                            01/05/2009
+    48 USC Sec. 1912                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -39835,7 +39840,7 @@
 
 -CITE-
     48 USC Part B - Approval and Implementation of Compacts,
-                     As Amended                            01/05/2009
+                     As Amended                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -39851,7 +39856,7 @@
 
 
 -CITE-
-    48 USC Sec. 1921                                            01/05/2009
+    48 USC Sec. 1921                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -44726,7 +44731,7 @@
 
 
 -CITE-
-    48 USC Sec. 1921a                                           01/05/2009
+    48 USC Sec. 1921a                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -44856,7 +44861,7 @@
 
 
 -CITE-
-    48 USC Sec. 1921b                                           01/05/2009
+    48 USC Sec. 1921b                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -45465,7 +45470,7 @@
 
 
 -CITE-
-    48 USC Sec. 1921c                                           01/05/2009
+    48 USC Sec. 1921c                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -45813,14 +45818,6 @@
       paragraph, the President's response to the comments, the findings
       resulting from the reviews, and any recommendations for actions
       to respond to such findings.
-      (3) By the Comptroller General
-        Not later than the date that is three years after December 17,
-      2003, and every 5 years thereafter, the Comptroller General of
-      the United States shall submit to Congress a report on the
-      Federated States of Micronesia and the Republic of the Marshall
-      Islands including the topics set forth in paragraphs (1) (A)
-      through (E) above, and on the effectiveness of administrative
-      oversight by the United States.
     (i) Construction of section 141(f)
       Section 141(f)(2) of the Compact of Free Association, as amended,
     between the Government of the United States of America and the
@@ -45869,7 +45866,8 @@
 -SOURCE-
     (Pub. L. 108-188, title I, Sec. 104, Dec. 17, 2003, 117 Stat. 2737;
     Pub. L. 110-229, title VIII, Sec. 806(a)(2), May 8, 2008, 122 Stat.
-    871.)
+    871; Pub. L. 111-68, div. A, title I, Sec. 1501(c), Oct. 1, 2009,
+    123 Stat. 2041.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -45920,6 +45918,14 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2009 - Subsec. (h)(3). Pub. L. 111-68 struck out par. (3). Text
+    read as follows: "Not later than the date that is three years after
+    December 17, 2003, and every 5 years thereafter, the Comptroller
+    General of the United States shall submit to Congress a report on
+    the Federated States of Micronesia and the Republic of the Marshall
+    Islands including the topics set forth in paragraphs (1) (A)
+    through (E) above, and on the effectiveness of administrative
+    oversight by the United States."
       2008 - Subsec. (b)(1). Pub. L. 110-229, Sec. 806(a)(2)(A),
     inserted "the" before "U.S.-RMI Compact,".
       Subsec. (e)(8). Pub. L. 110-229, Sec. 806(a)(2)(B)(i),
@@ -45961,7 +45967,7 @@
 
 
 -CITE-
-    48 USC Sec. 1921d                                           01/05/2009
+    48 USC Sec. 1921d                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -46635,12 +46641,19 @@
     [amending this section] shall be effective as of the date that is
     180 days after the date of enactment of this Act [May 8, 2008]."
 
+            CONTINUED APPLICABILITY OF SUBSECTION (F)(1)(B)(IX)        
+      Pub. L. 111-117, div. D, title III, Sec. 309, Dec. 16, 2009, 123
+    Stat. 3272, provided that: "Section 105(f)(1)(B)(ix) of the Compact
+    of Free Association Amendments Act of 2003 (48 U.S.C.
+    1921d(f)(1)(B)(ix)) shall be applied by substituting '2010' for
+    '2009'."
+
 -End-
 
 
 
 -CITE-
-    48 USC Sec. 1921e                                           01/05/2009
+    48 USC Sec. 1921e                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -46705,7 +46718,7 @@
 
 
 -CITE-
-    48 USC Sec. 1921f                                           01/05/2009
+    48 USC Sec. 1921f                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -46740,7 +46753,7 @@
 
 
 -CITE-
-    48 USC Sec. 1921g                                           01/05/2009
+    48 USC Sec. 1921g                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -46830,7 +46843,7 @@
 
 
 -CITE-
-    48 USC Sec. 1921h                                           01/05/2009
+    48 USC Sec. 1921h                                           02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -46865,7 +46878,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER II - PALAU                                01/05/2009
+    48 USC SUBCHAPTER II - PALAU                                02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -46880,7 +46893,7 @@
 
 -CITE-
     48 USC Part A - Approval of Compact and Supplemental
-                     Provisions                            01/05/2009
+                     Provisions                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -46896,7 +46909,7 @@
 
 
 -CITE-
-    48 USC Sec. 1931                                            01/05/2009
+    48 USC Sec. 1931                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48750,7 +48763,7 @@
 
 
 -CITE-
-    48 USC Sec. 1932                                            01/05/2009
+    48 USC Sec. 1932                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -48792,7 +48805,7 @@
 
 
 -CITE-
-    48 USC Sec. 1933                                            01/05/2009
+    48 USC Sec. 1933                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49069,7 +49082,7 @@
 
 
 -CITE-
-    48 USC Sec. 1934                                            01/05/2009
+    48 USC Sec. 1934                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49156,7 +49169,7 @@
 
 
 -CITE-
-    48 USC Part B - Implementation of Compact                   01/05/2009
+    48 USC Part B - Implementation of Compact                   02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49172,7 +49185,7 @@
 
 
 -CITE-
-    48 USC Sec. 1951                                            01/05/2009
+    48 USC Sec. 1951                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49246,7 +49259,7 @@
 
 
 -CITE-
-    48 USC Sec. 1952                                            01/05/2009
+    48 USC Sec. 1952                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49300,7 +49313,7 @@
 
 
 -CITE-
-    48 USC Sec. 1953                                            01/05/2009
+    48 USC Sec. 1953                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49363,7 +49376,7 @@
 
 
 -CITE-
-    48 USC Sec. 1954                                            01/05/2009
+    48 USC Sec. 1954                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49413,7 +49426,7 @@
 
 
 -CITE-
-    48 USC Sec. 1955                                            01/05/2009
+    48 USC Sec. 1955                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49443,7 +49456,7 @@
 
 
 -CITE-
-    48 USC Sec. 1956                                            01/05/2009
+    48 USC Sec. 1956                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49490,7 +49503,7 @@
 
 
 -CITE-
-    48 USC Sec. 1957                                            01/05/2009
+    48 USC Sec. 1957                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49541,7 +49554,7 @@
 
 
 -CITE-
-    48 USC Sec. 1958                                            01/05/2009
+    48 USC Sec. 1958                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49579,7 +49592,7 @@
 
 
 -CITE-
-    48 USC Sec. 1959                                            01/05/2009
+    48 USC Sec. 1959                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49671,7 +49684,7 @@
 
 
 -CITE-
-    48 USC Sec. 1960                                            01/05/2009
+    48 USC Sec. 1960                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49780,7 +49793,7 @@
 
 
 -CITE-
-    48 USC Sec. 1961                                            01/05/2009
+    48 USC Sec. 1961                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49833,7 +49846,7 @@
 
 
 -CITE-
-    48 USC Sec. 1962                                            01/05/2009
+    48 USC Sec. 1962                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49874,7 +49887,7 @@
 
 
 -CITE-
-    48 USC SUBCHAPTER III - MISCELLANEOUS PROVISIONS            01/05/2009
+    48 USC SUBCHAPTER III - MISCELLANEOUS PROVISIONS            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49889,7 +49902,7 @@
 
 
 -CITE-
-    48 USC Sec. 1971                                            01/05/2009
+    48 USC Sec. 1971                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -49961,7 +49974,7 @@
 
 
 -CITE-
-    48 USC Sec. 1972                                            01/05/2009
+    48 USC Sec. 1972                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -50025,7 +50038,7 @@
 
 
 -CITE-
-    48 USC Sec. 1973                                            01/05/2009
+    48 USC Sec. 1973                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -50089,7 +50102,7 @@
 
 
 -CITE-
-    48 USC CHAPTER 19 - PACIFIC POLICY REPORTS                  01/05/2009
+    48 USC CHAPTER 19 - PACIFIC POLICY REPORTS                  02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -50110,7 +50123,7 @@
 
 
 -CITE-
-    48 USC Sec. 2001                                            01/05/2009
+    48 USC Sec. 2001                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -50165,7 +50178,7 @@
 
 
 -CITE-
-    48 USC Sec. 2002                                            01/05/2009
+    48 USC Sec. 2002                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -50231,7 +50244,7 @@
 
 
 -CITE-
-    48 USC Sec. 2003                                            01/05/2009
+    48 USC Sec. 2003                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
@@ -50272,7 +50285,7 @@
 
 
 -CITE-
-    48 USC Sec. 2004                                            01/05/2009
+    48 USC Sec. 2004                                            02/01/2010
 
 -EXPCITE-
     TITLE 48 - TERRITORIES AND INSULAR POSSESSIONS
