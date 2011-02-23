@@ -1,5 +1,5 @@
 -CITE-
-    3 USC TITLE 3 - THE PRESIDENT                               02/01/2010
+    3 USC TITLE 3 - THE PRESIDENT                               01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -247,7 +247,7 @@
 
 
 -CITE-
-    3 USC CHAPTER 1 - PRESIDENTIAL ELECTIONS AND VACANCIES      02/01/2010
+    3 USC CHAPTER 1 - PRESIDENTIAL ELECTIONS AND VACANCIES      01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -306,7 +306,7 @@
 
 
 -CITE-
-    3 USC Sec. 1                                                02/01/2010
+    3 USC Sec. 1                                                01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -326,6 +326,15 @@
 
 
 -MISC1-
+                       SHORT TITLE OF 2010 AMENDMENT                   
+      Pub. L. 111-283, Sec. 1, Oct. 15, 2010, 124 Stat. 3045, provided
+    that: "This Act [enacting provisions set out as a note under
+    section 102 of this title and amending provisions set out as notes
+    under section 102 of this title, section 1101 of Title 5,
+    Government Organization and Employees, and section 435b of Title
+    50, War and National Defense] may be cited as the 'Pre-Election
+    Presidential Transition Act of 2010'."
+
                        SHORT TITLE OF 1996 AMENDMENT                   
       Pub. L. 104-331, Sec. 1(a), Oct. 26, 1996, 110 Stat. 4053,
     provided that: "This Act [enacting sections 401, 402, 411 to 417,
@@ -352,7 +361,7 @@
 
 
 -CITE-
-    3 USC Sec. 2                                                02/01/2010
+    3 USC Sec. 2                                                01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -375,7 +384,7 @@
 
 
 -CITE-
-    3 USC Sec. 3                                                02/01/2010
+    3 USC Sec. 3                                                01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -401,7 +410,7 @@
 
 
 -CITE-
-    3 USC Sec. 4                                                02/01/2010
+    3 USC Sec. 4                                                01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -423,7 +432,7 @@
 
 
 -CITE-
-    3 USC Sec. 5                                                02/01/2010
+    3 USC Sec. 5                                                01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -454,7 +463,7 @@
 
 
 -CITE-
-    3 USC Sec. 6                                                02/01/2010
+    3 USC Sec. 6                                                01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -533,7 +542,7 @@
 
 
 -CITE-
-    3 USC Sec. 7                                                02/01/2010
+    3 USC Sec. 7                                                01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -562,7 +571,7 @@
 
 
 -CITE-
-    3 USC Sec. 8                                                02/01/2010
+    3 USC Sec. 8                                                01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -583,7 +592,7 @@
 
 
 -CITE-
-    3 USC Sec. 9                                                02/01/2010
+    3 USC Sec. 9                                                01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -608,7 +617,7 @@
 
 
 -CITE-
-    3 USC Sec. 10                                               02/01/2010
+    3 USC Sec. 10                                               01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -631,7 +640,7 @@
 
 
 -CITE-
-    3 USC Sec. 11                                               02/01/2010
+    3 USC Sec. 11                                               01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -685,7 +694,7 @@
 
 
 -CITE-
-    3 USC Sec. 12                                               02/01/2010
+    3 USC Sec. 12                                               01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -735,7 +744,7 @@
 
 
 -CITE-
-    3 USC Sec. 13                                               02/01/2010
+    3 USC Sec. 13                                               01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -778,7 +787,7 @@
 
 
 -CITE-
-    3 USC Sec. 14                                               02/01/2010
+    3 USC Sec. 14                                               01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -802,7 +811,7 @@
 
 
 -CITE-
-    3 USC Sec. 15                                               02/01/2010
+    3 USC Sec. 15                                               01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -921,7 +930,7 @@
 
 
 -CITE-
-    3 USC Sec. 16                                               02/01/2010
+    3 USC Sec. 16                                               01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -961,7 +970,7 @@
 
 
 -CITE-
-    3 USC Sec. 17                                               02/01/2010
+    3 USC Sec. 17                                               01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -987,7 +996,7 @@
 
 
 -CITE-
-    3 USC Sec. 18                                               02/01/2010
+    3 USC Sec. 18                                               01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -1017,7 +1026,7 @@
 
 
 -CITE-
-    3 USC Sec. 19                                               02/01/2010
+    3 USC Sec. 19                                               01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -1159,7 +1168,7 @@
 
 
 -CITE-
-    3 USC Sec. 20                                               02/01/2010
+    3 USC Sec. 20                                               01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -1191,7 +1200,7 @@
 
 
 -CITE-
-    3 USC Sec. 21                                               02/01/2010
+    3 USC Sec. 21                                               01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -1226,7 +1235,7 @@
 
 
 -CITE-
-    3 USC CHAPTER 2 - OFFICE AND COMPENSATION OF PRESIDENT      02/01/2010
+    3 USC CHAPTER 2 - OFFICE AND COMPENSATION OF PRESIDENT      01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -2600,7 +2609,7 @@
 
 
 -CITE-
-    3 USC Sec. 101                                              02/01/2010
+    3 USC Sec. 101                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -2692,7 +2701,7 @@
 
 
 -CITE-
-    3 USC Sec. 102                                              02/01/2010
+    3 USC Sec. 102                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -2772,6 +2781,58 @@
       Amendment by act Jan. 19, 1949, effective noon, Jan. 19, 1949,
     see section 3 of that act.
 
+          AUTHORIZATION OF TRANSITION ACTIVITIES BY THE INCUMBENT
+                              ADMINISTRATION
+      Pub. L. 111-283, Sec. 3, Oct. 15, 2010, 124 Stat. 3048, provided
+    that:
+      "(a) In General. - The President of the United States, or the
+    President's delegate, may take such actions as the President
+    determines necessary and appropriate to plan and coordinate
+    activities by the Executive branch of the Federal Government to
+    facilitate an efficient transfer of power to a successor President,
+    including - 
+        "(1) the establishment and operation of a transition
+      coordinating council comprised of - 
+          "(A) high-level officials of the Executive branch selected by
+        the President, which may include the Chief of Staff to the
+        President, any Cabinet officer, the Director of the Office of
+        Management and Budget, the Administrator of the General
+        Services Administration, the Director of the Office of
+        Personnel Management, the Director of the Office of Government
+        Ethics, and the Archivist of the United States, and
+          "(B) any other persons the President determines appropriate;
+        "(2) the establishment and operation of an agency transition
+      directors council which includes career employees designated to
+      lead transition efforts within Executive Departments or agencies;
+        "(3) the development of guidance to Executive Departments and
+      agencies regarding briefing materials for an incoming
+      administration, and the development of such materials; and
+        "(4) the development of computer software, publications,
+      contingency plans, issue memoranda, memoranda of understanding,
+      training and exercises (including crisis training and exercises),
+      programs, lessons learned from previous transitions, and other
+      items appropriate for improving the effectiveness and efficiency
+      of a Presidential transition that may be disseminated to eligible
+      candidates (as defined in section 3(h)(4) of the Presidential
+      Transition Act of 1963, as added by section 2(a) [section 3(h)(4)
+      of Pub. L. 88-277, set out in a note below]) and to the President-
+      elect and Vice-President-elect.
+    Any information and other assistance to eligible candidates under
+    this subsection shall be offered on an equal basis and without
+    regard to political affiliation.
+      "(b) Reports. - 
+        "(1) In general. - The President of the United States, or the
+      President's delegate, shall provide to the Committee on Oversight
+      and Government Reform of the House of Representatives and the
+      Committee on Homeland Security and Governmental Affairs of the
+      Senate reports describing the activities undertaken by the
+      President and the Executive Departments and agencies to prepare
+      for the transfer of power to a new President.
+        "(2) Timing. - The reports under paragraph (1) shall be
+      provided six months and three months before the date of the
+      general election for the Office of President of the United
+      States."
+
         DISCLOSURE OF IN-KIND CONTRIBUTIONS TO 1988-1989 TRANSITION    
       Pub. L. 100-398, Sec. 5, Aug. 17, 1988, 102 Stat. 987, provided
     that:
@@ -2801,8 +2862,10 @@
     Secs. 2(a), 3, 4, Aug. 17, 1988, 102 Stat. 985, 986; Pub. L. 106-
     293, Sec. 2, Oct. 12, 2000, 114 Stat. 1035; Pub. L. 108-271, Sec.
     8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108-458, title VII, Sec.
-    7601(a), Dec. 17, 2004, 118 Stat. 3856, provided: "That this Act
-    may be cited as the 'Presidential Transition Act of 1963.'
+    7601(a), Dec. 17, 2004, 118 Stat. 3856; Pub. L. 111-283, Sec. 2(a),
+    (b), (d), Oct. 15, 2010, 124 Stat. 3045, 3047, 3048, provided:
+    "That this Act may be cited as the 'Presidential Transition Act of
+    1963.'
 
                            "PURPOSE OF THIS ACT                       
       "Sec. 2. The Congress declares it to be the purpose of this Act
@@ -2929,9 +2992,10 @@
       elections held to determine the electors of President and Vice
       President under section 1 or 2 of title 3, United States Code.
         "(B) Activities under this paragraph shall be conducted
-      primarily for individuals the President-elect intends to nominate
-      as department heads or appoint to key positions in the Executive
-      Office of the President.
+      primarily for individuals the President-elect or eligible
+      candidate (as defined in subsection (h)(4)) for President intends
+      to nominate as department heads or appoint to key positions in
+      the Executive Office of the President.
         "(9)(A) Notwithstanding subsection (b), development of a
       transition directory by the Administrator of General Services
       Administration, in consultation with the Archivist of the United
@@ -2943,13 +3007,12 @@
       organization, and statutory and administrative authorities,
       functions, duties, responsibilities, and mission of each
       department and agency.
-        "(10)(A) Notwithstanding subsection (b), consultation by the
-      Administrator with any candidate for President or Vice President
-      to develop a systems architecture plan for the computer and
-      communications systems of the candidate to coordinate a
-      transition to Federal systems, if the candidate is elected.
-        "(B) Consultations under this paragraph shall be conducted at
-      the discretion of the Administrator.
+        "(10) Notwithstanding subsection (b), consultation by the
+      Administrator with any President-elect, Vice-President-elect, or
+      eligible candidate (as defined in subsection (h)(4)) to develop a
+      systems architecture plan for the computer and communications
+      systems of the candidate to coordinate a transition to Federal
+      systems if the candidate is elected.
       "(b) The Administrator may not expend funds for the provision of
     services and facilities under section 3 of this Act in connection
     with any obligations incurred by the President-elect or Vice-
@@ -2979,17 +3042,18 @@
     under his written autograph signature in connection with his
     preparations for the assumption of official duties as Vice
     President.
-      "(e) Each President-elect and Vice-President-elect may designate
-    to the Administrator an assistant authorized to make on his behalf
-    such designations or findings of necessity as may be required in
-    connection with the services and facilities to be provided under
-    this Act. Not more than 10 per centum of the total expenditures
-    under this Act for any President-elect or Vice-President-elect may
-    be made upon the basis of a certificate by him or the assistant
-    designated by him pursuant to this section that such expenditures
-    are classified and are essential to the national security, and that
-    they accord with the provisions of subsections (a), (b), and (d) of
-    this section.
+      "(e) Each President-elect and Vice-President-elect, or eligible
+    candidate (as defined in subsection (h)(4)) for President or Vice-
+    President, may designate to the Administrator an assistant
+    authorized to make on his behalf such designations or findings of
+    necessity as may be required in connection with the services and
+    facilities to be provided under this Act. Not more than 10 per
+    centum of the total expenditures under this Act for any President-
+    elect or Vice-President-elect may be made upon the basis of a
+    certificate by him or the assistant designated by him pursuant to
+    this section that such expenditures are classified and are
+    essential to the national security, and that they accord with the
+    provisions of subsections (a), (b), and (d) of this section.
       "(f)(1) The President-elect should submit to the Federal Bureau
     of Investigation or other appropriate agency and then, upon taking
     effect and designation, to the agency designated by the President
@@ -3012,6 +3076,136 @@
     for the provision of services and facilities to such incumbent
     under this Act, and any funds appropriated for such purposes shall
     be returned to the general funds of the Treasury.
+      "(h)(1)(A) In the case of an eligible candidate, the
+    Administrator - 
+        "(i) shall notify the candidate of the candidate's right to
+      receive the services and facilities described in paragraph (2)
+      and shall provide with such notice a description of the nature
+      and scope of each such service and facility; and
+        "(ii) upon notification by the candidate of which such services
+      and facilities such candidate will accept, shall, notwithstanding
+      subsection (b), provide such services and facilities to the
+      candidate during the period beginning on the date of the
+      notification and ending on the date of the general elections
+      described in subsection (b)(1).
+    The Administrator shall also notify the candidate that sections
+    7601(c) and 8403(b) of the Intelligence Reform and Terrorism
+    Prevention Act of 2004 [Pub. L. 108-458; 50 U.S.C. 435b note and 5
+    U.S.C. 1101 note] provide additional services.
+      "(B) The Administrator shall provide the notice under
+    subparagraph (A)(i) to each eligible candidate - 
+        "(i) in the case of a candidate of a major party (as defined in
+      section 9002(6) of the Internal Revenue Code of 1986 [26 U.S.C.
+      9002(6)]), on one of the first 3 business days following the last
+      nominating convention for such major parties; and
+        "(ii) in the case of any other candidate, as soon as
+      practicable after an individual becomes an eligible candidate
+      (or, if later, at the same time as notice is provided under
+      clause (i)).
+      "(C)(i) The Administrator shall, not later than 12 months before
+    the date of each general election for President and Vice-President
+    (beginning with the election to be held in 2012), prepare a report
+    summarizing modern presidential transition activities, including a
+    bibliography of relevant resources.
+      "(ii) The Administrator shall promptly make the report under
+    clause (i) generally available to the public (including through
+    electronic means) and shall include such report with the notice
+    provided to each eligible candidate under subparagraph (A)(i).
+      "(2)(A) Except as provided in subparagraph (B), the services and
+    facilities described in this paragraph are the services and
+    facilities described in subsection (a) (other than paragraphs (2),
+    (3), (4), (7), and 8(A)(v) thereof), but only to the extent that
+    the use of the services and facilities is for use in connection
+    with the eligible candidate's preparations for the assumption of
+    official duties as President or Vice-President.
+      "(B) The Administrator - 
+        "(i) shall determine the location of any office space provided
+      to an eligible candidate under this subsection;
+        "(ii) shall, as appropriate, ensure that any computers or
+      communications services provided to an eligible candidate under
+      this subsection are secure;
+        "(iii) shall offer information and other assistance to eligible
+      candidates on an equal basis and without regard to political
+      affiliation; and
+        "(iv) may modify the scope of any services to be provided under
+      this subsection to reflect that the services are provided to
+      eligible candidates rather than the President-elect or Vice-
+      President-elect, except that any such modification must apply to
+      all eligible candidates.
+      "(C) An eligible candidate, or any person on behalf of the
+    candidate, shall not use any services or facilities provided under
+    this subsection other than for the purposes described in
+    subparagraph (A), and the candidate or the candidate's campaign
+    shall reimburse the Administrator for any unauthorized use of such
+    services or facilities.
+      "(3)(A) Notwithstanding any other provision of law, an eligible
+    candidate may establish a separate fund for the payment of
+    expenditures in connection with the eligible candidate's
+    preparations for the assumption of official duties as President or
+    Vice-President, including expenditures in connection with any
+    services or facilities provided under this subsection (whether
+    before such services or facilities are available under this section
+    or to supplement such services or facilities when so provided).
+    Such fund shall be established and maintained in such manner as to
+    qualify such fund for purposes of section 501(c)(4) of the Internal
+    Revenue Code of 1986 [26 U.S.C. 501(c)(4)].
+      "(B)(i) The eligible candidate may - 
+        "(I) transfer to any separate fund established under
+      subparagraph (A) contributions (within the meaning of section
+      301(8) of the Federal Election Campaign Act of 1971 (2 U.S.C.
+      431(8))) the candidate received for the general election for
+      President or Vice-President or payments from the Presidential
+      Election Campaign Fund under chapter 95 of the Internal Revenue
+      Code of 1986 [26 U.S.C. 9001 et seq.] the candidate received for
+      the general election; and
+        "(II) solicit and accept amounts for receipt by such separate
+      fund.
+      "(ii) Any expenditures from the separate fund that are made from
+    such contributions or payments described in clause (i)(I) shall be
+    treated as expenditures (within the meaning of section 301(9) of
+    such Act (2 U.S.C. 431(9))) or qualified campaign expenses (within
+    the meaning of section 9002(11) of such Code [26 U.S.C. 9002(11)]),
+    whichever is applicable.
+      "(iii) An eligible candidate establishing a separate fund under
+    subparagraph (A) shall (as a condition for receiving services and
+    facilities described in paragraph (2)) comply with all requirements
+    and limitations of section 5 in soliciting or expending amounts in
+    the same manner as the President-elect or Vice-President-elect,
+    including reporting on the transfer and expenditure of amounts
+    described in subparagraph (B)(i) in the disclosures required by
+    section 5.
+      "(4)(A) In this subsection, the term 'eligible candidate' means,
+    with respect to any presidential election (as defined in section
+    9002(10) of the Internal Revenue Code of 1986 [26 U.S.C. 9002(10)])
+    - 
+        "(i) a candidate of a major party (as defined in section
+      9002(6) of such Code [26 U.S.C. 9002(6)]) for President or Vice-
+      President of the United States; and
+        "(ii) any other candidate who has been determined by the
+      Administrator to be among the principal contenders for the
+      general election to such offices.
+      "(B) In making a determination under subparagraph (A)(ii), the
+    Administrator shall - 
+        "(i) ensure that any candidate determined to be an eligible
+      candidate under such subparagraph - 
+          "(I) meets the requirements described in Article II, Section
+        1, of the United States Constitution for eligibility to the
+        office of President;
+          "(II) has qualified to have his or her name appear on the
+        ballots of a sufficient number of States such that the total
+        number of electors appointed in those States is greater than 50
+        percent of the total number of electors appointed in all of the
+        States; and
+          "(III) has demonstrated a significant level of public support
+        in national public opinion polls, so as to be realistically
+        considered among the principal contenders for President or Vice-
+        President of the United States; and
+        "(ii) consider whether other national organizations have
+      recognized the candidate as being among the principal contenders
+      for the general election to such offices, including whether the
+      Commission on Presidential Debates has determined that the
+      candidate is eligible to participate in the candidate debates for
+      the general election to such offices.
 
        "SERVICES AND FACILITIES AUTHORIZED TO BE PROVIDED TO FORMER
                    PRESIDENTS AND FORMER VICE PRESIDENTS
@@ -3307,7 +3501,7 @@
 
 
 -CITE-
-    3 USC Sec. 103                                              02/01/2010
+    3 USC Sec. 103                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -3342,7 +3536,7 @@
 
 
 -CITE-
-    3 USC Sec. 104                                              02/01/2010
+    3 USC Sec. 104                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -3484,7 +3678,7 @@
 
 
 -CITE-
-    3 USC Sec. 105                                              02/01/2010
+    3 USC Sec. 105                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -3705,7 +3899,7 @@
 
 
 -CITE-
-    3 USC Sec. 106                                              02/01/2010
+    3 USC Sec. 106                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -3901,7 +4095,7 @@
 
 
 -CITE-
-    3 USC Sec. 107                                              02/01/2010
+    3 USC Sec. 107                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4017,7 +4211,7 @@
 
 
 -CITE-
-    3 USC Sec. 108                                              02/01/2010
+    3 USC Sec. 108                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4088,7 +4282,7 @@
 
 
 -CITE-
-    3 USC Sec. 109                                              02/01/2010
+    3 USC Sec. 109                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4152,7 +4346,7 @@
 
 
 -CITE-
-    3 USC Sec. 110                                              02/01/2010
+    3 USC Sec. 110                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4420,7 +4614,7 @@
 
 
 -CITE-
-    3 USC Sec. 111                                              02/01/2010
+    3 USC Sec. 111                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4555,7 +4749,7 @@
 
 
 -CITE-
-    3 USC Sec. 112                                              02/01/2010
+    3 USC Sec. 112                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4610,7 +4804,7 @@
 
 
 -CITE-
-    3 USC Sec. 113                                              02/01/2010
+    3 USC Sec. 113                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4752,7 +4946,7 @@
 
 
 -CITE-
-    3 USC Sec. 114                                              02/01/2010
+    3 USC Sec. 114                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4795,7 +4989,7 @@
 
 
 -CITE-
-    3 USC Sec. 115                                              02/01/2010
+    3 USC Sec. 115                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4837,7 +5031,7 @@
 
 
 -CITE-
-    3 USC [CHAPTER 3 - REPEALED]                                02/01/2010
+    3 USC [CHAPTER 3 - REPEALED]                                01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4851,7 +5045,7 @@
 
 
 -CITE-
-    3 USC Sec. 201                                              02/01/2010
+    3 USC Sec. 201                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4872,7 +5066,7 @@
 
 
 -CITE-
-    3 USC Secs. 202 to 204                                      02/01/2010
+    3 USC Secs. 202 to 204                                      01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4922,7 +5116,7 @@
 
 
 -CITE-
-    3 USC Sec. 205                                              02/01/2010
+    3 USC Sec. 205                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4943,7 +5137,7 @@
 
 
 -CITE-
-    3 USC Secs. 206 to 209                                      02/01/2010
+    3 USC Secs. 206 to 209                                      01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -4981,7 +5175,7 @@
 
 
 -CITE-
-    3 USC CHAPTER 4 - DELEGATION OF FUNCTIONS                   02/01/2010
+    3 USC CHAPTER 4 - DELEGATION OF FUNCTIONS                   01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -5012,7 +5206,7 @@
 
 
 -CITE-
-    3 USC Sec. 301                                              02/01/2010
+    3 USC Sec. 301                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7582,7 +7776,7 @@
 
 
 -CITE-
-    3 USC Sec. 302                                              02/01/2010
+    3 USC Sec. 302                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7619,7 +7813,7 @@
 
 
 -CITE-
-    3 USC Sec. 303                                              02/01/2010
+    3 USC Sec. 303                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7649,7 +7843,7 @@
 
 -CITE-
     3 USC CHAPTER 5 - EXTENSION OF CERTAIN RIGHTS AND
-           PROTECTIONS TO PRESIDENTIAL OFFICES             02/01/2010
+           PROTECTIONS TO PRESIDENTIAL OFFICES             01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7728,7 +7922,7 @@
 
 
 -CITE-
-    3 USC SUBCHAPTER I - GENERAL PROVISIONS                     02/01/2010
+    3 USC SUBCHAPTER I - GENERAL PROVISIONS                     01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7744,7 +7938,7 @@
 
 
 -CITE-
-    3 USC Sec. 401                                              02/01/2010
+    3 USC Sec. 401                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7827,7 +8021,7 @@
 
 
 -CITE-
-    3 USC Sec. 402                                              02/01/2010
+    3 USC Sec. 402                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7920,7 +8114,7 @@
 
 
 -CITE-
-    3 USC SUBCHAPTER II - EXTENSION OF RIGHTS AND PROTECTIONS    02/01/2010 
+    3 USC SUBCHAPTER II - EXTENSION OF RIGHTS AND PROTECTIONS    01/07/2011 
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7940,7 +8134,7 @@
                     Employee Polygraph Protection, Worker
                     Adjustment and Retraining, Employment
                     and Reemployment of Veterans, and
-                    Intimidation                           02/01/2010
+                    Intimidation                           01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -7963,7 +8157,7 @@
 
 
 -CITE-
-    3 USC Sec. 411                                              02/01/2010
+    3 USC Sec. 411                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8130,7 +8324,7 @@
 
 
 -CITE-
-    3 USC Sec. 412                                              02/01/2010
+    3 USC Sec. 412                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8223,7 +8417,7 @@
 
 
 -CITE-
-    3 USC Sec. 413                                              02/01/2010
+    3 USC Sec. 413                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8305,7 +8499,7 @@
 
 
 -CITE-
-    3 USC Sec. 414                                              02/01/2010
+    3 USC Sec. 414                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8369,7 +8563,7 @@
 
 
 -CITE-
-    3 USC Sec. 415                                              02/01/2010
+    3 USC Sec. 415                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8470,7 +8664,7 @@
 
 
 -CITE-
-    3 USC Sec. 416                                              02/01/2010
+    3 USC Sec. 416                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8506,8 +8700,8 @@
       such title.
 
       (b) Remedy. - The remedy for a violation of subsection (a) shall
-    be such damages as would be appropriate if awarded under paragraphs
-    (1) and (2)(A) of section 4323(c) of title 38.
+    be such damages as would be appropriate if awarded under section
+    4323(d) of title 38.
       (c) Regulations To Implement Section. - 
         (1) In general. - The President, or the designee of the
       President, shall issue regulations to implement this section.
@@ -8540,10 +8734,17 @@
         (2) October 1, 1998.
 
 -SOURCE-
-    (Added Pub. L. 104-331, Sec. 2(a), Oct. 26, 1996, 110 Stat. 4060.)
+    (Added Pub. L. 104-331, Sec. 2(a), Oct. 26, 1996, 110 Stat. 4060;
+    amended Pub. L. 111-275, title VII, Sec. 703(c), Oct. 13, 2010, 124
+    Stat. 2888.)
 
 
 -MISC1-
+                                AMENDMENTS                            
+      2010 - Subsec. (b). Pub. L. 111-275 substituted "under section
+    4323(d) of title 38" for "under paragraphs (1) and (2)(A) of
+    section 4323(c) of title 38".
+
                               EFFECTIVE DATE                          
       Subsec. (c) of this section effective Oct. 26, 1996, see section
     471(b) of this title.
@@ -8553,7 +8754,7 @@
 
 
 -CITE-
-    3 USC Sec. 417                                              02/01/2010
+    3 USC Sec. 417                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8591,7 +8792,7 @@
 -CITE-
     3 USC Part B - Public Access Provisions Under the
                     Americans With Disabilities Act of
-                    1990                                   02/01/2010
+                    1990                                   01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8610,7 +8811,7 @@
 
 
 -CITE-
-    3 USC Sec. 421                                              02/01/2010
+    3 USC Sec. 421                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8725,7 +8926,7 @@
 
 
 -CITE-
-    3 USC Part C - Occupational Safety and Health Act of 1970    02/01/2010 
+    3 USC Part C - Occupational Safety and Health Act of 1970    01/07/2011 
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8742,7 +8943,7 @@
 
 
 -CITE-
-    3 USC Sec. 425                                              02/01/2010
+    3 USC Sec. 425                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8885,7 +9086,7 @@
 
 
 -CITE-
-    3 USC Part D - Labor-Management Relations                   02/01/2010
+    3 USC Part D - Labor-Management Relations                   01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -8902,7 +9103,7 @@
 
 
 -CITE-
-    3 USC Sec. 431                                              02/01/2010
+    3 USC Sec. 431                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -9005,7 +9206,7 @@
 
 
 -CITE-
-    3 USC Part E - General                                      02/01/2010
+    3 USC Part E - General                                      01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -9022,7 +9223,7 @@
 
 
 -CITE-
-    3 USC Sec. 435                                              02/01/2010
+    3 USC Sec. 435                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -9098,7 +9299,7 @@
 
 -CITE-
     3 USC SUBCHAPTER III - ADMINISTRATIVE AND JUDICIAL DISPUTE
-           RESOLUTION PROCEDURES                           02/01/2010
+           RESOLUTION PROCEDURES                           01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -9116,7 +9317,7 @@
 
 
 -CITE-
-    3 USC Sec. 451                                              02/01/2010
+    3 USC Sec. 451                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -9147,7 +9348,7 @@
 
 
 -CITE-
-    3 USC Sec. 452                                              02/01/2010
+    3 USC Sec. 452                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -9191,7 +9392,7 @@
 
 
 -CITE-
-    3 USC Sec. 453                                              02/01/2010
+    3 USC Sec. 453                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -9220,7 +9421,7 @@
 
 
 -CITE-
-    3 USC Sec. 454                                              02/01/2010
+    3 USC Sec. 454                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -9281,7 +9482,7 @@
 
 
 -CITE-
-    3 USC Sec. 455                                              02/01/2010
+    3 USC Sec. 455                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -9310,7 +9511,7 @@
 
 
 -CITE-
-    3 USC Sec. 456                                              02/01/2010
+    3 USC Sec. 456                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -9336,7 +9537,7 @@
 
 
 -CITE-
-    3 USC SUBCHAPTER IV - EFFECTIVE DATE                        02/01/2010
+    3 USC SUBCHAPTER IV - EFFECTIVE DATE                        01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT
@@ -9352,7 +9553,7 @@
 
 
 -CITE-
-    3 USC Sec. 471                                              02/01/2010
+    3 USC Sec. 471                                              01/07/2011
 
 -EXPCITE-
     TITLE 3 - THE PRESIDENT

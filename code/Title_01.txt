@@ -1,5 +1,5 @@
 -CITE-
-    1 USC TITLE 1 - GENERAL PROVISIONS                          02/01/2010
+    1 USC TITLE 1 - GENERAL PROVISIONS                          01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -127,7 +127,7 @@
 
 
 -CITE-
-    1 USC CHAPTER 1 - RULES OF CONSTRUCTION                     02/01/2010
+    1 USC CHAPTER 1 - RULES OF CONSTRUCTION                     01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -166,7 +166,7 @@
 
 
 -CITE-
-    1 USC Sec. 1                                                02/01/2010
+    1 USC Sec. 1                                                01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -338,7 +338,7 @@
 
 
 -CITE-
-    1 USC Sec. 2                                                02/01/2010
+    1 USC Sec. 2                                                01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -359,7 +359,7 @@
 
 
 -CITE-
-    1 USC Sec. 3                                                02/01/2010
+    1 USC Sec. 3                                                01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -381,7 +381,7 @@
 
 
 -CITE-
-    1 USC Sec. 4                                                02/01/2010
+    1 USC Sec. 4                                                01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -403,7 +403,7 @@
 
 
 -CITE-
-    1 USC Sec. 5                                                02/01/2010
+    1 USC Sec. 5                                                01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -427,7 +427,7 @@
 
 
 -CITE-
-    1 USC Sec. 6                                                02/01/2010
+    1 USC Sec. 6                                                01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -455,7 +455,7 @@
 
 
 -CITE-
-    1 USC Sec. 7                                                02/01/2010
+    1 USC Sec. 7                                                01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -480,7 +480,7 @@
 
 
 -CITE-
-    1 USC Sec. 8                                                02/01/2010
+    1 USC Sec. 8                                                01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -519,7 +519,7 @@
 
 -CITE-
     1 USC CHAPTER 2 - ACTS AND RESOLUTIONS; FORMALITIES OF
-           ENACTMENT; REPEALS; SEALING OF INSTRUMENTS      02/01/2010
+           ENACTMENT; REPEALS; SEALING OF INSTRUMENTS      01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -577,7 +577,7 @@
 
 
 -CITE-
-    1 USC Sec. 101                                              02/01/2010
+    1 USC Sec. 101                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -601,7 +601,7 @@
 
 
 -CITE-
-    1 USC Sec. 102                                              02/01/2010
+    1 USC Sec. 102                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -625,7 +625,7 @@
 
 
 -CITE-
-    1 USC Sec. 103                                              02/01/2010
+    1 USC Sec. 103                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -647,7 +647,7 @@
 
 
 -CITE-
-    1 USC Sec. 104                                              02/01/2010
+    1 USC Sec. 104                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -669,7 +669,7 @@
 
 
 -CITE-
-    1 USC Sec. 105                                              02/01/2010
+    1 USC Sec. 105                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -708,7 +708,7 @@
 
 
 -CITE-
-    1 USC Sec. 106                                              02/01/2010
+    1 USC Sec. 106                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1251,7 +1251,7 @@
 
 
 -CITE-
-    1 USC Sec. 106a                                             02/01/2010
+    1 USC Sec. 106a                                             01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1313,7 +1313,7 @@
 
 
 -CITE-
-    1 USC Sec. 106b                                             02/01/2010
+    1 USC Sec. 106b                                             01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1371,7 +1371,7 @@
 
 
 -CITE-
-    1 USC Sec. 107                                              02/01/2010
+    1 USC Sec. 107                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1395,7 +1395,7 @@
 
 
 -CITE-
-    1 USC Sec. 108                                              02/01/2010
+    1 USC Sec. 108                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1418,7 +1418,7 @@
 
 
 -CITE-
-    1 USC Sec. 109                                              02/01/2010
+    1 USC Sec. 109                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1451,7 +1451,7 @@
 
 
 -CITE-
-    1 USC Sec. 110                                              02/01/2010
+    1 USC Sec. 110                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1479,7 +1479,7 @@
 
 
 -CITE-
-    1 USC Sec. 111                                              02/01/2010
+    1 USC Sec. 111                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1511,7 +1511,7 @@
 
 
 -CITE-
-    1 USC Sec. 112                                              02/01/2010
+    1 USC Sec. 112                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1676,7 +1676,7 @@
 
 
 -CITE-
-    1 USC Sec. 112a                                             02/01/2010
+    1 USC Sec. 112a                                             01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1797,7 +1797,7 @@
 
 
 -CITE-
-    1 USC Sec. 112b                                             02/01/2010
+    1 USC Sec. 112b                                             01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1960,7 +1960,7 @@
 
 
 -CITE-
-    1 USC Sec. 113                                              02/01/2010
+    1 USC Sec. 113                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2013,7 +2013,7 @@
 
 
 -CITE-
-    1 USC Sec. 114                                              02/01/2010
+    1 USC Sec. 114                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2040,7 +2040,7 @@
 -CITE-
     1 USC CHAPTER 3 - CODE OF LAWS OF UNITED STATES AND
            SUPPLEMENTS; DISTRICT OF COLUMBIA CODE AND
-           SUPPLEMENTS                                     02/01/2010
+           SUPPLEMENTS                                     01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2107,7 +2107,7 @@
 
 
 -CITE-
-    1 USC Sec. 201                                              02/01/2010
+    1 USC Sec. 201                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2164,7 +2164,7 @@
 
 
 -CITE-
-    1 USC Sec. 202                                              02/01/2010
+    1 USC Sec. 202                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2216,7 +2216,7 @@
 
 
 -CITE-
-    1 USC Sec. 203                                              02/01/2010
+    1 USC Sec. 203                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2264,7 +2264,7 @@
 
 
 -CITE-
-    1 USC Sec. 204                                              02/01/2010
+    1 USC Sec. 204                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2366,6 +2366,8 @@
     Stat. 719.
       Title 40, Public Buildings, Property, and Works - Pub. L. 107-
     217, Sec. 1, Aug. 21, 2002, 116 Stat. 1062.
+      Title 41, Public Contracts - Pub. L. 111-350, Sec. 3, Jan. 4,
+    2011, 124 Stat. 3677.
       Title 44, Public Printing and Documents - Pub. L. 90-620, Sec. 1,
     Oct. 22, 1968, 82 Stat. 1238.
       Title 46, Shipping - Pub. L. 98-89, Sec. 1, Aug. 26, 1983, 97
@@ -2376,6 +2378,8 @@
       Title 49, Transportation - Pub. L. 95-473, Sec. 1, Oct. 17, 1978,
     92 Stat. 1337; Pub. L. 97-449, Sec. 1, Jan. 12, 1983, 96 Stat.
     2413; Pub. L. 103-272, Sec. 1, July 5, 1994, 108 Stat. 745.
+      Title 51, National and Commercial Space Programs - Pub. L. 111-
+    314, Sec. 3, Dec. 18, 2010, 124 Stat. 3328.
 
                       TITLE 26, INTERNAL REVENUE CODE                  
       The Internal Revenue Code of 1954 was enacted in the form of a
@@ -2391,7 +2395,7 @@
 
 
 -CITE-
-    1 USC Sec. 205                                              02/01/2010
+    1 USC Sec. 205                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2423,7 +2427,7 @@
 
 
 -CITE-
-    1 USC Sec. 206                                              02/01/2010
+    1 USC Sec. 206                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2453,7 +2457,7 @@
 
 
 -CITE-
-    1 USC Sec. 207                                              02/01/2010
+    1 USC Sec. 207                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2480,7 +2484,7 @@
 
 
 -CITE-
-    1 USC Sec. 208                                              02/01/2010
+    1 USC Sec. 208                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2509,7 +2513,7 @@
 
 
 -CITE-
-    1 USC Sec. 209                                              02/01/2010
+    1 USC Sec. 209                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2544,7 +2548,7 @@
 
 
 -CITE-
-    1 USC Sec. 210                                              02/01/2010
+    1 USC Sec. 210                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2579,7 +2583,7 @@
 
 
 -CITE-
-    1 USC Sec. 211                                              02/01/2010
+    1 USC Sec. 211                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2632,7 +2636,7 @@
 
 
 -CITE-
-    1 USC Sec. 212                                              02/01/2010
+    1 USC Sec. 212                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2663,7 +2667,7 @@
 
 
 -CITE-
-    1 USC Sec. 213                                              02/01/2010
+    1 USC Sec. 213                                              01/07/2011
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
