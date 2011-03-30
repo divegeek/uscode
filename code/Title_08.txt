@@ -1,11 +1,10 @@
 -CITE-
-    8 USC TITLE 8 - ALIENS AND NATIONALITY                      02/01/2010
+    8 USC TITLE 8 - ALIENS AND NATIONALITY                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
-    
--HEAD-    
                      TITLE 8 - ALIENS AND NATIONALITY                 
+
 
 -MISC1-
                                                                 
@@ -30,7 +29,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 1 - GENERAL PROVISIONS                        02/01/2010
+    8 USC CHAPTER 1 - GENERAL PROVISIONS                        01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44,7 +43,7 @@
 
 
 -CITE-
-    8 USC Secs. 1 to 18                                         02/01/2010
+    8 USC Secs. 1 to 18                                         01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -159,7 +158,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 2 - ELECTIVE FRANCHISE                        02/01/2010
+    8 USC CHAPTER 2 - ELECTIVE FRANCHISE                        01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -173,7 +172,7 @@
 
 
 -CITE-
-    8 USC Secs. 31, 32                                          02/01/2010
+    8 USC Secs. 31, 32                                          01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -191,7 +190,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 3 - CIVIL RIGHTS                              02/01/2010
+    8 USC CHAPTER 3 - CIVIL RIGHTS                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -205,7 +204,7 @@
 
 
 -CITE-
-    8 USC Secs. 41 to 43                                        02/01/2010
+    8 USC Secs. 41 to 43                                        01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -224,7 +223,7 @@
 
 
 -CITE-
-    8 USC Secs. 44, 45                                          02/01/2010
+    8 USC Secs. 44, 45                                          01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -249,7 +248,7 @@
 
 
 -CITE-
-    8 USC Secs. 46 to 51                                        02/01/2010
+    8 USC Secs. 46 to 51                                        01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -268,7 +267,7 @@
 
 
 -CITE-
-    8 USC Sec. 52                                               02/01/2010
+    8 USC Sec. 52                                               01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -290,7 +289,7 @@
 
 
 -CITE-
-    8 USC Secs. 53 to 56                                        02/01/2010
+    8 USC Secs. 53 to 56                                        01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -309,7 +308,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 4 - FREEDMEN                                  02/01/2010
+    8 USC CHAPTER 4 - FREEDMEN                                  01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -323,7 +322,7 @@
 
 
 -CITE-
-    8 USC Secs. 61 to 65                                        02/01/2010
+    8 USC Secs. 61 to 65                                        01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -350,7 +349,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 5 - ALIEN OWNERSHIP OF LAND                   02/01/2010
+    8 USC CHAPTER 5 - ALIEN OWNERSHIP OF LAND                   01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -364,7 +363,7 @@
 
 
 -CITE-
-    8 USC Secs. 71 to 78                                        02/01/2010
+    8 USC Secs. 71 to 78                                        01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -383,7 +382,7 @@
 
 
 -CITE-
-    8 USC Secs. 79 to 82                                        02/01/2010
+    8 USC Secs. 79 to 82                                        01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -408,7 +407,7 @@
 
 
 -CITE-
-    8 USC Secs. 83 to 86                                        02/01/2010
+    8 USC Secs. 83 to 86                                        01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -426,7 +425,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 6 - IMMIGRATION                               02/01/2010
+    8 USC CHAPTER 6 - IMMIGRATION                               01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -440,7 +439,7 @@
 
 -CITE-
     8 USC SUBCHAPTER I - IMMIGRATION AND NATURALIZATION
-           AGENCIES, OFFICERS, AND STATIONS                02/01/2010
+           AGENCIES, OFFICERS, AND STATIONS                01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -457,7 +456,7 @@
 
 
 -CITE-
-    8 USC Secs. 100, 101                                        02/01/2010
+    8 USC Secs. 100, 101                                        01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -478,7 +477,7 @@
 
 
 -CITE-
-    8 USC Sec. 102                                              02/01/2010
+    8 USC Sec. 102                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -503,7 +502,7 @@
 
 
 -CITE-
-    8 USC Secs. 103, 103a                                       02/01/2010
+    8 USC Secs. 103, 103a                                       01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -546,7 +545,7 @@
 
 
 -CITE-
-    8 USC Sec. 104                                              02/01/2010
+    8 USC Sec. 104                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -571,7 +570,7 @@
 
 
 -CITE-
-    8 USC Sec. 105                                              02/01/2010
+    8 USC Sec. 105                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -593,7 +592,7 @@
 
 
 -CITE-
-    8 USC Secs. 106 to 106c                                     02/01/2010
+    8 USC Secs. 106 to 106c                                     01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -620,7 +619,7 @@
 
 
 -CITE-
-    8 USC Sec. 107                                              02/01/2010
+    8 USC Sec. 107                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -644,7 +643,7 @@
 
 
 -CITE-
-    8 USC Secs. 108, 109                                        02/01/2010
+    8 USC Secs. 108, 109                                        01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -673,7 +672,7 @@
 
 
 -CITE-
-    8 USC Secs. 109a to 109d                                    02/01/2010
+    8 USC Secs. 109a to 109d                                    01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -707,7 +706,7 @@
 
 
 -CITE-
-    8 USC Sec. 110                                              02/01/2010
+    8 USC Sec. 110                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -731,7 +730,7 @@
 
 
 -CITE-
-    8 USC Sec. 111                                              02/01/2010
+    8 USC Sec. 111                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -751,7 +750,7 @@
 
 
 -CITE-
-    8 USC Sec. 112                                              02/01/2010
+    8 USC Sec. 112                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -778,7 +777,7 @@
 
 
 -CITE-
-    8 USC Sec. 113                                              02/01/2010
+    8 USC Sec. 113                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -800,7 +799,7 @@
 
 
 -CITE-
-    8 USC Sec. 114                                              02/01/2010
+    8 USC Sec. 114                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -828,7 +827,7 @@
 
 
 -CITE-
-    8 USC Secs. 115, 116                                        02/01/2010
+    8 USC Secs. 115, 116                                        01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -854,7 +853,7 @@
 
 
 -CITE-
-    8 USC Secs. 117, 118                                        02/01/2010
+    8 USC Secs. 117, 118                                        01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -926,7 +925,7 @@
 
 -CITE-
     8 USC SUBCHAPTER II - REGULATION AND RESTRICTION OF
-           IMMIGRATION IN GENERAL                          02/01/2010
+           IMMIGRATION IN GENERAL                          01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -942,7 +941,7 @@
 
 
 -CITE-
-    8 USC Sec. 131                                              02/01/2010
+    8 USC Sec. 131                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -968,7 +967,7 @@
 
 
 -CITE-
-    8 USC Secs. 132 to 137-10                                   02/01/2010
+    8 USC Secs. 132 to 137-10                                   01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1032,7 +1031,7 @@
 
 
 -CITE-
-    8 USC Sec. 137a                                             02/01/2010
+    8 USC Sec. 137a                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1080,7 +1079,7 @@
 
 
 -CITE-
-    8 USC Secs. 137b to 173                                     02/01/2010
+    8 USC Secs. 137b to 173                                     01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1219,7 +1218,7 @@
 
 
 -CITE-
-    8 USC Sec. 174                                              02/01/2010
+    8 USC Sec. 174                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1246,7 +1245,7 @@
 
 
 -CITE-
-    8 USC Secs. 175 to 181                                      02/01/2010
+    8 USC Secs. 175 to 181                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1291,7 +1290,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER III - QUOTA AND NONQUOTA IMMIGRANTS        02/01/2010
+    8 USC SUBCHAPTER III - QUOTA AND NONQUOTA IMMIGRANTS        01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1306,7 +1305,7 @@
 
 
 -CITE-
-    8 USC Secs. 201 to 204                                      02/01/2010
+    8 USC Secs. 201 to 204                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1340,7 +1339,7 @@
 
 
 -CITE-
-    8 USC Secs. 204a, 204b                                      02/01/2010
+    8 USC Secs. 204a, 204b                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1363,7 +1362,7 @@
 
 
 -CITE-
-    8 USC Secs. 204c to 219                                     02/01/2010
+    8 USC Secs. 204c to 219                                     01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1440,7 +1439,7 @@
 
 
 -CITE-
-    8 USC Sec. 220                                              02/01/2010
+    8 USC Sec. 220                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1462,7 +1461,7 @@
 
 
 -CITE-
-    8 USC Secs. 221 to 227                                      02/01/2010
+    8 USC Secs. 221 to 227                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1499,7 +1498,7 @@
 
 
 -CITE-
-    8 USC Sec. 228                                              02/01/2010
+    8 USC Sec. 228                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1520,7 +1519,7 @@
 
 
 -CITE-
-    8 USC Secs. 229 to 231                                      02/01/2010
+    8 USC Secs. 229 to 231                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1547,7 +1546,7 @@
 
 
 -CITE-
-    8 USC Secs. 232 to 237                                      02/01/2010
+    8 USC Secs. 232 to 237                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1571,7 +1570,7 @@
 
 
 -CITE-
-    8 USC Sec. 238                                              02/01/2010
+    8 USC Sec. 238                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1590,7 +1589,7 @@
 
 
 -CITE-
-    8 USC Sec. 239                                              02/01/2010
+    8 USC Sec. 239                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1611,7 +1610,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER IV - ALIEN VETERANS OF WORLD WAR I         02/01/2010
+    8 USC SUBCHAPTER IV - ALIEN VETERANS OF WORLD WAR I         01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1626,7 +1625,7 @@
 
 
 -CITE-
-    8 USC Secs. 241 to 246                                      02/01/2010
+    8 USC Secs. 241 to 246                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1646,7 +1645,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 7 - EXCLUSION OF CHINESE                      02/01/2010
+    8 USC CHAPTER 7 - EXCLUSION OF CHINESE                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1671,7 +1670,7 @@
 
 
 -CITE-
-    8 USC Sec. 261                                              02/01/2010
+    8 USC Sec. 261                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1703,7 +1702,7 @@
 
 
 -CITE-
-    8 USC Secs. 262 to 297                                      02/01/2010
+    8 USC Secs. 262 to 297                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1740,7 +1739,7 @@
 
 
 -CITE-
-    8 USC Sec. 298                                              02/01/2010
+    8 USC Sec. 298                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1765,7 +1764,7 @@
 
 
 -CITE-
-    8 USC Sec. 299                                              02/01/2010
+    8 USC Sec. 299                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1786,7 +1785,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 8 - THE COOLY TRADE                           02/01/2010
+    8 USC CHAPTER 8 - THE COOLY TRADE                           01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1800,7 +1799,7 @@
 
 
 -CITE-
-    8 USC Secs. 331 to 339                                      02/01/2010
+    8 USC Secs. 331 to 339                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1835,7 +1834,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 9 - MISCELLANEOUS PROVISIONS                  02/01/2010
+    8 USC CHAPTER 9 - MISCELLANEOUS PROVISIONS                  01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1849,7 +1848,7 @@
 
 
 -CITE-
-    8 USC Secs. 351 to 416                                      02/01/2010
+    8 USC Secs. 351 to 416                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2183,7 +2182,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 10 - ALIEN REGISTRATION                       02/01/2010
+    8 USC CHAPTER 10 - ALIEN REGISTRATION                       01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2197,7 +2196,7 @@
 
 
 -CITE-
-    8 USC Secs. 451 to 460                                      02/01/2010
+    8 USC Secs. 451 to 460                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2258,7 +2257,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 11 - NATIONALITY                              02/01/2010
+    8 USC CHAPTER 11 - NATIONALITY                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2271,7 +2270,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER I - DEFINITIONS                            02/01/2010
+    8 USC SUBCHAPTER I - DEFINITIONS                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2286,7 +2285,7 @@
 
 
 -CITE-
-    8 USC Secs. 501 to 504                                      02/01/2010
+    8 USC Secs. 501 to 504                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2308,7 +2307,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER II - NATIONALITY AT BIRTH                  02/01/2010
+    8 USC SUBCHAPTER II - NATIONALITY AT BIRTH                  01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2323,7 +2322,7 @@
 
 
 -CITE-
-    8 USC Secs. 601 to 605                                      02/01/2010
+    8 USC Secs. 601 to 605                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2351,7 +2350,7 @@
 
 
 -CITE-
-    8 USC Sec. 606                                              02/01/2010
+    8 USC Sec. 606                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2371,7 +2370,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER III - NATIONALITY THROUGH NATURALIZATION    02/01/2010 
+    8 USC SUBCHAPTER III - NATIONALITY THROUGH NATURALIZATION    01/07/2011 
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2386,7 +2385,7 @@
 
 
 -CITE-
-    8 USC Secs. 701 to 724a                                     02/01/2010
+    8 USC Secs. 701 to 724a                                     01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2506,7 +2505,7 @@
 
 
 -CITE-
-    8 USC Sec. 724a-1                                           02/01/2010
+    8 USC Sec. 724a-1                                           01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2527,7 +2526,7 @@
 
 
 -CITE-
-    8 USC Secs. 725 to 727                                      02/01/2010
+    8 USC Secs. 725 to 727                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2557,7 +2556,7 @@
 
 
 -CITE-
-    8 USC Sec. 727a                                             02/01/2010
+    8 USC Sec. 727a                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2578,7 +2577,7 @@
 
 
 -CITE-
-    8 USC Secs. 728 to 746                                      02/01/2010
+    8 USC Secs. 728 to 746                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2668,7 +2667,7 @@
 
 
 -CITE-
-    8 USC Sec. 747                                              02/01/2010
+    8 USC Sec. 747                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2689,7 +2688,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER IV - LOSS OF NATIONALITY                   02/01/2010
+    8 USC SUBCHAPTER IV - LOSS OF NATIONALITY                   01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2704,7 +2703,7 @@
 
 
 -CITE-
-    8 USC Sec. 800                                              02/01/2010
+    8 USC Sec. 800                                              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2724,7 +2723,7 @@
 
 
 -CITE-
-    8 USC Secs. 801 to 810                                      02/01/2010
+    8 USC Secs. 801 to 810                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2782,7 +2781,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER V - MISCELLANEOUS                          02/01/2010
+    8 USC SUBCHAPTER V - MISCELLANEOUS                          01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2797,7 +2796,7 @@
 
 
 -CITE-
-    8 USC Secs. 901 to 903                                      02/01/2010
+    8 USC Secs. 901 to 903                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2828,7 +2827,7 @@
 
 
 -CITE-
-    8 USC Secs. 903a, 903b                                      02/01/2010
+    8 USC Secs. 903a, 903b                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2848,7 +2847,7 @@
 
 
 -CITE-
-    8 USC Secs. 904 to 907                                      02/01/2010
+    8 USC Secs. 904 to 907                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2891,7 +2890,7 @@
 -CITE-
     8 USC SUBCHAPTER VI - NATURALIZATION OF PERSONS SERVING IN
            THE ARMED FORCES OF THE UNITED STATES DURING
-           WORLD WAR II                                    02/01/2010
+           WORLD WAR II                                    01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2909,7 +2908,7 @@
 
 
 -CITE-
-    8 USC Secs. 1001 to 1006                                    02/01/2010
+    8 USC Secs. 1001 to 1006                                    01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2957,17 +2956,15 @@
 
 
 
--CITE-    
-    8 USC CHAPTER 12 - IMMIGRATION AND NATIONALITY              02/01/2010
+-CITE-    8 USC CHAPTER 12 - IMMIGRATION AND NATIONALITY              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
     CHAPTER 12 - IMMIGRATION AND NATIONALITY
-
--HEAD-
+-MISC1-
                  CHAPTER 12 - IMMIGRATION AND NATIONALITY             
 
--MISC1-
+
                      SUBCHAPTER I - GENERAL PROVISIONS                 
     Sec.                                                     
     1101.       Definitions.                                          
@@ -3344,7 +3341,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER I - GENERAL PROVISIONS                     02/01/2010
+    8 USC SUBCHAPTER I - GENERAL PROVISIONS                     01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -3359,7 +3356,7 @@
 
 
 -CITE-
-    8 USC Sec. 1101                                             02/01/2010
+    8 USC Sec. 1101                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -3405,8 +3402,8 @@
     or other officer or employee of the United States designated under
     regulations prescribed under authority contained in this chapter,
     for the purpose of issuing immigrant or nonimmigrant visas or, when
-    used in subchapter III of this chapter, for the purpose of
-    adjudicating nationality.
+    used in subchapter III, for the purpose of adjudicating
+    nationality.
       (10) The term "crewman" means a person serving in any capacity on
     board a vessel or aircraft.
       (11) The term "diplomatic visa" means a nonimmigrant visa bearing
@@ -3515,22 +3512,22 @@
       pursuing such a course of study consistent with section 1184(l)
       (!1) of this title at an established college, university,
       seminary, conservatory, academic high school, elementary school,
-      or other academic institution or in a language training program
-      in the United States, particularly designated by him and approved
-      by the Attorney General after consultation with the Secretary of
-      Education, which institution or place of study shall have agreed
-      to report to the Attorney General the termination of attendance
-      of each nonimmigrant student, and if any such institution of
-      learning or place of study fails to make reports promptly the
-      approval shall be withdrawn, (ii) the alien spouse and minor
-      children of any alien described in clause (i) if accompanying or
-      following to join such an alien, and (iii) an alien who is a
-      national of Canada or Mexico, who maintains actual residence and
-      place of abode in the country of nationality, who is described in
-      clause (i) except that the alien's qualifications for and actual
-      course of study may be full or part-time, and who commutes to the
-      United States institution or place of study from Canada or
-      Mexico;
+      or other academic institution or in an accredited language
+      training program in the United States, particularly designated by
+      him and approved by the Attorney General after consultation with
+      the Secretary of Education, which institution or place of study
+      shall have agreed to report to the Attorney General the
+      termination of attendance of each nonimmigrant student, and if
+      any such institution of learning or place of study fails to make
+      reports promptly the approval shall be withdrawn, (ii) the alien
+      spouse and minor children of any alien described in clause (i) if
+      accompanying or following to join such an alien, and (iii) an
+      alien who is a national of Canada or Mexico, who maintains actual
+      residence and place of abode in the country of nationality, who
+      is described in clause (i) except that the alien's qualifications
+      for and actual course of study may be full or part-time, and who
+      commutes to the United States institution or place of study from
+      Canada or Mexico;
 
         (G)(i) a designated principal resident representative of a
       foreign government recognized de jure by the United States, which
@@ -4442,7 +4439,10 @@
         (G) section 309 of the Illegal Immigration Reform and Immigrant
       Responsibility Act of 1996 (division C of Public Law 104-208).
 
-      (b) As used in subchapters I and II of this chapter - 
+      (52) The term "accredited language training program" means a
+    language training program that is accredited by an accrediting
+    agency recognized by the Secretary of Education.
+      (b) As used in subchapters I and II - 
       (1) The term "child" means an unmarried person under twenty-one
     years of age who is - 
         (A) a child born in wedlock;
@@ -4506,50 +4506,62 @@
       of 18 at the time a petition is filed in his or her behalf to
       accord a classification as an immediate relative under section
       1151(b) of this title; or
-        (G) a child, under the age of sixteen at the time a petition is
-      filed on the child's behalf to accord a classification as an
-      immediate relative under section 1151(b) of this title, who has
-      been adopted in a foreign state that is a party to the Convention
-      on Protection of Children and Co-operation in Respect of
-      Intercountry Adoption done at The Hague on May 29, 1993, or who
-      is emigrating from such a foreign state to be adopted in the
-      United States, by a United States citizen and spouse jointly, or
-      by an unmarried United States citizen at least 25 years of age - 
-          (i) if - 
-            (I) the Attorney General is satisfied that proper care will
-          be furnished the child if admitted to the United States;
-            (II) the child's natural parents (or parent, in the case of
-          a child who has one sole or surviving parent because of the
-          death or disappearance of, abandonment or desertion by, the
-          other parent), or other persons or institutions that retain
-          legal custody of the child, have freely given their written
-          irrevocable consent to the termination of their legal
-          relationship with the child, and to the child's emigration
-          and adoption;
-            (III) in the case of a child having two living natural
-          parents, the natural parents are incapable of providing
-          proper care for the child;
-            (IV) the Attorney General is satisfied that the purpose of
-          the adoption is to form a bona fide parent-child
-          relationship, and the parent-child relationship of the child
-          and the natural parents has been terminated (and in carrying
-          out both obligations under this subclause the Attorney
-          General may consider whether there is a petition pending to
-          confer immigrant status on one or both of such natural
-          parents); and
-            (V) in the case of a child who has not been adopted - 
-              (aa) the competent authority of the foreign state has
-            approved the child's emigration to the United States for
-            the purpose of adoption by the prospective adoptive parent
-            or parents; and
-              (bb) the prospective adoptive parent or parents has or
-            have complied with any pre-adoption requirements of the
-            child's proposed residence; and
+        (G)(i) a child, younger than 16 years of age at the time a
+      petition is filed on the child's behalf to accord a
+      classification as an immediate relative under section 1151(b) of
+      this title, who has been adopted in a foreign state that is a
+      party to the Convention on Protection of Children and Co-
+      operation in Respect of Intercountry Adoption, done at The Hague
+      on May 29, 1993, or who is emigrating from such a foreign state
+      to be adopted in the United States by a United States citizen and
+      spouse jointly or by an unmarried United States citizen who is at
+      least 25 years of age, Provided, That - 
+          (I) the Secretary of Homeland Security is satisfied that
+        proper care will be furnished the child if admitted to the
+        United States;
+          (II) the child's natural parents (or parent, in the case of a
+        child who has one sole or surviving parent because of the death
+        or disappearance of, abandonment or desertion by, the other
+        parent), or other persons or institutions that retain legal
+        custody of the child, have freely given their written
+        irrevocable consent to the termination of their legal
+        relationship with the child, and to the child's emigration and
+        adoption;
+          (III) in the case of a child having two living natural
+        parents, the natural parents are incapable of providing proper
+        care for the child;
+          (IV) the Secretary of Homeland Security is satisfied that the
+        purpose of the adoption is to form a bona fide parent-child
+        relationship, and the parent-child relationship of the child
+        and the natural parents has been terminated (and in carrying
+        out both obligations under this subclause the Secretary of
+        Homeland Security may consider whether there is a petition
+        pending to confer immigrant status on one or both of such
+        natural parents); and
+          (V) in the case of a child who has not been adopted - 
+            (aa) the competent authority of the foreign state has
+          approved the child's emigration to the United States for the
+          purpose of adoption by the prospective adoptive parent or
+          parents; and
+            (bb) the prospective adoptive parent or parents has or have
+          complied with any pre-adoption requirements of the child's
+          proposed residence; and
 
-          (ii) except that no natural parent or prior adoptive parent
-        of any such child shall thereafter, by virtue of such
-        parentage, be accorded any right, privilege, or status under
-        this chapter.
+        (ii) except that no natural parent or prior adoptive parent of
+      any such child shall thereafter, by virtue of such parentage, be
+      accorded any right, privilege, or status under this chapter; or
+        (iii) subject to the same provisos as in clauses (i) and (ii),
+      a child who - 
+          (I) is a natural sibling of a child described in clause (i),
+        subparagraph (E)(i), or subparagraph (F)(i);
+          (II) was adopted abroad, or is coming to the United States
+        for adoption, by the adoptive parent (or prospective adoptive
+        parent) or parents of the sibling described in clause (i),
+        subparagraph (E)(i), or subparagraph (F)(i); and
+          (III) is otherwise described in clause (i), except that the
+        child is younger than 18 years of age at the time a petition is
+        filed on his or her behalf for classification as an immediate
+        relative under section 1151(b) of this title.
 
       (2) The terms "parent", "father", or "mother" mean a parent,
     father, or mother only where the relationship exists by reason of
@@ -4576,7 +4588,7 @@
     Barbados, Jamaica, the Windward and Leeward Islands, Trinidad,
     Martinique, and other British, French, and Netherlands territory or
     possessions in or bordering on the Caribbean Sea.
-      (c) As used in subchapter III of this chapter - 
+      (c) As used in subchapter III - 
       (1) The term "child" means an unmarried person under twenty-one
     years of age and includes a child legitimated under the law of the
     child's residence or domicile, or under the law of the father's
@@ -4774,7 +4786,9 @@
     Stat. 4193; Pub. L. 110-457, title II, Secs. 201(a), 235(d)(1),
     Dec. 23, 2008, 122 Stat. 5052, 5079; Pub. L. 111-9, Sec. 1, Mar.
     20, 2009, 123 Stat. 989; Pub. L. 111-83, title V, Sec. 568(a)(1),
-    Oct. 28, 2009, 123 Stat. 2186.)
+    Oct. 28, 2009, 123 Stat. 2186; Pub. L. 111-287, Sec. 3, Nov. 30,
+    2010, 124 Stat. 3058; Pub. L. 111-306, Sec. 1(a), Dec. 14, 2010,
+    124 Stat. 3280.)
 
 
 -STATAMEND-
@@ -4784,12 +4798,12 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
-      This chapter, referred to in subsecs. (a)-(c) and (e)-(g), was in
-    the original, "this Act", meaning act June 27, 1952, ch. 477, 66
-    Stat. 163, known as the Immigration and Nationality Act, which is
-    classified principally to this chapter. For complete classification
-    of this Act to the Code, see Short Title note set out below and
-    Tables.
+      This chapter, referred to in subsecs. (a), (b) (except par.
+    (1)(G)(ii)), (c), and (e)-(g), was in the original, "this Act",
+    meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the
+    Immigration and Nationality Act, which is classified principally to
+    this chapter. For complete classification of this Act to the Code,
+    see Short Title note set out below and Tables.
       The Headquarters Agreement with the United Nations (61 Stat.
     758), referred to in subsec. (a)(15)(C), is set out as a note under
     section 287 of Title 22, Foreign Relations and Intercourse.
@@ -4862,6 +4876,14 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2010 - Subsec. (a)(15)(F)(i). Pub. L. 111-306, Sec. 1(a)(1),
+    substituted "an accredited language" for "a language".
+      Subsec. (a)(52). Pub. L. 111-306, Sec. 1(a)(2), added par. (52).
+      Subsec. (b)(1)(G). Pub. L. 111-287 amended subpar. (G) generally.
+    Prior to amendment, subpar. (G) provided that the term "child"
+    includes a child who is migrating from certain foreign states to
+    the United States to be adopted if the Attorney General is
+    satisfied that certain criteria are met.
       2009 - Subsec. (a)(27)(C)(ii)(II), (III). Pub. L. 111-83
     substituted "September 30, 2012," for "September 30, 2009,".
       Pub. L. 111-9 substituted "September 30, 2009," for "March 6,
@@ -5103,8 +5125,8 @@
     section)," for "sixteen years,".
       1998 - Subsec. (a)(9). Pub. L. 105-277, Sec. 2222(e), inserted
     "or employee" after "other officer" and "or, when used in
-    subchapter III of this chapter, for the purpose of adjudicating
-    nationality" before period at end.
+    subchapter III, for the purpose of adjudicating nationality" before
+    period at end.
       Subsec. (a)(15)(N). Pub. L. 105-277, Sec. 421(b), inserted "(or
     under analogous authority under paragraph (27)(L))" after
     "(27)(I)(i)" in cl. (i) and after "(27)(I)" in cl. (ii).
@@ -5717,6 +5739,54 @@
       1957 - Subsec. (b)(1). Pub. L. 85-316 inserted "whether or not
     born out of wedlock" in subpar. (B), and added subpars. (D) and
     (E).
+
+                     EFFECTIVE DATE OF 2010 AMENDMENT                 
+      Pub. L. 111-306, Sec. 1(b), Dec. 14, 2010, 124 Stat. 3280,
+    provided that:
+      "(1) In general. - Except as provided in paragraph (2), the
+    amendments made by subsection (a) [amending this section] shall - 
+        "(A) take effect on the date that is 180 days after the date of
+      the enactment of this Act [Dec. 14, 2010]; and
+        "(B) apply with respect to applications for a nonimmigrant visa
+      under section 101(a)(15)(F)(i) of the Immigration and Nationality
+      Act (8 U.S.C. 1101(a)(15)(F)(i)) that are filed on or after the
+      effective date described in subparagraph (A).
+      "(2) Temporary exception. - 
+        "(A) In general. - Notwithstanding section 101(a)(15)(F)(i) of
+      the Immigration and Nationality Act, as amended by subsection
+      (a), during the 3-year period beginning on the date of the
+      enactment of this Act, an alien seeking to enter the United
+      States to pursue a course of study at a language training program
+      that has been certified by the Secretary of Homeland Security and
+      has not been accredited or denied accreditation by an entity
+      described in section 101(a)(52) of such Act [8 U.S.C.
+      1101(a)(52)] may be granted a nonimmigrant visa under such
+      section 101(a)(15)(F)(i).
+        "(B) Additional requirement. - An alien may not be granted a
+      nonimmigrant visa under subparagraph (A) if the sponsoring
+      institution of the language training program to which the alien
+      seeks to enroll does not - 
+          "(i) submit an application for the accreditation of such
+        program to a regional or national accrediting agency recognized
+        by the Secretary of Education within 1 year after the date of
+        the enactment of this Act; and
+          "(ii) comply with the applicable accrediting requirements of
+        such agency."
+      Pub. L. 111-287, Sec. 4, Nov. 30, 2010, 124 Stat. 3059, provided
+    that:
+      "(a) In General. - Except as provided in subsection (b), the
+    amendments made by this Act [amending this section and section 1182
+    of this title] shall take effect on the date of the enactment of
+    this Act [Nov. 30, 2010].
+      "(b) Exception. - An alien who is described in section
+    101(b)(1)(G)(iii) of the Immigration and Nationality Act [8 U.S.C.
+    1101(b)(1)(G)(iii)], as added by section 3, and attained 18 years
+    of age on or after April 1, 2008, shall be deemed to meet the age
+    requirement specified in subclause (III) of such section if a
+    petition for classification of the alien as an immediate relative
+    under section 201(b) of the Immigration and Nationality Act (8
+    U.S.C. 1151(b)) is filed not later than 2 years after the date of
+    the enactment of this Act."
 
                      EFFECTIVE DATE OF 2008 AMENDMENT                 
       Pub. L. 110-457, title II, Sec. 201(f), Dec. 23, 2008, 122 Stat.
@@ -6712,6 +6782,12 @@
     hundred eightieth day immediately following the date of its
     enactment [June 27, 1952]."
 
+                       SHORT TITLE OF 2010 AMENDMENT                   
+      Pub. L. 111-287, Sec. 1, Nov. 30, 2010, 124 Stat. 3058, provided
+    that: "This Act [amending this section and section 1182 of this
+    title and enacting provisions set out as a note under this section]
+    may be cited as [the] 'International Adoption Simplification Act'."
+
                        SHORT TITLE OF 2008 AMENDMENT                   
       Pub. L. 110-391, Sec. 1, Oct. 10, 2008, 122 Stat. 4193, provided
     that: "This Act [amending this section and enacting provisions set
@@ -7369,6 +7445,37 @@
       [Determination of President of the United States, No. 95-49,
     Sept. 28, 1995, 60 F.R. 53677.]
 
+                               FEE INCREASES                           
+      Pub. L. 111-230, title IV, Sec. 402, Aug. 13, 2010, 124 Stat.
+    2487, as amended by Pub. L. 111-347, title III, Sec. 302, Jan. 2,
+    2011, 124 Stat. 3667, provided that:
+      "(a) Notwithstanding any other provision of this Act or any other
+    provision of law, during the period beginning on the date of the
+    enactment of this Act [Aug. 13, 2010] and ending on September 30,
+    2015, the filing fee and fraud prevention and detection fee
+    required to be submitted with an application for admission as a
+    nonimmigrant under section 101(a)(15)(L) of the Immigration and
+    Nationality Act (8 U.S.C. 1101(a)(15)(L)) shall be increased by
+    $2,250 for applicants that employ 50 or more employees in the
+    United States if more than 50 percent of the applicant's employees
+    are nonimmigrants admitted pursuant to section 101(a)(15)(H)(i)(b)
+    of such Act or section 101(a)(15)(L) of such Act.
+      "(b) Notwithstanding any other provision of this Act or any other
+    provision of law, during the period beginning on the date of the
+    enactment of this Act and ending on September 30, 2015, the filing
+    fee and fraud prevention and detection fee required to be submitted
+    with an application for admission as a nonimmigrant under section
+    101(a)(15)(H)(i)(b) of the Immigration and Nationality Act (8
+    U.S.C. 1101(a)(15)(H)(i)(b)) shall be increased by $2,000 for
+    applicants that employ 50 or more employees in the United States if
+    more than 50 percent of the applicant's employees are such
+    nonimmigrants or nonimmigrants described in section 101(a)(15)(L)
+    of such Act.
+      "(c) During the period beginning on the date of the enactment of
+    this Act and ending on September 30, 2015, all amounts collected
+    pursuant to the fee increases authorized under this section shall
+    be deposited in the General Fund of the Treasury."
+
                          AFGHAN ALLIES PROTECTION                     
       Pub. L. 111-8, div. F, title VI, Mar. 11, 2009, 123 Stat. 807, as
     amended by Pub. L. 111-118, div. A, title VIII, Sec. 8120(b), Dec.
@@ -7628,7 +7735,8 @@
         failing to provide such information.
         "(4) Executive agency defined. - In this subsection, the term
       'executive agency' has the meaning given that term in section 4
-      of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
+      of the Office of Federal Procurement Policy Act ([former] 41
+      U.S.C. 403) [see 41 U.S.C. 133].
       "(d) Rule of Construction. - Nothing in this section may be
     construed to affect the authority of the Secretary of Homeland
     Security under section 1059 of the National Defense Authorization
@@ -9068,7 +9176,7 @@
 
 
 -CITE-
-    8 USC Sec. 1102                                             02/01/2010
+    8 USC Sec. 1102                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -9114,6 +9222,15 @@
     102-232, title III, Sec. 307(i), Dec. 12, 1991, 105 Stat. 1756;
     Pub. L. 104-208, div. C, title III, Sec. 308(d)(4)(B), Sept. 30,
     1996, 110 Stat. 3009-617.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in introductory provisions, was in the
+    original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat.
+    163, known as the Immigration and Nationality Act, which is
+    classified principally to this chapter. For complete classification
+    of this Act to the Code, see Short Title note set out under section
+    1101 of this title and Tables.
 
 
 -MISC1-
@@ -9171,7 +9288,7 @@
 
 
 -CITE-
-    8 USC Sec. 1103                                             02/01/2010
+    8 USC Sec. 1103                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -9352,6 +9469,12 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
+      This chapter, referred to in text, was in the original, "this
+    Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as
+    the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
       The Immigration Reform, Accountability and Security Enhancement
     Act of 2002, referred to in subsec. (g)(1), was S. 2444 of the
     107th Congress, as introduced on May 2, 2002, which was not enacted
@@ -9896,7 +10019,7 @@
 
 
 -CITE-
-    8 USC Sec. 1104                                             02/01/2010
+    8 USC Sec. 1104                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -9964,6 +10087,15 @@
     105, title I, Sec. 109(b)(1), Aug. 17, 1977, 91 Stat. 847; Pub. L.
     100-525, Sec. 9(d), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 103-236,
     title I, Sec. 162(h)(2), Apr. 30, 1994, 108 Stat. 407.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsecs. (a), (b), and (e), was in
+    the original, "this Act", meaning act June 27, 1952, ch. 477, 66
+    Stat. 163, known as the Immigration and Nationality Act, which is
+    classified principally to this chapter. For complete classification
+    of this Act to the Code, see Short Title note set out under section
+    1101 of this title and Tables.
 
 
 -MISC1-
@@ -10075,7 +10207,7 @@
 
 
 -CITE-
-    8 USC Sec. 1105                                             02/01/2010
+    8 USC Sec. 1105                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10155,6 +10287,15 @@
     Pub. L. 107-56, title IV, Sec. 403(a), Oct. 26, 2001, 115 Stat.
     343.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (a), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
+
 
 -MISC1-
                                 AMENDMENTS                            
@@ -10218,7 +10359,7 @@
 
 
 -CITE-
-    8 USC Sec. 1105a                                            02/01/2010
+    8 USC Sec. 1105a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10284,7 +10425,7 @@
 
 
 -CITE-
-    8 USC Sec. 1106                                             02/01/2010
+    8 USC Sec. 1106                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10322,7 +10463,7 @@
 
 
 -CITE-
-    8 USC Sec. 1107                                             02/01/2010
+    8 USC Sec. 1107                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10358,7 +10499,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER II - IMMIGRATION                           02/01/2010
+    8 USC SUBCHAPTER II - IMMIGRATION                           01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10372,7 +10513,7 @@
 
 
 -CITE-
-    8 USC Part I - Selection System                             02/01/2010
+    8 USC Part I - Selection System                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10388,7 +10529,7 @@
 
 
 -CITE-
-    8 USC Sec. 1151                                             02/01/2010
+    8 USC Sec. 1151                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -11073,7 +11214,7 @@
 
 
 -CITE-
-    8 USC Sec. 1151a                                            02/01/2010
+    8 USC Sec. 1151a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -11103,7 +11244,7 @@
 
 
 -CITE-
-    8 USC Sec. 1152                                             02/01/2010
+    8 USC Sec. 1152                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -11333,6 +11474,15 @@
     Dec. 12, 1991, 105 Stat. 1742; Pub. L. 104-208, div. C, title VI,
     Sec. 633, Sept. 30, 1996, 110 Stat. 3009-701; Pub. L. 106-313,
     title I, Sec. 104(a), (b), Oct. 17, 2000, 114 Stat. 1252, 1253.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (b), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
 
 
 -MISC1-
@@ -11624,7 +11774,7 @@
 
 
 -CITE-
-    8 USC Sec. 1153                                             02/01/2010
+    8 USC Sec. 1153                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -13240,7 +13390,7 @@
 
 
 -CITE-
-    8 USC Sec. 1154                                             02/01/2010
+    8 USC Sec. 1154                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -13887,6 +14037,12 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (a)(1)(A)(iii)(II)(aa)(BB),
+    (B)(ii)(II)(aa)(BB), was in the original, "this Act", meaning act
+    June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and
+    Nationality Act, which is classified principally to this chapter.
+    For complete classification of this Act to the Code, see Short
+    Title note set out under section 1101 of this title and Tables.
       The Child Status Protection Act, referred to in subsec.
     (a)(1)(D)(iii), is Pub. L. 107-208, Aug. 6, 2002, 116 Stat. 927,
     which amended this section and sections 1151, 1153, 1157, and 1158
@@ -14307,7 +14463,7 @@
 
 
 -CITE-
-    8 USC Sec. 1155                                             02/01/2010
+    8 USC Sec. 1155                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -14411,7 +14567,7 @@
 
 
 -CITE-
-    8 USC Sec. 1156                                             02/01/2010
+    8 USC Sec. 1156                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -14467,7 +14623,7 @@
 
 
 -CITE-
-    8 USC Sec. 1157                                             02/01/2010
+    8 USC Sec. 1157                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -14663,6 +14819,15 @@
     109-13, div. B, title I, Sec. 101(g)(2), May 11, 2005, 119 Stat.
     305.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (c)(1), (2)(A), was in the
+    original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat.
+    163, known as the Immigration and Nationality Act, which is
+    classified principally to this chapter. For complete classification
+    of this Act to the Code, see Short Title note set out under section
+    1101 of this title and Tables.
+
 
 -MISC1-
                              PRIOR PROVISIONS                         
@@ -14758,7 +14923,9 @@
     122 Stat. 395, as amended by Pub. L. 110-242, Sec. 1, June 3, 2008,
     122 Stat. 1567; Pub. L. 111-84, div. A, title VIII, Sec. 813(d),
     Oct. 28, 2009, 123 Stat. 2407; Pub. L. 111-118, div. A, title VIII,
-    Sec. 8120(a), Dec. 19, 2009, 123 Stat. 3457, provided that:
+    Sec. 8120(a), Dec. 19, 2009, 123 Stat. 3457; Pub. L. 111-383, div.
+    A, title X, Sec. 1075(f)(9), (10), Jan. 7, 2011, 124 Stat. 4376,
+    provided that:
 
       "SEC. 1241. SHORT TITLE.
       "This subtitle may be cited as the 'Refugee Crisis in Iraq Act of
@@ -14833,7 +15000,7 @@
     Secretary of Homeland Security, after consultation with the
     Secretary of State and the heads of relevant elements of the
     intelligence community (as defined in section 3(4) of the National
-    Security Act of 1947 (50 U.S.C. 401a(4))[)].
+    Security Act of 1947 (50 U.S.C. 401a(4))).
       "(d) Applicability of Other Requirements. - Aliens under this
     section who qualify for Priority 2 processing under the refugee
     resettlement priority system shall satisfy the requirements of
@@ -14865,7 +15032,7 @@
         "(2) is otherwise eligible to receive an immigrant visa;
         "(3) is otherwise admissible to the United States for permanent
       residence (excluding the grounds for inadmissibility specified in
-      section 212(a)(4) of such Act (8 U.S.C. 1182(a)(4))[)]; and
+      section 212(a)(4) of such Act (8 U.S.C. 1182(a)(4))); and
         "(4) cleared a background check and appropriate screening, as
       determined by the Secretary of Homeland Security.
       "(b) Aliens Described. - 
@@ -15094,8 +15261,8 @@
       an executive agency.
         "(3) Executive agency defined. - In this subsection, the term
       'executive agency' has the meaning given the term in section 4(1)
-      of the Office of Federal Procurement Policy Act (41 U.S.C.
-      403(1)).
+      of the Office of Federal Procurement Policy Act ([former] 41
+      U.S.C. 403(1)) [now 41 U.S.C. 133].
       "(d) Report on Establishment of Database. - Not later than 120
     days after the date of the enactment of this Act [Jan. 28, 2008],
     the Secretary of Defense, in consultation with the Secretary of
@@ -15507,6 +15674,8 @@
     concerning the admission and adjustment of status of refugees for
     particular fiscal years were contained in the following
     Presidential Determinations:
+      Presidential Determination No. 2011-02, Oct. 8, 2010, 75 F.R.
+    75851.
       Presidential Determination No. 2009-32, Sept. 30, 2009, 74 F.R.
     52385.
       Presidential Determination No. 2008-29, Sept. 30, 2008, 73 F.R.
@@ -15603,7 +15772,7 @@
 
 
 -CITE-
-    8 USC Sec. 1158                                             02/01/2010
+    8 USC Sec. 1158                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -15935,6 +16104,15 @@
     Pub. L. 110-457, title II, Sec. 235(d)(7), Dec. 23, 2008, 122 Stat.
     5080.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (d)(5)(B), (6), was in the
+    original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat.
+    163, known as the Immigration and Nationality Act, which is
+    classified principally to this chapter. For complete classification
+    of this Act to the Code, see Short Title note set out under section
+    1101 of this title and Tables.
+
 
 -MISC1-
                                 AMENDMENTS                            
@@ -16112,7 +16290,7 @@
 
 
 -CITE-
-    8 USC Sec. 1159                                             02/01/2010
+    8 USC Sec. 1159                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -16190,6 +16368,15 @@
     104-208, div. C, title III, Secs. 308(g)(3)(A), (4)(A), 371(b)(2),
     Sept. 30, 1996, 110 Stat. 3009-622, 3009-645; Pub. L. 109-13, div.
     B, title I, Sec. 101(g)(1), May 11, 2005, 119 Stat. 305.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsecs. (a)(2) and (b)(5), was in
+    the original, "this Act", meaning act June 27, 1952, ch. 477, 66
+    Stat. 163, known as the Immigration and Nationality Act, which is
+    classified principally to this chapter. For complete classification
+    of this Act to the Code, see Short Title note set out under section
+    1101 of this title and Tables.
 
 
 -MISC1-
@@ -16320,7 +16507,7 @@
 
 
 -CITE-
-    8 USC Sec. 1160                                             02/01/2010
+    8 USC Sec. 1160                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -16727,6 +16914,12 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
+      This chapter, referred to in subsecs. (a)(3)(A) and (d)(3)(A),
+    was in the original, "this Act", meaning act June 27, 1952, ch.
+    477, 66 Stat. 163, known as the Immigration and Nationality Act,
+    which is classified principally to this chapter. For complete
+    classification of this Act to the Code, see Short Title note set
+    out under section 1101 of this title and Tables.
       Public Law 89-732, referred to in subsec. (b)(2)(B), is Pub. L.
     89-732, Nov. 2, 1966, 80 Stat. 1161, as amended, which is set out
     as a note under section 1255 of this title.
@@ -16911,7 +17104,7 @@
 
 
 -CITE-
-    8 USC Sec. 1161                                             02/01/2010
+    8 USC Sec. 1161                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -16947,7 +17140,7 @@
 -CITE-
     8 USC Part II - Admission Qualifications for Aliens;
                      Travel Control of Citizens and
-                     Aliens                                02/01/2010
+                     Aliens                                01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -16965,7 +17158,7 @@
 
 
 -CITE-
-    8 USC Sec. 1181                                             02/01/2010
+    8 USC Sec. 1181                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -17079,7 +17272,7 @@
 
 
 -CITE-
-    8 USC Sec. 1182                                             02/01/2010
+    8 USC Sec. 1182                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -17141,8 +17334,8 @@
           Clause (ii) of subparagraph (A) shall not apply to a child
         who - 
             (i) is 10 years of age or younger,
-            (ii) is described in section 1101(b)(1)(F) of this title,
-          and
+            (ii) is described in subparagraph (F) or (G) of section
+          1101(b)(1) of this title; (!1) and
             (iii) is seeking an immigrant visa as an immediate relative
           under section 1151(b) of this title,
 
@@ -20044,7 +20237,7 @@
     L. 110-340, Sec. 2(b), Oct. 3, 2008, 122 Stat. 3736; Pub. L. 110-
     457, title II, Secs. 222(f)(1), 234, Dec. 23, 2008, 122 Stat.
     5071, 5074; Pub. L. 111-122, Sec. 3(b), Dec. 22, 2009, 123 Stat.
-    3481.)
+    3481; Pub. L. 111-287, Sec. 2, Nov. 30, 2010, 124 Stat. 3058.)
 
 
 -STATAMEND-
@@ -20054,6 +20247,12 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
+      This chapter, referred to in text, was in the original, "this
+    Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as
+    the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
       Section 3(a) of the Torture Victim Protection Act of 1991,
     referred to in subsec. (a)(3)(E)(iii)(II), is section 3(a) of Pub.
     L. 102-256, which is set out as a note under section 1350 of Title
@@ -20095,6 +20294,9 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2010 - Subsec. (a)(1)(C)(ii). Pub. L. 111-287 substituted
+    "subparagraph (F) or (G) of section 1101(b)(1) of this title;" for
+    "section 1101(b)(1)(F) of this title,".
       2009 - Subsec. (a)(3)(E)(ii). Pub. L. 111-122 struck out "conduct
     outside the United States that would, if committed in the United
     States or by a United States national, be" before "genocide".
@@ -23093,7 +23295,7 @@
 
 
 -CITE-
-    8 USC Secs. 1182a to 1182c                                  02/01/2010
+    8 USC Secs. 1182a to 1182c                                  01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -23129,7 +23331,7 @@
 
 
 -CITE-
-    8 USC Sec. 1182d                                            02/01/2010
+    8 USC Sec. 1182d                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -23188,7 +23390,7 @@
 
 
 -CITE-
-    8 USC Sec. 1182e                                            02/01/2010
+    8 USC Sec. 1182e                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -23253,7 +23455,7 @@
 
 
 -CITE-
-    8 USC Sec. 1182f                                            02/01/2010
+    8 USC Sec. 1182f                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -23314,7 +23516,7 @@
 
 
 -CITE-
-    8 USC Sec. 1183                                             02/01/2010
+    8 USC Sec. 1183                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -23412,7 +23614,7 @@
 
 
 -CITE-
-    8 USC Sec. 1183a                                            02/01/2010
+    8 USC Sec. 1183a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -23918,7 +24120,7 @@
 
 
 -CITE-
-    8 USC Sec. 1184                                             02/01/2010
+    8 USC Sec. 1184                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -25291,6 +25493,12 @@
     Intercourse. For complete classification of this Act to the Code,
     see Short Title note set out under section 288 of Title 22 and
     Tables.
+      This chapter, referred to in subsecs. (c)(4)(H), (e), and (j),
+    was in the original, "this Act", meaning act June 27, 1952, ch.
+    477, 66 Stat. 163, known as the Immigration and Nationality Act,
+    which is classified principally to this chapter. For complete
+    classification of this Act to the Code, see Short Title note set
+    out under section 1101 of this title and Tables.
       Section 3 of the Violence Against Women and Department of Justice
     Reauthorization Act of 2005, referred to in subsecs. (d)(3)(A) and
     (r)(5)(A), is section 3 of Pub. L. 109-162, which enacted sections
@@ -26379,7 +26587,7 @@
 
 
 -CITE-
-    8 USC Sec. 1184a                                            02/01/2010
+    8 USC Sec. 1184a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -26424,7 +26632,7 @@
 
 
 -CITE-
-    8 USC Sec. 1185                                             02/01/2010
+    8 USC Sec. 1185                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -26509,6 +26717,12 @@
                             REFERENCES IN TEXT                        
       For definition of Canal Zone, referred to in subsec. (c), see
     section 3602(b) of Title 22, Foreign Relations and Intercourse.
+      This chapter, referred to in subsecs. (d) and (f), was in the
+    original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat.
+    163, known as the Immigration and Nationality Act, which is
+    classified principally to this chapter. For complete classification
+    of this Act to the Code, see Short Title note set out under section
+    1101 of this title and Tables.
 
 
 -MISC1-
@@ -26791,7 +27005,7 @@
 
 
 -CITE-
-    8 USC Sec. 1186                                             02/01/2010
+    8 USC Sec. 1186                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -26817,7 +27031,7 @@
 
 
 -CITE-
-    8 USC Sec. 1186a                                            02/01/2010
+    8 USC Sec. 1186a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -27050,12 +27264,12 @@
       deadline for such an interview or the requirement for such an
       interview in such cases as may be appropriate.
     (e) Treatment of period for purposes of naturalization
-      For purposes of subchapter III of this chapter, in the case of an
-    alien who is in the United States as a lawful permanent resident on
-    a conditional basis under this section, the alien shall be
-    considered to have been admitted as an alien lawfully admitted for
-    permanent residence and to be in the United States as an alien
-    lawfully admitted to the United States for permanent residence.
+      For purposes of subchapter III, in the case of an alien who is in
+    the United States as a lawful permanent resident on a conditional
+    basis under this section, the alien shall be considered to have
+    been admitted as an alien lawfully admitted for permanent residence
+    and to be in the United States as an alien lawfully admitted to the
+    United States for permanent residence.
     (f) Treatment of certain waivers
       In the case of an alien who has permanent residence status on a
     conditional basis under this section, if, in order to obtain such
@@ -27103,6 +27317,12 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (a)(1), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
       Subsection (p) of section 1184 of this title, referred to in
     subsec. (d)(1)(A)(ii), was redesignated subsec. (r) of section 1184
     by Pub. L. 108-193, Sec. 8(a)(3), Dec. 19, 2003, 117 Stat. 2886.
@@ -27214,7 +27434,7 @@
 
 
 -CITE-
-    8 USC Sec. 1186b                                            02/01/2010
+    8 USC Sec. 1186b                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -27399,12 +27619,12 @@
       deadline for such an interview or the requirement for such an
       interview in such cases as may be appropriate.
     (e) Treatment of period for purposes of naturalization
-      For purposes of subchapter III of this chapter, in the case of an
-    alien who is in the United States as a lawful permanent resident on
-    a conditional basis under this section, the alien shall be
-    considered to have been admitted as an alien lawfully admitted for
-    permanent residence and to be in the United States as an alien
-    lawfully admitted to the United States for permanent residence.
+      For purposes of subchapter III, in the case of an alien who is in
+    the United States as a lawful permanent resident on a conditional
+    basis under this section, the alien shall be considered to have
+    been admitted as an alien lawfully admitted for permanent residence
+    and to be in the United States as an alien lawfully admitted to the
+    United States for permanent residence.
     (f) Definitions
       In this section:
         (1) The term "alien entrepreneur" means an alien who obtains
@@ -27426,6 +27646,15 @@
     105 Stat. 1743; Pub. L. 104-208, div. C, title III, Sec. 308(e)(8),
     Sept. 30, 1996, 110 Stat. 3009-620; Pub. L. 107-273, div. C, title
     I, Sec. 11036(b), Nov. 2, 2002, 116 Stat. 1847.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (a)(1), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
 
 
 -MISC1-
@@ -27980,7 +28209,7 @@
 
 
 -CITE-
-    8 USC Sec. 1187                                             02/01/2010
+    8 USC Sec. 1187                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -28815,12 +29044,25 @@
         United States.
 
         (B) Fees
-          The Secretary of Homeland Security may charge a fee for the
-        use of the System, which shall be - 
-            (i) set at a level that will ensure recovery of the full
-          costs of providing and administering the System; and
-            (ii) available to pay the costs incurred to administer the
-          System.
+          (i) In general
+            No later than 6 months after March 4, 2010, the Secretary
+          of Homeland Security shall establish a fee for the use of the
+          System and begin assessment and collection of that fee. The
+          initial fee shall be the sum of - 
+              (I) $10 per travel authorization; and
+              (II) an amount that will at least ensure recovery of the
+            full costs of providing and administering the System, as
+            determined by the Secretary.
+          (ii) Disposition of amounts collected
+            Amounts collected under clause (i)(I) shall be credited to
+          the Travel Promotion Fund established by subsection (d) of
+          section 2131 of title 22. Amounts collected under clause
+          (i)(II) shall be transferred to the general fund of the
+          Treasury and made available to pay the costs incurred to
+          administer the System.
+          (iii) Sunset of Travel Promotion Fund fee
+            The Secretary may not collect the fee authorized by clause
+          (i)(I) for fiscal years beginning after September 30, 2015.
         (C) Validity
           (i) Period
             The Secretary of Homeland Security, in consultation with
@@ -28910,11 +29152,35 @@
     Stat. 1637-1644, 1647, 1648; Pub. L. 107-56, title IV, Sec. 417(c),
     (d), Oct. 26, 2001, 115 Stat. 355; Pub. L. 107-173, title III, Sec.
     307(a), May 14, 2002, 116 Stat. 556; Pub. L. 110-53, title VII,
-    Sec. 711(c), (d)(1), Aug. 3, 2007, 121 Stat. 339, 341.)
+    Sec. 711(c), (d)(1), Aug. 3, 2007, 121 Stat. 339, 341; Pub. L. 111-
+    145, Sec. 9(e), Mar. 4, 2010, 124 Stat. 62; Pub. L. 111-198, Sec.
+    5(a), July 2, 2010, 124 Stat. 1357.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsecs. (b)(1) and (c)(7)(B)(iv),
+    was in the original, "this Act", meaning act June 27, 1952, ch.
+    477, 66 Stat. 163, known as the Immigration and Nationality Act,
+    which is classified principally to this chapter. For complete
+    classification of this Act to the Code, see Short Title note set
+    out under section 1101 of this title and Tables.
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2010 - Subsec. (h)(3)(B). Pub. L. 111-145 amended subpar. (B)
+    generally. Prior to amendment, text read as follows: "The Secretary
+    of Homeland Security may charge a fee for the use of the System,
+    which shall be - 
+        "(i) set at a level that will ensure recovery of the full costs
+      of providing and administering the System; and
+        "(ii) available to pay the costs incurred to administer the
+      System."
+      Subsec. (h)(3)(B)(ii). Pub. L. 111-198, Sec. 5(a)(1), made
+    technical amendment to reference in original act which appears in
+    text as reference to "subsection (d) of section 2131 of title 22".
+      Subsec. (h)(3)(B)(iii). Pub. L. 111-198, Sec. 5(a)(2),
+    substituted "September 30, 2015." for "September 30, 2014."
       2007 - Subsec. (a). Pub. L. 110-53, Sec. 711(d)(1)(A)(i),
     designated concluding provisions as par. (10) and inserted heading.
       Subsec. (a)(11). Pub. L. 110-53, Sec. 711(d)(1)(A)(ii), added
@@ -29362,7 +29628,7 @@
 
 
 -CITE-
-    8 USC Sec. 1188                                             02/01/2010
+    8 USC Sec. 1188                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -29836,7 +30102,7 @@
 
 
 -CITE-
-    8 USC Sec. 1189                                             02/01/2010
+    8 USC Sec. 1189                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -30267,7 +30533,7 @@
 
 
 -CITE-
-    8 USC Part III - Issuance of Entry Documents                02/01/2010
+    8 USC Part III - Issuance of Entry Documents                01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -30283,7 +30549,7 @@
 
 
 -CITE-
-    8 USC Sec. 1201                                             02/01/2010
+    8 USC Sec. 1201                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -30458,6 +30724,15 @@
     Pub. L. 107-173, title III, Sec. 301, May 14, 2002, 116 Stat. 552;
     Pub. L. 108-458, title V, Sec. 5304(a), Dec. 17, 2004, 118 Stat.
     3736.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsecs. (a)(1), (g), and (h), was
+    in the original, "this Act", meaning act June 27, 1952, ch. 477, 66
+    Stat. 163, known as the Immigration and Nationality Act, which is
+    classified principally to this chapter. For complete classification
+    of this Act to the Code, see Short Title note set out under section
+    1101 of this title and Tables.
 
 
 -MISC1-
@@ -30817,7 +31092,7 @@
 
 
 -CITE-
-    8 USC Sec. 1201a                                            02/01/2010
+    8 USC Sec. 1201a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -30847,7 +31122,7 @@
 
 
 -CITE-
-    8 USC Sec. 1202                                             02/01/2010
+    8 USC Sec. 1202                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31052,6 +31327,15 @@
     353; Pub. L. 108-458, title V, Secs. 5301(a), 5302, title VII, Sec.
     7203(b), Dec. 17, 2004, 118 Stat. 3735, 3736, 3814.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (h), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
+
 
 -MISC1-
                                 AMENDMENTS                            
@@ -31227,7 +31511,7 @@
 
 
 -CITE-
-    8 USC Sec. 1203                                             02/01/2010
+    8 USC Sec. 1203                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31295,6 +31579,12 @@
     to in subsec. (a), which was classified to section 203(6) of this
     title, was repealed by section 403(a)(2) of act June 27, 1952. See
     section 1101(a)(15)(E) of this title.
+      This chapter, referred to in subsec. (e), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
 
 
 -MISC1-
@@ -31323,7 +31613,7 @@
 
 
 -CITE-
-    8 USC Sec. 1204                                             02/01/2010
+    8 USC Sec. 1204                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31345,6 +31635,15 @@
     (June 27, 1952, ch. 477, title II, ch. 3, Sec. 224, 66 Stat. 195;
     Pub. L. 89-236, Sec. 11(d), Oct. 3, 1965, 79 Stat. 918.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in text, was in the original, "this
+    Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as
+    the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
+
 
 -MISC1-
                                 AMENDMENTS                            
@@ -31362,7 +31661,7 @@
 
 
 -CITE-
-    8 USC Sec. 1205                                             02/01/2010
+    8 USC Sec. 1205                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31386,7 +31685,7 @@
 
 -CITE-
     8 USC Part IV - Inspection, Apprehension, Examination,
-                     Exclusion, and Removal                02/01/2010
+                     Exclusion, and Removal                01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31404,7 +31703,7 @@
 
 
 -CITE-
-    8 USC Sec. 1221                                             02/01/2010
+    8 USC Sec. 1221                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31663,7 +31962,7 @@
 
 
 -CITE-
-    8 USC Sec. 1222                                             02/01/2010
+    8 USC Sec. 1222                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31736,6 +32035,15 @@
     (d), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 104-208, div. C, title
     III, Secs. 308(b)(2), (3)(C), (c)(2)(A), (d)(4)(H), Sept. 30, 1996,
     110 Stat. 3009-615, 3009-616, 3009-618.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (a), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
 
 -COD-
                                CODIFICATION                           
@@ -31822,7 +32130,7 @@
 
 
 -CITE-
-    8 USC Sec. 1223                                             02/01/2010
+    8 USC Sec. 1223                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31874,6 +32182,15 @@
     Stat. 3657; renumbered Sec. 233 and amended Pub. L. 104-208, div.
     C, title III, Secs. 308(b)(4), (f)(4), 362, Sept. 30, 1996, 110
     Stat. 3009-615, 3009-622, 3009-645.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (c), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
 
 -COD-
                                CODIFICATION                           
@@ -31936,7 +32253,7 @@
 
 
 -CITE-
-    8 USC Sec. 1224                                             02/01/2010
+    8 USC Sec. 1224                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31994,6 +32311,15 @@
     L. 104-208, div. C, title III, Sec. 304(a)(1), Sept. 30, 1996, 110
     Stat. 3009-587.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in text, was in the original, "this
+    Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as
+    the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
+
 -COD-
                                CODIFICATION                           
       Section was formerly classified to section 1229 of this title
@@ -32039,7 +32365,7 @@
 
 
 -CITE-
-    8 USC Sec. 1225                                             02/01/2010
+    8 USC Sec. 1225                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -32343,6 +32669,15 @@
     579, 3009-619, 3009-645; Pub. L. 110-229, title VII, Sec.
     702(j)(5), May 8, 2008, 122 Stat. 867.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsecs. (a)(1) and (d)(3), (4)(A),
+    was in the original, "this Act", meaning act June 27, 1952, ch.
+    477, 66 Stat. 163, known as the Immigration and Nationality Act,
+    which is classified principally to this chapter. For complete
+    classification of this Act to the Code, see Short Title note set
+    out under section 1101 of this title and Tables.
+
 
 -MISC1-
                                 AMENDMENTS                            
@@ -32464,7 +32799,7 @@
 
 
 -CITE-
-    8 USC Sec. 1225a                                            02/01/2010
+    8 USC Sec. 1225a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -32629,7 +32964,7 @@
 
 
 -CITE-
-    8 USC Sec. 1226                                             02/01/2010
+    8 USC Sec. 1226                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -32986,7 +33321,7 @@
 
 
 -CITE-
-    8 USC Sec. 1226a                                            02/01/2010
+    8 USC Sec. 1226a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -33098,6 +33433,15 @@
     (June 27, 1952, ch. 477, title II, ch. 4, Sec. 236A, as added Pub.
     L. 107-56, title IV, Sec. 412(a), Oct. 26, 2001, 115 Stat. 350.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (c), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
+
 
 -TRANS-
     ABOLITION OF IMMIGRATION AND NATURALIZATION SERVICE AND TRANSFER OF
@@ -33135,7 +33479,7 @@
 
 
 -CITE-
-    8 USC Sec. 1227                                             02/01/2010
+    8 USC Sec. 1227                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -33596,6 +33940,12 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (a)(1)(B), (G), (3)(D)(i),
+    was in the original, "this Act", meaning act June 27, 1952, ch.
+    477, 66 Stat. 163, known as the Immigration and Nationality Act,
+    which is classified principally to this chapter. For complete
+    classification of this Act to the Code, see Short Title note set
+    out under section 1101 of this title and Tables.
       Section 301 of the Immigration Act of 1990, referred to in
     subsec. (a)(1)(E)(ii), is section 301 of Pub. L. 101-649, which is
     set out as a note under section 1255a of this title.
@@ -34208,7 +34558,7 @@
 
 
 -CITE-
-    8 USC Sec. 1228                                             02/01/2010
+    8 USC Sec. 1228                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -34418,6 +34768,12 @@
                             REFERENCES IN TEXT                        
       For effective date of this section, referred to in subsec.
     (a)(4)(B), see Effective Date note below.
+      This chapter, referred to in subsec. (c)(1), (2)(C), (D)(iv),
+    (5), was in the original, "this Act", meaning act June 27, 1952,
+    ch. 477, 66 Stat. 163, known as the Immigration and Nationality
+    Act, which is classified principally to this chapter. For complete
+    classification of this Act to the Code, see Short Title note set
+    out under section 1101 of this title and Tables.
       Section 1252b of this title, referred to in subsec. (c)(2)(B),
     was repealed by Pub. L. 104-208, div. C, title III, Sec. 308(b)(6),
     Sept. 30, 1996, 110 Stat. 3009-615.
@@ -34747,7 +35103,7 @@
 
 
 -CITE-
-    8 USC Sec. 1229                                             02/01/2010
+    8 USC Sec. 1229                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -34918,7 +35274,7 @@
 
 
 -CITE-
-    8 USC Sec. 1229a                                            02/01/2010
+    8 USC Sec. 1229a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -35297,6 +35653,12 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
+      This chapter, referred to in subsecs. (a)(3), (b)(1), (4)(B), and
+    (c)(3)(B), (C), was in the original, "this Act", meaning act June
+    27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and
+    Nationality Act, which is classified principally to this chapter.
+    For complete classification of this Act to the Code, see Short
+    Title note set out under section 1101 of this title and Tables.
       Section 1254 of this title, referred to in subsec.
     (c)(7)(C)(iv)(I), was repealed by Pub. L. 104-208, div. C, title
     III, Sec. 308(b)(7), Sept. 30, 1996, 110 Stat. 3009-615.
@@ -35451,7 +35813,7 @@
 
 
 -CITE-
-    8 USC Sec. 1229b                                            02/01/2010
+    8 USC Sec. 1229b                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -35972,7 +36334,7 @@
 
 
 -CITE-
-    8 USC Sec. 1229c                                            02/01/2010
+    8 USC Sec. 1229c                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -36189,7 +36551,7 @@
 
 
 -CITE-
-    8 USC Sec. 1230                                             02/01/2010
+    8 USC Sec. 1230                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -36243,7 +36605,7 @@
 
 
 -CITE-
-    8 USC Sec. 1231                                             02/01/2010
+    8 USC Sec. 1231                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -36742,10 +37104,11 @@
       or facilities adapted or suitably located for detention are
       unavailable for rental, the Attorney General may expend from the
       appropriation "Immigration and Naturalization Service - Salaries
-      and Expenses", without regard to section 5 of title 41, amounts
-      necessary to acquire land and to acquire, build, remodel, repair,
-      and operate facilities (including living quarters for immigration
-      officers if not otherwise available) necessary for detention.
+      and Expenses", without regard to section 6101 of title 41,
+      amounts necessary to acquire land and to acquire, build, remodel,
+      repair, and operate facilities (including living quarters for
+      immigration officers if not otherwise available) necessary for
+      detention.
       (2) Detention facilities of the Immigration and Naturalization
         Service
         Prior to initiating any project for the construction of any new
@@ -36824,9 +37187,19 @@
       Section 259 of title 42, referred to in subsec. (a)(4)(A), was
     repealed by Pub. L. 106-310, div. B, title XXXIV, Sec. 3405(a),
     Oct. 17, 2000, 114 Stat. 1221.
+      This chapter, referred to in subsecs. (a)(4)(B), (5), (d)(3), and
+    (e)(2), (3)(A), (C), was in the original, "this Act", meaning act
+    June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and
+    Nationality Act, which is classified principally to this chapter.
+    For complete classification of this Act to the Code, see Short
+    Title note set out under section 1101 of this title and Tables.
 
 -COD-
                                CODIFICATION                           
+      In subsec. (g)(1), "section 6101 of title 41" substituted for
+    "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority
+    of Pub. L. 111-350, Sec. 6(c), Jan. 4, 2011, 124 Stat. 3854, which
+    Act enacted Title 41, Public Contracts.
       The text of subsec. (j) of section 1252 of this title, which was
     redesignated as subsec. (i) of this section by Pub. L. 104-208,
     Sec. 306(a)(1), was based on section 242(j) of act June 27, 1952,
@@ -37046,7 +37419,7 @@
 
 
 -CITE-
-    8 USC Sec. 1232                                             02/01/2010
+    8 USC Sec. 1232                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -37437,7 +37810,7 @@
 
 
 -CITE-
-    8 USC Part V - Adjustment and Change of Status              02/01/2010
+    8 USC Part V - Adjustment and Change of Status              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -37453,7 +37826,7 @@
 
 
 -CITE-
-    8 USC Sec. 1251                                             02/01/2010
+    8 USC Sec. 1251                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -37478,7 +37851,7 @@
 
 
 -CITE-
-    8 USC Sec. 1251a                                            02/01/2010
+    8 USC Sec. 1251a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -37516,7 +37889,7 @@
 
 
 -CITE-
-    8 USC Sec. 1252                                             02/01/2010
+    8 USC Sec. 1252                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -37904,6 +38277,12 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
+      This chapter, referred to in subsecs. (a)(2)(D), (5), and (g),
+    was in the original, "this Act", meaning act June 27, 1952, ch.
+    477, 66 Stat. 163, known as the Immigration and Nationality Act,
+    which is classified principally to this chapter. For complete
+    classification of this Act to the Code, see Short Title note set
+    out under section 1101 of this title and Tables.
       Section 1253 of this title, referred to in subsec. (b)(8)(B), was
     amended generally by Pub. L. 104-208, div. C, title III, Sec.
     307(a), Sept. 30, 1996, 110 Stat. 3009-612, and, as so amended, no
@@ -38346,7 +38725,7 @@
 
 
 -CITE-
-    8 USC Sec. 1252a                                            02/01/2010
+    8 USC Sec. 1252a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -38373,7 +38752,7 @@
 
 
 -CITE-
-    8 USC Sec. 1252b                                            02/01/2010
+    8 USC Sec. 1252b                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -38407,7 +38786,7 @@
 
 
 -CITE-
-    8 USC Sec. 1252c                                            02/01/2010
+    8 USC Sec. 1252c                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -38467,7 +38846,7 @@
 
 
 -CITE-
-    8 USC Sec. 1253                                             02/01/2010
+    8 USC Sec. 1253                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -38703,7 +39082,7 @@
 
 
 -CITE-
-    8 USC Sec. 1254                                             02/01/2010
+    8 USC Sec. 1254                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -38747,7 +39126,7 @@
 
 
 -CITE-
-    8 USC Sec. 1254a                                            02/01/2010
+    8 USC Sec. 1254a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -39145,6 +39524,15 @@
     (e)(1)(G), (11), (g)(7)(E)(i), (8)(A)(i), Sept. 30, 1996, 110 Stat.
     3009-615, 3009-619, 3009-620, 3009-624.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (a)(5), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
+
 
 -MISC1-
                                 AMENDMENTS                            
@@ -39391,7 +39779,7 @@
 
 
 -CITE-
-    8 USC Sec. 1254b                                            02/01/2010
+    8 USC Sec. 1254b                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -39426,7 +39814,7 @@
 
 
 -CITE-
-    8 USC Sec. 1255                                             02/01/2010
+    8 USC Sec. 1255                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -40316,6 +40704,67 @@
 
 
 -MISC2-
+             ADJUSTMENT OF STATUS FOR CERTAIN HAITIAN ORPHANS         
+      Pub. L. 111-293, Dec. 9, 2010, 124 Stat. 3175, provided that:
+
+      "SECTION 1. SHORT TITLE.
+      "This Act may be cited as - 
+        "(1) the 'Help Haitian Adoptees Immediately to Integrate Act of
+      2010'; or
+        "(2) the 'Help HAITI Act of 2010'.
+
+      "SEC. 2. ADJUSTMENT OF STATUS FOR CERTAIN HAITIAN ORPHANS.
+      "(a) In General. - The Secretary of Homeland Security may adjust
+    the status of an alien to that of an alien lawfully admitted for
+    permanent residence if the alien - 
+        "(1) was inspected and granted parole into the United States
+      pursuant to the humanitarian parole policy for certain Haitian
+      orphans announced by the Secretary of Homeland Security on
+      January 18, 2010, and suspended as to new applications on April
+      15, 2010;
+        "(2) is physically present in the United States;
+        "(3) is admissible to the United States as an immigrant, except
+      as provided in subsection (c); and
+        "(4) files an application for an adjustment of status under
+      this section not later than 3 years after the date of the
+      enactment of this Act [Dec. 9, 2010].
+      "(b) Numerical Limitation. - The number of aliens who are granted
+    the status of an alien lawfully admitted for permanent residence
+    under this section shall not exceed 1400.
+      "(c) Grounds of Inadmissibility. - Section 212(a)(7)(A) of the
+    Immigration and Nationality Act (8 U.S.C. 1182(a)(7)(A)) shall not
+    apply to an alien seeking an adjustment of status under this
+    section.
+      "(d) Visa Availability. - The Secretary of State shall not be
+    required to reduce the number of immigrant visas authorized to be
+    issued under the Immigration and Nationality Act (8 U.S.C. 1101 et
+    seq.) for any alien granted the status of having been lawfully
+    admitted for permanent residence under this section.
+      "(e) Aliens Deemed To Meet Definition of Child. - An unmarried
+    alien described in subsection (a) who is under the age of 18 years
+    shall be deemed to satisfy the requirements applicable to adopted
+    children under section 101(b)(1) of the Immigration and Nationality
+    Act (8 U.S.C. 1101(b)(1)) if - 
+        "(1) the alien obtained adjustment of status under this
+      section; and
+        "(2) a citizen of the United States adopted the alien prior to,
+      on, or after the date of the decision granting such adjustment of
+      status.
+      "(f) No Immigration Benefits for Birth Parents. - No birth parent
+    of an alien who obtains adjustment of status under this section
+    shall thereafter, by virtue of such parentage, be accorded any
+    right, privilege, or status under this section or the Immigration
+    and Nationality Act (8 U.S.C. 1101 et seq.).
+
+      "SEC. 3. COMPLIANCE WITH PAYGO.
+      "The budgetary effects of this Act, for the purpose of complying
+    with the Statutory Pay-As-You-Go-Act of 2010 [2 U.S.C. 931 et
+    seq.], shall be determined by reference to the latest statement
+    titled 'Budgetary Effects of PAYGO Legislation' for this Act,
+    submitted for printing in the Congressional Record by the Chairman
+    of the Senate Budget Committee, provided that such statement has
+    been submitted prior to the vote on passage."
+
                         PERMITTING MOTION TO REOPEN                    
       Pub. L. 106-554, Sec. 1(a)(4) [div. B, title XV, Sec.
     1505(a)(2)], Dec. 21, 2000, 114 Stat. 2763, 2763A-326, provided
@@ -41287,7 +41736,7 @@
 
 
 -CITE-
-    8 USC Sec. 1255a                                            02/01/2010
+    8 USC Sec. 1255a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -42394,17 +42843,19 @@
     [title IX, Secs. 901, 902], Dec. 22, 1987, 101 Stat. 1329, 1329-43.
 
               PROCEDURES FOR PROPERTY ACQUISITION OR LEASING          
-      Section 201(c)(1) of Pub. L. 99-603 provided that notwithstanding
-    Federal Property and Administrative Services Act of 1949 [chapters
-    1 to 11 of Title 40, Public Buildings, Property, and Works and
-    title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)], the
-    Attorney General was authorized for period of up to two years after
-    effective date of legalization program, to expend from
-    appropriation provided for administration and enforcement of this
-    chapter, such amounts necessary for leasing or acquisition of
-    property in fulfillment of section 201 of Pub. L. 99-603, which
-    enacted this section and amended sections 602, 672, and 673 of
-    Title 42, The Public Health and Welfare.
+      Pub. L. 99-603, title II, Sec. 201(c)(1), Nov. 6, 1986, 100 Stat.
+    3403, provided that notwithstanding Federal Property and
+    Administrative Services Act of 1949 [see chapters 1 to 11 of Title
+    40, Public Buildings, Property, and Works and division C (except
+    sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of
+    subtitle I of Title 41, Public Contracts], the Attorney General was
+    authorized for period of up to two years after effective date of
+    legalization program, to expend from appropriation provided for
+    administration and enforcement of this chapter, such amounts
+    necessary for leasing or acquisition of property in fulfillment of
+    section 201 of Pub. L. 99-603, which enacted this section and
+    amended sections 602, 672, and 673 of Title 42, The Public Health
+    and Welfare.
 
                      USE OF RETIRED FEDERAL EMPLOYEES                 
       Section 201(c)(2) of Pub. L. 99-603, as amended by Pub. L. 100-
@@ -42502,7 +42953,7 @@
 
 
 -CITE-
-    8 USC Sec. 1255b                                            02/01/2010
+    8 USC Sec. 1255b                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -42637,7 +43088,7 @@
 
 
 -CITE-
-    8 USC Sec. 1256                                             02/01/2010
+    8 USC Sec. 1256                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -42680,6 +43131,15 @@
     Pub. L. 103-416, title II, Sec. 219(m), Oct. 25, 1994, 108 Stat.
     4317; Pub. L. 104-208, div. C, title III, Secs. 308(e)(1)(H),
     378(a), Sept. 30, 1996, 110 Stat. 3009-619, 3009-649.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (a), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
 
 
 -MISC1-
@@ -42750,7 +43210,7 @@
 
 
 -CITE-
-    8 USC Sec. 1257                                             02/01/2010
+    8 USC Sec. 1257                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -42815,7 +43275,7 @@
 
 
 -CITE-
-    8 USC Sec. 1258                                             02/01/2010
+    8 USC Sec. 1258                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -42931,7 +43391,7 @@
 
 
 -CITE-
-    8 USC Sec. 1259                                             02/01/2010
+    8 USC Sec. 1259                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43053,7 +43513,7 @@
 
 
 -CITE-
-    8 USC Sec. 1260                                             02/01/2010
+    8 USC Sec. 1260                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43080,6 +43540,15 @@
 -SOURCE-
     (June 27, 1952, ch. 477, title II, ch. 5, Sec. 250, 66 Stat. 219.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in text, was in the original, "this
+    Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as
+    the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
+
 
 -TRANS-
     ABOLITION OF IMMIGRATION AND NATURALIZATION SERVICE AND TRANSFER OF
@@ -43093,7 +43562,7 @@
 
 -CITE-
     8 USC Part VI - Special Provisions Relating to Alien
-                     Crewmen                               02/01/2010
+                     Crewmen                               01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43109,7 +43578,7 @@
 
 
 -CITE-
-    8 USC Sec. 1281                                             02/01/2010
+    8 USC Sec. 1281                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43247,7 +43716,7 @@
 
 
 -CITE-
-    8 USC Sec. 1282                                             02/01/2010
+    8 USC Sec. 1282                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43357,7 +43826,7 @@
 
 
 -CITE-
-    8 USC Sec. 1283                                             02/01/2010
+    8 USC Sec. 1283                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43414,7 +43883,7 @@
 
 
 -CITE-
-    8 USC Sec. 1284                                             02/01/2010
+    8 USC Sec. 1284                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43539,7 +44008,7 @@
 
 
 -CITE-
-    8 USC Sec. 1285                                             02/01/2010
+    8 USC Sec. 1285                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43606,7 +44075,7 @@
 
 
 -CITE-
-    8 USC Sec. 1286                                             02/01/2010
+    8 USC Sec. 1286                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43672,7 +44141,7 @@
 
 
 -CITE-
-    8 USC Sec. 1287                                             02/01/2010
+    8 USC Sec. 1287                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43730,7 +44199,7 @@
 
 
 -CITE-
-    8 USC Sec. 1288                                             02/01/2010
+    8 USC Sec. 1288                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44187,7 +44656,7 @@
 
 
 -CITE-
-    8 USC Part VII - Registration of Aliens                     02/01/2010
+    8 USC Part VII - Registration of Aliens                     01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44203,7 +44672,7 @@
 
 
 -CITE-
-    8 USC Sec. 1301                                             02/01/2010
+    8 USC Sec. 1301                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44253,7 +44722,7 @@
 
 
 -CITE-
-    8 USC Sec. 1302                                             02/01/2010
+    8 USC Sec. 1302                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44354,7 +44823,7 @@
 
 
 -CITE-
-    8 USC Sec. 1303                                             02/01/2010
+    8 USC Sec. 1303                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44424,7 +44893,7 @@
 
 
 -CITE-
-    8 USC Sec. 1304                                             02/01/2010
+    8 USC Sec. 1304                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44498,6 +44967,12 @@
     that act, which related to register and fingerprinting of aliens,
     was classified to sections 451 to 460 of this title, was repealed
     by section 403(a)(39) of act June 27, 1952.
+      This chapter, referred to in subsec. (d), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
 
 
 -MISC1-
@@ -44537,7 +45012,7 @@
 
 
 -CITE-
-    8 USC Sec. 1305                                             02/01/2010
+    8 USC Sec. 1305                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44609,7 +45084,7 @@
 
 
 -CITE-
-    8 USC Sec. 1306                                             02/01/2010
+    8 USC Sec. 1306                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44692,7 +45167,7 @@
 
 
 -CITE-
-    8 USC Part VIII - General Penalty Provisions                02/01/2010
+    8 USC Part VIII - General Penalty Provisions                01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44708,7 +45183,7 @@
 
 
 -CITE-
-    8 USC Sec. 1321                                             02/01/2010
+    8 USC Sec. 1321                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44811,7 +45286,7 @@
 
 
 -CITE-
-    8 USC Sec. 1322                                             02/01/2010
+    8 USC Sec. 1322                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44984,7 +45459,7 @@
 
 
 -CITE-
-    8 USC Sec. 1323                                             02/01/2010
+    8 USC Sec. 1323                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -45059,6 +45534,15 @@
     4315, 4317; Pub. L. 104-208, div. C, title III, Secs. 308(c)(3),
     (e)(13), 371(b)(8), title VI, Sec. 671(b)(6), (7), Sept. 30, 1996,
     110 Stat. 3009-616, 3009-620, 3009-645, 3009-722.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (a)(1), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
 
 
 -MISC1-
@@ -45198,7 +45682,7 @@
 
 
 -CITE-
-    8 USC Sec. 1324                                             02/01/2010
+    8 USC Sec. 1324                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -45601,7 +46085,7 @@
 
 
 -CITE-
-    8 USC Sec. 1324a                                            02/01/2010
+    8 USC Sec. 1324a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -46194,6 +46678,12 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
+      This chapter, referred to in subsecs. (b)(2), (5), (d)(2)(F),
+    (G), and (h)(3), was in the original, "this Act", meaning act June
+    27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and
+    Nationality Act, which is classified principally to this chapter.
+    For complete classification of this Act to the Code, see Short
+    Title note set out under section 1101 of this title and Tables.
       The Social Security Act, referred to in subsec. (d)(3)(D)(iii),
     (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which
     is classified generally to chapter 7 (Sec. 301 et seq.) of Title
@@ -47375,7 +47865,7 @@
 
 
 -CITE-
-    8 USC Sec. 1324b                                            02/01/2010
+    8 USC Sec. 1324b                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -47999,7 +48489,7 @@
 
 
 -CITE-
-    8 USC Sec. 1324c                                            02/01/2010
+    8 USC Sec. 1324c                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48189,6 +48679,15 @@
     30, 1996, 110 Stat. 3009-570, 3009-571, 3009-575, 3009-625, 3009-
     649.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsecs. (a) and (e)(2), was in the
+    original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat.
+    163, known as the Immigration and Nationality Act, which is
+    classified principally to this chapter. For complete classification
+    of this Act to the Code, see Short Title note set out under section
+    1101 of this title and Tables.
+
 
 -MISC1-
                                 AMENDMENTS                            
@@ -48283,7 +48782,7 @@
 
 
 -CITE-
-    8 USC Sec. 1324d                                            02/01/2010
+    8 USC Sec. 1324d                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48320,6 +48819,15 @@
     L. 104-208, div. C, title III, Sec. 380(a), Sept. 30, 1996, 110
     Stat. 3009-650.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (b), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
+
 
 -MISC1-
                               EFFECTIVE DATE                          
@@ -48352,7 +48860,7 @@
 
 
 -CITE-
-    8 USC Sec. 1325                                             02/01/2010
+    8 USC Sec. 1325                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48471,7 +48979,7 @@
 
 
 -CITE-
-    8 USC Sec. 1326                                             02/01/2010
+    8 USC Sec. 1326                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48513,12 +49021,12 @@
         (3) who has been excluded from the United States pursuant to
       section 1225(c) of this title because the alien was excludable
       under section 1182(a)(3)(B) of this title or who has been removed
-      from the United States pursuant to the provisions of subchapter V
-      of this chapter, and who thereafter, without the permission of
-      the Attorney General, enters the United States, or attempts to do
-      so, shall be fined under title 18 and imprisoned for a period of
-      10 years, which sentence shall not run concurrently with any
-      other sentence.(!1) or
+      from the United States pursuant to the provisions of subchapter
+      V, and who thereafter, without the permission of the Attorney
+      General, enters the United States, or attempts to do so, shall be
+      fined under title 18 and imprisoned for a period of 10 years,
+      which sentence shall not run concurrently with any other
+      sentence.(!1) or
 
         (4) who was removed from the United States pursuant to section
       1231(a)(4)(B) of this title who thereafter, without the
@@ -48568,6 +49076,12 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (a)(2), was in the original
+    a reference to this Act, meaning act June 27, 1952, ch. 477, 66
+    Stat. 163, known as the Immigration and Nationality Act, which is
+    classified principally to this chapter. For complete classification
+    of this Act to the Code, see Short Title note set out under section
+    1101 of this title and Tables.
       Section 1252 of this title, referred to in subsec. (c), was
     amended generally by Pub. L. 104-208, div. C, title III, Sec.
     306(a)(2), Sept. 30, 1996, 110 Stat. 3009-607, and, as so amended,
@@ -48681,7 +49195,7 @@
 
 
 -CITE-
-    8 USC Sec. 1327                                             02/01/2010
+    8 USC Sec. 1327                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48758,7 +49272,7 @@
 
 
 -CITE-
-    8 USC Sec. 1328                                             02/01/2010
+    8 USC Sec. 1328                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48812,7 +49326,7 @@
 
 
 -CITE-
-    8 USC Sec. 1329                                             02/01/2010
+    8 USC Sec. 1329                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48869,7 +49383,7 @@
 
 
 -CITE-
-    8 USC Sec. 1330                                             02/01/2010
+    8 USC Sec. 1330                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49025,7 +49539,7 @@
 
 
 -CITE-
-    8 USC Part IX - Miscellaneous                               02/01/2010
+    8 USC Part IX - Miscellaneous                               01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49041,7 +49555,7 @@
 
 
 -CITE-
-    8 USC Sec. 1351                                             02/01/2010
+    8 USC Sec. 1351                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49290,7 +49804,7 @@
 
 
 -CITE-
-    8 USC Sec. 1352                                             02/01/2010
+    8 USC Sec. 1352                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49328,7 +49842,7 @@
 
 
 -CITE-
-    8 USC Sec. 1353                                             02/01/2010
+    8 USC Sec. 1353                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49386,7 +49900,7 @@
 
 
 -CITE-
-    8 USC Sec. 1353a                                            02/01/2010
+    8 USC Sec. 1353a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49472,7 +49986,7 @@
 
 
 -CITE-
-    8 USC Sec. 1353b                                            02/01/2010
+    8 USC Sec. 1353b                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49539,7 +50053,7 @@
 
 
 -CITE-
-    8 USC Sec. 1353c                                            02/01/2010
+    8 USC Sec. 1353c                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49607,7 +50121,7 @@
 
 
 -CITE-
-    8 USC Sec. 1353d                                            02/01/2010
+    8 USC Sec. 1353d                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49672,7 +50186,7 @@
 
 
 -CITE-
-    8 USC Sec. 1354                                             02/01/2010
+    8 USC Sec. 1354                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49713,6 +50227,15 @@
     Pub. L. 110-181, div. A, title VI, Sec. 673, Jan. 28, 2008, 122
     Stat. 185.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (a), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
+
 
 -MISC1-
                                 AMENDMENTS                            
@@ -49724,7 +50247,7 @@
 
 
 -CITE-
-    8 USC Sec. 1355                                             02/01/2010
+    8 USC Sec. 1355                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49743,7 +50266,7 @@
     or other like privileges in connection with any United States
     immigrant station, shall be disposed of to the lowest responsible
     and capable bidder (other than an alien) in accordance with the
-    provision of section 5 of title 41 and for the use of Government
+    provision of section 6101 of title 41 and for the use of Government
     property in connection with the exercise of such exclusive
     privileges a reasonable rental may be charged. The feeding of
     aliens, or the furnishing of any other necessary service in
@@ -49768,6 +50291,13 @@
 -SOURCE-
     (June 27, 1952, ch. 477, title II, ch. 9, Sec. 285, 66 Stat. 232.)
 
+-COD-
+                               CODIFICATION                           
+      In subsec. (a), "section 6101 of title 41" substituted for
+    "section 3709 of the Revised Statutes, as amended (41 U.S.C. 5),"
+    on authority of Pub. L. 111-350, Sec. 6(c), Jan. 4, 2011, 124 Stat.
+    3854, which Act enacted Title 41, Public Contracts.
+
 
 -TRANS-
     ABOLITION OF IMMIGRATION AND NATURALIZATION SERVICE AND TRANSFER OF
@@ -49781,7 +50311,7 @@
 
 
 -CITE-
-    8 USC Sec. 1356                                             02/01/2010
+    8 USC Sec. 1356                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -50360,6 +50890,12 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
+      This chapter, referred to in subsecs. (a), (h)(1)(B), and (r)(2),
+    was in the original, "this Act", meaning act June 27, 1952, ch.
+    477, 66 Stat. 163, known as the Immigration and Nationality Act,
+    which is classified principally to this chapter. For complete
+    classification of this Act to the Code, see Short Title note set
+    out under section 1101 of this title and Tables.
       Subchapter C of chapter 33 of title 26, referred to in subsec.
     (f)(3), is classified to section 4261 et seq. of Title 26, Internal
     Revenue Code.
@@ -51010,7 +51546,7 @@
 
 
 -CITE-
-    8 USC Sec. 1357                                             02/01/2010
+    8 USC Sec. 1357                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51237,6 +51773,15 @@
     162, title VIII, Sec. 826, Jan. 5, 2006, 119 Stat. 3065; Pub. L.
     109-271, Sec. 6(g), Aug. 12, 2006, 120 Stat. 763.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsecs. (b) and (c), was in the
+    original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat.
+    163, known as the Immigration and Nationality Act, which is
+    classified principally to this chapter. For complete classification
+    of this Act to the Code, see Short Title note set out under section
+    1101 of this title and Tables.
+
 
 -MISC1-
                                 AMENDMENTS                            
@@ -51324,7 +51869,7 @@
 
 
 -CITE-
-    8 USC Sec. 1358                                             02/01/2010
+    8 USC Sec. 1358                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51354,7 +51899,7 @@
 
 
 -CITE-
-    8 USC Sec. 1359                                             02/01/2010
+    8 USC Sec. 1359                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51380,7 +51925,7 @@
 
 
 -CITE-
-    8 USC Sec. 1360                                             02/01/2010
+    8 USC Sec. 1360                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51444,6 +51989,15 @@
     104-208, div. C, title III, Sec. 308(d)(4)(M), title IV, Sec.
     414(a), Sept. 30, 1996, 110 Stat. 3009-618, 3009-669.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (a), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
+
 
 -MISC1-
                                 AMENDMENTS                            
@@ -51494,7 +52048,7 @@
 
 
 -CITE-
-    8 USC Sec. 1361                                             02/01/2010
+    8 USC Sec. 1361                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51537,6 +52091,15 @@
     L. 104-208, div. C, title III, Sec. 308(d)(4)(N), (e)(1)(N),
     (g)(9)(A), Sept. 30, 1996, 110 Stat. 3009-618, 3009-619, 3009-624.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in text, was in the original, "this
+    Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as
+    the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
+
 
 -MISC1-
                                 AMENDMENTS                            
@@ -51574,7 +52137,7 @@
 
 
 -CITE-
-    8 USC Sec. 1362                                             02/01/2010
+    8 USC Sec. 1362                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51629,7 +52192,7 @@
 
 
 -CITE-
-    8 USC Sec. 1363                                             02/01/2010
+    8 USC Sec. 1363                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51680,7 +52243,7 @@
 
 
 -CITE-
-    8 USC Sec. 1363a                                            02/01/2010
+    8 USC Sec. 1363a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51701,13 +52264,12 @@
       possessions of the United States without regard to the following
       provisions of law:
           (A) section 1341(a) of title 31,
-          (B) section 11(a) of title 41,
-          (C) section 255 of title 41,
+          (B) section 6301(a) and (b)(1) to (3) of title 41,
+          (C) chapter 45 of title 41,
           (D) section 8141 of title 40,
           (E) section 3324(a) and (b) of title 31,
-          (F) section 22 of title 41, and
-          (G) subsections (a) and (c) (!1) of section 254 of title 41;
-
+          (F) section 6306 of title 41, and
+          (G) section 3901 of title 41;
 
         (2) sums appropriated for the Service may be used to establish
       or to acquire proprietary corporations or business entities as
@@ -51756,12 +52318,6 @@
     L. 104-208, div. C, title II, Sec. 205(a), Sept. 30, 1996, 110
     Stat. 3009-567.)
 
--REFTEXT-
-                            REFERENCES IN TEXT                        
-      Subsection (c) of section 254 of title 41, referred to in subsec.
-    (a)(1)(G), was repealed by Pub. L. 103-355, title II, Sec. 2251(b),
-    Oct. 13, 1994, 108 Stat. 3320.
-
 -COD-
                                CODIFICATION                           
       In subsec. (a)(1)(A), (E), (2) to (4), "section 1341(a) of title
@@ -51776,12 +52332,27 @@
     3302)", on authority of Pub. L. 97-258, Sec. 4(b), Sept. 13, 1982,
     96 Stat. 1067, the first section of which enacted Title 31, Money
     and Finance.
+      In subsec. (a)(1)(B), (C), (F), "section 6301(a) and (b)(1) to
+    (3) of title 41" substituted for "section 3732(a) of the Revised
+    Statutes (41 U.S.C. 11(a))", "chapter 45 of title 41" substituted
+    for "section 305 of the Act of June 30, 1949 (63 Stat. 396; 41
+    U.S.C. 255)", and "section 6306 of title 41" substituted for
+    "section 3741 of the Revised Statutes (41 U.S.C. 22)" on authority
+    of Pub. L. 111-350, Sec. 6(c), Jan. 4, 2011, 124 Stat. 3854, which
+    Act enacted Title 41, Public Contracts.
       In subsec. (a)(1)(D), "section 8141 of title 40" substituted for
     "the third undesignated paragraph under the heading 'Miscellaneous'
     of the Act of March 3, 1877 (19 Stat. 370; 40 U.S.C. 34)" on
     authority of Pub. L. 107-217, Sec. 5(c), Aug. 21, 2002, 116 Stat.
     1303, the first section of which enacted Title 40, Public
     Buildings, Property, and Works.
+      In subsec. (a)(1)(G), "section 3901 of title 41" substituted for
+    "subsections (a) and (c) of section 304 of the Federal Property and
+    Administrative Services Act of 1949 (63 Stat. 395; 41 U.S.C. 254(a)
+    and (c))" on authority of Pub. L. 111-350, Sec. 6(c), Jan. 4, 2011,
+    124 Stat. 3854, which Act enacted Title 41, Public Contracts and
+    because subsec. (c) was previously repealed by Pub. L. 103-355,
+    title II, Sec. 2251(b), Oct. 13, 1994, 108 Stat. 3320.
 
 
 -TRANS-
@@ -51791,16 +52362,12 @@
     of functions, and treatment of related references, see note set out
     under section 1551 of this title.
 
--FOOTNOTE-
-    (!1) See References in Text note below.
-
-
 -End-
 
 
 
 -CITE-
-    8 USC Sec. 1363b                                            02/01/2010
+    8 USC Sec. 1363b                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51831,7 +52398,7 @@
 
 
 -CITE-
-    8 USC Sec. 1364                                             02/01/2010
+    8 USC Sec. 1364                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51954,7 +52521,7 @@
 
 
 -CITE-
-    8 USC Sec. 1365                                             02/01/2010
+    8 USC Sec. 1365                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52037,7 +52604,7 @@
 
 
 -CITE-
-    8 USC Sec. 1365a                                            02/01/2010
+    8 USC Sec. 1365a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52188,9 +52755,6 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
-      Immigration law, referred to in subsec. (b)(4), is classified
-    generally to this title. See also section 1101(a)(17) of this
-    title.
       Section 3 of the Immigration and Naturalization Service Data
     Management Improvement Act of 2000, referred to in subsec. (g), is
     section 3 of Pub. L. 106-215, set out as a note below.
@@ -52457,7 +53021,7 @@
 
 
 -CITE-
-    8 USC Sec. 1365b                                            02/01/2010
+    8 USC Sec. 1365b                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52854,7 +53418,7 @@
 
 
 -CITE-
-    8 USC Sec. 1366                                             02/01/2010
+    8 USC Sec. 1366                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52908,7 +53472,7 @@
 
 
 -CITE-
-    8 USC Sec. 1367                                             02/01/2010
+    8 USC Sec. 1367                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53137,7 +53701,7 @@
 
 
 -CITE-
-    8 USC Sec. 1368                                             02/01/2010
+    8 USC Sec. 1368                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53242,7 +53806,7 @@
 
 
 -CITE-
-    8 USC Sec. 1369                                             02/01/2010
+    8 USC Sec. 1369                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53316,7 +53880,7 @@
 
 
 -CITE-
-    8 USC Sec. 1370                                             02/01/2010
+    8 USC Sec. 1370                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53363,7 +53927,7 @@
 
 
 -CITE-
-    8 USC Sec. 1371                                             02/01/2010
+    8 USC Sec. 1371                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53435,7 +53999,7 @@
 
 
 -CITE-
-    8 USC Sec. 1372                                             02/01/2010
+    8 USC Sec. 1372                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53849,7 +54413,7 @@
 
 
 -CITE-
-    8 USC Sec. 1373                                             02/01/2010
+    8 USC Sec. 1373                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53913,7 +54477,7 @@
 
 
 -CITE-
-    8 USC Sec. 1374                                             02/01/2010
+    8 USC Sec. 1374                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53975,7 +54539,7 @@
 
 
 -CITE-
-    8 USC Sec. 1375                                             02/01/2010
+    8 USC Sec. 1375                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53997,7 +54561,7 @@
 
 
 -CITE-
-    8 USC Sec. 1375a                                            02/01/2010
+    8 USC Sec. 1375a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -54526,7 +55090,7 @@
 
 
 -CITE-
-    8 USC Sec. 1375b                                            02/01/2010
+    8 USC Sec. 1375b                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -54689,7 +55253,7 @@
 
 
 -CITE-
-    8 USC Sec. 1375c                                            02/01/2010
+    8 USC Sec. 1375c                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -54891,7 +55455,7 @@
 
 
 -CITE-
-    8 USC Sec. 1376                                             02/01/2010
+    8 USC Sec. 1376                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -54939,7 +55503,7 @@
 
 
 -CITE-
-    8 USC Sec. 1377                                             02/01/2010
+    8 USC Sec. 1377                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55016,7 +55580,7 @@
 
 
 -CITE-
-    8 USC Sec. 1378                                             02/01/2010
+    8 USC Sec. 1378                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55110,7 +55674,7 @@
 
 
 -CITE-
-    8 USC Sec. 1379                                             02/01/2010
+    8 USC Sec. 1379                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55217,7 +55781,7 @@
 
 
 -CITE-
-    8 USC Sec. 1380                                             02/01/2010
+    8 USC Sec. 1380                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55274,7 +55838,7 @@
 
 
 -CITE-
-    8 USC Sec. 1381                                             02/01/2010
+    8 USC Sec. 1381                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55317,7 +55881,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER III - NATIONALITY AND NATURALIZATION       02/01/2010
+    8 USC SUBCHAPTER III - NATIONALITY AND NATURALIZATION       01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55332,7 +55896,7 @@
 
 -CITE-
     8 USC Part I - Nationality at Birth and Collective
-                    Naturalization                         02/01/2010
+                    Naturalization                         01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55348,7 +55912,7 @@
 
 
 -CITE-
-    8 USC Sec. 1401                                             02/01/2010
+    8 USC Sec. 1401                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55561,7 +56125,7 @@
 
 
 -CITE-
-    8 USC Sec. 1401a                                            02/01/2010
+    8 USC Sec. 1401a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55665,7 +56229,7 @@
 
 
 -CITE-
-    8 USC Sec. 1401b                                            02/01/2010
+    8 USC Sec. 1401b                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55690,7 +56254,7 @@
 
 
 -CITE-
-    8 USC Sec. 1402                                             02/01/2010
+    8 USC Sec. 1402                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55720,7 +56284,7 @@
 
 
 -CITE-
-    8 USC Sec. 1403                                             02/01/2010
+    8 USC Sec. 1403                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55771,7 +56335,7 @@
 
 
 -CITE-
-    8 USC Sec. 1404                                             02/01/2010
+    8 USC Sec. 1404                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55806,7 +56370,7 @@
 
 
 -CITE-
-    8 USC Sec. 1405                                             02/01/2010
+    8 USC Sec. 1405                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55842,7 +56406,7 @@
 
 
 -CITE-
-    8 USC Sec. 1406                                             02/01/2010
+    8 USC Sec. 1406                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55897,7 +56461,7 @@
 
 
 -CITE-
-    8 USC Sec. 1407                                             02/01/2010
+    8 USC Sec. 1407                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55944,12 +56508,21 @@
 -SOURCE-
     (June 27, 1952, ch. 477, title III, ch. 1, Sec. 307, 66 Stat. 237.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (c), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
+
 -End-
 
 
 
 -CITE-
-    8 USC Sec. 1408                                             02/01/2010
+    8 USC Sec. 1408                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56028,7 +56601,7 @@
 
 
 -CITE-
-    8 USC Sec. 1409                                             02/01/2010
+    8 USC Sec. 1409                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56154,7 +56727,7 @@
 
 
 -CITE-
-    8 USC Part II - Nationality Through Naturalization          02/01/2010
+    8 USC Part II - Nationality Through Naturalization          01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56170,7 +56743,7 @@
 
 
 -CITE-
-    8 USC Sec. 1421                                             02/01/2010
+    8 USC Sec. 1421                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56453,7 +57026,7 @@
 
 
 -CITE-
-    8 USC Sec. 1422                                             02/01/2010
+    8 USC Sec. 1422                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56486,7 +57059,7 @@
 
 
 -CITE-
-    8 USC Sec. 1423                                             02/01/2010
+    8 USC Sec. 1423                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56713,7 +57286,7 @@
 
 
 -CITE-
-    8 USC Sec. 1424                                             02/01/2010
+    8 USC Sec. 1424                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56855,6 +57428,12 @@
     section 405(b) of act June 27, 1952, ch. 477, title IV, 66 Stat.
     280, which is set out as a Savings Clause note under section 1101
     of this title.
+      This chapter, referred to in subsec. (b), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
 
 
 -MISC1-
@@ -56918,7 +57497,7 @@
 
 
 -CITE-
-    8 USC Sec. 1425                                             02/01/2010
+    8 USC Sec. 1425                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56953,7 +57532,7 @@
 
 
 -CITE-
-    8 USC Sec. 1426                                             02/01/2010
+    8 USC Sec. 1426                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57024,7 +57603,7 @@
 
 
 -CITE-
-    8 USC Sec. 1427                                             02/01/2010
+    8 USC Sec. 1427                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57350,7 +57929,7 @@
 
 
 -CITE-
-    8 USC Sec. 1428                                             02/01/2010
+    8 USC Sec. 1428                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57418,7 +57997,7 @@
 
 
 -CITE-
-    8 USC Sec. 1429                                             02/01/2010
+    8 USC Sec. 1429                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57466,6 +58045,12 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
+      This chapter, referred to in text, was in the original, "this
+    Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as
+    the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
       Section 405(b), referred to in text, is section 405(b) of act
     June 27, 1952, ch. 477, title IV, 66 Stat. 280, which is set out as
     a Savings Clause note under section 1101 of this title.
@@ -57508,7 +58093,7 @@
 
 
 -CITE-
-    8 USC Sec. 1430                                             02/01/2010
+    8 USC Sec. 1430                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57726,7 +58311,7 @@
 
 
 -CITE-
-    8 USC Sec. 1431                                             02/01/2010
+    8 USC Sec. 1431                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57828,7 +58413,7 @@
 
 
 -CITE-
-    8 USC Sec. 1432                                             02/01/2010
+    8 USC Sec. 1432                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57860,7 +58445,7 @@
 
 
 -CITE-
-    8 USC Sec. 1433                                             02/01/2010
+    8 USC Sec. 1433                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57946,6 +58531,15 @@
     114 Stat. 1632; Pub. L. 107-273, div. C, title I, Sec. 11030B, Nov.
     2, 2002, 116 Stat. 1837; Pub. L. 110-181, div. A, title VI, Sec.
     674(b), Jan. 28, 2008, 122 Stat. 186.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (b), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
 
 
 -MISC1-
@@ -58072,7 +58666,7 @@
 
 
 -CITE-
-    8 USC Sec. 1434                                             02/01/2010
+    8 USC Sec. 1434                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58096,7 +58690,7 @@
 
 
 -CITE-
-    8 USC Sec. 1435                                             02/01/2010
+    8 USC Sec. 1435                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58347,7 +58941,7 @@
 
 
 -CITE-
-    8 USC Sec. 1436                                             02/01/2010
+    8 USC Sec. 1436                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58386,7 +58980,7 @@
 
 
 -CITE-
-    8 USC Sec. 1437                                             02/01/2010
+    8 USC Sec. 1437                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58421,7 +59015,7 @@
 
 
 -CITE-
-    8 USC Sec. 1438                                             02/01/2010
+    8 USC Sec. 1438                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58516,7 +59110,7 @@
 
 
 -CITE-
-    8 USC Sec. 1439                                             02/01/2010
+    8 USC Sec. 1439                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58757,7 +59351,7 @@
 
 
 -CITE-
-    8 USC Sec. 1440                                             02/01/2010
+    8 USC Sec. 1440                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59115,7 +59709,7 @@
 
 
 -CITE-
-    8 USC Sec. 1440-1                                           02/01/2010
+    8 USC Sec. 1440-1                                           01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59239,7 +59833,7 @@
 
 
 -CITE-
-    8 USC Secs. 1440a to 1440d                                  02/01/2010
+    8 USC Secs. 1440a to 1440d                                  01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59265,7 +59859,7 @@
 
 
 -CITE-
-    8 USC Sec. 1440e                                            02/01/2010
+    8 USC Sec. 1440e                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59333,7 +59927,7 @@
 
 
 -CITE-
-    8 USC Sec. 1440f                                            02/01/2010
+    8 USC Sec. 1440f                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59441,7 +60035,7 @@
 
 
 -CITE-
-    8 USC Sec. 1440g                                            02/01/2010
+    8 USC Sec. 1440g                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59480,7 +60074,7 @@
 
 
 -CITE-
-    8 USC Sec. 1441                                             02/01/2010
+    8 USC Sec. 1441                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59585,7 +60179,7 @@
 
 
 -CITE-
-    8 USC Sec. 1442                                             02/01/2010
+    8 USC Sec. 1442                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59677,7 +60271,7 @@
 
 
 -CITE-
-    8 USC Sec. 1443                                             02/01/2010
+    8 USC Sec. 1443                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59771,6 +60365,15 @@
     104 Stat. 5040, 5042; Pub. L. 102-232, title III, Sec. 305(m)(6),
     Dec. 12, 1991, 105 Stat. 1750.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (f), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
+
 
 -MISC1-
                                 AMENDMENTS                            
@@ -59804,7 +60407,7 @@
 
 
 -CITE-
-    8 USC Sec. 1443a                                            02/01/2010
+    8 USC Sec. 1443a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59886,7 +60489,7 @@
 
 
 -CITE-
-    8 USC Sec. 1444                                             02/01/2010
+    8 USC Sec. 1444                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59958,7 +60561,7 @@
 
 
 -CITE-
-    8 USC Sec. 1445                                             02/01/2010
+    8 USC Sec. 1445                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60031,6 +60634,15 @@
     101-649, title IV, Secs. 401(b), 407(c)(15), (d)(12), Nov. 29,
     1990, 104 Stat. 5038, 5041, 5042; Pub. L. 102-232, title III, Sec.
     305(d), (e), (m)(7), Dec. 12, 1991, 105 Stat. 1750.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (f), was in the original a
+    reference to this Act, meaning act June 27, 1952, ch. 477, 66 Stat.
+    163, known as the Immigration and Nationality Act, which is
+    classified principally to this chapter. For complete classification
+    of this Act to the Code, see Short Title note set out under section
+    1101 of this title and Tables.
 
 
 -MISC1-
@@ -60115,7 +60727,7 @@
 
 
 -CITE-
-    8 USC Sec. 1446                                             02/01/2010
+    8 USC Sec. 1446                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60302,7 +60914,7 @@
 
 
 -CITE-
-    8 USC Sec. 1447                                             02/01/2010
+    8 USC Sec. 1447                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60455,7 +61067,7 @@
 
 
 -CITE-
-    8 USC Sec. 1448                                             02/01/2010
+    8 USC Sec. 1448                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60682,7 +61294,7 @@
 
 
 -CITE-
-    8 USC Sec. 1448a                                            02/01/2010
+    8 USC Sec. 1448a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60726,7 +61338,7 @@
 
 
 -CITE-
-    8 USC Sec. 1449                                             02/01/2010
+    8 USC Sec. 1449                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60831,7 +61443,7 @@
 
 
 -CITE-
-    8 USC Sec. 1450                                             02/01/2010
+    8 USC Sec. 1450                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60928,7 +61540,7 @@
 
 
 -CITE-
-    8 USC Sec. 1451                                             02/01/2010
+    8 USC Sec. 1451                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61179,7 +61791,7 @@
 
 
 -CITE-
-    8 USC Sec. 1452                                             02/01/2010
+    8 USC Sec. 1452                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61263,6 +61875,12 @@
       Act Aug. 4, 1937, referred to in subsec. (a), which was
     classified to sections 5d and 5e of this title, was repealed by act
     Oct. 14, 1940, ch. 876, title I, subch. V, Sec. 504, 54 Stat. 1172.
+      This chapter, referred to in subsecs. (a) and (b)(2), was in the
+    original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat.
+    163, known as the Immigration and Nationality Act, which is
+    classified principally to this chapter. For complete classification
+    of this Act to the Code, see Short Title note set out under section
+    1101 of this title and Tables.
 
 
 -MISC1-
@@ -61329,7 +61947,7 @@
 
 
 -CITE-
-    8 USC Sec. 1453                                             02/01/2010
+    8 USC Sec. 1453                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61385,7 +62003,7 @@
 
 
 -CITE-
-    8 USC Sec. 1454                                             02/01/2010
+    8 USC Sec. 1454                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61463,7 +62081,7 @@
 
 
 -CITE-
-    8 USC Sec. 1455                                             02/01/2010
+    8 USC Sec. 1455                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61558,6 +62176,15 @@
     309(a)(1)(A)(ii), (b)(14), Dec. 12, 1991, 105 Stat. 1736, 1750,
     1758, 1759; Pub. L. 107-273, div. C, title I, Sec. 11016(1), Nov.
     2, 2002, 116 Stat. 1824.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (b), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
 
 
 -MISC1-
@@ -61703,7 +62330,7 @@
 
 
 -CITE-
-    8 USC Sec. 1456                                             02/01/2010
+    8 USC Sec. 1456                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61727,7 +62354,7 @@
 
 
 -CITE-
-    8 USC Sec. 1457                                             02/01/2010
+    8 USC Sec. 1457                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61765,7 +62392,7 @@
 
 
 -CITE-
-    8 USC Sec. 1458                                             02/01/2010
+    8 USC Sec. 1458                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61792,6 +62419,15 @@
 -SOURCE-
     (June 27, 1952, ch. 477, title III, ch. 2, Sec. 347, 66 Stat. 266.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in text, was in the original, "this
+    Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as
+    the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
+
 
 -MISC1-
                               EFFECTIVE DATE                          
@@ -61812,7 +62448,7 @@
 
 
 -CITE-
-    8 USC Sec. 1459                                             02/01/2010
+    8 USC Sec. 1459                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61837,7 +62473,7 @@
 
 
 -CITE-
-    8 USC Part III - Loss of Nationality                        02/01/2010
+    8 USC Part III - Loss of Nationality                        01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61853,7 +62489,7 @@
 
 
 -CITE-
-    8 USC Sec. 1481                                             02/01/2010
+    8 USC Sec. 1481                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61935,10 +62571,12 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
-      The effective date of this chapter, referred to in subsec. (a),
-    is the 180th day immediately following June 27, 1952. See section
-    407 of act June 27, 1952, set out as an Effective Date note under
-    section 1101 of this title.
+      This chapter, referred to in subsec. (b), was in the original a
+    reference to this Act, meaning act June 27, 1952, ch. 477, 66 Stat.
+    163, known as the Immigration and Nationality Act, which is
+    classified principally to this chapter. For complete classification
+    of this Act to the Code, see Short Title note set out under section
+    1101 of this title and Tables.
 
 
 -MISC1-
@@ -62090,7 +62728,7 @@
 
 
 -CITE-
-    8 USC Sec. 1482                                             02/01/2010
+    8 USC Sec. 1482                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62124,7 +62762,7 @@
 
 
 -CITE-
-    8 USC Sec. 1483                                             02/01/2010
+    8 USC Sec. 1483                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62160,6 +62798,15 @@
     Sec. 8(o), Oct. 24, 1988, 102 Stat. 2618; Pub. L. 103-416, title I,
     Sec. 105(a), Oct. 25, 1994, 108 Stat. 4308; Pub. L. 104-208, div.
     C, title VI, Sec. 671(b)(3), Sept. 30, 1996, 110 Stat. 3009-721.)
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (a), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
 
 
 -MISC1-
@@ -62214,7 +62861,7 @@
 
 
 -CITE-
-    8 USC Secs. 1484 to 1487                                    02/01/2010
+    8 USC Secs. 1484 to 1487                                    01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62254,7 +62901,7 @@
 
 
 -CITE-
-    8 USC Sec. 1488                                             02/01/2010
+    8 USC Sec. 1488                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62279,7 +62926,7 @@
 
 
 -CITE-
-    8 USC Sec. 1489                                             02/01/2010
+    8 USC Sec. 1489                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62317,7 +62964,7 @@
 
 
 -CITE-
-    8 USC Part IV - Miscellaneous                               02/01/2010
+    8 USC Part IV - Miscellaneous                               01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62333,7 +62980,7 @@
 
 
 -CITE-
-    8 USC Sec. 1501                                             02/01/2010
+    8 USC Sec. 1501                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62375,6 +63022,12 @@
       Chapter IV of the Nationality Act of 1940, as amended, referred
     to in text, which was classified to sections 800 to 810 of this
     title, was repealed by section 403(a)(42) of act June 27, 1952.
+      This chapter, referred to in text, was in the original, "this
+    Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as
+    the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
 
 -COD-
                                CODIFICATION                           
@@ -62405,7 +63058,7 @@
 
 
 -CITE-
-    8 USC Sec. 1502                                             02/01/2010
+    8 USC Sec. 1502                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62442,7 +63095,7 @@
 
 
 -CITE-
-    8 USC Sec. 1503                                             02/01/2010
+    8 USC Sec. 1503                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62516,6 +63169,15 @@
     Pub. L. 104-208, div. C, title III, Sec. 308(d)(4)(P), Sept. 30,
     1996, 110 Stat. 3009-619.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsecs. (a) and (c), was in the
+    original a reference to this Act, meaning act June 27, 1952, ch.
+    477, 66 Stat. 163, known as the Immigration and Nationality Act,
+    which is classified principally to this chapter. For complete
+    classification of this Act to the Code, see Short Title note set
+    out under section 1101 of this title and Tables.
+
 
 -MISC1-
                                 AMENDMENTS                            
@@ -62543,7 +63205,7 @@
 
 
 -CITE-
-    8 USC Sec. 1504                                             02/01/2010
+    8 USC Sec. 1504                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62582,7 +63244,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER IV - REFUGEE ASSISTANCE                    02/01/2010
+    8 USC SUBCHAPTER IV - REFUGEE ASSISTANCE                    01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62597,7 +63259,7 @@
 
 
 -CITE-
-    8 USC Sec. 1521                                             02/01/2010
+    8 USC Sec. 1521                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62695,7 +63357,7 @@
 
 
 -CITE-
-    8 USC Sec. 1522                                             02/01/2010
+    8 USC Sec. 1522                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -63307,6 +63969,12 @@
     et seq.) and XIX (Sec. 1396 et seq.), respectively, of chapter 7 of
     Title 42. For complete classification of this Act to the Code, see
     section 1305 of Title 42 and Tables.
+      This chapter, referred to in subsec. (f)(1)(C), was in the
+    original, "this Act", meaning act June 27, 1952, ch. 477, 66 Stat.
+    163, known as the Immigration and Nationality Act, which is
+    classified principally to this chapter. For complete classification
+    of this Act to the Code, see Short Title note set out under section
+    1101 of this title and Tables.
 
 
 -MISC1-
@@ -64362,7 +65030,7 @@
 
 
 -CITE-
-    8 USC Sec. 1523                                             02/01/2010
+    8 USC Sec. 1523                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -64459,7 +65127,7 @@
 
 
 -CITE-
-    8 USC Sec. 1524                                             02/01/2010
+    8 USC Sec. 1524                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -64551,7 +65219,7 @@
 
 
 -CITE-
-    8 USC Sec. 1525                                             02/01/2010
+    8 USC Sec. 1525                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -64582,7 +65250,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER V - ALIEN TERRORIST REMOVAL PROCEDURES     02/01/2010
+    8 USC SUBCHAPTER V - ALIEN TERRORIST REMOVAL PROCEDURES     01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -64597,7 +65265,7 @@
 
 
 -CITE-
-    8 USC Sec. 1531                                             02/01/2010
+    8 USC Sec. 1531                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -64670,7 +65338,7 @@
 
 
 -CITE-
-    8 USC Sec. 1532                                             02/01/2010
+    8 USC Sec. 1532                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -64754,7 +65422,7 @@
 
 
 -CITE-
-    8 USC Sec. 1533                                             02/01/2010
+    8 USC Sec. 1533                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -64784,8 +65452,8 @@
             (ii) the alien is physically present in the United States;
           and
             (iii) with respect to such alien, removal under subchapter
-          II of this chapter would pose a risk to the national security
-          of the United States.
+          II would pose a risk to the national security of the United
+          States.
       (2) Filing
         An application under this section shall be submitted ex parte
       and in camera, and shall be filed under seal with the removal
@@ -64809,8 +65477,8 @@
           (A) the alien who is the subject of the application has been
         correctly identified and is an alien terrorist present in the
         United States; and
-          (B) removal under subchapter II of this chapter would pose a
-        risk to the national security of the United States.
+          (B) removal under subchapter II would pose a risk to the
+        national security of the United States.
       (3) Denial of order
         If the judge denies the order requested in the application, the
       judge shall prepare a written statement of the reasons for the
@@ -64827,6 +65495,15 @@
     (June 27, 1952, ch. 477, title V, Sec. 503, as added Pub. L. 104-
     132, title IV, Sec. 401(a), Apr. 24, 1996, 110 Stat. 1259.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in subsec. (d), was in the original,
+    "this Act", meaning act June 27, 1952, ch. 477, 66 Stat. 163, known
+    as the Immigration and Nationality Act, which is classified
+    principally to this chapter. For complete classification of this
+    Act to the Code, see Short Title note set out under section 1101 of
+    this title and Tables.
+
 
 -TRANS-
     ABOLITION OF IMMIGRATION AND NATURALIZATION SERVICE AND TRANSFER OF
@@ -64840,7 +65517,7 @@
 
 
 -CITE-
-    8 USC Sec. 1534                                             02/01/2010
+    8 USC Sec. 1534                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65202,7 +65879,7 @@
 
 
 -CITE-
-    8 USC Sec. 1535                                             02/01/2010
+    8 USC Sec. 1535                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65393,7 +66070,7 @@
 
 
 -CITE-
-    8 USC Sec. 1536                                             02/01/2010
+    8 USC Sec. 1536                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65476,7 +66153,7 @@
 
 
 -CITE-
-    8 USC Sec. 1537                                             02/01/2010
+    8 USC Sec. 1537                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65627,7 +66304,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 13 - IMMIGRATION AND NATURALIZATION SERVICE    02/01/2010 
+    8 USC CHAPTER 13 - IMMIGRATION AND NATURALIZATION SERVICE    01/07/2011 
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65665,7 +66342,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER I - ORGANIZATION                           02/01/2010
+    8 USC SUBCHAPTER I - ORGANIZATION                           01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65680,7 +66357,7 @@
 
 
 -CITE-
-    8 USC Sec. 1551                                             02/01/2010
+    8 USC Sec. 1551                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65933,7 +66610,7 @@
 
 
 -CITE-
-    8 USC Sec. 1552                                             02/01/2010
+    8 USC Sec. 1552                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66025,7 +66702,7 @@
 
 
 -CITE-
-    8 USC Sec. 1553                                             02/01/2010
+    8 USC Sec. 1553                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66079,7 +66756,7 @@
 
 
 -CITE-
-    8 USC Sec. 1554                                             02/01/2010
+    8 USC Sec. 1554                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66133,7 +66810,7 @@
 
 
 -CITE-
-    8 USC Sec. 1555                                             02/01/2010
+    8 USC Sec. 1555                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66184,7 +66861,7 @@
 
 
 -CITE-
-    8 USC Sec. 1556                                             02/01/2010
+    8 USC Sec. 1556                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66203,7 +66880,7 @@
 
 
 -CITE-
-    8 USC Sec. 1557                                             02/01/2010
+    8 USC Sec. 1557                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66313,7 +66990,7 @@
 
 -CITE-
     8 USC SUBCHAPTER II - IMMIGRATION SERVICES AND
-           INFRASTRUCTURE IMPROVEMENTS                     02/01/2010
+           INFRASTRUCTURE IMPROVEMENTS                     01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66329,7 +67006,7 @@
 
 
 -CITE-
-    8 USC Sec. 1571                                             02/01/2010
+    8 USC Sec. 1571                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66385,7 +67062,7 @@
 
 
 -CITE-
-    8 USC Sec. 1572                                             02/01/2010
+    8 USC Sec. 1572                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66434,7 +67111,7 @@
 
 
 -CITE-
-    8 USC Sec. 1573                                             02/01/2010
+    8 USC Sec. 1573                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66504,7 +67181,7 @@
 
 
 -CITE-
-    8 USC Sec. 1574                                             02/01/2010
+    8 USC Sec. 1574                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66645,7 +67322,7 @@
 
 -CITE-
     8 USC CHAPTER 14 - RESTRICTING WELFARE AND PUBLIC BENEFITS
-           FOR ALIENS                                      02/01/2010
+           FOR ALIENS                                      01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66710,7 +67387,7 @@
 
 
 -CITE-
-    8 USC Sec. 1601                                             02/01/2010
+    8 USC Sec. 1601                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66788,7 +67465,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER I - ELIGIBILITY FOR FEDERAL BENEFITS       02/01/2010
+    8 USC SUBCHAPTER I - ELIGIBILITY FOR FEDERAL BENEFITS       01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66803,7 +67480,7 @@
 
 
 -CITE-
-    8 USC Sec. 1611                                             02/01/2010
+    8 USC Sec. 1611                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -67074,7 +67751,7 @@
 
 
 -CITE-
-    8 USC Sec. 1612                                             02/01/2010
+    8 USC Sec. 1612                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -67545,6 +68222,15 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
+      This chapter, referred to in subsecs. (a)(3) and (b)(3), was in
+    the original "this title" meaning title IV of Pub. L. 104-193, Aug.
+    22, 1996, 110 Stat. 2260, which enacted this chapter, section 1183a
+    of this title, and sections 611a and 1437y of Title 42, The Public
+    Health and Welfare, amended section 1383 of this title, sections 32
+    and 6213 of Title 26, Internal Revenue Code, and sections 1436a and
+    1471 of Title 42, and enacted provisions set out as notes under
+    section 1183a of this title and section 32 of Title 26. For
+    complete classification of title IV to the Code, see Tables.
       Section 243 of such Act and section 243 of the Immigration and
     Nationality Act, referred to in subsecs. (a)(2)(A)(iii),
     (M)(i)(III)(dd) and (b)(2)(A)(i)(III), (ii)(III), are section 243
@@ -67846,7 +68532,7 @@
 
 
 -CITE-
-    8 USC Sec. 1613                                             02/01/2010
+    8 USC Sec. 1613                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68148,7 +68834,7 @@
 
 
 -CITE-
-    8 USC Sec. 1614                                             02/01/2010
+    8 USC Sec. 1614                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68184,7 +68870,7 @@
 
 
 -CITE-
-    8 USC Sec. 1615                                             02/01/2010
+    8 USC Sec. 1615                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68282,7 +68968,7 @@
 
 -CITE-
     8 USC SUBCHAPTER II - ELIGIBILITY FOR STATE AND LOCAL
-           PUBLIC BENEFITS PROGRAMS                        02/01/2010
+           PUBLIC BENEFITS PROGRAMS                        01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68299,7 +68985,7 @@
 
 
 -CITE-
-    8 USC Sec. 1621                                             02/01/2010
+    8 USC Sec. 1621                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68462,7 +69148,7 @@
 
 
 -CITE-
-    8 USC Sec. 1622                                             02/01/2010
+    8 USC Sec. 1622                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68628,7 +69314,7 @@
 
 
 -CITE-
-    8 USC Sec. 1623                                             02/01/2010
+    8 USC Sec. 1623                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68671,7 +69357,7 @@
 
 
 -CITE-
-    8 USC Sec. 1624                                             02/01/2010
+    8 USC Sec. 1624                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68721,7 +69407,7 @@
 
 
 -CITE-
-    8 USC Sec. 1625                                             02/01/2010
+    8 USC Sec. 1625                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68757,7 +69443,7 @@
 
 -CITE-
     8 USC SUBCHAPTER III - ATTRIBUTION OF INCOME AND
-           AFFIDAVITS OF SUPPORT                           02/01/2010
+           AFFIDAVITS OF SUPPORT                           01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68772,7 +69458,7 @@
 
 
 -CITE-
-    8 USC Sec. 1631                                             02/01/2010
+    8 USC Sec. 1631                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68988,7 +69674,7 @@
 
 
 -CITE-
-    8 USC Sec. 1632                                             02/01/2010
+    8 USC Sec. 1632                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69099,7 +69785,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER IV - GENERAL PROVISIONS                    02/01/2010
+    8 USC SUBCHAPTER IV - GENERAL PROVISIONS                    01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69114,7 +69800,7 @@
 
 
 -CITE-
-    8 USC Sec. 1641                                             02/01/2010
+    8 USC Sec. 1641                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69388,7 +70074,7 @@
 
 
 -CITE-
-    8 USC Sec. 1642                                             02/01/2010
+    8 USC Sec. 1642                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69496,7 +70182,7 @@
 
 
 -CITE-
-    8 USC Sec. 1643                                             02/01/2010
+    8 USC Sec. 1643                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69587,7 +70273,7 @@
 
 
 -CITE-
-    8 USC Sec. 1644                                             02/01/2010
+    8 USC Sec. 1644                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69623,7 +70309,7 @@
 
 
 -CITE-
-    8 USC Sec. 1645                                             02/01/2010
+    8 USC Sec. 1645                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69704,7 +70390,7 @@
 
 
 -CITE-
-    8 USC Sec. 1646                                             02/01/2010
+    8 USC Sec. 1646                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69760,7 +70446,7 @@
 
 -CITE-
     8 USC CHAPTER 15 - ENHANCED BORDER SECURITY AND VISA ENTRY
-           REFORM                                          02/01/2010
+           REFORM                                          01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69838,7 +70524,7 @@
 
 
 -CITE-
-    8 USC Sec. 1701                                             02/01/2010
+    8 USC Sec. 1701                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70073,7 +70759,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER I - FUNDING                                02/01/2010
+    8 USC SUBCHAPTER I - FUNDING                                01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70088,7 +70774,7 @@
 
 
 -CITE-
-    8 USC Sec. 1711                                             02/01/2010
+    8 USC Sec. 1711                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70217,7 +70903,7 @@
 
 
 -CITE-
-    8 USC Sec. 1712                                             02/01/2010
+    8 USC Sec. 1712                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70403,7 +71089,7 @@
 
 
 -CITE-
-    8 USC Sec. 1713                                             02/01/2010
+    8 USC Sec. 1713                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70446,7 +71132,7 @@
 
 
 -CITE-
-    8 USC Sec. 1714                                             02/01/2010
+    8 USC Sec. 1714                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70521,7 +71207,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER II - INTERAGENCY INFORMATION SHARING       02/01/2010
+    8 USC SUBCHAPTER II - INTERAGENCY INFORMATION SHARING       01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70536,7 +71222,7 @@
 
 
 -CITE-
-    8 USC Sec. 1721                                             02/01/2010
+    8 USC Sec. 1721                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70696,7 +71382,7 @@
 
 
 -CITE-
-    8 USC Sec. 1722                                             02/01/2010
+    8 USC Sec. 1722                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70873,7 +71559,7 @@
 
 
 -CITE-
-    8 USC Sec. 1723                                             02/01/2010
+    8 USC Sec. 1723                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70934,7 +71620,7 @@
 
 
 -CITE-
-    8 USC Sec. 1724                                             02/01/2010
+    8 USC Sec. 1724                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71002,7 +71688,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER III - VISA ISSUANCE                        02/01/2010
+    8 USC SUBCHAPTER III - VISA ISSUANCE                        01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71017,7 +71703,7 @@
 
 
 -CITE-
-    8 USC Sec. 1731                                             02/01/2010
+    8 USC Sec. 1731                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71080,7 +71766,7 @@
 
 
 -CITE-
-    8 USC Sec. 1732                                             02/01/2010
+    8 USC Sec. 1732                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71193,7 +71879,7 @@
 
 
 -CITE-
-    8 USC Sec. 1733                                             02/01/2010
+    8 USC Sec. 1733                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71251,7 +71937,7 @@
 
 
 -CITE-
-    8 USC Sec. 1734                                             02/01/2010
+    8 USC Sec. 1734                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71314,7 +72000,7 @@
 
 
 -CITE-
-    8 USC Sec. 1735                                             02/01/2010
+    8 USC Sec. 1735                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71369,7 +72055,7 @@
 
 
 -CITE-
-    8 USC Sec. 1736                                             02/01/2010
+    8 USC Sec. 1736                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71404,7 +72090,7 @@
 
 
 -CITE-
-    8 USC Sec. 1737                                             02/01/2010
+    8 USC Sec. 1737                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71455,7 +72141,7 @@
 
 
 -CITE-
-    8 USC Sec. 1738                                             02/01/2010
+    8 USC Sec. 1738                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71491,7 +72177,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER IV - INSPECTION AND ADMISSION OF ALIENS    02/01/2010
+    8 USC SUBCHAPTER IV - INSPECTION AND ADMISSION OF ALIENS    01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71506,7 +72192,7 @@
 
 
 -CITE-
-    8 USC Sec. 1751                                             02/01/2010
+    8 USC Sec. 1751                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71574,7 +72260,7 @@
 
 
 -CITE-
-    8 USC Sec. 1752                                             02/01/2010
+    8 USC Sec. 1752                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71611,7 +72297,7 @@
 
 
 -CITE-
-    8 USC Sec. 1752a                                            02/01/2010
+    8 USC Sec. 1752a                                            01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71669,7 +72355,7 @@
 
 
 -CITE-
-    8 USC Sec. 1753                                             02/01/2010
+    8 USC Sec. 1753                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71721,7 +72407,7 @@
 
 -CITE-
     8 USC SUBCHAPTER V - FOREIGN STUDENTS AND EXCHANGE
-           VISITORS                                        02/01/2010
+           VISITORS                                        01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71736,7 +72422,7 @@
 
 
 -CITE-
-    8 USC Sec. 1761                                             02/01/2010
+    8 USC Sec. 1761                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71827,7 +72513,7 @@
 
 
 -CITE-
-    8 USC Sec. 1762                                             02/01/2010
+    8 USC Sec. 1762                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71894,7 +72580,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER VI - MISCELLANEOUS PROVISIONS              02/01/2010
+    8 USC SUBCHAPTER VI - MISCELLANEOUS PROVISIONS              01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71909,7 +72595,7 @@
 
 
 -CITE-
-    8 USC Sec. 1771                                             02/01/2010
+    8 USC Sec. 1771                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71960,7 +72646,7 @@
 
 
 -CITE-
-    8 USC Sec. 1772                                             02/01/2010
+    8 USC Sec. 1772                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72023,7 +72709,7 @@
 
 
 -CITE-
-    8 USC Sec. 1773                                             02/01/2010
+    8 USC Sec. 1773                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72042,12 +72728,20 @@
 -SOURCE-
     (Pub. L. 107-173, title VI, Sec. 604, May 14, 2002, 116 Stat. 565.)
 
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      This chapter, referred to in text, was in the original "this
+    Act", meaning Pub. L. 107-173, May 14, 2002, 116 Stat. 543, which
+    is classified principally to this chapter. For complete
+    classification of this Act to the Code, see Short Title note set
+    out under section 1701 of this title and Tables.
+
 -End-
 
 
 
 -CITE-
-    8 USC Sec. 1774                                             02/01/2010
+    8 USC Sec. 1774                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72092,7 +72786,7 @@
 
 
 -CITE-
-    8 USC Sec. 1775                                             02/01/2010
+    8 USC Sec. 1775                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72130,7 +72824,7 @@
 
 
 -CITE-
-    8 USC Sec. 1776                                             02/01/2010
+    8 USC Sec. 1776                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72287,7 +72981,7 @@
 
 
 -CITE-
-    8 USC Sec. 1777                                             02/01/2010
+    8 USC Sec. 1777                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72524,7 +73218,7 @@
 
 
 -CITE-
-    8 USC Sec. 1778                                             02/01/2010
+    8 USC Sec. 1778                                             01/07/2011
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
