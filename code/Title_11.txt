@@ -1,17 +1,19 @@
 -CITE-
-    11 USC APPENDIX TITLE 11 - APPENDIX                         02/01/2010
+    11 USC APPENDIX TITLE 11 - APPENDIX                    01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
     
--HEAD-     
-    TITLE 11 - APPENDIX
+-HEAD-    
+                            TITLE 11 - APPENDIX
+
+
 -End-
 
 
 -CITE-
     11 USC APPENDIX FEDERAL RULES OF BANKRUPTCY
-      PROCEDURE AND OFFICIAL BANKRUPTCY FORMS              02/01/2010
+      PROCEDURE AND OFFICIAL BANKRUPTCY FORMS              01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -22,7 +24,7 @@
 
 
 -MISC1-
-        (EFFECTIVE AUGUST 1, 1983, AS AMENDED TO FEBRUARY 1, 2010)    
+         (EFFECTIVE AUGUST 1, 1983, AS AMENDED TO JANUARY 7, 2011)     
 
                                                                 
 
@@ -44,7 +46,8 @@
     Dec. 1, 2002; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 26, 2004, eff.
     Dec. 1, 2004; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 12, 2006, eff.
     Dec. 1, 2006; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 23, 2008, eff.
-    Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.
+    Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff.
+    Dec. 1, 2010.
     Part                                                             Rule
     I.      Commencement of Case; Proceedings Relating to
              Petition and Order for Relief                          1002
@@ -92,7 +95,7 @@
     1016.       Death or Incompetency of Debtor.                      
     1017.       Dismissal or Conversion of Case; Suspension.          
     1018.       Contested Involuntary Petitions; Contested Petitions
-                 Commencing Ancillary Cases; Proceedings to Vacate
+                 Commencing Chapter 15 Cases; Proceedings to Vacate
                  Order for Relief; Applicability of Rules in Part VII
                  Governing Adversary Proceedings.                     
     1019.       Conversion of a Chapter 11 Reorganization Case,
@@ -222,10 +225,13 @@
     5008.       Notice Regarding Presumption of Abuse in Chapter 7
                  Cases of Individual Debtors.                         
     5009.       Closing Chapter 7 Liquidation, Chapter 12 Family
-                 Farmer's Debt Adjustment, and Chapter 13 Individual's
-                 Debt Adjustment Cases.                               
+                 Farmer's Debt Adjustment, Chapter 13 Individual's
+                 Debt Adjustment, and Chapter 15 Ancillary and
+                 Cross-Border Cases.                                  
     5010.       Reopening Cases.                                      
     5011.       Withdrawal and Abstention from Hearing a Proceeding.  
+    5012.       Agreements Concerning Coordination of Proceedings in
+                 Chapter 15 Cases.                                    
 
              PART VI. COLLECTION AND LIQUIDATION OF THE ESTATE         
     6001.       Burden of Proof As to Validity of Postpetition
@@ -456,7 +462,7 @@
 
 
 -CITE-
-    11 USC APPENDIX BANKRUPTCY RULES                            02/01/2010
+    11 USC APPENDIX BANKRUPTCY RULES                            01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -490,7 +496,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1001                                   02/01/2010
+    11 USC APPENDIX Rule 1001                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -593,7 +599,7 @@
 -CITE-
     11 USC APPENDIX PART I - COMMENCEMENT OF CASE;
            PROCEEDINGS RELATING TO PETITION AND
-           ORDER FOR RELIEF                                02/01/2010
+           ORDER FOR RELIEF                                01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -610,7 +616,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1002                                   02/01/2010
+    11 USC APPENDIX Rule 1002                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -703,7 +709,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1003                                   02/01/2010
+    11 USC APPENDIX Rule 1003                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -817,7 +823,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1004                                   02/01/2010
+    11 USC APPENDIX Rule 1004                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -891,7 +897,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1004.1                                 02/01/2010
+    11 USC APPENDIX Rule 1004.1                                 01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -931,7 +937,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1005                                   02/01/2010
+    11 USC APPENDIX Rule 1005                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -1006,7 +1012,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1006                                   02/01/2010
+    11 USC APPENDIX Rule 1006                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -1127,7 +1133,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1007                                   02/01/2010
+    11 USC APPENDIX Rule 1007                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -1152,10 +1158,10 @@
       supplemental statement promptly upon any change in circumstances
       that renders the corporate ownership statement inaccurate.
         (2) Involuntary Case. In an involuntary case, the debtor shall
-      file within 14 days after entry of the order for relief, a list
-      containing the name and address of each entity included or to be
-      included on Schedules D, E, F, G, and H as prescribed by the
-      Official Forms.
+      file, within seven days after entry of the order for relief, a
+      list containing the name and address of each entity included or
+      to be included on Schedules D, E, F, G, and H as prescribed by
+      the Official Forms.
         (3) Equity Security Holders. In a chapter 11 reorganization
       case, unless the court orders otherwise, the debtor shall file
       within 14 days after entry of the order for relief a list of the
@@ -1264,7 +1270,7 @@
     (b)(3)(B), shall file the documents required by subdivision
     (b)(3)(A) within 14 days of the order for relief. In a chapter 7
     case, the debtor shall file the statement required by subdivision
-    (b)(7) within 45 days after the first date set for the meeting of
+    (b)(7) within 60 days after the first date set for the meeting of
     creditors under Sec. 341 of the Code, and in a chapter 11 or 13
     case no later than the date when the last payment was made by the
     debtor as required by the plan or the filing of a motion for a
@@ -1377,7 +1383,7 @@
     Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff.
     Dec. 1, 2001; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 25, 2005, eff.
     Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff.
-    Dec. 1, 2009.)
+    Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010.)
 
 
 -MISC1-
@@ -1773,6 +1779,20 @@
         -- 20-day periods become 21-day periods
         -- 25-day periods become 28-day periods
 
+                 COMMITTEE NOTES ON RULES - 2010 AMENDMENT             
+      Subdivision (a)(2). Subdivision (a)(2) is amended to shorten the
+    time for a debtor to file a list of the creditors included on the
+    various schedules filed or to be filed in the case. This list
+    provides the information necessary for the clerk to provide notice
+    of the Sec. 341meeting of creditors in a timely manner.
+      Subdivision (c). Subdivision (c) is amended to provide additional
+    time for individual debtors in chapter 7 to file the statement of
+    completion of a course in personal financial management. This
+    change is made in conjunction with an amendment to Rule 5009
+    requiring the clerk to provide notice to debtors of the
+    consequences of not filing the statement in a timely manner.
+      Changes Made After Publication. No changes since publication.
+
 -FOOTNOTE-
     (!1) So in original. Probably should be only one section symbol.
 
@@ -1782,7 +1802,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1008                                   02/01/2010
+    11 USC APPENDIX Rule 1008                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -1820,7 +1840,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1009                                   02/01/2010
+    11 USC APPENDIX Rule 1009                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -1933,7 +1953,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1010                                   02/01/2010
+    11 USC APPENDIX Rule 1010                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -2082,7 +2102,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1011                                   02/01/2010
+    11 USC APPENDIX Rule 1011                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -2272,7 +2292,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1012                                   02/01/2010
+    11 USC APPENDIX Rule 1012                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -2298,7 +2318,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1013                                   02/01/2010
+    11 USC APPENDIX Rule 1013                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -2359,7 +2379,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1014                                   02/01/2010
+    11 USC APPENDIX Rule 1014                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -2389,23 +2409,25 @@
 
       (b) Procedure When Petitions Involving the Same Debtor or Related
     Debtors Are Filed in Different Courts. If petitions commencing
-    cases under the Code are filed in different districts by or against
-    (1) the same debtor, or (2) a partnership and one or more of its
-    general partners, or (3) two or more general partners, or (4) a
-    debtor and an affiliate, on motion filed in the district in which
-    the petition filed first is pending and after hearing on notice to
-    the petitioners, the United States trustee, and other entities as
-    directed by the court, the court may determine, in the interest of
-    justice or for the convenience of the parties, the district or
-    districts in which the case or cases should proceed. Except as
-    otherwise ordered by the court in the district in which the
-    petition filed first is pending, the proceedings on the other
-    petitions shall be stayed by the courts in which they have been
-    filed until the determination is made.
+    cases under the Code or seeking recognition under chapter 15 are
+    filed in different districts by, regarding, or against (1) the same
+    debtor, (2) a partnership and one or more of its general partners,
+    (3) two or more general partners, or (4) a debtor and an affiliate,
+    on motion filed in the district in which the petition filed first
+    is pending and after hearing on notice to the petitioners, the
+    United States trustee, and other entities as directed by the court,
+    the court may determine, in the interest of justice or for the
+    convenience of the parties, the district or districts in which the
+    case or cases should proceed. Except as otherwise ordered by the
+    court in the district in which the petition filed first is pending,
+    the proceedings on the other petitions shall be stayed by the
+    courts in which they have been filed until the determination is
+    made.
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
-    Aug. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007.)
+    Aug. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 28, 2010, eff.
+    Dec. 1, 2010.)
 
 
 -MISC1-
@@ -2502,12 +2524,24 @@
       Other amendments are stylistic.
       Changes Made After Publication. No changes since publication.
 
+                 COMMITTEE NOTES ON RULES - 2010 AMENDMENT             
+      Subdivision (b). Subdivision (b) of the rule is amended to
+    provide that petitions for recognition of a foreign proceeding are
+    included among those that are governed by the procedure for
+    determining where cases should go forward when multiple petitions
+    involving the same debtor are filed. The amendment adds a specific
+    reference to chapter 15 petitions and also provides that the rule
+    governs proceedings regarding a debtor as well as those that are
+    filed by or against a debtor.
+      Other changes are stylistic.
+      Changes Made After Publication. No changes since publication.
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 1015                                   02/01/2010
+    11 USC APPENDIX Rule 1015                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -2520,9 +2554,9 @@
       in Same Court
 
 -STATUTE-
-      (a) Cases Involving Same Debtor. If two or more petitions are
-    pending in the same court by or against the same debtor, the court
-    may order consolidation of the cases.
+      (a) Cases Involving Same Debtor. If two or more petitions by,
+    regarding, or against the same debtor are pending in the same
+    court, the court may order consolidation of the cases.
       (b) Cases Involving Two or More Related Debtors. If a joint
     petition or two or more petitions are pending in the same court by
     or against (1) a husband and wife, or (2) a partnership and one or
@@ -2547,8 +2581,8 @@
     may tend to avoid unnecessary costs and delay.
 
 -SOURCE-
-    (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008; eff.
-    Dec. 1, 2008.)
+    (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff.
+    Dec. 1, 2008; Apr. 28, 2010, eff. Dec. 1, 2010.)
 
 
 -MISC1-
@@ -2621,12 +2655,23 @@
       Changes Made After Publication. No changes were made after
     publication.
 
+                 COMMITTEE NOTES ON RULES - 2010 AMENDMENT             
+      Subdivision (a). By amending subdivision (a) to include cases
+    regarding the same debtor, the rule explicitly recognizes that the
+    court's authority to consolidate cases when more than one petition
+    is filed includes the authority to consolidate cases when one or
+    more of the petitions is filed under chapter 15. This amendment is
+    made in conjunction with the amendment to Rule 1014(b), which also
+    governs petitions filed under chapter 15 regarding the same debtor
+    as well as those filed by or against the debtor.
+      Changes Made After Publication. No changes since publication.
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 1016                                   02/01/2010
+    11 USC APPENDIX Rule 1016                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -2668,7 +2713,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1017                                   02/01/2010
+    11 USC APPENDIX Rule 1017                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -2912,7 +2957,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1018                                   02/01/2010
+    11 USC APPENDIX Rule 1018                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -2922,28 +2967,28 @@
 
 -HEAD-
     Rule 1018. Contested Involuntary Petitions; Contested Petitions
-      Commencing Ancillary Cases; Proceedings to Vacate Order for
+      Commencing Chapter 15 Cases; Proceedings to Vacate Order for
       Relief; Applicability of Rules in Part VII Governing Adversary
       Proceedings
 
 -STATUTE-
-      The following rules in Part VII apply to all proceedings relating
-    to a contested involuntary petition, to proceedings relating to a
-    contested petition commencing a case ancillary to a foreign
-    proceeding, and to all proceedings to vacate an order for relief:
-    Rules 7005, 7008-7010, 7015, 7016, 7024-7026, 7028-7037, 7052,
-    7054, 7056, and 7062, except as otherwise provided in Part I of
-    these rules and unless the court otherwise directs. The court may
-    direct that other rules in Part VII shall also apply. For the
-    purposes of this rule a reference in the Part VII rules to
-    adversary proceedings shall be read as a reference to proceedings
-    relating to a contested involuntary petition, or contested
-    ancillary petition, or proceedings to vacate an order for relief.
-    Reference in the Federal Rules of Civil Procedure to the complaint
-    shall be read as a reference to the petition.
+      Unless the court otherwise directs and except as otherwise
+    prescribed in Part I of these rules, the following rules in Part
+    VII apply to all proceedings contesting an involuntary petition or
+    a chapter 15 petition for recognition, and to all proceedings to
+    vacate an order for relief: Rules 7005, 7008-7010, 7015, 7016, 7024-
+    7026, 7028-7037, 7052, 7054, 7056, and 7062. The court may direct
+    that other rules in Part VII shall also apply. For the purposes of
+    this rule a reference in the Part VII rules to adversary
+    proceedings shall be read as a reference to proceedings contesting
+    an involuntary petition or a chapter 15 petition for recognition,
+    or proceedings to vacate an order for relief. Reference in the
+    Federal Rules of Civil Procedure to the complaint shall be read as
+    a reference to the petition.
 
 -SOURCE-
-    (As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
+    (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 28, 2010, eff.
+    Dec. 1, 2010.)
 
 
 -MISC1-
@@ -2986,12 +3031,34 @@
     circumstances. Rule 37(b) authorizes the court to enter judgment by
     default or an order that "facts shall be taken as established."
 
+                 COMMITTEE NOTES ON RULES - 2010 AMENDMENT             
+      The rule is amended to reflect the enactment of chapter 15 of the
+    Code in 2005. As to chapter 15 cases, the rule applies to contests
+    over the petition for recognition and not to all matters that arise
+    in the case. Thus, proceedings governed by Sec. 1519(e) and Sec.
+    1521(e) of the Code must comply with Rules 7001(7) and 7065, which
+    provide that actions for injunctive relief are adversary
+    proceedings governed by Part VII of the rules. The rule is also
+    amended to clarify that it applies to contests over an involuntary
+    petition, and not to matters merely "relating to" a contested
+    involuntary petition. Matters that may arise in a chapter 15 case
+    or an involuntary case, other than contests over the petition
+    itself, are governed by the otherwise applicable rules.
+      Other changes are stylistic.
+      Changes Made After Publication. No changes since publication.
+
+-REFTEXT-
+                            REFERENCES IN TEXT                        
+      The Federal Rules of Civil Procedure, referred to in text, are
+    set out in the Appendix to Title 28, Judiciary and Judicial
+    Procedure.
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 1019                                   02/01/2010
+    11 USC APPENDIX Rule 1019                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -3024,17 +3091,29 @@
         extension shall be given to the United States trustee and to
         any committee, trustee, or other party as the court may direct.
 
-        (2) New Filing Periods. A new time period for filing a motion
-      under Sec. 707(b) or (c), a claim, a complaint objecting to
-      discharge, or a complaint to obtain a determination of
-      dischargeability of any debt shall commence under Rules 1017,
-      3002, 4004, or 4007, but a new time period shall not commence if
-      a chapter 7 case had been converted to a chapter 11, 12, or 13
-      case and thereafter reconverted to a chapter 7 case and the time
-      for filing a motion under Sec. 707(b) or (c), a claim, a
-      complaint objecting to discharge, or a complaint to obtain a
-      determination of the dischargeability of any debt, or any
-      extension thereof, expired in the original chapter 7 case.
+        (2) New Filing Periods.
+          (A) A new time period for filing a motion under Sec. 707(b)
+        or (c), a claim, a complaint objecting to discharge, or a
+        complaint to obtain a determination of dischargeability of any
+        debt shall commence under Rules (!1) 1017, 3002, 4004, or 4007,
+        but a new time period shall not commence if a chapter 7 case
+        had been converted to a chapter 11, 12, or 13 case and
+        thereafter reconverted to a chapter 7 case and the time for
+        filing a motion under Sec. 707(b) or (c), a claim, a complaint
+        objecting to discharge, or a complaint to obtain a
+        determination of the dischargeability of any debt, or any
+        extension thereof, expired in the original chapter 7 case.
+
+          (B) A new time period for filing an objection to a claim of
+        exemptions shall commence under Rule 4003(b) after conversion
+        of a case to chapter 7 unless:
+            (i) the case was converted to chapter 7 more than one year
+          after the entry of the first order confirming a plan under
+          chapter 11, 12, or 13; or
+            (ii) the case was previously pending in chapter 7 and the
+          time to object to a claimed exemption had expired in the
+          original chapter 7 case.
+
         (3) Claims Filed Before Conversion. All claims actually filed
       by a creditor before conversion of the case are deemed filed in
       the chapter 7 case.
@@ -3110,7 +3189,8 @@
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
     Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 11, 1997, eff.
     Dec. 1, 1997; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2008, eff.
-    Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
+    Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff.
+    Dec. 1, 2010.)
 
 
 -MISC1-
@@ -3358,12 +3438,29 @@
         -- 20-day periods become 21-day periods
         -- 25-day periods become 28-day periods
 
+                 COMMITTEE NOTES ON RULES - 2010 AMENDMENT             
+      Subdivision (2). Subdivision (2) is redesignated as subdivision
+    (2)(A), and a new subdivision (2)(B) is added to the rule.
+    Subdivision (2)(B) provides that a new time period to object to a
+    claim of exemption arises when a case is converted to chapter 7
+    from chapter 11, 12, or 13. The new time period does not arise,
+    however, if the conversion occurs more than one year after the
+    first order confirming a plan, even if the plan was subsequently
+    modified. A new objection period also does not arise if the case
+    was previously pending under chapter 7 and the objection period had
+    expired in the prior chapter 7 case.
+      Changes Made After Publication. No changes since publication.
+
+-FOOTNOTE-
+    (!1) So in original. Probably should be "Rule".
+
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 1020                                   02/01/2010
+    11 USC APPENDIX Rule 1020                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -3471,7 +3568,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 1021                                   02/01/2010
+    11 USC APPENDIX Rule 1021                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -3523,7 +3620,7 @@
     11 USC APPENDIX PART II - OFFICERS AND
            ADMINISTRATION; NOTICES; MEETINGS;
            EXAMINATIONS; ELECTIONS; ATTORNEYS
-           AND ACCOUNTANTS                                 02/01/2010
+           AND ACCOUNTANTS                                 01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -3540,7 +3637,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2001                                   02/01/2010
+    11 USC APPENDIX Rule 2001                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -3624,7 +3721,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2002                                   02/01/2010
+    11 USC APPENDIX Rule 2002                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -3869,7 +3966,8 @@
     Nothing in these rules requires the clerk or any other person to
     transmit to the United States trustee any notice, schedule, report,
     application or other document in a case under the Securities
-    Investor Protection Act, 15 U.S.C. Sec. 78aaa et. seq.
+    Investor Protection Act, 15 U.S.C. Sec. 78aaa et. (!1) seq.
+
       (l) Notice by Publication. The court may order notice by
     publication if it finds that notice by mail is impracticable or
     that it is desirable to supplement the notice.
@@ -4618,12 +4716,16 @@
     by subsection (a) [amending subd. (f) of this rule] shall take
     effect on August 1, 1983."
 
+-FOOTNOTE-
+    (!1) So in original. Period probably should not appear.
+
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 2003                                   02/01/2010
+    11 USC APPENDIX Rule 2003                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -4930,7 +5032,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2004                                   02/01/2010
+    11 USC APPENDIX Rule 2004                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -5058,7 +5160,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2005                                   02/01/2010
+    11 USC APPENDIX Rule 2005                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -5152,7 +5254,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2006                                   02/01/2010
+    11 USC APPENDIX Rule 2006                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -5426,7 +5528,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2007                                   02/01/2010
+    11 USC APPENDIX Rule 2007                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -5546,7 +5648,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2007.1                                 02/01/2010
+    11 USC APPENDIX Rule 2007.1                                 01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -5715,7 +5817,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2007.2                                 02/01/2010
+    11 USC APPENDIX Rule 2007.2                                 01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -5824,7 +5926,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2008                                   02/01/2010
+    11 USC APPENDIX Rule 2008                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -5897,7 +5999,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2009                                   02/01/2010
+    11 USC APPENDIX Rule 2009                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6045,7 +6147,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2010                                   02/01/2010
+    11 USC APPENDIX Rule 2010                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6120,7 +6222,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2011                                   02/01/2010
+    11 USC APPENDIX Rule 2011                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6167,7 +6269,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2012                                   02/01/2010
+    11 USC APPENDIX Rule 2012                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6240,7 +6342,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2013                                   02/01/2010
+    11 USC APPENDIX Rule 2013                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6331,7 +6433,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2014                                   02/01/2010
+    11 USC APPENDIX Rule 2014                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6426,7 +6528,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2015                                   02/01/2010
+    11 USC APPENDIX Rule 2015                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6652,7 +6754,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2015.1                                 02/01/2010
+    11 USC APPENDIX Rule 2015.1                                 01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6750,7 +6852,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2015.2                                 02/01/2010
+    11 USC APPENDIX Rule 2015.2                                 01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6818,7 +6920,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2015.3                                 02/01/2010
+    11 USC APPENDIX Rule 2015.3                                 01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -6921,7 +7023,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2016                                   02/01/2010
+    11 USC APPENDIX Rule 2016                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -7071,7 +7173,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2017                                   02/01/2010
+    11 USC APPENDIX Rule 2017                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -7153,7 +7255,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2018                                   02/01/2010
+    11 USC APPENDIX Rule 2018                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -7265,7 +7367,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2019                                   02/01/2010
+    11 USC APPENDIX Rule 2019                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -7356,7 +7458,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 2020                                   02/01/2010
+    11 USC APPENDIX Rule 2020                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -7405,7 +7507,7 @@
 -CITE-
     11 USC APPENDIX PART III - CLAIMS AND
            DISTRIBUTION TO CREDITORS AND EQUITY
-           INTEREST HOLDERS; PLANS                         02/01/2010
+           INTEREST HOLDERS; PLANS                         01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -7422,7 +7524,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3001                                   02/01/2010
+    11 USC APPENDIX Rule 3001                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -7662,7 +7764,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3002                                   02/01/2010
+    11 USC APPENDIX Rule 3002                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -7900,7 +8002,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3003                                   02/01/2010
+    11 USC APPENDIX Rule 3003                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8024,7 +8126,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3004                                   02/01/2010
+    11 USC APPENDIX Rule 3004                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8137,7 +8239,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3005                                   02/01/2010
+    11 USC APPENDIX Rule 3005                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8221,7 +8323,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3006                                   02/01/2010
+    11 USC APPENDIX Rule 3006                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8327,7 +8429,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3007                                   02/01/2010
+    11 USC APPENDIX Rule 3007                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8524,7 +8626,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3008                                   02/01/2010
+    11 USC APPENDIX Rule 3008                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8594,7 +8696,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3009                                   02/01/2010
+    11 USC APPENDIX Rule 3009                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8654,7 +8756,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3010                                   02/01/2010
+    11 USC APPENDIX Rule 3010                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8712,7 +8814,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3011                                   02/01/2010
+    11 USC APPENDIX Rule 3011                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8759,7 +8861,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3012                                   02/01/2010
+    11 USC APPENDIX Rule 3012                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8804,7 +8906,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3013                                   02/01/2010
+    11 USC APPENDIX Rule 3013                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8843,7 +8945,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3014                                   02/01/2010
+    11 USC APPENDIX Rule 3014                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -8926,7 +9028,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3015                                   02/01/2010
+    11 USC APPENDIX Rule 3015                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -9067,7 +9169,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3016                                   02/01/2010
+    11 USC APPENDIX Rule 3016                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -9248,7 +9350,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3017                                   02/01/2010
+    11 USC APPENDIX Rule 3017                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -9527,7 +9629,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3017.1                                 02/01/2010
+    11 USC APPENDIX Rule 3017.1                                 01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -9611,7 +9713,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3018                                   02/01/2010
+    11 USC APPENDIX Rule 3018                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -9774,7 +9876,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3019                                   02/01/2010
+    11 USC APPENDIX Rule 3019                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -9871,7 +9973,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3020                                   02/01/2010
+    11 USC APPENDIX Rule 3020                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -10048,7 +10150,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3021                                   02/01/2010
+    11 USC APPENDIX Rule 3021                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -10111,7 +10213,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 3022                                   02/01/2010
+    11 USC APPENDIX Rule 3022                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -10172,7 +10274,7 @@
 
 -CITE-
     11 USC APPENDIX PART IV - THE DEBTOR: DUTIES AND
-           BENEFITS                                        02/01/2010
+           BENEFITS                                        01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -10187,7 +10289,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 4001                                   02/01/2010
+    11 USC APPENDIX Rule 4001                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -10403,13 +10505,13 @@
       trustee shall be mailed to the parties on whom service is
       required by paragraph (1) of this subdivision and to such other
       entities as the court may direct. Unless the court fixes a
-      different time, objections may be filed within 15 days of the
-      mailing of notice.
+      different time, objections may be filed within 14 days of the
+      mailing of the notice.
         (3) Disposition; Hearing. If no objection is filed, the court
       may enter an order approving or disapproving the agreement
       without conducting a hearing. If an objection is filed or if the
       court determines a hearing is appropriate, the court shall hold a
-      hearing on no less than five days' notice to the objector, the
+      hearing on no less than seven days' notice to the objector, the
       movant, the parties on whom service is required by paragraph (1)
       of this subdivision and such other entities as the court may
       direct.
@@ -10423,8 +10525,9 @@
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
-    Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 30, 2007; eff.
-    Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)
+    Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 30, 2007, eff.
+    Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff.
+    Dec. 1, 2010.)
 
 
 -MISC1-
@@ -10674,6 +10777,21 @@
         -- 20-day periods become 21-day periods
         -- 25-day periods become 28-day periods
 
+                 COMMITTEE NOTES ON RULES - 2010 AMENDMENT             
+      Subdivision (d). Subdivision (d) is amended to implement changes
+    in connection with the 2009 amendment to Rule 9006(a) and the
+    manner by which time is computed under the rules. The deadlines in
+    subdivision (d)(2) and (d)(3) are amended to substitute deadlines
+    that are multiples of seven days. Throughout the rules, deadlines
+    have been amended in the following manner:
+        -- 5 day periods become 7 day periods
+        -- 10 day periods become 14 day periods
+        -- 15 day periods become 14 day periods
+        -- 20 day periods become 21 day periods
+        -- 25 day periods become 28 day periods
+      Final approval of the amendments to this rule is sought without
+    publication.
+
 -FOOTNOTE-
     (!1) So in original. Probably should be only one section symbol.
 
@@ -10683,7 +10801,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 4002                                   02/01/2010
+    11 USC APPENDIX Rule 4002                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -10843,7 +10961,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 4003                                   02/01/2010
+    11 USC APPENDIX Rule 4003                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -11002,7 +11120,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 4004                                   02/01/2010
+    11 USC APPENDIX Rule 4004                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -11013,27 +11131,32 @@
     Rule 4004. Grant or Denial of Discharge
 
 -STATUTE-
-      (a) Time for Filing Complaint Objecting to Discharge; Notice of
-    Time Fixed. In a chapter 7 liquidation case a complaint objecting
-    to the debtor's discharge under Sec. 727(a) of the Code shall be
+      (a) Time for Objecting to Discharge; Notice of Time Fixed. In a
+    chapter 7 case, a complaint, or a motion under Sec. 727(a)(8) or
+    (a)(9) of the Code, objecting to the debtor's discharge shall be
     filed no later than 60 days after the first date set for the
-    meeting of creditors under Sec. 341(a). In a chapter 11
-    reorganization case, the complaint shall be filed no later than the
-    first date set for the hearing on confirmation. At least 28 days'
-    notice of the time so fixed shall be given to the United States
-    trustee and all creditors as provided in Rule 2002(f) and (k) and
-    to the trustee and the trustee's attorney.
+    meeting of creditors under Sec. 341(a). In a chapter 11 case, the
+    complaint shall be filed no later than the first date set for the
+    hearing on confirmation. In a chapter 13 case, a motion objecting
+    to the debtor's discharge under Sec. 1328(f) shall be filed no
+    later than 60 days after the first date set for the meeting of
+    creditors under Sec. 341(a). At least 28 days' notice of the time
+    so fixed shall be given to the United States trustee and all
+    creditors as provided in Rule 2002(f) and (k) and to the trustee
+    and the trustee's attorney.
       (b) Extension of Time. On motion of any party in interest, after
     hearing on notice, the court may for cause extend the time to file
     a complaint objecting to discharge. The motion shall be filed
     before the time has expired.
       (c) Grant of Discharge.
-        (1) In a chapter 7 case, on expiration of the time fixed for
-      filing a complaint objecting to discharge and the time fixed for
-      filing a motion to dismiss the case under Rule 1017(e), the court
-      shall forthwith grant the discharge unless:
+        (1) In a chapter 7 case, on expiration of the times fixed for
+      objecting to discharge and for filing a motion to dismiss the
+      case under Rule 1017(e), the court shall forthwith grant the
+      discharge unless:
           (A) the debtor is not an individual;
-          (B) a complaint objecting to the discharge has been filed;
+          (B) a complaint, or a motion under Sec. 727(a)(8) or (a)(9),
+        objecting to the discharge has been filed and not decided in
+        the debtor's favor;
           (C) the debtor has filed a waiver under Sec. 727(a)(10);
           (D) a motion to dismiss the case under Sec. 707 is pending;
           (E) a motion to extend the time for filing a complaint
@@ -11066,10 +11189,17 @@
         (3) If the debtor is required to file a statement under Rule
       1007(b)(8), the court shall not grant a discharge earlier than 30
       days after the statement is filed.
+        (4) In a chapter 11 case in which the debtor is an individual,
+      or a chapter 13 case, the court shall not grant a discharge if
+      the debtor has not filed any statement required by Rule
+      1007(b)(7).
 
-      (d) Applicability of Rules in Part VII. A proceeding commenced by
-    a complaint objecting to discharge is governed by Part VII of these
-    rules.
+      (d) Applicability of Rules in Part VII and Rule 9014. An
+    objection to discharge is governed by Part VII of these rules,
+    except that an objection to discharge under Secs. 727(a)(8),(!1)
+    (a)(9), or 1328(f) is commenced by motion and governed by Rule
+    9014.
+
       (e) Order of Discharge. An order of discharge shall conform to
     the appropriate Official Form.
       (f) Registration in Other Districts. An order of discharge that
@@ -11087,7 +11217,7 @@
     Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff.
     Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff.
     Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff.
-    Dec. 1, 2009.)
+    Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010.)
 
 
 -MISC1-
@@ -11261,12 +11391,49 @@
         -- 20-day periods become 21-day periods
         -- 25-day periods become 28-day periods
 
+                 COMMITTEE NOTES ON RULES - 2010 AMENDMENT             
+      Subdivision (a). Subdivision (a) is amended to include a deadline
+    for filing a motion objecting to a debtor's discharge under Secs.
+    727(a)(8), [sic] (a)(9), or 1328(f) of the Code. These sections
+    establish time limits on the issuance of discharges in successive
+    bankruptcy cases by the same debtor.
+      Subdivision (c). Subdivision (c)(1) is amended because a
+    corresponding amendment to subdivision (d) directs certain
+    objections to discharge to be brought by motion rather than by
+    complaint. Subparagraph (c)(1)(B) directs the court not to grant a
+    discharge if a motion or complaint objecting to discharge has been
+    filed unless the objection has been decided in the debtor's favor.
+      Subdivision (c)(4) is new. It directs the court in chapter 11 and
+    13 cases to withhold the entry of the discharge if an individual
+    debtor has not filed a statement of completion of a course
+    concerning personal financial management as required by Rule
+    1007(b)(7).
+      Subdivision (d). Subdivision (d) is amended to direct that
+    objections to discharge under Secs. 727(a)(8), (a)(9), and 1328(f)
+    be commenced by motion rather than by complaint. Objections under
+    the specified provisions are contested matters governed by Rule
+    9014. The title of the subdivision is also amended to reflect this
+    change.
+      Changes Made After Publication. Subdivision (d) was amended to
+    provide that objections to discharge under Secs. 727(a)(8), (a)(9),
+    and 1328(f) are commenced by motion rather than by complaint and
+    are governed by Rule 9014. Because of the relocation of this
+    provision from the previously proposed Rule 7001(b), subdivisions
+    (a) and (c)(1) of this rule were revised to change references to
+    "motion under Rule 7001(b)" to "motion under Sec. 727(a)(8) or
+    (a)(9)." Other stylistic changes were made to the rule, and the
+    Committee Note was revised to reflect these changes.
+
+-FOOTNOTE-
+    (!1) So in original. Probably should be only one section symbol.
+
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 4005                                   02/01/2010
+    11 USC APPENDIX Rule 4005                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -11304,7 +11471,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 4006                                   02/01/2010
+    11 USC APPENDIX Rule 4006                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -11358,7 +11525,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 4007                                   02/01/2010
+    11 USC APPENDIX Rule 4007                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -11491,7 +11658,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 4008                                   02/01/2010
+    11 USC APPENDIX Rule 4008                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -11595,7 +11762,7 @@
 
 
 -CITE-
-    11 USC APPENDIX PART V - COURTS AND CLERKS                  02/01/2010
+    11 USC APPENDIX PART V - COURTS AND CLERKS                  01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -11610,7 +11777,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5001                                   02/01/2010
+    11 USC APPENDIX Rule 5001                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -11677,7 +11844,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5002                                   02/01/2010
+    11 USC APPENDIX Rule 5002                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -11898,7 +12065,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5003                                   02/01/2010
+    11 USC APPENDIX Rule 5003                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12054,7 +12221,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5004                                   02/01/2010
+    11 USC APPENDIX Rule 5004                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12144,7 +12311,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5005                                   02/01/2010
+    11 USC APPENDIX Rule 5005                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12392,7 +12559,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5006                                   02/01/2010
+    11 USC APPENDIX Rule 5006                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12427,7 +12594,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5007                                   02/01/2010
+    11 USC APPENDIX Rule 5007                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12479,7 +12646,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5008                                   02/01/2010
+    11 USC APPENDIX Rule 5008                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12536,7 +12703,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5009                                   02/01/2010
+    11 USC APPENDIX Rule 5009                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12545,19 +12712,43 @@
 
 -HEAD-
     Rule 5009. Closing Chapter 7 Liquidation, Chapter 12 Family
-      Farmer's Debt Adjustment, and Chapter 13 Individual's Debt
-      Adjustment Cases
+      Farmer's Debt Adjustment, Chapter 13 Individual's Debt
+      Adjustment, and Chapter 15 Ancillary and Cross-Border Cases
 
 -STATUTE-
-      If in a chapter 7, chapter 12, or chapter 13 case the trustee has
-    filed a final report and final account and has certified that the
-    estate has been fully administered, and if within 30 days no
-    objection has been filed by the United States trustee or a party in
-    interest, there shall be a presumption that the estate has been
-    fully administered.
+      (a) Cases Under Chapters 7, 12, and 13. If in a chapter 7,
+    chapter 12, or chapter 13 case the trustee has filed a final report
+    and final account and has certified that the estate has been fully
+    administered, and if within 30 days no objection has been filed by
+    the United States trustee or a party in interest, there shall be a
+    presumption that the estate has been fully administered.
+      (b) Notice of Failure To File Rule 1007(b)(7) Statement. If an
+    individual debtor in a chapter 7 or 13 case has not filed the
+    statement required by Rule 1007(b)(7) within 45 days after the
+    first date set for the meeting of creditors under Sec. 341(a) of
+    the Code, the clerk shall promptly notify the debtor that the case
+    will be closed without entry of a discharge unless the statement is
+    filed within the applicable time limit under Rule 1007(c).
+      (c) Cases Under Chapter 15. A foreign representative in a
+    proceeding recognized under Sec. 1517 of the Code shall file a
+    final report when the purpose of the representative's appearance in
+    the court is completed. The report shall describe the nature and
+    results of the representative's activities in the court. The
+    foreign representative shall transmit the report to the United
+    States trustee, and give notice of its filing to the debtor, all
+    persons or bodies authorized to administer foreign proceedings of
+    the debtor, all parties to litigation pending in the United States
+    in which the debtor was a party at the time of the filing of the
+    petition, and such other entities as the court may direct. The
+    foreign representative shall file a certificate with the court that
+    notice has been given. If no objection has been filed by the United
+    States trustee or a party in interest within 30 days after the
+    certificate is filed, there shall be a presumption that the case
+    has been fully administered.
 
 -SOURCE-
-    (As amended Apr. 30, 1991, eff. Aug. 1, 1991.)
+    (As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 28, 2010, eff.
+    Dec. 1, 2010.)
 
 
 -MISC1-
@@ -12583,12 +12774,39 @@
     certification that the estate has been fully administered.
       Rule 3022 governs the closing of chapter 11 cases.
 
+                 COMMITTEE NOTES ON RULES - 2010 AMENDMENT             
+      Subdivisions (a) and (b). The rule is amended to redesignate the
+    former rule as subdivision (a) and to add new subdivisions (b) and
+    (c) to the rule. Subdivision (b) requires the clerk to provide
+    notice to an individual debtor in a chapter 7 or 13 case that the
+    case may be closed without the entry of a discharge due to the
+    failure of the debtor to file a timely statement of completion of a
+    personal financial management course. The purpose of the notice is
+    to provide the debtor with an opportunity to complete the course
+    and file the appropriate document prior to the filing deadline.
+    Timely filing of the document avoids the need for a motion to
+    extend the time retroactively. It also avoids the potential for
+    closing the case without discharge, and the possible need to pay an
+    additional fee in connection with reopening. Timely filing also
+    benefits the clerk's office by reducing the number of instances in
+    which cases must be reopened.
+      Subdivision (c). Subdivision (c) requires a foreign
+    representative in a chapter 15 case to file a final report setting
+    out the foreign representative's actions and results obtained in
+    the United States court. It also requires the foreign
+    representative to give notice of the filing of the report, and
+    provides interested parties with 30 days to object to the report
+    after the foreign representative has certified that notice has been
+    given. In the absence of a timely objection, a presumption arises
+    that the case is fully administered, and the case may be closed.
+      Changes Made After Publication. No changes since publication.
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 5010                                   02/01/2010
+    11 USC APPENDIX Rule 5010                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12648,7 +12866,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 5011                                   02/01/2010
+    11 USC APPENDIX Rule 5011                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12732,9 +12950,60 @@
 -End-
 
 
+
+-CITE-
+    11 USC APPENDIX Rule 5012                                   01/07/2011
+
+-EXPCITE-
+    TITLE 11 - APPENDIX
+    FEDERAL RULES OF BANKRUPTCY PROCEDURE AND OFFICIAL BANKRUPTCY FORMS
+    PART V - COURTS AND CLERKS
+
+-HEAD-
+    Rule 5012. Agreements Concerning Coordination of Proceedings in
+      Chapter 15 Cases
+
+-STATUTE-
+      Approval of an agreement under Sec. 1527(4) of the Code shall be
+    sought by motion. The movant shall attach to the motion a copy of
+    the proposed agreement or protocol and, unless the court directs
+    otherwise, give at least 30 days' notice of any hearing on the
+    motion by transmitting the motion to the United States trustee, and
+    serving it on the debtor, all persons or bodies authorized to
+    administer foreign proceedings of the debtor, all entities against
+    whom provisional relief is being sought under Sec. 1519, all
+    parties to litigation pending in the United States in which the
+    debtor was a party at the time of the filing of the petition, and
+    such other entities as the court may direct.
+
+-SOURCE-
+    (Added Apr. 28, 2010, eff. Dec. 1, 2010.)
+
+
+-MISC1-
+                      COMMITTEE NOTES ON RULES - 2010                  
+      This rule is new. In chapter 15 cases, any party in interest may
+    seek approval of an agreement, frequently referred to as a
+    "protocol," that will assist with the conduct of the case. Because
+    the needs of the courts and the parties may vary greatly from case
+    to case, the rule does not attempt to limit the form or scope of a
+    protocol. Rather, the rule simply requires that approval of a
+    particular protocol be sought by motion, and designates the persons
+    entitled to notice of the hearing on the motion. These agreements,
+    or protocols, drafted entirely by parties in interest in the case,
+    are intended to provide valuable assistance to the court in the
+    management of the case. Interested parties may find guidelines
+    published by organizations, such as the American Law Institute and
+    the International Insolvency Institute, helpful in crafting
+    agreements or protocols to apply in a particular case.
+      Changes Made After Publication. No changes since publication.
+
+-End-
+
+
 -CITE-
     11 USC APPENDIX PART VI - COLLECTION AND
-           LIQUIDATION OF THE ESTATE                       02/01/2010
+           LIQUIDATION OF THE ESTATE                       01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12749,7 +13018,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 6001                                   02/01/2010
+    11 USC APPENDIX Rule 6001                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12779,7 +13048,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 6002                                   02/01/2010
+    11 USC APPENDIX Rule 6002                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12846,7 +13115,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 6003                                   02/01/2010
+    11 USC APPENDIX Rule 6003                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -12872,7 +13141,7 @@
       unexpired lease in accordance with Sec. 365.
 
 -SOURCE-
-    (Added Apr. 30, 2007; eff. Dec. 1, 2007; amended Mar. 26, 2009,
+    (Added Apr. 30, 2007, eff. Dec. 1, 2007; amended Mar. 26, 2009,
     eff. Dec. 1, 2009.)
 
 
@@ -12927,7 +13196,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 6004                                   02/01/2010
+    11 USC APPENDIX Rule 6004                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13171,7 +13440,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 6005                                   02/01/2010
+    11 USC APPENDIX Rule 6005                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13216,7 +13485,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 6006                                   02/01/2010
+    11 USC APPENDIX Rule 6006                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13285,7 +13554,7 @@
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
     Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 26, 1999, eff.
-    Dec. 1, 1999; Apr. 30 2007; eff. Dec. 1, 2007; Mar. 26, 2009, eff.
+    Dec. 1, 1999; Apr. 30 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff.
     Dec. 1, 2009.)
 
 
@@ -13427,7 +13696,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 6007                                   02/01/2010
+    11 USC APPENDIX Rule 6007                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13528,7 +13797,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 6008                                   02/01/2010
+    11 USC APPENDIX Rule 6008                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13561,7 +13830,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 6009                                   02/01/2010
+    11 USC APPENDIX Rule 6009                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13589,7 +13858,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 6010                                   02/01/2010
+    11 USC APPENDIX Rule 6010                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13628,7 +13897,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 6011                                   02/01/2010
+    11 USC APPENDIX Rule 6011                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13726,7 +13995,7 @@
 
 
 -CITE-
-    11 USC APPENDIX PART VII - ADVERSARY PROCEEDINGS            02/01/2010
+    11 USC APPENDIX PART VII - ADVERSARY PROCEEDINGS            01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13741,7 +14010,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7001                                   02/01/2010
+    11 USC APPENDIX Rule 7001                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13764,7 +14033,10 @@
         (3) a proceeding to obtain approval under Sec. 363(h) for the
       sale of both the interest of the estate and of a co-owner in
       property;
-        (4) a proceeding to object to or revoke a discharge;
+        (4)a proceeding to object to or revoke a discharge, other than
+      an objection to discharge under Secs. 727(a)(8), (!1) (a)(9), or
+      1328(f);
+
         (5) a proceeding to revoke an order of confirmation of a
       chapter 11, chapter 12, or chapter 13 plan;
         (6) a proceeding to determine the dischargeability of a debt;
@@ -13781,7 +14053,8 @@
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
-    Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999.)
+    Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 28, 2010, eff.
+    Dec. 1, 2010.)
 
 
 -MISC1-
@@ -13900,12 +14173,35 @@
       GAP Report on Rule 7001. No changes since publication, except for
     stylistic changes.
 
+                 COMMITTEE NOTES ON RULES - 2010 AMENDMENT             
+      Paragraph (4) of the rule is amended to create an exception for
+    objections to discharge under Secs. 727(a)(8), (a)(9), and 1328(f)
+    of the Code. Because objections to discharge on these grounds
+    typically present issues more easily resolved than other objections
+    to discharge, the more formal procedures applicable to adversary
+    proceedings, such as commencement by a complaint, are not required.
+    Instead, objections on these three grounds are governed by Rule
+    4004(d). In an appropriate case, however, Rule 9014(c) allows the
+    court to order that additional provisions of Part VII of the rules
+    apply to these matters.
+      Changes Made After Publication. The proposed addition of
+    subsection (b) was deleted, and the content of that provision was
+    moved to Rule 4004(d). The exception in paragraph (4) of the rule
+    was revised to refer to objections to discharge under Secs.
+    727(a)(8), (a)(9), and 1328(f) of the Code. The redesignation of
+    the existing rule as subdivision (a) was also deleted. The
+    Committee Note was revised to reflect these changes.
+
+-FOOTNOTE-
+    (!1) So in original. Probably should be only one section symbol.
+
+
 -End-
 
 
 
 -CITE-
-    11 USC APPENDIX Rule 7002                                   02/01/2010
+    11 USC APPENDIX Rule 7002                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13954,7 +14250,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7003                                   02/01/2010
+    11 USC APPENDIX Rule 7003                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -13986,7 +14282,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7004                                   02/01/2010
+    11 USC APPENDIX Rule 7004                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14517,7 +14813,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7005                                   02/01/2010
+    11 USC APPENDIX Rule 7005                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14548,7 +14844,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7007                                   02/01/2010
+    11 USC APPENDIX Rule 7007                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14572,7 +14868,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7007.1                                 02/01/2010
+    11 USC APPENDIX Rule 7007.1                                 01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14598,7 +14894,7 @@
     disclose.
 
 -SOURCE-
-    (Added Mar. 27, 2003, eff. Dec. 1, 2003; amended Apr. 30, 2007;
+    (Added Mar. 27, 2003, eff. Dec. 1, 2003; amended Apr. 30, 2007,
     eff. Dec. 1, 2007.)
 
 
@@ -14646,7 +14942,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7008                                   02/01/2010
+    11 USC APPENDIX Rule 7008                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14707,7 +15003,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7009                                   02/01/2010
+    11 USC APPENDIX Rule 7009                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14731,7 +15027,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7010                                   02/01/2010
+    11 USC APPENDIX Rule 7010                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14766,7 +15062,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7012                                   02/01/2010
+    11 USC APPENDIX Rule 7012                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14865,7 +15161,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7013                                   02/01/2010
+    11 USC APPENDIX Rule 7013                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14907,7 +15203,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7014                                   02/01/2010
+    11 USC APPENDIX Rule 7014                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14943,7 +15239,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7015                                   02/01/2010
+    11 USC APPENDIX Rule 7015                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14967,7 +15263,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7016                                   02/01/2010
+    11 USC APPENDIX Rule 7016                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -14991,7 +15287,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7017                                   02/01/2010
+    11 USC APPENDIX Rule 7017                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15030,7 +15326,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7018                                   02/01/2010
+    11 USC APPENDIX Rule 7018                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15054,7 +15350,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7019                                   02/01/2010
+    11 USC APPENDIX Rule 7019                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15106,7 +15402,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7020                                   02/01/2010
+    11 USC APPENDIX Rule 7020                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15130,7 +15426,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7021                                   02/01/2010
+    11 USC APPENDIX Rule 7021                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15154,7 +15450,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7022                                   02/01/2010
+    11 USC APPENDIX Rule 7022                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15190,7 +15486,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7023                                   02/01/2010
+    11 USC APPENDIX Rule 7023                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15214,7 +15510,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7023.1                                 02/01/2010
+    11 USC APPENDIX Rule 7023.1                                 01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15248,7 +15544,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7023.2                                 02/01/2010
+    11 USC APPENDIX Rule 7023.2                                 01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15273,7 +15569,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7024                                   02/01/2010
+    11 USC APPENDIX Rule 7024                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15307,7 +15603,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7025                                   02/01/2010
+    11 USC APPENDIX Rule 7025                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15339,7 +15635,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7026                                   02/01/2010
+    11 USC APPENDIX Rule 7026                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15363,7 +15659,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7027                                   02/01/2010
+    11 USC APPENDIX Rule 7027                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15395,7 +15691,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7028                                   02/01/2010
+    11 USC APPENDIX Rule 7028                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15419,7 +15715,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7029                                   02/01/2010
+    11 USC APPENDIX Rule 7029                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15443,7 +15739,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7030                                   02/01/2010
+    11 USC APPENDIX Rule 7030                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15474,7 +15770,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7031                                   02/01/2010
+    11 USC APPENDIX Rule 7031                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15498,7 +15794,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7032                                   02/01/2010
+    11 USC APPENDIX Rule 7032                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15522,7 +15818,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7033                                   02/01/2010
+    11 USC APPENDIX Rule 7033                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15546,7 +15842,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7034                                   02/01/2010
+    11 USC APPENDIX Rule 7034                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15571,7 +15867,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7035                                   02/01/2010
+    11 USC APPENDIX Rule 7035                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15595,7 +15891,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7036                                   02/01/2010
+    11 USC APPENDIX Rule 7036                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15619,7 +15915,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7037                                   02/01/2010
+    11 USC APPENDIX Rule 7037                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15643,7 +15939,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7040                                   02/01/2010
+    11 USC APPENDIX Rule 7040                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15667,7 +15963,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7041                                   02/01/2010
+    11 USC APPENDIX Rule 7041                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15726,7 +16022,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7042                                   02/01/2010
+    11 USC APPENDIX Rule 7042                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15750,7 +16046,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7052                                   02/01/2010
+    11 USC APPENDIX Rule 7052                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15808,7 +16104,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7054                                   02/01/2010
+    11 USC APPENDIX Rule 7054                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15840,7 +16136,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7055                                   02/01/2010
+    11 USC APPENDIX Rule 7055                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15864,7 +16160,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7056                                   02/01/2010
+    11 USC APPENDIX Rule 7056                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15888,7 +16184,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7058                                   02/01/2010
+    11 USC APPENDIX Rule 7058                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15926,7 +16222,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7062                                   02/01/2010
+    11 USC APPENDIX Rule 7062                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -15978,7 +16274,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7064                                   02/01/2010
+    11 USC APPENDIX Rule 7064                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16002,7 +16298,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7065                                   02/01/2010
+    11 USC APPENDIX Rule 7065                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16029,7 +16325,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7067                                   02/01/2010
+    11 USC APPENDIX Rule 7067                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16053,7 +16349,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7068                                   02/01/2010
+    11 USC APPENDIX Rule 7068                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16077,7 +16373,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7069                                   02/01/2010
+    11 USC APPENDIX Rule 7069                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16101,7 +16397,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7070                                   02/01/2010
+    11 USC APPENDIX Rule 7070                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16137,7 +16433,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7071                                   02/01/2010
+    11 USC APPENDIX Rule 7071                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16161,7 +16457,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 7087                                   02/01/2010
+    11 USC APPENDIX Rule 7087                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16191,7 +16487,7 @@
 
 -CITE-
     11 USC APPENDIX PART VIII - APPEALS TO DISTRICT
-           COURT OR BANKRUPTCY APPELLATE PANEL             02/01/2010
+           COURT OR BANKRUPTCY APPELLATE PANEL             01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16206,7 +16502,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8001                                   02/01/2010
+    11 USC APPENDIX Rule 8001                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16320,7 +16616,7 @@
           (C) A request for certification shall include the following:
             (i) the facts necessary to understand the question
           presented;
-            (ii)the question itself;
+            (ii) the question itself;
             (iii) the relief sought;
             (iv) the reasons why the appeal should be allowed and is
           authorized by statute or rule, including why a circumstance
@@ -16517,7 +16813,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8002                                   02/01/2010
+    11 USC APPENDIX Rule 8002                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16741,7 +17037,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8003                                   02/01/2010
+    11 USC APPENDIX Rule 8003                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16833,7 +17129,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8004                                   02/01/2010
+    11 USC APPENDIX Rule 8004                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16874,7 +17170,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8005                                   02/01/2010
+    11 USC APPENDIX Rule 8005                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -16939,7 +17235,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8006                                   02/01/2010
+    11 USC APPENDIX Rule 8006                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17028,7 +17324,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8007                                   02/01/2010
+    11 USC APPENDIX Rule 8007                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17114,7 +17410,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8008                                   02/01/2010
+    11 USC APPENDIX Rule 8008                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17188,7 +17484,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8009                                   02/01/2010
+    11 USC APPENDIX Rule 8009                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17291,7 +17587,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8010                                   02/01/2010
+    11 USC APPENDIX Rule 8010                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17364,7 +17660,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8011                                   02/01/2010
+    11 USC APPENDIX Rule 8011                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17437,7 +17733,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8012                                   02/01/2010
+    11 USC APPENDIX Rule 8012                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17473,7 +17769,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8013                                   02/01/2010
+    11 USC APPENDIX Rule 8013                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17512,7 +17808,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8014                                   02/01/2010
+    11 USC APPENDIX Rule 8014                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17551,7 +17847,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8015                                   02/01/2010
+    11 USC APPENDIX Rule 8015                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17616,7 +17912,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8016                                   02/01/2010
+    11 USC APPENDIX Rule 8016                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17667,7 +17963,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8017                                   02/01/2010
+    11 USC APPENDIX Rule 8017                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17749,7 +18045,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8018                                   02/01/2010
+    11 USC APPENDIX Rule 8018                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17824,7 +18120,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8019                                   02/01/2010
+    11 USC APPENDIX Rule 8019                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17854,7 +18150,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 8020                                   02/01/2010
+    11 USC APPENDIX Rule 8020                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17892,7 +18188,7 @@
 
 
 -CITE-
-    11 USC APPENDIX PART IX - GENERAL PROVISIONS                02/01/2010
+    11 USC APPENDIX PART IX - GENERAL PROVISIONS                01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17907,7 +18203,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9001                                   02/01/2010
+    11 USC APPENDIX Rule 9001                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -17918,10 +18214,10 @@
     Rule 9001. General Definitions
 
 -STATUTE-
-      The definitions of words and phrases in Sec. 101, Sec. 902 and
-    Sec. 1101 and the rules of construction in Sec. 102 of the Code
-    govern their use in these rules. In addition, the following words
-    and phrases used in these rules have the meanings indicated:
+      The definitions of words and phrases in Secs. 101, 902, 1101, and
+    1502 of the Code, and the rules of construction in Sec. 102, govern
+    their use in these rules. In addition, the following words and
+    phrases used in these rules have the meanings indicated:
         (1) "Bankruptcy clerk" means a clerk appointed pursuant to 28
       U.S.C. Sec. 156(b).
         (2) "Bankruptcy Code" or "Code" means title 11 of the United
@@ -17956,7 +18252,8 @@
 
 -SOURCE-
     (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff.
-    Aug. 1, 1991; Apr. 25, 2005, eff. Dec. 1, 2005.)
+    Aug. 1, 1991; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 28, 2010, eff.
+    Dec. 1, 2010.)
 
 
 -MISC1-
@@ -18007,6 +18304,12 @@
       Changes Made After Publication and Comment. No changes since
     publication.
 
+                 COMMITTEE NOTES ON RULES - 2010 AMENDMENT             
+      The rule is amended to add Sec. 1502 of the Code to the list of
+    definitional provisions that are applicable to the Rules. That
+    section was added to the Code by the 2005 amendments.
+      Changes Made After Publication. No changes since publication.
+
 -REFTEXT-
                             REFERENCES IN TEXT                        
       The Bankruptcy Act of 1898 as amended, referred to in pars. (1)
@@ -18023,7 +18326,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9002                                   02/01/2010
+    11 USC APPENDIX Rule 9002                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18073,7 +18376,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9003                                   02/01/2010
+    11 USC APPENDIX Rule 9003                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18138,7 +18441,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9004                                   02/01/2010
+    11 USC APPENDIX Rule 9004                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18173,7 +18476,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9005                                   02/01/2010
+    11 USC APPENDIX Rule 9005                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18200,7 +18503,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9005.1                                 02/01/2010
+    11 USC APPENDIX Rule 9005.1                                 01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18241,7 +18544,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9006                                   02/01/2010
+    11 USC APPENDIX Rule 9006                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18853,7 +19156,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9007                                   02/01/2010
+    11 USC APPENDIX Rule 9007                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18878,7 +19181,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9008                                   02/01/2010
+    11 USC APPENDIX Rule 9008                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18900,7 +19203,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9009                                   02/01/2010
+    11 USC APPENDIX Rule 9009                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -18962,7 +19265,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9010                                   02/01/2010
+    11 USC APPENDIX Rule 9010                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19020,7 +19323,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9011                                   02/01/2010
+    11 USC APPENDIX Rule 9011                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19205,7 +19508,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9012                                   02/01/2010
+    11 USC APPENDIX Rule 9012                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19264,7 +19567,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9013                                   02/01/2010
+    11 USC APPENDIX Rule 9013                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19303,7 +19606,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9014                                   02/01/2010
+    11 USC APPENDIX Rule 9014                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19470,7 +19773,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9015                                   02/01/2010
+    11 USC APPENDIX Rule 9015                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19539,7 +19842,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9016                                   02/01/2010
+    11 USC APPENDIX Rule 9016                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19574,7 +19877,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9017                                   02/01/2010
+    11 USC APPENDIX Rule 9017                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19615,7 +19918,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9018                                   02/01/2010
+    11 USC APPENDIX Rule 9018                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19652,7 +19955,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9019                                   02/01/2010
+    11 USC APPENDIX Rule 9019                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19707,7 +20010,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9020                                   02/01/2010
+    11 USC APPENDIX Rule 9020                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19845,7 +20148,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9021                                   02/01/2010
+    11 USC APPENDIX Rule 9021                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19921,7 +20224,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9022                                   02/01/2010
+    11 USC APPENDIX Rule 9022                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -19992,7 +20295,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9023                                   02/01/2010
+    11 USC APPENDIX Rule 9023                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -20044,7 +20347,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9024                                   02/01/2010
+    11 USC APPENDIX Rule 9024                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -20110,7 +20413,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9025                                   02/01/2010
+    11 USC APPENDIX Rule 9025                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -20141,7 +20444,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9026                                   02/01/2010
+    11 USC APPENDIX Rule 9026                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -20165,7 +20468,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9027                                   02/01/2010
+    11 USC APPENDIX Rule 9027                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -20463,7 +20766,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9028                                   02/01/2010
+    11 USC APPENDIX Rule 9028                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -20500,7 +20803,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9029                                   02/01/2010
+    11 USC APPENDIX Rule 9029                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -20643,7 +20946,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9030                                   02/01/2010
+    11 USC APPENDIX Rule 9030                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -20670,7 +20973,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9031                                   02/01/2010
+    11 USC APPENDIX Rule 9031                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -20700,7 +21003,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9032                                   02/01/2010
+    11 USC APPENDIX Rule 9032                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -20748,7 +21051,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9033                                   02/01/2010
+    11 USC APPENDIX Rule 9033                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -20836,7 +21139,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9034                                   02/01/2010
+    11 USC APPENDIX Rule 9034                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -20908,7 +21211,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9035                                   02/01/2010
+    11 USC APPENDIX Rule 9035                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -21038,7 +21341,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9036                                   02/01/2010
+    11 USC APPENDIX Rule 9036                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -21109,7 +21412,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Rule 9037                                   02/01/2010
+    11 USC APPENDIX Rule 9037                                   01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -21287,7 +21590,7 @@
 -CITE-
     11 USC APPENDIX [PART X - UNITED STATES
            TRUSTEES] (Abrogated Apr. 30, 1991,
-           eff. Aug. 1, 1991)                              02/01/2010
+           eff. Aug. 1, 1991)                              01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -21303,7 +21606,7 @@
 
 
 -CITE-
-    11 USC APPENDIX OFFICIAL FORMS                              02/01/2010
+    11 USC APPENDIX OFFICIAL FORMS                              01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -21443,7 +21746,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 1                                      02/01/2010
+    11 USC APPENDIX Form 1                                      01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -21454,37 +21757,37 @@
     Form 1
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af1p1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af1p1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 1
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af1p2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af1p2.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 1
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af1p3.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af1p3.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 1
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af1p4.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af1p4.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 1
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af1p5.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af1p5.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 1
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af1p6.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af1p6.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 1
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af1p7.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af1p7.gif" width=576 height=579 alt="Image of item"><p>
 
     (ADDED AUG. 1, 1991; AMENDED MAR. 16, 1993; MAR. 14, 1995; OCT. 1,
     1997; DEC. 1, 2001; DEC. 1, 2002; DEC. 1, 2003; OCT. 17, 2005; OCT.
@@ -21897,7 +22200,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 2                                      02/01/2010
+    11 USC APPENDIX Form 2                                      01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -21908,7 +22211,7 @@
     Form 2
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af2.gif" width=576 height=579 alt="Image of item"><p>
 
                            (ADDED AUG. 1, 1991.)                       
 
@@ -21928,7 +22231,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 3A                                     02/01/2010
+    11 USC APPENDIX Form 3A                                     01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -21939,12 +22242,12 @@
     Form 3A
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af3Ap1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af3Ap1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 3A
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af3Ap2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af3Ap2.gif" width=576 height=579 alt="Image of item"><p>
 
      (ADDED AUG. 1, 1991; AMENDED MAR. 14, 1995; OCT. 1, 1997; DEC. 1,
                     2003; OCT. 17, 2005; DEC. 1, 2007.)
@@ -22019,7 +22322,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 3B                                     02/01/2010
+    11 USC APPENDIX Form 3B                                     01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -22030,27 +22333,27 @@
     Form 3B
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af3Bp1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af3Bp1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 3B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af3Bp2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af3Bp2.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 3B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af3Bp3.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af3Bp3.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 3B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af3Bp4.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af3Bp4.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 3B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af3Bp5.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af3Bp5.gif" width=576 height=579 alt="Image of item"><p>
 
         (ADDED OCT. 17, 2005; AMENDED APR. 9, 2006; DEC. 1, 2007.)    
 
@@ -22093,7 +22396,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 4                                      02/01/2010
+    11 USC APPENDIX Form 4                                      01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -22104,7 +22407,7 @@
     Form 4
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af4.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af4.gif" width=576 height=579 alt="Image of item"><p>
 
     (ADDED AUG. 1, 1991; AMENDED MAR. 16, 1993; OCT. 17, 2005; DEC. 1,
                                   2007.)
@@ -22153,7 +22456,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 5                                      02/01/2010
+    11 USC APPENDIX Form 5                                      01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -22164,12 +22467,12 @@
     Form 5
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af5p1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af5p1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 5
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af5p2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af5p2.gif" width=576 height=579 alt="Image of item"><p>
 
     (ADDED AUG. 1, 1991; AMENDED SEPT. 22, 1992; DEC. 1, 2002; DEC. 1,
              2003; OCT. 17, 2005; OCT. 1, 2006; DEC. 1, 2007.)
@@ -22299,7 +22602,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 6                                      02/01/2010
+    11 USC APPENDIX Form 6                                      01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -22311,102 +22614,102 @@
 
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af6p1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p2.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p3.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p3.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p4.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p4.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p5.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p5.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p6.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p6.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p7.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p7.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p8.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p8.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p9.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p9.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p10.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p10.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p11.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p11.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p12.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p12.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p13.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p13.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p14.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p14.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p15.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p15.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p16.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p16.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p17.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p17.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p18.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p18.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p19.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p19.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 6
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af6p20.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af6p20.gif" width=576 height=579 alt="Image of item"><p>
 
     (ADDED AUG. 1, 1991; AMENDED MAR. 16, 1993; MAR. 14, 1995; OCT. 1,
       1997; DEC. 1, 2003; OCT. 17, 2005; OCT. 1, 2006; DEC. 1, 2007.)
@@ -22898,7 +23201,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 7                                      02/01/2010
+    11 USC APPENDIX Form 7                                      01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -22909,57 +23212,57 @@
     Form 7
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af7p1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af7p1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 7
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af7p2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af7p2.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 7
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af7p3.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af7p3.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 7
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af7p4.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af7p4.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 7
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af7p5.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af7p5.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 7
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af7p6.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af7p6.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 7
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af7p7.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af7p7.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 7
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af7p8.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af7p8.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 7
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af7p9.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af7p9.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 7
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af7p10.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af7p10.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 7
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af7p11.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af7p11.gif" width=576 height=579 alt="Image of item"><p>
 
      (ADDED AUG. 1, 1991; AMENDED MAR. 16, 1993; MAR. 14, 1995; SEPT.
            19, 2000; DEC. 1, 2003; OCT. 17, 2005; DEC. 1, 2007.)
@@ -23144,7 +23447,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 8                                      02/01/2010
+    11 USC APPENDIX Form 8                                      01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23155,17 +23458,17 @@
     Form 8
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af8p1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af8p1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 8
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af8p2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af8p2.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 8
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af8p3.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af8p3.gif" width=576 height=579 alt="Image of item"><p>
 
                                                                        
      (ADDED AUG. 1, 1991; AMENDED MAR. 14, 1995; OCT. 1, 1997; DEC. 1,
@@ -23243,7 +23546,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 9                                      02/01/2010
+    11 USC APPENDIX Form 9                                      01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23254,121 +23557,121 @@
     Form 9
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af9p1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p2.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p3.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p3.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p4.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p4.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p5.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p5.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p6.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p6.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p7.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p7.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p8.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p8.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p9.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p9.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p10.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p10.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p11.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p11.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p12.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p12.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p13.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p13.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p14.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p14.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p15.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p15.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p16.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p16.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p17.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p17.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p18.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p18.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p19.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p19.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p20.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p20.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p21.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p21.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p22.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p22.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 9
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af9p23.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af9p23.gif" width=576 height=579 alt="Image of item"><p>
 
      (ADDED AUG. 1, 1991; AMENDED SEPT. 22, 1992; MAR. 16, 1993; MAR.
     14, 1995; OCT. 1, 1997; DEC. 1, 2003; OCT. 17, 2005; OCT. 1, 2006;
-                       DEC. 1, 2007; DEC. 1, 2008.)
+                DEC. 1, 2007; DEC. 1, 2008; DEC. 1, 2010.)
 
                 NOTES OF ADVISORY COMMITTEE ON RULES - 1991            
 
@@ -23573,12 +23876,19 @@
     the public only the last four digits of any individual debtor's
     taxpayer-identification number. This amendment implements Rule
     9037.
+                 COMMITTEE NOTES ON RULES - 2010 AMENDMENT             
+
+      Forms 9A, 9C, and 9I are amended in the "Deadlines" section on
+    the front and the "Discharge of Debts" section on the back. The
+    changes conform to amendments to Bankruptcy Rules 4004 and 7001
+    that direct that certain objections to discharge be brought by
+    motion rather than by complaint.
 
 -End-
 
 
 -CITE-
-    11 USC APPENDIX Form 10                                     02/01/2010
+    11 USC APPENDIX Form 10                                     01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23589,12 +23899,12 @@
     Form 10
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af10p1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af10p1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 10
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af10p2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af10p2.gif" width=576 height=579 alt="Image of item"><p>
 
                                                                        
     (ADDED AUG. 1, 1991; AMENDED MAR. 16, 1993; MAR. 14, 1995; OCT. 1,
@@ -23772,7 +24082,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 11A                                    02/01/2010
+    11 USC APPENDIX Form 11A                                    01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23783,7 +24093,7 @@
     Form 11A
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af11A.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af11A.gif" width=576 height=579 alt="Image of item"><p>
 
                            (ADDED AUG. 1, 1991.)                       
 
@@ -23795,7 +24105,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 11B                                    02/01/2010
+    11 USC APPENDIX Form 11B                                    01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23806,7 +24116,7 @@
     Form 11B
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af11B.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af11B.gif" width=576 height=579 alt="Image of item"><p>
 
                            (ADDED AUG. 1, 1991.)                       
 
@@ -23818,7 +24128,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 12                                     02/01/2010
+    11 USC APPENDIX Form 12                                     01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23829,7 +24139,7 @@
     Form 12
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af12.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af12.gif" width=576 height=579 alt="Image of item"><p>
 
                            (ADDED AUG. 1, 1991.)                       
 
@@ -23859,7 +24169,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 13                                     02/01/2010
+    11 USC APPENDIX Form 13                                     01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23870,7 +24180,7 @@
     Form 13
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af13.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af13.gif" width=576 height=579 alt="Image of item"><p>
 
                            (ADDED AUG. 1, 1991.)                       
 
@@ -23884,7 +24194,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 14                                     02/01/2010
+    11 USC APPENDIX Form 14                                     01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23895,12 +24205,12 @@
     Form 14
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af14p1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af14p1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 14
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af14p2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af14p2.gif" width=576 height=579 alt="Image of item"><p>
 
                 (ADDED AUG. 1, 1991; AMENDED OCT. 1, 1997.)            
 
@@ -23942,7 +24252,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 15                                     02/01/2010
+    11 USC APPENDIX Form 15                                     01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23953,7 +24263,7 @@
     Form 15
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af15.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af15.gif" width=576 height=579 alt="Image of item"><p>
 
                 (ADDED AUG. 1, 1991; AMENDED DEC. 1, 2001.)            
 
@@ -23973,7 +24283,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 16A                                    02/01/2010
+    11 USC APPENDIX Form 16A                                    01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -23984,7 +24294,7 @@
     Form 16A
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af16A.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af16A.gif" width=576 height=579 alt="Image of item"><p>
 
     (ADDED AUG. 1, 1991; AMENDED MAR. 14, 1995; DEC. 1, 2003; OCT. 17,
                            2005; DEC. 1, 2007.)
@@ -24046,7 +24356,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 16B                                    02/01/2010
+    11 USC APPENDIX Form 16B                                    01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -24057,7 +24367,7 @@
     Form 16B
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af16B.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af16B.gif" width=576 height=579 alt="Image of item"><p>
 
                (ADDED AUG. 1, 1991; AMENDED MAR. 14, 1995.)           
 
@@ -24087,7 +24397,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 16C                                    02/01/2010
+    11 USC APPENDIX Form 16C                                    01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -24098,7 +24408,7 @@
     Form 16C
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af16C.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af16C.gif" width=576 height=579 alt="Image of item"><p>
 
         (ADDED AUG. 1, 1991; AMENDED MAR. 14, 1995; DEC. 1, 2003.)    
 
@@ -24129,7 +24439,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 16D                                    02/01/2010
+    11 USC APPENDIX Form 16D                                    01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -24140,7 +24450,7 @@
     Form 16D
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af16D.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af16D.gif" width=576 height=579 alt="Image of item"><p>
 
                (ADDED MAR. 14, 1995; AMENDED DEC. 1, 2004.)           
 
@@ -24164,7 +24474,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 17                                     02/01/2010
+    11 USC APPENDIX Form 17                                     01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -24175,7 +24485,7 @@
     Form 17
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af17.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af17.gif" width=576 height=579 alt="Image of item"><p>
 
      (ADDED AUG. 1, 1991; AMENDED MAR. 14, 1995; OCT. 1, 1997; DEC. 1,
                            2002; DEC. 1, 2004.)
@@ -24221,7 +24531,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 18                                     02/01/2010
+    11 USC APPENDIX Form 18                                     01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -24232,12 +24542,12 @@
     Form 18
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af18p1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af18p1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 18
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af18p2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af18p2.gif" width=576 height=579 alt="Image of item"><p>
 
                                                                        
     (ADDED AUG. 1, 1991; AMENDED MAR. 14, 1995; OCT. 1, 1997; OCT. 17,
@@ -24300,7 +24610,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 19                                     02/01/2010
+    11 USC APPENDIX Form 19                                     01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -24311,12 +24621,12 @@
     Form 19
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af19p1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af19p1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 19
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af19p2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af19p2.gif" width=576 height=579 alt="Image of item"><p>
 
                            (ADDED DEC. 1, 2007.)                       
 
@@ -24353,7 +24663,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 19A                                    02/01/2010
+    11 USC APPENDIX Form 19A                                    01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -24401,7 +24711,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 19B                                    02/01/2010
+    11 USC APPENDIX Form 19B                                    01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -24434,7 +24744,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 20A                                    02/01/2010
+    11 USC APPENDIX Form 20A                                    01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -24445,9 +24755,9 @@
     Form 20A
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af20A.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af20A.gif" width=576 height=579 alt="Image of item"><p>
 
-                           (ADDED OCT. 1, 1997.)                       
+                (ADDED OCT. 1, 1997; AMENDED DEC. 1, 2010.)            
 
                 NOTES OF ADVISORY COMMITTEE ON RULES - 1997            
 
@@ -24469,12 +24779,22 @@
     identify the actual sender of the notice in each circumstance. All
     adaptations of the form should carry out the intent to give notice
     of applicable procedures in easily understood language.
+                 COMMITTEE NOTES ON RULES - 2010 AMENDMENT             
+
+      The form is amended to require that the title of the case include
+    all names used by the debtor within the last eight years. This
+    change conforms to the 2005 amendment of Sec. 727(a)(8), which
+    extended from six years to eight years the period during which a
+    debtor is barred from receiving successive discharges. In
+    conformity with Rule 9037, the filer is directed to provide only
+    the last four digits of any individual debtor's taxpayer-
+    identification number.
 
 -End-
 
 
 -CITE-
-    11 USC APPENDIX Form 20B                                    02/01/2010
+    11 USC APPENDIX Form 20B                                    01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -24485,9 +24805,9 @@
     Form 20B
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af20B.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af20B.gif" width=576 height=579 alt="Image of item"><p>
 
-                           (ADDED OCT. 1, 1997.)                       
+                (ADDED OCT. 1, 1997; AMENDED DEC. 1, 2010.)            
 
                 NOTES OF ADVISORY COMMITTEE ON RULES - 1997            
 
@@ -24509,12 +24829,22 @@
     identify the actual sender of the notice in each circumstance. All
     adaptations of the form should carry out the intent to give notice
     of applicable procedures in easily understood language.
+                 COMMITTEE NOTES ON RULES - 2010 AMENDMENT             
+
+      The form is amended to require that the title of the case include
+    all names used by the debtor within the last eight years. This
+    change conforms to the 2005 amendment of Sec. 727(a)(8), which
+    extended from six years to eight years the period during which a
+    debtor is barred from receiving successive discharges. In
+    conformity with Rule 9037, the filer is directed to provide only
+    the last four digits of any individual debtor's taxpayer-
+    identification number.
 
 -End-
 
 
 -CITE-
-    11 USC APPENDIX Form 21                                     02/01/2010
+    11 USC APPENDIX Form 21                                     01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -24525,7 +24855,7 @@
     Form 21
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af21.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af21.gif" width=576 height=579 alt="Image of item"><p>
 
                 (ADDED DEC. 1, 2003; AMENDED DEC. 1, 2007.)            
 
@@ -24559,7 +24889,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 22A                                    02/01/2010
+    11 USC APPENDIX Form 22A                                    01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -24570,45 +24900,50 @@
     Form 22A
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af22Ap1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af22Ap1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 22A
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af22Ap2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af22Ap2.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 22A
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af22Ap3.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af22Ap3.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 22A
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af22Ap4.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af22Ap4.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 22A
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af22Ap5.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af22Ap5.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 22A
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af22Ap6.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af22Ap6.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 22A
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af22Ap7.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af22Ap7.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 22A
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af22Ap8.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af22Ap8.gif" width=576 height=579 alt="Image of item"><p>
+
+    Form 22A
+
+
+<p><img src="http://uscode.house.gov/images/code10/11af22Ap9.gif" width=576 height=579 alt="Image of item"><p>
 
     (ADDED OCT. 17, 2005; AMENDED OCT. 1, 2006; JAN. 1, 2008; DEC. 19,
-                                  2008.)
+                           2008; DEC. 1, 2010.)
 
                       COMMITTEE NOTES ON RULES - 2005                  
 
@@ -25553,12 +25888,52 @@
     termination. If the obligation to complete the form arises in these
     circumstances and the debtor has not previously completed the form,
     the clerk is required to give the debtor notice of the obligation.
+                 COMMITTEE NOTES ON RULES - 2010 AMENDMENT             
+
+      Form 22A, lines 19A, 19B, 20A, and 20B, and Form 22C, lines 24A,
+    24B, 25A, and 25B, are amended to delete the terms "household" and
+    "household size" and to replace them with "number of persons" or
+    "family size." Under Sec. 707(b)(2)(A)(ii)(I) means test deductions
+    for food, clothing, and other items and for health care are
+    permitted to be taken in the amounts specified in the IRS National
+    Standards. The IRS National Standards are based on numbers of
+    persons, not household size. Similarly, the IRS Local Standards are
+    based on family, not household, size. The IRS itself generally
+    determines the applicable number of persons or family size for
+    these purposes according to the number of dependents that the
+    debtor claims for federal income tax purposes.
+      In order for Forms 22A and 22C to reflect more accurately the
+    manner in which the specified National and Local Standards are
+    applied by the IRS, the references to "household" and "household
+    size" are deleted, and the substituted terms - "number of persons"
+    and "family size" - are defined in terms of exemptions on the
+    debtor's federal income tax return and other dependents.
+      Form 22A, line 8, Form 22B, line 7, and Form 22C, line 7, are
+    amended to add an instruction that only one joint filer should
+    report regular payments by another person for household expenses.
+    Reporting of the figure by both spouses results in an erroneous
+    double-counting of this source of income.
+      The introductory instruction to Part I of Form 22A is amended to
+    direct debtors in joint cases to file separate forms if only one of
+    the debtors is entitled to an exemption under Part I and the
+    debtors believe that the filing of separate forms is required by
+    Sec. 707(b)(2)(C) of the Code. The language of Sec. 707(b) is
+    ambiguous about how the exclusions from means testing authorized by
+    Sec. 707(b)(1) (for debtors whose debts are not primarily consumer
+    debts) and (b)(2)(D) (for certain disabled veterans, National Guard
+    members, and Armed Forces reservists) are to be applied in joint
+    cases. The form does not impose a particular interpretation of
+    these provisions. It leaves up to joint debtors the initial
+    determination of whether the exclusion of one spouse from means
+    testing relieves the other spouse from the obligation to complete
+    the form, and allows any dispute over this matter to be resolved by
+    the courts.
 
 -End-
 
 
 -CITE-
-    11 USC APPENDIX Form 22B                                    02/01/2010
+    11 USC APPENDIX Form 22B                                    01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -25569,14 +25944,14 @@
     Form 22B
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af22Bp1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af22Bp1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 22B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af22Bp2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af22Bp2.gif" width=576 height=579 alt="Image of item"><p>
 
-               (ADDED OCT. 17, 2005; AMENDED JAN. 1, 2008.)           
+        (ADDED OCT. 17, 2005; AMENDED JAN. 1, 2008; DEC. 1, 2010.)    
 
                       COMMITTEE NOTES ON RULES - 2005                  
 
@@ -25586,12 +25961,16 @@
 
       For Committee Notes on Rules - 2005-2008 for form 22B, see note
     set out under form 22A.
+                 COMMITTEE NOTES ON RULES - 2010 AMENDMENT             
+
+      For Committee Notes on Rules - 2010 for form 22B, see note set
+    out under form 22A.
 
 -End-
 
 
 -CITE-
-    11 USC APPENDIX Form 22C                                    02/01/2010
+    11 USC APPENDIX Form 22C                                    01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -25602,44 +25981,45 @@
     Form 22C
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af22Cp1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af22Cp1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 22C
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af22Cp2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af22Cp2.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 22C
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af22Cp3.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af22Cp3.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 22C
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af22Cp4.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af22Cp4.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 22C
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af22Cp5.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af22Cp5.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 22C
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af22Cp6.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af22Cp6.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 22C
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af22Cp7.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af22Cp7.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 22C
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af22Cp8.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af22Cp8.gif" width=576 height=579 alt="Image of item"><p>
 
-        (ADDED OCT. 17, 2005; AMENDED OCT. 1, 2006; JAN. 1, 2008.)    
+     (ADDED OCT. 17, 2005; AMENDED OCT. 1, 2006; JAN. 1, 2008; DEC. 1,
+                                  2010.)
 
                       COMMITTEE NOTES ON RULES - 2005                  
 
@@ -25653,12 +26033,16 @@
 
       For Committee Notes on Rules - 2005-2008 Amendment for form 22C,
     see note set out under form 22A.
+                 COMMITTEE NOTES ON RULES - 2010 AMENDMENT             
+
+      For Committee Notes on Rules - 2010 Amendment for form 22C, see
+    note set out under form 22A.
 
 -End-
 
 
 -CITE-
-    11 USC APPENDIX Form 23                                     02/01/2010
+    11 USC APPENDIX Form 23                                     01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -25669,10 +26053,10 @@
     Form 23
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af23.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af23.gif" width=576 height=579 alt="Image of item"><p>
 
      (ADDED OCT. 17, 2005; AMENDED OCT. 1, 2006; DEC. 1, 2007; DEC. 1,
-                                  2008.)
+                           2008; DEC. 1. 2010.)
 
                       COMMITTEE NOTES ON RULES - 2005                  
 
@@ -25713,12 +26097,16 @@
     chapter 7, chapter 11 in which Sec. 1141(d)(3) applies, and chapter
     13 cases, and remind the debtor that the form is not to be used for
     filing a certification of prepetition credit counseling.
+                 COMMITTEE NOTES ON RULES - 2010 AMENDMENT             
+
+      The statement of the deadline for filing the form in a chapter 7
+    case is amended to conform to amended Rule 1007(c).
 
 -End-
 
 
 -CITE-
-    11 USC APPENDIX Form 24                                     02/01/2010
+    11 USC APPENDIX Form 24                                     01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -25729,12 +26117,12 @@
     Form 24
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af24p1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af24p1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 24
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af24p2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af24p2.gif" width=576 height=579 alt="Image of item"><p>
 
                (ADDED OCT. 17, 2005; AMENDED DEC. 1, 2007.)           
 
@@ -25759,7 +26147,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 25A                                    02/01/2010
+    11 USC APPENDIX Form 25A                                    01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -25770,32 +26158,32 @@
     Form 25A
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af25Ap1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Ap1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25A
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Ap2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Ap2.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25A
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Ap3.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Ap3.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25A
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Ap4.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Ap4.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25A
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Ap5.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Ap5.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25A
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Ap6.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Ap6.gif" width=576 height=579 alt="Image of item"><p>
 
                            (ADDED DEC. 1, 2008.)                       
 
@@ -25820,7 +26208,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 25B                                    02/01/2010
+    11 USC APPENDIX Form 25B                                    01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -25831,122 +26219,122 @@
     Form 25B
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp2.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp3.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp3.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp4.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp4.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp5.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp5.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp6.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp6.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp7.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp7.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp8.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp8.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp9.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp9.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp10.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp10.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp11.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp11.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp12.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp12.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp13.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp13.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp14.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp14.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp15.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp15.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp16.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp16.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp17.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp17.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp18.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp18.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp19.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp19.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp20.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp20.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp21.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp21.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp22.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp22.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp23.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp23.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25B
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Bp24.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Bp24.gif" width=576 height=579 alt="Image of item"><p>
 
                            (ADDED DEC. 1, 2008.)                       
 
@@ -25996,7 +26384,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 25C                                    02/01/2010
+    11 USC APPENDIX Form 25C                                    01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -26007,22 +26395,22 @@
     Form 25C
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af25Cp1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Cp1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25C
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Cp2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Cp2.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25C
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Cp3.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Cp3.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 25C
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af25Cp4.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af25Cp4.gif" width=576 height=579 alt="Image of item"><p>
 
                            (ADDED DEC. 1, 2008.)                       
 
@@ -26042,7 +26430,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 26                                     02/01/2010
+    11 USC APPENDIX Form 26                                     01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -26053,47 +26441,47 @@
     Form 26
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af26p1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af26p1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 26
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af26p2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af26p2.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 26
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af26p3.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af26p3.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 26
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af26p4.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af26p4.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 26
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af26p5.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af26p5.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 26
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af26p6.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af26p6.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 26
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af26p7.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af26p7.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 26
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af26p8.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af26p8.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 26
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af26p9.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af26p9.gif" width=576 height=579 alt="Image of item"><p>
 
                            (ADDED DEC. 1, 2008.)                       
 
@@ -26114,7 +26502,7 @@
 
 
 -CITE-
-    11 USC APPENDIX Form 27                                     02/01/2010
+    11 USC APPENDIX Form 27                                     01/07/2011
 
 -EXPCITE-
     TITLE 11 - APPENDIX
@@ -26125,12 +26513,12 @@
     Form 27
 
 -MISC1-
-<p><img src="http://uscode.house.gov/images/code09/11af27p1.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af27p1.gif" width=576 height=579 alt="Image of item"><p>
 
     Form 27
 
 
-<p><img src="http://uscode.house.gov/images/code09/11af27p2.gif" width=576 height=579 alt="Image of item"><p>
+<p><img src="http://uscode.house.gov/images/code10/11af27p2.gif" width=576 height=579 alt="Image of item"><p>
 
                            (ADDED DEC. 1, 2009.)                       
 

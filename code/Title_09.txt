@@ -1,11 +1,12 @@
 -CITE-
-    9 USC TITLE 9 - ARBITRATION                                 02/01/2010
+    9 USC TITLE 9 - ARBITRATION                                 01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
     
 -HEAD-    
                            TITLE 9 - ARBITRATION                       
+
 
 -MISC1-
      THIS TITLE WAS ENACTED BY ACT JULY 30, 1947, CH. 392, SEC. 1, 61
@@ -87,7 +88,7 @@
 
 
 -CITE-
-    9 USC CHAPTER 1 - GENERAL PROVISIONS                        02/01/2010
+    9 USC CHAPTER 1 - GENERAL PROVISIONS                        01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -141,7 +142,7 @@
 
 
 -CITE-
-    9 USC Sec. 1                                                02/01/2010
+    9 USC Sec. 1                                                01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -180,7 +181,7 @@
 
 
 -CITE-
-    9 USC Sec. 2                                                02/01/2010
+    9 USC Sec. 2                                                01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -214,7 +215,7 @@
 
 
 -CITE-
-    9 USC Sec. 3                                                02/01/2010
+    9 USC Sec. 3                                                01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -248,7 +249,7 @@
 
 
 -CITE-
-    9 USC Sec. 4                                                02/01/2010
+    9 USC Sec. 4                                                01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -321,7 +322,7 @@
 
 
 -CITE-
-    9 USC Sec. 5                                                02/01/2010
+    9 USC Sec. 5                                                01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -358,7 +359,7 @@
 
 
 -CITE-
-    9 USC Sec. 6                                                02/01/2010
+    9 USC Sec. 6                                                01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -385,7 +386,7 @@
 
 
 -CITE-
-    9 USC Sec. 7                                                02/01/2010
+    9 USC Sec. 7                                                01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -435,7 +436,7 @@
 
 
 -CITE-
-    9 USC Sec. 8                                                02/01/2010
+    9 USC Sec. 8                                                01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -468,7 +469,7 @@
 
 
 -CITE-
-    9 USC Sec. 9                                                02/01/2010
+    9 USC Sec. 9                                                01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -512,7 +513,7 @@
 
 
 -CITE-
-    9 USC Sec. 10                                               02/01/2010
+    9 USC Sec. 10                                               01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -592,7 +593,7 @@
 
 
 -CITE-
-    9 USC Sec. 11                                               02/01/2010
+    9 USC Sec. 11                                               01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -630,7 +631,7 @@
 
 
 -CITE-
-    9 USC Sec. 12                                               02/01/2010
+    9 USC Sec. 12                                               01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -669,7 +670,7 @@
 
 
 -CITE-
-    9 USC Sec. 13                                               02/01/2010
+    9 USC Sec. 13                                               01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -712,7 +713,7 @@
 
 
 -CITE-
-    9 USC Sec. 14                                               02/01/2010
+    9 USC Sec. 14                                               01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -743,7 +744,7 @@
 
 
 -CITE-
-    9 USC Sec. 15                                               02/01/2010
+    9 USC Sec. 15                                               01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -771,7 +772,7 @@
 
 
 -CITE-
-    9 USC Sec. 16                                               02/01/2010
+    9 USC Sec. 16                                               01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -825,7 +826,7 @@
 
 -CITE-
     9 USC CHAPTER 2 - CONVENTION ON THE RECOGNITION AND
-           ENFORCEMENT OF FOREIGN ARBITRAL AWARDS          02/01/2010
+           ENFORCEMENT OF FOREIGN ARBITRAL AWARDS          01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -858,7 +859,7 @@
 
 
 -CITE-
-    9 USC Sec. 201                                              02/01/2010
+    9 USC Sec. 201                                              01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -890,7 +891,7 @@
 
 
 -CITE-
-    9 USC Sec. 202                                              02/01/2010
+    9 USC Sec. 202                                              01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -922,7 +923,7 @@
 
 
 -CITE-
-    9 USC Sec. 203                                              02/01/2010
+    9 USC Sec. 203                                              01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -948,7 +949,7 @@
 
 
 -CITE-
-    9 USC Sec. 204                                              02/01/2010
+    9 USC Sec. 204                                              01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -975,7 +976,7 @@
 
 
 -CITE-
-    9 USC Sec. 205                                              02/01/2010
+    9 USC Sec. 205                                              01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1008,7 +1009,7 @@
 
 
 -CITE-
-    9 USC Sec. 206                                              02/01/2010
+    9 USC Sec. 206                                              01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1033,7 +1034,7 @@
 
 
 -CITE-
-    9 USC Sec. 207                                              02/01/2010
+    9 USC Sec. 207                                              01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1061,7 +1062,7 @@
 
 
 -CITE-
-    9 USC Sec. 208                                              02/01/2010
+    9 USC Sec. 208                                              01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1084,7 +1085,7 @@
 
 -CITE-
     9 USC CHAPTER 3 - INTER-AMERICAN CONVENTION ON
-           INTERNATIONAL COMMERCIAL ARBITRATION            02/01/2010
+           INTERNATIONAL COMMERCIAL ARBITRATION            01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1115,7 +1116,7 @@
 
 
 -CITE-
-    9 USC Sec. 301                                              02/01/2010
+    9 USC Sec. 301                                              01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1148,7 +1149,7 @@
 
 
 -CITE-
-    9 USC Sec. 302                                              02/01/2010
+    9 USC Sec. 302                                              01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1172,7 +1173,7 @@
 
 
 -CITE-
-    9 USC Sec. 303                                              02/01/2010
+    9 USC Sec. 303                                              01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1203,7 +1204,7 @@
 
 
 -CITE-
-    9 USC Sec. 304                                              02/01/2010
+    9 USC Sec. 304                                              01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1228,7 +1229,7 @@
 
 
 -CITE-
-    9 USC Sec. 305                                              02/01/2010
+    9 USC Sec. 305                                              01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1263,7 +1264,7 @@
 
 
 -CITE-
-    9 USC Sec. 306                                              02/01/2010
+    9 USC Sec. 306                                              01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1296,7 +1297,7 @@
 
 
 -CITE-
-    9 USC Sec. 307                                              02/01/2010
+    9 USC Sec. 307                                              01/07/2011
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
