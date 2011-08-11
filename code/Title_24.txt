@@ -1,5 +1,5 @@
 -CITE-
-    24 USC TITLE 24 - HOSPITALS AND ASYLUMS                     02/01/2010
+    24 USC TITLE 24 - HOSPITALS AND ASYLUMS                     01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -31,7 +31,7 @@
 -CITE-
     24 USC CHAPTER 1 - NAVY HOSPITALS, ARMY AND NAVY
            HOSPITAL, AND HOSPITAL RELIEF FOR SEAMEN AND
-           OTHERS                                          02/01/2010
+           OTHERS                                          01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -78,7 +78,7 @@
 
 
 -CITE-
-    24 USC Secs. 1, 2                                           02/01/2010
+    24 USC Secs. 1, 2                                           01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -86,10 +86,11 @@
                  RELIEF FOR SEAMEN AND OTHERS      
 
 -HEAD-
-    Secs. 1, 2. Repealed. July 1, 1944, ch. 373, title XIII, Sec. 1313,
-      58 Stat. 714
+    Secs. 1, 2. Repealed.
 
 -MISC1-
+    Secs. 1, 2. Repealed. July 1, 1944, ch. 373, title XIII, Sec. 1313,
+      58 Stat. 714.
       Section 1, acts Mar. 3, 1875, ch. 156, Sec. 3, 18 Stat. 485; Aug.
     14, 1912, ch. 288, Sec. 1, 37 Stat. 309, defined seamen. See
     section 201 of Title 42, The Public Health and Welfare.
@@ -113,7 +114,7 @@
 
 
 -CITE-
-    24 USC Secs. 3 to 5                                         02/01/2010
+    24 USC Secs. 3 to 5                                         01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -121,10 +122,11 @@
                  RELIEF FOR SEAMEN AND OTHERS      
 
 -HEAD-
-    Secs. 3 to 5. Repealed. June 15, 1943, ch. 125, Sec. 3, 57 Stat.
-      153, eff. July 1, 1943
+    Secs. 3 to 5. Repealed.
 
 -MISC1-
+    Secs. 3 to 5. Repealed. June 15, 1943, ch. 125, Sec. 3, 57 Stat.
+      153, eff. July 1, 1943.
       Section 3, R.S. Secs. 1614, 4808, related to deduction from pay
     of seamen for Navy hospital fund.
       Section 4, R.S. Sec. 4809, related to fines on seamen
@@ -137,7 +139,7 @@
 
 
 -CITE-
-    24 USC Sec. 6                                               02/01/2010
+    24 USC Sec. 6                                               01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -168,7 +170,7 @@
 
 
 -CITE-
-    24 USC Sec. 6a                                              02/01/2010
+    24 USC Sec. 6a                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -214,7 +216,7 @@
 
 
 -CITE-
-    24 USC Secs. 7 to 12                                        02/01/2010
+    24 USC Secs. 7 to 12                                        01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -222,10 +224,11 @@
                  RELIEF FOR SEAMEN AND OTHERS      
 
 -HEAD-
-    Secs. 7 to 12. Repealed. July 1, 1944, ch. 373, title XIII, Sec.
-      1313, 58 Stat. 714
+    Secs. 7 to 12. Repealed.
 
 -MISC1-
+    Secs. 7 to 12. Repealed. July 1, 1944, ch. 373, title XIII, Sec.
+      1313, 58 Stat. 714.
       Section 7, R.S. Sec. 4806; acts Mar. 3, 1875, ch. 156, Sec. 4, 18
     Stat. 485; Aug. 14, 1912, ch. 288, Sec. 1, 37 Stat. 309; July 26,
     1916, ch. 256, 39 Stat. 390; 1939 Reorg. Plan No. I, Secs. 201,
@@ -269,7 +272,7 @@
 
 
 -CITE-
-    24 USC Sec. 13                                              02/01/2010
+    24 USC Sec. 13                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -292,7 +295,7 @@
 
 
 -CITE-
-    24 USC Sec. 14                                              02/01/2010
+    24 USC Sec. 14                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -327,7 +330,7 @@
 
 
 -CITE-
-    24 USC Sec. 14a                                             02/01/2010
+    24 USC Sec. 14a                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -352,7 +355,7 @@
 
 
 -CITE-
-    24 USC Sec. 15                                              02/01/2010
+    24 USC Sec. 15                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -379,7 +382,7 @@
 
 
 -CITE-
-    24 USC Sec. 16                                              02/01/2010
+    24 USC Sec. 16                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -408,7 +411,7 @@
 
 
 -CITE-
-    24 USC Sec. 16a                                             02/01/2010
+    24 USC Sec. 16a                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -452,7 +455,7 @@
 
 
 -CITE-
-    24 USC Sec. 17                                              02/01/2010
+    24 USC Sec. 17                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -480,7 +483,7 @@
 
 
 -CITE-
-    24 USC Sec. 18                                              02/01/2010
+    24 USC Sec. 18                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -548,7 +551,7 @@
 
 
 -CITE-
-    24 USC Sec. 19                                              02/01/2010
+    24 USC Sec. 19                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -571,7 +574,7 @@
 
 
 -CITE-
-    24 USC Sec. 20                                              02/01/2010
+    24 USC Sec. 20                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -609,7 +612,7 @@
 
 
 -CITE-
-    24 USC Sec. 21                                              02/01/2010
+    24 USC Sec. 21                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -617,9 +620,10 @@
                  RELIEF FOR SEAMEN AND OTHERS      
 
 -HEAD-
-    Sec. 21. Repealed. June 12, 1948, ch. 450, Sec. 4, 62 Stat. 380
+    Sec. 21. Repealed.
 
 -MISC1-
+    Sec. 21. Repealed. June 12, 1948, ch. 450, Sec. 4, 62 Stat. 380.
       Section, act May 12, 1917, ch. 12, 40 Stat. 58, related to
     limitation on cost of Army hospital buildings.
 
@@ -628,7 +632,7 @@
 
 
 -CITE-
-    24 USC Secs. 21a to 25                                      02/01/2010
+    24 USC Secs. 21a to 25                                      01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -636,10 +640,11 @@
                  RELIEF FOR SEAMEN AND OTHERS      
 
 -HEAD-
-    Secs. 21a to 25. Repealed. Pub. L. 101-510, div. A, title XV, Sec.
-      1532(a), Nov. 5, 1990, 104 Stat. 1732
+    Secs. 21a to 25. Repealed.
 
 -MISC1-
+    Secs. 21a to 25. Repealed. Pub. L. 101-510, div. A, title XV, Sec.
+      1532(a), Nov. 5, 1990, 104 Stat. 1732.
       Section 21a, act Aug. 2, 1946, ch. 756, Sec. 11, 60 Stat. 854,
     related to maintenance and operation of Naval Home.
       Section 21b, act June 26, 1934, ch. 756, Sec. 9, 48 Stat. 1229,
@@ -665,7 +670,7 @@
 
 
 -CITE-
-    24 USC Secs. 26 to 28                                       02/01/2010
+    24 USC Secs. 26 to 28                                       01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -673,10 +678,11 @@
                  RELIEF FOR SEAMEN AND OTHERS      
 
 -HEAD-
-    Secs. 26 to 28. Repealed. July 1, 1944, ch. 373, title XIII, Sec.
-      1313, 58 Stat. 714
+    Secs. 26 to 28. Repealed.
 
 -MISC1-
+    Secs. 26 to 28. Repealed. July 1, 1944, ch. 373, title XIII, Sec.
+      1313, 58 Stat. 714.
       Section 26, acts Mar. 3, 1919, ch. 98, Sec. 1, 40 Stat. 1302;
     Aug. 9, 1921, ch. 57, Sec. 7, 42 Stat. 149; July 3, 1930, ch. 863,
     Sec. 1, 46 Stat. 1016, provided for additional hospital and
@@ -707,7 +713,7 @@
 
 
 -CITE-
-    24 USC Secs. 29, 29a                                        02/01/2010
+    24 USC Secs. 29, 29a                                        01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -715,10 +721,11 @@
                  RELIEF FOR SEAMEN AND OTHERS      
 
 -HEAD-
-    Secs. 29, 29a. Repealed. Oct. 31, 1951, ch. 654, Sec. 1(45), 65
-      Stat. 703
+    Secs. 29, 29a. Repealed.
 
 -MISC1-
+    Secs. 29, 29a. Repealed. Oct. 31, 1951, ch. 654, Sec. 1(45), 65
+      Stat. 703.
       Section 29, acts Mar. 15, 1920, ch. 100, Sec. 1, 41 Stat. 530;
     Mar. 4, 1921, ch. 156, 41 Stat. 1365, related to disposal of
     surplus material for the Public Health Service.
@@ -731,7 +738,7 @@
 
 
 -CITE-
-    24 USC Sec. 30                                              02/01/2010
+    24 USC Sec. 30                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -778,7 +785,7 @@
 
 
 -CITE-
-    24 USC Sec. 31                                              02/01/2010
+    24 USC Sec. 31                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -786,9 +793,10 @@
                  RELIEF FOR SEAMEN AND OTHERS      
 
 -HEAD-
-    Sec. 31. Repealed. Aug. 10, 1956, ch. 1041, Sec. 53, 70A Stat. 641
+    Sec. 31. Repealed.
 
 -MISC1-
+    Sec. 31. Repealed. Aug. 10, 1956, ch. 1041, Sec. 53, 70A Stat. 641.
       Section, act Jan. 19, 1929, ch. 85, 45 Stat. 1090, related to
     care of naval patients in other Government hospitals where naval
     hospital facilities are not available. See section 6201 of Title
@@ -799,7 +807,7 @@
 
 
 -CITE-
-    24 USC Secs. 32, 33                                         02/01/2010
+    24 USC Secs. 32, 33                                         01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -807,10 +815,11 @@
                  RELIEF FOR SEAMEN AND OTHERS      
 
 -HEAD-
-    Secs. 32, 33. Repealed. June 7, 1956, ch. 374, Sec. 306(2), 70
-      Stat. 254
+    Secs. 32, 33. Repealed.
 
 -MISC1-
+    Secs. 32, 33. Repealed. June 7, 1956, ch. 374, Sec. 306(2), 70
+      Stat. 254.
       Section 32, act May 10, 1943, ch. 95, Sec. 2, 57 Stat. 80,
     authorized hospitalization of dependents of naval and Marine Corps
     personnel. See section 1071 et seq. of Title 10, Armed Forces.
@@ -834,7 +843,7 @@
 
 
 -CITE-
-    24 USC Sec. 34                                              02/01/2010
+    24 USC Sec. 34                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -905,7 +914,7 @@
 
 
 -CITE-
-    24 USC Sec. 35                                              02/01/2010
+    24 USC Sec. 35                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -956,7 +965,7 @@
 
 
 -CITE-
-    24 USC Sec. 36                                              02/01/2010
+    24 USC Sec. 36                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -964,9 +973,10 @@
                  RELIEF FOR SEAMEN AND OTHERS      
 
 -HEAD-
-    Sec. 36. Repealed. June 7, 1956, ch. 374, Sec. 306(2), 70 Stat. 254
+    Sec. 36. Repealed.
 
 -MISC1-
+    Sec. 36. Repealed. June 7, 1956, ch. 374, Sec. 306(2), 70 Stat. 254.
       Section, act May 10, 1943, ch. 95, Sec. 6, 57 Stat. 41, made
     sections 32 to 36 of this title applicable to dependents of
     personnel of the Coast Guard.
@@ -980,7 +990,7 @@
 
 
 -CITE-
-    24 USC Sec. 37                                              02/01/2010
+    24 USC Sec. 37                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1021,7 +1031,7 @@
 
 
 -CITE-
-    24 USC CHAPTER 2 - SOLDIERS' AND AIRMEN'S HOME              02/01/2010
+    24 USC CHAPTER 2 - SOLDIERS' AND AIRMEN'S HOME              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1035,17 +1045,18 @@
 
 
 -CITE-
-    24 USC Secs. 41 to 43                                       02/01/2010
+    24 USC Secs. 41 to 43                                       01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 2 - SOLDIERS' AND AIRMEN'S HOME
 
 -HEAD-
-    Secs. 41 to 43. Repealed. Pub. L. 101-510, div. A, title XV, Sec.
-      1532(b)(1)-(3), Nov. 5, 1990, 104 Stat. 1733
+    Secs. 41 to 43. Repealed.
 
 -MISC1-
+    Secs. 41 to 43. Repealed. Pub. L. 101-510, div. A, title XV, Sec.
+      1532(b)(1)-(3), Nov. 5, 1990, 104 Stat. 1733.
       Section 41, R.S. Sec. 4815; Mar. 3, 1883, ch. 130, Sec. 10, 22
     Stat. 565; Mar. 4, 1909, ch. 299, Sec. 1, 35 Stat. 1004; May 11,
     1926, ch. 285, 44 Stat. 499; July 26, 1947, ch. 343, title II, Sec.
@@ -1081,17 +1092,18 @@
 
 
 -CITE-
-    24 USC Sec. 44                                              02/01/2010
+    24 USC Sec. 44                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 2 - SOLDIERS' AND AIRMEN'S HOME
 
 -HEAD-
-    Sec. 44. Repealed. Pub. L. 101-189, div. A, title III, Sec. 347(1),
-      Nov. 29, 1989, 103 Stat. 1422
+    Sec. 44. Repealed.
 
 -MISC1-
+    Sec. 44. Repealed. Pub. L. 101-189, div. A, title III, Sec. 347(1),
+      Nov. 29, 1989, 103 Stat. 1422.
       Section, R.S. Sec. 4818; Sept. 24, 1980, Pub. L. 96-357, Sec.
     7(a), 94 Stat. 1183, related to funds for support of the Soldiers'
     and Airmen's Home. See section 2772 of Title 10, Armed Forces.
@@ -1101,17 +1113,18 @@
 
 
 -CITE-
-    24 USC Sec. 44a                                             02/01/2010
+    24 USC Sec. 44a                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 2 - SOLDIERS' AND AIRMEN'S HOME
 
 -HEAD-
-    Sec. 44a. Repealed. Pub. L. 94-454, Sec. 2(b), Oct. 2, 1976, 90
-      Stat. 1518
+    Sec. 44a. Repealed.
 
 -MISC1-
+    Sec. 44a. Repealed. Pub. L. 94-454, Sec. 2(b), Oct. 2, 1976, 90
+      Stat. 1518.
       Section, act Feb. 13, 1936, ch. 66, 49 Stat. 1137, related to pay
     deductions of enlisted men and warrant officers on active list of
     Regular Army, not to exceed 25 cents, to be credited to permanent
@@ -1123,17 +1136,18 @@
 
 
 -CITE-
-    24 USC Sec. 44b                                             02/01/2010
+    24 USC Sec. 44b                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 2 - SOLDIERS' AND AIRMEN'S HOME
 
 -HEAD-
-    Sec. 44b. Repealed. Pub. L. 101-510, div. A, title XV, Sec.
-      1532(b)(4), Nov. 5, 1990, 104 Stat. 1733
+    Sec. 44b. Repealed.
 
 -MISC1-
+    Sec. 44b. Repealed. Pub. L. 101-510, div. A, title XV, Sec.
+      1532(b)(4), Nov. 5, 1990, 104 Stat. 1733.
       Section, Pub. L. 94-454, Sec. 1, Oct. 2, 1976, 90 Stat. 1518,
     related to collection of fees from members of Soldiers' Home.
 
@@ -1147,17 +1161,18 @@
 
 
 -CITE-
-    24 USC Sec. 44c                                             02/01/2010
+    24 USC Sec. 44c                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 2 - SOLDIERS' AND AIRMEN'S HOME
 
 -HEAD-
-    Sec. 44c. Repealed. Pub. L. 101-189, div. A, title III, Sec.
-      347(4), Nov. 29, 1989, 103 Stat. 1422
+    Sec. 44c. Repealed.
 
 -MISC1-
+    Sec. 44c. Repealed. Pub. L. 101-189, div. A, title III, Sec.
+      347(4), Nov. 29, 1989, 103 Stat. 1422.
       Section, Pub. L. 94-454, Sec. 2(a), Oct. 2, 1976, 90 Stat. 1518,
     related to pay deductions from enlisted men and warrant officers.
     See section 1007(i) of Title 37, Pay and Allowances of the
@@ -1168,17 +1183,18 @@
 
 
 -CITE-
-    24 USC Secs. 45 to 46b                                      02/01/2010
+    24 USC Secs. 45 to 46b                                      01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 2 - SOLDIERS' AND AIRMEN'S HOME
 
 -HEAD-
-    Secs. 45 to 46b. Repealed. Pub. L. 101-510, div. A, title XV, Sec.
-      1532(b)(1), (2), (5), (6), Nov. 5, 1990, 104 Stat. 1733
+    Secs. 45 to 46b. Repealed.
 
 -MISC1-
+    Secs. 45 to 46b. Repealed. Pub. L. 101-510, div. A, title XV, Sec.
+      1532(b)(1), (2), (5), (6), Nov. 5, 1990, 104 Stat. 1733.
       Section 45, R.S. Sec. 4819; June 12, 1906, ch. 3078, 34 Stat.
     242; May 11, 1908, ch. 163, 35 Stat. 110; Nov. 29, 1989, Pub. L.
     101-189, div. A, title III, Sec. 347(1), 103 Stat. 1422, authorized
@@ -1204,17 +1220,18 @@
 
 
 -CITE-
-    24 USC Sec. 47                                              02/01/2010
+    24 USC Sec. 47                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 2 - SOLDIERS' AND AIRMEN'S HOME
 
 -HEAD-
-    Sec. 47. Repealed. Pub. L. 101-189, div. A, title III, Sec. 347(3),
-      Nov. 29, 1989, 103 Stat. 1422
+    Sec. 47. Repealed.
 
 -MISC1-
+    Sec. 47. Repealed. Pub. L. 101-189, div. A, title III, Sec. 347(3),
+      Nov. 29, 1989, 103 Stat. 1422.
       Section, acts Jan. 16, 1891, ch. 74, 26 Stat. 718; May 29, 1920,
     ch. 214, 41 Stat. 655, related to custodian of funds and transfer
     of funds for outdoor relief.
@@ -1224,17 +1241,18 @@
 
 
 -CITE-
-    24 USC Secs. 48 to 50                                       02/01/2010
+    24 USC Secs. 48 to 50                                       01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 2 - SOLDIERS' AND AIRMEN'S HOME
 
 -HEAD-
-    Secs. 48 to 50. Repealed. Pub. L. 101-510, div. A, title XV, Sec.
-      1532(b)(1), (2), Nov. 5, 1990, 104 Stat. 1733
+    Secs. 48 to 50. Repealed.
 
 -MISC1-
+    Secs. 48 to 50. Repealed. Pub. L. 101-510, div. A, title XV, Sec.
+      1532(b)(1), (2), Nov. 5, 1990, 104 Stat. 1733.
       Section 48, act Mar. 3, 1883, ch. 130, Sec. 9, 22 Stat. 565,
     related to borrowing money on credit of Soldiers' Home.
       Section 49, R.S. Secs. 4814, 4821, related to persons entitled to
@@ -1252,17 +1270,18 @@
 
 
 -CITE-
-    24 USC Secs. 51 to 53                                       02/01/2010
+    24 USC Secs. 51 to 53                                       01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 2 - SOLDIERS' AND AIRMEN'S HOME
 
 -HEAD-
-    Secs. 51 to 53. Repealed. Pub. L. 101-189, div. A, title III, Sec.
-      347(1), (2), Nov. 29, 1989, 103 Stat. 1422
+    Secs. 51 to 53. Repealed.
 
 -MISC1-
+    Secs. 51 to 53. Repealed. Pub. L. 101-189, div. A, title III, Sec.
+      347(1), (2), Nov. 29, 1989, 103 Stat. 1422.
       Section 51, R.S. Sec. 4820, related to rights of pensioners and
     surrender of pensions while remaining in Home.
       Section 52, acts Mar. 3, 1883, ch. 130, Sec. 4, 22 Stat. 564;
@@ -1278,17 +1297,18 @@
 
 
 -CITE-
-    24 USC Sec. 54                                              02/01/2010
+    24 USC Sec. 54                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 2 - SOLDIERS' AND AIRMEN'S HOME
 
 -HEAD-
-    Sec. 54. Repealed. Pub. L. 101-510, div. A, title XV, Sec.
-      1532(b)(1), Nov. 5, 1990, 104 Stat. 1733
+    Sec. 54. Repealed.
 
 -MISC1-
+    Sec. 54. Repealed. Pub. L. 101-510, div. A, title XV, Sec.
+      1532(b)(1), Nov. 5, 1990, 104 Stat. 1733.
       Section, R.S. Sec. 4824, related to coverage of inmates by
     Articles of War. See section 801 et seq. of Title 10, Armed Forces.
 
@@ -1302,17 +1322,18 @@
 
 
 -CITE-
-    24 USC Secs. 55 to 57                                       02/01/2010
+    24 USC Secs. 55 to 57                                       01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 2 - SOLDIERS' AND AIRMEN'S HOME
 
 -HEAD-
-    Secs. 55 to 57. Repealed. Pub. L. 101-189, div. A, title III, Sec.
-      347(2), Nov. 29, 1989, 103 Stat. 1422
+    Secs. 55 to 57. Repealed.
 
 -MISC1-
+    Secs. 55 to 57. Repealed. Pub. L. 101-189, div. A, title III, Sec.
+      347(2), Nov. 29, 1989, 103 Stat. 1422.
       Section 55, act Mar. 3, 1883, ch. 130, Sec. 5, 22 Stat. 565,
     related to uniform for inmates.
       Section 56, act Mar, 3, 1883, ch. 130, Sec. 6, 22 Stat. 565,
@@ -1325,16 +1346,17 @@
 
 
 -CITE-
-    24 USC Sec. 58                                              02/01/2010
+    24 USC Sec. 58                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 2 - SOLDIERS' AND AIRMEN'S HOME
 
 -HEAD-
-    Sec. 58. Repealed. Aug. 10, 1956, ch. 1041, Sec. 53, 70A Stat. 641
+    Sec. 58. Repealed.
 
 -MISC1-
+    Sec. 58. Repealed. Aug. 10, 1956, ch. 1041, Sec. 53, 70A Stat. 641.
       Section, acts June 4, 1897, ch. 2, Sec. 1, 30 Stat. 54; June 28,
     1950, ch. 383, title IV, Sec. 402(d), 64 Stat. 272, provided for
     sale of medical and hospital supplies to the Soldiers' Home [now
@@ -1346,17 +1368,18 @@
 
 
 -CITE-
-    24 USC Sec. 59                                              02/01/2010
+    24 USC Sec. 59                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 2 - SOLDIERS' AND AIRMEN'S HOME
 
 -HEAD-
-    Sec. 59. Repealed. Pub. L. 101-510, div. A, title XV, Sec.
-      1532(b)(2), Nov. 5, 1990, 104 Stat. 1733
+    Sec. 59. Repealed.
 
 -MISC1-
+    Sec. 59. Repealed. Pub. L. 101-510, div. A, title XV, Sec.
+      1532(b)(2), Nov. 5, 1990, 104 Stat. 1733.
       Section, acts Mar. 3, 1883, ch. 130, Sec. 1, 22 Stat. 564; July
     26, 1947, ch. 343, title II, Sec. 205(a), 61 Stat. 501, related to
     annual report of board of commissioners of Soldiers' Home.
@@ -1371,17 +1394,18 @@
 
 
 -CITE-
-    24 USC Sec. 60                                              02/01/2010
+    24 USC Sec. 60                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 2 - SOLDIERS' AND AIRMEN'S HOME
 
 -HEAD-
-    Sec. 60. Repealed. Pub. L. 101-189, div. A, title III, Sec. 347(2),
-      Nov. 29, 1989, 103 Stat. 1422
+    Sec. 60. Repealed.
 
 -MISC1-
+    Sec. 60. Repealed. Pub. L. 101-189, div. A, title III, Sec. 347(2),
+      Nov. 29, 1989, 103 Stat. 1422.
       Section, acts Mar. 3, 1883, ch. 130, Sec. 2, 22 Stat. 564; Jan.
     27, 1948, ch. 35, 62 Stat. 5, related to inspection and report by
     Inspector General of the Army.
@@ -1391,7 +1415,7 @@
 
 -CITE-
     24 USC CHAPTER 3 - NATIONAL HOME FOR DISABLED VOLUNTEER
-           SOLDIERS                                        02/01/2010
+           SOLDIERS                                        01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1428,7 +1452,7 @@
 
 
 -CITE-
-    24 USC SUBCHAPTER I - ESTABLISHMENT AND MANAGEMENT          02/01/2010
+    24 USC SUBCHAPTER I - ESTABLISHMENT AND MANAGEMENT          01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1443,7 +1467,7 @@
 
 
 -CITE-
-    24 USC Secs. 71 to 77a                                      02/01/2010
+    24 USC Secs. 71 to 77a                                      01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1451,10 +1475,11 @@
     SUBCHAPTER I - ESTABLISHMENT AND MANAGEMENT
 
 -HEAD-
-    Secs. 71 to 77a. Repealed. Pub. L. 85-857, Sec. 14(1), (6), (9),
-      (16), (35), (59), Sept. 2, 1958, 72 Stat. 1268, 1269, 1271, 1272
+    Secs. 71 to 77a. Repealed.
 
 -MISC1-
+    Secs. 71 to 77a. Repealed. Pub. L. 85-857, Sec. 14(1), (6), (9),
+      (16), (35), (59), Sept. 2, 1958, 72 Stat. 1268, 1269, 1271, 1272.
       Section 71, R.S. Sec. 4825, related to organization of National
     Home for Disabled Volunteer Soldiers.
       Section 72, act July 1, 1916, ch. 209, Sec. 1, 39 Stat. 297,
@@ -1494,7 +1519,7 @@
 
 
 -CITE-
-    24 USC Sec. 78                                              02/01/2010
+    24 USC Sec. 78                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1502,10 +1527,11 @@
     SUBCHAPTER I - ESTABLISHMENT AND MANAGEMENT
 
 -HEAD-
-    Sec. 78. Repealed. Pub. L. 85-56, title XXII, Sec. 2202(58), June
-      17, 1957, 71 Stat. 164
+    Sec. 78. Repealed.
 
 -MISC1-
+    Sec. 78. Repealed. Pub. L. 85-56, title XXII, Sec. 2202(58), June
+      17, 1957, 71 Stat. 164.
       Section, act July 19, 1897, ch. 1, 30 Stat. 121, authorized Board
     of Managers of National Home for Disabled Volunteer Soldiers to
     condemn land for domiciliary purposes.
@@ -1518,7 +1544,7 @@
 
 
 -CITE-
-    24 USC Sec. 79                                              02/01/2010
+    24 USC Sec. 79                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1539,7 +1565,7 @@
 
 
 -CITE-
-    24 USC Secs. 80 to 82                                       02/01/2010
+    24 USC Secs. 80 to 82                                       01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1547,10 +1573,11 @@
     SUBCHAPTER I - ESTABLISHMENT AND MANAGEMENT
 
 -HEAD-
-    Secs. 80 to 82. Repealed. Pub. L. 85-857, Sec. 14(3), (18), (19),
-      Sept. 2, 1958, 72 Stat. 1268, 1270
+    Secs. 80 to 82. Repealed.
 
 -MISC1-
+    Secs. 80 to 82. Repealed. Pub. L. 85-857, Sec. 14(3), (18), (19),
+      Sept. 2, 1958, 72 Stat. 1268, 1270.
       Section 80, act Mar. 3, 1879, ch. 182, Sec. 1, 20 Stat. 390,
     related to purchase of supplies and expenditures for new buildings.
       Section 81, act July 1, 1898, ch. 546, Sec. 1, 30 Stat. 640,
@@ -1570,7 +1597,7 @@
 
 
 -CITE-
-    24 USC Sec. 83                                              02/01/2010
+    24 USC Sec. 83                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1578,9 +1605,10 @@
     SUBCHAPTER I - ESTABLISHMENT AND MANAGEMENT
 
 -HEAD-
-    Sec. 83. Repealed. Aug. 10, 1956, ch. 1041, Sec. 53, 70A Stat. 641
+    Sec. 83. Repealed.
 
 -MISC1-
+    Sec. 83. Repealed. Aug. 10, 1956, ch. 1041, Sec. 53, 70A Stat. 641.
       Section, acts Feb. 8, 1889, ch. 116, 25 Stat. 657; May 26, 1900,
     ch. 586, 31 Stat. 216, authorized issuance of obsolete cannon or
     ordnance. See sections 4686 and 9686 of Title 10, Armed Forces.
@@ -1590,7 +1618,7 @@
 
 
 -CITE-
-    24 USC Sec. 84                                              02/01/2010
+    24 USC Sec. 84                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1598,10 +1626,11 @@
     SUBCHAPTER I - ESTABLISHMENT AND MANAGEMENT
 
 -HEAD-
-    Sec. 84. Repealed. Pub. L. 85-857, Sec. 14(16), Sept. 2, 1958, 72
-      Stat. 1269
+    Sec. 84. Repealed.
 
 -MISC1-
+    Sec. 84. Repealed. Pub. L. 85-857, Sec. 14(16), Sept. 2, 1958, 72
+      Stat. 1269.
       Section, act Aug. 18, 1894, ch. 301, Sec. 1, 28 Stat. 412,
     related to an annual inspection of National Home for Disabled
     Volunteer Soldiers.
@@ -1614,7 +1643,7 @@
 
 
 -CITE-
-    24 USC SUBCHAPTER II - OFFICERS AND EMPLOYEES               02/01/2010
+    24 USC SUBCHAPTER II - OFFICERS AND EMPLOYEES               01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1629,7 +1658,7 @@
 
 
 -CITE-
-    24 USC Sec. 91                                              02/01/2010
+    24 USC Sec. 91                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1637,10 +1666,11 @@
     SUBCHAPTER II - OFFICERS AND EMPLOYEES
 
 -HEAD-
-    Sec. 91. Repealed. Pub. L. 85-857, Sec. 14(1), Sept. 2, 1958, 72
-      Stat. 1268
+    Sec. 91. Repealed.
 
 -MISC1-
+    Sec. 91. Repealed. Pub. L. 85-857, Sec. 14(1), Sept. 2, 1958, 72
+      Stat. 1268.
       Section, R.S. Sec. 4829; acts Apr. 11, 1892, ch. 40, 27 Stat. 15;
     Feb. 9, 1897, ch. 205, 29 Stat. 517, provided for officers of
     National Home for Disabled Volunteer Soldiers.
@@ -1654,7 +1684,7 @@
 
 
 -CITE-
-    24 USC Sec. 92                                              02/01/2010
+    24 USC Sec. 92                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1662,10 +1692,11 @@
     SUBCHAPTER II - OFFICERS AND EMPLOYEES
 
 -HEAD-
-    Sec. 92. Repealed. Pub. L. 85-56, title XXII, Sec. 2202(66), June
-      17, 1957, 71 Stat. 162
+    Sec. 92. Repealed.
 
 -MISC1-
+    Sec. 92. Repealed. Pub. L. 85-56, title XXII, Sec. 2202(66), June
+      17, 1957, 71 Stat. 162.
       Section, act June 28, 1902, ch. 1301, Sec. 1, 32 Stat. 472,
     prescribed qualifications of officers of National Home for Disabled
     Volunteer Soldiers, and officers under Board of Managers thereof.
@@ -1678,7 +1709,7 @@
 
 
 -CITE-
-    24 USC Secs. 93 to 96                                       02/01/2010
+    24 USC Secs. 93 to 96                                       01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1686,10 +1717,11 @@
     SUBCHAPTER II - OFFICERS AND EMPLOYEES
 
 -HEAD-
-    Secs. 93 to 96. Repealed. Pub. L. 85-857, Sec. 14(16), (23), (25),
-      Sept. 2, 1958, 72 Stat. 1269, 1270
+    Secs. 93 to 96. Repealed.
 
 -MISC1-
+    Secs. 93 to 96. Repealed. Pub. L. 85-857, Sec. 14(16), (23), (25),
+      Sept. 2, 1958, 72 Stat. 1269, 1270.
       Section 93, act Aug. 18, 1894, ch. 301, Sec. 1, 28 Stat. 412,
     required classification and provided for compensation of officers
     and employees of National Home for Disabled Volunteer Soldiers.
@@ -1718,7 +1750,7 @@
 
 
 -CITE-
-    24 USC Sec. 97                                              02/01/2010
+    24 USC Sec. 97                                              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1739,7 +1771,7 @@
 
 
 -CITE-
-    24 USC SUBCHAPTER III - FUNDS AND ACCOUNTS                  02/01/2010
+    24 USC SUBCHAPTER III - FUNDS AND ACCOUNTS                  01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1754,7 +1786,7 @@
 
 
 -CITE-
-    24 USC Secs. 111 to 123                                     02/01/2010
+    24 USC Secs. 111 to 123                                     01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1762,11 +1794,12 @@
     SUBCHAPTER III - FUNDS AND ACCOUNTS
 
 -HEAD-
-    Secs. 111 to 123. Repealed. Pub. L. 85-857, Sec. 14(1), (2), (7),
-      (9), (14)-(16), (22), (25), (27), (34), (46), Sept. 2, 1958, 72
-      Stat. 1268-1271
+    Secs. 111 to 123. Repealed.
 
 -MISC1-
+    Secs. 111 to 123. Repealed. Pub. L. 85-857, Sec. 14(1), (2), (7),
+      (9), (14)-(16), (22), (25), (27), (34), (46), Sept. 2, 1958, 72
+      Stat. 1268-1271.
       Section 111, R.S. Sec. 4831; act Mar. 3, 1875, ch. 129, Sec. 1,
     18 Stat. 359, authorized Board of Managers of National Home for
     Disabled Volunteer Soldiers to receive donations of money or
@@ -1824,7 +1857,7 @@
 
 
 -CITE-
-    24 USC SUBCHAPTER IV - BENEFICIARIES AND PENSIONS           02/01/2010
+    24 USC SUBCHAPTER IV - BENEFICIARIES AND PENSIONS           01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1839,7 +1872,7 @@
 
 
 -CITE-
-    24 USC Sec. 131                                             02/01/2010
+    24 USC Sec. 131                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1847,10 +1880,11 @@
     SUBCHAPTER IV - BENEFICIARIES AND PENSIONS
 
 -HEAD-
-    Sec. 131. Repealed. Pub. L. 85-857, Sec. 14(49), Sept. 2, 1958, 72
-      Stat. 1271
+    Sec. 131. Repealed.
 
 -MISC1-
+    Sec. 131. Repealed. Pub. L. 85-857, Sec. 14(49), Sept. 2, 1958, 72
+      Stat. 1271.
       Section, acts June 7, 1924, ch. 291, title II, 43 Stat. 519; Mar.
     26, 1928, ch. 245, 45 Stat. 366, enumerated persons who were
     entitled to benefits of National Home for Disabled Volunteer
@@ -1879,7 +1913,7 @@
 
 
 -CITE-
-    24 USC Secs. 131a, 131b                                     02/01/2010
+    24 USC Secs. 131a, 131b                                     01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1904,7 +1938,7 @@
 
 
 -CITE-
-    24 USC Sec. 132                                             02/01/2010
+    24 USC Sec. 132                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1912,10 +1946,11 @@
     SUBCHAPTER IV - BENEFICIARIES AND PENSIONS
 
 -HEAD-
-    Sec. 132. Repealed. Pub. L. 85-56, title XXII, Sec. 2202(100), June
-      17, 1957, 71 Stat. 166
+    Sec. 132. Repealed.
 
 -MISC1-
+    Sec. 132. Repealed. Pub. L. 85-56, title XXII, Sec. 2202(100), June
+      17, 1957, 71 Stat. 166.
       Section, act June 5, 1920, ch. 235, Sec. 1, 41 Stat. 905,
     authorized Board of Managers of National Home for Disabled
     Volunteer Soldiers to make rules governing assignment of classes
@@ -1929,7 +1964,7 @@
 
 
 -CITE-
-    24 USC Secs. 133 to 135                                     02/01/2010
+    24 USC Secs. 133 to 135                                     01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1937,10 +1972,11 @@
     SUBCHAPTER IV - BENEFICIARIES AND PENSIONS
 
 -HEAD-
-    Secs. 133 to 135. Repealed. Pub. L. 85-857, Sec. 14(1), (10), (12),
-      (50), (52), (64), Sept. 2, 1958, 72 Stat. 1268, 1269, 1271, 1272
+    Secs. 133 to 135. Repealed.
 
 -MISC1-
+    Secs. 133 to 135. Repealed. Pub. L. 85-857, Sec. 14(1), (10), (12),
+      (50), (52), (64), Sept. 2, 1958, 72 Stat. 1268, 1269, 1271, 1272.
       Section 133, R.S. Sec. 4833; acts Aug. 23, 1894, ch. 316, Sec. 1,
     28 Stat. 492; May 29, 1928, ch. 901, Sec. 1(123), 45 Stat. 995,
     authorized Board of Managers of National Home for Disabled
@@ -1979,7 +2015,7 @@
 
 
 -CITE-
-    24 USC Sec. 136                                             02/01/2010
+    24 USC Sec. 136                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -1987,10 +2023,11 @@
     SUBCHAPTER IV - BENEFICIARIES AND PENSIONS
 
 -HEAD-
-    Sec. 136. Repealed. Pub. L. 85-56, title XXII, Sec. 2202(1), (85),
-      June 17, 1957, 71 Stat. 162, 165
+    Sec. 136. Repealed.
 
 -MISC1-
+    Sec. 136. Repealed. Pub. L. 85-56, title XXII, Sec. 2202(1), (85),
+      June 17, 1957, 71 Stat. 162, 165.
       Section, acts June 25, 1910, ch. 384, Secs. 1-11, 36 Stat. 736;
     Dec. 26, 1941, ch. 634, 55 Stat. 868, related to disposition of
     deceased veterans' personal property. See section 8520 et seq. of
@@ -2004,7 +2041,7 @@
 
 
 -CITE-
-    24 USC Sec. 137                                             02/01/2010
+    24 USC Sec. 137                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2012,9 +2049,10 @@
     SUBCHAPTER IV - BENEFICIARIES AND PENSIONS
 
 -HEAD-
-    Sec. 137. Repealed. July 3, 1930, ch. 863, Sec. 7, 46 Stat. 1018
+    Sec. 137. Repealed.
 
 -MISC1-
+    Sec. 137. Repealed. July 3, 1930, ch. 863, Sec. 7, 46 Stat. 1018.
       Section, R.S. Sec. 4835, related to application of Articles of
     War to inmates of National Home for Disabled Volunteer Soldiers.
 
@@ -2023,7 +2061,7 @@
 
 
 -CITE-
-    24 USC Secs. 138, 139                                       02/01/2010
+    24 USC Secs. 138, 139                                       01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2031,10 +2069,11 @@
     SUBCHAPTER IV - BENEFICIARIES AND PENSIONS
 
 -HEAD-
-    Secs. 138, 139. Repealed. Pub. L. 85-857, Sec. 14(4), (5), (26),
-      Sept. 2, 1958, 72 Stat. 1269, 1270
+    Secs. 138, 139. Repealed.
 
 -MISC1-
+    Secs. 138, 139. Repealed. Pub. L. 85-857, Sec. 14(4), (5), (26),
+      Sept. 2, 1958, 72 Stat. 1269, 1270.
       Section 138, acts Feb. 26, 1881, ch. 80, Sec. 2, 21 Stat. 350;
     Aug. 7, 1882, ch. 433, Sec. 1, 22 Stat. 322; Aug. 17, 1912, ch.
     301, Sec. 1, 37 Stat. 312, related to payment of pensions of
@@ -2051,7 +2090,7 @@
 
 
 -CITE-
-    24 USC SUBCHAPTER V - BATTLE MOUNTAIN SANITARIUM RESERVE    02/01/2010
+    24 USC SUBCHAPTER V - BATTLE MOUNTAIN SANITARIUM RESERVE    01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2066,7 +2105,7 @@
 
 
 -CITE-
-    24 USC Sec. 151                                             02/01/2010
+    24 USC Sec. 151                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2104,7 +2143,7 @@
 
 
 -CITE-
-    24 USC Sec. 152                                             02/01/2010
+    24 USC Sec. 152                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2140,7 +2179,7 @@
 
 
 -CITE-
-    24 USC Sec. 153                                             02/01/2010
+    24 USC Sec. 153                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2188,7 +2227,7 @@
 
 
 -CITE-
-    24 USC Sec. 154                                             02/01/2010
+    24 USC Sec. 154                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2215,7 +2254,7 @@
 
 
 -CITE-
-    24 USC CHAPTER 4 - SAINT ELIZABETHS HOSPITAL                02/01/2010
+    24 USC CHAPTER 4 - SAINT ELIZABETHS HOSPITAL                01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2258,7 +2297,7 @@
 
 -CITE-
     24 USC SUBCHAPTER I - ESTABLISHMENT AND MANAGEMENT;
-           PENSIONS, MONEYS, AND APPROPRIATIONS            02/01/2010
+           PENSIONS, MONEYS, AND APPROPRIATIONS            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2275,7 +2314,7 @@
 
 
 -CITE-
-    24 USC Sec. 161                                             02/01/2010
+    24 USC Sec. 161                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2284,10 +2323,11 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Sec. 161. Repealed. Pub. L. 98-621, Sec. 10(a), Nov. 8, 1984, 98
-      Stat. 3379
+    Sec. 161. Repealed.
 
 -MISC1-
+    Sec. 161. Repealed. Pub. L. 98-621, Sec. 10(a), Nov. 8, 1984, 98
+      Stat. 3379.
       Section, R.S. Sec. 4838; July 1, 1916, ch. 209, 39 Stat. 309;
     1946 Reorg. Plan No. 3, Sec. 201, eff. July 16, 1946, 11 F.R. 7876,
     60 Stat. 1098, related to establishment of Saint Elizabeths
@@ -2303,7 +2343,7 @@
 
 
 -CITE-
-    24 USC Secs. 162, 163                                       02/01/2010
+    24 USC Secs. 162, 163                                       01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2312,10 +2352,11 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Secs. 162, 163. Repealed. Pub. L. 89-554, Sec. 8(a), Sept. 6, 1966,
-      80 Stat. 632
+    Secs. 162, 163. Repealed.
 
 -MISC1-
+    Secs. 162, 163. Repealed. Pub. L. 89-554, Sec. 8(a), Sept. 6, 1966,
+      80 Stat. 632.
       Section 162, R.S. Sec. 4840; July 1, 1916, ch. 209, Sec. 1, 39
     Stat. 309, related to appointment of Board of Visitors for St.
     Elizabeths Hospital.
@@ -2327,7 +2368,7 @@
 
 
 -CITE-
-    24 USC Secs. 164, 165                                       02/01/2010
+    24 USC Secs. 164, 165                                       01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2336,10 +2377,11 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Secs. 164, 165. Repealed. Pub. L. 98-621, Sec. 10(a), Nov. 8, 1984,
-      98 Stat. 3379
+    Secs. 164, 165. Repealed.
 
 -MISC1-
+    Secs. 164, 165. Repealed. Pub. L. 98-621, Sec. 10(a), Nov. 8, 1984,
+      98 Stat. 3379.
       Section 164, R.S. Sec. 4842; July 1, 1916, ch. 209, 39 Stat. 309;
     Reorg. Plan No. IV of 1940, Sec. 11(a), eff. June 30, 1940, 5 F.R.
     2422, 54 Stat. 1236, along with sections 162 and 163 of this title,
@@ -2367,7 +2409,7 @@
 
 
 -CITE-
-    24 USC Sec. 165a                                            02/01/2010
+    24 USC Sec. 165a                                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2390,7 +2432,7 @@
 
 
 -CITE-
-    24 USC Sec. 166                                             02/01/2010
+    24 USC Sec. 166                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2399,10 +2441,11 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Sec. 166. Repealed. Pub. L. 98-621, Sec. 10(b), Nov. 8, 1984, 98
-      Stat. 3379
+    Sec. 166. Repealed.
 
 -MISC1-
+    Sec. 166. Repealed. Pub. L. 98-621, Sec. 10(b), Nov. 8, 1984, 98
+      Stat. 3379.
       Section, acts June 5, 1920, ch. 235, 41 Stat. 920; June 6, 1972,
     Pub. L. 92-310, title II, Sec. 228(c), 86 Stat. 207, related to
     appointment and powers of deputy disbursing agent.
@@ -2417,7 +2460,7 @@
 
 
 -CITE-
-    24 USC Sec. 167                                             02/01/2010
+    24 USC Sec. 167                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2426,10 +2469,11 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Sec. 167. Repealed. Pub. L. 89-554, Sec. 8(a), Sept. 6, 1966, 80
-      Stat. 644
+    Sec. 167. Repealed.
 
 -MISC1-
+    Sec. 167. Repealed. Pub. L. 89-554, Sec. 8(a), Sept. 6, 1966, 80
+      Stat. 644.
       Section, act July 19, 1919, ch. 24, 41 Stat. 205, authorized
     Secretary of the Interior to adjust compensation of officers and
     employees of Saint Elizabeths Hospital.
@@ -2439,7 +2483,7 @@
 
 
 -CITE-
-    24 USC Sec. 168                                             02/01/2010
+    24 USC Sec. 168                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2448,10 +2492,11 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Sec. 168. Repealed. Pub. L. 98-621, Sec. 10(c), Nov. 8, 1984, 98
-      Stat. 3379
+    Sec. 168. Repealed.
 
 -MISC1-
+    Sec. 168. Repealed. Pub. L. 98-621, Sec. 10(c), Nov. 8, 1984, 98
+      Stat. 3379.
       Section, acts Mar. 6, 1920, ch. 94, 41 Stat. 513; June 10, 1921,
     ch. 18, title III, Sec. 304, 42 Stat. 24; 1940 Reorg. Plan No. IV,
     Sec. 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat. 1236; 1953
@@ -2470,7 +2515,7 @@
 
 
 -CITE-
-    24 USC Sec. 168a                                            02/01/2010
+    24 USC Sec. 168a                                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2479,10 +2524,11 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Sec. 168a. Repealed. Pub. L. 98-621, Sec. 10(d)(1), Nov. 8, 1984,
-      98 Stat. 3379
+    Sec. 168a. Repealed.
 
 -MISC1-
+    Sec. 168a. Repealed. Pub. L. 98-621, Sec. 10(d)(1), Nov. 8, 1984,
+      98 Stat. 3379.
       Section, act Aug. 4, 1947, ch. 478, Sec. 2, 61 Stat. 751; 1970
     Reorg. Plan No. 2, Sec. 102, eff. July 1, 1970, 35 F.R. 7959, 84
     Stat. 2085, related to payment by executive departments for care of
@@ -2499,7 +2545,7 @@
 
 
 -CITE-
-    24 USC Sec. 168b                                            02/01/2010
+    24 USC Sec. 168b                                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2567,7 +2613,7 @@
 
 
 -CITE-
-    24 USC Secs. 169, 169a                                      02/01/2010
+    24 USC Secs. 169, 169a                                      01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2576,10 +2622,11 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Secs. 169, 169a. Repealed. Pub. L. 98-621, Sec. 10(d)(1), Nov. 8,
-      1984, 98 Stat. 3379
+    Secs. 169, 169a. Repealed.
 
 -MISC1-
+    Secs. 169, 169a. Repealed. Pub. L. 98-621, Sec. 10(d)(1), Nov. 8,
+      1984, 98 Stat. 3379.
       Section 169, act Aug. 4, 1947, ch. 478, Sec. 3, 61 Stat. 751,
     related to disposition of money paid for care of patients at Saint
     Elizabeths Hospital. Similar provisions were contained in the
@@ -2624,7 +2671,7 @@
 
 
 -CITE-
-    24 USC Sec. 170                                             02/01/2010
+    24 USC Sec. 170                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2633,10 +2680,11 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Sec. 170. Repealed. Pub. L. 98-621, Sec. 10(a), Nov. 8, 1984, 98
-      Stat. 3379
+    Sec. 170. Repealed.
 
 -MISC1-
+    Sec. 170. Repealed. Pub. L. 98-621, Sec. 10(a), Nov. 8, 1984, 98
+      Stat. 3379.
       Section, R.S. Sec. 4858; July 1, 1916, ch. 209, 39 Stat. 309;
     1940 Reorg. Plan No. IV, Sec. 11(a), eff. June 30, 1940, 5 F.R.
     2422, 54 Stat. 1236; 1953 Reorg. Plan No. 1, Sec. 5, eff. Apr. 11,
@@ -2654,7 +2702,7 @@
 
 
 -CITE-
-    24 USC Sec. 170a                                            02/01/2010
+    24 USC Sec. 170a                                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2723,7 +2771,7 @@
 
 
 -CITE-
-    24 USC Sec. 171                                             02/01/2010
+    24 USC Sec. 171                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2732,10 +2780,11 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Sec. 171. Repealed. Pub. L. 98-621, Sec. 10(e), Nov. 8, 1984, 98
-      Stat. 3379
+    Sec. 171. Repealed.
 
 -MISC1-
+    Sec. 171. Repealed. Pub. L. 98-621, Sec. 10(e), Nov. 8, 1984, 98
+      Stat. 3379.
       Section, acts Aug. 24, 1912, ch. 355, 37 Stat. 461; July 1, 1916,
     ch. 209, 39 Stat. 309, related to determining per capita costs of
     patients at Saint Elizabeths Hospital.
@@ -2750,7 +2799,7 @@
 
 
 -CITE-
-    24 USC Sec. 172                                             02/01/2010
+    24 USC Sec. 172                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2759,10 +2808,11 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Sec. 172. Repealed. Pub. L. 98-621, Sec. 10(f)(1), Nov. 8, 1984, 98
-      Stat. 3380
+    Sec. 172. Repealed.
 
 -MISC1-
+    Sec. 172. Repealed. Pub. L. 98-621, Sec. 10(f)(1), Nov. 8, 1984, 98
+      Stat. 3380.
       Section, act Aug. 7, 1882, ch. 433, 22 Stat. 330, related to sale
     of surplus products and waste materials of Saint Elizabeths
     Hospital.
@@ -2777,7 +2827,7 @@
 
 
 -CITE-
-    24 USC Secs. 173, 174                                       02/01/2010
+    24 USC Secs. 173, 174                                       01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2786,12 +2836,13 @@
                     APPROPRIATIONS              
 
 -HEAD-
+    Secs. 173, 174. Repealed.
+
+-MISC1-
     Secs. 173, 174. Repealed. June 30, 1949, ch. 288, title VI, Sec.
       602(a)(20), (21), formerly title V, Sec. 602(a)(20), (21), 63
       Stat. 400, 401, eff. July 1, 1949; renumbered Sept. 5, 1950, ch.
-      849, Sec. 6(a), (b), 64 Stat. 583
-
--MISC1-
+      849, Sec. 6(a), (b), 64 Stat. 583.
       Section 173, act Aug. 1, 1914, ch. 223, 38 Stat. 649, related to
     sale or exchange of typewriter machines and other equipment.
       Section 174, act June 12, 1917, ch. 27, 40 Stat. 153, related to
@@ -2802,7 +2853,7 @@
 
 
 -CITE-
-    24 USC Sec. 175                                             02/01/2010
+    24 USC Sec. 175                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2811,10 +2862,11 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Sec. 175. Repealed. Pub. L. 98-621, Sec. 10(g), Nov. 8, 1984, 98
-      Stat. 3380
+    Sec. 175. Repealed.
 
 -MISC1-
+    Sec. 175. Repealed. Pub. L. 98-621, Sec. 10(g), Nov. 8, 1984, 98
+      Stat. 3380.
       Section, act Apr. 17, 1917, ch. 3, 40 Stat. 19, related to rental
     payments for system of telephones at Saint Elizabeths Hospital.
 
@@ -2828,7 +2880,7 @@
 
 
 -CITE-
-    24 USC Sec. 176                                             02/01/2010
+    24 USC Sec. 176                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2837,10 +2889,11 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Sec. 176. Repealed. Pub. L. 98-621, Sec. 10(c), Nov. 8, 1984, 98
-      Stat. 3379
+    Sec. 176. Repealed.
 
 -MISC1-
+    Sec. 176. Repealed. Pub. L. 98-621, Sec. 10(c), Nov. 8, 1984, 98
+      Stat. 3379.
       Section, acts Mar. 6, 1920, ch. 94, 41 Stat. 513; 1940 Reorg.
     Plan No. IV, Sec. 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat.
     1236; 1953 Reorg. Plan No. 1, Sec. 5, eff. Apr. 11, 1953, 18 F.R.
@@ -2858,7 +2911,7 @@
 
 
 -CITE-
-    24 USC Sec. 177                                             02/01/2010
+    24 USC Sec. 177                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2867,10 +2920,11 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Sec. 177. Repealed. Pub. L. 98-621, Sec. 10(h), Nov. 8, 1984, 98
-      Stat. 3380
+    Sec. 177. Repealed.
 
 -MISC1-
+    Sec. 177. Repealed. Pub. L. 98-621, Sec. 10(h), Nov. 8, 1984, 98
+      Stat. 3380.
       Section, acts June 30, 1906, ch. 3914, 34 Stat. 730; Feb. 2,
     1909, ch. 58, Sec. 1, 35 Stat. 592; July 1, 1916, ch. 209, 39 Stat.
     309; 1940 Reorg. Plan No. IV, Sec. 11(a), eff. June 30, 1940, 5
@@ -2890,7 +2944,7 @@
 
 
 -CITE-
-    24 USC Sec. 178                                             02/01/2010
+    24 USC Sec. 178                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2899,10 +2953,11 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Sec. 178. Repealed. Oct. 31, 1951, ch. 654, Sec. 1(46), 65 Stat.
-      703
+    Sec. 178. Repealed.
 
 -MISC1-
+    Sec. 178. Repealed. Oct. 31, 1951, ch. 654, Sec. 1(46), 65 Stat.
+      703.
       Section, act Oct. 6, 1917, ch. 79, 40 Stat. 373, related to
     revocable permit to hospital to use certain lands.
 
@@ -2911,7 +2966,7 @@
 
 
 -CITE-
-    24 USC Sec. 179                                             02/01/2010
+    24 USC Sec. 179                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2920,9 +2975,10 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Sec. 179. Repealed. Aug. 7, 1946, ch. 770, Sec. 1(59), 60 Stat. 871
+    Sec. 179. Repealed.
 
 -MISC1-
+    Sec. 179. Repealed. Aug. 7, 1946, ch. 770, Sec. 1(59), 60 Stat. 871.
       Section, acts June 4, 1880, ch. 121, 21 Stat. 156; July 1, 1916,
     ch. 209, 39 Stat. 309, related to annual report of Superintendent
     to Congress.
@@ -2937,7 +2993,7 @@
 
 
 -CITE-
-    24 USC Sec. 180                                             02/01/2010
+    24 USC Sec. 180                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2946,10 +3002,11 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Sec. 180. Repealed. Pub. L. 98-621, Sec. 10(i), Nov. 8, 1984, 98
-      Stat. 3380
+    Sec. 180. Repealed.
 
 -MISC1-
+    Sec. 180. Repealed. Pub. L. 98-621, Sec. 10(i), Nov. 8, 1984, 98
+      Stat. 3380.
       Section, acts May 9, 1941, ch. 101, 55 Stat. 186; 1953 Reorg.
     Plan No. 1, Sec. 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631;
     Oct. 17, 1979, Pub. L. 96-88, title V, Sec. 509(b), 93 Stat. 695,
@@ -2966,7 +3023,7 @@
 
 
 -CITE-
-    24 USC Secs. 181 to 184                                     02/01/2010
+    24 USC Secs. 181 to 184                                     01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -2975,10 +3032,11 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Secs. 181 to 184. Repealed. Pub. L. 98-621, Sec. 10(j), Nov. 8,
-      1984, 98 Stat. 3380
+    Secs. 181 to 184. Repealed.
 
 -MISC1-
+    Secs. 181 to 184. Repealed. Pub. L. 98-621, Sec. 10(j), Nov. 8,
+      1984, 98 Stat. 3380.
       Section 181, acts Nov. 7, 1941, ch. 469, Sec. 1, 55 Stat. 760;
     1953 Reorg. Plan No. 1, Sec. 5, eff. Apr. 11, 1953, 18 F.R. 2053,
     67 Stat. 631; Oct. 17, 1979, Pub. L. 96-88, title V, Sec. 509(b),
@@ -3008,7 +3066,7 @@
 
 
 -CITE-
-    24 USC Sec. 185                                             02/01/2010
+    24 USC Sec. 185                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3017,10 +3075,11 @@
                     APPROPRIATIONS              
 
 -HEAD-
-    Sec. 185. Repealed. Pub. L. 98-621, Sec. 10(d)(1), Nov. 8, 1984, 98
-      Stat. 3379
+    Sec. 185. Repealed.
 
 -MISC1-
+    Sec. 185. Repealed. Pub. L. 98-621, Sec. 10(d)(1), Nov. 8, 1984, 98
+      Stat. 3379.
       Section, acts Aug. 4, 1947, ch. 478, Sec. 5, 61 Stat. 751; 1953
     Reorg. Plan No. 1, Sec. 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67
     Stat. 631; Oct. 17, 1979, Pub. L. 96-88, title V, Sec. 509(b), 93
@@ -3037,7 +3096,7 @@
 
 -CITE-
     24 USC SUBCHAPTER II - INMATES; BURDEN OF EXPENSES
-           THEREOF; DETENTION OF INSANE                    02/01/2010
+           THEREOF; DETENTION OF INSANE                    01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3054,7 +3113,7 @@
 
 
 -CITE-
-    24 USC Sec. 191                                             02/01/2010
+    24 USC Sec. 191                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3063,10 +3122,11 @@
                      INSANE                    
 
 -HEAD-
-    Sec. 191. Repealed. Pub. L. 98-621, Sec. 10(a), Nov. 8, 1984, 98
-      Stat. 3379
+    Sec. 191. Repealed.
 
 -MISC1-
+    Sec. 191. Repealed. Pub. L. 98-621, Sec. 10(a), Nov. 8, 1984, 98
+      Stat. 3379.
       Section, R.S. Sec. 4843; Feb. 9, 1900, ch. 13, 31 Stat. 7; Aug.
     24, 1912, ch. 391, Sec. 3, 37 Stat. 591; Oct. 15, 1966, Pub. L. 89-
     670, Sec. 6(b), 80 Stat. 938, related to admission to Saint
@@ -3083,7 +3143,7 @@
 
 
 -CITE-
-    24 USC Sec. 191a                                            02/01/2010
+    24 USC Sec. 191a                                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3092,10 +3152,11 @@
                      INSANE                    
 
 -HEAD-
-    Sec. 191a. Repealed. Pub. L. 86-571, Sec. 10(a), July 5, 1960, 74
-      Stat. 310
+    Sec. 191a. Repealed.
 
 -MISC1-
+    Sec. 191a. Repealed. Pub. L. 86-571, Sec. 10(a), July 5, 1960, 74
+      Stat. 310.
       Section, act Oct. 29, 1941, ch. 462, 55 Stat. 756, authorized
     admission to Saint Elizabeths Hospital of Foreign Service personnel
     adjudged insane in a foreign country. See section 321 et seq. of
@@ -3112,7 +3173,7 @@
 
 
 -CITE-
-    24 USC Sec. 192                                             02/01/2010
+    24 USC Sec. 192                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3121,10 +3182,11 @@
                      INSANE                    
 
 -HEAD-
-    Sec. 192. Repealed. Pub. L. 98-621, Sec. 10(k), Nov. 8, 1984, 98
-      Stat. 3380
+    Sec. 192. Repealed.
 
 -MISC1-
+    Sec. 192. Repealed. Pub. L. 98-621, Sec. 10(k), Nov. 8, 1984, 98
+      Stat. 3380.
       Section, acts July 1, 1916, ch. 209, 39 Stat. 309; Aug. 29, 1916,
     ch. 417, 39 Stat. 558; Oct. 6, 1917, ch. 79, 40 Stat. 373, related
     to admission to Saint Elizabeths Hospital of insane prisoners of
@@ -3140,7 +3202,7 @@
 
 
 -CITE-
-    24 USC Sec. 193                                             02/01/2010
+    24 USC Sec. 193                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3149,10 +3211,11 @@
                      INSANE                    
 
 -HEAD-
-    Sec. 193. Repealed. July 1, 1944, ch. 373, title XIII, Sec. 1313,
-      58 Stat. 714
+    Sec. 193. Repealed.
 
 -MISC1-
+    Sec. 193. Repealed. July 1, 1944, ch. 373, title XIII, Sec. 1313,
+      58 Stat. 714.
       Section, acts Mar. 3, 1875, ch. 156, Sec. 5, 18 Stat. 486; July
     1, 1902, ch. 1370, Sec. 1, 32 Stat. 712; Aug. 14, 1912, ch. 288,
     Sec. 1, 37 Stat. 309; July 1, 1916, ch. 209, 39 Stat. 309; July 1,
@@ -3172,7 +3235,7 @@
 
 
 -CITE-
-    24 USC Sec. 194                                             02/01/2010
+    24 USC Sec. 194                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3181,10 +3244,11 @@
                      INSANE                    
 
 -HEAD-
-    Sec. 194. Repealed. Pub. L. 98-621, Sec. 10(l), Nov. 8, 1984, 98
-      Stat. 3380
+    Sec. 194. Repealed.
 
 -MISC1-
+    Sec. 194. Repealed. Pub. L. 98-621, Sec. 10(l), Nov. 8, 1984, 98
+      Stat. 3380.
       Section, acts July 7, 1884, ch. 332, 23 Stat. 213; July 1, 1916,
     ch. 209, 39 Stat. 309, related to admission to Saint Elizabeths
     Hospital of insane inmates of Soldiers' and Airmen's Home.
@@ -3199,7 +3263,7 @@
 
 
 -CITE-
-    24 USC Sec. 195                                             02/01/2010
+    24 USC Sec. 195                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3208,10 +3272,11 @@
                      INSANE                    
 
 -HEAD-
-    Sec. 195. Repealed. Pub. L. 98-621, Sec. 10(f)(2), Nov. 8, 1984, 98
-      Stat. 3380
+    Sec. 195. Repealed.
 
 -MISC1-
+    Sec. 195. Repealed. Pub. L. 98-621, Sec. 10(f)(2), Nov. 8, 1984, 98
+      Stat. 3380.
       Section, acts Aug. 7, 1882, ch. 433, 22 Stat. 330; Feb. 20, 1905,
     ch. 593, 33 Stat. 731; July 1, 1916, ch. 209, 39 Stat. 309; July 3,
     1930, ch. 863, Sec. 2, 46 Stat. 1016, related to admission to Saint
@@ -3228,7 +3293,7 @@
 
 
 -CITE-
-    24 USC Sec. 195a                                            02/01/2010
+    24 USC Sec. 195a                                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3237,10 +3302,11 @@
                      INSANE                    
 
 -HEAD-
-    Sec. 195a. Repealed. Pub. L. 98-621, Sec. 10(d)(1), Nov. 8, 1984,
-      98 Stat. 3379
+    Sec. 195a. Repealed.
 
 -MISC1-
+    Sec. 195a. Repealed. Pub. L. 98-621, Sec. 10(d)(1), Nov. 8, 1984,
+      98 Stat. 3379.
       Section, acts Aug. 4, 1947, ch. 478, Sec. 1, 61 Stat. 751; 1953
     Reorg. Plan No. 1, Sec. 5, eff. Apr. 11, 1953, 18 F.R. 2053, 67
     Stat. 631; Oct. 17, 1979, Pub. L. 96-88, title V, Sec. 509(b), 93
@@ -3257,7 +3323,7 @@
 
 
 -CITE-
-    24 USC Sec. 196                                             02/01/2010
+    24 USC Sec. 196                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3266,10 +3332,11 @@
                      INSANE                    
 
 -HEAD-
-    Sec. 196. Repealed. Pub. L. 98-621, Sec. 10(m), Nov. 8, 1984, 98
-      Stat. 3380
+    Sec. 196. Repealed.
 
 -MISC1-
+    Sec. 196. Repealed. Pub. L. 98-621, Sec. 10(m), Nov. 8, 1984, 98
+      Stat. 3380.
       Section, acts June 12, 1917, ch. 27, 40 Stat. 179; 1940 Reorg.
     Plan No. IV, Sec. 11(a), eff. June 30, 1940, 5 F.R. 2422, 54 Stat.
     1236; 1953 Reorg. Plan No. 1, Sec. 5, eff. Apr. 11, 1953, 18 F.R.
@@ -3288,7 +3355,7 @@
 
 
 -CITE-
-    24 USC Sec. 196a                                            02/01/2010
+    24 USC Sec. 196a                                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3297,10 +3364,11 @@
                      INSANE                    
 
 -HEAD-
-    Sec. 196a. Repealed. Pub. L. 86-571, Sec. 10(b), July 5, 1960, 74
-      Stat. 310
+    Sec. 196a. Repealed.
 
 -MISC1-
+    Sec. 196a. Repealed. Pub. L. 86-571, Sec. 10(b), July 5, 1960, 74
+      Stat. 310.
       Section, acts Mar. 2, 1929, ch. 509, 45 Stat. 1495; June 25,
     1936, ch. 804, 49 Stat. 1921, authorized transfer to Saint
     Elizabeths Hospital of American citizens adjudged insane in Canada.
@@ -3317,7 +3385,7 @@
 
 
 -CITE-
-    24 USC Sec. 196b                                            02/01/2010
+    24 USC Sec. 196b                                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3326,10 +3394,11 @@
                      INSANE                    
 
 -HEAD-
-    Sec. 196b. Repealed. Pub. L. 98-621, Sec. 10(n), Nov. 8, 1984, 98
-      Stat. 3380
+    Sec. 196b. Repealed.
 
 -MISC1-
+    Sec. 196b. Repealed. Pub. L. 98-621, Sec. 10(n), Nov. 8, 1984, 98
+      Stat. 3380.
       Section, acts July 18, 1940, ch. 638, 54 Stat. 766; July 18,
     1950, ch. 464, Sec. 1, 64 Stat. 343; 1953 Reorg. Plan No. 1, Sec.
     5, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Oct. 17, 1979,
@@ -3347,7 +3416,7 @@
 
 
 -CITE-
-    24 USC Sec. 197                                             02/01/2010
+    24 USC Sec. 197                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3356,10 +3425,11 @@
                      INSANE                    
 
 -HEAD-
-    Sec. 197. Repealed. Pub. L. 98-621, Sec. 10(o), Nov. 8, 1984, 98
-      Stat. 3380
+    Sec. 197. Repealed.
 
 -MISC1-
+    Sec. 197. Repealed. Pub. L. 98-621, Sec. 10(o), Nov. 8, 1984, 98
+      Stat. 3380.
       Section, acts Mar. 3, 1901, ch. 853, 31 Stat. 1163; July 1, 1916,
     ch. 209, 39 Stat. 309; Sept. 2, 1958, Pub. L. 85-857, Sec. 13(b),
     72 Stat. 1264, related to contracts for care, maintenance, and
@@ -3375,7 +3445,7 @@
 
 
 -CITE-
-    24 USC Sec. 198                                             02/01/2010
+    24 USC Sec. 198                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3384,10 +3454,11 @@
                      INSANE                    
 
 -HEAD-
-    Sec. 198. Repealed. Pub. L. 98-621, Sec. 10(p), Nov. 8, 1984, 98
-      Stat. 3381
+    Sec. 198. Repealed.
 
 -MISC1-
+    Sec. 198. Repealed. Pub. L. 98-621, Sec. 10(p), Nov. 8, 1984, 98
+      Stat. 3381.
       Section, acts May 11, 1908, ch. 163, 35 Stat. 122; July 1, 1916,
     ch. 209, 39 Stat. 309, related to care of insane natives of
     Philippine Islands serving in Army.
@@ -3402,7 +3473,7 @@
 
 
 -CITE-
-    24 USC Secs. 199, 200                                       02/01/2010
+    24 USC Secs. 199, 200                                       01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3411,10 +3482,11 @@
                      INSANE                    
 
 -HEAD-
-    Secs. 199, 200. Repealed. Pub. L. 98-621, Sec. 10(k)(2), Nov. 8,
-      1984, 98 Stat. 3380
+    Secs. 199, 200. Repealed.
 
 -MISC1-
+    Secs. 199, 200. Repealed. Pub. L. 98-621, Sec. 10(k)(2), Nov. 8,
+      1984, 98 Stat. 3380.
       Section 199, act Oct. 6, 1917, ch. 79, 40 Stat. 373, related to
     transfer of insane patients from military hospitals to nearest
     public hospitals.
@@ -3436,7 +3508,7 @@
 
 
 -CITE-
-    24 USC Sec. 201                                             02/01/2010
+    24 USC Sec. 201                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3445,10 +3517,11 @@
                      INSANE                    
 
 -HEAD-
-    Sec. 201. Repealed. Pub. L. 98-621, Sec. 10(a), Nov. 8, 1984, 98
-      Stat. 3379
+    Sec. 201. Repealed.
 
 -MISC1-
+    Sec. 201. Repealed. Pub. L. 98-621, Sec. 10(a), Nov. 8, 1984, 98
+      Stat. 3379.
       Section, R.S. Sec. 4844; act July 1, 1916, ch. 209, 39 Stat. 309,
     provided for admission of indigent insane persons of the District
     of Columbia.
@@ -3463,7 +3536,7 @@
 
 
 -CITE-
-    24 USC Sec. 202                                             02/01/2010
+    24 USC Sec. 202                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3472,10 +3545,11 @@
                      INSANE                    
 
 -HEAD-
-    Sec. 202. Repealed. Pub. L. 98-621, Sec. 10(u), Nov. 8, 1984, 98
-      Stat. 3381
+    Sec. 202. Repealed.
 
 -MISC1-
+    Sec. 202. Repealed. Pub. L. 98-621, Sec. 10(u), Nov. 8, 1984, 98
+      Stat. 3381.
       Section, acts Mar. 3, 1877, ch. 105, 19 Stat. 347; July 1, 1916,
     ch. 209, 39 Stat. 309, related to expense of indigent insane
     admitted from District of Columbia.
@@ -3490,7 +3564,7 @@
 
 
 -CITE-
-    24 USC Sec. 203                                             02/01/2010
+    24 USC Sec. 203                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3499,10 +3573,11 @@
                      INSANE                    
 
 -HEAD-
-    Sec. 203. Repealed. Pub. L. 98-621, Sec. 10(v), Nov. 8, 1984, 98
-      Stat. 3381
+    Sec. 203. Repealed.
 
 -MISC1-
+    Sec. 203. Repealed. Pub. L. 98-621, Sec. 10(v), Nov. 8, 1984, 98
+      Stat. 3381.
       Section, acts Mar. 3, 1879, ch. 182, 20 Stat. 395; July 1, 1916,
     ch. 209, 39 Stat. 309, related to payment of part of expense from
     appropriations for District of Columbia.
@@ -3517,7 +3592,7 @@
 
 
 -CITE-
-    24 USC Sec. 204                                             02/01/2010
+    24 USC Sec. 204                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3526,10 +3601,11 @@
                      INSANE                    
 
 -HEAD-
-    Sec. 204. Repealed. Pub. L. 98-621, Sec. 10(a), Nov. 8, 1984, 98
-      Stat. 3379
+    Sec. 204. Repealed.
 
 -MISC1-
+    Sec. 204. Repealed. Pub. L. 98-621, Sec. 10(a), Nov. 8, 1984, 98
+      Stat. 3379.
       Section, R.S. Secs. 4853, 4854; act July 1, 1916, ch. 209, 39
     Stat. 309, related to private patients from the District of
     Columbia.
@@ -3544,7 +3620,7 @@
 
 
 -CITE-
-    24 USC Sec. 205                                             02/01/2010
+    24 USC Sec. 205                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3553,10 +3629,11 @@
                      INSANE                    
 
 -HEAD-
-    Sec. 205. Repealed. Pub. L. 88-597, Sec. 19(d), Sept. 15, 1964, 78
-      Stat. 953
+    Sec. 205. Repealed.
 
 -MISC1-
+    Sec. 205. Repealed. Pub. L. 88-597, Sec. 19(d), Sept. 15, 1964, 78
+      Stat. 953.
       Section, R.S. Sec. 4849; act July 1, 1916, ch. 209, 39 Stat. 309,
     related to insane persons from District of Columbia having
     property. Prior to repeal, section was set out as D.C. Code, Sec.
@@ -3567,7 +3644,7 @@
 
 
 -CITE-
-    24 USC Sec. 206                                             02/01/2010
+    24 USC Sec. 206                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3576,10 +3653,11 @@
                      INSANE                    
 
 -HEAD-
-    Sec. 206. Repealed. Pub. L. 98-621, Sec. 10(a), Nov. 8, 1984, 98
-      Stat. 3379
+    Sec. 206. Repealed.
 
 -MISC1-
+    Sec. 206. Repealed. Pub. L. 98-621, Sec. 10(a), Nov. 8, 1984, 98
+      Stat. 3379.
       Section, R.S. Sec. 4850, related to admission of nonresidents of
     District of Columbia.
 
@@ -3593,7 +3671,7 @@
 
 
 -CITE-
-    24 USC Sec. 207                                             02/01/2010
+    24 USC Sec. 207                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3621,7 +3699,7 @@
 
 
 -CITE-
-    24 USC Secs. 208 to 210h                                    02/01/2010
+    24 USC Secs. 208 to 210h                                    01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3630,10 +3708,11 @@
                      INSANE                    
 
 -HEAD-
-    Secs. 208 to 210h. Repealed. Pub. L. 89-183, Sec. 8, Sept. 14,
-      1965, 79 Stat. 784, 785, 787
+    Secs. 208 to 210h. Repealed.
 
 -MISC1-
+    Secs. 208 to 210h. Repealed. Pub. L. 89-183, Sec. 8, Sept. 14,
+      1965, 79 Stat. 784, 785, 787.
       Section 208, acts Mar. 3, 1903, ch. 1006, 32 Stat. 1043; Feb. 23,
     1905, ch. 738, Sec. 1, 33 Stat. 740, related to proceedings to
     determine mental conditions of insane persons in the District of
@@ -3677,7 +3756,7 @@
 
 
 -CITE-
-    24 USC Secs. 211 to 211b                                    02/01/2010
+    24 USC Secs. 211 to 211b                                    01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3686,10 +3765,11 @@
                      INSANE                    
 
 -HEAD-
-    Secs. 211 to 211b. Repealed. Pub. L. 98-621, Sec. 10(a), Nov. 8,
-      1984, 98 Stat. 3379
+    Secs. 211 to 211b. Repealed.
 
 -MISC1-
+    Secs. 211 to 211b. Repealed. Pub. L. 98-621, Sec. 10(a), Nov. 8,
+      1984, 98 Stat. 3379.
       Section 211, R.S. Sec. 4851; July 1, 1916, ch. 209, 39 Stat. 309;
     1940 Reorg. Plan No. IV, Sec. 11(a), eff. June 30, 1940, 5 F.R.
     2422, 54 Stat. 1236; 1953 Reorg. Plan No. 1, Sec. 5, eff. Apr. 11,
@@ -3714,7 +3794,7 @@
 
 
 -CITE-
-    24 USC Secs. 212 to 214                                     02/01/2010
+    24 USC Secs. 212 to 214                                     01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3723,10 +3803,11 @@
                      INSANE                    
 
 -HEAD-
-    Secs. 212 to 214. Repealed. Pub. L. 98-621, Sec. 10(q), Nov. 8,
-      1984, 98 Stat. 3381
+    Secs. 212 to 214. Repealed.
 
 -MISC1-
+    Secs. 212 to 214. Repealed. Pub. L. 98-621, Sec. 10(q), Nov. 8,
+      1984, 98 Stat. 3381.
       Section 212, acts June 23, 1874, ch. 465, Sec. 1, 18 Stat. 251;
     Aug. 7, 1882, ch. 433, 22 Stat. 330; July 1, 1916, ch. 209, 39
     Stat. 309; 1940 Reorg. Plan No. IV, Sec. 11(a), eff. June 30, 1940,
@@ -3751,7 +3832,7 @@
 
 
 -CITE-
-    24 USC Secs. 215 to 220                                     02/01/2010
+    24 USC Secs. 215 to 220                                     01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3760,10 +3841,11 @@
                      INSANE                    
 
 -HEAD-
-    Secs. 215 to 220. Repealed. Pub. L. 88-597, Sec. 19(c), Sept. 15,
-      1964, 78 Stat. 953
+    Secs. 215 to 220. Repealed.
 
 -MISC1-
+    Secs. 215 to 220. Repealed. Pub. L. 88-597, Sec. 19(c), Sept. 15,
+      1964, 78 Stat. 953.
       Section 215, act Apr. 27, 1904, ch. 1618, Sec. 1, 33 Stat. 316,
     related to apprehension and detention of certain insane persons in
     District of Columbia.
@@ -3789,7 +3871,7 @@
 
 
 -CITE-
-    24 USC Secs. 221, 222                                       02/01/2010
+    24 USC Secs. 221, 222                                       01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3798,10 +3880,11 @@
                      INSANE                    
 
 -HEAD-
-    Secs. 221, 222. Repealed. Pub. L. 98-621, Sec. 10(a), Nov. 8, 1984,
-      98 Stat. 3379
+    Secs. 221, 222. Repealed.
 
 -MISC1-
+    Secs. 221, 222. Repealed. Pub. L. 98-621, Sec. 10(a), Nov. 8, 1984,
+      98 Stat. 3379.
       Section 221, R.S. Sec. 4856; June 25, 1936, ch. 804, 49 Stat.
     1921; June 25, 1948, ch. 646, Sec. 32(b), 62 Stat. 991; May 24,
     1949, ch. 139, Sec. 127, 63 Stat. 107, related to discharge of
@@ -3820,7 +3903,7 @@
 
 -CITE-
     24 USC SUBCHAPTER III - MENTAL HEALTH SERVICE FOR
-           DISTRICT OF COLUMBIA                            02/01/2010
+           DISTRICT OF COLUMBIA                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -3835,7 +3918,7 @@
 
 
 -CITE-
-    24 USC Sec. 225                                             02/01/2010
+    24 USC Sec. 225                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -4009,7 +4092,7 @@
 
 
 -CITE-
-    24 USC Sec. 225a                                            02/01/2010
+    24 USC Sec. 225a                                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -4049,7 +4132,7 @@
 
 
 -CITE-
-    24 USC Sec. 225b                                            02/01/2010
+    24 USC Sec. 225b                                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -4328,7 +4411,7 @@
 
 
 -CITE-
-    24 USC Sec. 225c                                            02/01/2010
+    24 USC Sec. 225c                                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -4390,7 +4473,7 @@
 
 
 -CITE-
-    24 USC Sec. 225d                                            02/01/2010
+    24 USC Sec. 225d                                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -4509,7 +4592,7 @@
 
 
 -CITE-
-    24 USC Sec. 225e                                            02/01/2010
+    24 USC Sec. 225e                                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -4615,7 +4698,7 @@
 
 
 -CITE-
-    24 USC Sec. 225f                                            02/01/2010
+    24 USC Sec. 225f                                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -4720,7 +4803,7 @@
 
 
 -CITE-
-    24 USC Sec. 225g                                            02/01/2010
+    24 USC Sec. 225g                                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -4840,7 +4923,7 @@
 
 
 -CITE-
-    24 USC Sec. 225h                                            02/01/2010
+    24 USC Sec. 225h                                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -4853,8 +4936,8 @@
 -STATUTE-
     (a) Applicability
       The Mayor shall insure that the requirements of the Buy American
-    Act of 1933, as amended [41 U.S.C. 10a et seq.], apply to all
-    procurements made under this subchapter.
+    Act of 1933, as amended, apply to all procurements made under this
+    subchapter.
     (b) Determination by Mayor
       (1) If the Mayor, after consultation with the United States Trade
     Representative, determines that a foreign country which is party to
@@ -4862,8 +4945,8 @@
     the agreement by discriminating against certain types of products
     produced in the United States that are covered by the agreement,
     the United States Trade Representative shall rescind the waiver of
-    the Buy American Act [41 U.S.C. 10a et seq.] with respect to such
-    types of products produced in that foreign country.
+    the Buy American Act with respect to such types of products
+    produced in that foreign country.
       (2) An agreement referred to in paragraph (1) is any
     agreement,(!1) between the United States and a foreign country
     pursuant to which the head of an agency of the United States
@@ -4875,16 +4958,17 @@
     purchases from foreign entities under this subchapter from foreign
     entities in fiscal years 1992 and 1993. Such report shall
     separately indicate the dollar value of items for which the Buy
-    American Act [41 U.S.C. 10a et seq.] was waived pursuant to any
-    agreement described in subsection (a)(2) of this section, the Trade
-    Agreement Act of 1979 (19 U.S.C. 2501 et seq.), or any
-    international agreement to which the United States is a party.
+    American Act was waived pursuant to any agreement described in
+    subsection (a)(2) of this section, the Trade Agreement Act of 1979
+    (19 U.S.C. 2501 et seq.), or any international agreement to which
+    the United States is a party.
     (d) "Buy American Act" defined
       For purposes of this section, the term "Buy American Act" means
     title III of the Act entitled "An Act making appropriations for the
     Treasury and Post Office Departments for the fiscal year ending
     June 30, 1934, and for other purposes", approved March 3, 1933 (41
-    U.S.C. 10a et seq.).
+    U.S.C. 10a et seq.) (!2).
+
     (e) Restrictions on contract awards
       No contract or subcontract made with funds authorized under this
     subchapter (!2) may be awarded for the procurement of an article,
@@ -4896,7 +4980,6 @@
     President pursuant to (!3) (g)(1)(A) of section 305 of the Trade
     Agreements Act of 1979 (19 U.S.C. 2515(g)(1)(A)). Any such
     determination shall be made in accordance with section 305.
-
 
     (f) Prohibition against fraudulent use of "Made in America" labels
       If it has been finally determined by a court or Federal agency
@@ -4914,13 +4997,19 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
-      The Buy American Act of 1933, and the Buy American Act, referred
-    to in subsecs. (a) to (d), is title III of act Mar. 3, 1933, ch.
-    212, 47 Stat. 1520, as amended, known as the Buy American Act,
-    which is classified generally to sections 10a, 10b, and 10c of
-    Title 41, Public Contracts. For complete classification of this Act
-    to the Code, see Short Title note set out under section 10a of
-    Title 41 and Tables.
+      Title III of the Act entitled "An Act making appropriations for
+    the Treasury and Post Office Departments for the fiscal year ending
+    June 30, 1934, and for other purposes", approved March 3, 1933,
+    referred to in subsec. (d), is title III of act Mar. 3, 1933, ch.
+    212, 47 Stat. 1520, known as the Buy American Act, which was
+    classified generally to sections 10a, 10b, and 10c of former Title
+    41, Public Contracts, and was substantially repealed and restated
+    in chapter 83 (Sec. 8301 et seq.) of Title 41, Public Contracts, by
+    Pub. L. 111-350, Secs. 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855.
+    For complete classification of title III to the Code, see Short
+    Title of 1933 Act note set out under section 101 of Title 41 and
+    Tables. For disposition of sections of former Title 41, see
+    Disposition Table preceding section 101 of Title 41.
       The Trade Agreement Act of 1979, referred to in subsec. (c),
     probably means the Trade Agreements Act of 1979, Pub. L. 96-39,
     July 26, 1979, 93 Stat. 144, as amended. For complete
@@ -4945,7 +5034,7 @@
 
 
 -CITE-
-    24 USC CHAPTER 5 - COLUMBIA INSTITUTION FOR THE DEAF        02/01/2010
+    24 USC CHAPTER 5 - COLUMBIA INSTITUTION FOR THE DEAF        01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -4959,7 +5048,7 @@
 
 
 -CITE-
-    24 USC Secs. 231 to 250                                     02/01/2010
+    24 USC Secs. 231 to 250                                     01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -4985,7 +5074,7 @@
 
 
 -CITE-
-    24 USC CHAPTER 6 - FREEDMEN'S HOSPITAL                      02/01/2010
+    24 USC CHAPTER 6 - FREEDMEN'S HOSPITAL                      01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -4999,7 +5088,7 @@
 
 
 -CITE-
-    24 USC Secs. 261 to 264                                     02/01/2010
+    24 USC Secs. 261 to 264                                     01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -5037,7 +5126,7 @@
 
 
 -CITE-
-    24 USC CHAPTER 7 - NATIONAL CEMETERIES                      02/01/2010
+    24 USC CHAPTER 7 - NATIONAL CEMETERIES                      01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -5157,17 +5246,18 @@
 
 
 -CITE-
-    24 USC Secs. 271 to 276                                     02/01/2010
+    24 USC Secs. 271 to 276                                     01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 7 - NATIONAL CEMETERIES
 
 -HEAD-
-    Secs. 271 to 276. Repealed. Pub. L. 93-43, Sec. 7(a)(1)-(3), (61),
-      June 18, 1973, 87 Stat. 82, 88
+    Secs. 271 to 276. Repealed.
 
 -MISC1-
+    Secs. 271 to 276. Repealed. Pub. L. 93-43, Sec. 7(a)(1)-(3), (61),
+      June 18, 1973, 87 Stat. 82, 88.
       Section 271, R.S. Sec. 4870, provided for manner of acquisition
     of lands.
       Section 271a, act June 29, 1938, ch. 808, 52 Stat. 1233, related
@@ -5246,17 +5336,18 @@
 
 
 -CITE-
-    24 USC Sec. 277                                             02/01/2010
+    24 USC Sec. 277                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 7 - NATIONAL CEMETERIES
 
 -HEAD-
-    Sec. 277. Repealed. Pub. L. 89-554, Sec. 8(a), Sept. 6, 1966, 80
-      Stat. 646
+    Sec. 277. Repealed.
 
 -MISC1-
+    Sec. 277. Repealed. Pub. L. 89-554, Sec. 8(a), Sept. 6, 1966, 80
+      Stat. 646.
       Section, acts Feb. 12, 1925, ch. 225, title II, 43 Stat. 926;
     Apr. 15, 1926, ch. 146, title II, 44 Stat. 288, provided for
     appointment and pay of a superintendent of Antietam Battlefield.
@@ -5266,17 +5357,18 @@
 
 
 -CITE-
-    24 USC Secs. 278 to 279d                                    02/01/2010
+    24 USC Secs. 278 to 279d                                    01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 7 - NATIONAL CEMETERIES
 
 -HEAD-
-    Secs. 278 to 279d. Repealed. Pub. L. 93-43, Sec. 7(a)(1), (4), (5),
-      (7), June 18, 1973, 87 Stat. 82
+    Secs. 278 to 279d. Repealed.
 
 -MISC1-
+    Secs. 278 to 279d. Repealed. Pub. L. 93-43, Sec. 7(a)(1), (4), (5),
+      (7), June 18, 1973, 87 Stat. 82.
       Section 278, acts July 24, 1876, ch. 226, Sec. 1, 19 Stat. 99;
     June 10, 1921, ch. 18, Secs. 206, 215, 42 Stat. 21, 23; Sept. 12,
     1950, ch. 946, title III, Sec. 301(96), 64 Stat. 844, provided for
@@ -5324,17 +5416,18 @@
 
 
 -CITE-
-    24 USC Secs. 280 to 280b                                    02/01/2010
+    24 USC Secs. 280 to 280b                                    01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 7 - NATIONAL CEMETERIES
 
 -HEAD-
-    Secs. 280 to 280b. Repealed. July 1, 1948, ch. 791, Sec. 4, 62
-      Stat. 1216
+    Secs. 280 to 280b. Repealed.
 
 -MISC1-
+    Secs. 280 to 280b. Repealed. July 1, 1948, ch. 791, Sec. 4, 62
+      Stat. 1216.
       Section 280, act Feb. 3, 1879, ch. 44, 20 Stat. 281, related to
     headstones in private cemeteries. See sections 2306 and 2400 et
     seq. of Title 38, Veterans' Benefits.
@@ -5350,17 +5443,18 @@
 
 
 -CITE-
-    24 USC Secs. 281 to 282                                     02/01/2010
+    24 USC Secs. 281 to 282                                     01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 7 - NATIONAL CEMETERIES
 
 -HEAD-
-    Secs. 281 to 282. Repealed. Pub. L. 93-43, Sec. 7(a)(6), (8), (10)-
-      (12), (60), June 18, 1973, 87 Stat. 82, 88
+    Secs. 281 to 282. Repealed.
 
 -MISC1-
+    Secs. 281 to 282. Repealed. Pub. L. 93-43, Sec. 7(a)(6), (8), (10)-
+      (12), (60), June 18, 1973, 87 Stat. 82, 88.
       Section 281, acts May 14, 1948, ch. 289, Sec. 1, 62 Stat. 234;
     Sept. 14, 1959, Pub. L. 86-260, 73 Stat. 547, enumerated classes of
     persons eligible for burial in national cemeteries and provided for
@@ -5413,7 +5507,7 @@
 
 
 -CITE-
-    24 USC Secs. 283 to 285                                     02/01/2010
+    24 USC Secs. 283 to 285                                     01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -5442,17 +5536,18 @@
 
 
 -CITE-
-    24 USC Secs. 286 to 290                                     02/01/2010
+    24 USC Secs. 286 to 290                                     01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 7 - NATIONAL CEMETERIES
 
 -HEAD-
-    Secs. 286 to 290. Repealed. Pub. L. 93-43, Sec. 7(a)(1), (13)-(18),
-      (42), (44)-(46), June 18, 1973, 87 Stat. 82, 83, 85
+    Secs. 286 to 290. Repealed.
 
 -MISC1-
+    Secs. 286 to 290. Repealed. Pub. L. 93-43, Sec. 7(a)(1), (13)-(18),
+      (42), (44)-(46), June 18, 1973, 87 Stat. 82, 83, 85.
       Section 286, R.S. Sec. 4881; act Mar. 3, 1911, ch. 231, Sec. 291,
     36 Stat. 1167, provided penalty for defacing cemeteries. See
     section 901 of Title 38, Veterans' Benefits.
@@ -5541,17 +5636,18 @@
 
 
 -CITE-
-    24 USC Secs. 291 to 295                                     02/01/2010
+    24 USC Secs. 291 to 295                                     01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 7 - NATIONAL CEMETERIES
 
 -HEAD-
-    Secs. 291 to 295. Repealed. Pub. L. 86-694, Sec. 2, Sept. 2, 1960,
-      74 Stat. 739
+    Secs. 291 to 295. Repealed.
 
 -MISC1-
+    Secs. 291 to 295. Repealed. Pub. L. 86-694, Sec. 2, Sept. 2, 1960,
+      74 Stat. 739.
       Section 291, act Mar. 4, 1921, ch. 169, Sec. 1, 41 Stat. 1440,
     established a commission to make recommendations for memorials and
     entombments for Arlington Memorial Amphitheater.
@@ -5571,7 +5667,7 @@
 
 
 -CITE-
-    24 USC Sec. 295a                                            02/01/2010
+    24 USC Sec. 295a                                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -5621,17 +5717,18 @@
 
 
 -CITE-
-    24 USC Sec. 296                                             02/01/2010
+    24 USC Sec. 296                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 7 - NATIONAL CEMETERIES
 
 -HEAD-
-    Sec. 296. Repealed. Pub. L. 93-43, Sec. 7(a)(9), June 18, 1973, 87
-      Stat. 82
+    Sec. 296. Repealed.
 
 -MISC1-
+    Sec. 296. Repealed. Pub. L. 93-43, Sec. 7(a)(9), June 18, 1973, 87
+      Stat. 82.
       Section, act July 1, 1947, ch. 187, 61 Stat. 234, related to
     preservation of historic graveyards in abandoned military posts and
     conveyance to grantees. See section 2405(b) of Title 38, Veterans'
@@ -5656,7 +5753,7 @@
 
 
 -CITE-
-    24 USC CHAPTER 7A - PRIVATE AND COMMERCIAL CEMETERIES       02/01/2010
+    24 USC CHAPTER 7A - PRIVATE AND COMMERCIAL CEMETERIES       01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -5670,17 +5767,18 @@
 
 
 -CITE-
-    24 USC Sec. 298                                             02/01/2010
+    24 USC Sec. 298                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
     CHAPTER 7A - PRIVATE AND COMMERCIAL CEMETERIES
 
 -HEAD-
-    Sec. 298. Repealed. Oct. 31, 1951, ch. 654, Sec. 1(47), 65 Stat.
-      703
+    Sec. 298. Repealed.
 
 -MISC1-
+    Sec. 298. Repealed. Oct. 31, 1951, ch. 654, Sec. 1(47), 65 Stat.
+      703.
       Section, act June 20, 1939, ch. 220, 53 Stat. 843, related to
     disposal, by Secretary of War, of government lots in commercial
     cemeteries.
@@ -5689,7 +5787,7 @@
 
 
 -CITE-
-    24 USC CHAPTER 8 - GORGAS HOSPITAL                          02/01/2010
+    24 USC CHAPTER 8 - GORGAS HOSPITAL                          01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -5709,7 +5807,7 @@
 
 
 -CITE-
-    24 USC Sec. 301                                             02/01/2010
+    24 USC Sec. 301                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -5739,7 +5837,7 @@
 
 
 -CITE-
-    24 USC Sec. 302                                             02/01/2010
+    24 USC Sec. 302                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -5766,7 +5864,7 @@
 
 -CITE-
     24 USC CHAPTER 9 - HOSPITALIZATION OF MENTALLY ILL
-           NATIONALS RETURNED FROM FOREIGN COUNTRIES       02/01/2010
+           NATIONALS RETURNED FROM FOREIGN COUNTRIES       01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -5798,7 +5896,7 @@
 
 
 -CITE-
-    24 USC Sec. 321                                             02/01/2010
+    24 USC Sec. 321                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -5862,7 +5960,7 @@
 
 
 -CITE-
-    24 USC Sec. 322                                             02/01/2010
+    24 USC Sec. 322                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -5886,7 +5984,7 @@
     providing such care and treatment and assistance, the Secretary is
     authorized to enter into suitable arrangements with appropriate
     State or other public or nonprofit agencies. Such arrangements
-    shall be made without regard to section 5 of title 41, and may
+    shall be made without regard to section 6101 of title 41, and may
     provide for payment by the Secretary either in advance or by way of
     reimbursement.
     (b) Payment or reimbursement for care, treatment, or assistance
@@ -5902,6 +6000,13 @@
     (Pub. L. 86-571, Sec. 2, July 5, 1960, 74 Stat. 308; Pub. L. 96-88,
     title V, Sec. 509(b), Oct. 17, 1979, 93 Stat. 695.)
 
+-COD-
+                               CODIFICATION                           
+      In subsec. (a), "section 6101 of title 41" substituted for
+    "section 3709 of the Revised Statutes, as amended (41 U.S.C. 5)" on
+    authority of Pub. L. 111-350, Sec. 6(c), Jan. 4, 2011, 124 Stat.
+    3854, which Act enacted Title 41, Public Contracts.
+
 -CHANGE-
                               CHANGE OF NAME                          
       "Secretary of Health and Human Services" substituted in text for
@@ -5914,7 +6019,7 @@
 
 
 -CITE-
-    24 USC Sec. 323                                             02/01/2010
+    24 USC Sec. 323                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -5956,7 +6061,7 @@
 
 
 -CITE-
-    24 USC Sec. 324                                             02/01/2010
+    24 USC Sec. 324                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -5973,13 +6078,13 @@
     section 323 of this title, the Secretary is authorized to provide
     care and treatment for such person at any Federal hospital within
     or (pursuant to agreement) outside of the Department, or (under
-    contract or other arrangements made without regard to section 5 of
-    title 41) at any other public or private hospital in any State and,
-    for such purposes, to transfer such person to any such hospital
-    from a place of temporary care provided pursuant to section 322 of
-    this title. In determining the place of such hospitalization, the
-    Secretary shall give due weight to the best interests of the
-    patient.
+    contract or other arrangements made without regard to section 6101
+    of title 41) at any other public or private hospital in any State
+    and, for such purposes, to transfer such person to any such
+    hospital from a place of temporary care provided pursuant to
+    section 322 of this title. In determining the place of such
+    hospitalization, the Secretary shall give due weight to the best
+    interests of the patient.
     (b) Ineligible persons
       The authority of the Secretary to provide hospitalization for any
     person under this section shall not apply to any person for whose
@@ -5989,6 +6094,13 @@
 -SOURCE-
     (Pub. L. 86-571, Sec. 4, July 5, 1960, 74 Stat. 309; Pub. L. 98-
     621, Sec. 10(r), Nov. 8, 1984, 98 Stat. 3381.)
+
+-COD-
+                               CODIFICATION                           
+      In subsec. (a), "section 6101 of title 41" substituted for
+    "section 3709 of the Revised Statutes, as amended" on authority of
+    Pub. L. 111-350, Sec. 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act
+    enacted Title 41, Public Contracts.
 
 
 -MISC1-
@@ -6007,7 +6119,7 @@
 
 
 -CITE-
-    24 USC Sec. 325                                             02/01/2010
+    24 USC Sec. 325                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -6044,7 +6156,7 @@
 
 
 -CITE-
-    24 USC Sec. 326                                             02/01/2010
+    24 USC Sec. 326                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -6086,7 +6198,7 @@
 
 
 -CITE-
-    24 USC Sec. 327                                             02/01/2010
+    24 USC Sec. 327                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -6113,7 +6225,7 @@
 
 
 -CITE-
-    24 USC Sec. 328                                             02/01/2010
+    24 USC Sec. 328                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -6171,7 +6283,7 @@
 
 
 -CITE-
-    24 USC Sec. 329                                             02/01/2010
+    24 USC Sec. 329                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -6198,7 +6310,7 @@
 
 
 -CITE-
-    24 USC CHAPTER 10 - ARMED FORCES RETIREMENT HOME            02/01/2010
+    24 USC CHAPTER 10 - ARMED FORCES RETIREMENT HOME            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -6245,7 +6357,7 @@
 
 
 -CITE-
-    24 USC Sec. 401                                             02/01/2010
+    24 USC Sec. 401                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -6266,15 +6378,16 @@
         (3) The terms "Armed Forces Retirement Home Trust Fund" and
       "Fund" mean the Armed Forces Retirement Home Trust Fund
       established under section 419(a) of this title.
-        (4) The term "Armed Forces" does not include the Coast Guard
-      when it is not operating as a service in the Navy.
+        (4) Repealed. Pub. L. 111-281, title II, Sec. 205(a)(1), Oct.
+      15, 2010, 124 Stat. 2911.
         (5) The term "chief personnel officers" means - 
           (A) the Deputy Chief of Staff for Personnel of the Army;
           (B) the Chief of Naval Personnel;
           (C) the Deputy Chief of Staff for Personnel of the Air Force;
-        and
           (D) the Deputy Commandant of the Marine Corps for Manpower
-        and Reserve Affairs.
+        and Reserve Affairs; and
+          (E) the Assistant Commandant of the Coast Guard for Human
+        Resources.
 
         (6) The term "senior noncommissioned officers" means the
       following:
@@ -6282,12 +6395,14 @@
           (B) The Master Chief Petty Officer of the Navy.
           (C) The Chief Master Sergeant of the Air Force.
           (D) The Sergeant Major of the Marine Corps.
+          (E) The Master Chief Petty Officer of the Coast Guard.
 
 -SOURCE-
     (Pub. L. 101-510, div. A, title XV, Sec. 1502, Nov. 5, 1990, 104
     Stat. 1722; Pub. L. 106-398, Sec. 1 [[div. A], title IX, Sec.
     902(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A-224; Pub. L. 107-107,
-    div. A, title XIV, Sec. 1402, Dec. 28, 2001, 115 Stat. 1257.)
+    div. A, title XIV, Sec. 1402, Dec. 28, 2001, 115 Stat. 1257; Pub.
+    L. 111-281, title II, Sec. 205(a), Oct. 15, 2010, 124 Stat. 2911.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -6300,6 +6415,12 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2010 - Par. (4). Pub. L. 111-281, Sec. 205(a)(1), struck out par.
+    (4) which read as follows: "The term 'Armed Forces' does not
+    include the Coast Guard when it is not operating as a service in
+    the Navy."
+      Par. (5)(E). Pub. L. 111-281, Sec. 205(a)(2), added subpar. (E).
+      Par. (6)(E). Pub. L. 111-281, Sec. 205(a)(3), added subpar. (E).
       2001 - Pars. (1) to (3). Pub. L. 107-107, Sec. 1402(1), added
     pars. (1) to (3) and struck out former pars. (1) to (3) which read
     as follows:
@@ -6379,7 +6500,7 @@
 
 -CITE-
     24 USC SUBCHAPTER I - ESTABLISHMENT AND OPERATION OF
-           RETIREMENT HOME                                 02/01/2010
+           RETIREMENT HOME                                 01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -6394,7 +6515,7 @@
 
 
 -CITE-
-    24 USC Sec. 411                                             02/01/2010
+    24 USC Sec. 411                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -6499,11 +6620,15 @@
         (D) shall provide for the payment (in cash or in kind) by the
       lessee of consideration in an amount that is not less than the
       fair market value of the lease interest, as determined by the
-      Chief Operating Officer; and
+      Chief Operating Officer;
         (E) may provide, notwithstanding section 1302 of title 40 or
       any other provision of law, for the alteration, repair, or
       improvement, by the lessee, of the property leased as the payment
-      of part or all of the consideration for the lease.
+      of part or all of the consideration for the lease; and
+        (F) may not provide for a leaseback by the Retirement Home with
+      an annual payment in excess of $100,000, or otherwise commit the
+      Retirement Home or the Department of Defense to annual payments
+      in excess of such amount.
 
       (3) In addition to any in-kind consideration accepted under
     subparagraph (D) or (E) of paragraph (2), in-kind consideration
@@ -6566,7 +6691,8 @@
     1403, Dec. 28, 2001, 115 Stat. 1258; Pub. L. 110-181, div. A, title
     XIV, Sec. 1422(a), (b), Jan. 28, 2008, 122 Stat. 420; Pub. L. 111-
     84, div. B, title XXVIII, Sec. 2823, Oct. 28, 2009, 123 Stat.
-    2666.)
+    2666; Pub. L. 111-383, div. B, title XXVIII, Sec. 2813(b), Jan. 7,
+    2011, 124 Stat. 4463.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -6580,6 +6706,7 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2011 - Subsec. (i)(2)(F). Pub. L. 111-383 added subpar. (F).
       2009 - Subsec. (e)(2). Pub. L. 111-84, Sec. 2823(a), inserted at
     end "If the purchase price to acquire fee title to real property
     for inclusion in the Retirement Home is more than $750,000, the
@@ -6631,7 +6758,7 @@
 
 
 -CITE-
-    24 USC Sec. 412                                             02/01/2010
+    24 USC Sec. 412                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -6728,7 +6855,7 @@
 
 
 -CITE-
-    24 USC Sec. 413                                             02/01/2010
+    24 USC Sec. 413                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -6837,7 +6964,7 @@
 
 
 -CITE-
-    24 USC Sec. 413a                                            02/01/2010
+    24 USC Sec. 413a                                            01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -6903,7 +7030,7 @@
 
 
 -CITE-
-    24 USC Sec. 414                                             02/01/2010
+    24 USC Sec. 414                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -7029,7 +7156,7 @@
 
 
 -CITE-
-    24 USC Sec. 415                                             02/01/2010
+    24 USC Sec. 415                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -7165,7 +7292,7 @@
 
 
 -CITE-
-    24 USC Sec. 416                                             02/01/2010
+    24 USC Sec. 416                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -7326,7 +7453,7 @@
 
 
 -CITE-
-    24 USC Sec. 417                                             02/01/2010
+    24 USC Sec. 417                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -7471,7 +7598,7 @@
 
 
 -CITE-
-    24 USC Sec. 418                                             02/01/2010
+    24 USC Sec. 418                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -7603,7 +7730,7 @@
 
 
 -CITE-
-    24 USC Sec. 419                                             02/01/2010
+    24 USC Sec. 419                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -7697,7 +7824,7 @@
 
 
 -CITE-
-    24 USC Sec. 420                                             02/01/2010
+    24 USC Sec. 420                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -7920,7 +8047,7 @@
 
 
 -CITE-
-    24 USC Sec. 421                                             02/01/2010
+    24 USC Sec. 421                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -7994,7 +8121,7 @@
 
 
 -CITE-
-    24 USC Sec. 422                                             02/01/2010
+    24 USC Sec. 422                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -8102,7 +8229,7 @@
 
 
 -CITE-
-    24 USC Sec. 423                                             02/01/2010
+    24 USC Sec. 423                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -8169,7 +8296,7 @@
 
 
 -CITE-
-    24 USC Sec. 424                                             02/01/2010
+    24 USC Sec. 424                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -8177,10 +8304,11 @@
     SUBCHAPTER I - ESTABLISHMENT AND OPERATION OF RETIREMENT HOME
 
 -HEAD-
-    Sec. 424. Repealed. Pub. L. 107-107, div. A, title XIV, Sec.
-      1410(a)(5), Dec. 28, 2001, 115 Stat. 1266
+    Sec. 424. Repealed.
 
 -MISC1-
+    Sec. 424. Repealed. Pub. L. 107-107, div. A, title XIV, Sec.
+      1410(a)(5), Dec. 28, 2001, 115 Stat. 1266.
       Section, Pub. L. 101-510, div. A, title XV, Sec. 1524, as added
     Pub. L. 106-398, Sec. 1 [[div. A], title IX, Sec. 915], Oct. 30,
     2000, 114 Stat. 1654, 1654A-231, related to conditional supervisory
@@ -8190,7 +8318,7 @@
 
 
 -CITE-
-    24 USC SUBCHAPTER II - TRANSITIONAL PROVISIONS              02/01/2010
+    24 USC SUBCHAPTER II - TRANSITIONAL PROVISIONS              01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -8205,7 +8333,7 @@
 
 
 -CITE-
-    24 USC Sec. 431                                             02/01/2010
+    24 USC Sec. 431                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -8241,7 +8369,7 @@
 
 
 -CITE-
-    24 USC Sec. 432                                             02/01/2010
+    24 USC Sec. 432                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -8282,7 +8410,7 @@
 
 
 -CITE-
-    24 USC Sec. 433                                             02/01/2010
+    24 USC Sec. 433                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -8323,7 +8451,7 @@
 
 
 -CITE-
-    24 USC SUBCHAPTER III - AUTHORIZATION OF APPROPRIATIONS     02/01/2010
+    24 USC SUBCHAPTER III - AUTHORIZATION OF APPROPRIATIONS     01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -8338,7 +8466,7 @@
 
 
 -CITE-
-    24 USC Sec. 441                                             02/01/2010
+    24 USC Sec. 441                                             01/07/2011
 
 -EXPCITE-
     TITLE 24 - HOSPITALS AND ASYLUMS
@@ -8346,10 +8474,11 @@
     SUBCHAPTER III - AUTHORIZATION OF APPROPRIATIONS
 
 -HEAD-
-    Sec. 441. Repealed. Pub. L. 107-107, div. A, title XIV, Sec.
-      1410(b)(3), Dec. 28, 2001, 115 Stat. 1266
+    Sec. 441. Repealed.
 
 -MISC1-
+    Sec. 441. Repealed. Pub. L. 107-107, div. A, title XIV, Sec.
+      1410(b)(3), Dec. 28, 2001, 115 Stat. 1266.
       Section, Pub. L. 101-510, div. A, title XV, Sec. 1542, Nov. 5,
     1990, 104 Stat. 1736, related to authorization of appropriations
     for United States Soldiers' and Airmen's Home.

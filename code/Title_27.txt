@@ -1,5 +1,5 @@
 -CITE-
-    27 USC TITLE 27 - INTOXICATING LIQUORS                      02/01/2010
+    27 USC TITLE 27 - INTOXICATING LIQUORS                      01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -28,7 +28,7 @@
 
 
 -CITE-
-    27 USC CHAPTER 1 - GENERAL PROVISIONS                       02/01/2010
+    27 USC CHAPTER 1 - GENERAL PROVISIONS                       01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -66,17 +66,18 @@
 
 
 -CITE-
-    27 USC Secs. 1 to 5                                         02/01/2010
+    27 USC Secs. 1 to 5                                         01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
     CHAPTER 1 - GENERAL PROVISIONS
 
 -HEAD-
-    Secs. 1 to 5. Repealed. Aug. 27, 1935, ch. 740, title I, Sec. 1, 49
-      Stat. 872
+    Secs. 1 to 5. Repealed.
 
 -MISC1-
+    Secs. 1 to 5. Repealed. Aug. 27, 1935, ch. 740, title I, Sec. 1, 49
+      Stat. 872.
       Section 1, act Oct. 28, 1919, ch. 85, Sec. 1, 41 Stat. 305, set
     forth the short title of act as "National Prohibition Act".
       Section 2, act Nov. 23, 1921, ch. 134, Sec. 3, 42 Stat. 223,
@@ -106,7 +107,7 @@
 
 
 -CITE-
-    27 USC CHAPTER 2 - PROHIBITION OF INTOXICATING BEVERAGES    02/01/2010
+    27 USC CHAPTER 2 - PROHIBITION OF INTOXICATING BEVERAGES    01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -126,17 +127,18 @@
 
 
 -CITE-
-    27 USC Secs. 11 to 40                                       02/01/2010
+    27 USC Secs. 11 to 40                                       01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
     CHAPTER 2 - PROHIBITION OF INTOXICATING BEVERAGES
 
 -HEAD-
-    Secs. 11 to 40. Repealed. Aug. 27, 1935, ch. 740, title I, Sec. 1,
-      49 Stat. 872
+    Secs. 11 to 40. Repealed.
 
 -MISC1-
+    Secs. 11 to 40. Repealed. Aug. 27, 1935, ch. 740, title I, Sec. 1,
+      49 Stat. 872.
       Section 11, act Oct. 28, 1919, ch. 85, title II, Sec. 2, 41 Stat.
     308, authorized Commissioner of Internal Revenue, his assistants,
     agents, and inspectors to swear out warrants before United States
@@ -282,16 +284,17 @@
 
 
 -CITE-
-    27 USC Sec. 40a                                             02/01/2010
+    27 USC Sec. 40a                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
     CHAPTER 2 - PROHIBITION OF INTOXICATING BEVERAGES
 
 -HEAD-
-    Sec. 40a. Repealed. June 25, 1948, ch. 645, Sec. 21, 62 Stat. 862
+    Sec. 40a. Repealed.
 
 -MISC1-
+    Sec. 40a. Repealed. June 25, 1948, ch. 645, Sec. 21, 62 Stat. 862.
       Section, act Aug. 27, 1935, ch. 740, Sec. 204, 49 Stat. 878,
     related to remission or mitigation of forfeiture of a seized
     vehicle or aircraft. See section 3668 of Title 18, Crimes and
@@ -306,17 +309,18 @@
 
 
 -CITE-
-    27 USC Secs. 41 to 43                                       02/01/2010
+    27 USC Secs. 41 to 43                                       01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
     CHAPTER 2 - PROHIBITION OF INTOXICATING BEVERAGES
 
 -HEAD-
-    Secs. 41 to 43. Repealed. Aug. 27, 1935, ch. 740, title III, Sec.
-      308(a), 49 Stat. 880
+    Secs. 41 to 43. Repealed.
 
 -MISC1-
+    Secs. 41 to 43. Repealed. Aug. 27, 1935, ch. 740, title III, Sec.
+      308(a), 49 Stat. 880.
       Section 41, act Mar. 3, 1925, ch. 438, Sec. 1, 43 Stat. 1116,
     related to use of forfeited vessels or vehicles for enforcement of
     provisions of this title in lieu of sale.
@@ -334,7 +338,7 @@
 
 
 -CITE-
-    27 USC Secs. 43a, 43b                                       02/01/2010
+    27 USC Secs. 43a, 43b                                       01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -360,17 +364,18 @@
 
 
 -CITE-
-    27 USC Secs. 44 to 57                                       02/01/2010
+    27 USC Secs. 44 to 57                                       01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
     CHAPTER 2 - PROHIBITION OF INTOXICATING BEVERAGES
 
 -HEAD-
-    Secs. 44 to 57. Repealed. Aug. 27, 1935, ch. 740, title I, Sec. 1,
-      49 Stat. 872
+    Secs. 44 to 57. Repealed.
 
 -MISC1-
+    Secs. 44 to 57. Repealed. Aug. 27, 1935, ch. 740, title I, Sec. 1,
+      49 Stat. 872.
       Section 44, act Oct. 28, 1919, ch. 85, title II, Sec. 27, 41
     Stat. 316, authorized delivery to any department or agency of
     United States, for medicinal, mechanical, or scientific use, or
@@ -438,16 +443,17 @@
 
 
 -CITE-
-    27 USC Secs. 58 to 60                                       02/01/2010
+    27 USC Secs. 58 to 60                                       01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
     CHAPTER 2 - PROHIBITION OF INTOXICATING BEVERAGES
 
 -HEAD-
-    Secs. 58 to 60. Repealed. Mar. 22, 1933, ch. 4, Sec. 2, 48 Stat. 17
+    Secs. 58 to 60. Repealed.
 
 -MISC1-
+    Secs. 58 to 60. Repealed. Mar. 22, 1933, ch. 4, Sec. 2, 48 Stat. 17.
       Section 58, act Oct. 28, 1919, ch. 85, title II, Sec. 37, 41
     Stat. 318, related to development of liquids containing less than
     one-half of one per centum of alcohol.
@@ -463,17 +469,18 @@
 
 
 -CITE-
-    27 USC Secs. 61, 62                                         02/01/2010
+    27 USC Secs. 61, 62                                         01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
     CHAPTER 2 - PROHIBITION OF INTOXICATING BEVERAGES
 
 -HEAD-
-    Secs. 61, 62. Repealed. Aug. 27, 1935, ch. 740, title I, Sec. 1, 49
-      Stat. 872
+    Secs. 61, 62. Repealed.
 
 -MISC1-
+    Secs. 61, 62. Repealed. Aug. 27, 1935, ch. 740, title I, Sec. 1, 49
+      Stat. 872.
       Section 61, act Oct. 28, 1919, ch. 85, title II, Sec. 38, 41
     Stat. 319, authorized Commissioner of Internal Revenue and Attorney
     General of the United States to hire employees and purchase
@@ -489,16 +496,17 @@
 
 
 -CITE-
-    27 USC Sec. 63                                              02/01/2010
+    27 USC Sec. 63                                              01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
     CHAPTER 2 - PROHIBITION OF INTOXICATING BEVERAGES
 
 -HEAD-
-    Sec. 63. Repealed. June 19, 1934, ch. 657, Sec. 3, 48 Stat. 1116
+    Sec. 63. Repealed.
 
 -MISC1-
+    Sec. 63. Repealed. June 19, 1934, ch. 657, Sec. 3, 48 Stat. 1116.
       Section, acts Oct. 28, 1919, ch. 85, title III, Sec. 20, 41 Stat.
     322; July 5, 1932, ch. 428, 47 Stat. 579, made it unlawful to
     introduce into Canal Zone, or to manufacture, sell, transport, or
@@ -510,7 +518,7 @@
 
 
 -CITE-
-    27 USC Secs. 63a to 63d                                     02/01/2010
+    27 USC Secs. 63a to 63d                                     01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -545,17 +553,18 @@
 
 
 -CITE-
-    27 USC Sec. 64                                              02/01/2010
+    27 USC Sec. 64                                              01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
     CHAPTER 2 - PROHIBITION OF INTOXICATING BEVERAGES
 
 -HEAD-
-    Sec. 64. Repealed. Aug. 27, 1935, ch. 740, title I, Sec. 1, 49
-      Stat. 872
+    Sec. 64. Repealed.
 
 -MISC1-
+    Sec. 64. Repealed. Aug. 27, 1935, ch. 740, title I, Sec. 1, 49
+      Stat. 872.
       Section, act Oct. 28, 1919, ch. 85, title II, Sec. 36, 41 Stat.
     318, provided that invalidity of any provision of this title would
     not be construed to render invalid other provisions of this title.
@@ -565,7 +574,7 @@
 
 -CITE-
     27 USC CHAPTER 2A - BEER, ALE, PORTER, AND SIMILAR
-           FERMENTED LIQUOR                                02/01/2010
+           FERMENTED LIQUOR                                01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -579,17 +588,18 @@
 
 
 -CITE-
-    27 USC Secs. 64a to 64o                                     02/01/2010
+    27 USC Secs. 64a to 64o                                     01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
     CHAPTER 2A - BEER, ALE, PORTER, AND SIMILAR FERMENTED LIQUOR
 
 -HEAD-
-    Secs. 64a to 64o. Repealed. Aug. 27, 1935, ch. 740, title II, Sec.
-      202(a), 49 Stat. 877
+    Secs. 64a to 64o. Repealed.
 
 -MISC1-
+    Secs. 64a to 64o. Repealed. Aug. 27, 1935, ch. 740, title II, Sec.
+      202(a), 49 Stat. 877.
       Section 64a, act Mar. 22, 1933, ch. 4, Sec. 3, 48 Stat. 17,
     related to manufacture, sale, and transfer of beer, ale, porter,
     etc., of not more than 3.2 per centum of alcohol.
@@ -641,7 +651,7 @@
 
 
 -CITE-
-    27 USC Sec. 64p                                             02/01/2010
+    27 USC Sec. 64p                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -660,7 +670,7 @@
 
 
 -CITE-
-    27 USC CHAPTER 3 - INDUSTRIAL ALCOHOL                       02/01/2010
+    27 USC CHAPTER 3 - INDUSTRIAL ALCOHOL                       01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -674,7 +684,7 @@
 
 
 -CITE-
-    27 USC Secs. 71 to 90a                                      02/01/2010
+    27 USC Secs. 71 to 90a                                      01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -710,19 +720,20 @@
     Stat. 320, related to transfer of registered industrial alcohol to
     other registered industrial alcohol plants or bonded warehouses,
     was incorporated in section 3107 of Internal Revenue Code of 1939.
-      Section 74a, acts Feb. 24, 1919, ch. 18, Sec. 609, 40 Stat. 1109;
-    June 26, 1936, ch. 830, title III, Sec. 320, 49 Stat. 1953, related
-    to removal of taxable fermented liquors from brewery premises where
-    produced to a contiguous industrial alcohol plant without payment
-    of tax, was incorporated in section 3104 of Internal Revenue Code
-    of 1939.
-      Section 74b, acts Feb. 24, 1919, ch. 18, Sec. 602, 40 Stat. 1106;
-    June 26, 1936, ch. 830, title III, Sec. 308, 49 Stat. 1946, related
-    to transfer of spirits produced at registered distilleries and in
-    receiving cisterns in such distilleries to Internal Revenue Bonded
-    Warehouses for storage until tax payment is made or where tax
-    payment was made, retention of spirits in receiving cisterns, was
-    incorporated in section 2883 of Internal Revenue Code of 1939.
+      Section 74a, acts Feb. 24, 1919, ch. 18, title VI, Sec. 609, 40
+    Stat. 1109; June 26, 1936, ch. 830, title III, Sec. 320, 49 Stat.
+    1953, related to removal of taxable fermented liquors from brewery
+    premises where produced to a contiguous industrial alcohol plant
+    without payment of tax, was incorporated in section 3104 of
+    Internal Revenue Code of 1939.
+      Section 74b, acts Feb. 24, 1919, ch. 18, title VI, Sec. 602, 40
+    Stat. 1106; June 26, 1936, ch. 830, title III, Sec. 308, 49 Stat.
+    1946, related to transfer of spirits produced at registered
+    distilleries and in receiving cisterns in such distilleries to
+    Internal Revenue Bonded Warehouses for storage until tax payment is
+    made or where tax payment was made, retention of spirits in
+    receiving cisterns, was incorporated in section 2883 of Internal
+    Revenue Code of 1939.
       Section 75, act Oct. 28, 1919, ch. 85, title III, Sec. 5, 41
     Stat. 320, related to time of attachment of any tax imposed by law
     on alcohol and liability of proprietors of industrial alcohol
@@ -799,7 +810,7 @@
 
 
 -CITE-
-    27 USC CHAPTER 4 - PENALTIES                                02/01/2010
+    27 USC CHAPTER 4 - PENALTIES                                01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -813,17 +824,18 @@
 
 
 -CITE-
-    27 USC Secs. 91, 92                                         02/01/2010
+    27 USC Secs. 91, 92                                         01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
     CHAPTER 4 - PENALTIES
 
 -HEAD-
-    Secs. 91, 92. Repealed. Aug. 27, 1935, ch. 740, title I, Sec. 1, 49
-      Stat. 872
+    Secs. 91, 92. Repealed.
 
 -MISC1-
+    Secs. 91, 92. Repealed. Aug. 27, 1935, ch. 740, title I, Sec. 1, 49
+      Stat. 872.
       Section 91, acts Mar. 2, 1929, ch. 473, Sec. 1, 45 Stat. 1446;
     Jan. 15, 1931, ch. 29, 46 Stat. 1036, set forth maximum penalties
     that could be imposed in a criminal prosecution for illegal
@@ -838,7 +850,7 @@
 
 
 -CITE-
-    27 USC CHAPTER 5 - PROHIBITION REORGANIZATION ACT OF 1930   02/01/2010
+    27 USC CHAPTER 5 - PROHIBITION REORGANIZATION ACT OF 1930    01/07/2011 
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -852,17 +864,18 @@
 
 
 -CITE-
-    27 USC Secs. 101 to 108                                     02/01/2010
+    27 USC Secs. 101 to 108                                     01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
     CHAPTER 5 - PROHIBITION REORGANIZATION ACT OF 1930
 
 -HEAD-
-    Secs. 101 to 108. Repealed. Aug. 27, 1935, ch. 740, title I, Sec.
-      1, 49 Stat. 872
+    Secs. 101 to 108. Repealed.
 
 -MISC1-
+    Secs. 101 to 108. Repealed. Aug. 27, 1935, ch. 740, title I, Sec.
+      1, 49 Stat. 872.
       Section 101, act May 27, 1930, ch. 342, Sec. 1, 46 Stat. 427,
     provided that this chapter may be cited as the "Prohibition
     Reorganization Act of 1930".
@@ -897,7 +910,7 @@
 
 
 -CITE-
-    27 USC CHAPTER 6 - TRANSPORTATION IN INTERSTATE COMMERCE    02/01/2010
+    27 USC CHAPTER 6 - TRANSPORTATION IN INTERSTATE COMMERCE    01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -922,7 +935,7 @@
 
 
 -CITE-
-    27 USC Sec. 121                                             02/01/2010
+    27 USC Sec. 121                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -957,7 +970,7 @@
 
 
 -CITE-
-    27 USC Sec. 122                                             02/01/2010
+    27 USC Sec. 122                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1002,7 +1015,7 @@
 
 
 -CITE-
-    27 USC Sec. 122a                                            02/01/2010
+    27 USC Sec. 122a                                            01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1144,7 +1157,7 @@
 
 
 -CITE-
-    27 USC Sec. 122b                                            02/01/2010
+    27 USC Sec. 122b                                            01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1207,16 +1220,17 @@
 
 
 -CITE-
-    27 USC Sec. 123                                             02/01/2010
+    27 USC Sec. 123                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
     CHAPTER 6 - TRANSPORTATION IN INTERSTATE COMMERCE
 
 -HEAD-
-    Sec. 123. Repealed. June 25, 1936, ch. 815, Sec. 9, 49 Stat. 1930
+    Sec. 123. Repealed.
 
 -MISC1-
+    Sec. 123. Repealed. June 25, 1936, ch. 815, Sec. 9, 49 Stat. 1930.
       Section, acts Mar. 3, 1917, ch. 162, Sec. 5, 39 Stat. 1069; Mar.
     4, 1917, ch. 192, 39 Stat. 1202; Feb. 24, 1919, ch. 18, title XIV,
     Sec. 1407, 40 Stat. 1151; Jan. 11, 1934, ch. 1, title I, Sec. 12,
@@ -1228,7 +1242,7 @@
 
 
 -CITE-
-    27 USC Sec. 124                                             02/01/2010
+    27 USC Sec. 124                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1275,7 +1289,7 @@
 
 
 -CITE-
-    27 USC CHAPTER 7 - LIQUOR LAW REPEAL AND ENFORCEMENT ACT    02/01/2010
+    27 USC CHAPTER 7 - LIQUOR LAW REPEAL AND ENFORCEMENT ACT    01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1289,7 +1303,7 @@
 
 
 -CITE-
-    27 USC Secs. 151 to 167                                     02/01/2010
+    27 USC Secs. 151 to 167                                     01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1382,7 +1396,7 @@
 
 
 -CITE-
-    27 USC CHAPTER 8 - FEDERAL ALCOHOL ADMINISTRATION ACT       02/01/2010
+    27 USC CHAPTER 8 - FEDERAL ALCOHOL ADMINISTRATION ACT       01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1423,7 +1437,7 @@
 
 
 -CITE-
-    27 USC SUBCHAPTER I - FEDERAL ALCOHOL ADMINISTRATION        02/01/2010
+    27 USC SUBCHAPTER I - FEDERAL ALCOHOL ADMINISTRATION        01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1438,7 +1452,7 @@
 
 
 -CITE-
-    27 USC Sec. 201                                             02/01/2010
+    27 USC Sec. 201                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1500,7 +1514,7 @@
 
 
 -CITE-
-    27 USC Sec. 202                                             02/01/2010
+    27 USC Sec. 202                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1577,7 +1591,7 @@
 
 
 -CITE-
-    27 USC Secs. 202a, 202b                                     02/01/2010
+    27 USC Secs. 202a, 202b                                     01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1585,10 +1599,11 @@
     SUBCHAPTER I - FEDERAL ALCOHOL ADMINISTRATION
 
 -HEAD-
-    Secs. 202a, 202b. Repealed. Pub. L. 89-554, Sec. 8(a), Sept. 6,
-      1966, 80 Stat. 649
+    Secs. 202a, 202b. Repealed.
 
 -MISC1-
+    Secs. 202a, 202b. Repealed. Pub. L. 89-554, Sec. 8(a), Sept. 6,
+      1966, 80 Stat. 649.
       Section 202a, act June 26, 1936, ch. 830, title V, Sec. 501, 49
     Stat. 1964, established the Federal Alcohol Administration, and
     provided for appointment, duties, and pay of its employees.
@@ -1601,7 +1616,7 @@
 
 
 -CITE-
-    27 USC Sec. 202c                                            02/01/2010
+    27 USC Sec. 202c                                            01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1624,7 +1639,7 @@
 
 
 -CITE-
-    27 USC Sec. 203                                             02/01/2010
+    27 USC Sec. 203                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1712,7 +1727,7 @@
 
 
 -CITE-
-    27 USC Sec. 204                                             02/01/2010
+    27 USC Sec. 204                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -1925,7 +1940,7 @@
 
 
 -CITE-
-    27 USC Sec. 205                                             02/01/2010
+    27 USC Sec. 205                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2282,7 +2297,7 @@
 
 
 -CITE-
-    27 USC Sec. 206                                             02/01/2010
+    27 USC Sec. 206                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2333,13 +2348,6 @@
     690, title VIII, Sec. 8001(a)(1), (2), Nov. 18, 1988, 102 Stat.
     4517.)
 
--REFTEXT-
-                            REFERENCES IN TEXT                        
-      The internal-revenue laws, referred to in subsec. (a), are
-    classified generally to Title 26, Internal Revenue Code.
-      The customs laws, referred to in subsec. (a), are classified
-    generally to Title 19, Customs Duties.
-
 
 -TRANS-
                            TRANSFER OF FUNCTIONS                       
@@ -2353,7 +2361,7 @@
 
 
 -CITE-
-    27 USC Sec. 207                                             02/01/2010
+    27 USC Sec. 207                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2453,7 +2461,7 @@
 
 
 -CITE-
-    27 USC Sec. 208                                             02/01/2010
+    27 USC Sec. 208                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2570,7 +2578,7 @@
 
 
 -CITE-
-    27 USC Secs. 209, 210                                       02/01/2010
+    27 USC Secs. 209, 210                                       01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2603,7 +2611,7 @@
 
 
 -CITE-
-    27 USC Sec. 211                                             02/01/2010
+    27 USC Sec. 211                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2653,7 +2661,7 @@
       volume, and if for non-industrial use.
         (7) The term "malt beverage" means a beverage made by the
       alcoholic fermentation of an infusion or decoction, or
-      combination of both, in potable brewing water, or malted barley
+      combination of both, in potable brewing water, of malted barley
       with hops, or their parts, or their products, and with or without
       other malted cereals, and with or without the addition of
       unmalted or prepared cereals, other carbohydrates or products
@@ -2727,7 +2735,7 @@
 
 
 -CITE-
-    27 USC Sec. 212                                             02/01/2010
+    27 USC Sec. 212                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2751,7 +2759,7 @@
 
 
 -CITE-
-    27 USC SUBCHAPTER II - ALCOHOLIC BEVERAGE LABELING          02/01/2010
+    27 USC SUBCHAPTER II - ALCOHOLIC BEVERAGE LABELING          01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2766,7 +2774,7 @@
 
 
 -CITE-
-    27 USC Sec. 213                                             02/01/2010
+    27 USC Sec. 213                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2837,7 +2845,7 @@
 
 
 -CITE-
-    27 USC Sec. 214                                             02/01/2010
+    27 USC Sec. 214                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2913,7 +2921,7 @@
 
 
 -CITE-
-    27 USC Sec. 215                                             02/01/2010
+    27 USC Sec. 215                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -2981,7 +2989,7 @@
 
 
 -CITE-
-    27 USC Sec. 216                                             02/01/2010
+    27 USC Sec. 216                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -3008,7 +3016,7 @@
 
 
 -CITE-
-    27 USC Sec. 217                                             02/01/2010
+    27 USC Sec. 217                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -3038,7 +3046,7 @@
 
 
 -CITE-
-    27 USC Sec. 218                                             02/01/2010
+    27 USC Sec. 218                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -3062,7 +3070,7 @@
 
 
 -CITE-
-    27 USC Sec. 219                                             02/01/2010
+    27 USC Sec. 219                                             01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -3093,7 +3101,7 @@
 
 
 -CITE-
-    27 USC Sec. 219a                                            02/01/2010
+    27 USC Sec. 219a                                            01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -3118,7 +3126,7 @@
 
 
 -CITE-
-    27 USC CHAPTER 9 - LIQUOR ENFORCEMENT ACT OF 1936           02/01/2010
+    27 USC CHAPTER 9 - LIQUOR ENFORCEMENT ACT OF 1936           01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
@@ -3132,17 +3140,18 @@
 
 
 -CITE-
-    27 USC Secs. 221 to 228                                     02/01/2010
+    27 USC Secs. 221 to 228                                     01/07/2011
 
 -EXPCITE-
     TITLE 27 - INTOXICATING LIQUORS
     CHAPTER 9 - LIQUOR ENFORCEMENT ACT OF 1936
 
 -HEAD-
-    Secs. 221 to 228. Repealed. June 25, 1948, ch. 645, Sec. 21, 62
-      Stat. 862
+    Secs. 221 to 228. Repealed.
 
 -MISC1-
+    Secs. 221 to 228. Repealed. June 25, 1948, ch. 645, Sec. 21, 62
+      Stat. 862.
       Section 221, act June 25, 1936, ch. 815, Sec. 1, 49 Stat. 1928,
     related to citation of this chapter.
       Section 222, act June 25, 1936, ch. 815, Sec. 2, 49 Stat. 1928,
