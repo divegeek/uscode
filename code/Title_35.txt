@@ -1,5 +1,5 @@
 -CITE-
-    35 USC TITLE 35 - PATENTS                                   02/01/2010
+    35 USC TITLE 35 - PATENTS                                   01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -191,7 +191,7 @@
 
 
 -CITE-
-    35 USC PART I - UNITED STATES PATENT AND TRADEMARK OFFICE    02/01/2010 
+    35 USC PART I - UNITED STATES PATENT AND TRADEMARK OFFICE    01/07/2011 
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -230,7 +230,7 @@
 
 -CITE-
     35 USC CHAPTER 1 - ESTABLISHMENT, OFFICERS AND EMPLOYEES,
-           FUNCTIONS                                       02/01/2010
+           FUNCTIONS                                       01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -294,7 +294,7 @@
 
 
 -CITE-
-    35 USC Sec. 1                                               02/01/2010
+    35 USC Sec. 1                                               01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -669,16 +669,18 @@
     services that would apply to a Federal agency using appropriated
     funds, including the Federal Property and Administrative Services
     Act of 1949 [now chapters 1 to 11 of Title 40, Public Buildings,
-    Property, and Works, and title III of the Act of June 30, 1949 (41
-    U.S.C. 251 et seq.)] and the Office of Federal Procurement Policy
-    Act [41 U.S.C. 401 et seq.]."
+    Property, and Works, and division C (except sections 3302, 3307(e),
+    3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41,
+    Public Contracts] and the Office of Federal Procurement Policy Act
+    [now division B (except sections 1123, 2303, 2304, and 2313) of
+    subtitle I of Title 41]."
 
 -End-
 
 
 
 -CITE-
-    35 USC Sec. 2                                               02/01/2010
+    35 USC Sec. 2                                               01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -735,10 +737,10 @@
         (4)(A) may make such purchases, contracts for the construction,
       maintenance, or management and operation of facilities, and
       contracts for supplies or services, without regard to the
-      provisions of subtitle I and chapter 33 of title 40, title III of
-      the Federal Property and Administrative Services Act of 1949 (41
-      U.S.C. 251 et seq.), and the McKinney-Vento Homeless Assistance
-      Act (42 U.S.C. 11301 et seq.); and
+      provisions of subtitle I and chapter 33 of title 40, division C
+      (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of
+      subtitle I of title 41, and the McKinney-Vento Homeless
+      Assistance Act (42 U.S.C. 11301 et seq.); and
         (B) may enter into and perform such purchases and contracts for
       printing services, including the process of composition,
       platemaking, presswork, silk screen processes, binding,
@@ -827,7 +829,8 @@
     [title IV, Sec. 4712], Nov. 29, 1999, 113 Stat. 1536, 1501A-572;
     Pub. L. 106-400, Sec. 2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107-
     273, div. C, title III, Sec. 13206(a)(1), Nov. 2, 2002, 116 Stat.
-    1904; Pub. L. 108-178, Sec. 4(g), Dec. 15, 2003, 117 Stat. 2641.)
+    1904; Pub. L. 108-178, Sec. 4(g), Dec. 15, 2003, 117 Stat. 2641;
+    Pub. L. 111-350, Sec. 5(i)(1), Jan. 4, 2011, 124 Stat. 3849.)
 
 
 -MISC1-
@@ -839,22 +842,20 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
-      The Federal Property and Administrative Services Act of 1949,
-    referred to in subsec. (b)(4)(A), is act June 30, 1949, ch. 288, 63
-    Stat. 377, as amended. Title III of the Act is classified generally
-    to subchapter IV (Sec. 251 et seq.) of chapter 4 of Title 41,
-    Public Contracts. For complete classification of this Act to the
-    Code, see Tables.
       The McKinney-Vento Homeless Assistance Act, referred to in
     subsec. (b)(4)(A), is Pub. L. 100-77, July 22, 1987, 101 Stat. 482,
-    as amended, which is classified principally to chapter 119 (Sec.
-    11301 et seq.) of Title 42, The Public Health and Welfare. For
-    complete classification of this Act to the Code, see Short Title
-    note set out under section 11301 of Title 42 and Tables.
+    which is classified principally to chapter 119 (Sec. 11301 et seq.)
+    of Title 42, The Public Health and Welfare. For complete
+    classification of this Act to the Code, see Short Title note set
+    out under section 11301 of Title 42 and Tables.
 
 
 -MISC2-
                                 AMENDMENTS                            
+      2011 - Subsec. (b)(4)(A). Pub. L. 111-350 substituted "division C
+    (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of
+    subtitle I of title 41" for "title III of the Federal Property and
+    Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)".
       2003 - Subsec. (b)(4)(A). Pub. L. 108-178 substituted "subtitle I
     and chapter 33 of title 40, title III of the Federal Property and
     Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)," for
@@ -917,7 +918,7 @@
 
 
 -CITE-
-    35 USC Sec. 3                                               02/01/2010
+    35 USC Sec. 3                                               01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -1314,7 +1315,7 @@
 
 
 -CITE-
-    35 USC Sec. 4                                               02/01/2010
+    35 USC Sec. 4                                               01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -1367,7 +1368,7 @@
 
 
 -CITE-
-    35 USC Sec. 5                                               02/01/2010
+    35 USC Sec. 5                                               01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -1516,7 +1517,7 @@
 
 
 -CITE-
-    35 USC Sec. 6                                               02/01/2010
+    35 USC Sec. 6                                               01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -1606,7 +1607,7 @@
 
 
 -CITE-
-    35 USC Sec. 7                                               02/01/2010
+    35 USC Sec. 7                                               01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -1679,7 +1680,7 @@
 
 
 -CITE-
-    35 USC Sec. 8                                               02/01/2010
+    35 USC Sec. 8                                               01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -1734,7 +1735,7 @@
 
 
 -CITE-
-    35 USC Sec. 9                                               02/01/2010
+    35 USC Sec. 9                                               01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -1796,7 +1797,7 @@
 
 
 -CITE-
-    35 USC Sec. 10                                              02/01/2010
+    35 USC Sec. 10                                              01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -1934,7 +1935,7 @@
 
 
 -CITE-
-    35 USC Sec. 11                                              02/01/2010
+    35 USC Sec. 11                                              01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2021,7 +2022,7 @@
 
 
 -CITE-
-    35 USC Sec. 12                                              02/01/2010
+    35 USC Sec. 12                                              01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2114,7 +2115,7 @@
 
 
 -CITE-
-    35 USC Sec. 13                                              02/01/2010
+    35 USC Sec. 13                                              01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2207,7 +2208,7 @@
 
 
 -CITE-
-    35 USC Sec. 14                                              02/01/2010
+    35 USC Sec. 14                                              01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2224,7 +2225,7 @@
 
 -CITE-
     35 USC CHAPTER 2 - PROCEEDINGS IN THE PATENT AND
-           TRADEMARK OFFICE                                02/01/2010
+           TRADEMARK OFFICE                                01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2259,7 +2260,7 @@
 
 
 -CITE-
-    35 USC Sec. 21                                              02/01/2010
+    35 USC Sec. 21                                              01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2339,7 +2340,7 @@
 
 
 -CITE-
-    35 USC Sec. 22                                              02/01/2010
+    35 USC Sec. 22                                              01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2396,7 +2397,7 @@
 
 
 -CITE-
-    35 USC Sec. 23                                              02/01/2010
+    35 USC Sec. 23                                              01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2451,7 +2452,7 @@
 
 
 -CITE-
-    35 USC Sec. 24                                              02/01/2010
+    35 USC Sec. 24                                              01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2526,7 +2527,7 @@
 
 
 -CITE-
-    35 USC Sec. 25                                              02/01/2010
+    35 USC Sec. 25                                              01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2580,7 +2581,7 @@
 
 
 -CITE-
-    35 USC Sec. 26                                              02/01/2010
+    35 USC Sec. 26                                              01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2630,7 +2631,7 @@
 
 -CITE-
     35 USC CHAPTER 3 - PRACTICE BEFORE PATENT AND TRADEMARK
-           OFFICE                                          02/01/2010
+           OFFICE                                          01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2659,7 +2660,7 @@
 
 
 -CITE-
-    35 USC Sec. 31                                              02/01/2010
+    35 USC Sec. 31                                              01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2687,7 +2688,7 @@
 
 
 -CITE-
-    35 USC Sec. 32                                              02/01/2010
+    35 USC Sec. 32                                              01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2763,7 +2764,7 @@
 
 
 -CITE-
-    35 USC Sec. 33                                              02/01/2010
+    35 USC Sec. 33                                              01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2805,7 +2806,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 4 - PATENT FEES; FUNDING; SEARCH SYSTEMS     02/01/2010
+    35 USC CHAPTER 4 - PATENT FEES; FUNDING; SEARCH SYSTEMS     01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -2833,7 +2834,7 @@
 
 
 -CITE-
-    35 USC Sec. 41                                              02/01/2010
+    35 USC Sec. 41                                              01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -4134,7 +4135,7 @@
 
 
 -CITE-
-    35 USC Sec. 42                                              02/01/2010
+    35 USC Sec. 42                                              01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -4328,7 +4329,7 @@
 
 -CITE-
     35 USC PART II - PATENTABILITY OF INVENTIONS AND GRANT OF
-           PATENTS                                         02/01/2010
+           PATENTS                                         01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -4369,7 +4370,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 10 - PATENTABILITY OF INVENTIONS             02/01/2010
+    35 USC CHAPTER 10 - PATENTABILITY OF INVENTIONS             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -4399,7 +4400,7 @@
 
 
 -CITE-
-    35 USC Sec. 100                                             02/01/2010
+    35 USC Sec. 100                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -4455,7 +4456,7 @@
 
 
 -CITE-
-    35 USC Sec. 101                                             02/01/2010
+    35 USC Sec. 101                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -4507,7 +4508,7 @@
 
 
 -CITE-
-    35 USC Sec. 102                                             02/01/2010
+    35 USC Sec. 102                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -4716,7 +4717,7 @@
 
 
 -CITE-
-    35 USC Sec. 103                                             02/01/2010
+    35 USC Sec. 103                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -4926,7 +4927,7 @@
 
 
 -CITE-
-    35 USC Sec. 104                                             02/01/2010
+    35 USC Sec. 104                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5089,7 +5090,7 @@
 
 
 -CITE-
-    35 USC Sec. 105                                             02/01/2010
+    35 USC Sec. 105                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5153,7 +5154,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 11 - APPLICATION FOR PATENT                  02/01/2010
+    35 USC CHAPTER 11 - APPLICATION FOR PATENT                  01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5198,7 +5199,7 @@
 
 
 -CITE-
-    35 USC Sec. 111                                             02/01/2010
+    35 USC Sec. 111                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5390,7 +5391,7 @@
 
 
 -CITE-
-    35 USC Sec. 112                                             02/01/2010
+    35 USC Sec. 112                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5494,7 +5495,7 @@
 
 
 -CITE-
-    35 USC Sec. 113                                             02/01/2010
+    35 USC Sec. 113                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5562,7 +5563,7 @@
 
 
 -CITE-
-    35 USC Sec. 114                                             02/01/2010
+    35 USC Sec. 114                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5610,7 +5611,7 @@
 
 
 -CITE-
-    35 USC Sec. 115                                             02/01/2010
+    35 USC Sec. 115                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5681,7 +5682,7 @@
 
 
 -CITE-
-    35 USC Sec. 116                                             02/01/2010
+    35 USC Sec. 116                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5771,7 +5772,7 @@
 
 
 -CITE-
-    35 USC Sec. 117                                             02/01/2010
+    35 USC Sec. 117                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5804,7 +5805,7 @@
 
 
 -CITE-
-    35 USC Sec. 118                                             02/01/2010
+    35 USC Sec. 118                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -5856,7 +5857,7 @@
 
 
 -CITE-
-    35 USC Sec. 119                                             02/01/2010
+    35 USC Sec. 119                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6133,7 +6134,7 @@
 
 
 -CITE-
-    35 USC Sec. 120                                             02/01/2010
+    35 USC Sec. 120                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6222,7 +6223,7 @@
 
 
 -CITE-
-    35 USC Sec. 121                                             02/01/2010
+    35 USC Sec. 121                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6294,7 +6295,7 @@
 
 
 -CITE-
-    35 USC Sec. 122                                             02/01/2010
+    35 USC Sec. 122                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6468,7 +6469,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 12 - EXAMINATION OF APPLICATION              02/01/2010
+    35 USC CHAPTER 12 - EXAMINATION OF APPLICATION              01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6497,7 +6498,7 @@
 
 
 -CITE-
-    35 USC Sec. 131                                             02/01/2010
+    35 USC Sec. 131                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6544,7 +6545,7 @@
 
 
 -CITE-
-    35 USC Sec. 132                                             02/01/2010
+    35 USC Sec. 132                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6624,7 +6625,7 @@
 
 
 -CITE-
-    35 USC Sec. 133                                             02/01/2010
+    35 USC Sec. 133                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6678,7 +6679,7 @@
 
 
 -CITE-
-    35 USC Sec. 134                                             02/01/2010
+    35 USC Sec. 134                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6768,7 +6769,7 @@
 
 
 -CITE-
-    35 USC Sec. 135                                             02/01/2010
+    35 USC Sec. 135                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6948,7 +6949,7 @@
 
 -CITE-
     35 USC CHAPTER 13 - REVIEW OF PATENT AND TRADEMARK OFFICE
-           DECISIONS                                       02/01/2010
+           DECISIONS                                       01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -6980,7 +6981,7 @@
 
 
 -CITE-
-    35 USC Sec. 141                                             02/01/2010
+    35 USC Sec. 141                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7111,7 +7112,7 @@
 
 
 -CITE-
-    35 USC Sec. 142                                             02/01/2010
+    35 USC Sec. 142                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7195,7 +7196,7 @@
 
 
 -CITE-
-    35 USC Sec. 143                                             02/01/2010
+    35 USC Sec. 143                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7318,7 +7319,7 @@
 
 
 -CITE-
-    35 USC Sec. 144                                             02/01/2010
+    35 USC Sec. 144                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7400,7 +7401,7 @@
 
 
 -CITE-
-    35 USC Sec. 145                                             02/01/2010
+    35 USC Sec. 145                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7497,7 +7498,7 @@
 
 
 -CITE-
-    35 USC Sec. 146                                             02/01/2010
+    35 USC Sec. 146                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7609,7 +7610,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 14 - ISSUE OF PATENT                         02/01/2010
+    35 USC CHAPTER 14 - ISSUE OF PATENT                         01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7651,7 +7652,7 @@
 
 
 -CITE-
-    35 USC Sec. 151                                             02/01/2010
+    35 USC Sec. 151                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7781,7 +7782,7 @@
 
 
 -CITE-
-    35 USC Sec. 152                                             02/01/2010
+    35 USC Sec. 152                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7822,7 +7823,7 @@
 
 
 -CITE-
-    35 USC Sec. 153                                             02/01/2010
+    35 USC Sec. 153                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -7882,7 +7883,7 @@
 
 
 -CITE-
-    35 USC Sec. 154                                             02/01/2010
+    35 USC Sec. 154                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -8281,7 +8282,7 @@
 
 
 -CITE-
-    35 USC Sec. 155                                             02/01/2010
+    35 USC Sec. 155                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -8364,7 +8365,7 @@
 
 
 -CITE-
-    35 USC Sec. 155A                                            02/01/2010
+    35 USC Sec. 155A                                            01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -8450,7 +8451,7 @@
 
 
 -CITE-
-    35 USC Sec. 156                                             02/01/2010
+    35 USC Sec. 156                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9188,7 +9189,7 @@
 
 
 -CITE-
-    35 USC Sec. 157                                             02/01/2010
+    35 USC Sec. 157                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9281,7 +9282,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 15 - PLANT PATENTS                           02/01/2010
+    35 USC CHAPTER 15 - PLANT PATENTS                           01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9303,7 +9304,7 @@
 
 
 -CITE-
-    35 USC Sec. 161                                             02/01/2010
+    35 USC Sec. 161                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9347,7 +9348,7 @@
 
 
 -CITE-
-    35 USC Sec. 162                                             02/01/2010
+    35 USC Sec. 162                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9382,7 +9383,7 @@
 
 
 -CITE-
-    35 USC Sec. 163                                             02/01/2010
+    35 USC Sec. 163                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9475,7 +9476,7 @@
 
 
 -CITE-
-    35 USC Sec. 164                                             02/01/2010
+    35 USC Sec. 164                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9533,7 +9534,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 16 - DESIGNS                                 02/01/2010
+    35 USC CHAPTER 16 - DESIGNS                                 01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9554,7 +9555,7 @@
 
 
 -CITE-
-    35 USC Sec. 171                                             02/01/2010
+    35 USC Sec. 171                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9590,7 +9591,7 @@
 
 
 -CITE-
-    35 USC Sec. 172                                             02/01/2010
+    35 USC Sec. 172                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9639,7 +9640,7 @@
 
 
 -CITE-
-    35 USC Sec. 173                                             02/01/2010
+    35 USC Sec. 173                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9690,7 +9691,7 @@
 
 -CITE-
     35 USC CHAPTER 17 - SECRECY OF CERTAIN INVENTIONS AND
-           FILING APPLICATIONS IN FOREIGN COUNTRY          02/01/2010
+           FILING APPLICATIONS IN FOREIGN COUNTRY          01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9724,7 +9725,7 @@
 
 
 -CITE-
-    35 USC Sec. 181                                             02/01/2010
+    35 USC Sec. 181                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9857,7 +9858,7 @@
 
 
 -CITE-
-    35 USC Sec. 182                                             02/01/2010
+    35 USC Sec. 182                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -9912,7 +9913,7 @@
 
 
 -CITE-
-    35 USC Sec. 183                                             02/01/2010
+    35 USC Sec. 183                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10000,7 +10001,7 @@
 
 
 -CITE-
-    35 USC Sec. 184                                             02/01/2010
+    35 USC Sec. 184                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10136,7 +10137,7 @@
 
 
 -CITE-
-    35 USC Sec. 185                                             02/01/2010
+    35 USC Sec. 185                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10196,7 +10197,7 @@
 
 
 -CITE-
-    35 USC Sec. 186                                             02/01/2010
+    35 USC Sec. 186                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10253,7 +10254,7 @@
 
 
 -CITE-
-    35 USC Sec. 187                                             02/01/2010
+    35 USC Sec. 187                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10285,7 +10286,7 @@
 
 
 -CITE-
-    35 USC Sec. 188                                             02/01/2010
+    35 USC Sec. 188                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10335,7 +10336,7 @@
 
 -CITE-
     35 USC CHAPTER 18 - PATENT RIGHTS IN INVENTIONS MADE WITH
-           FEDERAL ASSISTANCE                              02/01/2010
+           FEDERAL ASSISTANCE                              01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10382,7 +10383,7 @@
 
 
 -CITE-
-    35 USC Sec. 200                                             02/01/2010
+    35 USC Sec. 200                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10440,7 +10441,7 @@
 
 
 -CITE-
-    35 USC Sec. 201                                             02/01/2010
+    35 USC Sec. 201                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10548,7 +10549,7 @@
 
 
 -CITE-
-    35 USC Sec. 202                                             02/01/2010
+    35 USC Sec. 202                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10774,11 +10775,11 @@
     517, Dec. 12, 1980, 94 Stat. 3015, which enacted sections 200 to
     211 and 301 to 307 of this title, amended sections 41, 42, and 154
     of this title, section 1113 of Title 15, Commerce and Trade,
-    sections 101 and 117 of Title 17, Copyrights, and sections 2186,
-    2457, and 5908 of Title 42, The Public Health and Welfare, and
-    enacted provisions set out as notes under sections 13 and 41 of
-    this title. For complete classification of this Act to the Code,
-    see Tables.
+    sections 101 and 117 of Title 17, Copyrights, and sections 2186 and
+    5908 and former section 2457 of Title 42, The Public Health and
+    Welfare, and enacted provisions set out as notes under sections 13
+    and 41 of this title. For complete classification of this Act to
+    the Code, see Tables.
 
 
 -MISC1-
@@ -10911,7 +10912,7 @@
 
 
 -CITE-
-    35 USC Sec. 203                                             02/01/2010
+    35 USC Sec. 203                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -10953,10 +10954,10 @@
       to section 204.
 
       (b) A determination pursuant to this section or section 202(b)(4)
-    (!1) shall not be subject to the Contract Disputes Act (41 U.S.C.
-    Sec. 601 et seq.). An administrative appeals procedure shall be
-    established by regulations promulgated in accordance with section
-    206. Additionally, any contractor, inventor, assignee, or exclusive
+    (!1) shall not be subject to chapter 71 of title 41. An
+    administrative appeals procedure shall be established by
+    regulations promulgated in accordance with section 206.
+    Additionally, any contractor, inventor, assignee, or exclusive
     licensee adversely affected by a determination under this section
     may, at any time within sixty days after the determination is
     issued, file a petition in the United States Court of Federal
@@ -10973,23 +10974,21 @@
     amended Pub. L. 98-620, title V, Sec. 501(9), Nov. 8, 1984, 98
     Stat. 3367; Pub. L. 102-572, title IX, Sec. 902(b)(1), Oct. 29,
     1992, 106 Stat. 4516; Pub. L. 107-273, div. C, title III, Sec.
-    13206(a)(14), Nov. 2, 2002, 116 Stat. 1905.)
+    13206(a)(14), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 111-350, Sec.
+    5(i)(2), Jan. 4, 2011, 124 Stat. 3850.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
       Section 202(b)(4), referred to in subsec. (b), was redesignated
     section 202(b)(3) of this title by Pub. L. 111-8, div. G, title I,
     Sec. 1301(h), Mar. 11, 2009, 123 Stat. 829.
-      The Contract Disputes Act of 1978, referred to in subsec. (b), is
-    Pub. L. 95-563, Nov. 1, 1978, 92 Stat. 2383, as amended, which is
-    classified principally to chapter 9 (Sec. 601 et seq.) of Title 41,
-    Public Contracts. For complete classification of this Act to the
-    Code see Short Title note set out under section 601 of Title 41 and
-    Tables.
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2011 - Subsec. (b). Pub. L. 111-350 substituted "chapter 71 of
+    title 41" for "the Contract Disputes Act (41 U.S.C. Sec. 601 et
+    seq.)".
       2002 - Pub. L. 107-273 redesignated par. (1) as subsec. (a) and
     former subpars. (a) to (d) as pars. (1) to (4), respectively,
     redesignated former par. (2) as subsec. (b), struck out quotation
@@ -11015,7 +11014,7 @@
 
 
 -CITE-
-    35 USC Sec. 204                                             02/01/2010
+    35 USC Sec. 204                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11052,7 +11051,7 @@
 
 
 -CITE-
-    35 USC Sec. 205                                             02/01/2010
+    35 USC Sec. 205                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11081,7 +11080,7 @@
 
 
 -CITE-
-    35 USC Sec. 206                                             02/01/2010
+    35 USC Sec. 206                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11122,7 +11121,7 @@
 
 
 -CITE-
-    35 USC Sec. 207                                             02/01/2010
+    35 USC Sec. 207                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11498,7 +11497,7 @@
 
 
 -CITE-
-    35 USC Sec. 208                                             02/01/2010
+    35 USC Sec. 208                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11532,7 +11531,7 @@
 
 
 -CITE-
-    35 USC Sec. 209                                             02/01/2010
+    35 USC Sec. 209                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11661,7 +11660,7 @@
 
 
 -CITE-
-    35 USC Sec. 210                                             02/01/2010
+    35 USC Sec. 210                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11691,8 +11690,7 @@
 
         (6) section 152 of the Atomic Energy Act of 1954 (42 U.S.C.
       2182; 68 Stat. 943);
-        (7) section 305 of the National Aeronautics and Space Act of
-      1958 (42 U.S.C. 2457);
+        (7) section 20135 of title 51;
         (8) section 6 of the Coal Research and Development Act of 1960
       (30 U.S.C. 666; 74 Stat. 337);
         (9) section 4 of the Helium Act Amendments of 1960 (50 U.S.C.
@@ -11767,7 +11765,8 @@
     393, title II, Sec. 220(c)(2), Nov. 13, 1998, 112 Stat. 3625; Pub.
     L. 107-273, div. C, title III, Sec. 13206(a)(16), Nov. 2, 2002, 116
     Stat. 1905; Pub. L. 109-58, title X, Sec. 1009(a)(2), Aug. 8, 2005,
-    119 Stat. 934.)
+    119 Stat. 934; Pub. L. 111-314, Sec. 4(c), Dec. 18, 2010, 124 Stat.
+    3440.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -11775,11 +11774,11 @@
     517, Dec. 12, 1980, 94 Stat. 3015, which enacted sections 200 to
     211 and 301 to 307 of this title, amended sections 41, 42, and 154
     of this title, section 1113 of Title 15, Commerce and Trade,
-    sections 101 and 117 of Title 17, Copyrights, and sections 2186,
-    2457, and 5908 of Title 42, The Public Health and Welfare, and
-    enacted provisions set out as notes under sections 13 and 41 of
-    this title. For complete classification of this Act to the Code,
-    see Tables.
+    sections 101 and 117 of Title 17, Copyrights, and sections 2186 and
+    5908 and former section 2457 of Title 42, The Public Health and
+    Welfare, and enacted provisions set out as notes under sections 13
+    and 41 of this title. For complete classification of this Act to
+    the Code, see Tables.
       Section 12 of the National Science Foundation Act of 1950 (42
     U.S.C. 1871(a); 82 Stat. 360), referred to in subsec. (a)(5), was
     amended by Pub. L. 99-159, title I, Sec. 109(c), Nov. 22, 1985, 99
@@ -11794,13 +11793,12 @@
     section 1226(c) of Title 30.
       The Native Latex Commercialization and Economic Development Act
     of 1978, referred to in subsec. (a)(20), is Pub. L. 95-592, Nov. 4,
-    1978, 92 Stat. 2529, as amended, which, as amended by Pub. L. 98-
-    284, May 16, 1984, 98 Stat. 181, is known as the Critical
-    Agricultural Materials Act and is classified principally to
-    subchapter II (Sec. 178 et seq.) of chapter 8A of Title 7,
-    Agriculture. For complete classification of this Act to the Code,
-    see Short Title note set out under section 178 of Title 7 and
-    Tables.
+    1978, 92 Stat. 2529, which, as amended by Pub. L. 98-284, May 16,
+    1984, 98 Stat. 181, is known as the Critical Agricultural Materials
+    Act and is classified principally to subchapter II (Sec. 178 et
+    seq.) of chapter 8A of Title 7, Agriculture. For complete
+    classification of this Act to the Code, see Short Title note set
+    out under section 178 of Title 7 and Tables.
       Section 408 of the Water Resources and Development Act of 1978
     (42 U.S.C. 7879; 92 Stat. 1360), referred to in subsec. (a)(21),
     was repealed by Pub. L. 98-242, title I, Sec. 110(a), Mar. 22,
@@ -11808,14 +11806,17 @@
     Health and Welfare.
       The Stevenson-Wydler Technology Innovation Act of 1980, referred
     to in subsec. (e), is Pub. L. 96-480, Oct. 21, 1980, 94 Stat. 2311,
-    as amended, which is classified generally to chapter 63 (Sec. 3701
-    et seq.) of Title 15, Commerce and Trade. For complete
-    classification of this Act to the Code, see Short Title note set
-    out under section 3701 of Title 15 and Tables.
+    which is classified generally to chapter 63 (Sec. 3701 et seq.) of
+    Title 15, Commerce and Trade. For complete classification of this
+    Act to the Code, see Short Title note set out under section 3701 of
+    Title 15 and Tables.
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2010 - Subsec. (a)(7). Pub. L. 111-314 substituted "section 20135
+    of title 51" for "section 305 of the National Aeronautics and Space
+    Act of 1958 (42 U.S.C. 2457)".
       2005 - Subsec. (a)(8). Pub. L. 109-58 substituted "Coal Research
     and Development Act of 1960" for "Coal Research Development Act of
     1960".
@@ -11867,7 +11868,7 @@
 
 
 -CITE-
-    35 USC Sec. 211                                             02/01/2010
+    35 USC Sec. 211                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11891,7 +11892,7 @@
 
 
 -CITE-
-    35 USC Sec. 212                                             02/01/2010
+    35 USC Sec. 212                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11916,7 +11917,7 @@
 
 
 -CITE-
-    35 USC PART III - PATENTS AND PROTECTION OF PATENT RIGHTS    02/01/2010 
+    35 USC PART III - PATENTS AND PROTECTION OF PATENT RIGHTS    01/07/2011 
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11958,7 +11959,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 25 - AMENDMENT AND CORRECTION OF PATENTS     02/01/2010
+    35 USC CHAPTER 25 - AMENDMENT AND CORRECTION OF PATENTS     01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -11991,7 +11992,7 @@
 
 
 -CITE-
-    35 USC Sec. 251                                             02/01/2010
+    35 USC Sec. 251                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12064,7 +12065,7 @@
 
 
 -CITE-
-    35 USC Sec. 252                                             02/01/2010
+    35 USC Sec. 252                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12171,7 +12172,7 @@
 
 
 -CITE-
-    35 USC Sec. 253                                             02/01/2010
+    35 USC Sec. 253                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12227,7 +12228,7 @@
 
 
 -CITE-
-    35 USC Sec. 254                                             02/01/2010
+    35 USC Sec. 254                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12294,7 +12295,7 @@
 
 
 -CITE-
-    35 USC Sec. 255                                             02/01/2010
+    35 USC Sec. 255                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12354,7 +12355,7 @@
 
 
 -CITE-
-    35 USC Sec. 256                                             02/01/2010
+    35 USC Sec. 256                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12442,7 +12443,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 26 - OWNERSHIP AND ASSIGNMENT                02/01/2010
+    35 USC CHAPTER 26 - OWNERSHIP AND ASSIGNMENT                01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12462,7 +12463,7 @@
 
 
 -CITE-
-    35 USC Sec. 261                                             02/01/2010
+    35 USC Sec. 261                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12540,7 +12541,7 @@
 
 
 -CITE-
-    35 USC Sec. 262                                             02/01/2010
+    35 USC Sec. 262                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12584,7 +12585,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 27 - GOVERNMENT INTERESTS IN PATENTS         02/01/2010
+    35 USC CHAPTER 27 - GOVERNMENT INTERESTS IN PATENTS         01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12609,7 +12610,7 @@
 
 
 -CITE-
-    35 USC Sec. 266                                             02/01/2010
+    35 USC Sec. 266                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12636,7 +12637,7 @@
 
 
 -CITE-
-    35 USC Sec. 267                                             02/01/2010
+    35 USC Sec. 267                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12688,7 +12689,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 28 - INFRINGEMENT OF PATENTS                 02/01/2010
+    35 USC CHAPTER 28 - INFRINGEMENT OF PATENTS                 01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12713,7 +12714,7 @@
 
 
 -CITE-
-    35 USC Sec. 271                                             02/01/2010
+    35 USC Sec. 271                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -12771,19 +12772,30 @@
         (A) an application under section 505(j) of the Federal Food,
       Drug, and Cosmetic Act or described in section 505(b)(2) of such
       Act for a drug claimed in a patent or the use of which is claimed
-      in a patent, or
+      in a patent,
         (B) an application under section 512 of such Act or under the
       Act of March 4, 1913 (21 U.S.C. 151-158) for a drug or veterinary
       biological product which is not primarily manufactured using
       recombinant DNA, recombinant RNA, hybridoma technology, or other
       processes involving site specific genetic manipulation techniques
       and which is claimed in a patent or the use of which is claimed
-      in a patent,
+      in a patent, or
+        (C)(i) with respect to a patent that is identified in the list
+      of patents described in section 351(l)(3) of the Public Health
+      Service Act (including as provided under section 351(l)(7) of
+      such Act), an application seeking approval of a biological
+      product, or
+        (ii) if the applicant for the application fails to provide the
+      application and information required under section 351(l)(2)(A)
+      of such Act, an application seeking approval of a biological
+      product for a patent that could be identified pursuant to section
+      351(l)(3)(A)(i) of such Act,
 
     if the purpose of such submission is to obtain approval under such
-    Act to engage in the commercial manufacture, use, or sale of a drug
-    or veterinary biological product claimed in a patent or the use of
-    which is claimed in a patent before the expiration of such patent.
+    Act to engage in the commercial manufacture, use, or sale of a
+    drug, veterinary biological product, or biological product claimed
+    in a patent or the use of which is claimed in a patent before the
+    expiration of such patent.
       (3) In any action for patent infringement brought under this
     section, no injunctive or other relief may be granted which would
     prohibit the making, using, offering to sell, or selling within the
@@ -12797,15 +12809,26 @@
         (B) injunctive relief may be granted against an infringer to
       prevent the commercial manufacture, use, offer to sell, or sale
       within the United States or importation into the United States of
-      an approved drug or veterinary biological product, and
+      an approved drug, veterinary biological product, or biological
+      product,
         (C) damages or other monetary relief may be awarded against an
       infringer only if there has been commercial manufacture, use,
       offer to sell, or sale within the United States or importation
-      into the United States of an approved drug or veterinary
-      biological product.
+      into the United States of an approved drug, veterinary biological
+      product, or biological product, and
+        (D) the court shall order a permanent injunction prohibiting
+      any infringement of the patent by the biological product involved
+      in the infringement until a date which is not earlier than the
+      date of the expiration of the patent that has been infringed
+      under paragraph (2)(C), provided the patent is the subject of a
+      final court decision, as defined in section 351(k)(6) of the
+      Public Health Service Act, in an action for infringement of the
+      patent under section 351(l)(6) of such Act, and the biological
+      product has not yet been approved because of section 351(k)(7) of
+      such Act.
 
-    The remedies prescribed by subparagraphs (A), (B), and (C) are the
-    only remedies which may be granted by a court for an act of
+    The remedies prescribed by subparagraphs (A), (B), (C), and (D) are
+    the only remedies which may be granted by a court for an act of
     infringement described in paragraph (2), except that a court may
     award attorney fees under section 285.
       (5) Where a person has filed an application described in
@@ -12823,6 +12846,33 @@
     jurisdiction in any action brought by such person under section
     2201 of title 28 for a declaratory judgment that such patent is
     invalid or not infringed.
+      (6)(A) Subparagraph (B) applies, in lieu of paragraph (4), in the
+    case of a patent - 
+        (i) that is identified, as applicable, in the list of patents
+      described in section 351(l)(4) of the Public Health Service Act
+      or the lists of patents described in section 351(l)(5)(B) of such
+      Act with respect to a biological product; and
+        (ii) for which an action for infringement of the patent with
+      respect to the biological product - 
+          (I) was brought after the expiration of the 30-day period
+        described in subparagraph (A) or (B), as applicable, of section
+        351(l)(6) of such Act; or
+          (II) was brought before the expiration of the 30-day period
+        described in subclause (I), but which was dismissed without
+        prejudice or was not prosecuted to judgment in good faith.
+
+      (B) In an action for infringement of a patent described in
+    subparagraph (A), the sole and exclusive remedy that may be granted
+    by a court, upon a finding that the making, using, offering to
+    sell, selling, or importation into the United States of the
+    biological product that is the subject of the action infringed the
+    patent, shall be a reasonable royalty.
+      (C) The owner of a patent that should have been included in the
+    list described in section 351(l)(3)(A) of the Public Health Service
+    Act, including as provided under section 351(l)(7) of such Act for
+    a biological product, but was not timely included in such list, may
+    not bring an action under this section for infringement of the
+    patent with respect to the biological product.
       (f)(1) Whoever without authority supplies or causes to be
     supplied in or from the United States all or a substantial portion
     of the components of a patented invention, where such components
@@ -12877,7 +12927,9 @@
     703, title II, Sec. 201, Nov. 19, 1988, 102 Stat. 4676; Pub. L.
     102-560, Sec. 2(a)(1), Oct. 28, 1992, 106 Stat. 4230; Pub. L. 103-
     465, title V, Sec. 533(a), Dec. 8, 1994, 108 Stat. 4988; Pub. L.
-    108-173, title XI, Sec. 1101(d), Dec. 8, 2003, 117 Stat. 2457.)
+    108-173, title XI, Sec. 1101(d), Dec. 8, 2003, 117 Stat. 2457; Pub.
+    L. 111-148, title VII, Sec. 7002(c)(1), Mar. 23, 2010, 124 Stat.
+    815.)
 
 
 -MISC1-
@@ -12899,25 +12951,48 @@
 -REFTEXT-
                             REFERENCES IN TEXT                        
       The Federal Food, Drug, and Cosmetic Act, referred to in subsec.
-    (e)(1), (2), is act June 25, 1938, ch. 675, 52 Stat. 1040, as
-    amended, which is classified generally to chapter 9 (Sec. 301 et
-    seq.) of Title 21, Food and Drugs. Sections 505 and 512 of the Act
-    are classified to sections 355 and 360b, respectively, of Title 21.
-    For complete classification of this Act to the Code, see section
-    301 of Title 21 and Tables.
+    (e)(1), (2), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is
+    classified generally to chapter 9 (Sec. 301 et seq.) of Title 21,
+    Food and Drugs. Sections 505 and 512 of the Act are classified to
+    sections 355 and 360b, respectively, of Title 21. For complete
+    classification of this Act to the Code, see section 301 of Title 21
+    and Tables.
       Act of March 4, 1913, referred to in subsec. (e)(1), (2), is act
-    Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended. The provisions of
-    such act relating to viruses, etc., applicable to domestic animals,
+    Mar. 4, 1913, ch. 145, 37 Stat. 828. The provisions of such act
+    relating to viruses, etc., applicable to domestic animals,
     popularly known as the Virus-Serum-Toxin Act, are contained in the
     eighth paragraph under the heading "Bureau of Animal Industry" of
     act Mar. 4, 1913, at 37 Stat. 832, and are classified generally to
-    chapter 5 (Sec. 151 et seq.) of Title 21. For complete
-    classification of this Act to the Code, see Short Title note set
-    out under section 151 of Title 21 and Tables.
+    chapter 5 (Sec. 151 et seq.) of Title 21, Food and Drugs. For
+    complete classification of this Act to the Code, see Short Title
+    note set out under section 151 of Title 21 and Tables.
+      Section 351 of the Public Health Service Act, referred to in
+    subsec. (e)(2)(C), (4)(D), (6)(A), (C), is classified to section
+    262 of Title 42, The Public Health and Welfare.
 
 
 -MISC2-
                                 AMENDMENTS                            
+      2010 - Subsec. (e)(2). Pub. L. 111-148, Sec. 7002(c)(1)(A)(iv),
+    substituted ", veterinary biological product, or biological
+    product" for "or veterinary biological product" in concluding
+    provisions.
+      Subsec. (e)(2)(C). Pub. L. 111-148, Sec. 7002(c)(1)(A)(i)-(iii),
+    added subpar. (C).
+      Subsec. (e)(4). Pub. L. 111-148, Sec. 7002(c)(1)(B)(iv),
+    substituted "(C), and (D)" for "and (C)" in concluding provisions.
+      Subsec. (e)(4)(B). Pub. L. 111-148, Sec. 7002(c)(1)(B)(i),
+    substituted ", veterinary biological product, or biological
+    product" for "or veterinary biological product" and struck out
+    "and" at end.
+      Subsec. (e)(4)(C). Pub. L. 111-148, Sec. 7002(c)(1)(B)(ii),
+    substituted ", veterinary biological product, or biological
+    product" for "or veterinary biological product" and ", and" for
+    period at end.
+      Subsec. (e)(4)(D). Pub. L. 111-148, Sec. 7002(c)(1)(B)(iii),
+    added subpar. (D).
+      Subsec. (e)(6). Pub. L. 111-148, Sec. 7002(c)(1)(C), added par.
+    (6).
       2003 - Subsec. (e)(5). Pub. L. 108-173 added par. (5).
       1994 - Subsec. (a). Pub. L. 103-465, Sec. 533(a)(1), inserted ",
     offers to sell," after "uses" and "or imports into the United
@@ -13033,7 +13108,7 @@
 
 
 -CITE-
-    35 USC Sec. 272                                             02/01/2010
+    35 USC Sec. 272                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13083,7 +13158,7 @@
 
 
 -CITE-
-    35 USC Sec. 273                                             02/01/2010
+    35 USC Sec. 273                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13218,7 +13293,7 @@
 
 -CITE-
     35 USC CHAPTER 29 - REMEDIES FOR INFRINGEMENT OF PATENT,
-           AND OTHER ACTIONS                               02/01/2010
+           AND OTHER ACTIONS                               01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13271,7 +13346,7 @@
 
 
 -CITE-
-    35 USC Sec. 281                                             02/01/2010
+    35 USC Sec. 281                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13307,7 +13382,7 @@
 
 
 -CITE-
-    35 USC Sec. 282                                             02/01/2010
+    35 USC Sec. 282                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13474,7 +13549,7 @@
 
 
 -CITE-
-    35 USC Sec. 283                                             02/01/2010
+    35 USC Sec. 283                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13508,7 +13583,7 @@
 
 
 -CITE-
-    35 USC Sec. 284                                             02/01/2010
+    35 USC Sec. 284                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13565,7 +13640,7 @@
 
 
 -CITE-
-    35 USC Sec. 285                                             02/01/2010
+    35 USC Sec. 285                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13599,7 +13674,7 @@
 
 
 -CITE-
-    35 USC Sec. 286                                             02/01/2010
+    35 USC Sec. 286                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13644,7 +13719,7 @@
 
 
 -CITE-
-    35 USC Sec. 287                                             02/01/2010
+    35 USC Sec. 287                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -13963,7 +14038,7 @@
 
 
 -CITE-
-    35 USC Sec. 288                                             02/01/2010
+    35 USC Sec. 288                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14008,7 +14083,7 @@
 
 
 -CITE-
-    35 USC Sec. 289                                             02/01/2010
+    35 USC Sec. 289                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14047,7 +14122,7 @@
 
 
 -CITE-
-    35 USC Sec. 290                                             02/01/2010
+    35 USC Sec. 290                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14101,7 +14176,7 @@
 
 
 -CITE-
-    35 USC Sec. 291                                             02/01/2010
+    35 USC Sec. 291                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14134,7 +14209,7 @@
 
 
 -CITE-
-    35 USC Sec. 292                                             02/01/2010
+    35 USC Sec. 292                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14206,7 +14281,7 @@
 
 
 -CITE-
-    35 USC Sec. 293                                             02/01/2010
+    35 USC Sec. 293                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14253,7 +14328,7 @@
 
 
 -CITE-
-    35 USC Sec. 294                                             02/01/2010
+    35 USC Sec. 294                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14343,7 +14418,7 @@
 
 
 -CITE-
-    35 USC Sec. 295                                             02/01/2010
+    35 USC Sec. 295                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14399,7 +14474,7 @@
 
 
 -CITE-
-    35 USC Sec. 296                                             02/01/2010
+    35 USC Sec. 296                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14445,7 +14520,7 @@
 
 
 -CITE-
-    35 USC Sec. 297                                             02/01/2010
+    35 USC Sec. 297                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14579,7 +14654,7 @@
 
 -CITE-
     35 USC CHAPTER 30 - PRIOR ART CITATIONS TO OFFICE AND EX
-           PARTE REEXAMINATION OF PATENTS                  02/01/2010
+           PARTE REEXAMINATION OF PATENTS                  01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14623,7 +14698,7 @@
 
 
 -CITE-
-    35 USC Sec. 301                                             02/01/2010
+    35 USC Sec. 301                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14662,7 +14737,7 @@
 
 
 -CITE-
-    35 USC Sec. 302                                             02/01/2010
+    35 USC Sec. 302                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14715,7 +14790,7 @@
 
 
 -CITE-
-    35 USC Sec. 303                                             02/01/2010
+    35 USC Sec. 303                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14809,7 +14884,7 @@
 
 
 -CITE-
-    35 USC Sec. 304                                             02/01/2010
+    35 USC Sec. 304                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14865,7 +14940,7 @@
 
 
 -CITE-
-    35 USC Sec. 305                                             02/01/2010
+    35 USC Sec. 305                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14915,7 +14990,7 @@
 
 
 -CITE-
-    35 USC Sec. 306                                             02/01/2010
+    35 USC Sec. 306                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -14942,7 +15017,7 @@
 
 
 -CITE-
-    35 USC Sec. 307                                             02/01/2010
+    35 USC Sec. 307                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15010,7 +15085,7 @@
 
 -CITE-
     35 USC CHAPTER 31 - OPTIONAL INTER PARTES REEXAMINATION
-           PROCEDURES                                      02/01/2010
+           PROCEDURES                                      01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15044,7 +15119,7 @@
 
 
 -CITE-
-    35 USC Sec. 311                                             02/01/2010
+    35 USC Sec. 311                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15114,7 +15189,7 @@
 
 
 -CITE-
-    35 USC Sec. 312                                             02/01/2010
+    35 USC Sec. 312                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15180,7 +15255,7 @@
 
 
 -CITE-
-    35 USC Sec. 313                                             02/01/2010
+    35 USC Sec. 313                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15216,7 +15291,7 @@
 
 
 -CITE-
-    35 USC Sec. 314                                             02/01/2010
+    35 USC Sec. 314                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15280,7 +15355,7 @@
 
 
 -CITE-
-    35 USC Sec. 315                                             02/01/2010
+    35 USC Sec. 315                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15370,7 +15445,7 @@
 
 
 -CITE-
-    35 USC Sec. 316                                             02/01/2010
+    35 USC Sec. 316                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15416,7 +15491,7 @@
 
 
 -CITE-
-    35 USC Sec. 317                                             02/01/2010
+    35 USC Sec. 317                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15481,7 +15556,7 @@
 
 
 -CITE-
-    35 USC Sec. 318                                             02/01/2010
+    35 USC Sec. 318                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15516,7 +15591,7 @@
 
 
 -CITE-
-    35 USC PART IV - PATENT COOPERATION TREATY                  02/01/2010
+    35 USC PART IV - PATENT COOPERATION TREATY                  01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15546,7 +15621,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 35 - DEFINITIONS                             02/01/2010
+    35 USC CHAPTER 35 - DEFINITIONS                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15565,7 +15640,7 @@
 
 
 -CITE-
-    35 USC Sec. 351                                             02/01/2010
+    35 USC Sec. 351                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15705,7 +15780,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 36 - INTERNATIONAL STAGE                     02/01/2010
+    35 USC CHAPTER 36 - INTERNATIONAL STAGE                     01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15739,7 +15814,7 @@
 
 
 -CITE-
-    35 USC Sec. 361                                             02/01/2010
+    35 USC Sec. 361                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15828,7 +15903,7 @@
 
 
 -CITE-
-    35 USC Sec. 362                                             02/01/2010
+    35 USC Sec. 362                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15898,7 +15973,7 @@
 
 
 -CITE-
-    35 USC Sec. 363                                             02/01/2010
+    35 USC Sec. 363                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -15937,7 +16012,7 @@
 
 
 -CITE-
-    35 USC Sec. 364                                             02/01/2010
+    35 USC Sec. 364                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16004,7 +16079,7 @@
 
 
 -CITE-
-    35 USC Sec. 365                                             02/01/2010
+    35 USC Sec. 365                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16088,7 +16163,7 @@
 
 
 -CITE-
-    35 USC Sec. 366                                             02/01/2010
+    35 USC Sec. 366                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16141,7 +16216,7 @@
 
 
 -CITE-
-    35 USC Sec. 367                                             02/01/2010
+    35 USC Sec. 367                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16201,7 +16276,7 @@
 
 
 -CITE-
-    35 USC Sec. 368                                             02/01/2010
+    35 USC Sec. 368                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16259,7 +16334,7 @@
 
 
 -CITE-
-    35 USC CHAPTER 37 - NATIONAL STAGE                          02/01/2010
+    35 USC CHAPTER 37 - NATIONAL STAGE                          01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16290,7 +16365,7 @@
 
 
 -CITE-
-    35 USC Sec. 371                                             02/01/2010
+    35 USC Sec. 371                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16470,7 +16545,7 @@
 
 
 -CITE-
-    35 USC Sec. 372                                             02/01/2010
+    35 USC Sec. 372                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16540,7 +16615,7 @@
 
 
 -CITE-
-    35 USC Sec. 373                                             02/01/2010
+    35 USC Sec. 373                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16594,7 +16669,7 @@
 
 
 -CITE-
-    35 USC Sec. 374                                             02/01/2010
+    35 USC Sec. 374                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16647,7 +16722,7 @@
 
 
 -CITE-
-    35 USC Sec. 375                                             02/01/2010
+    35 USC Sec. 375                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16699,7 +16774,7 @@
 
 
 -CITE-
-    35 USC Sec. 376                                             02/01/2010
+    35 USC Sec. 376                                             01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
@@ -16798,7 +16873,7 @@
 
 
 -CITE-
-    35 USC [CHAPTER 38 - TRANSFERRED]                           02/01/2010
+    35 USC [CHAPTER 38 - TRANSFERRED]                           01/07/2011
 
 -EXPCITE-
     TITLE 35 - PATENTS
