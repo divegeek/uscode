@@ -1,5 +1,5 @@
 -CITE-
-    41 USC TITLE 41 - PUBLIC CONTRACTS                          01/07/2011
+    41 USC TITLE 41 - PUBLIC CONTRACTS                          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -459,7 +459,7 @@
 
 
 -CITE-
-    41 USC Subtitle I - Federal Procurement Policy              01/07/2011
+    41 USC Subtitle I - Federal Procurement Policy              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -476,6 +476,8 @@
              DIVISION B - OFFICE OF FEDERAL PROCUREMENT POLICY         
     11.     Establishment of Office and Authority and Functions
              of Administrator                                       1101
+    12.     Federal Acquisition Institute                       1201.(!1)   
+
     13.     Acquisition Councils                                    1301
     15.     Cost Accounting Standards                               1501
     17.     Agency Responsibilities and Procedures                  1701
@@ -494,11 +496,21 @@
     45.     Contract Financing                                      4501
     47.     Miscellaneous                                           4701
 
+
+                                AMENDMENTS                            
+      2011 - Pub. L. 112-81, div. A, title VIII, Sec. 864(b)(2), Dec.
+    31, 2011, 125 Stat. 1524, added item for chapter 12.
+
+-FOOTNOTE-               
+
+    (!1) So in original. The period probably should not appear.
+
+
 -End-
 
 
 -CITE-
-    41 USC Division A - General                                 01/07/2011
+    41 USC Division A - General                                 01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -512,7 +524,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 1 - DEFINITIONS                              01/07/2011
+    41 USC CHAPTER 1 - DEFINITIONS                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -560,7 +572,7 @@
 
 
 -CITE-
-    41 USC SUBCHAPTER I - SUBTITLE DEFINITIONS                  01/07/2011
+    41 USC SUBCHAPTER I - SUBTITLE DEFINITIONS                  01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -577,7 +589,7 @@
 
 
 -CITE-
-    41 USC Sec. 101                                             01/07/2011
+    41 USC Sec. 101                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -721,7 +733,7 @@
 
 
 -CITE-
-    41 USC Sec. 102                                             01/07/2011
+    41 USC Sec. 102                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -779,7 +791,7 @@
 
 
 -CITE-
-    41 USC Sec. 103                                             01/07/2011
+    41 USC Sec. 103                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -892,7 +904,7 @@
 
 
 -CITE-
-    41 USC Sec. 104                                             01/07/2011
+    41 USC Sec. 104                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -948,7 +960,7 @@
 
 
 -CITE-
-    41 USC Sec. 105                                             01/07/2011
+    41 USC Sec. 105                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1007,7 +1019,7 @@
 
 
 -CITE-
-    41 USC Sec. 106                                             01/07/2011
+    41 USC Sec. 106                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1054,7 +1066,7 @@
 
 
 -CITE-
-    41 USC Sec. 107                                             01/07/2011
+    41 USC Sec. 107                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1117,7 +1129,7 @@
 
 
 -CITE-
-    41 USC Sec. 108                                             01/07/2011
+    41 USC Sec. 108                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1182,7 +1194,7 @@
 
 
 -CITE-
-    41 USC Sec. 109                                             01/07/2011
+    41 USC Sec. 109                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1261,7 +1273,7 @@
 
 
 -CITE-
-    41 USC Sec. 110                                             01/07/2011
+    41 USC Sec. 110                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1330,7 +1342,7 @@
 
 
 -CITE-
-    41 USC Sec. 111                                             01/07/2011
+    41 USC Sec. 111                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1388,7 +1400,7 @@
 
 
 -CITE-
-    41 USC Sec. 112                                             01/07/2011
+    41 USC Sec. 112                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1446,7 +1458,7 @@
 
 
 -CITE-
-    41 USC Sec. 113                                             01/07/2011
+    41 USC Sec. 113                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1522,7 +1534,7 @@
 
 
 -CITE-
-    41 USC Sec. 114                                             01/07/2011
+    41 USC Sec. 114                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1586,7 +1598,7 @@
 
 
 -CITE-
-    41 USC Sec. 115                                             01/07/2011
+    41 USC Sec. 115                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1645,7 +1657,7 @@
 
 
 -CITE-
-    41 USC Sec. 116                                             01/07/2011
+    41 USC Sec. 116                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1708,7 +1720,7 @@
 
 
 -CITE-
-    41 USC SUBCHAPTER II - DIVISION B DEFINITIONS               01/07/2011
+    41 USC SUBCHAPTER II - DIVISION B DEFINITIONS               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1725,7 +1737,7 @@
 
 
 -CITE-
-    41 USC Sec. 131                                             01/07/2011
+    41 USC Sec. 131                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1783,7 +1795,7 @@
 
 
 -CITE-
-    41 USC Sec. 132                                             01/07/2011
+    41 USC Sec. 132                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1831,7 +1843,7 @@
 
 
 -CITE-
-    41 USC Sec. 133                                             01/07/2011
+    41 USC Sec. 133                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1882,7 +1894,7 @@
 
 
 -CITE-
-    41 USC Sec. 134                                             01/07/2011
+    41 USC Sec. 134                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1926,7 +1938,7 @@
 
 
 -CITE-
-    41 USC SUBCHAPTER III - DIVISION C DEFINITIONS              01/07/2011
+    41 USC SUBCHAPTER III - DIVISION C DEFINITIONS              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1943,7 +1955,7 @@
 
 
 -CITE-
-    41 USC Sec. 151                                             01/07/2011
+    41 USC Sec. 151                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -1985,7 +1997,7 @@
 
 
 -CITE-
-    41 USC Sec. 152                                             01/07/2011
+    41 USC Sec. 152                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2054,7 +2066,7 @@
 
 
 -CITE-
-    41 USC Sec. 153                                             01/07/2011
+    41 USC Sec. 153                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2123,7 +2135,7 @@
 
 
 -CITE-
-    41 USC Division B - Office of Federal Procurement Policy    01/07/2011
+    41 USC Division B - Office of Federal Procurement Policy    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2138,7 +2150,7 @@
 
 -CITE-
     41 USC CHAPTER 11 - ESTABLISHMENT OF OFFICE AND AUTHORITY
-           AND FUNCTIONS OF ADMINISTRATOR                  01/07/2011
+           AND FUNCTIONS OF ADMINISTRATOR                  01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2179,7 +2191,7 @@
 
 
 -CITE-
-    41 USC SUBCHAPTER I - GENERAL                               01/07/2011
+    41 USC SUBCHAPTER I - GENERAL                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2197,7 +2209,7 @@
 
 
 -CITE-
-    41 USC Sec. 1101                                            01/07/2011
+    41 USC Sec. 1101                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2293,7 +2305,7 @@
 
 
 -CITE-
-    41 USC Sec. 1102                                            01/07/2011
+    41 USC Sec. 1102                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2335,7 +2347,7 @@
 
 -CITE-
     41 USC SUBCHAPTER II - AUTHORITY AND FUNCTIONS OF THE
-           ADMINISTRATOR                                   01/07/2011
+           ADMINISTRATOR                                   01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2353,7 +2365,7 @@
 
 
 -CITE-
-    41 USC Sec. 1121                                            01/07/2011
+    41 USC Sec. 1121                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2541,7 +2553,7 @@
 
 
 -CITE-
-    41 USC Sec. 1122                                            01/07/2011
+    41 USC Sec. 1122                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2576,37 +2588,9 @@
         (B) ensuring executive agency compliance with the record
       requirements of section 1712 of this title;
         (5) providing for and directing the activities of the Federal
-      Acquisition Institute (including recommending to the
-      Administrator of General Services a sufficient budget for those
-      activities), which shall be located in the General Services
-      Administration, in order to - 
-          (A) foster and promote the development of a professional
-        acquisition workforce Government-wide;
-          (B) promote and coordinate Government-wide research and
-        studies to improve the procurement process and the laws,
-        policies, methods, regulations, procedures, and forms relating
-        to acquisition by the executive agencies;
-          (C) collect data and analyze acquisition workforce data from
-        the Office of Personnel Management, from the heads of executive
-        agencies, and, through periodic surveys, from individual
-        employees;
-          (D) periodically analyze acquisition career fields to
-        identify critical competencies, duties, tasks, and related
-        academic prerequisites, skills, and knowledge;
-          (E) coordinate and assist agencies in identifying and
-        recruiting highly qualified candidates for acquisition fields;
-          (F) develop instructional materials for acquisition personnel
-        in coordination with private and public acquisition colleges
-        and training facilities;
-          (G) evaluate the effectiveness of training and career
-        development programs for acquisition personnel;
-          (H) promote the establishment and utilization of academic
-        programs by colleges and universities in acquisition fields;
-          (I) facilitate, to the extent requested by agencies,
-        interagency intern and training programs; and
-          (J) perform other career management or research functions as
-        directed by the Administrator;
-
+      Acquisition Institute established under section 1201 of this
+      title, including recommending to the Administrator of General
+      Services a sufficient budget for such activities.
         (6) administering section 1703(a) to (i) of this title;
         (7) establishing criteria and procedures to ensure the
       effective and timely solicitation of the viewpoints of interested
@@ -2674,7 +2658,9 @@
         at the direction of the President.
 
 -SOURCE-
-    (Pub. L. 111-350, Sec. 3, Jan. 4, 2011, 124 Stat. 3685.)
+    (Pub. L. 111-350, Sec. 3, Jan. 4, 2011, 124 Stat. 3685; Pub. L. 112-
+    81, div. A, title VIII, Sec. 864(b)(3), Dec. 31, 2011, 125 Stat.
+    1524.)
 
 -MISC1-
 
@@ -2734,6 +2720,11 @@
       In clause (12), the words "small business concerns owned and
     controlled by service-disabled veterans" are added to conform to
     section 15(g)(1) of the Small Business Act (15:644(g)(1)).
+
+                                AMENDMENTS                            
+      2011 - Subsec. (a)(5). Pub. L. 112-81 amended par. (5) generally.
+    Prior to amendment, par. (5) related to the purposes of the
+    activities of the Federal Acquisition Institute.
 
        PILOT PROGRAM TO INVENTORY COST AND SIZE OF SERVICE CONTRACTS   
       Pub. L. 110-161, div. D, title VII, Sec. 748, Dec. 26, 2007, 121
@@ -2817,7 +2808,7 @@
 
 
 -CITE-
-    41 USC Sec. 1123                                            01/07/2011
+    41 USC Sec. 1123                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2863,7 +2854,7 @@
 
 
 -CITE-
-    41 USC Sec. 1124                                            01/07/2011
+    41 USC Sec. 1124                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -2962,7 +2953,7 @@
 
 
 -CITE-
-    41 USC Sec. 1125                                            01/07/2011
+    41 USC Sec. 1125                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3020,7 +3011,7 @@
 
 
 -CITE-
-    41 USC Sec. 1126                                            01/07/2011
+    41 USC Sec. 1126                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3106,7 +3097,7 @@
 
 
 -CITE-
-    41 USC Sec. 1127                                            01/07/2011
+    41 USC Sec. 1127                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3217,7 +3208,7 @@
 
 
 -CITE-
-    41 USC Sec. 1128                                            01/07/2011
+    41 USC Sec. 1128                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3269,7 +3260,7 @@
 
 
 -CITE-
-    41 USC Sec. 1129                                            01/07/2011
+    41 USC Sec. 1129                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3315,7 +3306,7 @@
 
 
 -CITE-
-    41 USC Sec. 1130                                            01/07/2011
+    41 USC Sec. 1130                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3363,7 +3354,7 @@
 
 
 -CITE-
-    41 USC Sec. 1131                                            01/07/2011
+    41 USC Sec. 1131                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3409,7 +3400,143 @@
 
 
 -CITE-
-    41 USC CHAPTER 13 - ACQUISITION COUNCILS                    01/07/2011
+    41 USC CHAPTER 12 - FEDERAL ACQUISITION INSTITUTE           01/03/2012 (112-90)
+
+-EXPCITE-
+    TITLE 41 - PUBLIC CONTRACTS
+    Subtitle I - Federal Procurement Policy
+    Division B - Office of Federal Procurement Policy
+    CHAPTER 12 - FEDERAL ACQUISITION INSTITUTE
+
+-HEAD-
+                CHAPTER 12 - FEDERAL ACQUISITION INSTITUTE            
+
+-MISC1-
+    Sec.                                                     
+    1201.       Federal Acquisition Institute.                        
+
+-End-
+
+
+
+-CITE-
+    41 USC Sec. 1201                                            01/03/2012 (112-90)
+
+-EXPCITE-
+    TITLE 41 - PUBLIC CONTRACTS
+    Subtitle I - Federal Procurement Policy
+    Division B - Office of Federal Procurement Policy
+    CHAPTER 12 - FEDERAL ACQUISITION INSTITUTE
+
+-HEAD-
+    Sec. 1201. Federal Acquisition Institute
+
+-STATUTE-
+      (a) In General. - There is established a Federal Acquisition
+    Institute (FAI) in order to - 
+        (1) foster and promote the development of a professional
+      acquisition workforce Government-wide;
+        (2) promote and coordinate Government-wide research and studies
+      to improve the procurement process and the laws, policies,
+      methods, regulations, procedures, and forms relating to
+      acquisition by the executive agencies;
+        (3) collect data and analyze acquisition workforce data from
+      the Office of Personnel Management, the heads of executive
+      agencies, and, through periodic surveys, from individual
+      employees;
+        (4) periodically analyze acquisition career fields to identify
+      critical competencies, duties, tasks, and related academic
+      prerequisites, skills, and knowledge;
+        (5) coordinate and assist agencies in identifying and
+      recruiting highly qualified candidates for acquisition fields;
+        (6) develop instructional materials for acquisition personnel
+      in coordination with private and public acquisition colleges and
+      training facilities;
+        (7) evaluate the effectiveness of training and career
+      development programs for acquisition personnel;
+        (8) promote the establishment and utilization of academic
+      programs by colleges and universities in acquisition fields;
+        (9) facilitate, to the extent requested by agencies,
+      interagency intern and training programs;
+        (10) collaborate with other civilian agency acquisition
+      training programs to leverage training supporting all members of
+      the civilian agency acquisition workforce;
+        (11) assist civilian agencies with their acquisition and
+      capital planning efforts; and
+        (12) perform other career management or research functions as
+      directed by the Administrator.
+
+      (b) Budget Resources and Authority. - 
+        (1) In general. - The Administrator shall recommend to the
+      Administrator of General Services sufficient budget resources and
+      authority for the Federal Acquisition Institute to support
+      Government-wide training standards and certification requirements
+      necessary to enhance the mobility and career opportunities of the
+      Federal acquisition workforce.
+        (2) Acquisition workforce training fund. - Subject to the
+      availability of funds, the Administrator of General Services
+      shall provide the Federal Acquisition Institute with amounts from
+      the acquisition workforce training fund established under section
+      1703(i) of this title sufficient to meet the annual budget for
+      the Federal Acquisition Institute requested by the Administrator
+      under paragraph (1).
+
+      (c) Federal Acquisition Institute Board of Directors. - 
+        (1) Reporting to administrator. - The Federal Acquisition
+      Institute shall report through its Board of Directors directly to
+      the Administrator.
+        (2) Composition. - The Board shall be composed of not more than
+      8 individuals from the Federal Government representing a mix of
+      acquisition functional areas, all of whom shall be appointed by
+      the Administrator.
+        (3) Duties. - The Board shall provide general direction to the
+      Federal Acquisition Institute to ensure that the Institute - 
+          (A) meets its statutory requirements;
+          (B) meets the needs of the Federal acquisition workforce;
+          (C) implements appropriate programs;
+          (D) coordinates with appropriate organizations and groups
+        that have an impact on the Federal acquisition workforce;
+          (E) develops and implements plans to meet future challenges
+        of the Federal acquisition workforce; and
+          (F) works closely with the Defense Acquisition University.
+
+        (4) Recommendations. - The Board shall make recommendations to
+      the Administrator regarding the development and execution of the
+      annual budget of the Federal Acquisition Institute.
+
+      (d) Director. - The Director of the Federal Acquisition Institute
+    shall be appointed by, be subject to the direction and control of,
+    and report directly to the Administrator.
+      (e) Annual Report. - The Administrator shall submit to the
+    Committee on Homeland Security and Governmental Affairs and the
+    Committee on Appropriations of the Senate and the Committee on
+    Oversight and Government Reform and the Committee on Appropriations
+    of the House of Representatives an annual report on the projected
+    budget needs and expense plans of the Federal Acquisition Institute
+    to fulfill its mandate.
+
+-SOURCE-
+    (Added Pub. L. 112-81, div. A, title VIII, Sec. 864(b)(1), Dec. 31,
+    2011, 125 Stat. 1523.)
+
+
+-MISC1-
+                               CONSTRUCTION                           
+      Pub. L. 112-81, div. A, title VIII, Sec. 864(e), Dec. 31, 2011,
+    125 Stat. 1525, provided that: "Nothing in this section [enacting
+    this chapter and amending sections 1122, 1703, and 1704 of this
+    title], or the amendments made by this section, shall be construed
+    to preclude the Secretary of Defense from establishing acquisition
+    workforce policies, procedures, training standards, and
+    certification requirements for acquisition positions in the
+    Department of Defense, as provided in chapter 87 of title 10,
+    United States Code."
+
+-End-
+
+
+-CITE-
+    41 USC CHAPTER 13 - ACQUISITION COUNCILS                    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3438,7 +3565,7 @@
 
 -CITE-
     41 USC SUBCHAPTER I - FEDERAL ACQUISITION REGULATORY
-           COUNCIL                                         01/07/2011
+           COUNCIL                                         01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3455,7 +3582,7 @@
 
 
 -CITE-
-    41 USC Sec. 1301                                            01/07/2011
+    41 USC Sec. 1301                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3497,7 +3624,7 @@
 
 
 -CITE-
-    41 USC Sec. 1302                                            01/07/2011
+    41 USC Sec. 1302                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3601,7 +3728,7 @@
 
 
 -CITE-
-    41 USC Sec. 1303                                            01/07/2011
+    41 USC Sec. 1303                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3774,7 +3901,7 @@
 
 
 -CITE-
-    41 USC Sec. 1304                                            01/07/2011
+    41 USC Sec. 1304                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3942,7 +4069,7 @@
 
 
 -CITE-
-    41 USC SUBCHAPTER II - CHIEF ACQUISITION OFFICERS COUNCIL    01/07/2011 
+    41 USC SUBCHAPTER II - CHIEF ACQUISITION OFFICERS COUNCIL   01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -3959,7 +4086,7 @@
 
 
 -CITE-
-    41 USC Sec. 1311                                            01/07/2011
+    41 USC Sec. 1311                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4036,7 +4163,7 @@
 
 
 -CITE-
-    41 USC Sec. 1312                                            01/07/2011
+    41 USC Sec. 1312                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4100,7 +4227,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 15 - COST ACCOUNTING STANDARDS               01/07/2011
+    41 USC CHAPTER 15 - COST ACCOUNTING STANDARDS               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4125,7 +4252,7 @@
 
 
 -CITE-
-    41 USC Sec. 1501                                            01/07/2011
+    41 USC Sec. 1501                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4280,7 +4407,7 @@
 
 
 -CITE-
-    41 USC Sec. 1502                                            01/07/2011
+    41 USC Sec. 1502                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4568,7 +4695,7 @@
 
 
 -CITE-
-    41 USC Sec. 1503                                            01/07/2011
+    41 USC Sec. 1503                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4634,7 +4761,7 @@
 
 
 -CITE-
-    41 USC Sec. 1504                                            01/07/2011
+    41 USC Sec. 1504                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4697,7 +4824,7 @@
 
 
 -CITE-
-    41 USC Sec. 1505                                            01/07/2011
+    41 USC Sec. 1505                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4749,7 +4876,7 @@
 
 
 -CITE-
-    41 USC Sec. 1506                                            01/07/2011
+    41 USC Sec. 1506                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4787,7 +4914,7 @@
 
 -CITE-
     41 USC CHAPTER 17 - AGENCY RESPONSIBILITIES AND
-           PROCEDURES                                      01/07/2011
+           PROCEDURES                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -4821,7 +4948,7 @@
 
 
 -CITE-
-    41 USC Sec. 1701                                            01/07/2011
+    41 USC Sec. 1701                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -5001,7 +5128,7 @@
 
 
 -CITE-
-    41 USC Sec. 1702                                            01/07/2011
+    41 USC Sec. 1702                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -5123,7 +5250,7 @@
 
 
 -CITE-
-    41 USC Sec. 1703                                            01/07/2011
+    41 USC Sec. 1703                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -5162,18 +5289,37 @@
         established are uniform in their implementation throughout the
         agency.
 
-        (2) Duties of administrator. - The Administrator shall issue
-      policies to promote uniform implementation of this section by
-      executive agencies, with due regard for differences in program
-      requirements among agencies that may be appropriate and warranted
-      in view of the agency mission. The Administrator shall coordinate
-      with the Deputy Director for Management of the Office of
-      Management and Budget to ensure that the policies are consistent
-      with the policies and procedures established, and enhanced system
-      of incentives provided, pursuant to section 5051(c) of the
-      Federal Acquisition Streamlining Act of 1994 (Public Law 103-355,
-      108 Stat. 3351). The Administrator shall evaluate the
-      implementation of this section by executive agencies.
+        (2) Duties of administrator. - 
+          (A) In general. - The Administrator shall issue policies to
+        promote uniform implementation of this section by executive
+        agencies, with due regard for differences in program
+        requirements among agencies that may be appropriate and
+        warranted in view of the agency mission. The Administrator
+        shall coordinate with the Deputy Director for Management of the
+        Office of Management and Budget to ensure that the policies are
+        consistent with the policies and procedures established, and
+        enhanced system of incentives provided, pursuant to section
+        5051(c) of the Federal Acquisition Streamlining Act of 1994
+        (Public Law 103-355, 108 Stat. 3351). The Administrator shall
+        evaluate the implementation of this section by executive
+        agencies.
+          (B) Government-wide training standards and certification. -
+        The Administrator, acting through the Federal Acquisition
+        Institute, shall provide and update government-wide training
+        standards and certification requirements, including - 
+            (i) developing and modifying acquisition certification
+          programs;
+            (ii) ensuring quality assurance for agency implementation
+          of government-wide training and certification standards;
+            (iii) analyzing the acquisition training curriculum to
+          ascertain if all certification competencies are covered or if
+          adjustments are necessary;
+            (iv) developing career path information for certified
+          professionals to encourage retention in government positions;
+            (v) coordinating with the Office of Personnel Management
+          for human capital efforts; and
+            (vi) managing rotation assignments to support opportunities
+          to apply skills included in certification.
 
       (d) Authority and Responsibility of Senior Procurement Executive.
     - Subject to the authority, direction, and control of the head of
@@ -5292,8 +5438,8 @@
         (2) Establishment and management of fund. - There is an
       acquisition workforce training fund. The Administrator of General
       Services shall manage the fund through the Federal Acquisition
-      Institute to support the training of the acquisition workforce of
-      the executive agencies, except as provided in paragraph (5). The
+      Institute to support the activities set forth in section 1201(a)
+      of this title, except as provided in paragraph (5). The
       Administrator of General Services shall consult with the
       Administrator in managing the fund.
         (3) Credits to fund. - Five percent of the fees collected by
@@ -5320,9 +5466,10 @@
       University shall use the fees for acquisition workforce training.
         (6) Amounts not to be used for other purposes. - The
       Administrator of General Services, through the Office of Federal
-      Procurememt Policy, shall ensure that amounts collected for
-      training under this subsection are not used for a purpose other
-      than the purpose specified in paragraph (2).
+      Procurememt (!1) Policy, shall ensure that amounts collected
+      under this section are not used for a purpose other than the
+      activities set forth in section 1201(a) of this title.
+
         (7) Amounts are in addition to other amounts for education and
       training. - Amounts credited to the fund are in addition to
       amounts requested and appropriated for education and training
@@ -5381,8 +5528,18 @@
         (5) Sunset provision. - The authority under this subsection
       expires on December 31, 2011.
 
+      (l) Acquisition Internship and Training Programs. - All Federal
+    civilian agency acquisition internship or acquisition training
+    programs shall follow guidelines provided by the Office of Federal
+    Procurement Policy to ensure consistent training standards
+    necessary to develop uniform core competencies throughout the
+    Federal Government.
+
 -SOURCE-
-    (Pub. L. 111-350, Sec. 3, Jan. 4, 2011, 124 Stat. 3702.)
+    (Pub. L. 111-350, Sec. 3, Jan. 4, 2011, 124 Stat. 3702; Pub. L. 112-
+    74, div. C, title V, Sec. 526, Dec. 23, 2011, 125 Stat. 914; Pub.
+    L. 112-81, div. A, title VIII, Sec. 864(c), (d), Dec. 31, 2011, 125
+    Stat. 1525.)
 
 -MISC1-
 
@@ -5462,11 +5619,33 @@
 -REFTEXT-
                             REFERENCES IN TEXT                        
       Section 5051(c) of the Federal Acquisition Streamlining Act of
-    1994, referred to in subsec. (c)(2), is section 5051(c) of Pub. L.
-    103-305, which is set out as a note under this section.
+    1994, referred to in subsec. (c)(2)(A), is section 5051(c) of Pub.
+    L. 103-305, which is set out as a note under this section.
 
 
 -MISC2-
+                                AMENDMENTS                            
+      2011 - Subsec. (c)(2). Pub. L. 112-81, Sec. 864(c)(1), designated
+    existing provisions as subpar. (A), inserted subpar. heading, and
+    added subpar. (B).
+      Subsec. (i)(2). Pub. L. 112-81, Sec. 864(d)(1), substituted "to
+    support the activities set forth in section 1201(a) of this title"
+    for "to support the training of the acquisition workforce of the
+    executive agencies".
+      Subsec. (i)(6). Pub. L. 112-81, Sec. 864(d)(2), substituted
+    "ensure that amounts collected under this section are not used for
+    a purpose other than the activities set forth in section 1201(a) of
+    this title" for "ensure that amounts collected for training under
+    this subsection are not used for a purpose other than the purpose
+    specified in paragraph (2)".
+      Pub. L. 112-74, which directed amendment of par. (6) by striking
+    out "for training" after "amounts collected" and substituting
+    "subparagraphs (A) and (C) to (J) of section 1122(a)(5) of this
+    title" for "paragraph (2)", was not executed to reflect the
+    probable intent of Congress and the subsequent amendment by Pub. L.
+    112-81, Sec. 864(d)(2). See above.
+      Subsec. (l). Pub. L. 112-81, Sec. 864(c)(2), added subsec. (l).
+
             TRAINING FOR CONTRACTING AND ENFORCEMENT PERSONNEL        
       Pub. L. 111-240, title I, Sec. 1343(a), Sept. 27, 2010, 124 Stat.
     2545, provided that: "Not later than 1 year after the date of
@@ -5517,12 +5696,16 @@
         personnel in such workforce contributes to achieving such cost
         goals, schedule goals, and performance goals."
 
+-FOOTNOTE-
+    (!1) So in original. Probably should be "Procurement".
+
+
 -End-
 
 
 
 -CITE-
-    41 USC Sec. 1704                                            01/07/2011
+    41 USC Sec. 1704                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -5546,8 +5729,10 @@
       (b) Associate Administrator for Acquisition Workforce Programs. -
     The Administrator shall designate a member of the Senior Executive
     Service as the Associate Administrator for Acquisition Workforce
-    Programs. The Associate Administrator shall be located in the
-    Federal Acquisition Institute (or its successor). The Associate
+    Programs. The Associate Administrator shall be chosen on the basis
+    of demonstrated knowledge and expertise in acquisition, human
+    capital, and management. The Associate Administrator shall be
+    located in the Office of Federal Procurement Policy. The Associate
     Administrator shall be responsible for - 
         (1) supervising the acquisition workforce training fund
       established under section 1703(i) of this title;
@@ -5559,8 +5744,10 @@
         (4) recommending to the Administrator and other senior
       government officials appropriate programs, policies, and
       practices to increase the quantity and quality of the Federal
-      acquisition workforce; and
-        (5) carrying out other functions that the Administrator may
+      acquisition workforce;
+        (5) implementing workforce programs under subsections (f)
+      through (l) of section 1703 of this title; and
+        (6) carrying out other functions that the Administrator may
       assign.
 
       (c) Acquisition and Contracting Training Programs Within
@@ -5697,7 +5884,8 @@
 -SOURCE-
     (Pub. L. 111-350, Sec. 3, Jan. 4, 2011, 124 Stat. 3706; Pub. L. 111-
     383, div. A, title X, Sec. 1075(e)(15), Jan. 7, 2011, 124 Stat.
-    4375.)
+    4375; Pub. L. 112-81, div. A, title VIII, Sec. 864(a), Dec. 31,
+    2011, 125 Stat. 1522.)
 
 
 -STATAMEND-
@@ -5753,12 +5941,31 @@
     Office of Federal Procurement Policy Act" is changed to "section
     1703(g) of this title" to correct an error in the law.
 
+
+-MISC1-
+                                AMENDMENTS                            
+      2011 - Subsec. (b). Pub. L. 112-81, Sec. 864(a)(2), which
+    directed substitution of "The Associate Administrator shall be
+    located in the Office of Federal Procurement Policy." for "The
+    Associate Administrator for Acquisition Workforce Programs shall be
+    located in the Federal Acquisition Institute (or its successor).",
+    was executed by making the substitution for "The Associate
+    Administrator shall be located in the Federal Acquisition Institute
+    (or its successor)." in introductory provisions, to reflect the
+    probable intent of Congress.
+      Pub. L. 112-81, Sec. 864(a)(1), inserted "The Associate
+    Administrator shall be chosen on the basis of demonstrated
+    knowledge and expertise in acquisition, human capital, and
+    management." after "Programs." in introductory provisions.
+      Subsec. (b)(5), (6). Pub. L. 112-81, Sec. 864(a)(3)-(5), added
+    par. (5) and redesignated former par. (5) as (6).
+
 -End-
 
 
 
 -CITE-
-    41 USC Sec. 1705                                            01/07/2011
+    41 USC Sec. 1705                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -5859,7 +6066,7 @@
 
 
 -CITE-
-    41 USC Sec. 1706                                            01/07/2011
+    41 USC Sec. 1706                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -5925,7 +6132,7 @@
 
 
 -CITE-
-    41 USC Sec. 1707                                            01/07/2011
+    41 USC Sec. 1707                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -6028,7 +6235,7 @@
 
 
 -CITE-
-    41 USC Sec. 1708                                            01/07/2011
+    41 USC Sec. 1708                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -6337,7 +6544,7 @@
 
 
 -CITE-
-    41 USC Sec. 1709                                            01/07/2011
+    41 USC Sec. 1709                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -6432,7 +6639,7 @@
 
 
 -CITE-
-    41 USC Sec. 1710                                            01/07/2011
+    41 USC Sec. 1710                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -6643,7 +6850,7 @@
 
 
 -CITE-
-    41 USC Sec. 1711                                            01/07/2011
+    41 USC Sec. 1711                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -6687,7 +6894,7 @@
 
 
 -CITE-
-    41 USC Sec. 1712                                            01/07/2011
+    41 USC Sec. 1712                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -6768,7 +6975,7 @@
 
 
 -CITE-
-    41 USC Sec. 1713                                            01/07/2011
+    41 USC Sec. 1713                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -6843,7 +7050,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 19 - SIMPLIFIED ACQUISITION PROCEDURES       01/07/2011
+    41 USC CHAPTER 19 - SIMPLIFIED ACQUISITION PROCEDURES       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -6875,7 +7082,7 @@
 
 
 -CITE-
-    41 USC Sec. 1901                                            01/07/2011
+    41 USC Sec. 1901                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -6966,7 +7173,7 @@
 
 
 -CITE-
-    41 USC Sec. 1902                                            01/07/2011
+    41 USC Sec. 1902                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7068,7 +7275,7 @@
 
 
 -CITE-
-    41 USC Sec. 1903                                            01/07/2011
+    41 USC Sec. 1903                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7156,7 +7363,7 @@
 
 
 -CITE-
-    41 USC Sec. 1904                                            01/07/2011
+    41 USC Sec. 1904                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7268,7 +7475,7 @@
 
 
 -CITE-
-    41 USC Sec. 1905                                            01/07/2011
+    41 USC Sec. 1905                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7349,7 +7556,7 @@
 
 
 -CITE-
-    41 USC Sec. 1906                                            01/07/2011
+    41 USC Sec. 1906                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7452,7 +7659,7 @@
 
 
 -CITE-
-    41 USC Sec. 1907                                            01/07/2011
+    41 USC Sec. 1907                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7534,7 +7741,7 @@
 
 
 -CITE-
-    41 USC Sec. 1908                                            01/07/2011
+    41 USC Sec. 1908                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7671,12 +7878,26 @@
     classification of this Act to the Code, see References in Text note
     set out under section 2501 of Title 19 and Tables.
 
+
+-MISC2-
+       ADJUSTMENT FOR INFLATION OF RIGHT-HAND DRIVE PASSENGER SEDANS   
+      Pub. L. 112-81, div. A, title VIII, Sec. 814(b), Dec. 31, 2011,
+    125 Stat. 1491, provided that: "The Department of Defense
+    representative to the Federal Acquisition Regulatory Council
+    established under section 1302 of title 41, United States Code,
+    shall ensure that the threshold established in section 2253 of
+    title 10, United States Code, for the acquisition of right-hand
+    drive passenger sedans is included on the list of dollar thresholds
+    that are subject to adjustment for inflation in accordance with the
+    requirements of section 1908 of title 41, United States Code, and
+    is adjusted pursuant to such provision, as appropriate."
+
 -End-
 
 
 -CITE-
     41 USC CHAPTER 21 - RESTRICTIONS ON OBTAINING AND
-           DISCLOSING CERTAIN INFORMATION                  01/07/2011
+           DISCLOSING CERTAIN INFORMATION                  01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7708,7 +7929,7 @@
 
 
 -CITE-
-    41 USC Sec. 2101                                            01/07/2011
+    41 USC Sec. 2101                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7835,7 +8056,7 @@
 
 
 -CITE-
-    41 USC Sec. 2102                                            01/07/2011
+    41 USC Sec. 2102                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -7920,7 +8141,7 @@
 
 
 -CITE-
-    41 USC Sec. 2103                                            01/07/2011
+    41 USC Sec. 2103                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -8013,7 +8234,7 @@
 
 
 -CITE-
-    41 USC Sec. 2104                                            01/07/2011
+    41 USC Sec. 2104                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -8114,7 +8335,7 @@
 
 
 -CITE-
-    41 USC Sec. 2105                                            01/07/2011
+    41 USC Sec. 2105                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -8232,7 +8453,7 @@
 
 
 -CITE-
-    41 USC Sec. 2106                                            01/07/2011
+    41 USC Sec. 2106                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -8293,7 +8514,7 @@
 
 
 -CITE-
-    41 USC Sec. 2107                                            01/07/2011
+    41 USC Sec. 2107                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -8373,7 +8594,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 23 - MISCELLANEOUS                           01/07/2011
+    41 USC CHAPTER 23 - MISCELLANEOUS                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -8411,7 +8632,7 @@
 
 
 -CITE-
-    41 USC Sec. 2301                                            01/07/2011
+    41 USC Sec. 2301                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -8605,7 +8826,7 @@
 
 
 -CITE-
-    41 USC Sec. 2302                                            01/07/2011
+    41 USC Sec. 2302                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -8770,7 +8991,7 @@
 
 
 -CITE-
-    41 USC Sec. 2303                                            01/07/2011
+    41 USC Sec. 2303                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -8930,7 +9151,7 @@
 
 
 -CITE-
-    41 USC Sec. 2304                                            01/07/2011
+    41 USC Sec. 2304                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -9041,7 +9262,7 @@
 
 
 -CITE-
-    41 USC Sec. 2305                                            01/07/2011
+    41 USC Sec. 2305                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -9087,7 +9308,7 @@
 
 
 -CITE-
-    41 USC Sec. 2306                                            01/07/2011
+    41 USC Sec. 2306                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -9130,7 +9351,7 @@
 
 
 -CITE-
-    41 USC Sec. 2307                                            01/07/2011
+    41 USC Sec. 2307                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -9172,7 +9393,7 @@
 
 
 -CITE-
-    41 USC Sec. 2308                                            01/07/2011
+    41 USC Sec. 2308                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -9251,7 +9472,7 @@
 
 
 -CITE-
-    41 USC Sec. 2309                                            01/07/2011
+    41 USC Sec. 2309                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -9319,7 +9540,7 @@
 
 
 -CITE-
-    41 USC Sec. 2310                                            01/07/2011
+    41 USC Sec. 2310                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -9401,7 +9622,7 @@
 
 
 -CITE-
-    41 USC Sec. 2311                                            01/07/2011
+    41 USC Sec. 2311                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -9465,7 +9686,7 @@
 
 
 -CITE-
-    41 USC Sec. 2312                                            01/07/2011
+    41 USC Sec. 2312                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -9568,7 +9789,7 @@
 
 
 -CITE-
-    41 USC Sec. 2313                                            01/07/2011
+    41 USC Sec. 2313                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -9769,7 +9990,7 @@
 
 
 -CITE-
-    41 USC Division C - Procurement                             01/07/2011
+    41 USC Division C - Procurement                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -9783,7 +10004,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 31 - GENERAL                                 01/07/2011
+    41 USC CHAPTER 31 - GENERAL                                 01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -9812,7 +10033,7 @@
 
 
 -CITE-
-    41 USC Sec. 3101                                            01/07/2011
+    41 USC Sec. 3101                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -10158,7 +10379,7 @@
 
 
 -CITE-
-    41 USC Sec. 3102                                            01/07/2011
+    41 USC Sec. 3102                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -10220,7 +10441,7 @@
 
 
 -CITE-
-    41 USC Sec. 3103                                            01/07/2011
+    41 USC Sec. 3103                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -10281,7 +10502,7 @@
 
 
 -CITE-
-    41 USC Sec. 3104                                            01/07/2011
+    41 USC Sec. 3104                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -10326,7 +10547,7 @@
 
 
 -CITE-
-    41 USC Sec. 3105                                            01/07/2011
+    41 USC Sec. 3105                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -10418,7 +10639,7 @@
 
 
 -CITE-
-    41 USC Sec. 3106                                            01/07/2011
+    41 USC Sec. 3106                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -10484,7 +10705,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 33 - PLANNING AND SOLICITATION               01/07/2011
+    41 USC CHAPTER 33 - PLANNING AND SOLICITATION               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -10517,7 +10738,7 @@
 
 
 -CITE-
-    41 USC Sec. 3301                                            01/07/2011
+    41 USC Sec. 3301                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -10619,7 +10840,7 @@
 
 
 -CITE-
-    41 USC Sec. 3302                                            01/07/2011
+    41 USC Sec. 3302                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -10790,7 +11011,7 @@
 
 
 -CITE-
-    41 USC Sec. 3303                                            01/07/2011
+    41 USC Sec. 3303                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -10879,7 +11100,7 @@
 
 
 -CITE-
-    41 USC Sec. 3304                                            01/07/2011
+    41 USC Sec. 3304                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -11181,7 +11402,7 @@
 
 
 -CITE-
-    41 USC Sec. 3305                                            01/07/2011
+    41 USC Sec. 3305                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -11270,7 +11491,7 @@
 
 
 -CITE-
-    41 USC Sec. 3306                                            01/07/2011
+    41 USC Sec. 3306                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -11452,7 +11673,7 @@
 
 
 -CITE-
-    41 USC Sec. 3307                                            01/07/2011
+    41 USC Sec. 3307                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -11718,7 +11939,7 @@
 
 
 -CITE-
-    41 USC Sec. 3308                                            01/07/2011
+    41 USC Sec. 3308                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -11824,7 +12045,7 @@
 
 
 -CITE-
-    41 USC Sec. 3309                                            01/07/2011
+    41 USC Sec. 3309                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -11980,7 +12201,7 @@
 
 
 -CITE-
-    41 USC Sec. 3310                                            01/07/2011
+    41 USC Sec. 3310                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12041,7 +12262,7 @@
 
 
 -CITE-
-    41 USC Sec. 3311                                            01/07/2011
+    41 USC Sec. 3311                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12225,7 +12446,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 35 - TRUTHFUL COST OR PRICING DATA           01/07/2011
+    41 USC CHAPTER 35 - TRUTHFUL COST OR PRICING DATA           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12254,7 +12475,7 @@
 
 
 -CITE-
-    41 USC Sec. 3501                                            01/07/2011
+    41 USC Sec. 3501                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12345,7 +12566,7 @@
 
 
 -CITE-
-    41 USC Sec. 3502                                            01/07/2011
+    41 USC Sec. 3502                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12491,7 +12712,7 @@
 
 
 -CITE-
-    41 USC Sec. 3503                                            01/07/2011
+    41 USC Sec. 3503                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12562,7 +12783,7 @@
 
 
 -CITE-
-    41 USC Sec. 3504                                            01/07/2011
+    41 USC Sec. 3504                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12623,7 +12844,7 @@
 
 
 -CITE-
-    41 USC Sec. 3505                                            01/07/2011
+    41 USC Sec. 3505                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12697,7 +12918,7 @@
 
 
 -CITE-
-    41 USC Sec. 3506                                            01/07/2011
+    41 USC Sec. 3506                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12816,7 +13037,7 @@
 
 
 -CITE-
-    41 USC Sec. 3507                                            01/07/2011
+    41 USC Sec. 3507                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12878,7 +13099,7 @@
 
 
 -CITE-
-    41 USC Sec. 3508                                            01/07/2011
+    41 USC Sec. 3508                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12920,7 +13141,7 @@
 
 
 -CITE-
-    41 USC Sec. 3509                                            01/07/2011
+    41 USC Sec. 3509                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12971,7 +13192,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 37 - AWARDING OF CONTRACTS                   01/07/2011
+    41 USC CHAPTER 37 - AWARDING OF CONTRACTS                   01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -12998,7 +13219,7 @@
 
 
 -CITE-
-    41 USC Sec. 3701                                            01/07/2011
+    41 USC Sec. 3701                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -13117,7 +13338,7 @@
 
 
 -CITE-
-    41 USC Sec. 3702                                            01/07/2011
+    41 USC Sec. 3702                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -13179,7 +13400,7 @@
 
 
 -CITE-
-    41 USC Sec. 3703                                            01/07/2011
+    41 USC Sec. 3703                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -13262,7 +13483,7 @@
 
 
 -CITE-
-    41 USC Sec. 3704                                            01/07/2011
+    41 USC Sec. 3704                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -13366,7 +13587,7 @@
 
 
 -CITE-
-    41 USC Sec. 3705                                            01/07/2011
+    41 USC Sec. 3705                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -13444,7 +13665,7 @@
 
 
 -CITE-
-    41 USC Sec. 3706                                            01/07/2011
+    41 USC Sec. 3706                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -13489,7 +13710,7 @@
 
 
 -CITE-
-    41 USC Sec. 3707                                            01/07/2011
+    41 USC Sec. 3707                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -13539,7 +13760,7 @@
 
 
 -CITE-
-    41 USC Sec. 3708                                            01/07/2011
+    41 USC Sec. 3708                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -13622,7 +13843,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 39 - SPECIFIC TYPES OF CONTRACTS             01/07/2011
+    41 USC CHAPTER 39 - SPECIFIC TYPES OF CONTRACTS             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14149,7 +14370,7 @@
 
 
 -CITE-
-    41 USC Sec. 3901                                            01/07/2011
+    41 USC Sec. 3901                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14219,7 +14440,7 @@
 
 
 -CITE-
-    41 USC Sec. 3902                                            01/07/2011
+    41 USC Sec. 3902                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14270,7 +14491,7 @@
 
 
 -CITE-
-    41 USC Sec. 3903                                            01/07/2011
+    41 USC Sec. 3903                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14355,7 +14576,7 @@
 
 
 -CITE-
-    41 USC Sec. 3904                                            01/07/2011
+    41 USC Sec. 3904                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14496,7 +14717,7 @@
 
 
 -CITE-
-    41 USC Sec. 3905                                            01/07/2011
+    41 USC Sec. 3905                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14580,7 +14801,7 @@
 
 
 -CITE-
-    41 USC Sec. 3906                                            01/07/2011
+    41 USC Sec. 3906                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14677,7 +14898,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 41 - TASK AND DELIVERY ORDER CONTRACTS       01/07/2011
+    41 USC CHAPTER 41 - TASK AND DELIVERY ORDER CONTRACTS       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14702,7 +14923,7 @@
 
 
 -CITE-
-    41 USC Sec. 4101                                            01/07/2011
+    41 USC Sec. 4101                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14754,7 +14975,7 @@
 
 
 -CITE-
-    41 USC Sec. 4102                                            01/07/2011
+    41 USC Sec. 4102                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14796,7 +15017,7 @@
 
 
 -CITE-
-    41 USC Sec. 4103                                            01/07/2011
+    41 USC Sec. 4103                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -14927,7 +15148,7 @@
 
 
 -CITE-
-    41 USC Sec. 4104                                            01/07/2011
+    41 USC Sec. 4104                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15010,7 +15231,7 @@
 
 
 -CITE-
-    41 USC Sec. 4105                                            01/07/2011
+    41 USC Sec. 4105                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15173,7 +15394,7 @@
 
 
 -CITE-
-    41 USC Sec. 4106                                            01/07/2011
+    41 USC Sec. 4106                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15257,9 +15478,8 @@
         (2) Jurisdiction over protests. - Notwithstanding section 3556
       of title 31, the Comptroller General shall have exclusive
       jurisdiction of a protest authorized under paragraph (1)(B).
-        (3) Effective period. - This subsection shall be in effect for
-      three years, beginning on the date that is 120 days after January
-      28, 2008.
+        (3) Effective period. - Paragraph (1)(B) and paragraph (2) of
+      this subsection shall not be in effect after September 30, 2016.
 
       (g) Task and Delivery Order Ombudsman. - 
         (1) Appointment or designation and responsibilities. - The head
@@ -15278,7 +15498,8 @@
 -SOURCE-
     (Pub. L. 111-350, Sec. 3, Jan. 4, 2011, 124 Stat. 3782; Pub. L. 111-
     383, div. A, title X, Sec. 1075(f)(5)(B), Jan. 7, 2011, 124 Stat.
-    4376.)
+    4376; Pub. L. 112-81, div. A, title VIII, Sec. 813, Dec. 31, 2011,
+    125 Stat. 1491.)
 
 
 -STATAMEND-
@@ -15324,11 +15545,19 @@
     substituted for "competition advocate" for consistency with section
     1705 of the revised title.
 
+
+-MISC1-
+                                AMENDMENTS                            
+      2011 - Subsec. (f)(3). Pub. L. 112-81 amended par. (3) generally.
+    Prior to amendment, text read as follows: "This subsection shall be
+    in effect for three years, beginning on the date that is 120 days
+    after January 28, 2008."
+
 -End-
 
 
 -CITE-
-    41 USC CHAPTER 43 - ALLOWABLE COSTS                         01/07/2011
+    41 USC CHAPTER 43 - ALLOWABLE COSTS                         01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15358,7 +15587,7 @@
 
 
 -CITE-
-    41 USC Sec. 4301                                            01/07/2011
+    41 USC Sec. 4301                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15426,7 +15655,7 @@
 
 
 -CITE-
-    41 USC Sec. 4302                                            01/07/2011
+    41 USC Sec. 4302                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15474,7 +15703,7 @@
 
 
 -CITE-
-    41 USC Sec. 4303                                            01/07/2011
+    41 USC Sec. 4303                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15579,7 +15808,7 @@
 
 
 -CITE-
-    41 USC Sec. 4304                                            01/07/2011
+    41 USC Sec. 4304                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15853,7 +16082,7 @@
 
 
 -CITE-
-    41 USC Sec. 4305                                            01/07/2011
+    41 USC Sec. 4305                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15947,7 +16176,7 @@
 
 
 -CITE-
-    41 USC Sec. 4306                                            01/07/2011
+    41 USC Sec. 4306                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -15992,7 +16221,7 @@
 
 
 -CITE-
-    41 USC Sec. 4307                                            01/07/2011
+    41 USC Sec. 4307                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16045,7 +16274,7 @@
 
 
 -CITE-
-    41 USC Sec. 4308                                            01/07/2011
+    41 USC Sec. 4308                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16091,7 +16320,7 @@
 
 
 -CITE-
-    41 USC Sec. 4309                                            01/07/2011
+    41 USC Sec. 4309                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16137,7 +16366,7 @@
 
 
 -CITE-
-    41 USC Sec. 4310                                            01/07/2011
+    41 USC Sec. 4310                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16282,7 +16511,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 45 - CONTRACT FINANCING                      01/07/2011
+    41 USC CHAPTER 45 - CONTRACT FINANCING                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16307,7 +16536,7 @@
 
 
 -CITE-
-    41 USC Sec. 4501                                            01/07/2011
+    41 USC Sec. 4501                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16366,7 +16595,7 @@
 
 
 -CITE-
-    41 USC Sec. 4502                                            01/07/2011
+    41 USC Sec. 4502                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16424,7 +16653,7 @@
 
 
 -CITE-
-    41 USC Sec. 4503                                            01/07/2011
+    41 USC Sec. 4503                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16477,7 +16706,7 @@
 
 
 -CITE-
-    41 USC Sec. 4504                                            01/07/2011
+    41 USC Sec. 4504                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16534,7 +16763,7 @@
 
 
 -CITE-
-    41 USC Sec. 4505                                            01/07/2011
+    41 USC Sec. 4505                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16597,7 +16826,7 @@
 
 
 -CITE-
-    41 USC Sec. 4506                                            01/07/2011
+    41 USC Sec. 4506                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16698,7 +16927,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 47 - MISCELLANEOUS                           01/07/2011
+    41 USC CHAPTER 47 - MISCELLANEOUS                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16733,7 +16962,7 @@
 
 
 -CITE-
-    41 USC Sec. 4701                                            01/07/2011
+    41 USC Sec. 4701                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16822,7 +17051,7 @@
 
 
 -CITE-
-    41 USC Sec. 4702                                            01/07/2011
+    41 USC Sec. 4702                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -16875,7 +17104,7 @@
 
 
 -CITE-
-    41 USC Sec. 4703                                            01/07/2011
+    41 USC Sec. 4703                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -17012,7 +17241,7 @@
 
 
 -CITE-
-    41 USC Sec. 4704                                            01/07/2011
+    41 USC Sec. 4704                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -17096,7 +17325,7 @@
 
 
 -CITE-
-    41 USC Sec. 4705                                            01/07/2011
+    41 USC Sec. 4705                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -17220,7 +17449,7 @@
 
 
 -CITE-
-    41 USC Sec. 4706                                            01/07/2011
+    41 USC Sec. 4706                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -17439,7 +17668,7 @@
 
 
 -CITE-
-    41 USC Sec. 4707                                            01/07/2011
+    41 USC Sec. 4707                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -17483,7 +17712,7 @@
 
 
 -CITE-
-    41 USC Sec. 4708                                            01/07/2011
+    41 USC Sec. 4708                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -17527,7 +17756,7 @@
 
 
 -CITE-
-    41 USC Sec. 4709                                            01/07/2011
+    41 USC Sec. 4709                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -17579,7 +17808,7 @@
 
 
 -CITE-
-    41 USC Sec. 4710                                            01/07/2011
+    41 USC Sec. 4710                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -17646,7 +17875,7 @@
 
 
 -CITE-
-    41 USC Sec. 4711                                            01/07/2011
+    41 USC Sec. 4711                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -17740,7 +17969,7 @@
 
 -CITE-
     41 USC Subtitle II - Other Advertising and Contract
-           Provisions                                      01/07/2011
+           Provisions                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -17761,7 +17990,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 61 - ADVERTISING                             01/07/2011
+    41 USC CHAPTER 61 - ADVERTISING                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -17783,7 +18012,7 @@
 
 
 -CITE-
-    41 USC Sec. 6101                                            01/07/2011
+    41 USC Sec. 6101                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -17888,7 +18117,7 @@
 
 
 -CITE-
-    41 USC Sec. 6102                                            01/07/2011
+    41 USC Sec. 6102                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -17989,7 +18218,7 @@
 
 
 -CITE-
-    41 USC Sec. 6103                                            01/07/2011
+    41 USC Sec. 6103                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18026,7 +18255,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 63 - GENERAL CONTRACT PROVISIONS             01/07/2011
+    41 USC CHAPTER 63 - GENERAL CONTRACT PROVISIONS             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18058,7 +18287,7 @@
 
 
 -CITE-
-    41 USC Sec. 6301                                            01/07/2011
+    41 USC Sec. 6301                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18156,7 +18385,7 @@
 
 
 -CITE-
-    41 USC Sec. 6302                                            01/07/2011
+    41 USC Sec. 6302                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18207,7 +18436,7 @@
 
 
 -CITE-
-    41 USC Sec. 6303                                            01/07/2011
+    41 USC Sec. 6303                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18246,7 +18475,7 @@
 
 
 -CITE-
-    41 USC Sec. 6304                                            01/07/2011
+    41 USC Sec. 6304                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18286,7 +18515,7 @@
 
 
 -CITE-
-    41 USC Sec. 6305                                            01/07/2011
+    41 USC Sec. 6305                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18510,7 +18739,7 @@
 
 
 -CITE-
-    41 USC Sec. 6306                                            01/07/2011
+    41 USC Sec. 6306                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18584,7 +18813,7 @@
 
 
 -CITE-
-    41 USC Sec. 6307                                            01/07/2011
+    41 USC Sec. 6307                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18638,7 +18867,7 @@
 
 
 -CITE-
-    41 USC Sec. 6308                                            01/07/2011
+    41 USC Sec. 6308                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18686,7 +18915,7 @@
 
 
 -CITE-
-    41 USC Sec. 6309                                            01/07/2011
+    41 USC Sec. 6309                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18781,7 +19010,7 @@
 
 -CITE-
     41 USC CHAPTER 65 - CONTRACTS FOR MATERIALS, SUPPLIES,
-           ARTICLES, AND EQUIPMENT EXCEEDING $10,000       01/07/2011
+           ARTICLES, AND EQUIPMENT EXCEEDING $10,000       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -18813,7 +19042,7 @@
 
 
 -CITE-
-    41 USC Sec. 6501                                            01/07/2011
+    41 USC Sec. 6501                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19004,7 +19233,7 @@
 
 
 -CITE-
-    41 USC Sec. 6502                                            01/07/2011
+    41 USC Sec. 6502                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19145,7 +19374,7 @@
 
 
 -CITE-
-    41 USC Sec. 6503                                            01/07/2011
+    41 USC Sec. 6503                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19237,7 +19466,7 @@
 
 
 -CITE-
-    41 USC Sec. 6504                                            01/07/2011
+    41 USC Sec. 6504                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19299,7 +19528,7 @@
 
 
 -CITE-
-    41 USC Sec. 6505                                            01/07/2011
+    41 USC Sec. 6505                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19363,7 +19592,7 @@
 
 
 -CITE-
-    41 USC Sec. 6506                                            01/07/2011
+    41 USC Sec. 6506                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19436,7 +19665,7 @@
 
 
 -CITE-
-    41 USC Sec. 6507                                            01/07/2011
+    41 USC Sec. 6507                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19555,7 +19784,7 @@
 
 
 -CITE-
-    41 USC Sec. 6508                                            01/07/2011
+    41 USC Sec. 6508                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19644,7 +19873,7 @@
 
 
 -CITE-
-    41 USC Sec. 6509                                            01/07/2011
+    41 USC Sec. 6509                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19722,7 +19951,7 @@
 
 
 -CITE-
-    41 USC Sec. 6510                                            01/07/2011
+    41 USC Sec. 6510                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19779,7 +20008,7 @@
 
 
 -CITE-
-    41 USC Sec. 6511                                            01/07/2011
+    41 USC Sec. 6511                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19859,7 +20088,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 67 - SERVICE CONTRACT LABOR STANDARDS        01/07/2011
+    41 USC CHAPTER 67 - SERVICE CONTRACT LABOR STANDARDS        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19885,7 +20114,7 @@
 
 
 -CITE-
-    41 USC Sec. 6701                                            01/07/2011
+    41 USC Sec. 6701                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -19976,7 +20205,7 @@
 
 
 -CITE-
-    41 USC Sec. 6702                                            01/07/2011
+    41 USC Sec. 6702                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -20066,7 +20295,7 @@
 
 
 -CITE-
-    41 USC Sec. 6703                                            01/07/2011
+    41 USC Sec. 6703                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -20376,7 +20605,7 @@
 
 
 -CITE-
-    41 USC Sec. 6704                                            01/07/2011
+    41 USC Sec. 6704                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -20422,7 +20651,7 @@
 
 
 -CITE-
-    41 USC Sec. 6705                                            01/07/2011
+    41 USC Sec. 6705                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -20505,7 +20734,7 @@
 
 
 -CITE-
-    41 USC Sec. 6706                                            01/07/2011
+    41 USC Sec. 6706                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -20568,7 +20797,7 @@
 
 
 -CITE-
-    41 USC Sec. 6707                                            01/07/2011
+    41 USC Sec. 6707                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -20685,7 +20914,7 @@
 
 
 -CITE-
-    41 USC Subtitle III - Contract Disputes                     01/07/2011
+    41 USC Subtitle III - Contract Disputes                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -20702,7 +20931,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 71 - CONTRACT DISPUTES                       01/07/2011
+    41 USC CHAPTER 71 - CONTRACT DISPUTES                       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -20731,7 +20960,7 @@
 
 
 -CITE-
-    41 USC Sec. 7101                                            01/07/2011
+    41 USC Sec. 7101                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -20830,7 +21059,7 @@
 
 
 -CITE-
-    41 USC Sec. 7102                                            01/07/2011
+    41 USC Sec. 7102                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -20909,7 +21138,7 @@
 
 
 -CITE-
-    41 USC Sec. 7103                                            01/07/2011
+    41 USC Sec. 7103                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -21197,7 +21426,7 @@
 
 
 -CITE-
-    41 USC Sec. 7104                                            01/07/2011
+    41 USC Sec. 7104                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -21268,7 +21497,7 @@
 
 
 -CITE-
-    41 USC Sec. 7105                                            01/07/2011
+    41 USC Sec. 7105                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -21528,7 +21757,7 @@
 
 
 -CITE-
-    41 USC Sec. 7106                                            01/07/2011
+    41 USC Sec. 7106                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -21630,7 +21859,7 @@
 
 
 -CITE-
-    41 USC Sec. 7107                                            01/07/2011
+    41 USC Sec. 7107                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -21789,7 +22018,7 @@
 
 
 -CITE-
-    41 USC Sec. 7108                                            01/07/2011
+    41 USC Sec. 7108                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -21849,7 +22078,7 @@
 
 
 -CITE-
-    41 USC Sec. 7109                                            01/07/2011
+    41 USC Sec. 7109                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -21935,7 +22164,7 @@
 
 
 -CITE-
-    41 USC Subtitle IV - Miscellaneous                          01/07/2011
+    41 USC Subtitle IV - Miscellaneous                          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -21956,7 +22185,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 81 - DRUG-FREE WORKPLACE                     01/07/2011
+    41 USC CHAPTER 81 - DRUG-FREE WORKPLACE                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -21982,7 +22211,7 @@
 
 
 -CITE-
-    41 USC Sec. 8101                                            01/07/2011
+    41 USC Sec. 8101                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -22066,7 +22295,7 @@
 
 
 -CITE-
-    41 USC Sec. 8102                                            01/07/2011
+    41 USC Sec. 8102                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -22195,7 +22424,7 @@
 
 
 -CITE-
-    41 USC Sec. 8103                                            01/07/2011
+    41 USC Sec. 8103                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -22308,7 +22537,7 @@
 
 
 -CITE-
-    41 USC Sec. 8104                                            01/07/2011
+    41 USC Sec. 8104                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -22352,7 +22581,7 @@
 
 
 -CITE-
-    41 USC Sec. 8105                                            01/07/2011
+    41 USC Sec. 8105                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -22407,7 +22636,7 @@
 
 
 -CITE-
-    41 USC Sec. 8106                                            01/07/2011
+    41 USC Sec. 8106                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -22445,7 +22674,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 83 - BUY AMERICAN                            01/07/2011
+    41 USC CHAPTER 83 - BUY AMERICAN                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -22468,7 +22697,7 @@
 
 
 -CITE-
-    41 USC Sec. 8301                                            01/07/2011
+    41 USC Sec. 8301                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -22538,7 +22767,7 @@
 
 
 -CITE-
-    41 USC Sec. 8302                                            01/07/2011
+    41 USC Sec. 8302                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -22648,7 +22877,7 @@
 
 
 -CITE-
-    41 USC Sec. 8303                                            01/07/2011
+    41 USC Sec. 8303                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -22851,7 +23080,7 @@
 
 
 -CITE-
-    41 USC Sec. 8304                                            01/07/2011
+    41 USC Sec. 8304                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -22902,6 +23131,10 @@
                             SIMILAR PROVISIONS                        
       Provisions similar to those in this section and section 8305 of
     this title were contained in the following acts:
+      Pub. L. 112-74, div. A, title VIII, Sec. 8027, Dec. 23, 2011, 125
+    Stat. 811.
+      Pub. L. 112-10, div. A, title VIII, Sec. 8028, Apr. 15, 2011, 125
+    Stat. 63.
       Pub. L. 111-118, div. A, title VIII, Sec. 8030, Dec. 19, 2009,
     123 Stat. 3435.
       Pub. L. 110-329, div. C, title VIII, Sec. 8030, Sept. 30, 2008,
@@ -22951,7 +23184,7 @@
 
 
 -CITE-
-    41 USC Sec. 8305                                            01/07/2011
+    41 USC Sec. 8305                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23004,7 +23237,7 @@
 
 -CITE-
     41 USC CHAPTER 85 - COMMITTEE FOR PURCHASE FROM PEOPLE
-           WHO ARE BLIND OR SEVERELY DISABLED              01/07/2011
+           WHO ARE BLIND OR SEVERELY DISABLED              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23031,7 +23264,7 @@
 
 
 -CITE-
-    41 USC Sec. 8501                                            01/07/2011
+    41 USC Sec. 8501                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23254,7 +23487,7 @@
 
 
 -CITE-
-    41 USC Sec. 8502                                            01/07/2011
+    41 USC Sec. 8502                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23468,7 +23701,7 @@
 
 
 -CITE-
-    41 USC Sec. 8503                                            01/07/2011
+    41 USC Sec. 8503                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23568,7 +23801,7 @@
 
 
 -CITE-
-    41 USC Sec. 8504                                            01/07/2011
+    41 USC Sec. 8504                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23622,7 +23855,7 @@
 
 
 -CITE-
-    41 USC Sec. 8505                                            01/07/2011
+    41 USC Sec. 8505                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23674,7 +23907,7 @@
 
 
 -CITE-
-    41 USC Sec. 8506                                            01/07/2011
+    41 USC Sec. 8506                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23718,7 +23951,7 @@
 
 
 -CITE-
-    41 USC CHAPTER 87 - KICKBACKS                               01/07/2011
+    41 USC CHAPTER 87 - KICKBACKS                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23743,7 +23976,7 @@
 
 
 -CITE-
-    41 USC Sec. 8701                                            01/07/2011
+    41 USC Sec. 8701                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23830,7 +24063,7 @@
 
 
 -CITE-
-    41 USC Sec. 8702                                            01/07/2011
+    41 USC Sec. 8702                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23879,7 +24112,7 @@
 
 
 -CITE-
-    41 USC Sec. 8703                                            01/07/2011
+    41 USC Sec. 8703                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -23961,7 +24194,7 @@
 
 
 -CITE-
-    41 USC Sec. 8704                                            01/07/2011
+    41 USC Sec. 8704                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -24016,7 +24249,7 @@
 
 
 -CITE-
-    41 USC Sec. 8705                                            01/07/2011
+    41 USC Sec. 8705                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -24085,7 +24318,7 @@
 
 
 -CITE-
-    41 USC Sec. 8706                                            01/07/2011
+    41 USC Sec. 8706                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS
@@ -24144,7 +24377,7 @@
 
 
 -CITE-
-    41 USC Sec. 8707                                            01/07/2011
+    41 USC Sec. 8707                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 41 - PUBLIC CONTRACTS

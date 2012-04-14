@@ -1,5 +1,5 @@
 -CITE-
-    32 USC TITLE 32 - NATIONAL GUARD                            01/07/2011
+    32 USC TITLE 32 - NATIONAL GUARD                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -259,7 +259,7 @@
 
 
 -CITE-
-    32 USC CHAPTER 1 - ORGANIZATION                             01/07/2011
+    32 USC CHAPTER 1 - ORGANIZATION                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -306,7 +306,7 @@
 
 
 -CITE-
-    32 USC Sec. 101                                             01/07/2011
+    32 USC Sec. 101                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -577,7 +577,7 @@
 
 
 -CITE-
-    32 USC Sec. 102                                             01/07/2011
+    32 USC Sec. 102                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -632,7 +632,7 @@
 
 
 -CITE-
-    32 USC Sec. 103                                             01/07/2011
+    32 USC Sec. 103                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -686,7 +686,7 @@
 
 
 -CITE-
-    32 USC Sec. 104                                             01/07/2011
+    32 USC Sec. 104                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -997,7 +997,7 @@
 
 
 -CITE-
-    32 USC Sec. 105                                             01/07/2011
+    32 USC Sec. 105                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1088,7 +1088,7 @@
 
 
 -CITE-
-    32 USC Sec. 106                                             01/07/2011
+    32 USC Sec. 106                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1132,7 +1132,7 @@
 
 
 -CITE-
-    32 USC Sec. 107                                             01/07/2011
+    32 USC Sec. 107                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1363,7 +1363,7 @@
 
 
 -CITE-
-    32 USC Sec. 108                                             01/07/2011
+    32 USC Sec. 108                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1425,7 +1425,7 @@
 
 
 -CITE-
-    32 USC Sec. 109                                             01/07/2011
+    32 USC Sec. 109                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1573,7 +1573,7 @@
 
 
 -CITE-
-    32 USC Sec. 110                                             01/07/2011
+    32 USC Sec. 110                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1612,7 +1612,7 @@
 
 
 -CITE-
-    32 USC Sec. 111                                             01/07/2011
+    32 USC Sec. 111                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1624,7 +1624,7 @@
 -STATUTE-
       In time of war, or of emergency declared by Congress, the
     President may suspend the operation of any provision of sections
-    307(e), 309, 310, and 323(d) and (e) )1(! of this title with
+    307(e), 309, 310, and 323(d) and (e) (!1) of this title with
     respect to the Army National Guard or the Air National Guard.
 
 
@@ -1674,7 +1674,7 @@
     President.
 
 -FOOTNOTE-
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
@@ -1682,7 +1682,7 @@
 
 
 -CITE-
-    32 USC Sec. 112                                             01/07/2011
+    32 USC Sec. 112                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -1843,7 +1843,7 @@
     activities carried out under this section during the preceding
     fiscal year. The report shall include the following:
         (1) The number of members of the National Guard excluded under
-      subsection (e) )1(! from the computation of end strengths.
+      subsection (e) (!1) from the computation of end strengths.
 
         (2) A description of the drug interdiction and counter-drug
       activities conducted under State drug interdiction and counter-
@@ -2130,7 +2130,7 @@
       Defense for the National Guard for such fiscal year."
 
 -FOOTNOTE-
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
@@ -2138,7 +2138,7 @@
 
 
 -CITE-
-    32 USC Sec. 113                                             01/07/2011
+    32 USC Sec. 113                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2219,7 +2219,7 @@
 
 
 -CITE-
-    32 USC Sec. 114                                             01/07/2011
+    32 USC Sec. 114                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2265,7 +2265,7 @@
 
 
 -CITE-
-    32 USC Sec. 115                                             01/07/2011
+    32 USC Sec. 115                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2288,14 +2288,14 @@
     time National Guard duty shall be treated as inactive-duty
     training (including with respect to travel to and from such duty)
     for purposes of any provision of law other than sections 206 and
-    435 of title 37.
+    495 of title 37.
       (b) Service Credit. - A member ordered to funeral honors duty
     under this section shall be required to perform a minimum of two
     hours of such duty in order to receive - 
         (1) service credit under section 12732(a)(2)(E) of title 10;
       and
         (2) as directed by the Secretary concerned, either - 
-          (A) the allowance under section 435 of title 37; or
+          (A) the allowance under section 495 of title 37; or
           (B) compensation under section 206 of title 37.
 
       (c) Reimbursable Expenses. - A member who performs funeral honors
@@ -2311,11 +2311,24 @@
     1999, 113 Stat. 627; amended Pub. L. 106-398, Sec. 1 [[div. A],
     title V, Sec. 575(a)(1)], Oct. 30, 2000, 114 Stat. 1654, 1654A-138;
     Pub. L. 107-107, div. A, title V, Sec. 562(b), Dec. 28, 2001, 115
-    Stat. 1119.)
+    Stat. 1119; Pub. L. 112-81, div. A, title VI, Sec. 631(f)(4)(A),
+    Dec. 31, 2011, 125 Stat. 1465.)
+
+-COD-
+                               CODIFICATION                           
+      Section 631(f)(4)(A) of Pub. L. 112-81, which directed that this
+    title be amended by conforming any references to sections of title
+    37, United States Code, which were transferred and redesignated by
+    "subsection (c)" of section 631, was executed by conforming the
+    references to those sections as transferred and redesignated by
+    subsection (d) of section 631, to reflect the probable intent of
+    Congress.
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2011 - Subsecs. (a), (b)(2)(A). Pub. L. 112-81 substituted "495"
+    for "435". See Codification note above.
       2001 - Subsec. (a). Pub. L. 107-107 inserted at end "Performance
     of funeral honors duty by such a member not on active duty or full-
     time National Guard duty shall be treated as inactive-duty
@@ -2343,7 +2356,7 @@
 
 
 -CITE-
-    32 USC CHAPTER 3 - PERSONNEL                                01/07/2011
+    32 USC CHAPTER 3 - PERSONNEL                                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2432,7 +2445,7 @@
 
 
 -CITE-
-    32 USC Sec. 301                                             01/07/2011
+    32 USC Sec. 301                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2473,7 +2486,7 @@
 
 
 -CITE-
-    32 USC Sec. 302                                             01/07/2011
+    32 USC Sec. 302                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2557,7 +2570,7 @@
 
 
 -CITE-
-    32 USC Sec. 303                                             01/07/2011
+    32 USC Sec. 303                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2671,7 +2684,7 @@
 
 
 -CITE-
-    32 USC Sec. 304                                             01/07/2011
+    32 USC Sec. 304                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2755,7 +2768,7 @@
 
 
 -CITE-
-    32 USC Sec. 305                                             01/07/2011
+    32 USC Sec. 305                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -2893,7 +2906,7 @@
 
 
 -CITE-
-    32 USC Sec. 307                                             01/07/2011
+    32 USC Sec. 307                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3099,7 +3112,7 @@
 
 
 -CITE-
-    32 USC Sec. 308                                             01/07/2011
+    32 USC Sec. 308                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3174,7 +3187,7 @@
 
 
 -CITE-
-    32 USC Sec. 309                                             01/07/2011
+    32 USC Sec. 309                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3244,7 +3257,7 @@
 
 
 -CITE-
-    32 USC Sec. 310                                             01/07/2011
+    32 USC Sec. 310                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3345,7 +3358,7 @@
 
 
 -CITE-
-    32 USC Sec. 312                                             01/07/2011
+    32 USC Sec. 312                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3398,7 +3411,7 @@
 
 
 -CITE-
-    32 USC Sec. 313                                             01/07/2011
+    32 USC Sec. 313                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3496,7 +3509,7 @@
 
 
 -CITE-
-    32 USC Sec. 314                                             01/07/2011
+    32 USC Sec. 314                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3611,7 +3624,7 @@
 
 
 -CITE-
-    32 USC Sec. 315                                             01/07/2011
+    32 USC Sec. 315                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3682,12 +3695,47 @@
       1988 - Subsecs. (a), (b). Pub. L. 100-456 struck out "the Canal
     Zone," after "Puerto Rico,".
 
+
+-EXEC-
+    DELEGATION OF FUNCTIONS AND AUTHORITY UNDER SECTIONS 315 AND 325 OF
+                       TITLE 32, UNITED STATES CODE
+      Memorandum of President of the United States, Apr. 14, 2011, 76
+    F.R. 22003, provided:
+      Memorandum for the Secretary of Defense
+      By the authority vested in me as President by the Constitution
+    and the laws of the United States of America, including section 301
+    of title 3, United States Code, I hereby delegate to you: (a) the
+    functions and authority of the President contained in section 315
+    of title 32, United States Code, to permit a commissioned officer
+    of the Regular Army or Regular Air Force to accept a commission in
+    the Army National Guard or the Air National Guard, as the case may
+    be, terminable at your discretion, without prejudicing his or her
+    rank and without vacating his or her regular appointment; and (b)
+    the functions and authority of the President contained in section
+    325 of title 32, United States Code, to authorize the service of an
+    officer of the Army National Guard or the Air National Guard on
+    active duty without relieving that officer from duty in the
+    National Guard of his or her State, or of the Commonwealth of
+    Puerto Rico, Guam, or the United States Virgin Islands, or the
+    District of Columbia and to give such authorization in advance for
+    the purpose of establishing the succession of command of a unit.
+      This delegation of functions and authority supersedes and
+    replaces the July 23, 2004, delegation to the Secretary of Defense
+    of the functions and authority of the President contained in
+    section 325 of title 32, United States Code.
+      You are further authorized and directed to make necessary
+    arrangements to fund the exercise of these functions and authority
+    from the proper appropriation, prescribe regulations to implement
+    these functions and authority, and to publish this memorandum in
+    the Federal Register.
+                                                           Barack Obama.
+
 -End-
 
 
 
 -CITE-
-    32 USC Sec. 316                                             01/07/2011
+    32 USC Sec. 316                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3727,7 +3775,7 @@
 
 
 -CITE-
-    32 USC Sec. 317                                             01/07/2011
+    32 USC Sec. 317                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3777,12 +3825,44 @@
     elsewhere" The words "including outdoor target practice" and "field
     and coast defense instruction" are omitted as surplusage.
 
+                      USUAL AND CUSTOMARY ARRANGEMENT                  
+      Pub. L. 112-81, div. A, title V, Sec. 515(c), Dec. 31, 2011, 125
+    Stat. 1395, provided that:
+      "(1) Dual-status commander. - When the Armed Forces and the
+    National Guard are employed simultaneously in support of civil
+    authorities in the United States, appointment of a commissioned
+    officer as a dual-status commander serving on active duty and duty
+    in, or with, the National Guard of a State under sections 315 or
+    325 of title 32, United States Code, as commander of Federal forces
+    by Federal authorities and as commander of State National Guard
+    forces by State authorities, should be the usual and customary
+    command and control arrangement, including for missions involving a
+    major disaster or emergency as those terms are defined in section
+    102 of the Robert T. Stafford Disaster Relief and Emergency
+    Assistance Act (42 U.S.C. 5122). The chain of command for the Armed
+    Forces shall remain in accordance with sections 162(b) and 164(c)
+    of title 10, United States Code.
+      "(2) State authorities supported. - When a major disaster or
+    emergency occurs in any area subject to the laws of any State,
+    Territory, or the District of Columbia, the Governor of the State
+    affected normally should be the principal civil authority supported
+    by the primary Federal agency and its supporting Federal entities,
+    and the Adjutant General of the State or his or her subordinate
+    designee normally should be the principal military authority
+    supported by the dual-status commander when acting in his or her
+    State capacity.
+      "(3) Rule of construction. - Nothing in paragraphs (1) or (2)
+    shall be construed to preclude or limit, in any way, the
+    authorities of the President, the Secretary of Defense, or the
+    Governor of any State to direct, control, and prescribe command and
+    control arrangements for forces under their command."
+
 -End-
 
 
 
 -CITE-
-    32 USC Secs. 318 to 321                                     01/07/2011
+    32 USC Secs. 318 to 321                                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3821,7 +3901,7 @@
 
 
 -CITE-
-    32 USC Sec. 322                                             01/07/2011
+    32 USC Sec. 322                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -3902,7 +3982,7 @@
 
 
 -CITE-
-    32 USC Sec. 323                                             01/07/2011
+    32 USC Sec. 323                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4102,7 +4182,7 @@
 
 
 -CITE-
-    32 USC Sec. 324                                             01/07/2011
+    32 USC Sec. 324                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4198,7 +4278,7 @@
 
 
 -CITE-
-    32 USC Sec. 325                                             01/07/2011
+    32 USC Sec. 325                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4300,32 +4380,30 @@
     Zone," after "Puerto Rico".
 
 
+-TRANS-
+                          DELEGATION OF FUNCTIONS                      
+      Functions and authority of President under this section delegated
+    to the Secretary of Defense, see Memorandum of President of the
+    United States, Apr. 14, 2011, 76 F.R. 22003, set out as a note
+    under section 315 of this title.
+
+
 -EXEC-
     NATIONAL GUARD SUPPORT FOR 2004 DEMOCRATIC AND REPUBLICAN NATIONAL
                  CONVENTIONS AND OTHER APPROPRIATE EVENTS
       Memorandum of President of the United States, July 23, 2004, 69
-    F.R. 46397, provided:
-      Memorandum for the Secretary of Defense
-      By the authority vested in me as President by the Constitution
-    and the laws of the United States, including section 301 of title
-    3, United States Code, I hereby delegate to you the functions and
-    authority of the President contained in section 325 of title 32,
-    United States Code, with respect to activities related to the 2004
-    Democratic and Republican National Conventions, and other
-    appropriate events as you determine from time to time in
-    consultation with the Assistant to the President for Homeland
-    Security.
-      You are further authorized and directed to make necessary
-    arrangements to fund this activity from the proper appropriations
-    and to publish this memorandum in the Federal Register.
-                                                         George W. Bush.
+    F.R. 46397, which delegated to the Secretary of Defense the
+    functions and authority of the President under this section, was
+    superseded by Memorandum of President of the United States, Apr.
+    14, 2011, 69 F.R. 22003, set out as a note under section 315 of
+    this title.
 
 -End-
 
 
 
 -CITE-
-    32 USC Sec. 326                                             01/07/2011
+    32 USC Sec. 326                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4386,7 +4464,7 @@
 
 
 -CITE-
-    32 USC Sec. 327                                             01/07/2011
+    32 USC Sec. 327                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4522,7 +4600,7 @@
 
 
 -CITE-
-    32 USC Sec. 328                                             01/07/2011
+    32 USC Sec. 328                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4565,7 +4643,7 @@
 
 
 -CITE-
-    32 USC Secs. 329 to 333                                     01/07/2011
+    32 USC Secs. 329 to 333                                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4608,7 +4686,7 @@
 
 
 -CITE-
-    32 USC Sec. 334                                             01/07/2011
+    32 USC Sec. 334                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4646,7 +4724,7 @@
 
 
 -CITE-
-    32 USC Sec. 335                                             01/07/2011
+    32 USC Sec. 335                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4666,7 +4744,7 @@
 
 
 -CITE-
-    32 USC CHAPTER 5 - TRAINING                                 01/07/2011
+    32 USC CHAPTER 5 - TRAINING                                 01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -4704,7 +4782,7 @@
 
 
 -CITE-
-    32 USC Sec. 501                                             01/07/2011
+    32 USC Sec. 501                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5062,7 +5140,7 @@
 
 
 -CITE-
-    32 USC Sec. 502                                             01/07/2011
+    32 USC Sec. 502                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5251,7 +5329,7 @@
 
 
 -CITE-
-    32 USC Sec. 503                                             01/07/2011
+    32 USC Sec. 503                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5349,7 +5427,7 @@
 
 
 -CITE-
-    32 USC Sec. 504                                             01/07/2011
+    32 USC Sec. 504                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5422,7 +5500,7 @@
 
 
 -CITE-
-    32 USC Sec. 505                                             01/07/2011
+    32 USC Sec. 505                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5509,7 +5587,7 @@
 
 
 -CITE-
-    32 USC Sec. 506                                             01/07/2011
+    32 USC Sec. 506                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5583,7 +5661,7 @@
 
 
 -CITE-
-    32 USC Sec. 507                                             01/07/2011
+    32 USC Sec. 507                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5633,7 +5711,7 @@
 
 
 -CITE-
-    32 USC Sec. 508                                             01/07/2011
+    32 USC Sec. 508                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -5703,7 +5781,7 @@
 
 
 -CITE-
-    32 USC Sec. 509                                             01/07/2011
+    32 USC Sec. 509                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6053,7 +6131,7 @@
 
 
 -CITE-
-    32 USC CHAPTER 7 - SERVICE, SUPPLY, AND PROCUREMENT         01/07/2011
+    32 USC CHAPTER 7 - SERVICE, SUPPLY, AND PROCUREMENT         01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6116,7 +6194,7 @@
 
 
 -CITE-
-    32 USC Sec. 701                                             01/07/2011
+    32 USC Sec. 701                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6165,7 +6243,7 @@
 
 
 -CITE-
-    32 USC Sec. 702                                             01/07/2011
+    32 USC Sec. 702                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6266,7 +6344,7 @@
 
 
 -CITE-
-    32 USC Sec. 703                                             01/07/2011
+    32 USC Sec. 703                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6365,7 +6443,7 @@
 
 
 -CITE-
-    32 USC Sec. 704                                             01/07/2011
+    32 USC Sec. 704                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6423,7 +6501,7 @@
 
 
 -CITE-
-    32 USC Sec. 705                                             01/07/2011
+    32 USC Sec. 705                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6492,7 +6570,7 @@
 
 
 -CITE-
-    32 USC Sec. 706                                             01/07/2011
+    32 USC Sec. 706                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6505,7 +6583,7 @@
 -STATUTE-
       So far as practicable, whenever units, organizations, or members
     of the National Guard are returned to their National Guard status
-    under section 325(b) )1(! of this title, arms and equipment that
+    under section 325(b) (!1) of this title, arms and equipment that
     the Secretary concerned determines are sufficient to accomplish
     their peacetime mission shall be returned with them.
 
@@ -6537,7 +6615,7 @@
     A], title V, Sec. 517(b)(1), Oct. 14, 2008, 122 Stat. 4442.
 
 -FOOTNOTE-
-    )1(! See References in Text note below.
+    (!1) See References in Text note below.
 
 
 -End-
@@ -6545,7 +6623,7 @@
 
 
 -CITE-
-    32 USC Sec. 707                                             01/07/2011
+    32 USC Sec. 707                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6585,7 +6663,7 @@
 
 
 -CITE-
-    32 USC Sec. 708                                             01/07/2011
+    32 USC Sec. 708                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -6748,7 +6826,7 @@
 
 
 -CITE-
-    32 USC Sec. 709                                             01/07/2011
+    32 USC Sec. 709                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7492,7 +7570,7 @@
 
 
 -CITE-
-    32 USC Sec. 710                                             01/07/2011
+    32 USC Sec. 710                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7748,7 +7826,7 @@
 
 
 -CITE-
-    32 USC Sec. 711                                             01/07/2011
+    32 USC Sec. 711                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7804,7 +7882,7 @@
 
 
 -CITE-
-    32 USC Sec. 712                                             01/07/2011
+    32 USC Sec. 712                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7867,7 +7945,7 @@
 
 
 -CITE-
-    32 USC Sec. 713                                             01/07/2011
+    32 USC Sec. 713                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -7910,7 +7988,7 @@
 
 
 -CITE-
-    32 USC Sec. 714                                             01/07/2011
+    32 USC Sec. 714                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8022,7 +8100,7 @@
 
 
 -CITE-
-    32 USC Sec. 715                                             01/07/2011
+    32 USC Sec. 715                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8184,7 +8262,7 @@
 
 
 -CITE-
-    32 USC Sec. 716                                             01/07/2011
+    32 USC Sec. 716                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8313,7 +8391,7 @@
 
 
 -CITE-
-    32 USC Sec. 717                                             01/07/2011
+    32 USC Sec. 717                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8333,7 +8411,7 @@
 
 
 -CITE-
-    32 USC CHAPTER 9 - HOMELAND DEFENSE ACTIVITIES              01/07/2011
+    32 USC CHAPTER 9 - HOMELAND DEFENSE ACTIVITIES              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8358,7 +8436,7 @@
 
 
 -CITE-
-    32 USC Sec. 901                                             01/07/2011
+    32 USC Sec. 901                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8388,7 +8466,7 @@
 
 
 -CITE-
-    32 USC Sec. 902                                             01/07/2011
+    32 USC Sec. 902                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8400,7 +8478,7 @@
 -STATUTE-
       The Secretary of Defense may provide funds to a Governor to
     employ National Guard units or members to conduct homeland defense
-    activities that the Secretary,)1(! determines to be necessary and
+    activities that the Secretary,(!1) determines to be necessary and
     appropriate for participation by the National Guard units or
     members, as the case may be.
 
@@ -8416,7 +8494,7 @@
       2006 - Pub. L. 109-364 struck out "(a)" before "The Secretary".
 
 -FOOTNOTE-
-    )1(! So in original. The comma probably should not appear.
+    (!1) So in original. The comma probably should not appear.
 
 
 -End-
@@ -8424,7 +8502,7 @@
 
 
 -CITE-
-    32 USC Sec. 903                                             01/07/2011
+    32 USC Sec. 903                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8446,7 +8524,7 @@
 
 
 -CITE-
-    32 USC Sec. 904                                             01/07/2011
+    32 USC Sec. 904                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8499,7 +8577,7 @@
 
 
 -CITE-
-    32 USC Sec. 905                                             01/07/2011
+    32 USC Sec. 905                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8534,7 +8612,7 @@
 
 
 -CITE-
-    32 USC Sec. 906                                             01/07/2011
+    32 USC Sec. 906                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8566,7 +8644,7 @@
 
 
 -CITE-
-    32 USC Sec. 907                                             01/07/2011
+    32 USC Sec. 907                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8591,7 +8669,7 @@
 
 
 -CITE-
-    32 USC Sec. 908                                             01/07/2011
+    32 USC Sec. 908                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 32 - NATIONAL GUARD
@@ -8601,13 +8679,14 @@
     Sec. 908. Annual report
 
 -STATUTE-
-      (a) Requirement for Report. - After the end of each fiscal year,
-    the Secretary of Defense shall submit to the congressional defense
-    committees a report regarding any assistance provided and
-    activities carried out under this chapter during that fiscal year.
-    The report for a fiscal year shall be submitted not later than
-    March 31 of the year following the year in which such fiscal year
-    ended.
+      (a) Requirement for Report. - After the end of any fiscal year
+    during which any assistance was provided or activities were carried
+    out under this chapter, the Secretary of Defense shall submit to
+    the congressional defense committees a report regarding any
+    assistance provided and activities carried out under this chapter
+    during that fiscal year. The report for a fiscal year shall be
+    submitted not later than March 31 of the year following the year in
+    which such fiscal year ended.
       (b) Content. - The report for a fiscal year shall include the
     following matters:
         (1) The numbers of members of the National Guard excluded under
@@ -8625,11 +8704,16 @@
 -SOURCE-
     (Added Pub. L. 108-375, div. A, title V, Sec. 512(a)(1), Oct. 28,
     2004, 118 Stat. 1879; amended Pub. L. 109-364, div. A, title X,
-    Sec. 1071(b)(2), Oct. 17, 2006, 120 Stat. 2400.)
+    Sec. 1071(b)(2), Oct. 17, 2006, 120 Stat. 2400; Pub. L. 112-81,
+    div. A, title X, Sec. 1065(a), Dec. 31, 2011, 125 Stat. 1588.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2011 - Subsec. (a). Pub. L. 112-81 substituted "After the end of
+    any fiscal year during which any assistance was provided or
+    activities were carried out under this chapter," for "After the end
+    of each fiscal year,".
       2006 - Subsec. (b)(1). Pub. L. 109-364 substituted "(i)(13)" for
     "(i)".
 

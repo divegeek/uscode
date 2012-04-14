@@ -1,8 +1,10 @@
 -CITE-
-    8 USC TITLE 8 - ALIENS AND NATIONALITY                      01/07/2011
+    8 USC TITLE 8 - ALIENS AND NATIONALITY                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
+    
+-HEAD-    
                      TITLE 8 - ALIENS AND NATIONALITY                 
 
 
@@ -29,7 +31,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 1 - GENERAL PROVISIONS                        01/07/2011
+    8 USC CHAPTER 1 - GENERAL PROVISIONS                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43,7 +45,7 @@
 
 
 -CITE-
-    8 USC Secs. 1 to 18                                         01/07/2011
+    8 USC Secs. 1 to 18                                         01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -158,7 +160,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 2 - ELECTIVE FRANCHISE                        01/07/2011
+    8 USC CHAPTER 2 - ELECTIVE FRANCHISE                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -172,7 +174,7 @@
 
 
 -CITE-
-    8 USC Secs. 31, 32                                          01/07/2011
+    8 USC Secs. 31, 32                                          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -190,7 +192,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 3 - CIVIL RIGHTS                              01/07/2011
+    8 USC CHAPTER 3 - CIVIL RIGHTS                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -204,7 +206,7 @@
 
 
 -CITE-
-    8 USC Secs. 41 to 43                                        01/07/2011
+    8 USC Secs. 41 to 43                                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -223,7 +225,7 @@
 
 
 -CITE-
-    8 USC Secs. 44, 45                                          01/07/2011
+    8 USC Secs. 44, 45                                          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -248,7 +250,7 @@
 
 
 -CITE-
-    8 USC Secs. 46 to 51                                        01/07/2011
+    8 USC Secs. 46 to 51                                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -267,7 +269,7 @@
 
 
 -CITE-
-    8 USC Sec. 52                                               01/07/2011
+    8 USC Sec. 52                                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -289,7 +291,7 @@
 
 
 -CITE-
-    8 USC Secs. 53 to 56                                        01/07/2011
+    8 USC Secs. 53 to 56                                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -308,7 +310,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 4 - FREEDMEN                                  01/07/2011
+    8 USC CHAPTER 4 - FREEDMEN                                  01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -322,7 +324,7 @@
 
 
 -CITE-
-    8 USC Secs. 61 to 65                                        01/07/2011
+    8 USC Secs. 61 to 65                                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -349,7 +351,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 5 - ALIEN OWNERSHIP OF LAND                   01/07/2011
+    8 USC CHAPTER 5 - ALIEN OWNERSHIP OF LAND                   01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -363,7 +365,7 @@
 
 
 -CITE-
-    8 USC Secs. 71 to 78                                        01/07/2011
+    8 USC Secs. 71 to 78                                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -382,7 +384,7 @@
 
 
 -CITE-
-    8 USC Secs. 79 to 82                                        01/07/2011
+    8 USC Secs. 79 to 82                                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -407,7 +409,7 @@
 
 
 -CITE-
-    8 USC Secs. 83 to 86                                        01/07/2011
+    8 USC Secs. 83 to 86                                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -425,7 +427,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 6 - IMMIGRATION                               01/07/2011
+    8 USC CHAPTER 6 - IMMIGRATION                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -439,7 +441,7 @@
 
 -CITE-
     8 USC SUBCHAPTER I - IMMIGRATION AND NATURALIZATION
-           AGENCIES, OFFICERS, AND STATIONS                01/07/2011
+           AGENCIES, OFFICERS, AND STATIONS                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -456,7 +458,7 @@
 
 
 -CITE-
-    8 USC Secs. 100, 101                                        01/07/2011
+    8 USC Secs. 100, 101                                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -477,7 +479,7 @@
 
 
 -CITE-
-    8 USC Sec. 102                                              01/07/2011
+    8 USC Sec. 102                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -502,7 +504,7 @@
 
 
 -CITE-
-    8 USC Secs. 103, 103a                                       01/07/2011
+    8 USC Secs. 103, 103a                                       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -545,7 +547,7 @@
 
 
 -CITE-
-    8 USC Sec. 104                                              01/07/2011
+    8 USC Sec. 104                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -570,7 +572,7 @@
 
 
 -CITE-
-    8 USC Sec. 105                                              01/07/2011
+    8 USC Sec. 105                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -592,7 +594,7 @@
 
 
 -CITE-
-    8 USC Secs. 106 to 106c                                     01/07/2011
+    8 USC Secs. 106 to 106c                                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -619,7 +621,7 @@
 
 
 -CITE-
-    8 USC Sec. 107                                              01/07/2011
+    8 USC Sec. 107                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -643,7 +645,7 @@
 
 
 -CITE-
-    8 USC Secs. 108, 109                                        01/07/2011
+    8 USC Secs. 108, 109                                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -672,7 +674,7 @@
 
 
 -CITE-
-    8 USC Secs. 109a to 109d                                    01/07/2011
+    8 USC Secs. 109a to 109d                                    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -706,7 +708,7 @@
 
 
 -CITE-
-    8 USC Sec. 110                                              01/07/2011
+    8 USC Sec. 110                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -730,7 +732,7 @@
 
 
 -CITE-
-    8 USC Sec. 111                                              01/07/2011
+    8 USC Sec. 111                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -750,7 +752,7 @@
 
 
 -CITE-
-    8 USC Sec. 112                                              01/07/2011
+    8 USC Sec. 112                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -777,7 +779,7 @@
 
 
 -CITE-
-    8 USC Sec. 113                                              01/07/2011
+    8 USC Sec. 113                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -799,7 +801,7 @@
 
 
 -CITE-
-    8 USC Sec. 114                                              01/07/2011
+    8 USC Sec. 114                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -827,7 +829,7 @@
 
 
 -CITE-
-    8 USC Secs. 115, 116                                        01/07/2011
+    8 USC Secs. 115, 116                                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -853,7 +855,7 @@
 
 
 -CITE-
-    8 USC Secs. 117, 118                                        01/07/2011
+    8 USC Secs. 117, 118                                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -925,7 +927,7 @@
 
 -CITE-
     8 USC SUBCHAPTER II - REGULATION AND RESTRICTION OF
-           IMMIGRATION IN GENERAL                          01/07/2011
+           IMMIGRATION IN GENERAL                          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -941,7 +943,7 @@
 
 
 -CITE-
-    8 USC Sec. 131                                              01/07/2011
+    8 USC Sec. 131                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -967,7 +969,7 @@
 
 
 -CITE-
-    8 USC Secs. 132 to 137-10                                   01/07/2011
+    8 USC Secs. 132 to 137-10                                   01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1031,7 +1033,7 @@
 
 
 -CITE-
-    8 USC Sec. 137a                                             01/07/2011
+    8 USC Sec. 137a                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1079,7 +1081,7 @@
 
 
 -CITE-
-    8 USC Secs. 137b to 173                                     01/07/2011
+    8 USC Secs. 137b to 173                                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1218,7 +1220,7 @@
 
 
 -CITE-
-    8 USC Sec. 174                                              01/07/2011
+    8 USC Sec. 174                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1245,7 +1247,7 @@
 
 
 -CITE-
-    8 USC Secs. 175 to 181                                      01/07/2011
+    8 USC Secs. 175 to 181                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1290,7 +1292,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER III - QUOTA AND NONQUOTA IMMIGRANTS        01/07/2011
+    8 USC SUBCHAPTER III - QUOTA AND NONQUOTA IMMIGRANTS        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1305,7 +1307,7 @@
 
 
 -CITE-
-    8 USC Secs. 201 to 204                                      01/07/2011
+    8 USC Secs. 201 to 204                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1339,7 +1341,7 @@
 
 
 -CITE-
-    8 USC Secs. 204a, 204b                                      01/07/2011
+    8 USC Secs. 204a, 204b                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1362,7 +1364,7 @@
 
 
 -CITE-
-    8 USC Secs. 204c to 219                                     01/07/2011
+    8 USC Secs. 204c to 219                                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1439,7 +1441,7 @@
 
 
 -CITE-
-    8 USC Sec. 220                                              01/07/2011
+    8 USC Sec. 220                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1461,7 +1463,7 @@
 
 
 -CITE-
-    8 USC Secs. 221 to 227                                      01/07/2011
+    8 USC Secs. 221 to 227                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1498,7 +1500,7 @@
 
 
 -CITE-
-    8 USC Sec. 228                                              01/07/2011
+    8 USC Sec. 228                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1519,7 +1521,7 @@
 
 
 -CITE-
-    8 USC Secs. 229 to 231                                      01/07/2011
+    8 USC Secs. 229 to 231                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1546,7 +1548,7 @@
 
 
 -CITE-
-    8 USC Secs. 232 to 237                                      01/07/2011
+    8 USC Secs. 232 to 237                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1570,7 +1572,7 @@
 
 
 -CITE-
-    8 USC Sec. 238                                              01/07/2011
+    8 USC Sec. 238                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1589,7 +1591,7 @@
 
 
 -CITE-
-    8 USC Sec. 239                                              01/07/2011
+    8 USC Sec. 239                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1610,7 +1612,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER IV - ALIEN VETERANS OF WORLD WAR I         01/07/2011
+    8 USC SUBCHAPTER IV - ALIEN VETERANS OF WORLD WAR I         01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1625,7 +1627,7 @@
 
 
 -CITE-
-    8 USC Secs. 241 to 246                                      01/07/2011
+    8 USC Secs. 241 to 246                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1645,7 +1647,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 7 - EXCLUSION OF CHINESE                      01/07/2011
+    8 USC CHAPTER 7 - EXCLUSION OF CHINESE                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1670,7 +1672,7 @@
 
 
 -CITE-
-    8 USC Sec. 261                                              01/07/2011
+    8 USC Sec. 261                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1702,7 +1704,7 @@
 
 
 -CITE-
-    8 USC Secs. 262 to 297                                      01/07/2011
+    8 USC Secs. 262 to 297                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1739,7 +1741,7 @@
 
 
 -CITE-
-    8 USC Sec. 298                                              01/07/2011
+    8 USC Sec. 298                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1764,7 +1766,7 @@
 
 
 -CITE-
-    8 USC Sec. 299                                              01/07/2011
+    8 USC Sec. 299                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1785,7 +1787,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 8 - THE COOLY TRADE                           01/07/2011
+    8 USC CHAPTER 8 - THE COOLY TRADE                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1799,7 +1801,7 @@
 
 
 -CITE-
-    8 USC Secs. 331 to 339                                      01/07/2011
+    8 USC Secs. 331 to 339                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1834,7 +1836,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 9 - MISCELLANEOUS PROVISIONS                  01/07/2011
+    8 USC CHAPTER 9 - MISCELLANEOUS PROVISIONS                  01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -1848,7 +1850,7 @@
 
 
 -CITE-
-    8 USC Secs. 351 to 416                                      01/07/2011
+    8 USC Secs. 351 to 416                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2182,7 +2184,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 10 - ALIEN REGISTRATION                       01/07/2011
+    8 USC CHAPTER 10 - ALIEN REGISTRATION                       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2196,7 +2198,7 @@
 
 
 -CITE-
-    8 USC Secs. 451 to 460                                      01/07/2011
+    8 USC Secs. 451 to 460                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2257,7 +2259,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 11 - NATIONALITY                              01/07/2011
+    8 USC CHAPTER 11 - NATIONALITY                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2270,7 +2272,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER I - DEFINITIONS                            01/07/2011
+    8 USC SUBCHAPTER I - DEFINITIONS                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2285,7 +2287,7 @@
 
 
 -CITE-
-    8 USC Secs. 501 to 504                                      01/07/2011
+    8 USC Secs. 501 to 504                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2307,7 +2309,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER II - NATIONALITY AT BIRTH                  01/07/2011
+    8 USC SUBCHAPTER II - NATIONALITY AT BIRTH                  01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2322,7 +2324,7 @@
 
 
 -CITE-
-    8 USC Secs. 601 to 605                                      01/07/2011
+    8 USC Secs. 601 to 605                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2350,7 +2352,7 @@
 
 
 -CITE-
-    8 USC Sec. 606                                              01/07/2011
+    8 USC Sec. 606                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2370,7 +2372,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER III - NATIONALITY THROUGH NATURALIZATION    01/07/2011 
+    8 USC SUBCHAPTER III - NATIONALITY THROUGH NATURALIZATION   01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2385,7 +2387,7 @@
 
 
 -CITE-
-    8 USC Secs. 701 to 724a                                     01/07/2011
+    8 USC Secs. 701 to 724a                                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2505,7 +2507,7 @@
 
 
 -CITE-
-    8 USC Sec. 724a-1                                           01/07/2011
+    8 USC Sec. 724a-1                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2526,7 +2528,7 @@
 
 
 -CITE-
-    8 USC Secs. 725 to 727                                      01/07/2011
+    8 USC Secs. 725 to 727                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2556,7 +2558,7 @@
 
 
 -CITE-
-    8 USC Sec. 727a                                             01/07/2011
+    8 USC Sec. 727a                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2577,7 +2579,7 @@
 
 
 -CITE-
-    8 USC Secs. 728 to 746                                      01/07/2011
+    8 USC Secs. 728 to 746                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2667,7 +2669,7 @@
 
 
 -CITE-
-    8 USC Sec. 747                                              01/07/2011
+    8 USC Sec. 747                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2688,7 +2690,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER IV - LOSS OF NATIONALITY                   01/07/2011
+    8 USC SUBCHAPTER IV - LOSS OF NATIONALITY                   01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2703,7 +2705,7 @@
 
 
 -CITE-
-    8 USC Sec. 800                                              01/07/2011
+    8 USC Sec. 800                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2723,7 +2725,7 @@
 
 
 -CITE-
-    8 USC Secs. 801 to 810                                      01/07/2011
+    8 USC Secs. 801 to 810                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2781,7 +2783,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER V - MISCELLANEOUS                          01/07/2011
+    8 USC SUBCHAPTER V - MISCELLANEOUS                          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2796,7 +2798,7 @@
 
 
 -CITE-
-    8 USC Secs. 901 to 903                                      01/07/2011
+    8 USC Secs. 901 to 903                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2827,7 +2829,7 @@
 
 
 -CITE-
-    8 USC Secs. 903a, 903b                                      01/07/2011
+    8 USC Secs. 903a, 903b                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2847,7 +2849,7 @@
 
 
 -CITE-
-    8 USC Secs. 904 to 907                                      01/07/2011
+    8 USC Secs. 904 to 907                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2890,7 +2892,7 @@
 -CITE-
     8 USC SUBCHAPTER VI - NATURALIZATION OF PERSONS SERVING IN
            THE ARMED FORCES OF THE UNITED STATES DURING
-           WORLD WAR II                                    01/07/2011
+           WORLD WAR II                                    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2908,7 +2910,7 @@
 
 
 -CITE-
-    8 USC Secs. 1001 to 1006                                    01/07/2011
+    8 USC Secs. 1001 to 1006                                    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -2956,15 +2958,17 @@
 
 
 
--CITE-    8 USC CHAPTER 12 - IMMIGRATION AND NATIONALITY              01/07/2011
+-CITE-
+    8 USC CHAPTER 12 - IMMIGRATION AND NATIONALITY              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
     CHAPTER 12 - IMMIGRATION AND NATIONALITY
--MISC1-
+
+-HEAD-
                  CHAPTER 12 - IMMIGRATION AND NATIONALITY             
 
-
+-MISC1-
                      SUBCHAPTER I - GENERAL PROVISIONS                 
     Sec.                                                     
     1101.       Definitions.                                          
@@ -3341,7 +3345,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER I - GENERAL PROVISIONS                     01/07/2011
+    8 USC SUBCHAPTER I - GENERAL PROVISIONS                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -3356,7 +3360,7 @@
 
 
 -CITE-
-    8 USC Sec. 1101                                             01/07/2011
+    8 USC Sec. 1101                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -9176,7 +9180,7 @@
 
 
 -CITE-
-    8 USC Sec. 1102                                             01/07/2011
+    8 USC Sec. 1102                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -9288,7 +9292,7 @@
 
 
 -CITE-
-    8 USC Sec. 1103                                             01/07/2011
+    8 USC Sec. 1103                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10019,7 +10023,7 @@
 
 
 -CITE-
-    8 USC Sec. 1104                                             01/07/2011
+    8 USC Sec. 1104                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10207,7 +10211,7 @@
 
 
 -CITE-
-    8 USC Sec. 1105                                             01/07/2011
+    8 USC Sec. 1105                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10359,7 +10363,7 @@
 
 
 -CITE-
-    8 USC Sec. 1105a                                            01/07/2011
+    8 USC Sec. 1105a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10425,7 +10429,7 @@
 
 
 -CITE-
-    8 USC Sec. 1106                                             01/07/2011
+    8 USC Sec. 1106                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10463,7 +10467,7 @@
 
 
 -CITE-
-    8 USC Sec. 1107                                             01/07/2011
+    8 USC Sec. 1107                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10499,7 +10503,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER II - IMMIGRATION                           01/07/2011
+    8 USC SUBCHAPTER II - IMMIGRATION                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10513,7 +10517,7 @@
 
 
 -CITE-
-    8 USC Part I - Selection System                             01/07/2011
+    8 USC Part I - Selection System                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -10529,7 +10533,7 @@
 
 
 -CITE-
-    8 USC Sec. 1151                                             01/07/2011
+    8 USC Sec. 1151                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -11214,7 +11218,7 @@
 
 
 -CITE-
-    8 USC Sec. 1151a                                            01/07/2011
+    8 USC Sec. 1151a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -11244,7 +11248,7 @@
 
 
 -CITE-
-    8 USC Sec. 1152                                             01/07/2011
+    8 USC Sec. 1152                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -11774,7 +11778,7 @@
 
 
 -CITE-
-    8 USC Sec. 1153                                             01/07/2011
+    8 USC Sec. 1153                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -13390,7 +13394,7 @@
 
 
 -CITE-
-    8 USC Sec. 1154                                             01/07/2011
+    8 USC Sec. 1154                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -14463,7 +14467,7 @@
 
 
 -CITE-
-    8 USC Sec. 1155                                             01/07/2011
+    8 USC Sec. 1155                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -14567,7 +14571,7 @@
 
 
 -CITE-
-    8 USC Sec. 1156                                             01/07/2011
+    8 USC Sec. 1156                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -14623,7 +14627,7 @@
 
 
 -CITE-
-    8 USC Sec. 1157                                             01/07/2011
+    8 USC Sec. 1157                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -15534,8 +15538,10 @@
     Stat. 25; Pub. L. 110-161, div. J, title VI, Sec. 634(k)(1), Dec.
     26, 2007, 121 Stat. 2329; Pub. L. 111-8, div. H, title VII, Sec.
     7034(g)(1), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111-117, div. F,
-    title VII, Sec. 7034(f)(1), Dec. 16, 2009, 123 Stat. 3361, provided
-    that:
+    title VII, Sec. 7034(f)(1), Dec. 16, 2009, 123 Stat. 3361; Pub. L.
+    112-10, div. B, title XI, Sec. 2121(m)(1), Apr. 15, 2011, 125 Stat.
+    186; Pub. L. 112-74, div. I, title VII, Sec. 7034(r)(1), Dec. 23,
+    2011, 125 Stat. 1218, provided that:
       "(a) In General. - In the case of an alien who is within a
     category of aliens established under subsection (b), the alien may
     establish, for purposes of admission as a refugee under section 207
@@ -15591,13 +15597,13 @@
       the Immigration and Nationality Act [8 U.S.C. 1157(a)(3)] and
       within the number of such admissions allocated for each of fiscal
       years 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002,
-      2003, 2004, 2005, 2006, 2007, 2008, 2009, and 2010 for refugees
-      who are nationals of the independent states of the former Soviet
-      Union, Estonia, Latvia, and Lithuania under such section,
-      notwithstanding any other provision of law, the President shall
-      allocate one thousand of such admissions for such fiscal year to
-      refugees who are within the category of aliens described in
-      paragraph (2)(B).
+      2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, and 2012
+      for refugees who are nationals of the independent states of the
+      former Soviet Union, Estonia, Latvia, and Lithuania under such
+      section, notwithstanding any other provision of law, the
+      President shall allocate one thousand of such admissions for such
+      fiscal year to refugees who are within the category of aliens
+      described in paragraph (2)(B).
       "(c) Written Reasons for Denials of Refugee Status. - Each
     decision to deny an application for refugee status of an alien who
     is within a category established under this section shall be in
@@ -15613,12 +15619,12 @@
       "(e) Period of Application. - 
         "(1) Subsections (a) and (b) shall take effect on the date of
       the enactment of this Act [Nov. 21, 1989] and shall only apply to
-      applications for refugee status submitted before October 1, 2010.
+      applications for refugee status submitted before October 1, 2012.
         "(2) Subsection (c) shall apply to decisions made after the
-      date of the enactment of this Act and before October 1, 2010.
+      date of the enactment of this Act and before October 1, 2012.
         "(3) Subsection (d) shall take effect on the date of the
       enactment of this Act and shall only apply to reapplications for
-      refugee status submitted before October 1, 2010."
+      refugee status submitted before October 1, 2012."
       [Pub. L. 109-102, Sec. 534(m)(1)(A), which directed amendment of
     section 599D(b)(3) of Pub. L. 101-167, set out above, by
     substituting "2005, and 2006" for "and 2005", could not be
@@ -15674,6 +15680,8 @@
     concerning the admission and adjustment of status of refugees for
     particular fiscal years were contained in the following
     Presidential Determinations:
+      Presidential Determination No. 2011-17, Sept. 30, 2011, 76 F.R.
+    62597.
       Presidential Determination No. 2011-02, Oct. 8, 2010, 75 F.R.
     75851.
       Presidential Determination No. 2009-32, Sept. 30, 2009, 74 F.R.
@@ -15772,7 +15780,7 @@
 
 
 -CITE-
-    8 USC Sec. 1158                                             01/07/2011
+    8 USC Sec. 1158                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -16290,7 +16298,7 @@
 
 
 -CITE-
-    8 USC Sec. 1159                                             01/07/2011
+    8 USC Sec. 1159                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -16507,7 +16515,7 @@
 
 
 -CITE-
-    8 USC Sec. 1160                                             01/07/2011
+    8 USC Sec. 1160                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -17104,7 +17112,7 @@
 
 
 -CITE-
-    8 USC Sec. 1161                                             01/07/2011
+    8 USC Sec. 1161                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -17140,7 +17148,7 @@
 -CITE-
     8 USC Part II - Admission Qualifications for Aliens;
                      Travel Control of Citizens and
-                     Aliens                                01/07/2011
+                     Aliens                                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -17158,7 +17166,7 @@
 
 
 -CITE-
-    8 USC Sec. 1181                                             01/07/2011
+    8 USC Sec. 1181                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -17272,7 +17280,7 @@
 
 
 -CITE-
-    8 USC Sec. 1182                                             01/07/2011
+    8 USC Sec. 1182                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -22249,29 +22257,35 @@
 
     INADMISSIBILITY OF FOREIGN OFFICIALS AND FAMILY MEMBERS INVOLVED IN
                                 KLEPTOCRACY
-      Pub. L. 111-117, div. F, title VII, Sec. 7084, Dec. 16, 2009, 123
-    Stat. 3400, provided that:
-      "(a) In furtherance of the National Strategy to Internationalize
-    Efforts Against Kleptocracy and Presidential Proclamation 7750 [set
-    out below], the Secretary of State shall compile and maintain a
-    list of officials of foreign governments and their immediate family
-    members who the Secretary has credible evidence have been involved
-    in corruption relating to the extraction of natural resources in
-    their countries.
-      "(b) Any individual on the list compiled under subsection (a)
-    shall be ineligible for admission to the United States.
-      "(c) The Secretary may waive the application of subsection (b) if
-    the Secretary determines that admission to the United States is
-    necessary to attend the United Nations or to further United States
-    law enforcement objectives, or that the circumstances which caused
-    the individual to be included on the list have changed sufficiently
-    to justify the removal of the individual from the list.
-      "(d) Not later than 90 days after enactment of this Act [Dec. 16,
-    2009] and 180 days thereafter, the Secretary of State shall report
-    in writing, in classified form if necessary, to the Committees on
-    Appropriations describing the evidence of corruption concerning
-    each of the individuals listed pursuant to subsection (a)."
+      Pub. L. 112-74, div. I, title VII, Sec. 7031(c), Dec. 23, 2011,
+    125 Stat. 1211, provided that:
+      "(1) Officials of foreign governments and their immediate family
+    members who the Secretary of State has credible information have
+    been involved in significant corruption, including corruption
+    related to the extraction of natural resources, shall be ineligible
+    for entry into the United States.
+      "(2) Individuals shall not be ineligible if entry into the United
+    States would further important United States law enforcement
+    objectives or is necessary to permit the United States to fulfill
+    its obligations under the United Nations Headquarters Agreement:
+    Provided, That nothing in this provision shall be construed to
+    derogate from United States Government obligations under applicable
+    international agreements.
+      "(3) The Secretary may waive the application of paragraph (1) if
+    the Secretary determines that the waiver would serve a compelling
+    national interest or that the circumstances which caused the
+    individual to be ineligible have changed sufficiently.
+      "(4) Not later than 90 days after enactment of this Act [div. I
+    of Pub. L. 112-74, approved Dec. 23, 2011] and 180 days thereafter,
+    the Secretary of State shall submit a report, in classified form if
+    necessary, to the Committees on Appropriations describing the
+    information regarding corruption concerning each of the individuals
+    found ineligible pursuant to paragraph (1), a list of any waivers
+    provided under subsection (3), and the justification for each
+    waiver."
       Similar provisions were contained in the following prior acts:
+      Pub. L. 111-117, div. F, title VII, Sec. 7084, Dec. 16, 2009, 123
+    Stat. 3400.
       Pub. L. 111-8, div. H, title VII, Sec. 7086, Mar. 11, 2009, 123
     Stat. 912.
       Pub. L. 110-161, div. J, title VI, Sec. 699L, Dec. 26, 2007, 121
@@ -23031,6 +23045,170 @@
     and thirty-third.
                                                          George W. Bush.
 
+      PROC. NO. 8693. SUSPENSION OF ENTRY OF ALIENS SUBJECT TO UNITED
+     NATIONS SECURITY COUNCIL TRAVEL BANS AND INTERNATIONAL EMERGENCY
+                       ECONOMIC POWERS ACT SANCTIONS
+      Proc. No. 8693, July 24, 2011, 76 F.R. 44751, provided:
+      In light of the firm commitment of the United States to the
+    preservation of international peace and security and our
+    obligations under the United Nations Charter to carry out the
+    decisions of the United Nations Security Council imposed under
+    Chapter VII, I have determined that it is in the interests of the
+    United States to suspend the entry into the United States, as
+    immigrants or nonimmigrants, of aliens who are subject to United
+    Nations Security Council travel bans as of the date of this
+    proclamation. I have further determined that the interests of the
+    United States are served by suspending the entry into the United
+    States, as immigrants or nonimmigrants, of aliens whose property
+    and interests in property have been blocked by an Executive Order
+    issued in whole or in part pursuant to the President's authority
+    under the International Emergency Economic Powers Act (50 U.S.C.
+    1701 et seq.).
+      NOW, THEREFORE, I, BARACK OBAMA, by the authority vested in me as
+    President by the Constitution and the laws of the United States of
+    America, including section 212(f) of the Immigration and
+    Nationality Act of 1952, as amended (8 U.S.C. 1182(f)), and section
+    301 of title 3, United States Code[,] hereby find that the
+    unrestricted immigrant and nonimmigrant entry into the United
+    States of persons described in section 1 of this proclamation would
+    be detrimental to the interests of the United States. I therefore
+    hereby proclaim that:
+      Section 1. The entry into the United States, as immigrants or
+    nonimmigrants, of the following persons is hereby suspended:
+      (a) Any alien who meets one or more of the specific criteria for
+    the imposition of a travel ban provided for in a United Nations
+    Security Council resolution referenced in Annex A to this
+    proclamation.
+      (b) Any alien who meets one or more of the specific criteria
+    contained in an Executive Order referenced in Annex B to this
+    proclamation.
+      Sec. 2. Persons covered by section 1 of this proclamation shall
+    be identified by the Secretary of State or the Secretary's
+    designee, in his or her sole discretion, pursuant to such standards
+    and procedures as the Secretary may establish.
+      Sec. 3. The Secretary of State shall have responsibility for
+    implementing this proclamation pursuant to such procedures as the
+    Secretary, in consultation with the Secretary of the Treasury and
+    Secretary of Homeland Security, may establish.
+      Sec. 4. Section 1 of this proclamation shall not apply with
+    respect to any person otherwise covered by section 1 where entry of
+    the person into the United States would not be contrary to the
+    interests of the United States, as determined by the Secretary of
+    State. In exercising the functions and authorities in the previous
+    sentence, the Secretary of State shall consult the Secretary of
+    Homeland Security on matters related to admissibility or
+    inadmissibility within the authority of the Secretary of Homeland
+    Security.
+      Sec. 5. Nothing in this proclamation shall be construed to
+    require actions that would be inconsistent with the United States
+    [sic] obligations under applicable international agreements.
+      Sec. 6. This proclamation is not intended to, and does not,
+    create any right or benefit, substantive or procedural, enforceable
+    at law or in equity by any party against the United States, its
+    departments, agencies, or entities, its officers, employees, or
+    agents, or any other person.
+      Sec. 7. This proclamation is effective immediately and shall
+    remain in effect until such time as the Secretary of State
+    determines that it is no longer necessary and should be terminated,
+    either in whole or in part. Any such termination shall become
+    effective upon publication in the Federal Register.
+      IN WITNESS WHEREOF, I have hereunto set my hand this twenty-
+    fourth day of July, in the year of our Lord two thousand eleven,
+    and of the Independence of the United States of America the two
+    hundred and thirty-sixth.
+                                                           Barack Obama.
+
+    PROC. NO. 8697. SUSPENSION OF ENTRY AS IMMIGRANTS AND NONIMMIGRANTS
+    OF PERSONS WHO PARTICIPATE IN SERIOUS HUMAN RIGHTS AND HUMANITARIAN
+                      LAW VIOLATIONS AND OTHER ABUSES
+      Proc. No. 8697, Aug. 4, 2011, 76 F.R. 49277, provided:
+      The United States [sic] enduring commitment to respect for human
+    rights and humanitarian law requires that its Government be able to
+    ensure that the United States does not become a safe haven for
+    serious violators of human rights and humanitarian law and those
+    who engage in other related abuses. Universal respect for human
+    rights and humanitarian law and the prevention of atrocities
+    internationally promotes U.S. values and fundamental U.S. interests
+    in helping secure peace, deter aggression, promote the rule of law,
+    combat crime and corruption, strengthen democracies, and prevent
+    humanitarian crises around the globe. I therefore have determined
+    that it is in the interests of the United States to take action to
+    restrict the international travel and to suspend the entry into the
+    United States, as immigrants or nonimmigrants, of certain persons
+    who have engaged in the acts outlined in section 1 of this
+    proclamation.
+      NOW, THEREFORE, I, BARACK OBAMA, by the authority vested in me as
+    President by the Constitution and the laws of the United States of
+    America, including section 212(f) of the Immigration and
+    Nationality Act of 1952, as amended (8 U.S.C. 1182(f)), and section
+    301 of title 3, United States Code, hereby find that the
+    unrestricted immigrant and nonimmigrant entry into the United
+    States of persons described in section 1 of this proclamation would
+    be detrimental to the interests of the United States. I therefore
+    hereby proclaim that:
+      Section 1. The entry into the United States, as immigrants or
+    nonimmigrants, of the following persons is hereby suspended:
+      (a) Any alien who planned, ordered, assisted, aided and abetted,
+    committed or otherwise participated in, including through command
+    responsibility, widespread or systematic violence against any
+    civilian population based in whole or in part on race; color;
+    descent; sex; disability; membership in an indigenous group;
+    language; religion; political opinion; national origin; ethnicity;
+    membership in a particular social group; birth; or sexual
+    orientation or gender identity, or who attempted or conspired to do
+    so.
+      (b) Any alien who planned, ordered, assisted, aided and abetted,
+    committed or otherwise participated in, including through command
+    responsibility, war crimes, crimes against humanity or other
+    serious violations of human rights, or who attempted or conspired
+    to do so.
+      Sec. 2. Section 1 of this proclamation shall not apply with
+    respect to any person otherwise covered by section 1 where the
+    entry of such person would not harm the foreign relations interests
+    of the United States.
+      Sec. 3. The Secretary of State, or the Secretary's designee, in
+    his or her sole discretion, shall identify persons covered by
+    section 1 of this proclamation, pursuant to such standards and
+    procedures as the Secretary may establish.
+      Sec. 4. The Secretary of State shall have responsibility for
+    implementing this proclamation pursuant to such procedures as the
+    Secretary, in consultation with the Secretary of Homeland Security,
+    may establish.
+      Sec. 5. For any person whose entry is otherwise suspended under
+    this proclamation entry will be denied, unless the Secretary of
+    State determines that the particular entry of such person would be
+    in the interests of the United States. In exercising such
+    authority, the Secretary of State shall consult the Secretary of
+    Homeland Security on matters related to admissibility or
+    inadmissibility within the authority of the Secretary of Homeland
+    Security.
+      Sec. 6. Nothing in this proclamation shall be construed to
+    derogate from United States Government obligations under applicable
+    international agreements, or to suspend entry based solely on an
+    alien's ideology, opinions, or beliefs, or based solely on
+    expression that would be considered protected under U.S.
+    interpretations of international agreements to which the United
+    States is a party. Nothing in this proclamation shall be construed
+    to limit the authority of the United States to admit or to suspend
+    entry of particular individuals into the United States under the
+    Immigration and Nationality Act (8 U.S.C. 1101 et seq.) or under
+    any other provision of U.S. law.
+      Sec. 7. This proclamation is not intended to, and does not,
+    create any right or benefit, substantive or procedural, enforceable
+    at law or in equity by any party against the United States, its
+    departments, agencies, or entities, its officers, employees, or
+    agents, or any other person.
+      Sec. 8. This proclamation is effective immediately and shall
+    remain in effect until such time as the Secretary of State
+    determines that it is no longer necessary and should be terminated,
+    either in whole or in part. Any such termination shall become
+    effective upon publication in the Federal Register.
+      IN WITNESS WHEREOF, I have hereunto set my hand this fourth day
+    of August, in the year of our Lord two thousand eleven, and of the
+    Independence of the United States of America the two hundred and
+    thirty-sixth.
+                                                           Barack Obama.
+
                          EXECUTIVE ORDER NO. 12324                     
       Ex. Ord. No. 12324, Sept. 29, 1981, 46 F.R. 48109, which directed
     Secretary of State to enter into cooperative arrangements with
@@ -23295,7 +23473,7 @@
 
 
 -CITE-
-    8 USC Secs. 1182a to 1182c                                  01/07/2011
+    8 USC Secs. 1182a to 1182c                                  01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -23331,7 +23509,7 @@
 
 
 -CITE-
-    8 USC Sec. 1182d                                            01/07/2011
+    8 USC Sec. 1182d                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -23390,7 +23568,7 @@
 
 
 -CITE-
-    8 USC Sec. 1182e                                            01/07/2011
+    8 USC Sec. 1182e                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -23455,7 +23633,7 @@
 
 
 -CITE-
-    8 USC Sec. 1182f                                            01/07/2011
+    8 USC Sec. 1182f                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -23516,7 +23694,7 @@
 
 
 -CITE-
-    8 USC Sec. 1183                                             01/07/2011
+    8 USC Sec. 1183                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -23614,7 +23792,7 @@
 
 
 -CITE-
-    8 USC Sec. 1183a                                            01/07/2011
+    8 USC Sec. 1183a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -24120,7 +24298,7 @@
 
 
 -CITE-
-    8 USC Sec. 1184                                             01/07/2011
+    8 USC Sec. 1184                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -26587,7 +26765,7 @@
 
 
 -CITE-
-    8 USC Sec. 1184a                                            01/07/2011
+    8 USC Sec. 1184a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -26632,7 +26810,7 @@
 
 
 -CITE-
-    8 USC Sec. 1185                                             01/07/2011
+    8 USC Sec. 1185                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -26711,7 +26889,7 @@
     (June 27, 1952, ch. 477, title II, ch. 2, Sec. 215, 66 Stat. 190;
     Pub. L. 95-426, title VII, Sec. 707(a)-(d), Oct. 7, 1978, 92 Stat.
     992, 993; Pub. L. 103-416, title II, Sec. 204(a), Oct. 25, 1994,
-    108 Stat 4311.)
+    108 Stat. 4311.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -26781,6 +26959,66 @@
 
 
 -MISC2-
+          ASIA-PACIFIC ECONOMIC COOPERATION BUSINESS TRAVEL CARDS      
+      Pub. L. 112-54, Nov. 12, 2011, 125 Stat. 550, provided that:
+
+      "SECTION 1. SHORT TITLE.
+      "This Act may be cited as the 'Asia-Pacific Economic Cooperation
+    Business Travel Cards Act of 2011'.
+
+      "SEC. 2. ASIA-PACIFIC ECONOMIC COOPERATION BUSINESS TRAVEL CARDS.
+      "(a) In General. - During the 7-year period ending on September
+    30, 2018, the Secretary of Homeland Security, in coordination with
+    the Secretary of State, is authorized to issue Asia-Pacific
+    Economic Cooperation Business Travel Cards (referred to in this
+    section as 'ABT Cards') to any eligible person, including business
+    leaders and United States Government officials who are actively
+    engaged in Asia-Pacific Economic Cooperation business. An
+    individual may not receive an ABT Card under this section unless
+    the individual has been approved and is in good standing in an
+    international trusted traveler program of the Department of
+    Homeland Security.
+      "(b) Integration With Existing Travel Programs. - The Secretary
+    of Homeland Security may integrate application procedures for, and
+    issuance, suspension, and revocation of, ABT Cards with other
+    appropriate international trusted traveler programs of the
+    Department of Homeland Security.
+      "(c) Cooperation With Private Entities. - In carrying out this
+    section, the Secretary of Homeland Security may consult with
+    appropriate private sector entities.
+      "(d) Rulemaking. - The Secretary of Homeland Security, in
+    coordination with the Secretary of State, may prescribe such
+    regulations as may be necessary to carry out this section,
+    including regulations regarding conditions of or limitations on
+    eligibility for an ABT Card.
+      "(e) Fee. - 
+        "(1) In general. - The Secretary of Homeland Security may - 
+          "(A) prescribe and collect a fee for the issuance of ABT
+        Cards; and
+          "(B) adjust such fee to the extent the Secretary determines
+        to be necessary to comply with paragraph (2).
+        "(2) Limitation. - The Secretary of Homeland Security shall
+      ensure that the total amount of the fees collected under
+      paragraph (1) during any fiscal year is sufficient to offset the
+      direct and indirect costs associated with carrying out this
+      section during such fiscal year, including the costs associated
+      with establishing the program.
+        "(3) Account for collections. - There is established in the
+      Treasury of the United States an 'APEC Business Travel Card
+      Account' into which the fees collected under paragraph (1) shall
+      be deposited as offsetting receipts.
+        "(4) Use of funds. - Amounts deposited into the APEC Business
+      Travel Card Account - 
+          "(A) shall be credited to the appropriate account of the
+        Department of Homeland Security for expenses incurred in
+        carrying out this section; and
+          "(B) shall remain available until expended.
+      "(f) Termination of Program. - The Secretary of Homeland
+    Security, in coordination with the Secretary of State, may
+    terminate activities under this section if the Secretary of
+    Homeland Security determines such action to be in the interest of
+    the United States."
+
                    WESTERN HEMISPHERE TRAVEL INITIATIVE               
       Pub. L. 110-53, title VII, Sec. 724, Aug. 3, 2007, 121 Stat. 350,
     provided that: "Before the Secretary of Homeland Security publishes
@@ -27005,7 +27243,7 @@
 
 
 -CITE-
-    8 USC Sec. 1186                                             01/07/2011
+    8 USC Sec. 1186                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -27031,7 +27269,7 @@
 
 
 -CITE-
-    8 USC Sec. 1186a                                            01/07/2011
+    8 USC Sec. 1186a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -27048,40 +27286,39 @@
     (a) In general
       (1) Conditional basis for status
         Notwithstanding any other provision of this chapter, an alien
-      spouse (as defined in subsection (g)(1) of this section) and an
-      alien son or daughter (as defined in subsection (g)(2) of this
-      section) shall be considered, at the time of obtaining the status
-      of an alien lawfully admitted for permanent residence, to have
-      obtained such status on a conditional basis subject to the
-      provisions of this section.
+      spouse (as defined in subsection (h)(1)) and an alien son or
+      daughter (as defined in subsection (h)(2)) shall be considered,
+      at the time of obtaining the status of an alien lawfully admitted
+      for permanent residence, to have obtained such status on a
+      conditional basis subject to the provisions of this section.
       (2) Notice of requirements
         (A) At time of obtaining permanent residence
           At the time an alien spouse or alien son or daughter obtains
         permanent resident status on a conditional basis under
-        paragraph (1), the Attorney General shall provide for notice to
-        such a spouse, son, or daughter respecting the provisions of
-        this section and the requirements of subsection (c)(1) of this
-        section to have the conditional basis of such status removed.
+        paragraph (1), the Secretary of Homeland Security shall provide
+        for notice to such a spouse, son, or daughter respecting the
+        provisions of this section and the requirements of subsection
+        (c)(1) to have the conditional basis of such status removed.
         (B) At time of required petition
-          In addition, the Attorney General shall attempt to provide
-        notice to such a spouse, son, or daughter, at or about the
-        beginning of the 90-day period described in subsection
-        (d)(2)(A) of this section, of the requirements of subsections
-        (!1) (c)(1) of this section.
+          In addition, the Secretary of Homeland Security shall attempt
+        to provide notice to such a spouse, son, or daughter, at or
+        about the beginning of the 90-day period described in
+        subsection (d)(2)(A), of the requirements of subsections (!1)
+        (c)(1).
 
         (C) Effect of failure to provide notice
-          The failure of the Attorney General to provide a notice under
-        this paragraph shall not affect the enforcement of the
-        provisions of this section with respect to such a spouse, son,
-        or daughter.
+          The failure of the Secretary of Homeland Security to provide
+        a notice under this paragraph shall not affect the enforcement
+        of the provisions of this section with respect to such a
+        spouse, son, or daughter.
     (b) Termination of status if finding that qualifying marriage
       improper
       (1) In general
         In the case of an alien with permanent resident status on a
-      conditional basis under subsection (a) of this section, if the
-      Attorney General determines, before the second anniversary of the
-      alien's obtaining the status of lawful admission for permanent
-      residence, that - 
+      conditional basis under subsection (a), if the Secretary of
+      Homeland Security determines, before the second anniversary of
+      the alien's obtaining the status of lawful admission for
+      permanent residence, that - 
           (A) the qualifying marriage - 
             (i) was entered into for the purpose of procuring an
           alien's admission as an immigrant, or
@@ -27094,48 +27331,49 @@
         under section 1154(a) of this title or subsection (d) or (p) of
         section 1184 of this title with respect to the alien;
 
-      the Attorney General shall so notify the parties involved and,
-      subject to paragraph (2), shall terminate the permanent resident
-      status of the alien (or aliens) involved as of the date of the
-      determination.
+      the Secretary of Homeland Security shall so notify the parties
+      involved and, subject to paragraph (2), shall terminate the
+      permanent resident status of the alien (or aliens) involved as of
+      the date of the determination.
       (2) Hearing in removal proceeding
         Any alien whose permanent resident status is terminated under
       paragraph (1) may request a review of such determination in a
       proceeding to remove the alien. In such proceeding, the burden of
-      proof shall be on the Attorney General to establish, by a
-      preponderance of the evidence, that a condition described in
-      paragraph (1) is met.
+      proof shall be on the Secretary of Homeland Security to
+      establish, by a preponderance of the evidence, that a condition
+      described in paragraph (1) is met.
     (c) Requirements of timely petition and interview for removal of
       condition
       (1) In general
         In order for the conditional basis established under subsection
-      (a) of this section for an alien spouse or an alien son or
-      daughter to be removed - 
+      (a) for an alien spouse or an alien son or daughter to be removed
+      - 
           (A) the alien spouse and the petitioning spouse (if not
-        deceased) jointly must submit to the Attorney General, during
-        the period described in subsection (d)(2) of this section, a
+        deceased) jointly must submit to the Secretary of Homeland
+        Security, during the period described in subsection (d)(2), a
         petition which requests the removal of such conditional basis
         and which states, under penalty of perjury, the facts and
-        information described in subsection (d)(1) of this section, and
-          (B) in accordance with subsection (d)(3) of this section, the
-        alien spouse and the petitioning spouse (if not deceased) must
-        appear for a personal interview before an officer or employee
-        of the Service respecting the facts and information described
-        in subsection (d)(1) of this section.
+        information described in subsection (d)(1), and
+          (B) in accordance with subsection (d)(3), the alien spouse
+        and the petitioning spouse (if not deceased) must appear for a
+        personal interview before an officer or employee of the
+        Department of Homeland Security respecting the facts and
+        information described in subsection (d)(1).
       (2) Termination of permanent resident status for failure to file
         petition or have personal interview
         (A) In general
           In the case of an alien with permanent resident status on a
-        conditional basis under subsection (a) of this section, if - 
+        conditional basis under subsection (a), if - 
             (i) no petition is filed with respect to the alien in
           accordance with the provisions of paragraph (1)(A), or
             (ii) unless there is good cause shown, the alien spouse and
           petitioning spouse fail to appear at the interview described
           in paragraph (1)(B),
 
-        the Attorney General shall terminate the permanent resident
-        status of the alien as of the second anniversary of the alien's
-        lawful admission for permanent residence.
+        the Secretary of Homeland Security shall terminate the
+        permanent resident status of the alien as of the second
+        anniversary of the alien's lawful admission for permanent
+        residence.
         (B) Hearing in removal proceeding
           In any removal proceeding with respect to an alien whose
         permanent resident status is terminated under subparagraph (A),
@@ -27149,38 +27387,40 @@
             (ii) the alien spouse and petitioning spouse appear at the
           interview described in paragraph (1)(B),
 
-        the Attorney General shall make a determination, within 90 days
-        of the date of the interview, as to whether the facts and
-        information described in subsection (d)(1) of this section and
+        the Secretary of Homeland Security shall make a determination,
+        within 90 days of the date of the interview, as to whether the
+        facts and information described in subsection (d)(1) and
         alleged in the petition are true with respect to the qualifying
         marriage.
         (B) Removal of conditional basis if favorable determination
-          If the Attorney General determines that such facts and
-        information are true, the Attorney General shall so notify the
-        parties involved and shall remove the conditional basis of the
-        parties effective as of the second anniversary of the alien's
-        obtaining the status of lawful admission for permanent
-        residence.
+          If the Secretary of Homeland Security determines that such
+        facts and information are true, the Secretary of Homeland
+        Security shall so notify the parties involved and shall remove
+        the conditional basis of the parties effective as of the second
+        anniversary of the alien's obtaining the status of lawful
+        admission for permanent residence.
         (C) Termination if adverse determination
-          If the Attorney General determines that such facts and
-        information are not true, the Attorney General shall so notify
-        the parties involved and, subject to subparagraph (D), shall
-        terminate the permanent resident status of an alien spouse or
-        an alien son or daughter as of the date of the determination.
+          If the Secretary of Homeland Security determines that such
+        facts and information are not true, the Secretary of Homeland
+        Security shall so notify the parties involved and, subject to
+        subparagraph (D), shall terminate the permanent resident status
+        of an alien spouse or an alien son or daughter as of the date
+        of the determination.
         (D) Hearing in removal proceeding
           Any alien whose permanent resident status is terminated under
         subparagraph (C) may request a review of such determination in
         a proceeding to remove the alien. In such proceeding, the
-        burden of proof shall be on the Attorney General to establish,
-        by a preponderance of the evidence, that the facts and
-        information described in subsection (d)(1) of this section and
+        burden of proof shall be on the Secretary of Homeland Security
+        to establish, by a preponderance of the evidence, that the
+        facts and information described in subsection (d)(1) and
         alleged in the petition are not true with respect to the
         qualifying marriage.
       (4) Hardship waiver
-        The Attorney General, in the Attorney General's discretion, may
-      remove the conditional basis of the permanent resident status for
-      an alien who fails to meet the requirements of paragraph (1) if
-      the alien demonstrates that - 
+        The Secretary of Homeland Security, in the Attorney General's
+      (!2) discretion, may remove the conditional basis of the
+      permanent resident status for an alien who fails to meet the
+      requirements of paragraph (1) if the alien demonstrates that - 
+
           (A) extreme hardship would result if such alien is removed,
           (B) the qualifying marriage was entered into in good faith by
         the alien spouse, but the qualifying marriage has been
@@ -27194,22 +27434,23 @@
         resident parent and the alien was not at fault in failing to
         meet the requirements of paragraph (1).
 
-      In determining extreme hardship, the Attorney General shall
-      consider circumstances occurring only during the period that the
-      alien was admitted for permanent residence on a conditional
-      basis. In acting on applications under this paragraph, the
-      Attorney General shall consider any credible evidence relevant to
-      the application. The determination of what evidence is credible
-      and the weight to be given that evidence shall be within the sole
-      discretion of the Attorney General. The Attorney General shall,
-      by regulation, establish measures to protect the confidentiality
-      of information concerning any abused alien spouse or child,
+      In determining extreme hardship, the Secretary of Homeland
+      Security shall consider circumstances occurring only during the
+      period that the alien was admitted for permanent residence on a
+      conditional basis. In acting on applications under this
+      paragraph, the Secretary of Homeland Security shall consider any
+      credible evidence relevant to the application. The determination
+      of what evidence is credible and the weight to be given that
+      evidence shall be within the sole discretion of the Secretary of
+      Homeland Security. The Secretary of Homeland Security shall, by
+      regulation, establish measures to protect the confidentiality of
+      information concerning any abused alien spouse or child,
       including information regarding the whereabouts of such spouse or
       child.
     (d) Details of petition and interview
       (1) Contents of petition
-        Each petition under subsection (c)(1)(A) of this section shall
-      contain the following facts and information:
+        Each petition under subsection (c)(1)(A) shall contain the
+      following facts and information:
         (A) Statement of proper marriage and petitioning process
           The facts are that - 
             (i) the qualifying marriage - 
@@ -27224,45 +27465,45 @@
           fee or other consideration to an attorney for assistance in
           preparation of a lawful petition) for the filing of a
           petition under section 1154(a) of this title or subsection
-          (d) or (p) (!2) of section 1184 of this title with respect to
+          (d) or (p) (!3) of section 1184 of this title with respect to
           the alien spouse or alien son or daughter.
 
         (B) Statement of additional information
           The information is a statement of - 
             (i) the actual residence of each party to the qualifying
           marriage since the date the alien spouse obtained permanent
-          resident status on a conditional basis under subsection (a)
-          of this section, and
+          resident status on a conditional basis under subsection (a),
+          and
             (ii) the place of employment (if any) of each such party
           since such date, and the name of the employer of such party.
       (2) Period for filing petition
         (A) 90-day period before second anniversary
           Except as provided in subparagraph (B), the petition under
-        subsection (c)(1)(A) of this section must be filed during the
-        90-day period before the second anniversary of the alien's
-        obtaining the status of lawful admission for permanent
-        residence.
+        subsection (c)(1)(A) must be filed during the 90-day period
+        before the second anniversary of the alien's obtaining the
+        status of lawful admission for permanent residence.
         (B) Date petitions for good cause
           Such a petition may be considered if filed after such date,
         but only if the alien establishes to the satisfaction of the
-        Attorney General good cause and extenuating circumstances for
-        failure to file the petition during the period described in
-        subparagraph (A).
+        Secretary of Homeland Security good cause and extenuating
+        circumstances for failure to file the petition during the
+        period described in subparagraph (A).
         (C) Filing of petitions during removal
           In the case of an alien who is the subject of removal
         hearings as a result of failure to file a petition on a timely
-        basis in accordance with subparagraph (A), the Attorney General
-        may stay such removal proceedings against an alien pending the
-        filing of the petition under subparagraph (B).
+        basis in accordance with subparagraph (A), the Secretary of
+        Homeland Security may stay such removal proceedings against an
+        alien pending the filing of the petition under subparagraph
+        (B).
       (3) Personal interview
-        The interview under subsection (c)(1)(B) of this section shall
-      be conducted within 90 days after the date of submitting a
-      petition under subsection (c)(1)(A) of this section and at a
-      local office of the Service, designated by the Attorney General,
-      which is convenient to the parties involved. The Attorney
-      General, in the Attorney General's discretion, may waive the
-      deadline for such an interview or the requirement for such an
-      interview in such cases as may be appropriate.
+        The interview under subsection (c)(1)(B) shall be conducted
+      within 90 days after the date of submitting a petition under
+      subsection (c)(1)(A) and at a local office of the Department of
+      Homeland Security, designated by the Secretary of Homeland
+      Security, which is convenient to the parties involved. The
+      Secretary of Homeland Security, in the Secretary's discretion,
+      may waive the deadline for such an interview or the requirement
+      for such an interview in such cases as may be appropriate.
     (e) Treatment of period for purposes of naturalization
       For purposes of subchapter III, in the case of an alien who is in
     the United States as a lawful permanent resident on a conditional
@@ -27277,7 +27518,26 @@
     section 1182 of this title of certain grounds of inadmissibility,
     such waiver terminates upon the termination of such permanent
     residence status under this section.
-    (g) Definitions
+    (g) Service in Armed Forces
+      (1) Filing petition
+        The 90-day period described in subsection (d)(2)(A) shall be
+      tolled during any period of time in which the alien spouse or
+      petitioning spouse is a member of the Armed Forces of the United
+      States and serving abroad in an active-duty status in the Armed
+      Forces, except that, at the option of the petitioners, the
+      petition may be filed during such active-duty service at any time
+      after the commencement of such 90-day period.
+      (2) Personal interview
+        The 90-day period described in the first sentence of subsection
+      (d)(3) shall be tolled during any period of time in which the
+      alien spouse or petitioning spouse is a member of the Armed
+      Forces of the United States and serving abroad in an active-duty
+      status in the Armed Forces, except that nothing in this paragraph
+      shall be construed to prohibit the Secretary of Homeland Security
+      from waiving the requirement for an interview under subsection
+      (c)(1)(B) pursuant to the Secretary's authority under the second
+      sentence of subsection (d)(3).
+    (h) Definitions
       In this section:
         (1) The term "alien spouse" means an alien who obtains the
       status of an alien lawfully admitted for permanent residence
@@ -27313,7 +27573,8 @@
     Stat. 1955; Pub. L. 104-208, div. C, title III, Sec. 308(d)(4)(E),
     (e)(7), (f)(1)(I), (J), Sept. 30, 1996, 110 Stat. 3009-618, 3009-
     620, 3009-621; Pub. L. 106-553, Sec. 1(a)(2) [title XI, Sec.
-    1103(c)(2)], Dec. 21, 2000, 114 Stat. 2762, 2762A-145.)
+    1103(c)(2)], Dec. 21, 2000, 114 Stat. 2762, 2762A-145; Pub. L. 112-
+    58, Sec. 1, Nov. 23, 2011, 125 Stat. 747.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -27335,6 +27596,18 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2011 - Pub. L. 112-58, Sec. 1(b)(2)(B), substituted "Secretary of
+    Homeland Security" for "Attorney General" wherever appearing except
+    in subsec. (g)(2).
+      Subsec. (a)(1). Pub. L. 112-58, Sec. 1(b)(1), substituted
+    "(h)(1))" for "(g)(1))" and "(h)(2))" for "(g)(2))".
+      Subsec. (c)(1)(B). Pub. L. 112-58, Sec. 1(b)(2)(C), substituted
+    "Department of Homeland Security" for "Service".
+      Subsec. (d)(3). Pub. L. 112-58, Sec. 1(b)(2)(A), (C), substituted
+    "Department of Homeland Security" for "Service" and "Secretary's"
+    for "Attorney General's".
+      Subsecs. (g), (h). Pub. L. 112-58, Sec. 1(a), added subsec. (g)
+    and redesignated former subsec. (g) as (h).
       2000 - Subsecs. (b)(1)(B), (d)(1)(A)(ii). Pub. L. 106-553
     substituted "section 1154(a) of this title or subsection (d) or (p)
     of section 1184 of this title" for "section 1154(a) or 1184(d) of
@@ -27426,7 +27699,9 @@
 -FOOTNOTE-
     (!1) So in original. Probably should be "subsection".
 
-    (!2) See References in Text note below.
+    (!2) So in original. Probably should be "Secretary's".
+
+    (!3) See References in Text note below.
 
 
 -End-
@@ -27434,7 +27709,7 @@
 
 
 -CITE-
-    8 USC Sec. 1186b                                            01/07/2011
+    8 USC Sec. 1186b                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -28209,7 +28484,7 @@
 
 
 -CITE-
-    8 USC Sec. 1187                                             01/07/2011
+    8 USC Sec. 1187                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -29628,7 +29903,7 @@
 
 
 -CITE-
-    8 USC Sec. 1188                                             01/07/2011
+    8 USC Sec. 1188                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -30102,7 +30377,7 @@
 
 
 -CITE-
-    8 USC Sec. 1189                                             01/07/2011
+    8 USC Sec. 1189                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -30533,7 +30808,7 @@
 
 
 -CITE-
-    8 USC Part III - Issuance of Entry Documents                01/07/2011
+    8 USC Part III - Issuance of Entry Documents                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -30549,7 +30824,7 @@
 
 
 -CITE-
-    8 USC Sec. 1201                                             01/07/2011
+    8 USC Sec. 1201                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31092,7 +31367,7 @@
 
 
 -CITE-
-    8 USC Sec. 1201a                                            01/07/2011
+    8 USC Sec. 1201a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31122,7 +31397,7 @@
 
 
 -CITE-
-    8 USC Sec. 1202                                             01/07/2011
+    8 USC Sec. 1202                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31511,7 +31786,7 @@
 
 
 -CITE-
-    8 USC Sec. 1203                                             01/07/2011
+    8 USC Sec. 1203                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31613,7 +31888,7 @@
 
 
 -CITE-
-    8 USC Sec. 1204                                             01/07/2011
+    8 USC Sec. 1204                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31661,7 +31936,7 @@
 
 
 -CITE-
-    8 USC Sec. 1205                                             01/07/2011
+    8 USC Sec. 1205                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31685,7 +31960,7 @@
 
 -CITE-
     8 USC Part IV - Inspection, Apprehension, Examination,
-                     Exclusion, and Removal                01/07/2011
+                     Exclusion, and Removal                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31703,7 +31978,7 @@
 
 
 -CITE-
-    8 USC Sec. 1221                                             01/07/2011
+    8 USC Sec. 1221                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -31962,7 +32237,7 @@
 
 
 -CITE-
-    8 USC Sec. 1222                                             01/07/2011
+    8 USC Sec. 1222                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -32130,7 +32405,7 @@
 
 
 -CITE-
-    8 USC Sec. 1223                                             01/07/2011
+    8 USC Sec. 1223                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -32253,7 +32528,7 @@
 
 
 -CITE-
-    8 USC Sec. 1224                                             01/07/2011
+    8 USC Sec. 1224                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -32365,7 +32640,7 @@
 
 
 -CITE-
-    8 USC Sec. 1225                                             01/07/2011
+    8 USC Sec. 1225                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -32799,7 +33074,7 @@
 
 
 -CITE-
-    8 USC Sec. 1225a                                            01/07/2011
+    8 USC Sec. 1225a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -32964,7 +33239,7 @@
 
 
 -CITE-
-    8 USC Sec. 1226                                             01/07/2011
+    8 USC Sec. 1226                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -33321,7 +33596,7 @@
 
 
 -CITE-
-    8 USC Sec. 1226a                                            01/07/2011
+    8 USC Sec. 1226a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -33479,7 +33754,7 @@
 
 
 -CITE-
-    8 USC Sec. 1227                                             01/07/2011
+    8 USC Sec. 1227                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -34558,7 +34833,7 @@
 
 
 -CITE-
-    8 USC Sec. 1228                                             01/07/2011
+    8 USC Sec. 1228                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -35103,7 +35378,7 @@
 
 
 -CITE-
-    8 USC Sec. 1229                                             01/07/2011
+    8 USC Sec. 1229                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -35274,7 +35549,7 @@
 
 
 -CITE-
-    8 USC Sec. 1229a                                            01/07/2011
+    8 USC Sec. 1229a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -35813,7 +36088,7 @@
 
 
 -CITE-
-    8 USC Sec. 1229b                                            01/07/2011
+    8 USC Sec. 1229b                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -36334,7 +36609,7 @@
 
 
 -CITE-
-    8 USC Sec. 1229c                                            01/07/2011
+    8 USC Sec. 1229c                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -36551,7 +36826,7 @@
 
 
 -CITE-
-    8 USC Sec. 1230                                             01/07/2011
+    8 USC Sec. 1230                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -36605,7 +36880,7 @@
 
 
 -CITE-
-    8 USC Sec. 1231                                             01/07/2011
+    8 USC Sec. 1231                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -37419,7 +37694,7 @@
 
 
 -CITE-
-    8 USC Sec. 1232                                             01/07/2011
+    8 USC Sec. 1232                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -37810,7 +38085,7 @@
 
 
 -CITE-
-    8 USC Part V - Adjustment and Change of Status              01/07/2011
+    8 USC Part V - Adjustment and Change of Status              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -37826,7 +38101,7 @@
 
 
 -CITE-
-    8 USC Sec. 1251                                             01/07/2011
+    8 USC Sec. 1251                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -37851,7 +38126,7 @@
 
 
 -CITE-
-    8 USC Sec. 1251a                                            01/07/2011
+    8 USC Sec. 1251a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -37889,7 +38164,7 @@
 
 
 -CITE-
-    8 USC Sec. 1252                                             01/07/2011
+    8 USC Sec. 1252                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -38725,7 +39000,7 @@
 
 
 -CITE-
-    8 USC Sec. 1252a                                            01/07/2011
+    8 USC Sec. 1252a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -38752,7 +39027,7 @@
 
 
 -CITE-
-    8 USC Sec. 1252b                                            01/07/2011
+    8 USC Sec. 1252b                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -38786,7 +39061,7 @@
 
 
 -CITE-
-    8 USC Sec. 1252c                                            01/07/2011
+    8 USC Sec. 1252c                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -38846,7 +39121,7 @@
 
 
 -CITE-
-    8 USC Sec. 1253                                             01/07/2011
+    8 USC Sec. 1253                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -39082,7 +39357,7 @@
 
 
 -CITE-
-    8 USC Sec. 1254                                             01/07/2011
+    8 USC Sec. 1254                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -39126,7 +39401,7 @@
 
 
 -CITE-
-    8 USC Sec. 1254a                                            01/07/2011
+    8 USC Sec. 1254a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -39779,7 +40054,7 @@
 
 
 -CITE-
-    8 USC Sec. 1254b                                            01/07/2011
+    8 USC Sec. 1254b                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -39814,7 +40089,7 @@
 
 
 -CITE-
-    8 USC Sec. 1255                                             01/07/2011
+    8 USC Sec. 1255                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -41524,8 +41799,10 @@
     Stat. 25; Pub. L. 110-161, div. J, title VI, Sec. 634(k)(2), Dec.
     26, 2007, 121 Stat. 2329; Pub. L. 111-8, div. H, title VII, Sec.
     7034(g)(2), Mar. 11, 2009, 123 Stat. 878; Pub. L. 111-117, div. F,
-    title VII, Sec. 7034(f)(2), Dec. 16, 2009, 123 Stat. 3361, provided
-    that:
+    title VII, Sec. 7034(f)(2), Dec. 16, 2009, 123 Stat. 3361; Pub. L.
+    112-10, div. B, title XI, Sec. 2121(m)(2), Apr. 15, 2011, 125 Stat.
+    186; Pub. L. 112-74, div. I, title VII, Sec. 7034(r)(2), Dec. 23,
+    2011, 125 Stat. 1218, provided that:
       "(a) In General. - The Attorney General shall adjust the status
     of an alien described in subsection (b) to that of an alien
     lawfully admitted for permanent residence if the alien - 
@@ -41544,7 +41821,7 @@
       Cambodia, and
         "(2) was inspected and granted parole into the United States
       during the period beginning on August 15, 1988, and ending on
-      September 30, 2010, after being denied refugee status.
+      September 30, 2012, after being denied refugee status.
       "(c) Waiver of Certain Grounds for Inadmissibility. - The
     provisions of paragraphs (4), (5), and (7)(A) of section 212(a) of
     the Immigration and Nationality Act [8 U.S.C. 1182(a)(4), (5),
@@ -41736,7 +42013,7 @@
 
 
 -CITE-
-    8 USC Sec. 1255a                                            01/07/2011
+    8 USC Sec. 1255a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -42846,7 +43123,7 @@
       Pub. L. 99-603, title II, Sec. 201(c)(1), Nov. 6, 1986, 100 Stat.
     3403, provided that notwithstanding Federal Property and
     Administrative Services Act of 1949 [see chapters 1 to 11 of Title
-    40, Public Buildings, Property, and Works and division C (except
+    40, Public Buildings, Property, and Works, and division C (except
     sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of
     subtitle I of Title 41, Public Contracts], the Attorney General was
     authorized for period of up to two years after effective date of
@@ -42953,7 +43230,7 @@
 
 
 -CITE-
-    8 USC Sec. 1255b                                            01/07/2011
+    8 USC Sec. 1255b                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43088,7 +43365,7 @@
 
 
 -CITE-
-    8 USC Sec. 1256                                             01/07/2011
+    8 USC Sec. 1256                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43210,7 +43487,7 @@
 
 
 -CITE-
-    8 USC Sec. 1257                                             01/07/2011
+    8 USC Sec. 1257                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43275,7 +43552,7 @@
 
 
 -CITE-
-    8 USC Sec. 1258                                             01/07/2011
+    8 USC Sec. 1258                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43391,7 +43668,7 @@
 
 
 -CITE-
-    8 USC Sec. 1259                                             01/07/2011
+    8 USC Sec. 1259                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43513,7 +43790,7 @@
 
 
 -CITE-
-    8 USC Sec. 1260                                             01/07/2011
+    8 USC Sec. 1260                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43562,7 +43839,7 @@
 
 -CITE-
     8 USC Part VI - Special Provisions Relating to Alien
-                     Crewmen                               01/07/2011
+                     Crewmen                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43578,7 +43855,7 @@
 
 
 -CITE-
-    8 USC Sec. 1281                                             01/07/2011
+    8 USC Sec. 1281                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43716,7 +43993,7 @@
 
 
 -CITE-
-    8 USC Sec. 1282                                             01/07/2011
+    8 USC Sec. 1282                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43826,7 +44103,7 @@
 
 
 -CITE-
-    8 USC Sec. 1283                                             01/07/2011
+    8 USC Sec. 1283                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -43883,7 +44160,7 @@
 
 
 -CITE-
-    8 USC Sec. 1284                                             01/07/2011
+    8 USC Sec. 1284                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44008,7 +44285,7 @@
 
 
 -CITE-
-    8 USC Sec. 1285                                             01/07/2011
+    8 USC Sec. 1285                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44075,7 +44352,7 @@
 
 
 -CITE-
-    8 USC Sec. 1286                                             01/07/2011
+    8 USC Sec. 1286                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44141,7 +44418,7 @@
 
 
 -CITE-
-    8 USC Sec. 1287                                             01/07/2011
+    8 USC Sec. 1287                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44199,7 +44476,7 @@
 
 
 -CITE-
-    8 USC Sec. 1288                                             01/07/2011
+    8 USC Sec. 1288                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44656,7 +44933,7 @@
 
 
 -CITE-
-    8 USC Part VII - Registration of Aliens                     01/07/2011
+    8 USC Part VII - Registration of Aliens                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44672,7 +44949,7 @@
 
 
 -CITE-
-    8 USC Sec. 1301                                             01/07/2011
+    8 USC Sec. 1301                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44722,7 +44999,7 @@
 
 
 -CITE-
-    8 USC Sec. 1302                                             01/07/2011
+    8 USC Sec. 1302                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44823,7 +45100,7 @@
 
 
 -CITE-
-    8 USC Sec. 1303                                             01/07/2011
+    8 USC Sec. 1303                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -44893,7 +45170,7 @@
 
 
 -CITE-
-    8 USC Sec. 1304                                             01/07/2011
+    8 USC Sec. 1304                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -45012,7 +45289,7 @@
 
 
 -CITE-
-    8 USC Sec. 1305                                             01/07/2011
+    8 USC Sec. 1305                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -45084,7 +45361,7 @@
 
 
 -CITE-
-    8 USC Sec. 1306                                             01/07/2011
+    8 USC Sec. 1306                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -45167,7 +45444,7 @@
 
 
 -CITE-
-    8 USC Part VIII - General Penalty Provisions                01/07/2011
+    8 USC Part VIII - General Penalty Provisions                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -45183,7 +45460,7 @@
 
 
 -CITE-
-    8 USC Sec. 1321                                             01/07/2011
+    8 USC Sec. 1321                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -45286,7 +45563,7 @@
 
 
 -CITE-
-    8 USC Sec. 1322                                             01/07/2011
+    8 USC Sec. 1322                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -45459,7 +45736,7 @@
 
 
 -CITE-
-    8 USC Sec. 1323                                             01/07/2011
+    8 USC Sec. 1323                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -45682,7 +45959,7 @@
 
 
 -CITE-
-    8 USC Sec. 1324                                             01/07/2011
+    8 USC Sec. 1324                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -46085,7 +46362,7 @@
 
 
 -CITE-
-    8 USC Sec. 1324a                                            01/07/2011
+    8 USC Sec. 1324a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -47865,7 +48142,7 @@
 
 
 -CITE-
-    8 USC Sec. 1324b                                            01/07/2011
+    8 USC Sec. 1324b                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48489,7 +48766,7 @@
 
 
 -CITE-
-    8 USC Sec. 1324c                                            01/07/2011
+    8 USC Sec. 1324c                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48782,7 +49059,7 @@
 
 
 -CITE-
-    8 USC Sec. 1324d                                            01/07/2011
+    8 USC Sec. 1324d                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48860,7 +49137,7 @@
 
 
 -CITE-
-    8 USC Sec. 1325                                             01/07/2011
+    8 USC Sec. 1325                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -48979,7 +49256,7 @@
 
 
 -CITE-
-    8 USC Sec. 1326                                             01/07/2011
+    8 USC Sec. 1326                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49195,7 +49472,7 @@
 
 
 -CITE-
-    8 USC Sec. 1327                                             01/07/2011
+    8 USC Sec. 1327                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49272,7 +49549,7 @@
 
 
 -CITE-
-    8 USC Sec. 1328                                             01/07/2011
+    8 USC Sec. 1328                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49326,7 +49603,7 @@
 
 
 -CITE-
-    8 USC Sec. 1329                                             01/07/2011
+    8 USC Sec. 1329                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49383,7 +49660,7 @@
 
 
 -CITE-
-    8 USC Sec. 1330                                             01/07/2011
+    8 USC Sec. 1330                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49539,7 +49816,7 @@
 
 
 -CITE-
-    8 USC Part IX - Miscellaneous                               01/07/2011
+    8 USC Part IX - Miscellaneous                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49555,7 +49832,7 @@
 
 
 -CITE-
-    8 USC Sec. 1351                                             01/07/2011
+    8 USC Sec. 1351                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49804,7 +50081,7 @@
 
 
 -CITE-
-    8 USC Sec. 1352                                             01/07/2011
+    8 USC Sec. 1352                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49842,7 +50119,7 @@
 
 
 -CITE-
-    8 USC Sec. 1353                                             01/07/2011
+    8 USC Sec. 1353                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49900,7 +50177,7 @@
 
 
 -CITE-
-    8 USC Sec. 1353a                                            01/07/2011
+    8 USC Sec. 1353a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -49986,7 +50263,7 @@
 
 
 -CITE-
-    8 USC Sec. 1353b                                            01/07/2011
+    8 USC Sec. 1353b                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -50053,7 +50330,7 @@
 
 
 -CITE-
-    8 USC Sec. 1353c                                            01/07/2011
+    8 USC Sec. 1353c                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -50121,7 +50398,7 @@
 
 
 -CITE-
-    8 USC Sec. 1353d                                            01/07/2011
+    8 USC Sec. 1353d                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -50186,7 +50463,7 @@
 
 
 -CITE-
-    8 USC Sec. 1354                                             01/07/2011
+    8 USC Sec. 1354                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -50247,7 +50524,7 @@
 
 
 -CITE-
-    8 USC Sec. 1355                                             01/07/2011
+    8 USC Sec. 1355                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -50311,7 +50588,7 @@
 
 
 -CITE-
-    8 USC Sec. 1356                                             01/07/2011
+    8 USC Sec. 1356                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51546,7 +51823,7 @@
 
 
 -CITE-
-    8 USC Sec. 1357                                             01/07/2011
+    8 USC Sec. 1357                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51869,7 +52146,7 @@
 
 
 -CITE-
-    8 USC Sec. 1358                                             01/07/2011
+    8 USC Sec. 1358                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51899,7 +52176,7 @@
 
 
 -CITE-
-    8 USC Sec. 1359                                             01/07/2011
+    8 USC Sec. 1359                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -51925,7 +52202,7 @@
 
 
 -CITE-
-    8 USC Sec. 1360                                             01/07/2011
+    8 USC Sec. 1360                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52048,7 +52325,7 @@
 
 
 -CITE-
-    8 USC Sec. 1361                                             01/07/2011
+    8 USC Sec. 1361                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52137,7 +52414,7 @@
 
 
 -CITE-
-    8 USC Sec. 1362                                             01/07/2011
+    8 USC Sec. 1362                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52192,7 +52469,7 @@
 
 
 -CITE-
-    8 USC Sec. 1363                                             01/07/2011
+    8 USC Sec. 1363                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52243,7 +52520,7 @@
 
 
 -CITE-
-    8 USC Sec. 1363a                                            01/07/2011
+    8 USC Sec. 1363a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52367,7 +52644,7 @@
 
 
 -CITE-
-    8 USC Sec. 1363b                                            01/07/2011
+    8 USC Sec. 1363b                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52398,7 +52675,7 @@
 
 
 -CITE-
-    8 USC Sec. 1364                                             01/07/2011
+    8 USC Sec. 1364                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52521,7 +52798,7 @@
 
 
 -CITE-
-    8 USC Sec. 1365                                             01/07/2011
+    8 USC Sec. 1365                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -52604,7 +52881,7 @@
 
 
 -CITE-
-    8 USC Sec. 1365a                                            01/07/2011
+    8 USC Sec. 1365a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53021,7 +53298,7 @@
 
 
 -CITE-
-    8 USC Sec. 1365b                                            01/07/2011
+    8 USC Sec. 1365b                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53418,7 +53695,7 @@
 
 
 -CITE-
-    8 USC Sec. 1366                                             01/07/2011
+    8 USC Sec. 1366                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53472,7 +53749,7 @@
 
 
 -CITE-
-    8 USC Sec. 1367                                             01/07/2011
+    8 USC Sec. 1367                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53701,7 +53978,7 @@
 
 
 -CITE-
-    8 USC Sec. 1368                                             01/07/2011
+    8 USC Sec. 1368                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53806,7 +54083,7 @@
 
 
 -CITE-
-    8 USC Sec. 1369                                             01/07/2011
+    8 USC Sec. 1369                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53880,7 +54157,7 @@
 
 
 -CITE-
-    8 USC Sec. 1370                                             01/07/2011
+    8 USC Sec. 1370                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53927,7 +54204,7 @@
 
 
 -CITE-
-    8 USC Sec. 1371                                             01/07/2011
+    8 USC Sec. 1371                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -53999,7 +54276,7 @@
 
 
 -CITE-
-    8 USC Sec. 1372                                             01/07/2011
+    8 USC Sec. 1372                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -54413,7 +54690,7 @@
 
 
 -CITE-
-    8 USC Sec. 1373                                             01/07/2011
+    8 USC Sec. 1373                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -54477,7 +54754,7 @@
 
 
 -CITE-
-    8 USC Sec. 1374                                             01/07/2011
+    8 USC Sec. 1374                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -54539,7 +54816,7 @@
 
 
 -CITE-
-    8 USC Sec. 1375                                             01/07/2011
+    8 USC Sec. 1375                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -54561,7 +54838,7 @@
 
 
 -CITE-
-    8 USC Sec. 1375a                                            01/07/2011
+    8 USC Sec. 1375a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55090,7 +55367,7 @@
 
 
 -CITE-
-    8 USC Sec. 1375b                                            01/07/2011
+    8 USC Sec. 1375b                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55253,7 +55530,7 @@
 
 
 -CITE-
-    8 USC Sec. 1375c                                            01/07/2011
+    8 USC Sec. 1375c                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55455,7 +55732,7 @@
 
 
 -CITE-
-    8 USC Sec. 1376                                             01/07/2011
+    8 USC Sec. 1376                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55503,7 +55780,7 @@
 
 
 -CITE-
-    8 USC Sec. 1377                                             01/07/2011
+    8 USC Sec. 1377                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55580,7 +55857,7 @@
 
 
 -CITE-
-    8 USC Sec. 1378                                             01/07/2011
+    8 USC Sec. 1378                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55674,7 +55951,7 @@
 
 
 -CITE-
-    8 USC Sec. 1379                                             01/07/2011
+    8 USC Sec. 1379                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55781,7 +56058,7 @@
 
 
 -CITE-
-    8 USC Sec. 1380                                             01/07/2011
+    8 USC Sec. 1380                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55838,7 +56115,7 @@
 
 
 -CITE-
-    8 USC Sec. 1381                                             01/07/2011
+    8 USC Sec. 1381                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55881,7 +56158,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER III - NATIONALITY AND NATURALIZATION       01/07/2011
+    8 USC SUBCHAPTER III - NATIONALITY AND NATURALIZATION       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55896,7 +56173,7 @@
 
 -CITE-
     8 USC Part I - Nationality at Birth and Collective
-                    Naturalization                         01/07/2011
+                    Naturalization                         01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -55912,7 +56189,7 @@
 
 
 -CITE-
-    8 USC Sec. 1401                                             01/07/2011
+    8 USC Sec. 1401                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56125,7 +56402,7 @@
 
 
 -CITE-
-    8 USC Sec. 1401a                                            01/07/2011
+    8 USC Sec. 1401a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56229,7 +56506,7 @@
 
 
 -CITE-
-    8 USC Sec. 1401b                                            01/07/2011
+    8 USC Sec. 1401b                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56254,7 +56531,7 @@
 
 
 -CITE-
-    8 USC Sec. 1402                                             01/07/2011
+    8 USC Sec. 1402                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56284,7 +56561,7 @@
 
 
 -CITE-
-    8 USC Sec. 1403                                             01/07/2011
+    8 USC Sec. 1403                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56335,7 +56612,7 @@
 
 
 -CITE-
-    8 USC Sec. 1404                                             01/07/2011
+    8 USC Sec. 1404                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56370,7 +56647,7 @@
 
 
 -CITE-
-    8 USC Sec. 1405                                             01/07/2011
+    8 USC Sec. 1405                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56406,7 +56683,7 @@
 
 
 -CITE-
-    8 USC Sec. 1406                                             01/07/2011
+    8 USC Sec. 1406                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56461,7 +56738,7 @@
 
 
 -CITE-
-    8 USC Sec. 1407                                             01/07/2011
+    8 USC Sec. 1407                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56522,7 +56799,7 @@
 
 
 -CITE-
-    8 USC Sec. 1408                                             01/07/2011
+    8 USC Sec. 1408                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56601,7 +56878,7 @@
 
 
 -CITE-
-    8 USC Sec. 1409                                             01/07/2011
+    8 USC Sec. 1409                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56727,7 +57004,7 @@
 
 
 -CITE-
-    8 USC Part II - Nationality Through Naturalization          01/07/2011
+    8 USC Part II - Nationality Through Naturalization          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -56743,7 +57020,7 @@
 
 
 -CITE-
-    8 USC Sec. 1421                                             01/07/2011
+    8 USC Sec. 1421                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57026,7 +57303,7 @@
 
 
 -CITE-
-    8 USC Sec. 1422                                             01/07/2011
+    8 USC Sec. 1422                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57059,7 +57336,7 @@
 
 
 -CITE-
-    8 USC Sec. 1423                                             01/07/2011
+    8 USC Sec. 1423                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57286,7 +57563,7 @@
 
 
 -CITE-
-    8 USC Sec. 1424                                             01/07/2011
+    8 USC Sec. 1424                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57497,7 +57774,7 @@
 
 
 -CITE-
-    8 USC Sec. 1425                                             01/07/2011
+    8 USC Sec. 1425                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57532,7 +57809,7 @@
 
 
 -CITE-
-    8 USC Sec. 1426                                             01/07/2011
+    8 USC Sec. 1426                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57603,7 +57880,7 @@
 
 
 -CITE-
-    8 USC Sec. 1427                                             01/07/2011
+    8 USC Sec. 1427                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57929,7 +58206,7 @@
 
 
 -CITE-
-    8 USC Sec. 1428                                             01/07/2011
+    8 USC Sec. 1428                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -57997,7 +58274,7 @@
 
 
 -CITE-
-    8 USC Sec. 1429                                             01/07/2011
+    8 USC Sec. 1429                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58093,7 +58370,7 @@
 
 
 -CITE-
-    8 USC Sec. 1430                                             01/07/2011
+    8 USC Sec. 1430                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58311,7 +58588,7 @@
 
 
 -CITE-
-    8 USC Sec. 1431                                             01/07/2011
+    8 USC Sec. 1431                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58413,7 +58690,7 @@
 
 
 -CITE-
-    8 USC Sec. 1432                                             01/07/2011
+    8 USC Sec. 1432                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58445,7 +58722,7 @@
 
 
 -CITE-
-    8 USC Sec. 1433                                             01/07/2011
+    8 USC Sec. 1433                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58666,7 +58943,7 @@
 
 
 -CITE-
-    8 USC Sec. 1434                                             01/07/2011
+    8 USC Sec. 1434                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58690,7 +58967,7 @@
 
 
 -CITE-
-    8 USC Sec. 1435                                             01/07/2011
+    8 USC Sec. 1435                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58941,7 +59218,7 @@
 
 
 -CITE-
-    8 USC Sec. 1436                                             01/07/2011
+    8 USC Sec. 1436                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -58980,7 +59257,7 @@
 
 
 -CITE-
-    8 USC Sec. 1437                                             01/07/2011
+    8 USC Sec. 1437                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59015,7 +59292,7 @@
 
 
 -CITE-
-    8 USC Sec. 1438                                             01/07/2011
+    8 USC Sec. 1438                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59110,7 +59387,7 @@
 
 
 -CITE-
-    8 USC Sec. 1439                                             01/07/2011
+    8 USC Sec. 1439                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59232,14 +59509,17 @@
       The Director of United States Citizenship and Immigration
     Services shall submit an annual report to the Subcommittee on
     Immigration, Border Security, and Refugees and the Subcommittee on
-    Homeland Security of the Senate and the Subcommittee on
+    Homeland Security (!1) of the Senate and the Subcommittee on
     Immigration, Citizenship, Refugees, Border Security, and
-    International Law and the Subcommittee on Homeland Security of the
-    House of Representatives that identifies every application filed
-    under subsection (a), subsection (b) or (d) of section 1430 of this
-    title, section 1440(a) of this title, or section 1440-1 of this
-    title that is not processed and adjudicated within 1 year after it
-    was filed due to delays in conducting required background checks.
+    International Law and the Subcommittee (!2) on Homeland Security of
+    the House of Representatives that identifies every application
+    filed under subsection (a), subsection (b) or (d) of section 1430
+    of this title, section 1440(a) of this title, or section 1440-1 of
+    this title that is not processed and adjudicated within 1 year
+    after it was filed due to delays in conducting required background
+    checks.
+
+
 
 -SOURCE-
     (June 27, 1952, ch. 477, title III, ch. 2, Sec. 328, 66 Stat. 249;
@@ -59302,6 +59582,17 @@
       1968 - Subsec. (b)(2). Pub. L. 90-633 inserted reference to
     section 1429 of this title as it relates to deportability.
 
+-CHANGE-
+                              CHANGE OF NAME                          
+      Subcommittee on Immigration, Citizenship, Refugees, Border
+    Security, and International Law of Committee on the Judiciary of
+    the House of Representatives changed to Subcommittee on Immigration
+    Policy and Enforcement of Committee on the Judiciary of the House
+    of Representatives under Rule V(b) of the Committee's rules of
+    procedure adopted Jan. 19, 2011.
+
+
+-MISC2-
                     TERMINATION DATE OF 2008 AMENDMENT                
       Amendment by Pub. L. 110-382 repealed 5 years after Oct. 9, 2008,
     see section 4 of Pub. L. 110-382, set out as a note under section
@@ -59346,12 +59637,19 @@
     of functions, and treatment of related references, see note set out
     under section 1551 of this title.
 
+-FOOTNOTE-
+    (!1) So in original. Probably should be "Committee on Homeland
+         Security and Governmental Affairs".
+
+    (!2) So in original. Probably should be "Committee".
+
+
 -End-
 
 
 
 -CITE-
-    8 USC Sec. 1440                                             01/07/2011
+    8 USC Sec. 1440                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59709,7 +60007,7 @@
 
 
 -CITE-
-    8 USC Sec. 1440-1                                           01/07/2011
+    8 USC Sec. 1440-1                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59833,7 +60131,7 @@
 
 
 -CITE-
-    8 USC Secs. 1440a to 1440d                                  01/07/2011
+    8 USC Secs. 1440a to 1440d                                  01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59859,7 +60157,7 @@
 
 
 -CITE-
-    8 USC Sec. 1440e                                            01/07/2011
+    8 USC Sec. 1440e                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -59927,7 +60225,7 @@
 
 
 -CITE-
-    8 USC Sec. 1440f                                            01/07/2011
+    8 USC Sec. 1440f                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60035,7 +60333,7 @@
 
 
 -CITE-
-    8 USC Sec. 1440g                                            01/07/2011
+    8 USC Sec. 1440g                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60074,7 +60372,7 @@
 
 
 -CITE-
-    8 USC Sec. 1441                                             01/07/2011
+    8 USC Sec. 1441                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60179,7 +60477,7 @@
 
 
 -CITE-
-    8 USC Sec. 1442                                             01/07/2011
+    8 USC Sec. 1442                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60271,7 +60569,7 @@
 
 
 -CITE-
-    8 USC Sec. 1443                                             01/07/2011
+    8 USC Sec. 1443                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60407,7 +60705,7 @@
 
 
 -CITE-
-    8 USC Sec. 1443a                                            01/07/2011
+    8 USC Sec. 1443a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60489,7 +60787,7 @@
 
 
 -CITE-
-    8 USC Sec. 1444                                             01/07/2011
+    8 USC Sec. 1444                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60561,7 +60859,7 @@
 
 
 -CITE-
-    8 USC Sec. 1445                                             01/07/2011
+    8 USC Sec. 1445                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60727,7 +61025,7 @@
 
 
 -CITE-
-    8 USC Sec. 1446                                             01/07/2011
+    8 USC Sec. 1446                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -60914,7 +61212,7 @@
 
 
 -CITE-
-    8 USC Sec. 1447                                             01/07/2011
+    8 USC Sec. 1447                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61067,7 +61365,7 @@
 
 
 -CITE-
-    8 USC Sec. 1448                                             01/07/2011
+    8 USC Sec. 1448                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61294,7 +61592,7 @@
 
 
 -CITE-
-    8 USC Sec. 1448a                                            01/07/2011
+    8 USC Sec. 1448a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61338,7 +61636,7 @@
 
 
 -CITE-
-    8 USC Sec. 1449                                             01/07/2011
+    8 USC Sec. 1449                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61443,7 +61741,7 @@
 
 
 -CITE-
-    8 USC Sec. 1450                                             01/07/2011
+    8 USC Sec. 1450                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61540,7 +61838,7 @@
 
 
 -CITE-
-    8 USC Sec. 1451                                             01/07/2011
+    8 USC Sec. 1451                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61791,7 +62089,7 @@
 
 
 -CITE-
-    8 USC Sec. 1452                                             01/07/2011
+    8 USC Sec. 1452                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -61947,7 +62245,7 @@
 
 
 -CITE-
-    8 USC Sec. 1453                                             01/07/2011
+    8 USC Sec. 1453                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62003,7 +62301,7 @@
 
 
 -CITE-
-    8 USC Sec. 1454                                             01/07/2011
+    8 USC Sec. 1454                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62081,7 +62379,7 @@
 
 
 -CITE-
-    8 USC Sec. 1455                                             01/07/2011
+    8 USC Sec. 1455                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62330,7 +62628,7 @@
 
 
 -CITE-
-    8 USC Sec. 1456                                             01/07/2011
+    8 USC Sec. 1456                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62354,7 +62652,7 @@
 
 
 -CITE-
-    8 USC Sec. 1457                                             01/07/2011
+    8 USC Sec. 1457                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62392,7 +62690,7 @@
 
 
 -CITE-
-    8 USC Sec. 1458                                             01/07/2011
+    8 USC Sec. 1458                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62448,7 +62746,7 @@
 
 
 -CITE-
-    8 USC Sec. 1459                                             01/07/2011
+    8 USC Sec. 1459                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62473,7 +62771,7 @@
 
 
 -CITE-
-    8 USC Part III - Loss of Nationality                        01/07/2011
+    8 USC Part III - Loss of Nationality                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62489,7 +62787,7 @@
 
 
 -CITE-
-    8 USC Sec. 1481                                             01/07/2011
+    8 USC Sec. 1481                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62728,7 +63026,7 @@
 
 
 -CITE-
-    8 USC Sec. 1482                                             01/07/2011
+    8 USC Sec. 1482                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62762,7 +63060,7 @@
 
 
 -CITE-
-    8 USC Sec. 1483                                             01/07/2011
+    8 USC Sec. 1483                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62861,7 +63159,7 @@
 
 
 -CITE-
-    8 USC Secs. 1484 to 1487                                    01/07/2011
+    8 USC Secs. 1484 to 1487                                    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62901,7 +63199,7 @@
 
 
 -CITE-
-    8 USC Sec. 1488                                             01/07/2011
+    8 USC Sec. 1488                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62926,7 +63224,7 @@
 
 
 -CITE-
-    8 USC Sec. 1489                                             01/07/2011
+    8 USC Sec. 1489                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62964,7 +63262,7 @@
 
 
 -CITE-
-    8 USC Part IV - Miscellaneous                               01/07/2011
+    8 USC Part IV - Miscellaneous                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -62980,7 +63278,7 @@
 
 
 -CITE-
-    8 USC Sec. 1501                                             01/07/2011
+    8 USC Sec. 1501                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -63058,7 +63356,7 @@
 
 
 -CITE-
-    8 USC Sec. 1502                                             01/07/2011
+    8 USC Sec. 1502                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -63095,7 +63393,7 @@
 
 
 -CITE-
-    8 USC Sec. 1503                                             01/07/2011
+    8 USC Sec. 1503                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -63205,7 +63503,7 @@
 
 
 -CITE-
-    8 USC Sec. 1504                                             01/07/2011
+    8 USC Sec. 1504                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -63244,7 +63542,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER IV - REFUGEE ASSISTANCE                    01/07/2011
+    8 USC SUBCHAPTER IV - REFUGEE ASSISTANCE                    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -63259,7 +63557,7 @@
 
 
 -CITE-
-    8 USC Sec. 1521                                             01/07/2011
+    8 USC Sec. 1521                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -63357,7 +63655,7 @@
 
 
 -CITE-
-    8 USC Sec. 1522                                             01/07/2011
+    8 USC Sec. 1522                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65030,7 +65328,7 @@
 
 
 -CITE-
-    8 USC Sec. 1523                                             01/07/2011
+    8 USC Sec. 1523                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65127,7 +65425,7 @@
 
 
 -CITE-
-    8 USC Sec. 1524                                             01/07/2011
+    8 USC Sec. 1524                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65219,7 +65517,7 @@
 
 
 -CITE-
-    8 USC Sec. 1525                                             01/07/2011
+    8 USC Sec. 1525                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65250,7 +65548,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER V - ALIEN TERRORIST REMOVAL PROCEDURES     01/07/2011
+    8 USC SUBCHAPTER V - ALIEN TERRORIST REMOVAL PROCEDURES     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65265,7 +65563,7 @@
 
 
 -CITE-
-    8 USC Sec. 1531                                             01/07/2011
+    8 USC Sec. 1531                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65338,7 +65636,7 @@
 
 
 -CITE-
-    8 USC Sec. 1532                                             01/07/2011
+    8 USC Sec. 1532                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65422,7 +65720,7 @@
 
 
 -CITE-
-    8 USC Sec. 1533                                             01/07/2011
+    8 USC Sec. 1533                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65517,7 +65815,7 @@
 
 
 -CITE-
-    8 USC Sec. 1534                                             01/07/2011
+    8 USC Sec. 1534                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -65879,7 +66177,7 @@
 
 
 -CITE-
-    8 USC Sec. 1535                                             01/07/2011
+    8 USC Sec. 1535                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66070,7 +66368,7 @@
 
 
 -CITE-
-    8 USC Sec. 1536                                             01/07/2011
+    8 USC Sec. 1536                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66153,7 +66451,7 @@
 
 
 -CITE-
-    8 USC Sec. 1537                                             01/07/2011
+    8 USC Sec. 1537                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66304,7 +66602,7 @@
 
 
 -CITE-
-    8 USC CHAPTER 13 - IMMIGRATION AND NATURALIZATION SERVICE    01/07/2011 
+    8 USC CHAPTER 13 - IMMIGRATION AND NATURALIZATION SERVICE   01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66342,7 +66640,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER I - ORGANIZATION                           01/07/2011
+    8 USC SUBCHAPTER I - ORGANIZATION                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66357,7 +66655,7 @@
 
 
 -CITE-
-    8 USC Sec. 1551                                             01/07/2011
+    8 USC Sec. 1551                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66610,7 +66908,7 @@
 
 
 -CITE-
-    8 USC Sec. 1552                                             01/07/2011
+    8 USC Sec. 1552                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66702,7 +67000,7 @@
 
 
 -CITE-
-    8 USC Sec. 1553                                             01/07/2011
+    8 USC Sec. 1553                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66756,7 +67054,7 @@
 
 
 -CITE-
-    8 USC Sec. 1554                                             01/07/2011
+    8 USC Sec. 1554                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66810,7 +67108,7 @@
 
 
 -CITE-
-    8 USC Sec. 1555                                             01/07/2011
+    8 USC Sec. 1555                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66861,7 +67159,7 @@
 
 
 -CITE-
-    8 USC Sec. 1556                                             01/07/2011
+    8 USC Sec. 1556                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66880,7 +67178,7 @@
 
 
 -CITE-
-    8 USC Sec. 1557                                             01/07/2011
+    8 USC Sec. 1557                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -66990,7 +67288,7 @@
 
 -CITE-
     8 USC SUBCHAPTER II - IMMIGRATION SERVICES AND
-           INFRASTRUCTURE IMPROVEMENTS                     01/07/2011
+           INFRASTRUCTURE IMPROVEMENTS                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -67006,7 +67304,7 @@
 
 
 -CITE-
-    8 USC Sec. 1571                                             01/07/2011
+    8 USC Sec. 1571                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -67062,7 +67360,7 @@
 
 
 -CITE-
-    8 USC Sec. 1572                                             01/07/2011
+    8 USC Sec. 1572                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -67111,7 +67409,7 @@
 
 
 -CITE-
-    8 USC Sec. 1573                                             01/07/2011
+    8 USC Sec. 1573                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -67181,7 +67479,7 @@
 
 
 -CITE-
-    8 USC Sec. 1574                                             01/07/2011
+    8 USC Sec. 1574                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -67322,7 +67620,7 @@
 
 -CITE-
     8 USC CHAPTER 14 - RESTRICTING WELFARE AND PUBLIC BENEFITS
-           FOR ALIENS                                      01/07/2011
+           FOR ALIENS                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -67387,7 +67685,7 @@
 
 
 -CITE-
-    8 USC Sec. 1601                                             01/07/2011
+    8 USC Sec. 1601                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -67465,7 +67763,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER I - ELIGIBILITY FOR FEDERAL BENEFITS       01/07/2011
+    8 USC SUBCHAPTER I - ELIGIBILITY FOR FEDERAL BENEFITS       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -67480,7 +67778,7 @@
 
 
 -CITE-
-    8 USC Sec. 1611                                             01/07/2011
+    8 USC Sec. 1611                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -67632,10 +67930,10 @@
     out preceding section 231 of Title 45, section 231t of Title 45,
     and Tables.
       The Railroad Unemployment Insurance Act, referred to in subsec.
-    (b)(4), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended,
-    which is classified principally to chapter 11 (Sec. 351 et seq.) of
-    Title 45, Railroads. For complete classification of this Act to the
-    Code, see Tables.
+    (b)(4), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is
+    classified principally to chapter 11 (Sec. 351 et seq.) of Title
+    45, Railroads. For complete classification of this Act to the Code,
+    see section 367 of Title 45 and Tables.
       This chapter, referred to in subsec. (c)(1), was in the original
     "this title" meaning title IV of Pub. L. 104-193, Aug. 22, 1996,
     110 Stat. 2260, which enacted this chapter, section 1183a of this
@@ -67751,7 +68049,7 @@
 
 
 -CITE-
-    8 USC Sec. 1612                                             01/07/2011
+    8 USC Sec. 1612                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68532,7 +68830,7 @@
 
 
 -CITE-
-    8 USC Sec. 1613                                             01/07/2011
+    8 USC Sec. 1613                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68834,7 +69132,7 @@
 
 
 -CITE-
-    8 USC Sec. 1614                                             01/07/2011
+    8 USC Sec. 1614                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68870,7 +69168,7 @@
 
 
 -CITE-
-    8 USC Sec. 1615                                             01/07/2011
+    8 USC Sec. 1615                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68968,7 +69266,7 @@
 
 -CITE-
     8 USC SUBCHAPTER II - ELIGIBILITY FOR STATE AND LOCAL
-           PUBLIC BENEFITS PROGRAMS                        01/07/2011
+           PUBLIC BENEFITS PROGRAMS                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -68985,7 +69283,7 @@
 
 
 -CITE-
-    8 USC Sec. 1621                                             01/07/2011
+    8 USC Sec. 1621                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69148,7 +69446,7 @@
 
 
 -CITE-
-    8 USC Sec. 1622                                             01/07/2011
+    8 USC Sec. 1622                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69314,7 +69612,7 @@
 
 
 -CITE-
-    8 USC Sec. 1623                                             01/07/2011
+    8 USC Sec. 1623                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69357,7 +69655,7 @@
 
 
 -CITE-
-    8 USC Sec. 1624                                             01/07/2011
+    8 USC Sec. 1624                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69407,7 +69705,7 @@
 
 
 -CITE-
-    8 USC Sec. 1625                                             01/07/2011
+    8 USC Sec. 1625                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69443,7 +69741,7 @@
 
 -CITE-
     8 USC SUBCHAPTER III - ATTRIBUTION OF INCOME AND
-           AFFIDAVITS OF SUPPORT                           01/07/2011
+           AFFIDAVITS OF SUPPORT                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69458,7 +69756,7 @@
 
 
 -CITE-
-    8 USC Sec. 1631                                             01/07/2011
+    8 USC Sec. 1631                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69674,7 +69972,7 @@
 
 
 -CITE-
-    8 USC Sec. 1632                                             01/07/2011
+    8 USC Sec. 1632                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69785,7 +70083,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER IV - GENERAL PROVISIONS                    01/07/2011
+    8 USC SUBCHAPTER IV - GENERAL PROVISIONS                    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -69800,7 +70098,7 @@
 
 
 -CITE-
-    8 USC Sec. 1641                                             01/07/2011
+    8 USC Sec. 1641                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70074,7 +70372,7 @@
 
 
 -CITE-
-    8 USC Sec. 1642                                             01/07/2011
+    8 USC Sec. 1642                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70182,7 +70480,7 @@
 
 
 -CITE-
-    8 USC Sec. 1643                                             01/07/2011
+    8 USC Sec. 1643                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70273,7 +70571,7 @@
 
 
 -CITE-
-    8 USC Sec. 1644                                             01/07/2011
+    8 USC Sec. 1644                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70309,7 +70607,7 @@
 
 
 -CITE-
-    8 USC Sec. 1645                                             01/07/2011
+    8 USC Sec. 1645                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70390,7 +70688,7 @@
 
 
 -CITE-
-    8 USC Sec. 1646                                             01/07/2011
+    8 USC Sec. 1646                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70446,7 +70744,7 @@
 
 -CITE-
     8 USC CHAPTER 15 - ENHANCED BORDER SECURITY AND VISA ENTRY
-           REFORM                                          01/07/2011
+           REFORM                                          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70524,7 +70822,7 @@
 
 
 -CITE-
-    8 USC Sec. 1701                                             01/07/2011
+    8 USC Sec. 1701                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70759,7 +71057,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER I - FUNDING                                01/07/2011
+    8 USC SUBCHAPTER I - FUNDING                                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70774,7 +71072,7 @@
 
 
 -CITE-
-    8 USC Sec. 1711                                             01/07/2011
+    8 USC Sec. 1711                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -70903,7 +71201,7 @@
 
 
 -CITE-
-    8 USC Sec. 1712                                             01/07/2011
+    8 USC Sec. 1712                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71008,13 +71306,13 @@
     program under subsection (a), the Under Secretary shall submit a
     report on the program to the Senate Committee on Commerce, Science,
     and Transportation, the House of Representatives Committee on
-    Science [now Committee on Science and Technology], the House of
-    Representatives Committee on Homeland Security, and the House of
-    Representatives Committee on the Judiciary. The Under Secretary
-    shall include in the report a description of the program together
-    with such recommendations as the Under Secretary finds appropriate,
-    including recommendations for terminating the program, making the
-    program permanent, or enhancing the program."
+    Science [now Committee on Science, Space, and Technology], the
+    House of Representatives Committee on Homeland Security, and the
+    House of Representatives Committee on the Judiciary. The Under
+    Secretary shall include in the report a description of the program
+    together with such recommendations as the Under Secretary finds
+    appropriate, including recommendations for terminating the program,
+    making the program permanent, or enhancing the program."
 
         ADVANCED TECHNOLOGY NORTHERN BORDER SECURITY PILOT PROGRAM    
       Pub. L. 108-458, title V, subtitle A, Dec. 17, 2004, 118 Stat.
@@ -71089,7 +71387,7 @@
 
 
 -CITE-
-    8 USC Sec. 1713                                             01/07/2011
+    8 USC Sec. 1713                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71132,7 +71430,7 @@
 
 
 -CITE-
-    8 USC Sec. 1714                                             01/07/2011
+    8 USC Sec. 1714                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71207,7 +71505,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER II - INTERAGENCY INFORMATION SHARING       01/07/2011
+    8 USC SUBCHAPTER II - INTERAGENCY INFORMATION SHARING       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71222,7 +71520,7 @@
 
 
 -CITE-
-    8 USC Sec. 1721                                             01/07/2011
+    8 USC Sec. 1721                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71368,9 +71666,9 @@
     and a report on the plan, including any recommendations the
     Secretary finds appropriate, to the Senate Committee on Commerce,
     Science, and Transportation, the House of Representatives Committee
-    on Science [now Committee on Science and Technology], the House of
-    Representatives Committee on Homeland Security, and the House of
-    Representatives Committee on the Judiciary."
+    on Science [now Committee on Science, Space, and Technology], the
+    House of Representatives Committee on Homeland Security, and the
+    House of Representatives Committee on the Judiciary."
 
 -FOOTNOTE-               
 
@@ -71382,7 +71680,7 @@
 
 
 -CITE-
-    8 USC Sec. 1722                                             01/07/2011
+    8 USC Sec. 1722                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71559,7 +71857,7 @@
 
 
 -CITE-
-    8 USC Sec. 1723                                             01/07/2011
+    8 USC Sec. 1723                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71620,7 +71918,7 @@
 
 
 -CITE-
-    8 USC Sec. 1724                                             01/07/2011
+    8 USC Sec. 1724                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71688,7 +71986,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER III - VISA ISSUANCE                        01/07/2011
+    8 USC SUBCHAPTER III - VISA ISSUANCE                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71703,7 +72001,7 @@
 
 
 -CITE-
-    8 USC Sec. 1731                                             01/07/2011
+    8 USC Sec. 1731                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71766,7 +72064,7 @@
 
 
 -CITE-
-    8 USC Sec. 1732                                             01/07/2011
+    8 USC Sec. 1732                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71879,7 +72177,7 @@
 
 
 -CITE-
-    8 USC Sec. 1733                                             01/07/2011
+    8 USC Sec. 1733                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -71937,7 +72235,7 @@
 
 
 -CITE-
-    8 USC Sec. 1734                                             01/07/2011
+    8 USC Sec. 1734                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72000,7 +72298,7 @@
 
 
 -CITE-
-    8 USC Sec. 1735                                             01/07/2011
+    8 USC Sec. 1735                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72055,7 +72353,7 @@
 
 
 -CITE-
-    8 USC Sec. 1736                                             01/07/2011
+    8 USC Sec. 1736                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72090,7 +72388,7 @@
 
 
 -CITE-
-    8 USC Sec. 1737                                             01/07/2011
+    8 USC Sec. 1737                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72141,7 +72439,7 @@
 
 
 -CITE-
-    8 USC Sec. 1738                                             01/07/2011
+    8 USC Sec. 1738                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72177,7 +72475,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER IV - INSPECTION AND ADMISSION OF ALIENS    01/07/2011
+    8 USC SUBCHAPTER IV - INSPECTION AND ADMISSION OF ALIENS    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72192,7 +72490,7 @@
 
 
 -CITE-
-    8 USC Sec. 1751                                             01/07/2011
+    8 USC Sec. 1751                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72260,7 +72558,7 @@
 
 
 -CITE-
-    8 USC Sec. 1752                                             01/07/2011
+    8 USC Sec. 1752                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72297,7 +72595,7 @@
 
 
 -CITE-
-    8 USC Sec. 1752a                                            01/07/2011
+    8 USC Sec. 1752a                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72355,7 +72653,7 @@
 
 
 -CITE-
-    8 USC Sec. 1753                                             01/07/2011
+    8 USC Sec. 1753                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72407,7 +72705,7 @@
 
 -CITE-
     8 USC SUBCHAPTER V - FOREIGN STUDENTS AND EXCHANGE
-           VISITORS                                        01/07/2011
+           VISITORS                                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72422,7 +72720,7 @@
 
 
 -CITE-
-    8 USC Sec. 1761                                             01/07/2011
+    8 USC Sec. 1761                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72513,7 +72811,7 @@
 
 
 -CITE-
-    8 USC Sec. 1762                                             01/07/2011
+    8 USC Sec. 1762                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72580,7 +72878,7 @@
 
 
 -CITE-
-    8 USC SUBCHAPTER VI - MISCELLANEOUS PROVISIONS              01/07/2011
+    8 USC SUBCHAPTER VI - MISCELLANEOUS PROVISIONS              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72595,7 +72893,7 @@
 
 
 -CITE-
-    8 USC Sec. 1771                                             01/07/2011
+    8 USC Sec. 1771                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72646,7 +72944,7 @@
 
 
 -CITE-
-    8 USC Sec. 1772                                             01/07/2011
+    8 USC Sec. 1772                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72709,7 +73007,7 @@
 
 
 -CITE-
-    8 USC Sec. 1773                                             01/07/2011
+    8 USC Sec. 1773                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72741,7 +73039,7 @@
 
 
 -CITE-
-    8 USC Sec. 1774                                             01/07/2011
+    8 USC Sec. 1774                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72786,7 +73084,7 @@
 
 
 -CITE-
-    8 USC Sec. 1775                                             01/07/2011
+    8 USC Sec. 1775                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72824,7 +73122,7 @@
 
 
 -CITE-
-    8 USC Sec. 1776                                             01/07/2011
+    8 USC Sec. 1776                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -72981,7 +73279,7 @@
 
 
 -CITE-
-    8 USC Sec. 1777                                             01/07/2011
+    8 USC Sec. 1777                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY
@@ -73218,7 +73516,7 @@
 
 
 -CITE-
-    8 USC Sec. 1778                                             01/07/2011
+    8 USC Sec. 1778                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 8 - ALIENS AND NATIONALITY

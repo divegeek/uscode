@@ -1,11 +1,12 @@
 -CITE-
-    13 USC TITLE 13 - CENSUS                                    01/07/2011
+    13 USC TITLE 13 - CENSUS                                    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
     
 -HEAD-    
                              TITLE 13 - CENSUS                         
+
 
 -MISC1-
       THIS TITLE WAS ENACTED BY ACT AUG. 31, 1954, CH. 1158, 68 STAT.
@@ -97,14 +98,14 @@
     item for chapter 9.
 
                           POSITIVE LAW; CITATION                      
-      This title has been made positive law by section 1 of act Aug.
-    31, 1954, ch. 1158, 68 Stat. 1012, which provided in part "That
-    title 13 of the United States Code, entitled 'Census' is revised,
-    codified and enacted into law and may be cited as 'Title 13, United
-    States Code, section - '."
+      This title has been made positive law by act Aug. 31, 1954, ch.
+    1158, Sec. 1, 68 Stat. 1012, which provided in part "That title 13
+    of the United States Code, entitled 'Census' is revised, codified
+    and enacted into law and may , be cited as 'Title 13, United States
+    Code, section - '."
 
                         REFERENCES TO CENSUS OFFICE                    
-      Section 3 of act Aug. 31, 1954, ch. 1158, 68 Stat. 1024, provided
+      Act Aug. 31, 1954, ch. 1158, Sec. 3, 68 Stat. 1025, provided
     that: "Whenever reference is made in any other law or in any
     regulation or order to the Census Office, such reference shall be
     held and considered to mean the Bureau of the Census referred to in
@@ -114,25 +115,25 @@
     present or future application to the Bureau of the Census."
 
                                SEPARABILITY                           
-      Section 4 of act Aug. 31, 1954, ch. 1158, 68 Stat. 1024, provided
+      Act Aug. 31, 1954, ch. 1158, Sec. 4, 68 Stat. 1025, provided
     that: "If any part of Title 13, United States Code, as set in
     section 1 of this Act, is held invalid, the remainder of such title
     shall not be affected thereby."
 
                          LEGISLATIVE CONSTRUCTION                     
-      Section 5 of act Aug. 31, 1954, ch. 1158, 68 Stat. 1024, provided
+      Act Aug. 31, 1954, ch. 1158, Sec. 5, 68 Stat. 1025, provided
     that: "No inference of a legislative construction is to be drawn by
     reason of the chapter in Title 13, United States Code, as set out
     in section 1 of this Act, in which any section is placed, nor by
     reason of the captions or catchlines used in such title."
 
                               EFFECTIVE DATE                          
-      Section 6 of act Aug. 31, 1954, ch. 1158, 68 Stat. 1024, provided
+      Act Aug. 31, 1954, ch. 1158, Sec. 6, 68 Stat. 1025, provided
     that: "The provisions of this Act shall take effect on January 1,
     1955."
 
                                   REPEALS                              
-      Section 7 of act Aug. 31, 1954, ch. 1158, 68 Stat. 1024, provided
+      Act Aug. 31, 1954, ch. 1158, Sec. 7, 68 Stat. 1025, provided
     that: "The sections of the Acts, and the Acts or parts of Acts,
     enumerated in the following schedule, are hereby repealed. Any
     rights or liabilities now existing under such statutes or parts
@@ -150,7 +151,7 @@
 
 
 -CITE-
-    13 USC CHAPTER 1 - ADMINISTRATION                           01/07/2011
+    13 USC CHAPTER 1 - ADMINISTRATION                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -234,7 +235,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/07/2011
+    13 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -249,7 +250,7 @@
 
 
 -CITE-
-    13 USC Sec. 1                                               01/07/2011
+    13 USC Sec. 1                                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -287,13 +288,13 @@
     and (2), and added par. (3).
 
                      EFFECTIVE DATE OF 1976 AMENDMENT                 
-      Section 17 of Pub. L. 94-521 provided that: "The amendments made
-    by this Act [enacting sections 181 to 184 and 196 of this title,
-    amending this section and sections 3 to 6, 8, 23, 141, 191, 195,
-    214, 221, 224, 225, and 241 of this title, and enacting provisions
-    set out as notes under this section] shall take effect on October
-    1, 1976, or on the date of the enactment of this Act [Oct. 17,
-    1976], whichever date is later".
+      Pub. L. 94-521, Sec. 17, Oct. 17, 1976, 90 Stat. 2466, provided
+    that: "The amendments made by this Act [enacting sections 181 to
+    184 and 196 of this title, amending this section and sections 3 to
+    6, 8, 23, 141, 191, 195, 214, 221, 224, 225, and 241 of this title,
+    and enacting provisions set out as notes under this section] shall
+    take effect on October 1, 1976, or on the date of the enactment of
+    this Act [Oct. 17, 1976], whichever date is later".
 
                        SHORT TITLE OF 1999 AMENDMENT                   
       Pub. L. 106-113, div. B, Sec. 1000(a)(7) [div. B, title XII,
@@ -312,21 +313,21 @@
     Improvement Act of 1994'."
 
                                SEPARABILITY                           
-      Section 16 of Pub. L. 94-521 provided that: "If a provision
-    enacted by this Act [see section 17 of Pub. L. 94-521 set out
-    above] is held invalid, all valid provisions that are severable
-    from the invalid provision remain in effect. If a provision of this
-    Act [Pub. L. 94-521] is held invalid in one or more of its
-    applications, the provision remains in effect in all valid
-    applications that are severable from the invalid application or
-    applications."
+      Pub. L. 94-521, Sec. 16, Oct. 17, 1976, 90 Stat. 2466, provided
+    that: "If a provision enacted by this Act [see section 17 of Pub.
+    L. 94-521 set out above] is held invalid, all valid provisions that
+    are severable from the invalid provision remain in effect. If a
+    provision of this Act [Pub. L. 94-521] is held invalid in one or
+    more of its applications, the provision remains in effect in all
+    valid applications that are severable from the invalid application
+    or applications."
 
 -End-
 
 
 
 -CITE-
-    13 USC Sec. 2                                               01/07/2011
+    13 USC Sec. 2                                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -364,7 +365,7 @@
 
 
 -CITE-
-    13 USC Sec. 3                                               01/07/2011
+    13 USC Sec. 3                                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -473,7 +474,7 @@
 
 
 -CITE-
-    13 USC Sec. 4                                               01/07/2011
+    13 USC Sec. 4                                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -545,7 +546,7 @@
 
 
 -CITE-
-    13 USC Sec. 5                                               01/07/2011
+    13 USC Sec. 5                                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -639,7 +640,7 @@
 
 
 -CITE-
-    13 USC Sec. 6                                               01/07/2011
+    13 USC Sec. 6                                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -735,7 +736,7 @@
 
 
 -CITE-
-    13 USC Sec. 7                                               01/07/2011
+    13 USC Sec. 7                                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -785,7 +786,7 @@
 
 
 -CITE-
-    13 USC Sec. 8                                               01/07/2011
+    13 USC Sec. 8                                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -906,7 +907,7 @@
 
 
 -CITE-
-    13 USC Sec. 9                                               01/07/2011
+    13 USC Sec. 9                                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1051,7 +1052,7 @@
 
 
 -CITE-
-    13 USC Sec. 10                                              01/07/2011
+    13 USC Sec. 10                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1059,10 +1060,11 @@
     SUBCHAPTER I - GENERAL PROVISIONS
 
 -HEAD-
-    [Sec. 10. Repealed. Pub. L. 86-682, Sec. 12(a), Sept. 2, 1960, 74
-      Stat. 708, eff. Sept. 1, 1960]
+    Sec. 10. Repealed.
 
 -MISC1-
+    [Sec. 10. Repealed. Pub. L. 86-682, Sec. 12(a), Sept. 2, 1960, 74
+      Stat. 708, eff. Sept. 1, 1960].
       Section, act Aug. 31, 1954, ch. 1158, Sec. 1, 68 Stat. 1014,
     related to free transmittal of official mail in census matters.
 
@@ -1071,7 +1073,7 @@
 
 
 -CITE-
-    13 USC Sec. 11                                              01/07/2011
+    13 USC Sec. 11                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1133,7 +1135,7 @@
 
 
 -CITE-
-    13 USC Sec. 12                                              01/07/2011
+    13 USC Sec. 12                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1158,7 +1160,7 @@
 
 
 -CITE-
-    13 USC Sec. 13                                              01/07/2011
+    13 USC Sec. 13                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1181,7 +1183,7 @@
 
 
 -CITE-
-    13 USC Sec. 14                                              01/07/2011
+    13 USC Sec. 14                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1189,10 +1191,11 @@
     SUBCHAPTER I - GENERAL PROVISIONS
 
 -HEAD-
-    [Sec. 14. Repealed. Pub. L. 89-473, Sec. 2(a), June 29, 1966, 80
-      Stat. 221]
+    Sec. 14. Repealed.
 
 -MISC1-
+    [Sec. 14. Repealed. Pub. L. 89-473, Sec. 2(a), June 29, 1966, 80
+      Stat. 221].
       Section, added Pub. L. 87-489, Sec. 1(a), June 19, 1962, 76 Stat.
     104, provided for reimbursement between appropriations. See section
     1534 of Title 31, Money and Finance.
@@ -1208,7 +1211,7 @@
 
 
 -CITE-
-    13 USC Sec. 15                                              01/07/2011
+    13 USC Sec. 15                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1259,7 +1262,7 @@
 
 
 -CITE-
-    13 USC Sec. 16                                              01/07/2011
+    13 USC Sec. 16                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1335,22 +1338,23 @@
 -MISC1-
        DEVELOPMENT OF APPEALS PROCESS BY ADMINISTRATOR OF OFFICE OF
                     INFORMATION AND REGULATORY AFFAIRS
-      Section 3 of Pub. L. 103-430 provided that: "The Administrator of
-    the Office of Information and Regulatory Affairs, acting through
-    the Chief Statistician and in consultation with the Bureau of the
-    Census, shall develop an appeals process for those States and local
-    units of general purpose government which desire to appeal
-    determinations of the Bureau of the Census pursuant to section
-    16(a)(2) or (b)(3) of title 13, United States Code. Appeals under
-    such process shall be resolved before the decennial census date.
-    The Chief Statistician shall publish the proposed appeals process
-    for a period of public comment before finalizing such process."
+      Pub. L. 103-430, Sec. 3, Oct. 31, 1994, 108 Stat. 4394, provided
+    that: "The Administrator of the Office of Information and
+    Regulatory Affairs, acting through the Chief Statistician and in
+    consultation with the Bureau of the Census, shall develop an
+    appeals process for those States and local units of general purpose
+    government which desire to appeal determinations of the Bureau of
+    the Census pursuant to section 16(a)(2) or (b)(3) of title 13,
+    United States Code. Appeals under such process shall be resolved
+    before the decennial census date. The Chief Statistician shall
+    publish the proposed appeals process for a period of public comment
+    before finalizing such process."
 
 -End-
 
 
 -CITE-
-    13 USC SUBCHAPTER II - OFFICERS AND EMPLOYEES               01/07/2011
+    13 USC SUBCHAPTER II - OFFICERS AND EMPLOYEES               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1365,7 +1369,7 @@
 
 
 -CITE-
-    13 USC Sec. 21                                              01/07/2011
+    13 USC Sec. 21                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1411,7 +1415,7 @@
 
 
 -CITE-
-    13 USC Sec. 22                                              01/07/2011
+    13 USC Sec. 22                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1473,7 +1477,7 @@
 
 
 -CITE-
-    13 USC Sec. 23                                              01/07/2011
+    13 USC Sec. 23                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1725,7 +1729,7 @@
 
 
 -CITE-
-    13 USC Sec. 24                                              01/07/2011
+    13 USC Sec. 24                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1895,7 +1899,7 @@
 
 
 -CITE-
-    13 USC Sec. 25                                              01/07/2011
+    13 USC Sec. 25                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1949,7 +1953,7 @@
 
 
 -CITE-
-    13 USC Sec. 26                                              01/07/2011
+    13 USC Sec. 26                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1991,7 +1995,7 @@
 
 -CITE-
     13 USC CHAPTER 3 - COLLECTION AND PUBLICATION OF
-           STATISTICS                                      01/07/2011
+           STATISTICS                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2042,7 +2046,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER I - COTTON                                01/07/2011
+    13 USC SUBCHAPTER I - COTTON                                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2057,7 +2061,7 @@
 
 
 -CITE-
-    13 USC Sec. 41                                              01/07/2011
+    13 USC Sec. 41                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2099,7 +2103,7 @@
 
 
 -CITE-
-    13 USC Sec. 42                                              01/07/2011
+    13 USC Sec. 42                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2169,7 +2173,7 @@
 
 
 -CITE-
-    13 USC Sec. 43                                              01/07/2011
+    13 USC Sec. 43                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2210,7 +2214,7 @@
 
 
 -CITE-
-    13 USC Sec. 44                                              01/07/2011
+    13 USC Sec. 44                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2257,7 +2261,7 @@
 
 
 -CITE-
-    13 USC Sec. 45                                              01/07/2011
+    13 USC Sec. 45                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2302,7 +2306,7 @@
 
 -CITE-
     13 USC SUBCHAPTER II - OILSEEDS, NUTS, AND KERNELS; FATS,
-           OILS, AND GREASES                               01/07/2011
+           OILS, AND GREASES                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2318,7 +2322,7 @@
 
 
 -CITE-
-    13 USC Sec. 61                                              01/07/2011
+    13 USC Sec. 61                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2386,7 +2390,7 @@
 
 
 -CITE-
-    13 USC Sec. 62                                              01/07/2011
+    13 USC Sec. 62                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2423,7 +2427,7 @@
 
 
 -CITE-
-    13 USC Sec. 63                                              01/07/2011
+    13 USC Sec. 63                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2470,7 +2474,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER III - APPAREL AND TEXTILES                01/07/2011
+    13 USC SUBCHAPTER III - APPAREL AND TEXTILES                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2485,7 +2489,7 @@
 
 
 -CITE-
-    13 USC Sec. 81                                              01/07/2011
+    13 USC Sec. 81                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2506,7 +2510,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER IV - QUARTERLY FINANCIAL STATISTICS       01/07/2011
+    13 USC SUBCHAPTER IV - QUARTERLY FINANCIAL STATISTICS       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2527,7 +2531,7 @@
 
 
 -CITE-
-    13 USC Sec. 91                                              01/07/2011
+    13 USC Sec. 91                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2665,8 +2669,9 @@
 
 -TRANS-
      TRANSFER OF FUNCTIONS RELATING TO QUARTERLY FINANCIAL STATISTICS 
-      Section 2 of Pub. L. 97-454, as amended by Pub. L. 99-514, Sec.
-    2, Oct. 22, 1986, 100 Stat. 2095, provided that:
+      Pub. L. 97-454, Sec. 2, Jan. 12, 1983, 96 Stat. 2494, as amended
+    by Pub. L. 99-514, Sec. 2, Oct. 22, 1986, 100 Stat. 2095, provided
+    that:
       "(a) There are transferred to the Secretary of Commerce, for
     administration under section 91 of title 13, United States Code,
     all functions relating to the quarterly financial report program
@@ -2695,7 +2700,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER V - MISCELLANEOUS                         01/07/2011
+    13 USC SUBCHAPTER V - MISCELLANEOUS                         01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2718,7 +2723,7 @@
 
 
 -CITE-
-    13 USC Sec. 101                                             01/07/2011
+    13 USC Sec. 101                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2814,7 +2819,7 @@
 
 
 -CITE-
-    13 USC Sec. 102                                             01/07/2011
+    13 USC Sec. 102                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2852,7 +2857,7 @@
 
 
 -CITE-
-    13 USC Sec. 103                                             01/07/2011
+    13 USC Sec. 103                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2923,7 +2928,7 @@
 
 
 -CITE-
-    13 USC CHAPTER 5 - CENSUSES                                 01/07/2011
+    13 USC CHAPTER 5 - CENSUSES                                 01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3002,7 +3007,7 @@
 
 -CITE-
     13 USC SUBCHAPTER I - MANUFACTURES, MINERAL INDUSTRIES,
-           AND OTHER BUSINESSES                            01/07/2011
+           AND OTHER BUSINESSES                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3019,7 +3024,7 @@
 
 
 -CITE-
-    13 USC Sec. 131                                             01/07/2011
+    13 USC Sec. 131                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3117,7 +3122,7 @@
 
 
 -CITE-
-    13 USC Sec. 132                                             01/07/2011
+    13 USC Sec. 132                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3161,7 +3166,7 @@
 
 -CITE-
     13 USC SUBCHAPTER II - POPULATION, HOUSING, AND
-           UNEMPLOYMENT                                    01/07/2011
+           UNEMPLOYMENT                                    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3185,7 +3190,7 @@
 
 
 -CITE-
-    13 USC Sec. 141                                             01/07/2011
+    13 USC Sec. 141                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3808,7 +3813,7 @@
 
 
 -CITE-
-    13 USC Sec. 142                                             01/07/2011
+    13 USC Sec. 142                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3816,10 +3821,11 @@
     SUBCHAPTER II - POPULATION, HOUSING, AND UNEMPLOYMENT
 
 -HEAD-
-    [Sec. 142. Repealed. Pub. L. 105-113, Sec. 3(a), Nov. 21, 1997, 111
-      Stat. 2275]
+    Sec. 142. Repealed.
 
 -MISC1-
+    [Sec. 142. Repealed. Pub. L. 105-113, Sec. 3(a), Nov. 21, 1997, 111
+      Stat. 2275].
       Section, acts Aug. 31, 1954, ch. 1158, 68 Stat. 1020; Aug. 28,
     1957, Pub. L. 85-207, Sec. 10, 71 Stat. 483; Mar. 15, 1976, Pub. L.
     94-229, Sec. 1, 90 Stat. 210; Oct. 27, 1986, Pub. L. 99-544, Sec.
@@ -3843,7 +3849,7 @@
 
 
 -CITE-
-    13 USC Secs. 143 to 146                                     01/07/2011
+    13 USC Secs. 143 to 146                                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3851,10 +3857,11 @@
     SUBCHAPTER II - POPULATION, HOUSING, AND UNEMPLOYMENT
 
 -HEAD-
-    [Secs. 143 to 146. Repealed. Pub. L. 85-207, Sec. 11, Aug. 28,
-      1957, 71 Stat. 483]
+    Secs. 143 to 146. Repealed.
 
 -MISC1-
+    [Secs. 143 to 146. Repealed. Pub. L. 85-207, Sec. 11, Aug. 28,
+      1957, 71 Stat. 483].
       Sections, act Aug. 31, 1954, ch. 1158, 68 Stat. 1020, related to
     the following subject matter:
       Section 143, decennial census period; completion of reports upon
@@ -3872,7 +3879,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER III - GOVERNMENTS                         01/07/2011
+    13 USC SUBCHAPTER III - GOVERNMENTS                         01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3887,7 +3894,7 @@
 
 
 -CITE-
-    13 USC Sec. 161                                             01/07/2011
+    13 USC Sec. 161                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3932,7 +3939,7 @@
 
 
 -CITE-
-    13 USC Sec. 162                                             01/07/2011
+    13 USC Sec. 162                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3940,10 +3947,11 @@
     SUBCHAPTER III - GOVERNMENTS
 
 -HEAD-
-    [Sec. 162. Repealed. Pub. L. 85-207, Sec. 13, Aug. 28, 1957, 71
-      Stat. 483]
+    Sec. 162. Repealed.
 
 -MISC1-
+    [Sec. 162. Repealed. Pub. L. 85-207, Sec. 13, Aug. 28, 1957, 71
+      Stat. 483].
       Section, act Aug. 31, 1954, ch. 1158, 68 Stat. 1021, related to
     acquisition of reports and material from governmental units,
     private persons, and agencies. See section 6(b) of this title.
@@ -3953,7 +3961,7 @@
 
 
 -CITE-
-    13 USC Sec. 163                                             01/07/2011
+    13 USC Sec. 163                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3987,7 +3995,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER IV - INTERIM CURRENT DATA                 01/07/2011
+    13 USC SUBCHAPTER IV - INTERIM CURRENT DATA                 01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4002,7 +4010,7 @@
 
 
 -CITE-
-    13 USC Sec. 181                                             01/07/2011
+    13 USC Sec. 181                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4058,7 +4066,7 @@
 
 
 -CITE-
-    13 USC Sec. 182                                             01/07/2011
+    13 USC Sec. 182                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4087,7 +4095,7 @@
 
 
 -CITE-
-    13 USC Sec. 183                                             01/07/2011
+    13 USC Sec. 183                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4127,7 +4135,7 @@
 
 
 -CITE-
-    13 USC Sec. 184                                             01/07/2011
+    13 USC Sec. 184                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4159,7 +4167,7 @@
 
 -CITE-
     13 USC SUBCHAPTER V - GEOGRAPHIC SCOPE, PRELIMINARY AND
-           SUPPLEMENTAL STATISTICS, AND USE OF SAMPLING    01/07/2011
+           SUPPLEMENTAL STATISTICS, AND USE OF SAMPLING    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4176,7 +4184,7 @@
 
 
 -CITE-
-    13 USC Sec. 191                                             01/07/2011
+    13 USC Sec. 191                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4254,7 +4262,7 @@
 
 
 -CITE-
-    13 USC Sec. 193                                             01/07/2011
+    13 USC Sec. 193                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4280,7 +4288,7 @@
 
 
 -CITE-
-    13 USC Sec. 195                                             01/07/2011
+    13 USC Sec. 195                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4321,7 +4329,7 @@
 
 
 -CITE-
-    13 USC Sec. 196                                             01/07/2011
+    13 USC Sec. 196                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4381,7 +4389,7 @@
 
 
 -CITE-
-    13 USC CHAPTER 7 - OFFENSES AND PENALTIES                   01/07/2011
+    13 USC CHAPTER 7 - OFFENSES AND PENALTIES                   01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4418,7 +4426,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER I - OFFICERS AND EMPLOYEES                01/07/2011
+    13 USC SUBCHAPTER I - OFFICERS AND EMPLOYEES                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4433,7 +4441,7 @@
 
 
 -CITE-
-    13 USC Sec. 211                                             01/07/2011
+    13 USC Sec. 211                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4507,7 +4515,7 @@
 
 
 -CITE-
-    13 USC Sec. 212                                             01/07/2011
+    13 USC Sec. 212                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4570,7 +4578,7 @@
 
 
 -CITE-
-    13 USC Sec. 213                                             01/07/2011
+    13 USC Sec. 213                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4646,7 +4654,7 @@
 
 
 -CITE-
-    13 USC Sec. 214                                             01/07/2011
+    13 USC Sec. 214                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4735,7 +4743,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER II - OTHER PERSONS                        01/07/2011
+    13 USC SUBCHAPTER II - OTHER PERSONS                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4750,7 +4758,7 @@
 
 
 -CITE-
-    13 USC Sec. 221                                             01/07/2011
+    13 USC Sec. 221                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4855,7 +4863,7 @@
 
 
 -CITE-
-    13 USC Sec. 222                                             01/07/2011
+    13 USC Sec. 222                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4946,7 +4954,7 @@
 
 
 -CITE-
-    13 USC Sec. 223                                             01/07/2011
+    13 USC Sec. 223                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5058,7 +5066,7 @@
 
 
 -CITE-
-    13 USC Sec. 224                                             01/07/2011
+    13 USC Sec. 224                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5214,7 +5222,7 @@
 
 
 -CITE-
-    13 USC Sec. 225                                             01/07/2011
+    13 USC Sec. 225                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5334,7 +5342,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER III - PROCEDURE                           01/07/2011
+    13 USC SUBCHAPTER III - PROCEDURE                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5349,7 +5357,7 @@
 
 
 -CITE-
-    13 USC Sec. 241                                             01/07/2011
+    13 USC Sec. 241                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5426,7 +5434,7 @@
 
 -CITE-
     13 USC CHAPTER 9 - COLLECTION AND PUBLICATION OF FOREIGN
-           COMMERCE AND TRADE STATISTICS                   01/07/2011
+           COMMERCE AND TRADE STATISTICS                   01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5462,7 +5470,7 @@
 
 
 -CITE-
-    13 USC Sec. 301                                             01/07/2011
+    13 USC Sec. 301                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5669,7 +5677,8 @@
     Duties.
 
                      EFFECTIVE DATE OF 1980 AMENDMENT                 
-      Section 4 of Pub. L. 96-275 provided that:
+      Pub. L. 96-275, Sec. 4, June 17, 1980, 94 Stat. 540, provided
+    that:
       "(a) Except as provided in subsection (b), this Act, and the
     amendments made by this Act [amending this section and enacting
     provisions set out as a note under this section], shall become
@@ -5681,27 +5690,28 @@
     17, 1980]."
 
                      EFFECTIVE DATE OF 1979 AMENDMENT                 
-      Section 1108(b) of Pub. L. 96-39 provided that: "The amendment
-    made by subsection (a) [amending this section] shall apply to
-    reports made after December 31, 1979."
+      Pub. L. 96-39, title XI, Sec. 1108(b), July 26, 1979, 93 Stat.
+    314, provided that: "The amendment made by subsection (a) [amending
+    this section] shall apply to reports made after December 31, 1979."
 
                      EFFECTIVE DATE OF 1975 AMENDMENT                 
-      Section 609(b) of Pub. L. 93-618 provided that: "The amendments
-    made by subsection (a) [amending this section] shall take effect on
-    January 1, 1975."
+      Pub. L. 93-618, title VI, Sec. 609(b), Jan. 3, 1975, 88 Stat.
+    2075, provided that: "The amendments made by subsection (a)
+    [amending this section] shall take effect on January 1, 1975."
 
                               EFFECTIVE DATE                          
-      Section 4 of Pub. L. 87-826 provided that: "The provisions of
-    this Act [enacting section 301 et seq. of this title and repealing
-    sections 173, 174, 177, 179, 181, 184 to 187, and 193 of Title 15,
-    Commerce and Trade, sections 92 and 95 of former Title 46,
-    Shipping, and section 1486 of Title 48, Territories and Insular
-    Possessions] shall take effect one hundred and eighty days after
-    approval [Oct. 15, 1962], except that the last sentence of section
-    337, "Fifth" of the Revised Statutes [section 174 of Title 15], and
-    the requirement for oaths as found in section 4200 of the Revised
-    Statutes [section 92 of former Title 46] shall be repealed
-    effective on the date this Act is approved [Oct. 15, 1962]."
+      Pub. L. 87-826, Sec. 4, Oct. 15, 1962, 76 Stat. 953, provided
+    that: "The provisions of this Act [enacting section 301 et seq. of
+    this title and repealing sections 173, 174, 177, 179, 181, 184 to
+    187, and 193 of Title 15, Commerce and Trade, sections 92 and 95 of
+    former Title 46, Shipping, and section 1486 of Title 48,
+    Territories and Insular Possessions] shall take effect one hundred
+    and eighty days after approval [Oct. 15, 1962], except that the
+    last sentence of section 337, 'Fifth' of the Revised Statutes
+    [section 174 of Title 15], and the requirement for oaths as found
+    in section 4200 of the Revised Statutes [section 92 of former Title
+    46] shall be repealed effective on the date this Act is approved
+    [Oct. 15, 1962]."
 
                                 REGULATIONS                            
       Pub. L. 106-113, div. B, Sec. 1000(a)(7) [div. B, title XII, Sec.
@@ -5767,7 +5777,8 @@
     modified, set out as a note under section 542 of Title 6.]
 
                              VOLUMETRIC INDEX                         
-      Section 1931(b) of Pub. L. 100-418 provided that:
+      Pub. L. 100-418, title I, Sec. 1931(b), Aug. 23, 1988, 102 Stat.
+    1320, provided that:
       "(1) The Director of the Census, in consultation with the
     Director of the Bureau of Economic Analysis and the Commissioner of
     Labor Statistics, shall conduct a study to determine the
@@ -5782,11 +5793,11 @@
     date of enactment of this Act [Aug. 23, 1988]."
 
                     CONGRESSIONAL ACCESS TO INFORMATION                
-      Section 3 of Pub. L. 96-275 provided that: "Nothing in this Act
-    [enacting subsec. (g) of this section, amending section 93 of
-    former Title 46, Shipping, and enacting provisions set out as notes
-    under this section] shall be construed as authorizing the
-    withholding of information from Congress."
+      Pub. L. 96-275, Sec. 3, June 17, 1980, 94 Stat. 540, provided
+    that: "Nothing in this Act [enacting subsec. (g) of this section,
+    amending section 93 of former Title 46, Shipping, and enacting
+    provisions set out as notes under this section] shall be construed
+    as authorizing the withholding of information from Congress."
 
 -CROSS-
                                 DEFINITIONS                            
@@ -5814,7 +5825,7 @@
 
 
 -CITE-
-    13 USC Sec. 302                                             01/07/2011
+    13 USC Sec. 302                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5848,7 +5859,7 @@
 
 
 -CITE-
-    13 USC Sec. 303                                             01/07/2011
+    13 USC Sec. 303                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5881,7 +5892,7 @@
 
 
 -CITE-
-    13 USC Sec. 304                                             01/07/2011
+    13 USC Sec. 304                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5950,7 +5961,7 @@
 
 
 -CITE-
-    13 USC Sec. 305                                             01/07/2011
+    13 USC Sec. 305                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6088,7 +6099,7 @@
 
 
 -CITE-
-    13 USC Sec. 306                                             01/07/2011
+    13 USC Sec. 306                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6115,7 +6126,7 @@
 
 
 -CITE-
-    13 USC Sec. 307                                             01/07/2011
+    13 USC Sec. 307                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6137,7 +6148,7 @@
 
 
 -CITE-
-    13 USC CHAPTER 10 - EXCHANGE OF CENSUS INFORMATION          01/07/2011
+    13 USC CHAPTER 10 - EXCHANGE OF CENSUS INFORMATION          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6162,7 +6173,7 @@
 
 
 -CITE-
-    13 USC Sec. 401                                             01/07/2011
+    13 USC Sec. 401                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6213,7 +6224,7 @@
 
 
 -CITE-
-    13 USC Sec. 402                                             01/07/2011
+    13 USC Sec. 402                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 13 - CENSUS

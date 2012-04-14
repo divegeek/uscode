@@ -1,5 +1,5 @@
 -CITE-
-    17 USC TITLE 17 - COPYRIGHTS                                01/07/2011
+    17 USC TITLE 17 - COPYRIGHTS                                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -262,7 +262,7 @@
 
 
 -CITE-
-    17 USC CHAPTER 1 - SUBJECT MATTER AND SCOPE OF COPYRIGHT    01/07/2011
+    17 USC CHAPTER 1 - SUBJECT MATTER AND SCOPE OF COPYRIGHT    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -364,7 +364,7 @@
 
 
 -CITE-
-    17 USC Sec. 101                                             01/07/2011
+    17 USC Sec. 101                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -1385,7 +1385,7 @@
 
 
 -CITE-
-    17 USC Sec. 102                                             01/07/2011
+    17 USC Sec. 102                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -1800,7 +1800,7 @@
 
 
 -CITE-
-    17 USC Sec. 103                                             01/07/2011
+    17 USC Sec. 103                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -1884,7 +1884,7 @@
 
 
 -CITE-
-    17 USC Sec. 104                                             01/07/2011
+    17 USC Sec. 104                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -2139,7 +2139,7 @@
 
 
 -CITE-
-    17 USC Sec. 104A                                            01/07/2011
+    17 USC Sec. 104A                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -2584,7 +2584,7 @@
 
 
 -CITE-
-    17 USC Sec. 105                                             01/07/2011
+    17 USC Sec. 105                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -2745,7 +2745,7 @@
 
 
 -CITE-
-    17 USC Sec. 106                                             01/07/2011
+    17 USC Sec. 106                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -3058,7 +3058,7 @@
 
 
 -CITE-
-    17 USC Sec. 106A                                            01/07/2011
+    17 USC Sec. 106A                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -3226,7 +3226,7 @@
 
 
 -CITE-
-    17 USC Sec. 107                                             01/07/2011
+    17 USC Sec. 107                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -3793,7 +3793,7 @@
 
 
 -CITE-
-    17 USC Sec. 108                                             01/07/2011
+    17 USC Sec. 108                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -4301,7 +4301,7 @@
 
 
 -CITE-
-    17 USC Sec. 109                                             01/07/2011
+    17 USC Sec. 109                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -4556,7 +4556,8 @@
     1990.
       The first section of the Clayton Act, referred to in subsec.
     (b)(3), is classified to section 12 of Title 15, Commerce and
-    Trade.
+    Trade, and section 53 of Title 29, Labor. The term "antitrust laws"
+    is defined in section 12 of Title 15.
       Section 5 of the Federal Trade Commission Act, referred to in
     subsec. (b)(3), is classified to section 45 of Title 15.
 
@@ -4689,7 +4690,7 @@
 
 
 -CITE-
-    17 USC Sec. 110                                             01/07/2011
+    17 USC Sec. 110                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -5466,7 +5467,7 @@
 
 
 -CITE-
-    17 USC Sec. 111                                             01/07/2011
+    17 USC Sec. 111                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -7332,7 +7333,7 @@
 
 
 -CITE-
-    17 USC Sec. 112                                             01/07/2011
+    17 USC Sec. 112                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -7916,7 +7917,7 @@
 
 
 -CITE-
-    17 USC Sec. 113                                             01/07/2011
+    17 USC Sec. 113                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -8068,7 +8069,7 @@
 
 
 -CITE-
-    17 USC Sec. 114                                             01/07/2011
+    17 USC Sec. 114                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -9605,7 +9606,7 @@
 
 
 -CITE-
-    17 USC Sec. 115                                             01/07/2011
+    17 USC Sec. 115                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -10329,7 +10330,7 @@
 
 
 -CITE-
-    17 USC Sec. 116                                             01/07/2011
+    17 USC Sec. 116                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -10469,7 +10470,7 @@
 
 
 -CITE-
-    17 USC Sec. 116A                                            01/07/2011
+    17 USC Sec. 116A                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -10485,7 +10486,7 @@
 
 
 -CITE-
-    17 USC Sec. 117                                             01/07/2011
+    17 USC Sec. 117                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -10605,7 +10606,7 @@
 
 
 -CITE-
-    17 USC Sec. 118                                             01/07/2011
+    17 USC Sec. 118                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -11131,7 +11132,7 @@
 
 
 -CITE-
-    17 USC Sec. 119                                             01/07/2011
+    17 USC Sec. 119                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -13262,7 +13263,7 @@
 
 
 -CITE-
-    17 USC Sec. 120                                             01/07/2011
+    17 USC Sec. 120                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -13305,7 +13306,7 @@
 
 
 -CITE-
-    17 USC Sec. 121                                             01/07/2011
+    17 USC Sec. 121                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -13421,7 +13422,7 @@
 
 
 -CITE-
-    17 USC Sec. 122                                             01/07/2011
+    17 USC Sec. 122                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -13911,7 +13912,7 @@
 
 
 -CITE-
-    17 USC CHAPTER 2 - COPYRIGHT OWNERSHIP AND TRANSFER         01/07/2011
+    17 USC CHAPTER 2 - COPYRIGHT OWNERSHIP AND TRANSFER         01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -13935,7 +13936,7 @@
 
 
 -CITE-
-    17 USC Sec. 201                                             01/07/2011
+    17 USC Sec. 201                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -14218,7 +14219,7 @@
 
 
 -CITE-
-    17 USC Sec. 202                                             01/07/2011
+    17 USC Sec. 202                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -14273,7 +14274,7 @@
 
 
 -CITE-
-    17 USC Sec. 203                                             01/07/2011
+    17 USC Sec. 203                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -14635,7 +14636,7 @@
 
 
 -CITE-
-    17 USC Sec. 204                                             01/07/2011
+    17 USC Sec. 204                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -14688,7 +14689,7 @@
 
 
 -CITE-
-    17 USC Sec. 205                                             01/07/2011
+    17 USC Sec. 205                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -14850,7 +14851,7 @@
 
 
 -CITE-
-    17 USC CHAPTER 3 - DURATION OF COPYRIGHT                    01/07/2011
+    17 USC CHAPTER 3 - DURATION OF COPYRIGHT                    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -14874,7 +14875,7 @@
 
 
 -CITE-
-    17 USC Sec. 301                                             01/07/2011
+    17 USC Sec. 301                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -15244,7 +15245,7 @@
 
 
 -CITE-
-    17 USC Sec. 302                                             01/07/2011
+    17 USC Sec. 302                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -15610,7 +15611,7 @@
 
 
 -CITE-
-    17 USC Sec. 303                                             01/07/2011
+    17 USC Sec. 303                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -15686,7 +15687,7 @@
 
 
 -CITE-
-    17 USC Sec. 304                                             01/07/2011
+    17 USC Sec. 304                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -16346,7 +16347,7 @@
 
 
 -CITE-
-    17 USC Sec. 305                                             01/07/2011
+    17 USC Sec. 305                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -16413,7 +16414,7 @@
 
 -CITE-
     17 USC CHAPTER 4 - COPYRIGHT NOTICE, DEPOSIT, AND
-           REGISTRATION                                    01/07/2011
+           REGISTRATION                                    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -16457,7 +16458,7 @@
 
 
 -CITE-
-    17 USC Sec. 401                                             01/07/2011
+    17 USC Sec. 401                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -16475,8 +16476,8 @@
     a machine or device.
       (b) Form of Notice. - If a notice appears on the copies, it shall
     consist of the following three elements:
-        (1) the symbol &#169; (the letter C in a circle), or the
-      word "Copyright", or the abbreviation "Copr."; and
+        (1) the symbol  X  (the letter C in a circle), or the word
+      "Copyright", or the abbreviation "Copr."; and
         (2) the year of first publication of the work; in the case of
       compilations, or derivative works incorporating previously
       published material, the year date of first publication of the
@@ -16585,8 +16586,8 @@
       Subsection (b) of section 401, which sets out the form of notice
     to appear on visually-perceptible copies, retains the basic
     elements of the notice under the present law: the word "Copyright",
-    the abbreviation "Copr.", or the symbol "&#169;"; the year of
-    first publication; and the name of the copyright owner. The year of
+    the abbreviation "Copr.", or the symbol " X "; the year of first
+    publication; and the name of the copyright owner. The year of
     publication, which is still significant in computing the term and
     determining the status of a work, is required for all categories of
     copyrightable works. Clause (2) of subsection (b) makes clear that,
@@ -16648,7 +16649,7 @@
 
 
 -CITE-
-    17 USC Sec. 402                                             01/07/2011
+    17 USC Sec. 402                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -16720,18 +16721,18 @@
     or container of the phonorecord "in such manner and location as to
     give reasonable notice of the claim of copyright."
       There are at least three reasons for prescribing use of the
-    symbol "P" rather than "&#169;" in the notice to appear on
+    symbol "P" rather than " X " in the notice to appear on
     phonorecords of sound recordings. Aside from the need to avoid
     confusion between claims to copyright in the sound recording and in
     the musical or literary work embodied in it, there is also a
     necessity for distinguishing between copyright claims in the sound
     recording and in the printed text or art work appearing on the
-    record label, album cover, liner notes, et cetera. The symbol
-    "&#169;" has also been adopted as the international symbol for
-    the protection of sound recordings by the "Phonograms Convention"
-    (the Convention for the Protection of Producers of Phonograms
-    Against Unauthorized Duplication of Their Phonograms, done at
-    Geneva October 29, 1971), to which the United States is a party.
+    record label, album cover, liner notes, et cetera. The symbol " X "
+    has also been adopted as the international symbol for the
+    protection of sound recordings by the "Phonograms Convention" (the
+    Convention for the Protection of Producers of Phonograms Against
+    Unauthorized Duplication of Their Phonograms, done at Geneva
+    October 29, 1971), to which the United States is a party.
 
                                 AMENDMENTS                            
       1988 - Subsec. (a). Pub. L. 100-568, Sec. 7(b)(1), (2),
@@ -16755,7 +16756,7 @@
 
 
 -CITE-
-    17 USC Sec. 403                                             01/07/2011
+    17 USC Sec. 403                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -16823,7 +16824,7 @@
 
 
 -CITE-
-    17 USC Sec. 404                                             01/07/2011
+    17 USC Sec. 404                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -16930,7 +16931,7 @@
 
 
 -CITE-
-    17 USC Sec. 405                                             01/07/2011
+    17 USC Sec. 405                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -17157,7 +17158,7 @@
 
 
 -CITE-
-    17 USC Sec. 406                                             01/07/2011
+    17 USC Sec. 406                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -17321,7 +17322,7 @@
 
 
 -CITE-
-    17 USC Sec. 407                                             01/07/2011
+    17 USC Sec. 407                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -17589,7 +17590,7 @@
 
 
 -CITE-
-    17 USC Sec. 408                                             01/07/2011
+    17 USC Sec. 408                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -17958,7 +17959,7 @@
 
 
 -CITE-
-    17 USC Sec. 409                                             01/07/2011
+    17 USC Sec. 409                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -18079,7 +18080,7 @@
 
 
 -CITE-
-    17 USC Sec. 410                                             01/07/2011
+    17 USC Sec. 410                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -18187,7 +18188,7 @@
 
 
 -CITE-
-    17 USC Sec. 411                                             01/07/2011
+    17 USC Sec. 411                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -18362,7 +18363,7 @@
 
 
 -CITE-
-    17 USC Sec. 412                                             01/07/2011
+    17 USC Sec. 412                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -18466,7 +18467,7 @@
 
 
 -CITE-
-    17 USC CHAPTER 5 - COPYRIGHT INFRINGEMENT AND REMEDIES      01/07/2011
+    17 USC CHAPTER 5 - COPYRIGHT INFRINGEMENT AND REMEDIES      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -18520,7 +18521,7 @@
 
 
 -CITE-
-    17 USC Sec. 501                                             01/07/2011
+    17 USC Sec. 501                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -18760,7 +18761,7 @@
 
 
 -CITE-
-    17 USC Sec. 502                                             01/07/2011
+    17 USC Sec. 502                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -18813,7 +18814,7 @@
 
 
 -CITE-
-    17 USC Sec. 503                                             01/07/2011
+    17 USC Sec. 503                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -18938,7 +18939,7 @@
 
 
 -CITE-
-    17 USC Sec. 504                                             01/07/2011
+    17 USC Sec. 504                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -19215,7 +19216,7 @@
 
 
 -CITE-
-    17 USC Sec. 505                                             01/07/2011
+    17 USC Sec. 505                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -19249,7 +19250,7 @@
 
 
 -CITE-
-    17 USC Sec. 506                                             01/07/2011
+    17 USC Sec. 506                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -19404,7 +19405,7 @@
 
 
 -CITE-
-    17 USC Sec. 507                                             01/07/2011
+    17 USC Sec. 507                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -19450,7 +19451,7 @@
 
 
 -CITE-
-    17 USC Sec. 508                                             01/07/2011
+    17 USC Sec. 508                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -19499,7 +19500,7 @@
 
 
 -CITE-
-    17 USC Sec. 509                                             01/07/2011
+    17 USC Sec. 509                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -19520,7 +19521,7 @@
 
 
 -CITE-
-    17 USC Sec. 510                                             01/07/2011
+    17 USC Sec. 510                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -19590,7 +19591,7 @@
 
 
 -CITE-
-    17 USC Sec. 511                                             01/07/2011
+    17 USC Sec. 511                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -19646,7 +19647,7 @@
 
 
 -CITE-
-    17 USC Sec. 512                                             01/07/2011
+    17 USC Sec. 512                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20204,7 +20205,7 @@
 
 
 -CITE-
-    17 USC Sec. 513                                             01/07/2011
+    17 USC Sec. 513                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20307,7 +20308,7 @@
 
 
 -CITE-
-    17 USC CHAPTER 6 - IMPORTATION AND EXPORTATION              01/07/2011
+    17 USC CHAPTER 6 - IMPORTATION AND EXPORTATION              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20344,7 +20345,7 @@
 
 
 -CITE-
-    17 USC Sec. 601                                             01/07/2011
+    17 USC Sec. 601                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20369,7 +20370,7 @@
 
 
 -CITE-
-    17 USC Sec. 602                                             01/07/2011
+    17 USC Sec. 602                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20534,7 +20535,7 @@
 
 
 -CITE-
-    17 USC Sec. 603                                             01/07/2011
+    17 USC Sec. 603                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20604,7 +20605,7 @@
 
 
 -CITE-
-    17 USC CHAPTER 7 - COPYRIGHT OFFICE                         01/07/2011
+    17 USC CHAPTER 7 - COPYRIGHT OFFICE                         01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20749,7 +20750,7 @@
 
 
 -CITE-
-    17 USC Sec. 701                                             01/07/2011
+    17 USC Sec. 701                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20887,7 +20888,7 @@
 
 
 -CITE-
-    17 USC Sec. 702                                             01/07/2011
+    17 USC Sec. 702                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20911,7 +20912,7 @@
 
 
 -CITE-
-    17 USC Sec. 703                                             01/07/2011
+    17 USC Sec. 703                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -20937,7 +20938,7 @@
 
 
 -CITE-
-    17 USC Sec. 704                                             01/07/2011
+    17 USC Sec. 704                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -21023,7 +21024,7 @@
 
 
 -CITE-
-    17 USC Sec. 705                                             01/07/2011
+    17 USC Sec. 705                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -21067,7 +21068,7 @@
 
 
 -CITE-
-    17 USC Sec. 706                                             01/07/2011
+    17 USC Sec. 706                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -21094,7 +21095,7 @@
 
 
 -CITE-
-    17 USC Sec. 707                                             01/07/2011
+    17 USC Sec. 707                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -21131,7 +21132,7 @@
 
 
 -CITE-
-    17 USC Sec. 708                                             01/07/2011
+    17 USC Sec. 708                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -21478,7 +21479,7 @@
 
 
 -CITE-
-    17 USC Sec. 709                                             01/07/2011
+    17 USC Sec. 709                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -21508,7 +21509,7 @@
 
 
 -CITE-
-    17 USC Sec. 710                                             01/07/2011
+    17 USC Sec. 710                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -21532,12 +21533,11 @@
 
 -CITE-
     17 USC CHAPTER 8 - PROCEEDINGS BY COPYRIGHT ROYALTY
-           JUDGES                                          01/07/2011
+           JUDGES                                          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
     CHAPTER 8 - PROCEEDINGS BY COPYRIGHT ROYALTY JUDGES
-
 
 -HEAD-
             CHAPTER 8 - PROCEEDINGS BY COPYRIGHT ROYALTY JUDGES        
@@ -21583,7 +21583,7 @@
 
 
 -CITE-
-    17 USC Sec. 801                                             01/07/2011
+    17 USC Sec. 801                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -21955,7 +21955,7 @@
 
 
 -CITE-
-    17 USC Sec. 802                                             01/07/2011
+    17 USC Sec. 802                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -22227,7 +22227,7 @@
 
 
 -CITE-
-    17 USC Sec. 803                                             01/07/2011
+    17 USC Sec. 803                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -22892,7 +22892,7 @@
 
 
 -CITE-
-    17 USC Sec. 804                                             01/07/2011
+    17 USC Sec. 804                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23113,7 +23113,7 @@
 
 
 -CITE-
-    17 USC Sec. 805                                             01/07/2011
+    17 USC Sec. 805                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23166,7 +23166,7 @@
 
 -CITE-
     17 USC CHAPTER 9 - PROTECTION OF SEMICONDUCTOR CHIP
-           PRODUCTS                                        01/07/2011
+           PRODUCTS                                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23206,7 +23206,7 @@
 
 
 -CITE-
-    17 USC Sec. 901                                             01/07/2011
+    17 USC Sec. 901                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23292,7 +23292,7 @@
 
 
 -CITE-
-    17 USC Sec. 902                                             01/07/2011
+    17 USC Sec. 902                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23388,7 +23388,7 @@
 
 
 -CITE-
-    17 USC Sec. 903                                             01/07/2011
+    17 USC Sec. 903                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23441,7 +23441,7 @@
 
 
 -CITE-
-    17 USC Sec. 904                                             01/07/2011
+    17 USC Sec. 904                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23472,7 +23472,7 @@
 
 
 -CITE-
-    17 USC Sec. 905                                             01/07/2011
+    17 USC Sec. 905                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23501,7 +23501,7 @@
 
 
 -CITE-
-    17 USC Sec. 906                                             01/07/2011
+    17 USC Sec. 906                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23539,7 +23539,7 @@
 
 
 -CITE-
-    17 USC Sec. 907                                             01/07/2011
+    17 USC Sec. 907                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23586,7 +23586,7 @@
 
 
 -CITE-
-    17 USC Sec. 908                                             01/07/2011
+    17 USC Sec. 908                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23669,7 +23669,7 @@
 
 
 -CITE-
-    17 USC Sec. 909                                             01/07/2011
+    17 USC Sec. 909                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23712,7 +23712,7 @@
 
 
 -CITE-
-    17 USC Sec. 910                                             01/07/2011
+    17 USC Sec. 910                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23815,7 +23815,7 @@
 
 
 -CITE-
-    17 USC Sec. 911                                             01/07/2011
+    17 USC Sec. 911                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23911,7 +23911,7 @@
 
 
 -CITE-
-    17 USC Sec. 912                                             01/07/2011
+    17 USC Sec. 912                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -23962,7 +23962,7 @@
 
 
 -CITE-
-    17 USC Sec. 913                                             01/07/2011
+    17 USC Sec. 913                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24022,7 +24022,7 @@
 
 
 -CITE-
-    17 USC Sec. 914                                             01/07/2011
+    17 USC Sec. 914                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24222,7 +24222,7 @@
 
 -CITE-
     17 USC CHAPTER 10 - DIGITAL AUDIO RECORDING DEVICES AND
-           MEDIA                                           01/07/2011
+           MEDIA                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24261,7 +24261,7 @@
 
 
 -CITE-
-    17 USC SUBCHAPTER A - DEFINITIONS                           01/07/2011
+    17 USC SUBCHAPTER A - DEFINITIONS                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24276,7 +24276,7 @@
 
 
 -CITE-
-    17 USC Sec. 1001                                            01/07/2011
+    17 USC Sec. 1001                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24435,7 +24435,7 @@
 
 
 -CITE-
-    17 USC SUBCHAPTER B - COPYING CONTROLS                      01/07/2011
+    17 USC SUBCHAPTER B - COPYING CONTROLS                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24450,7 +24450,7 @@
 
 
 -CITE-
-    17 USC Sec. 1002                                            01/07/2011
+    17 USC Sec. 1002                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24512,7 +24512,7 @@
 
 
 -CITE-
-    17 USC SUBCHAPTER C - ROYALTY PAYMENTS                      01/07/2011
+    17 USC SUBCHAPTER C - ROYALTY PAYMENTS                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24527,7 +24527,7 @@
 
 
 -CITE-
-    17 USC Sec. 1003                                            01/07/2011
+    17 USC Sec. 1003                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24579,7 +24579,7 @@
 
 
 -CITE-
-    17 USC Sec. 1004                                            01/07/2011
+    17 USC Sec. 1004                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24681,7 +24681,7 @@
 
 
 -CITE-
-    17 USC Sec. 1005                                            01/07/2011
+    17 USC Sec. 1005                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24724,7 +24724,7 @@
 
 
 -CITE-
-    17 USC Sec. 1006                                            01/07/2011
+    17 USC Sec. 1006                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24832,7 +24832,7 @@
 
 
 -CITE-
-    17 USC Sec. 1007                                            01/07/2011
+    17 USC Sec. 1007                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24976,7 +24976,7 @@
 
 -CITE-
     17 USC SUBCHAPTER D - PROHIBITION ON CERTAIN INFRINGEMENT
-           ACTIONS, REMEDIES, AND ARBITRATION              01/07/2011
+           ACTIONS, REMEDIES, AND ARBITRATION              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -24993,7 +24993,7 @@
 
 
 -CITE-
-    17 USC Sec. 1008                                            01/07/2011
+    17 USC Sec. 1008                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25021,7 +25021,7 @@
 
 
 -CITE-
-    17 USC Sec. 1009                                            01/07/2011
+    17 USC Sec. 1009                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25128,7 +25128,7 @@
 
 
 -CITE-
-    17 USC Sec. 1010                                            01/07/2011
+    17 USC Sec. 1010                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25219,7 +25219,7 @@
 
 
 -CITE-
-    17 USC CHAPTER 11 - SOUND RECORDINGS AND MUSIC VIDEOS       01/07/2011
+    17 USC CHAPTER 11 - SOUND RECORDINGS AND MUSIC VIDEOS       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25238,7 +25238,7 @@
 
 
 -CITE-
-    17 USC Sec. 1101                                            01/07/2011
+    17 USC Sec. 1101                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25264,7 +25264,8 @@
     shall be subject to the remedies provided in sections 502 through
     505, to the same extent as an infringer of copyright.
       (b) Definition. - In this section, the term "traffic" has the
-    same meaning as in section 2320(e) of title 18.
+    same meaning as in section 2320(e) (!1) of title 18.
+
       (c) Applicability. - This section shall apply to any act or acts
     that occur on or after the date of the enactment of the Uruguay
     Round Agreements Act.
@@ -25279,6 +25280,11 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
+      Section 2320 of title 18, referred to in subsec. (b), was amended
+    generally by Pub. L. 112-81, div. A, title VIII, Sec. 818(h), Dec.
+    31, 2011, 125 Stat. 1497, and, as so amended, provisions similar to
+    those formerly appearing in subsec. (e) are now contained in
+    subsec. (f).
       The date of the enactment of the Uruguay Round Agreements Act,
     referred to in subsec. (c), is the date of enactment of Pub. L. 103-
     465, which was approved Dec. 8, 1994.
@@ -25293,12 +25299,16 @@
     anything of value, or make or obtain control of with intent to
     transport, transfer, or dispose of."
 
+-FOOTNOTE-
+    (!1) See References in Text note below.
+
+
 -End-
 
 
 -CITE-
     17 USC CHAPTER 12 - COPYRIGHT PROTECTION AND MANAGEMENT
-           SYSTEMS                                         01/07/2011
+           SYSTEMS                                         01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25320,7 +25330,7 @@
 
 
 -CITE-
-    17 USC Sec. 1201                                            01/07/2011
+    17 USC Sec. 1201                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -25862,7 +25872,7 @@
 
 
 -CITE-
-    17 USC Sec. 1202                                            01/07/2011
+    17 USC Sec. 1202                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26026,7 +26036,7 @@
 
 
 -CITE-
-    17 USC Sec. 1203                                            01/07/2011
+    17 USC Sec. 1203                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26139,7 +26149,7 @@
 
 
 -CITE-
-    17 USC Sec. 1204                                            01/07/2011
+    17 USC Sec. 1204                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26187,7 +26197,7 @@
 
 
 -CITE-
-    17 USC Sec. 1205                                            01/07/2011
+    17 USC Sec. 1205                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26211,7 +26221,7 @@
 
 
 -CITE-
-    17 USC CHAPTER 13 - PROTECTION OF ORIGINAL DESIGNS          01/07/2011
+    17 USC CHAPTER 13 - PROTECTION OF ORIGINAL DESIGNS          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26262,7 +26272,7 @@
 
 
 -CITE-
-    17 USC Sec. 1301                                            01/07/2011
+    17 USC Sec. 1301                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26401,7 +26411,7 @@
 
 
 -CITE-
-    17 USC Sec. 1302                                            01/07/2011
+    17 USC Sec. 1302                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26444,7 +26454,7 @@
 
 
 -CITE-
-    17 USC Sec. 1303                                            01/07/2011
+    17 USC Sec. 1303                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26473,7 +26483,7 @@
 
 
 -CITE-
-    17 USC Sec. 1304                                            01/07/2011
+    17 USC Sec. 1304                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26497,7 +26507,7 @@
 
 
 -CITE-
-    17 USC Sec. 1305                                            01/07/2011
+    17 USC Sec. 1305                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26529,7 +26539,7 @@
 
 
 -CITE-
-    17 USC Sec. 1306                                            01/07/2011
+    17 USC Sec. 1306                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26577,7 +26587,7 @@
 
 
 -CITE-
-    17 USC Sec. 1307                                            01/07/2011
+    17 USC Sec. 1307                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26615,7 +26625,7 @@
 
 
 -CITE-
-    17 USC Sec. 1308                                            01/07/2011
+    17 USC Sec. 1308                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26641,7 +26651,7 @@
 
 
 -CITE-
-    17 USC Sec. 1309                                            01/07/2011
+    17 USC Sec. 1309                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26724,7 +26734,7 @@
 
 
 -CITE-
-    17 USC Sec. 1310                                            01/07/2011
+    17 USC Sec. 1310                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26817,7 +26827,7 @@
 
 
 -CITE-
-    17 USC Sec. 1311                                            01/07/2011
+    17 USC Sec. 1311                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26848,7 +26858,7 @@
 
 
 -CITE-
-    17 USC Sec. 1312                                            01/07/2011
+    17 USC Sec. 1312                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26896,7 +26906,7 @@
 
 
 -CITE-
-    17 USC Sec. 1313                                            01/07/2011
+    17 USC Sec. 1313                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -26971,7 +26981,7 @@
 
 
 -CITE-
-    17 USC Sec. 1314                                            01/07/2011
+    17 USC Sec. 1314                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -27003,7 +27013,7 @@
 
 
 -CITE-
-    17 USC Sec. 1315                                            01/07/2011
+    17 USC Sec. 1315                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -27033,7 +27043,7 @@
 
 
 -CITE-
-    17 USC Sec. 1316                                            01/07/2011
+    17 USC Sec. 1316                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -27058,7 +27068,7 @@
 
 
 -CITE-
-    17 USC Sec. 1317                                            01/07/2011
+    17 USC Sec. 1317                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -27080,7 +27090,7 @@
 
 
 -CITE-
-    17 USC Sec. 1318                                            01/07/2011
+    17 USC Sec. 1318                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -27104,7 +27114,7 @@
 
 
 -CITE-
-    17 USC Sec. 1319                                            01/07/2011
+    17 USC Sec. 1319                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -27131,7 +27141,7 @@
 
 
 -CITE-
-    17 USC Sec. 1320                                            01/07/2011
+    17 USC Sec. 1320                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -27182,7 +27192,7 @@
 
 
 -CITE-
-    17 USC Sec. 1321                                            01/07/2011
+    17 USC Sec. 1321                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -27242,7 +27252,7 @@
 
 
 -CITE-
-    17 USC Sec. 1322                                            01/07/2011
+    17 USC Sec. 1322                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -27276,7 +27286,7 @@
 
 
 -CITE-
-    17 USC Sec. 1323                                            01/07/2011
+    17 USC Sec. 1323                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -27323,7 +27333,7 @@
 
 
 -CITE-
-    17 USC Sec. 1324                                            01/07/2011
+    17 USC Sec. 1324                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -27348,7 +27358,7 @@
 
 
 -CITE-
-    17 USC Sec. 1325                                            01/07/2011
+    17 USC Sec. 1325                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -27377,7 +27387,7 @@
 
 
 -CITE-
-    17 USC Sec. 1326                                            01/07/2011
+    17 USC Sec. 1326                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -27409,7 +27419,7 @@
 
 
 -CITE-
-    17 USC Sec. 1327                                            01/07/2011
+    17 USC Sec. 1327                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -27435,7 +27445,7 @@
 
 
 -CITE-
-    17 USC Sec. 1328                                            01/07/2011
+    17 USC Sec. 1328                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -27485,7 +27495,7 @@
 
 
 -CITE-
-    17 USC Sec. 1329                                            01/07/2011
+    17 USC Sec. 1329                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -27508,7 +27518,7 @@
 
 
 -CITE-
-    17 USC Sec. 1330                                            01/07/2011
+    17 USC Sec. 1330                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -27534,7 +27544,7 @@
 
 
 -CITE-
-    17 USC Sec. 1331                                            01/07/2011
+    17 USC Sec. 1331                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS
@@ -27557,7 +27567,7 @@
 
 
 -CITE-
-    17 USC Sec. 1332                                            01/07/2011
+    17 USC Sec. 1332                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 17 - COPYRIGHTS

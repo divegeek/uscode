@@ -1,10 +1,10 @@
 -CITE-
-    23 USC TITLE 23 - HIGHWAYS                                  01/07/2011
+    23 USC TITLE 23 - HIGHWAYS                                  01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
     
--HEAD-
+-HEAD-    
                             TITLE 23 - HIGHWAYS                        
 
 
@@ -245,7 +245,7 @@
 
 
 -CITE-
-    23 USC CHAPTER 1 - FEDERAL-AID HIGHWAYS                     01/07/2011
+    23 USC CHAPTER 1 - FEDERAL-AID HIGHWAYS                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -497,7 +497,7 @@
 
 
 -CITE-
-    23 USC Sec. 101                                             01/07/2011
+    23 USC Sec. 101                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -1283,6 +1283,44 @@
       Section 21(e) of Pub. L. 86-70 provided that the amendments made
     by that section (amending this section and sections 104, 116, and
     120 of this title) are effective July 1, 1959.
+
+                       SHORT TITLE OF 2011 AMENDMENT                   
+      Pub. L. 112-30, Sec. 1(a), Sept. 16, 2011, 125 Stat. 342,
+    provided that: "This Act [amending sections 405 and 410 of this
+    title, sections 460l-11 and 777c of Title 16, Conservation,
+    sections 4041, 4051, 4071, 4081, 4221, 4261, 4271, 4481 to 4483,
+    6412, 9502 to 9504, and 9508 of Title 26, Internal Revenue Code,
+    and sections 106, 5305, 5307, 5309, 5311, 5337, 5338, 31104, 31144,
+    40117, 41742, 41743, 44302, 44303, 47104, 47107, 47115, 47141,
+    48101 to 48103, and 49108 of Title 49, Transportation, enacting
+    provisions set out as notes under this section, section 460l-11 of
+    Title 16, and sections 1, 4081, 9502, and 9503 of Title 26, and
+    amending provisions set out as notes under sections 402, 403, and
+    405 of this title and sections 5309, 5310, 5338, 14710, 31100,
+    31301, 41731, and 47109 of Title 49] may be cited as the 'Surface
+    and Air Transportation Programs Extension Act of 2011'."
+      Pub. L. 112-30, title I, Sec. 101, Sept. 16, 2011, 125 Stat. 343,
+    provided that: "This title [amending sections 405 and 410 of this
+    title, sections 460l-11 and 777c of Title 16, Conservation,
+    sections 4041, 4051, 4071, 4081, 4221, 4481 to 4483, 6412, 9503,
+    9504, and 9508 of Title 26, Internal Revenue Code, and sections
+    5305, 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of Title 49,
+    Transportation, enacting provisions set out as notes under section
+    460l-11 of Title 16 and section 9503 of Title 26, and amending
+    provisions set out as notes under sections 402, 403, and 405 of
+    this title and sections 5309, 5310, 5338, 14710, 31100, and 31301
+    of Title 49] may be cited as the 'Surface Transportation Extension
+    Act of 2011, Part II'."
+      Pub. L. 112-5, Sec. 1(a), Mar. 4, 2011, 125 Stat. 14, provided
+    that: "This Act [amending section 777c of Title 16, Conservation,
+    sections 9503 and 9504 of Title 26, Internal Revenue Code, and
+    sections 5305, 5307, 5309, 5311, 5337, 5338, 31104, and 31144 of
+    Title 49, Transportation, enacting provisions set out as a note
+    under section 9503 of Title 26, and amending provisions set out as
+    notes under section 901 of Title 2, The Congress, and sections
+    5309, 5310, 5338, 14710, 31309, 31100, 31301, and 31100 of Title
+    49] may be cited as the 'Surface Transportation Extension Act of
+    2011'."
 
                        SHORT TITLE OF 2010 AMENDMENT                   
       Pub. L. 111-322, title II, Sec. 2001(a), Dec. 22, 2010, 124 Stat.
@@ -3674,7 +3712,7 @@
 
 
 -CITE-
-    23 USC Sec. 102                                             01/07/2011
+    23 USC Sec. 102                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -3769,7 +3807,7 @@
 
 
 -CITE-
-    23 USC Sec. 103                                             01/07/2011
+    23 USC Sec. 103                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -4941,7 +4979,7 @@
 
 
 -CITE-
-    23 USC Sec. 104                                             01/07/2011
+    23 USC Sec. 104                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -7482,9 +7520,9 @@
       110(a)(2) of title 23, United States Code, a limitation on
       obligations imposed by subsection (a) for a fiscal year shall be
       adjusted by an amount equal to the amount determined in
-      accordance with section 251(b)(1)(B) of the Balanced Budget and
-      Emergency Deficit Control Act of 1985 (2 U.S.C. 901(b)(1)(B)) for
-      the fiscal year.
+      accordance with [former] section 251(b)(1)(B) of the Balanced
+      Budget and Emergency Deficit Control Act of 1985 ([former] 2
+      U.S.C. 901(b)(1)(B)) for the fiscal year.
         "(2) Distribution. - An adjustment under paragraph (1) shall be
       distributed in accordance with this section.
       "(i) Special Rule for Fiscal Year 2005. - 
@@ -7521,15 +7559,15 @@
     as amended by Pub. L. 105-206, title IX, Sec. 9002(b), July 22,
     1998, 112 Stat. 834; Pub. L. 106-159, title I, Sec. 103(b)(2), Dec.
     9, 1999, 113 Stat. 1753.
-      Pub. L. 111-117, div. A, title I, Dec. 16, 2009, 123 Stat. 3044,
-    provided in part that: "None of the funds in this Act [div. A of
-    Pub. L. 111-117, see Tables for classification] shall be available
+      Pub. L. 112-55, div. C, title I, Nov. 18, 2011, 125 Stat. 650,
+    provided in part that: "None of the funds in this Act [div. C of
+    Pub. L. 112-55, see Tables for classification] shall be available
     for the implementation or execution of programs, the obligations
-    for which are in excess of $41,107,000,000 for Federal-aid highways
-    and highway safety construction programs for fiscal year 2010".
-      Pub. L. 111-117, div. A, title I, Sec. 120, Dec. 16, 2009, 123
-    Stat. 3045, provided that:
-      "(a) For fiscal year 2010, the Secretary of Transportation shall -
+    for which are in excess of $39,143,582,670 for Federal-aid highways
+    and highway safety construction programs for fiscal year 2012".
+      Pub. L. 112-55, div. C, title I, Sec. 120, Nov. 18, 2011, 125
+    Stat. 651, provided that:
+      "(a) For fiscal year 2012, the Secretary of Transportation shall -
      
         "(1) not distribute from the obligation limitation for Federal-
       aid highways amounts authorized for administrative expenses and
@@ -7565,17 +7603,13 @@
       under section 101 of this title], 1302 [set out as a note under
       section 101 of this title], and 1934 [119 Stat. 1485] of the
       Safe, Accountable, Flexible, Efficient Transportation Equity Act:
-      A Legacy for Users [Pub. L. 109-59]; sections [sic] 117 (but
-      individually for each project numbered 1 through 3676 listed in
-      the table contained in section 1702 of the Safe, Accountable,
-      Flexible, Efficient Transportation Equity Act: A Legacy for Users
-      [119 Stat. 1256]) and section 144(g) [now 144(f)] of title 23,
-      United States Code; and section 14501 of title 40, United States
-      Code, so that the amount of obligation authority available for
-      each of such sections is equal to the amount determined by
-      multiplying the ratio determined under paragraph (3) by the sums
-      authorized to be appropriated for that section for the fiscal
-      year; and
+      A Legacy for Users [Pub. L. 109-59]; section 117 and section
+      144(g) [now 144(f)] of title 23, United States Code; and section
+      14501 of title 40, United States Code, so that the amount of
+      obligation authority available for each of such sections is equal
+      to the amount determined by multiplying the ratio determined
+      under paragraph (3) by the sums authorized to be appropriated for
+      that section for the fiscal year; and
         "(B) distribute $2,000,000,000 for section 105 of title 23,
       United States Code;
         "(5) distribute the obligation limitation provided for Federal-
@@ -7609,42 +7643,47 @@
         fiscal year.
       "(b) Exceptions From Obligation Limitation. - The obligation
     limitation for Federal-aid highways shall not apply to obligations:
-    (1) under section 125 of title 23, United States Code; (2) under
-    section 147 of the Surface Transportation Assistance Act of 1978
-    [Pub. L. 95-599, formerly set out as a note under section 144 of
-    this title]; (3) under section 9 of the Federal-Aid Highway Act of
-    1981 [Pub. L. 97-134, 95 Stat. 1701]; (4) under subsections (b) and
-    (j) of section 131 of the Surface Transportation Assistance Act of
-    1982 [Pub. L. 97-424, 96 Stat. 2119, 2123]; (5) under subsections
-    (b) and (c) of section 149 of the Surface Transportation and
-    Uniform Relocation Assistance Act of 1987 [Pub. L. 100-17, 101
-    Stat. 198, 200]; (6) under sections 1103 through 1108 of the
-    Intermodal Surface Transportation Efficiency Act of 1991 [Pub. L.
-    102-240, see Tables for classification]; (7) under section 157 of
-    title 23, United States Code, as in effect on the day before the
-    date of the enactment of the Transportation Equity Act for the 21st
-    Century [June 9, 1998]; (8) under section 105 of title 23, United
-    States Code, as in effect for fiscal years 1998 through 2004, but
-    only in an amount equal to $639,000,000 for each of those fiscal
-    years; (9) for Federal-aid highway programs for which obligation
-    authority was made available under the Transportation Equity Act
-    for the 21st Century [Pub. L. 105-178, see Tables for
-    classification] or subsequent public laws for multiple years or to
-    remain available until used, but only to the extent that the
-    obligation authority has not lapsed or been used; (10) under
-    section 105 of title 23, United States Code, but only in an amount
-    equal to $639,000,000 for each of fiscal years 2005 through 2010;
-    and (11) under section 1603 of the Safe, Accountable, Flexible,
-    Efficient Transportation Equity Act: A Legacy for Users [Pub. L.
-    109-59, set out as a note under section 118 of this title], to the
-    extent that funds obligated in accordance with that section were
-    not subject to a limitation on obligations at the time at which the
-    funds were initially made available for obligation.
+        "(1) under section 125 of title 23, United States Code;
+        "(2) under section 147 of the Surface Transportation Assistance
+      Act of 1978 [Pub. L. 95-599, formerly set out as a note under
+      section 144 of this title];
+        "(3) under section 9 of the Federal-Aid Highway Act of 1981
+      [Pub. L. 97-134, 95 Stat. 1701];
+        "(4) under subsections (b) and (j) of section 131 of the
+      Surface Transportation Assistance Act of 1982 [Pub. L. 97-424, 96
+      Stat. 2119, 2123];
+        "(5) under subsections (b) and (c) of section 149 of the
+      Surface Transportation and Uniform Relocation Assistance Act of
+      1987 [Pub. L. 100-17, 101 Stat. 198, 200];
+        "(6) under sections 1103 through 1108 of the Intermodal Surface
+      Transportation Efficiency Act of 1991 [Pub. L. 102-240, see
+      Tables for classification];
+        "(7) under section 157 of title 23, United States Code, as in
+      effect on the day before the date of the enactment of the
+      Transportation Equity Act for the 21st Century [June 9, 1998];
+        "(8) under section 105 of title 23, United States Code, as in
+      effect for fiscal years 1998 through 2004, but only in an amount
+      equal to $639,000,000 for each of those fiscal years;
+        "(9) for Federal-aid highway programs for which obligation
+      authority was made available under the Transportation Equity Act
+      for the 21st Century [Pub. L. 105-178, see Tables for
+      classification] or subsequent public laws for multiple years or
+      to remain available until used, but only to the extent that the
+      obligation authority has not lapsed or been used;
+        "(10) under section 105 of title 23, United States Code, but
+      only in an amount equal to $639,000,000 for each of fiscal years
+      2005 through 2012; and
+        "(11) under section 1603 of the Safe, Accountable, Flexible,
+      Efficient Transportation Equity Act: A Legacy for Users [Pub. L.
+      109-59, set out as a note under section 118 of this title], to
+      the extent that funds obligated in accordance with that section
+      were not subject to a limitation on obligations at the time at
+      which the funds were initially made available for obligation.
       "(c) Redistribution of Unused Obligation Authority. -
     Notwithstanding subsection (a), the Secretary shall, after August 1
     of such fiscal year, revise a distribution of the obligation
     limitation made available under subsection (a) if the amount
-    distributed cannot be obligated during that fiscal year and
+    distributed cannot be obligated during that fiscal year, and
     redistribute sufficient amounts to those States able to obligate
     amounts in addition to those previously distributed during that
     fiscal year, giving priority to those States having large
@@ -7685,20 +7724,7 @@
         "(2) be in addition to the amount of any limitation imposed on
       obligations for Federal-aid highway and highway safety
       construction programs for future fiscal years.
-      "(g) High Priority Project Flexibility. - 
-        "(1) In general. - Subject to paragraph (2), obligation
-      authority distributed for such fiscal year under subsection
-      (a)(4) for each project numbered 1 through 3676 listed in the
-      table contained in section 1702 of the Safe, Accountable,
-      Flexible, Efficient Transportation Equity Act: A Legacy for Users
-      [119 Stat. 1256] may be obligated for any other project in such
-      section in the same State.
-        "(2) Restoration. - Obligation authority used as described in
-      paragraph (1) shall be restored to the original purpose on the
-      date on which obligation authority is distributed under this
-      section for the next fiscal year following obligation under
-      paragraph (1).
-      "(h) Limitation on Statutory Construction. - Nothing in this
+      "(g) Limitation on Statutory Construction. - Nothing in this
     section shall be construed to limit the distribution of obligation
     authority under subsection (a)(4)(A) for each of the individual
     projects numbered greater than 3676 listed in the table contained
@@ -7706,6 +7732,9 @@
     Transportation Equity Act: A Legacy for Users [119 Stat. 1256]."
       Similar provisions for prior fiscal years were contained in the
     following acts:
+      Pub. L. 111-117, div. A, title I, Dec. 16, 2009, 123 Stat. 3044.
+      Pub. L. 111-117, div. A, title I, Sec. 120, Dec. 16, 2009, 123
+    Stat. 3045.
       Pub. L. 111-8, div. I, title I, Mar. 11, 2009, 123 Stat. 923.
       Pub. L. 111-8, div. I, title I, Sec. 120, Mar. 11, 2009, 123
     Stat. 924.
@@ -7929,7 +7958,7 @@
 
 
 -CITE-
-    23 USC Sec. 105                                             01/07/2011
+    23 USC Sec. 105                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -8209,7 +8238,7 @@
 
 
 -CITE-
-    23 USC Sec. 106                                             01/07/2011
+    23 USC Sec. 106                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -8569,7 +8598,7 @@
 
 
 -CITE-
-    23 USC Sec. 107                                             01/07/2011
+    23 USC Sec. 107                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -8682,7 +8711,7 @@
 
 
 -CITE-
-    23 USC Sec. 108                                             01/07/2011
+    23 USC Sec. 108                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -8978,7 +9007,7 @@
 
 
 -CITE-
-    23 USC Sec. 109                                             01/07/2011
+    23 USC Sec. 109                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -9750,7 +9779,7 @@
 
 
 -CITE-
-    23 USC Sec. 110                                             01/07/2011
+    23 USC Sec. 110                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -9868,6 +9897,13 @@
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
+      Section 251 of the Balanced Budget and Emergency Deficit Control
+    Act of 1985, referred to in subsecs. (a)(1) and (2), is section 251
+    of Pub. L. 99-177, title II, Dec. 12, 1985, 99 Stat. 1063, which is
+    classified to section 901 of Title 2, The Congress. Section 251 of
+    Pub. L. 99-177 was amended generally by Pub. L. 112-25, title I,
+    Sec. 101, Aug. 2, 2011, 125 Stat. 241, and as so amended, par. (1)
+    no longer contains a subpar. (B).
       Section 1102(h) of the SAFETEA-LU, referred to in subsec. (a)(2),
     is section 1102(h) of Pub. L. 109-59, which is set out as a note
     under section 104 of this title.
@@ -9981,7 +10017,7 @@
 
 -FOOTNOTE-
     (!1) So in original. Probably should be "(2 U.S.C.
-         901(b)(1)(B)(ii)(I)(cc))".
+         901(b)(1)(B)(ii)(I)(cc))". See References in Text note below.
 
 
 -End-
@@ -9989,7 +10025,7 @@
 
 
 -CITE-
-    23 USC Sec. 111                                             01/07/2011
+    23 USC Sec. 111                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -10178,7 +10214,7 @@
 
 
 -CITE-
-    23 USC Sec. 112                                             01/07/2011
+    23 USC Sec. 112                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -10673,7 +10709,7 @@
 
 
 -CITE-
-    23 USC Sec. 113                                             01/07/2011
+    23 USC Sec. 113                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -10756,7 +10792,7 @@
 
 
 -CITE-
-    23 USC Sec. 114                                             01/07/2011
+    23 USC Sec. 114                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -11089,7 +11125,7 @@
 
 
 -CITE-
-    23 USC Sec. 115                                             01/07/2011
+    23 USC Sec. 115                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -11364,7 +11400,7 @@
 
 
 -CITE-
-    23 USC Sec. 116                                             01/07/2011
+    23 USC Sec. 116                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -11500,7 +11536,7 @@
 
 
 -CITE-
-    23 USC Sec. 117                                             01/07/2011
+    23 USC Sec. 117                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -11720,7 +11756,7 @@
 
 
 -CITE-
-    23 USC Sec. 118                                             01/07/2011
+    23 USC Sec. 118                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -12136,7 +12172,7 @@
 
 
 -CITE-
-    23 USC Sec. 119                                             01/07/2011
+    23 USC Sec. 119                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -12532,7 +12568,7 @@
 
 
 -CITE-
-    23 USC Sec. 120                                             01/07/2011
+    23 USC Sec. 120                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -13274,7 +13310,7 @@
 
 
 -CITE-
-    23 USC Sec. 121                                             01/07/2011
+    23 USC Sec. 121                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -13412,7 +13448,7 @@
 
 
 -CITE-
-    23 USC Sec. 122                                             01/07/2011
+    23 USC Sec. 122                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -13517,7 +13553,7 @@
 
 
 -CITE-
-    23 USC Sec. 123                                             01/07/2011
+    23 USC Sec. 123                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -13597,7 +13633,7 @@
 
 
 -CITE-
-    23 USC Sec. 124                                             01/07/2011
+    23 USC Sec. 124                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -13681,7 +13717,7 @@
 
 
 -CITE-
-    23 USC Sec. 125                                             01/07/2011
+    23 USC Sec. 125                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -13997,7 +14033,7 @@
 
 
 -CITE-
-    23 USC Sec. 126                                             01/07/2011
+    23 USC Sec. 126                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -14077,7 +14113,7 @@
 
 
 -CITE-
-    23 USC Sec. 127                                             01/07/2011
+    23 USC Sec. 127                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -14108,7 +14144,7 @@
       formula:
 
                                     LN                                
-                        W=500 (----------- +12N+36)                    
+                        W=500 (XXXXX+12N+36)                    
                                     N-1                                
 
     where W equals overall gross weight on any group of two or more
@@ -14172,14 +14208,16 @@
       January 1, 1987, and are applicable to State highways other than
       the Interstate System, shall be applicable in lieu of the
       requirements of this subsection.
-        (11) With respect to that portion of the Maine Turnpike
-      designated Route 95 and 495, and that portion of Interstate Route
-      95 from the southern terminus of the Maine Turnpike to the New
-      Hampshire State line, laws (including regulations) of the State
-      of Maine concerning vehicle weight limitations that were in
-      effect on October 1, 1995, and are applicable to State highways
-      other than the Interstate System, shall be applicable in lieu of
-      the requirements of this subsection.
+        (11)(A) With respect to all portions of the Interstate Highway
+      System in the State of Maine, laws (including regulations) of
+      that State concerning vehicle weight limitations applicable to
+      other State highways shall be applicable in lieu of the
+      requirements under this subsection through December 31, 2031.
+        (B) With respect to all portions of the Interstate Highway
+      System in the State of Vermont, laws (including regulations) of
+      that State concerning vehicle weight limitations applicable to
+      other State highways shall be applicable in lieu of the
+      requirements under this subsection through December 31, 2031.
         (12) Heavy duty vehicles. - 
           (A) In general. - Subject to subparagraphs (B) and (C), in
         order to promote reduction of fuel use and emissions because of
@@ -14401,7 +14439,8 @@
     title VII, Sec. 756(c), Aug. 8, 2005, 119 Stat. 832; Pub. L. 109-
     59, title I, Sec. 1111(b)(3), Aug. 10, 2005, 119 Stat. 1171; Pub.
     L. 111-117, div. A, title I, Sec. 194(a), (c), (d), (f), Dec. 16,
-    2009, 123 Stat. 3072, 3073.)
+    2009, 123 Stat. 3072, 3073; Pub. L. 112-55, div. C, title I, Sec.
+    125, Nov. 18, 2011, 125 Stat. 655.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -14439,6 +14478,16 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2011 - Subsec. (a)(11). Pub. L. 112-55 amended par. (11)
+    generally. Prior to amendment, par. (11) read as follows: "With
+    respect to that portion of the Maine Turnpike designated Route 95
+    and 495, and that portion of Interstate Route 95 from the southern
+    terminus of the Maine Turnpike to the New Hampshire State line,
+    laws (including regulations) of the State of Maine concerning
+    vehicle weight limitations that were in effect on October 1, 1995,
+    and are applicable to State highways other than the Interstate
+    System, shall be applicable in lieu of the requirements of this
+    subsection."
       2009 - Subsec. (a)(11). Pub. L. 111-117, Sec. 194(c), substituted
     "that portion of the Maine Turnpike designated Route 95 and 495,
     and that portion of Interstate Route 95 from the southern terminus
@@ -14829,7 +14878,7 @@
 
 
 -CITE-
-    23 USC Sec. 128                                             01/07/2011
+    23 USC Sec. 128                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -14900,7 +14949,7 @@
 
 
 -CITE-
-    23 USC Sec. 129                                             01/07/2011
+    23 USC Sec. 129                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -15848,7 +15897,7 @@
 
 
 -CITE-
-    23 USC Sec. 130                                             01/07/2011
+    23 USC Sec. 130                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -16441,7 +16490,7 @@
 
 
 -CITE-
-    23 USC Sec. 131                                             01/07/2011
+    23 USC Sec. 131                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -17111,7 +17160,7 @@
 
 
 -CITE-
-    23 USC Sec. 132                                             01/07/2011
+    23 USC Sec. 132                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -17175,7 +17224,7 @@
 
 
 -CITE-
-    23 USC Sec. 133                                             01/07/2011
+    23 USC Sec. 133                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -17490,11 +17539,11 @@
     33, Navigation and Navigable Waters, and Tables.
       The Uniform Relocation Assistance and Real Property Acquisition
     Policies Act of 1970, referred to in subsec. (d)(5), is Pub. L. 91-
-    646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified
-    generally to chapter 61 (Sec. 4601 et seq.) of Title 42, The Public
-    Health and Welfare. For complete classification of this Act to the
-    Code, see Short Title note set out under section 4601 of Title 42
-    and Tables.
+    646, Jan. 2, 1971, 84 Stat. 1894, which is classified principally
+    to chapter 61 (Sec. 4601 et seq.) of Title 42, The Public Health
+    and Welfare. For complete classification of this Act to the Code,
+    see Short Title note set out under section 4601 of Title 42 and
+    Tables.
       Section 170(h) of the Internal Revenue Code of 1986, referred to
     in subsec. (d)(5)(A), is classified to section 170(h) of Title 26,
     Internal Revenue Code.
@@ -17710,7 +17759,7 @@
 
 
 -CITE-
-    23 USC Sec. 134                                             01/07/2011
+    23 USC Sec. 134                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -18822,7 +18871,7 @@
 
 
 -CITE-
-    23 USC Sec. 135                                             01/07/2011
+    23 USC Sec. 135                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -19552,7 +19601,7 @@
 
 
 -CITE-
-    23 USC Sec. 136                                             01/07/2011
+    23 USC Sec. 136                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -19695,7 +19744,7 @@
 
 
 -CITE-
-    23 USC Sec. 137                                             01/07/2011
+    23 USC Sec. 137                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -19912,7 +19961,7 @@
 
 
 -CITE-
-    23 USC Sec. 138                                             01/07/2011
+    23 USC Sec. 138                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -20134,7 +20183,7 @@
 
 
 -CITE-
-    23 USC Sec. 139                                             01/07/2011
+    23 USC Sec. 139                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -20612,7 +20661,7 @@
 
 
 -CITE-
-    23 USC Sec. 140                                             01/07/2011
+    23 USC Sec. 140                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -20838,7 +20887,7 @@
 
 
 -CITE-
-    23 USC Sec. 141                                             01/07/2011
+    23 USC Sec. 141                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -21017,7 +21066,7 @@
 
 
 -CITE-
-    23 USC Sec. 142                                             01/07/2011
+    23 USC Sec. 142                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -21380,7 +21429,7 @@
 
 
 -CITE-
-    23 USC Sec. 143                                             01/07/2011
+    23 USC Sec. 143                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -21625,7 +21674,7 @@
 
 
 -CITE-
-    23 USC Sec. 144                                             01/07/2011
+    23 USC Sec. 144                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -22723,7 +22772,7 @@
 
 
 -CITE-
-    23 USC Sec. 145                                             01/07/2011
+    23 USC Sec. 145                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -22802,7 +22851,7 @@
 
 
 -CITE-
-    23 USC Sec. 146                                             01/07/2011
+    23 USC Sec. 146                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -22948,7 +22997,7 @@
 
 
 -CITE-
-    23 USC Sec. 147                                             01/07/2011
+    23 USC Sec. 147                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -23036,7 +23085,7 @@
 
 
 -CITE-
-    23 USC Sec. 148                                             01/07/2011
+    23 USC Sec. 148                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -23414,7 +23463,7 @@
 
 
 -CITE-
-    23 USC Sec. 149                                             01/07/2011
+    23 USC Sec. 149                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -23979,7 +24028,7 @@
 
 
 -CITE-
-    23 USC Sec. 150                                             01/07/2011
+    23 USC Sec. 150                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -24009,7 +24058,7 @@
 
 
 -CITE-
-    23 USC Sec. 151                                             01/07/2011
+    23 USC Sec. 151                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -24083,7 +24132,7 @@
 
 
 -CITE-
-    23 USC Sec. 152                                             01/07/2011
+    23 USC Sec. 152                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -24250,7 +24299,7 @@
 
 
 -CITE-
-    23 USC Sec. 153                                             01/07/2011
+    23 USC Sec. 153                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -24498,7 +24547,7 @@
 
 
 -CITE-
-    23 USC Sec. 154                                             01/07/2011
+    23 USC Sec. 154                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -24657,7 +24706,7 @@
 
 
 -CITE-
-    23 USC Sec. 155                                             01/07/2011
+    23 USC Sec. 155                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -24739,7 +24788,7 @@
 
 
 -CITE-
-    23 USC Sec. 156                                             01/07/2011
+    23 USC Sec. 156                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -24815,7 +24864,7 @@
 
 
 -CITE-
-    23 USC Sec. 157                                             01/07/2011
+    23 USC Sec. 157                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -25103,7 +25152,7 @@
 
 
 -CITE-
-    23 USC Sec. 158                                             01/07/2011
+    23 USC Sec. 158                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -25212,7 +25261,7 @@
 
 
 -CITE-
-    23 USC Sec. 159                                             01/07/2011
+    23 USC Sec. 159                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -25467,7 +25516,7 @@
 
 
 -CITE-
-    23 USC Sec. 160                                             01/07/2011
+    23 USC Sec. 160                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -25605,7 +25654,7 @@
 
 
 -CITE-
-    23 USC Sec. 161                                             01/07/2011
+    23 USC Sec. 161                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -25684,7 +25733,7 @@
 
 
 -CITE-
-    23 USC Sec. 162                                             01/07/2011
+    23 USC Sec. 162                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -25871,7 +25920,7 @@
 
 
 -CITE-
-    23 USC Sec. 163                                             01/07/2011
+    23 USC Sec. 163                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -26034,7 +26083,7 @@
 
 
 -CITE-
-    23 USC Sec. 164                                             01/07/2011
+    23 USC Sec. 164                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -26196,7 +26245,7 @@
 
 
 -CITE-
-    23 USC Sec. 165                                             01/07/2011
+    23 USC Sec. 165                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -26253,7 +26302,7 @@
 
 
 -CITE-
-    23 USC Sec. 166                                             01/07/2011
+    23 USC Sec. 166                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -26488,7 +26537,7 @@
 
 
 -CITE-
-    23 USC Secs. 181 to 190                                     01/07/2011
+    23 USC Secs. 181 to 190                                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -26511,7 +26560,7 @@
 
 
 -CITE-
-    23 USC CHAPTER 2 - OTHER HIGHWAYS                           01/07/2011
+    23 USC CHAPTER 2 - OTHER HIGHWAYS                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -26581,7 +26630,7 @@
 
 
 -CITE-
-    23 USC Sec. 201                                             01/07/2011
+    23 USC Sec. 201                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -26620,7 +26669,7 @@
 
 
 -CITE-
-    23 USC Sec. 202                                             01/07/2011
+    23 USC Sec. 202                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -27287,7 +27336,7 @@
 
 
 -CITE-
-    23 USC Sec. 203                                             01/07/2011
+    23 USC Sec. 203                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -27375,7 +27424,7 @@
 
 
 -CITE-
-    23 USC Sec. 204                                             01/07/2011
+    23 USC Sec. 204                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -27836,7 +27885,7 @@
 
 
 -CITE-
-    23 USC Sec. 205                                             01/07/2011
+    23 USC Sec. 205                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -27909,7 +27958,7 @@
 
 
 -CITE-
-    23 USC Sec. 206                                             01/07/2011
+    23 USC Sec. 206                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -28270,7 +28319,7 @@
 
 
 -CITE-
-    23 USC Secs. 207 to 209                                     01/07/2011
+    23 USC Secs. 207 to 209                                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -28311,7 +28360,7 @@
 
 
 -CITE-
-    23 USC Sec. 210                                             01/07/2011
+    23 USC Sec. 210                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -28336,7 +28385,11 @@
     Defense will cause a significant transportation impact to access to
     a military reservation, the Secretary of Defense shall conduct a
     transportation needs assessment to assess the magnitude of the
-    improvement required to address the impact.
+    improvement required to address the impact. The Secretary of
+    Defense shall determine the magnitude of the required improvements
+    without regard to the extent to which traffic generated by the
+    reservation is greater than other traffic in the vicinity of the
+    reservation.
       (b) Funds appropriated for the purposes of this section shall be
     available, without regard to apportionment among the several
     States, for paying all or any part of the cost of the construction
@@ -28430,11 +28483,18 @@
     133(b)(15), Apr. 2, 1987, 101 Stat. 172; Pub. L. 105-178, title I,
     Sec. 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 193; Pub. L. 109-
     284, Sec. 3(2), Sept. 27, 2006, 120 Stat. 1211; Pub. L. 110-417,
-    div. B, title XXVIII, Sec. 2814(a), Oct. 14, 2008, 122 Stat. 4728.)
+    div. B, title XXVIII, Sec. 2814(a), Oct. 14, 2008, 122 Stat. 4728;
+    Pub. L. 112-81, div. B, title XXVIII, Sec. 2816(a), Dec. 31, 2011,
+    125 Stat. 1689.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2011 - Subsec. (a)(2). Pub. L. 112-81 inserted at end "The
+    Secretary of Defense shall determine the magnitude of the required
+    improvements without regard to the extent to which traffic
+    generated by the reservation is greater than other traffic in the
+    vicinity of the reservation."
       2008 - Subsec. (a). Pub. L. 110-417 designated existing
     provisions as par. (1) and added par. (2).
       2006 - Subsec. (e). Pub. L. 109-284 substituted "sections 3114 to
@@ -28452,12 +28512,41 @@
       1961 - Subsec. (h). Pub. L. 87-61 added subsec. (h).
       1960 - Subsec. (g). Pub. L. 86-657 added subsec. (g).
 
+     ECONOMIC ADJUSTMENT COMMITTEE CONSIDERATION OF ADDITIONAL DEFENSE
+                       ACCESS ROADS FUNDING SOURCES
+      Pub. L. 112-81, div. B, title XXVIII, Sec. 2816(b), Dec. 31,
+    2011, 125 Stat. 1689, provided that:
+      "(1) Convening of committee. - Not later than 90 days after the
+    date of the enactment of this Act [Dec. 31, 2011], the Secretary of
+    Defense, as the chairperson of the Economic Adjustment Committee
+    established in Executive Order No. 127887 [12788] (10 U.S.C. 2391
+    note), shall convene the Economic Adjustment Committee to consider
+    additional sources of funding for the defense access roads program
+    under section 210 of title 23, United States Code.
+      "(2) Report. - Not later than one year after the date of the
+    enactment of this Act, the Secretary of Defense shall submit to
+    Congress a report describing the results of the Economic Adjustment
+    Committee deliberations and containing an implementation plan to
+    expand funding sources for the mitigation of significant
+    transportation impacts to access to military reservations pursuant
+    to subsection (b) of section 210 of title 23, United States Code,
+    as amended by subsection (a)."
+
+                    SEPARATE BUDGET REQUEST FOR PROGRAM                
+      Pub. L. 112-81, div. B, title XXVIII, Sec. 2816(c), Dec. 31,
+    2011, 125 Stat. 1689, provided that: "Amounts requested for a
+    fiscal year for the defense access roads program under section 210
+    of title 23, United States Code, shall be set forth as a separate
+    budget request in the budget transmitted by the President to
+    Congress for that fiscal year under section 1105 of title 31,
+    United States."
+
 -End-
 
 
 
 -CITE-
-    23 USC Sec. 211                                             01/07/2011
+    23 USC Sec. 211                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -28477,7 +28566,7 @@
 
 
 -CITE-
-    23 USC Sec. 212                                             01/07/2011
+    23 USC Sec. 212                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -28584,7 +28673,7 @@
 
 
 -CITE-
-    23 USC Sec. 213                                             01/07/2011
+    23 USC Sec. 213                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -28604,7 +28693,7 @@
 
 
 -CITE-
-    23 USC Sec. 214                                             01/07/2011
+    23 USC Sec. 214                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -28639,7 +28728,7 @@
 
 
 -CITE-
-    23 USC Sec. 215                                             01/07/2011
+    23 USC Sec. 215                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -28805,7 +28894,7 @@
 
 
 -CITE-
-    23 USC Sec. 216                                             01/07/2011
+    23 USC Sec. 216                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -28865,7 +28954,7 @@
 
 
 -CITE-
-    23 USC Sec. 217                                             01/07/2011
+    23 USC Sec. 217                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29180,7 +29269,7 @@
 
 
 -CITE-
-    23 USC Sec. 218                                             01/07/2011
+    23 USC Sec. 218                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29314,7 +29403,7 @@
 
 
 -CITE-
-    23 USC Sec. 219                                             01/07/2011
+    23 USC Sec. 219                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29336,7 +29425,7 @@
 
 
 -CITE-
-    23 USC CHAPTER 3 - GENERAL PROVISIONS                       01/07/2011
+    23 USC CHAPTER 3 - GENERAL PROVISIONS                       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29424,7 +29513,7 @@
 
 
 -CITE-
-    23 USC Sec. 301                                             01/07/2011
+    23 USC Sec. 301                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29447,7 +29536,7 @@
 
 
 -CITE-
-    23 USC Sec. 302                                             01/07/2011
+    23 USC Sec. 302                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29497,7 +29586,7 @@
 
 
 -CITE-
-    23 USC Sec. 303                                             01/07/2011
+    23 USC Sec. 303                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29704,7 +29793,7 @@
 
 
 -CITE-
-    23 USC Sec. 304                                             01/07/2011
+    23 USC Sec. 304                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29732,7 +29821,7 @@
 
 
 -CITE-
-    23 USC Sec. 305                                             01/07/2011
+    23 USC Sec. 305                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29774,7 +29863,7 @@
 
 
 -CITE-
-    23 USC Sec. 306                                             01/07/2011
+    23 USC Sec. 306                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29817,7 +29906,7 @@
 
 
 -CITE-
-    23 USC Sec. 307                                             01/07/2011
+    23 USC Sec. 307                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29865,7 +29954,7 @@
 
 
 -CITE-
-    23 USC Sec. 308                                             01/07/2011
+    23 USC Sec. 308                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29910,7 +29999,7 @@
 
 
 -CITE-
-    23 USC Sec. 309                                             01/07/2011
+    23 USC Sec. 309                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -29974,7 +30063,7 @@
 
 
 -CITE-
-    23 USC Sec. 310                                             01/07/2011
+    23 USC Sec. 310                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30029,7 +30118,7 @@
 
 
 -CITE-
-    23 USC Sec. 311                                             01/07/2011
+    23 USC Sec. 311                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30077,7 +30166,7 @@
 
 
 -CITE-
-    23 USC Sec. 312                                             01/07/2011
+    23 USC Sec. 312                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30113,7 +30202,7 @@
 
 
 -CITE-
-    23 USC Sec. 313                                             01/07/2011
+    23 USC Sec. 313                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30251,17 +30340,19 @@
     years 1992 and 1993.
 
             BUY AMERICA WAIVER NOTIFICATION AND ANNUAL REPORTS        
-      Pub. L. 111-117, div. A, title I, Sec. 123, Dec. 16, 2009, 123
-    Stat. 3048, provided that: "Not less than 15 days prior to waiving,
+      Pub. L. 112-55, div. C, title I, Sec. 122, Nov. 18, 2011, 125
+    Stat. 654, provided that: "Not less than 15 days prior to waiving,
     under his statutory authority, any Buy America requirement for
     Federal-aid highway projects, the Secretary of Transportation shall
     make an informal public notice and comment opportunity on the
     intent to issue such waiver and the reasons therefor: Provided,
-    That the Secretary shall provide an annual report to the
-    Appropriations Committees of the Congress on any waivers granted
-    under the Buy America requirements."
+    That the Secretary shall provide an annual report to the House and
+    Senate Committees on Appropriations on any waivers granted under
+    the Buy America requirements."
       Similar provisions were contained in the following prior
     appropriation acts:
+      Pub. L. 111-117, div. A, title I, Sec. 123, Dec. 16, 2009, 123
+    Stat. 3048.
       Pub. L. 111-8, div. I, title I, Sec. 126, Mar. 11, 2009, 123
     Stat. 928.
       Pub. L. 110-161, div. K, title I, Sec. 130, Dec. 26, 2007, 121
@@ -30298,7 +30389,7 @@
 
 
 -CITE-
-    23 USC Sec. 314                                             01/07/2011
+    23 USC Sec. 314                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30330,7 +30421,7 @@
 
 
 -CITE-
-    23 USC Sec. 315                                             01/07/2011
+    23 USC Sec. 315                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30369,7 +30460,7 @@
 
 
 -CITE-
-    23 USC Sec. 316                                             01/07/2011
+    23 USC Sec. 316                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30400,7 +30491,7 @@
 
 
 -CITE-
-    23 USC Sec. 317                                             01/07/2011
+    23 USC Sec. 317                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30456,7 +30547,7 @@
 
 
 -CITE-
-    23 USC Sec. 318                                             01/07/2011
+    23 USC Sec. 318                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30494,7 +30585,7 @@
 
 
 -CITE-
-    23 USC Sec. 319                                             01/07/2011
+    23 USC Sec. 319                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30629,7 +30720,7 @@
 
 
 -CITE-
-    23 USC Sec. 320                                             01/07/2011
+    23 USC Sec. 320                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30849,7 +30940,7 @@
 
 
 -CITE-
-    23 USC Sec. 321                                             01/07/2011
+    23 USC Sec. 321                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -30898,7 +30989,7 @@
 
 
 -CITE-
-    23 USC Sec. 322                                             01/07/2011
+    23 USC Sec. 322                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -31291,7 +31382,7 @@
 
 
 -CITE-
-    23 USC Sec. 323                                             01/07/2011
+    23 USC Sec. 323                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -31450,7 +31541,7 @@
 
 
 -CITE-
-    23 USC Sec. 324                                             01/07/2011
+    23 USC Sec. 324                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -31489,7 +31580,7 @@
 
 
 -CITE-
-    23 USC Sec. 325                                             01/07/2011
+    23 USC Sec. 325                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -31625,7 +31716,7 @@
 
 
 -CITE-
-    23 USC Sec. 326                                             01/07/2011
+    23 USC Sec. 326                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -31732,7 +31823,7 @@
 
 
 -CITE-
-    23 USC Sec. 327                                             01/07/2011
+    23 USC Sec. 327                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -31943,7 +32034,7 @@
 
 
 -CITE-
-    23 USC Sec. 328                                             01/07/2011
+    23 USC Sec. 328                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -31980,7 +32071,7 @@
 
 
 -CITE-
-    23 USC Sec. 329                                             01/07/2011
+    23 USC Sec. 329                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -32049,7 +32140,7 @@
 
 
 -CITE-
-    23 USC CHAPTER 4 - HIGHWAY SAFETY                           01/07/2011
+    23 USC CHAPTER 4 - HIGHWAY SAFETY                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -32109,7 +32200,7 @@
 
 
 -CITE-
-    23 USC Sec. 401                                             01/07/2011
+    23 USC Sec. 401                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -32731,7 +32822,7 @@
 
 
 -CITE-
-    23 USC Sec. 402                                             01/07/2011
+    23 USC Sec. 402                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -33783,12 +33874,13 @@
                     HIGH VISIBILITY ENFORCEMENT PROGRAM                
       Pub. L. 109-59, title II, Sec. 2009, Aug. 10, 2005, 119 Stat.
     1535, as amended by Pub. L. 111-147, title IV, Sec. 421(h)(1), Mar.
-    18, 2010, 124 Stat. 85, provided that:
+    18, 2010, 124 Stat. 85; Pub. L. 112-30, title I, Sec. 121(h)(1),
+    Sept. 16, 2011, 125 Stat. 347, provided that:
       "(a) In General. - The Administrator of the National Highway
     Traffic Safety Administration shall establish and administer a
     program under which at least 2 high-visibility traffic safety law
     enforcement campaigns will be carried out for the purposes
-    specified in subsection (b) in each of years 2006 through 2011.
+    specified in subsection (b) in each of years 2006 through 2012.
       "(b) Purpose. - The purpose of each law enforcement campaign
     under this section shall be to achieve either or both of the
     following objectives:
@@ -33826,7 +33918,8 @@
                             MOTORCYCLIST SAFETY                        
       Pub. L. 109-59, title II, Sec. 2010, Aug. 10, 2005, 119 Stat.
     1535, as amended by Pub. L. 111-147, title IV, Sec. 421(i)(1), Mar.
-    18, 2010, 124 Stat. 85, provided that:
+    18, 2010, 124 Stat. 85; Pub. L. 112-30, title I, Sec. 121(i)(1),
+    Sept. 16, 2011, 125 Stat. 347, provided that:
       "(a) Authority To Make Grants. - Subject to the requirements of
     this section, the Secretary [of Transportation] shall make grants
     to States that adopt and implement effective programs to reduce the
@@ -33852,9 +33945,10 @@
           "(A) for the first fiscal year for which the State will
         receive a grant under this section, at least 1 of the 6
         criteria listed in paragraph (2); and
-          "(B) for the second, third, fourth, fifth, and sixth fiscal
-        years for which the State will receive a grant under this
-        section, at least 2 of the 6 criteria listed in paragraph (2).
+          "(B) for the second, third, fourth, fifth, sixth, and seventh
+        fiscal years for which the State will receive a grant under
+        this section, at least 2 of the 6 criteria listed in paragraph
+        (2).
         "(2) Criteria. - The criteria for eligibility for a grant under
       this section are the following:
           "(A) Motorcycle rider training courses. - An effective
@@ -33969,7 +34063,8 @@
                          LAW ENFORCEMENT TRAINING                     
       Pub. L. 109-59, title II, Sec. 2017(b), Aug. 10, 2005, 119 Stat.
     1542, as amended by Pub. L. 111-147, title IV, Sec. 421(n)(2), Mar.
-    18, 2010, 124 Stat. 86, provided that:
+    18, 2010, 124 Stat. 86; Pub. L. 112-30, title I, Sec. 121(n)(2),
+    Sept. 16, 2011, 125 Stat. 348, provided that:
       "(1) Requirement for program. - The Secretary [of Transportation]
     shall carry out a program to provide guidance and support to law
     enforcement agencies in police chase techniques that are consistent
@@ -33977,7 +34072,7 @@
     Association of Chiefs of Police.
       "(2) Amount for program. - Of the funds made available to carry
     out section 403 of title 23, United States Code, the Secretary
-    shall allocate $500,000 in each of fiscal years 2006 through 2011
+    shall allocate $500,000 in each of fiscal years 2006 through 2012
     to carry out this subsection."
 
                NATIONAL BICYCLE SAFETY EDUCATION CURRICULUM           
@@ -34590,7 +34685,7 @@
 
 
 -CITE-
-    23 USC Sec. 403                                             01/07/2011
+    23 USC Sec. 403                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -34854,7 +34949,8 @@
                      DRUG-IMPAIRED DRIVING ENFORCEMENT                 
       Pub. L. 109-59, title II, Sec. 2013, Aug. 10, 2005, 119 Stat.
     1539, as amended by Pub. L. 111-147, title IV, Sec. 421(m), Mar.
-    18, 2010, 124 Stat. 86, provided that:
+    18, 2010, 124 Stat. 86; Pub. L. 112-30, title I, Sec. 121(m), Sept.
+    16, 2011, 125 Stat. 348, provided that:
       "(a) Illicit Drug. - In this section, the term 'illicit drug'
     includes substances listed in schedules I through V of section
     112(e) [202(c)] of the Controlled Substances Act (21 U.S.C. 812)
@@ -34910,7 +35006,7 @@
     title.]
       "(f) Funding. - Out of amounts made available to carry out
     section 403 of title 23, United States Code, for each of fiscal
-    years 2006 through 2011, the Secretary [of Transportation] shall
+    years 2006 through 2012, the Secretary [of Transportation] shall
     make available $1,200,000 for such fiscal year to carry out this
     section."
 
@@ -35183,7 +35279,7 @@
 
 
 -CITE-
-    23 USC Sec. 404                                             01/07/2011
+    23 USC Sec. 404                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -35325,7 +35421,7 @@
 
 
 -CITE-
-    23 USC Sec. 405                                             01/07/2011
+    23 USC Sec. 405                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -35352,7 +35448,7 @@
       in its 2 fiscal years preceding the date of enactment of the
       SAFETEA-LU.
         (3) Maximum period of eligibility. - No State may receive
-      grants under this section in more than 8 fiscal years beginning
+      grants under this section in more than 9 fiscal years beginning
       after September 30, 2003.
         (4) Federal share. - The Federal share of the cost of
       implementing and enforcing, as appropriate, in a fiscal year a
@@ -35364,9 +35460,9 @@
           (B) in each of the third and fourth fiscal years beginning
         after September 30, 2003, in which the State receives a grant
         under this section, 50 percent; and
-          (C) in each of the fifth through eighth fiscal years
-        beginning after September 30, 2003, in which the State receives
-        a grant under this section, 25 percent.
+          (C) in each of the fifth through ninth fiscal years beginning
+        after September 30, 2003, in which the State receives a grant
+        under this section, 25 percent.
 
       (b) Grant Eligibility. - A State shall become eligible for a
     grant under this section by adopting or demonstrating to the
@@ -35444,7 +35540,8 @@
     (Added Pub. L. 105-178, title II, Sec. 2003(a)(1), June 9, 1998,
     112 Stat. 325; amended Pub. L. 109-59, title II, Secs. 2002(e),
     2004, Aug. 10, 2005, 119 Stat. 1522, 1524; Pub. L. 111-147, title
-    IV, Sec. 421(c)(1), Mar. 18, 2010, 124 Stat. 84.)
+    IV, Sec. 421(c)(1), Mar. 18, 2010, 124 Stat. 84; Pub. L. 112-30,
+    title I, Sec. 121(c)(1), Sept. 16, 2011, 125 Stat. 347.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -35462,6 +35559,10 @@
     Sec. 135(c), May 5, 1976, 90 Stat. 442.
 
                                 AMENDMENTS                            
+      2011 - Subsec. (a)(3). Pub. L. 112-30, Sec. 121(c)(1)(A),
+    substituted "9" for "8".
+      Subsec. (a)(4)(C). Pub. L. 112-30, Sec. 121(c)(1)(B), substituted
+    "fifth through ninth" for "fifth through eighth".
       2010 - Subsec. (a)(3). Pub. L. 111-147, Sec. 421(c)(1)(A),
     substituted "8" for "6".
       Subsec. (a)(4)(C). Pub. L. 111-147, Sec. 421(c)(1)(B),
@@ -35490,7 +35591,8 @@
            CHILD SAFETY AND CHILD BOOSTER SEAT INCENTIVE GRANTS       
       Pub. L. 109-59, title II, Sec. 2011, Aug. 10, 2005, 119 Stat.
     1538, as amended by Pub. L. 111-147, title IV, Sec. 421(j)(1), Mar.
-    18, 2010, 124 Stat. 85, provided that:
+    18, 2010, 124 Stat. 85; Pub. L. 112-30, title I, Sec. 121(j)(1),
+    Sept. 16, 2011, 125 Stat. 348, provided that:
       "(a) General Authority. - Subject to the requirements of this
     section, the Secretary [of Transportation] shall make grants to
     States that are enforcing a law requiring that any child riding in
@@ -35512,8 +35614,8 @@
     shall not exceed - 
         "(1) for the first 3 fiscal years for which a State receives a
       grant under this section, 75 percent; and
-        "(2) for the fourth, fifth, and sixth fiscal years for which a
-      State receives a grant under this section, 50 percent.
+        "(2) for the fourth, fifth, sixth, and seventh fiscal years for
+      which a State receives a grant under this section, 50 percent.
       "(d) Use of Grant Amounts. - 
         "(1) Allocations. - Of the amounts received by a State in
       grants under this section for a fiscal year not more than 50
@@ -35618,7 +35720,7 @@
 
 
 -CITE-
-    23 USC Sec. 406                                             01/07/2011
+    23 USC Sec. 406                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -35789,7 +35891,7 @@
 
 
 -CITE-
-    23 USC Sec. 407                                             01/07/2011
+    23 USC Sec. 407                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -35843,7 +35945,7 @@
 
 
 -CITE-
-    23 USC Sec. 408                                             01/07/2011
+    23 USC Sec. 408                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -36030,7 +36132,7 @@
 
 
 -CITE-
-    23 USC Sec. 409                                             01/07/2011
+    23 USC Sec. 409                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -36085,7 +36187,7 @@
 
 
 -CITE-
-    23 USC Sec. 410                                             01/07/2011
+    23 USC Sec. 410                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -36117,8 +36219,9 @@
         State receives a grant under this section, 75 percent;
           (B) in each of the third and fourth fiscal years in which the
         State receives a grant under this section, 50 percent; and
-          (C) in each of the fifth through tenth fiscal years in which
-        the State receives a grant under this section, 25 percent.
+          (C) in each of the fifth through eleventh fiscal years in
+        which the State receives a grant under this section, 25
+        percent.
 
       (b) Eligibility Requirements. - To be eligible for a grant under
     subsection (a), a State shall - 
@@ -36131,7 +36234,7 @@
       and activities under subsection (c);
         (B) for fiscal year 2007 by carrying out 4 of the programs and
       activities under subsection (c); or
-        (C) for fiscal years 2008, 2009, 2010, and 2011 by carrying out
+        (C) for each of fiscal years 2008 through 2012 by carrying out
       5 of the programs and activities under subsection (c).
 
       (c) State Programs and Activities. - The programs and activities
@@ -36373,7 +36476,8 @@
     Sept. 30, 2004, 118 Stat. 1152; Pub. L. 109-59, title II, Sec.
     2007(a), (b), Aug. 10, 2005, 119 Stat. 1529; Pub. L. 110-244, title
     III, Sec. 303(c)(2), (3), June 6, 2008, 122 Stat. 1619; Pub. L. 111-
-    147, title IV, Sec. 421(f)(1), Mar. 18, 2010, 124 Stat. 85.)
+    147, title IV, Sec. 421(f)(1), Mar. 18, 2010, 124 Stat. 85; Pub.
+    L. 112-30, title I, Sec. 121(f)(1), Sept. 16, 2011, 125 Stat. 347.)
 
 -REFTEXT-
                             REFERENCES IN TEXT                        
@@ -36387,6 +36491,12 @@
 
 -MISC1-
                                 AMENDMENTS                            
+      2011 - Subsec. (a)(3)(C). Pub. L. 112-30, Sec. 121(f)(1)(A),
+    substituted "in each of the fifth through eleventh fiscal years"
+    for "in each of the fifth through tenth fiscal years".
+      Subsec. (b)(2)(C). Pub. L. 112-30, Sec. 121(f)(1)(B), substituted
+    "each of fiscal years 2008 through 2012" for "fiscal years 2008,
+    2009, 2010, and 2011".
       2010 - Subsec. (a)(3)(C). Pub. L. 111-147, Sec. 421(f)(1)(A),
     which directed the substitution of "fifth through tenth" for
     "fifth, sixth, seventh, and eighth", was executed by making the
@@ -36678,7 +36788,7 @@
 
 
 -CITE-
-    23 USC Sec. 411                                             01/07/2011
+    23 USC Sec. 411                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -36857,7 +36967,7 @@
 
 
 -CITE-
-    23 USC Sec. 412                                             01/07/2011
+    23 USC Sec. 412                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -36954,7 +37064,7 @@
 
 
 -CITE-
-    23 USC CHAPTER 5 - RESEARCH, TECHNOLOGY, AND EDUCATION      01/07/2011
+    23 USC CHAPTER 5 - RESEARCH, TECHNOLOGY, AND EDUCATION      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -37020,7 +37130,7 @@
 
 
 -CITE-
-    23 USC Sec. 501                                             01/07/2011
+    23 USC Sec. 501                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -37057,7 +37167,7 @@
 
 
 -CITE-
-    23 USC Sec. 502                                             01/07/2011
+    23 USC Sec. 502                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -38276,10 +38386,11 @@
     the Secretary shall submit a report to the Committee on Environment
     and Public Works of the Senate and the Committee on Transportation
     and Infrastructure and the Committee on Science [now Committee on
-    Science and Technology] of the House of Representatives identifying
-    which standards are critical to ensuring national interoperability
-    or critical to the development of other standards and specifying
-    the status of the development of each standard identified.
+    Science, Space, and Technology] of the House of Representatives
+    identifying which standards are critical to ensuring national
+    interoperability or critical to the development of other standards
+    and specifying the status of the development of each standard
+    identified.
       "(c) Provisional Standards. - 
         "(1) In general. - If the Secretary finds that the development
       or balloting of an intelligent transportation system standard
@@ -38658,7 +38769,7 @@
 
 
 -CITE-
-    23 USC Sec. 503                                             01/07/2011
+    23 USC Sec. 503                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -38987,7 +39098,7 @@
 
 
 -CITE-
-    23 USC Sec. 504                                             01/07/2011
+    23 USC Sec. 504                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -39467,7 +39578,7 @@
 
 
 -CITE-
-    23 USC Sec. 505                                             01/07/2011
+    23 USC Sec. 505                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -39598,7 +39709,7 @@
 
 
 -CITE-
-    23 USC Sec. 506                                             01/07/2011
+    23 USC Sec. 506                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -39707,7 +39818,7 @@
 
 
 -CITE-
-    23 USC Sec. 507                                             01/07/2011
+    23 USC Sec. 507                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -39798,7 +39909,7 @@
 
 
 -CITE-
-    23 USC Sec. 508                                             01/07/2011
+    23 USC Sec. 508                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -40056,7 +40167,7 @@
 
 
 -CITE-
-    23 USC Sec. 509                                             01/07/2011
+    23 USC Sec. 509                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -40195,7 +40306,7 @@
 
 
 -CITE-
-    23 USC Sec. 510                                             01/07/2011
+    23 USC Sec. 510                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -40367,7 +40478,7 @@
 
 
 -CITE-
-    23 USC Sec. 511                                             01/07/2011
+    23 USC Sec. 511                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -40417,7 +40528,7 @@
 
 
 -CITE-
-    23 USC Sec. 512                                             01/07/2011
+    23 USC Sec. 512                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -41021,7 +41132,7 @@
 
 
 -CITE-
-    23 USC Sec. 513                                             01/07/2011
+    23 USC Sec. 513                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -41061,7 +41172,7 @@
 
 
 -CITE-
-    23 USC CHAPTER 6 - INFRASTRUCTURE FINANCE                   01/07/2011
+    23 USC CHAPTER 6 - INFRASTRUCTURE FINANCE                   01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -41094,7 +41205,7 @@
 
 
 -CITE-
-    23 USC Sec. 601                                             01/07/2011
+    23 USC Sec. 601                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -41740,7 +41851,7 @@
 
 
 -CITE-
-    23 USC Sec. 602                                             01/07/2011
+    23 USC Sec. 602                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -41916,7 +42027,7 @@
 
 
 -CITE-
-    23 USC Sec. 603                                             01/07/2011
+    23 USC Sec. 603                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -42119,7 +42230,7 @@
 
 
 -CITE-
-    23 USC Sec. 604                                             01/07/2011
+    23 USC Sec. 604                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -42272,7 +42383,7 @@
 
 
 -CITE-
-    23 USC Sec. 605                                             01/07/2011
+    23 USC Sec. 605                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -42334,7 +42445,7 @@
 
 
 -CITE-
-    23 USC Sec. 606                                             01/07/2011
+    23 USC Sec. 606                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -42374,7 +42485,7 @@
 
 
 -CITE-
-    23 USC Sec. 607                                             01/07/2011
+    23 USC Sec. 607                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -42405,7 +42516,7 @@
 
 
 -CITE-
-    23 USC Sec. 608                                             01/07/2011
+    23 USC Sec. 608                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -42603,7 +42714,7 @@
 
 
 -CITE-
-    23 USC Sec. 609                                             01/07/2011
+    23 USC Sec. 609                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS
@@ -42651,7 +42762,7 @@
 
 
 -CITE-
-    23 USC Sec. 610                                             01/07/2011
+    23 USC Sec. 610                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 23 - HIGHWAYS

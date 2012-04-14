@@ -1,5 +1,5 @@
 -CITE-
-    40 USC TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS     01/07/2011
+    40 USC TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -1104,7 +1104,7 @@
 
 -CITE-
     40 USC SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE
-           SERVICES                                        01/07/2011
+           SERVICES                                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -1127,12 +1127,12 @@
 
 
 -CITE-
-    40 USC CHAPTER 1 - GENERAL                               01/07/2011
+    40 USC CHAPTER 1 (!1) - GENERAL                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 1 - GENERAL
+    CHAPTER 1 (!1) - GENERAL
 
 -HEAD-
                           CHAPTER 1(!1) - GENERAL                      
@@ -1175,12 +1175,12 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER I - PURPOSE AND DEFINITIONS               01/07/2011
+    40 USC SUBCHAPTER I - PURPOSE AND DEFINITIONS               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 1 - GENERAL
+    CHAPTER 1 (!1) - GENERAL
     SUBCHAPTER I - PURPOSE AND DEFINITIONS
 
 -HEAD-
@@ -1191,12 +1191,12 @@
 
 
 -CITE-
-    40 USC Sec. 101                                             01/07/2011
+    40 USC Sec. 101                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 1 - GENERAL
+    CHAPTER 1 (!1) - GENERAL
     SUBCHAPTER I - PURPOSE AND DEFINITIONS
 
 -HEAD-
@@ -1290,12 +1290,12 @@
 
 
 -CITE-
-    40 USC Sec. 102                                             01/07/2011
+    40 USC Sec. 102                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 1 - GENERAL
+    CHAPTER 1 (!1) - GENERAL
     SUBCHAPTER I - PURPOSE AND DEFINITIONS
 
 -HEAD-
@@ -1445,12 +1445,12 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER II - SCOPE                                01/07/2011
+    40 USC SUBCHAPTER II - SCOPE                                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 1 - GENERAL
+    CHAPTER 1 (!1) - GENERAL
     SUBCHAPTER II - SCOPE
 
 -HEAD-
@@ -1461,12 +1461,12 @@
 
 
 -CITE-
-    40 USC Sec. 111                                             01/07/2011
+    40 USC Sec. 111                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 1 - GENERAL
+    CHAPTER 1 (!1) - GENERAL
     SUBCHAPTER II - SCOPE
 
 -HEAD-
@@ -1548,12 +1548,12 @@
 
 
 -CITE-
-    40 USC Sec. 112                                             01/07/2011
+    40 USC Sec. 112                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 1 - GENERAL
+    CHAPTER 1 (!1) - GENERAL
     SUBCHAPTER II - SCOPE
 
 -HEAD-
@@ -1661,12 +1661,12 @@
 
 
 -CITE-
-    40 USC Sec. 113                                             01/07/2011
+    40 USC Sec. 113                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 1 - GENERAL
+    CHAPTER 1 (!1) - GENERAL
     SUBCHAPTER II - SCOPE
 
 -HEAD-
@@ -2052,12 +2052,12 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER III - ADMINISTRATIVE AND GENERAL          01/07/2011
+    40 USC SUBCHAPTER III - ADMINISTRATIVE AND GENERAL          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 1 - GENERAL
+    CHAPTER 1 (!1) - GENERAL
     SUBCHAPTER III - ADMINISTRATIVE AND GENERAL
 
 -HEAD-
@@ -2068,12 +2068,12 @@
 
 
 -CITE-
-    40 USC Sec. 121                                             01/07/2011
+    40 USC Sec. 121                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 1 - GENERAL
+    CHAPTER 1 (!1) - GENERAL
     SUBCHAPTER III - ADMINISTRATIVE AND GENERAL
 
 -HEAD-
@@ -2978,12 +2978,12 @@
 
 
 -CITE-
-    40 USC Sec. 122                                             01/07/2011
+    40 USC Sec. 122                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 1 - GENERAL
+    CHAPTER 1 (!1) - GENERAL
     SUBCHAPTER III - ADMINISTRATIVE AND GENERAL
 
 -HEAD-
@@ -3035,12 +3035,12 @@
 
 
 -CITE-
-    40 USC Sec. 123                                             01/07/2011
+    40 USC Sec. 123                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 1 - GENERAL
+    CHAPTER 1 (!1) - GENERAL
     SUBCHAPTER III - ADMINISTRATIVE AND GENERAL
 
 -HEAD-
@@ -3156,12 +3156,12 @@
 
 
 -CITE-
-    40 USC Sec. 124                                             01/07/2011
+    40 USC Sec. 124                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 1 - GENERAL
+    CHAPTER 1 (!1) - GENERAL
     SUBCHAPTER III - ADMINISTRATIVE AND GENERAL
 
 -HEAD-
@@ -3216,12 +3216,12 @@
 
 
 -CITE-
-    40 USC Sec. 125                                             01/07/2011
+    40 USC Sec. 125                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 1 - GENERAL
+    CHAPTER 1 (!1) - GENERAL
     SUBCHAPTER III - ADMINISTRATIVE AND GENERAL
 
 -HEAD-
@@ -3265,12 +3265,12 @@
 
 
 -CITE-
-    40 USC Sec. 126                                             01/07/2011
+    40 USC Sec. 126                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 1 - GENERAL
+    CHAPTER 1 (!1) - GENERAL
     SUBCHAPTER III - ADMINISTRATIVE AND GENERAL
 
 -HEAD-
@@ -3313,13 +3313,13 @@
 
 
 -CITE-
-    40 USC CHAPTER 3 - ORGANIZATION OF GENERAL SERVICES
-           ADMINISTRATION                                  01/07/2011
+    40 USC CHAPTER 3(!1) - ORGANIZATION OF GENERAL SERVICES
+           ADMINISTRATION                                  01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 3 - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
+    CHAPTER 3(!1) - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
 
 -HEAD-
       CHAPTER 3(!1) - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION  
@@ -3369,12 +3369,12 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER I - GENERAL                               01/07/2011
+    40 USC SUBCHAPTER I - GENERAL                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 3 - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
+    CHAPTER 3(!1) - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
     SUBCHAPTER I - GENERAL
 
 -HEAD-
@@ -3385,12 +3385,12 @@
 
 
 -CITE-
-    40 USC Sec. 301                                             01/07/2011
+    40 USC Sec. 301                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 3 - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
+    CHAPTER 3(!1) - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
     SUBCHAPTER I - GENERAL
 
 -HEAD-
@@ -3762,17 +3762,24 @@
     other person.
                                                            Barack Obama.
 
+        EXTENSION OF TERM OF PRESIDENT'S MANAGEMENT ADVISORY BOARD    
+      Term of the President's Management Advisory Board extended until
+    Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R.
+    74623, set out as a note under section 14 of the Federal Advisory
+    Committee Act in the Appendix to Title 5, Government Organization
+    and Employees.
+
 -End-
 
 
 
 -CITE-
-    40 USC Sec. 302                                             01/07/2011
+    40 USC Sec. 302                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 3 - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
+    CHAPTER 3(!1) - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
     SUBCHAPTER I - GENERAL
 
 -HEAD-
@@ -3815,12 +3822,12 @@
 
 
 -CITE-
-    40 USC Sec. 303                                             01/07/2011
+    40 USC Sec. 303                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 3 - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
+    CHAPTER 3(!1) - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
     SUBCHAPTER I - GENERAL
 
 -HEAD-
@@ -3946,12 +3953,12 @@
 
 
 -CITE-
-    40 USC Sec. 304                                             01/07/2011
+    40 USC Sec. 304                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 3 - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
+    CHAPTER 3(!1) - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
     SUBCHAPTER I - GENERAL
 
 -HEAD-
@@ -3993,12 +4000,12 @@
 
 
 -CITE-
-    40 USC Sec. 305                                             01/07/2011
+    40 USC Sec. 305                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 3 - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
+    CHAPTER 3(!1) - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
     SUBCHAPTER I - GENERAL
 
 -HEAD-
@@ -4026,12 +4033,12 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER II - ADMINISTRATIVE                       01/07/2011
+    40 USC SUBCHAPTER II - ADMINISTRATIVE                       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 3 - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
+    CHAPTER 3(!1) - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
     SUBCHAPTER II - ADMINISTRATIVE
 
 -HEAD-
@@ -4042,12 +4049,12 @@
 
 
 -CITE-
-    40 USC Sec. 311                                             01/07/2011
+    40 USC Sec. 311                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 3 - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
+    CHAPTER 3(!1) - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
     SUBCHAPTER II - ADMINISTRATIVE
 
 -HEAD-
@@ -4169,12 +4176,12 @@
 
 
 -CITE-
-    40 USC Sec. 312                                             01/07/2011
+    40 USC Sec. 312                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 3 - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
+    CHAPTER 3(!1) - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
     SUBCHAPTER II - ADMINISTRATIVE
 
 -HEAD-
@@ -4191,12 +4198,12 @@
 
 
 -CITE-
-    40 USC Sec. 313                                             01/07/2011
+    40 USC Sec. 313                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 3 - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
+    CHAPTER 3(!1) - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
     SUBCHAPTER II - ADMINISTRATIVE
 
 -HEAD-
@@ -4266,12 +4273,12 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER III - FUNDS                               01/07/2011
+    40 USC SUBCHAPTER III - FUNDS                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 3 - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
+    CHAPTER 3(!1) - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
     SUBCHAPTER III - FUNDS
 
 -HEAD-
@@ -4282,12 +4289,12 @@
 
 
 -CITE-
-    40 USC Sec. 321                                             01/07/2011
+    40 USC Sec. 321                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 3 - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
+    CHAPTER 3(!1) - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
     SUBCHAPTER III - FUNDS
 
 -HEAD-
@@ -4563,12 +4570,12 @@
 
 
 -CITE-
-    40 USC Sec. 322                                             01/07/2011
+    40 USC Sec. 322                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 3 - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
+    CHAPTER 3(!1) - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
     SUBCHAPTER III - FUNDS
 
 -HEAD-
@@ -4591,12 +4598,12 @@
 
 
 -CITE-
-    40 USC Sec. 323                                             01/07/2011
+    40 USC Sec. 323                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE I - FEDERAL PROPERTY AND ADMINISTRATIVE SERVICES
-    CHAPTER 3 - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
+    CHAPTER 3(!1) - ORGANIZATION OF GENERAL SERVICES ADMINISTRATION
     SUBCHAPTER III - FUNDS
 
 -HEAD-
@@ -4689,7 +4696,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 5 - PROPERTY MANAGEMENT                      01/07/2011
+    40 USC CHAPTER 5 - PROPERTY MANAGEMENT                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -4792,7 +4799,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER I - PROCUREMENT AND WAREHOUSING           01/07/2011
+    40 USC SUBCHAPTER I - PROCUREMENT AND WAREHOUSING           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -4808,7 +4815,7 @@
 
 
 -CITE-
-    40 USC Sec. 501                                             01/07/2011
+    40 USC Sec. 501                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -4928,7 +4935,7 @@
 
 
 -CITE-
-    40 USC Sec. 502                                             01/07/2011
+    40 USC Sec. 502                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -5170,7 +5177,7 @@
 
 
 -CITE-
-    40 USC Sec. 503                                             01/07/2011
+    40 USC Sec. 503                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -5255,7 +5262,7 @@
 
 
 -CITE-
-    40 USC Sec. 504                                             01/07/2011
+    40 USC Sec. 504                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -5312,7 +5319,7 @@
 
 
 -CITE-
-    40 USC Sec. 505                                             01/07/2011
+    40 USC Sec. 505                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -5387,7 +5394,7 @@
 
 
 -CITE-
-    40 USC Sec. 506                                             01/07/2011
+    40 USC Sec. 506                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -5514,7 +5521,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER II - USE OF PROPERTY                      01/07/2011
+    40 USC SUBCHAPTER II - USE OF PROPERTY                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -5530,7 +5537,7 @@
 
 
 -CITE-
-    40 USC Sec. 521                                             01/07/2011
+    40 USC Sec. 521                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -5723,7 +5730,7 @@
 
 
 -CITE-
-    40 USC Sec. 522                                             01/07/2011
+    40 USC Sec. 522                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -5820,7 +5827,7 @@
 
 
 -CITE-
-    40 USC Sec. 523                                             01/07/2011
+    40 USC Sec. 523                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -5880,7 +5887,7 @@
 
 
 -CITE-
-    40 USC Sec. 524                                             01/07/2011
+    40 USC Sec. 524                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -5968,7 +5975,7 @@
 
 
 -CITE-
-    40 USC Sec. 525                                             01/07/2011
+    40 USC Sec. 525                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -6127,7 +6134,7 @@
 
 
 -CITE-
-    40 USC Sec. 526                                             01/07/2011
+    40 USC Sec. 526                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -6177,7 +6184,7 @@
 
 
 -CITE-
-    40 USC Sec. 527                                             01/07/2011
+    40 USC Sec. 527                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -6219,7 +6226,7 @@
 
 
 -CITE-
-    40 USC Sec. 528                                             01/07/2011
+    40 USC Sec. 528                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -6265,7 +6272,7 @@
 
 
 -CITE-
-    40 USC Sec. 529                                             01/07/2011
+    40 USC Sec. 529                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -6331,7 +6338,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER III - DISPOSING OF PROPERTY               01/07/2011
+    40 USC SUBCHAPTER III - DISPOSING OF PROPERTY               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -6347,7 +6354,7 @@
 
 
 -CITE-
-    40 USC Sec. 541                                             01/07/2011
+    40 USC Sec. 541                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -6410,7 +6417,7 @@
 
 
 -CITE-
-    40 USC Sec. 542                                             01/07/2011
+    40 USC Sec. 542                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -6451,7 +6458,7 @@
 
 
 -CITE-
-    40 USC Sec. 543                                             01/07/2011
+    40 USC Sec. 543                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -6495,7 +6502,7 @@
 
 
 -CITE-
-    40 USC Sec. 544                                             01/07/2011
+    40 USC Sec. 544                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -6537,7 +6544,7 @@
 
 
 -CITE-
-    40 USC Sec. 545                                             01/07/2011
+    40 USC Sec. 545                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -6719,7 +6726,7 @@
 
 
 -CITE-
-    40 USC Sec. 546                                             01/07/2011
+    40 USC Sec. 546                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -6758,7 +6765,7 @@
 
 
 -CITE-
-    40 USC Sec. 547                                             01/07/2011
+    40 USC Sec. 547                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -6823,7 +6830,7 @@
 
 
 -CITE-
-    40 USC Sec. 548                                             01/07/2011
+    40 USC Sec. 548                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -6872,7 +6879,7 @@
 
 
 -CITE-
-    40 USC Sec. 549                                             01/07/2011
+    40 USC Sec. 549                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -7395,7 +7402,7 @@
 
 
 -CITE-
-    40 USC Sec. 550                                             01/07/2011
+    40 USC Sec. 550                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -7776,7 +7783,7 @@
 
 
 -CITE-
-    40 USC Sec. 551                                             01/07/2011
+    40 USC Sec. 551                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -7819,7 +7826,7 @@
 
 
 -CITE-
-    40 USC Sec. 552                                             01/07/2011
+    40 USC Sec. 552                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -7881,7 +7888,7 @@
 
 
 -CITE-
-    40 USC Sec. 553                                             01/07/2011
+    40 USC Sec. 553                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -8029,7 +8036,7 @@
 
 
 -CITE-
-    40 USC Sec. 554                                             01/07/2011
+    40 USC Sec. 554                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -8167,7 +8174,7 @@
 
 
 -CITE-
-    40 USC Sec. 555                                             01/07/2011
+    40 USC Sec. 555                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -8211,7 +8218,7 @@
 
 
 -CITE-
-    40 USC Sec. 556                                             01/07/2011
+    40 USC Sec. 556                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -8288,7 +8295,7 @@
 
 
 -CITE-
-    40 USC Sec. 557                                             01/07/2011
+    40 USC Sec. 557                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -8332,7 +8339,7 @@
 
 
 -CITE-
-    40 USC Sec. 558                                             01/07/2011
+    40 USC Sec. 558                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -8412,7 +8419,7 @@
 
 
 -CITE-
-    40 USC Sec. 559                                             01/07/2011
+    40 USC Sec. 559                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -8524,7 +8531,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER IV - PROCEEDS FROM SALE OR TRANSFER       01/07/2011
+    40 USC SUBCHAPTER IV - PROCEEDS FROM SALE OR TRANSFER       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -8540,7 +8547,7 @@
 
 
 -CITE-
-    40 USC Sec. 571                                             01/07/2011
+    40 USC Sec. 571                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -8610,7 +8617,7 @@
 
 
 -CITE-
-    40 USC Sec. 572                                             01/07/2011
+    40 USC Sec. 572                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -8801,7 +8808,7 @@
 
 
 -CITE-
-    40 USC Sec. 573                                             01/07/2011
+    40 USC Sec. 573                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -8861,7 +8868,7 @@
 
 
 -CITE-
-    40 USC Sec. 574                                             01/07/2011
+    40 USC Sec. 574                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -8991,7 +8998,7 @@
 
 -CITE-
     40 USC SUBCHAPTER V - OPERATION OF BUILDINGS AND RELATED
-           ACTIVITIES                                      01/07/2011
+           ACTIVITIES                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -9007,7 +9014,7 @@
 
 
 -CITE-
-    40 USC Sec. 581                                             01/07/2011
+    40 USC Sec. 581                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -9424,7 +9431,7 @@
 
 
 -CITE-
-    40 USC Sec. 582                                             01/07/2011
+    40 USC Sec. 582                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -9538,7 +9545,7 @@
 
 
 -CITE-
-    40 USC Sec. 583                                             01/07/2011
+    40 USC Sec. 583                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -9608,7 +9615,7 @@
 
 
 -CITE-
-    40 USC Sec. 584                                             01/07/2011
+    40 USC Sec. 584                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -9725,7 +9732,7 @@
 
 
 -CITE-
-    40 USC Sec. 585                                             01/07/2011
+    40 USC Sec. 585                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -9833,7 +9840,7 @@
 
 
 -CITE-
-    40 USC Sec. 586                                             01/07/2011
+    40 USC Sec. 586                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -9938,7 +9945,7 @@
 
 
 -CITE-
-    40 USC Sec. 587                                             01/07/2011
+    40 USC Sec. 587                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -10066,7 +10073,7 @@
 
 
 -CITE-
-    40 USC Sec. 588                                             01/07/2011
+    40 USC Sec. 588                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -10154,7 +10161,7 @@
 
 
 -CITE-
-    40 USC Sec. 589                                             01/07/2011
+    40 USC Sec. 589                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -10232,7 +10239,7 @@
 
 
 -CITE-
-    40 USC Sec. 590                                             01/07/2011
+    40 USC Sec. 590                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -10418,7 +10425,7 @@
 
 
 -CITE-
-    40 USC Sec. 591                                             01/07/2011
+    40 USC Sec. 591                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -10494,7 +10501,7 @@
 
 
 -CITE-
-    40 USC Sec. 592                                             01/07/2011
+    40 USC Sec. 592                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -10692,7 +10699,7 @@
 
 
 -CITE-
-    40 USC Sec. 593                                             01/07/2011
+    40 USC Sec. 593                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -10760,7 +10767,7 @@
 
 -CITE-
     40 USC SUBCHAPTER VI - MOTOR VEHICLE POOLS AND
-           TRANSPORTATION SYSTEMS                          01/07/2011
+           TRANSPORTATION SYSTEMS                          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -10776,7 +10783,7 @@
 
 
 -CITE-
-    40 USC Sec. 601                                             01/07/2011
+    40 USC Sec. 601                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -11045,7 +11052,7 @@
 
 
 -CITE-
-    40 USC Sec. 602                                             01/07/2011
+    40 USC Sec. 602                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -11126,7 +11133,7 @@
 
 
 -CITE-
-    40 USC Sec. 603                                             01/07/2011
+    40 USC Sec. 603                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -11205,7 +11212,7 @@
 
 
 -CITE-
-    40 USC Sec. 604                                             01/07/2011
+    40 USC Sec. 604                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -11282,7 +11289,7 @@
 
 
 -CITE-
-    40 USC Sec. 605                                             01/07/2011
+    40 USC Sec. 605                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -11361,7 +11368,7 @@
 
 
 -CITE-
-    40 USC Sec. 606                                             01/07/2011
+    40 USC Sec. 606                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -11426,7 +11433,7 @@
 
 
 -CITE-
-    40 USC Sec. 607                                             01/07/2011
+    40 USC Sec. 607                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -11470,7 +11477,7 @@
 
 
 -CITE-
-    40 USC Sec. 608                                             01/07/2011
+    40 USC Sec. 608                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -11513,7 +11520,7 @@
 
 
 -CITE-
-    40 USC Sec. 609                                             01/07/2011
+    40 USC Sec. 609                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -11571,7 +11578,7 @@
 
 
 -CITE-
-    40 USC Sec. 610                                             01/07/2011
+    40 USC Sec. 610                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -11622,7 +11629,7 @@
 
 
 -CITE-
-    40 USC Sec. 611                                             01/07/2011
+    40 USC Sec. 611                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -11685,7 +11692,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 7 - FOREIGN EXCESS PROPERTY                  01/07/2011
+    40 USC CHAPTER 7 - FOREIGN EXCESS PROPERTY                  01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -11709,7 +11716,7 @@
 
 
 -CITE-
-    40 USC Sec. 701                                             01/07/2011
+    40 USC Sec. 701                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -11871,7 +11878,7 @@
 
 
 -CITE-
-    40 USC Sec. 702                                             01/07/2011
+    40 USC Sec. 702                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -11923,7 +11930,7 @@
 
 
 -CITE-
-    40 USC Sec. 703                                             01/07/2011
+    40 USC Sec. 703                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -11977,7 +11984,7 @@
 
 
 -CITE-
-    40 USC Sec. 704                                             01/07/2011
+    40 USC Sec. 704                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -12048,7 +12055,7 @@
 
 
 -CITE-
-    40 USC Sec. 705                                             01/07/2011
+    40 USC Sec. 705                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -12115,7 +12122,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 9 - URBAN LAND USE                           01/07/2011
+    40 USC CHAPTER 9 - URBAN LAND USE                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -12138,7 +12145,7 @@
 
 
 -CITE-
-    40 USC Sec. 901                                             01/07/2011
+    40 USC Sec. 901                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -12185,7 +12192,7 @@
 
 
 -CITE-
-    40 USC Sec. 902                                             01/07/2011
+    40 USC Sec. 902                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -12242,7 +12249,7 @@
 
 
 -CITE-
-    40 USC Sec. 903                                             01/07/2011
+    40 USC Sec. 903                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -12299,7 +12306,7 @@
 
 
 -CITE-
-    40 USC Sec. 904                                             01/07/2011
+    40 USC Sec. 904                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -12388,7 +12395,7 @@
 
 
 -CITE-
-    40 USC Sec. 905                                             01/07/2011
+    40 USC Sec. 905                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -12427,7 +12434,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 11 - SELECTION OF ARCHITECTS AND ENGINEERS    01/07/2011 
+    40 USC CHAPTER 11 - SELECTION OF ARCHITECTS AND ENGINEERS   01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -12449,7 +12456,7 @@
 
 
 -CITE-
-    40 USC Sec. 1101                                            01/07/2011
+    40 USC Sec. 1101                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -12493,7 +12500,7 @@
 
 
 -CITE-
-    40 USC Sec. 1102                                            01/07/2011
+    40 USC Sec. 1102                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -12565,7 +12572,7 @@
 
 
 -CITE-
-    40 USC Sec. 1103                                            01/07/2011
+    40 USC Sec. 1103                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -12642,7 +12649,7 @@
 
 
 -CITE-
-    40 USC Sec. 1104                                            01/07/2011
+    40 USC Sec. 1104                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -12695,7 +12702,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 13 - PUBLIC PROPERTY                         01/07/2011
+    40 USC CHAPTER 13 - PUBLIC PROPERTY                         01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -12737,7 +12744,7 @@
 
 
 -CITE-
-    40 USC Sec. 1301                                            01/07/2011
+    40 USC Sec. 1301                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -12802,7 +12809,7 @@
 
 
 -CITE-
-    40 USC Sec. 1302                                            01/07/2011
+    40 USC Sec. 1302                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -12845,7 +12852,7 @@
 
 
 -CITE-
-    40 USC Sec. 1303                                            01/07/2011
+    40 USC Sec. 1303                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -13037,7 +13044,7 @@
 
 
 -CITE-
-    40 USC Sec. 1304                                            01/07/2011
+    40 USC Sec. 1304                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -13142,7 +13149,7 @@
 
 
 -CITE-
-    40 USC Sec. 1305                                            01/07/2011
+    40 USC Sec. 1305                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -13198,7 +13205,7 @@
 
 
 -CITE-
-    40 USC Sec. 1306                                            01/07/2011
+    40 USC Sec. 1306                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -13416,7 +13423,7 @@
 
 
 -CITE-
-    40 USC Sec. 1307                                            01/07/2011
+    40 USC Sec. 1307                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -13489,7 +13496,7 @@
 
 
 -CITE-
-    40 USC Sec. 1308                                            01/07/2011
+    40 USC Sec. 1308                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -13547,7 +13554,7 @@
 
 
 -CITE-
-    40 USC Sec. 1309                                            01/07/2011
+    40 USC Sec. 1309                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -13607,7 +13614,7 @@
 
 
 -CITE-
-    40 USC Sec. 1310                                            01/07/2011
+    40 USC Sec. 1310                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -13681,7 +13688,7 @@
 
 
 -CITE-
-    40 USC Sec. 1311                                            01/07/2011
+    40 USC Sec. 1311                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -13718,7 +13725,7 @@
 
 
 -CITE-
-    40 USC Sec. 1312                                            01/07/2011
+    40 USC Sec. 1312                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -13783,7 +13790,7 @@
 
 
 -CITE-
-    40 USC Sec. 1313                                            01/07/2011
+    40 USC Sec. 1313                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -13876,7 +13883,7 @@
 
 
 -CITE-
-    40 USC Sec. 1314                                            01/07/2011
+    40 USC Sec. 1314                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -14010,7 +14017,7 @@
 
 
 -CITE-
-    40 USC Sec. 1315                                            01/07/2011
+    40 USC Sec. 1315                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -14332,7 +14339,7 @@
 
 
 -CITE-
-    40 USC SUBTITLE II - PUBLIC BUILDINGS AND WORKS             01/07/2011
+    40 USC SUBTITLE II - PUBLIC BUILDINGS AND WORKS             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -14377,7 +14384,7 @@
 
 
 -CITE-
-    40 USC PART A - GENERAL                                     01/07/2011
+    40 USC PART A - GENERAL                                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -14391,7 +14398,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 31 - GENERAL                                 01/07/2011
+    40 USC CHAPTER 31 - GENERAL                                 01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -14483,7 +14490,7 @@
 
 -CITE-
     40 USC SUBCHAPTER I - OVERSIGHT AND REGULATION OF PUBLIC
-           BUILDINGS                                       01/07/2011
+           BUILDINGS                                       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -14500,7 +14507,7 @@
 
 
 -CITE-
-    40 USC Sec. 3101                                            01/07/2011
+    40 USC Sec. 3101                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -14580,7 +14587,7 @@
 
 
 -CITE-
-    40 USC Sec. 3102                                            01/07/2011
+    40 USC Sec. 3102                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -14624,7 +14631,7 @@
 
 
 -CITE-
-    40 USC Sec. 3103                                            01/07/2011
+    40 USC Sec. 3103                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -14686,7 +14693,7 @@
 
 
 -CITE-
-    40 USC Sec. 3104                                            01/07/2011
+    40 USC Sec. 3104                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -14735,7 +14742,7 @@
 
 
 -CITE-
-    40 USC Sec. 3105                                            01/07/2011
+    40 USC Sec. 3105                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -14774,7 +14781,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER II - ACQUIRING LAND                       01/07/2011
+    40 USC SUBCHAPTER II - ACQUIRING LAND                       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -14791,7 +14798,7 @@
 
 
 -CITE-
-    40 USC Sec. 3111                                            01/07/2011
+    40 USC Sec. 3111                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -14870,7 +14877,7 @@
 
 
 -CITE-
-    40 USC Sec. 3112                                            01/07/2011
+    40 USC Sec. 3112                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -14936,7 +14943,7 @@
 
 
 -CITE-
-    40 USC Sec. 3113                                            01/07/2011
+    40 USC Sec. 3113                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -14986,7 +14993,7 @@
 
 
 -CITE-
-    40 USC Sec. 3114                                            01/07/2011
+    40 USC Sec. 3114                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -15106,7 +15113,7 @@
 
 
 -CITE-
-    40 USC Sec. 3115                                            01/07/2011
+    40 USC Sec. 3115                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -15168,7 +15175,7 @@
 
 
 -CITE-
-    40 USC Sec. 3116                                            01/07/2011
+    40 USC Sec. 3116                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -15234,7 +15241,7 @@
 
 
 -CITE-
-    40 USC Sec. 3117                                            01/07/2011
+    40 USC Sec. 3117                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -15278,7 +15285,7 @@
 
 
 -CITE-
-    40 USC Sec. 3118                                            01/07/2011
+    40 USC Sec. 3118                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -15323,7 +15330,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER III - BONDS                               01/07/2011
+    40 USC SUBCHAPTER III - BONDS                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -15340,7 +15347,7 @@
 
 
 -CITE-
-    40 USC Sec. 3131                                            01/07/2011
+    40 USC Sec. 3131                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -15469,7 +15476,7 @@
 
 
 -CITE-
-    40 USC Sec. 3132                                            01/07/2011
+    40 USC Sec. 3132                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -15522,7 +15529,7 @@
 
 
 -CITE-
-    40 USC Sec. 3133                                            01/07/2011
+    40 USC Sec. 3133                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -15659,7 +15666,7 @@
 
 
 -CITE-
-    40 USC Sec. 3134                                            01/07/2011
+    40 USC Sec. 3134                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -15758,7 +15765,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER IV - WAGE RATE REQUIREMENTS               01/07/2011
+    40 USC SUBCHAPTER IV - WAGE RATE REQUIREMENTS               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -15775,7 +15782,7 @@
 
 
 -CITE-
-    40 USC Sec. 3141                                            01/07/2011
+    40 USC Sec. 3141                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -15860,7 +15867,7 @@
 
 
 -CITE-
-    40 USC Sec. 3142                                            01/07/2011
+    40 USC Sec. 3142                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -15994,7 +16001,7 @@
 
 
 -CITE-
-    40 USC Sec. 3143                                            01/07/2011
+    40 USC Sec. 3143                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -16046,7 +16053,7 @@
 
 
 -CITE-
-    40 USC Sec. 3144                                            01/07/2011
+    40 USC Sec. 3144                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -16117,7 +16124,7 @@
 
 
 -CITE-
-    40 USC Sec. 3145                                            01/07/2011
+    40 USC Sec. 3145                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -16169,7 +16176,7 @@
 
 
 -CITE-
-    40 USC Sec. 3146                                            01/07/2011
+    40 USC Sec. 3146                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -16209,7 +16216,7 @@
 
 
 -CITE-
-    40 USC Sec. 3147                                            01/07/2011
+    40 USC Sec. 3147                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -16257,7 +16264,7 @@
 
 
 -CITE-
-    40 USC Sec. 3148                                            01/07/2011
+    40 USC Sec. 3148                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -16308,7 +16315,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER V - VOLUNTEER SERVICES                    01/07/2011
+    40 USC SUBCHAPTER V - VOLUNTEER SERVICES                    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -16325,7 +16332,7 @@
 
 
 -CITE-
-    40 USC Sec. 3161                                            01/07/2011
+    40 USC Sec. 3161                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -16370,7 +16377,7 @@
 
 
 -CITE-
-    40 USC Sec. 3162                                            01/07/2011
+    40 USC Sec. 3162                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -16513,7 +16520,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER VI - MISCELLANEOUS                        01/07/2011
+    40 USC SUBCHAPTER VI - MISCELLANEOUS                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -16530,7 +16537,7 @@
 
 
 -CITE-
-    40 USC Sec. 3171                                            01/07/2011
+    40 USC Sec. 3171                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -16583,7 +16590,7 @@
 
 
 -CITE-
-    40 USC Sec. 3172                                            01/07/2011
+    40 USC Sec. 3172                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -16653,7 +16660,7 @@
 
 
 -CITE-
-    40 USC Sec. 3173                                            01/07/2011
+    40 USC Sec. 3173                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -16778,7 +16785,7 @@
 
 
 -CITE-
-    40 USC Sec. 3174                                            01/07/2011
+    40 USC Sec. 3174                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -16833,7 +16840,7 @@
 
 
 -CITE-
-    40 USC Sec. 3175                                            01/07/2011
+    40 USC Sec. 3175                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -16882,7 +16889,7 @@
 
 
 -CITE-
-    40 USC Sec. 3176                                            01/07/2011
+    40 USC Sec. 3176                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -16936,7 +16943,7 @@
 
 
 -CITE-
-    40 USC Sec. 3177                                            01/07/2011
+    40 USC Sec. 3177                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -17028,7 +17035,7 @@
 
 -CITE-
     40 USC CHAPTER 33 - ACQUISITION, CONSTRUCTION, AND
-           ALTERATION                                      01/07/2011
+           ALTERATION                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -17072,7 +17079,7 @@
 
 
 -CITE-
-    40 USC Sec. 3301                                            01/07/2011
+    40 USC Sec. 3301                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -17235,7 +17242,7 @@
 
 
 -CITE-
-    40 USC Sec. 3302                                            01/07/2011
+    40 USC Sec. 3302                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -17274,7 +17281,7 @@
 
 
 -CITE-
-    40 USC Sec. 3303                                            01/07/2011
+    40 USC Sec. 3303                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -17380,7 +17387,7 @@
 
 
 -CITE-
-    40 USC Sec. 3304                                            01/07/2011
+    40 USC Sec. 3304                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -17471,7 +17478,7 @@
 
 
 -CITE-
-    40 USC Sec. 3305                                            01/07/2011
+    40 USC Sec. 3305                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -17591,7 +17598,7 @@
 
 
 -CITE-
-    40 USC Sec. 3306                                            01/07/2011
+    40 USC Sec. 3306                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -17799,7 +17806,7 @@
 
 
 -CITE-
-    40 USC Sec. 3307                                            01/07/2011
+    40 USC Sec. 3307                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -17995,7 +18002,7 @@
 
 
 -CITE-
-    40 USC Sec. 3308                                            01/07/2011
+    40 USC Sec. 3308                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -18064,7 +18071,7 @@
 
 
 -CITE-
-    40 USC Sec. 3309                                            01/07/2011
+    40 USC Sec. 3309                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -18163,7 +18170,7 @@
 
 
 -CITE-
-    40 USC Sec. 3310                                            01/07/2011
+    40 USC Sec. 3310                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -18239,7 +18246,7 @@
 
 
 -CITE-
-    40 USC Sec. 3311                                            01/07/2011
+    40 USC Sec. 3311                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -18291,7 +18298,7 @@
 
 
 -CITE-
-    40 USC Sec. 3312                                            01/07/2011
+    40 USC Sec. 3312                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -18419,7 +18426,7 @@
 
 
 -CITE-
-    40 USC Sec. 3313                                            01/07/2011
+    40 USC Sec. 3313                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -18529,7 +18536,7 @@
 
 
 -CITE-
-    40 USC Sec. 3314                                            01/07/2011
+    40 USC Sec. 3314                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -18606,7 +18613,7 @@
 
 
 -CITE-
-    40 USC Sec. 3315                                            01/07/2011
+    40 USC Sec. 3315                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -18690,7 +18697,7 @@
 
 
 -CITE-
-    40 USC Sec. 3316                                            01/07/2011
+    40 USC Sec. 3316                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -18742,7 +18749,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 35 - NON-FEDERAL PUBLIC WORKS                01/07/2011
+    40 USC CHAPTER 35 - NON-FEDERAL PUBLIC WORKS                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -18766,7 +18773,7 @@
 
 
 -CITE-
-    40 USC Sec. 3501                                            01/07/2011
+    40 USC Sec. 3501                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -18828,7 +18835,7 @@
 
 
 -CITE-
-    40 USC Sec. 3502                                            01/07/2011
+    40 USC Sec. 3502                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -18930,7 +18937,7 @@
 
 
 -CITE-
-    40 USC Sec. 3503                                            01/07/2011
+    40 USC Sec. 3503                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -18997,7 +19004,7 @@
 
 
 -CITE-
-    40 USC Sec. 3504                                            01/07/2011
+    40 USC Sec. 3504                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -19048,7 +19055,7 @@
 
 
 -CITE-
-    40 USC Sec. 3505                                            01/07/2011
+    40 USC Sec. 3505                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -19095,7 +19102,7 @@
 
 -CITE-
     40 USC CHAPTER 37 - CONTRACT WORK HOURS AND SAFETY
-           STANDARDS                                       01/07/2011
+           STANDARDS                                       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -19125,7 +19132,7 @@
 
 
 -CITE-
-    40 USC Sec. 3701                                            01/07/2011
+    40 USC Sec. 3701                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -19256,7 +19263,7 @@
 
 
 -CITE-
-    40 USC Sec. 3702                                            01/07/2011
+    40 USC Sec. 3702                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -19348,7 +19355,7 @@
 
 
 -CITE-
-    40 USC Sec. 3703                                            01/07/2011
+    40 USC Sec. 3703                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -19494,7 +19501,7 @@
 
 
 -CITE-
-    40 USC Sec. 3704                                            01/07/2011
+    40 USC Sec. 3704                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -19721,7 +19728,7 @@
 
 
 -CITE-
-    40 USC Sec. 3705                                            01/07/2011
+    40 USC Sec. 3705                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -19765,7 +19772,7 @@
 
 
 -CITE-
-    40 USC Sec. 3706                                            01/07/2011
+    40 USC Sec. 3706                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -19807,7 +19814,7 @@
 
 
 -CITE-
-    40 USC Sec. 3707                                            01/07/2011
+    40 USC Sec. 3707                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -19856,7 +19863,7 @@
 
 
 -CITE-
-    40 USC Sec. 3708                                            01/07/2011
+    40 USC Sec. 3708                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -19902,7 +19909,7 @@
 
 
 -CITE-
-    40 USC PART B - UNITED STATES CAPITOL                       01/07/2011
+    40 USC PART B - UNITED STATES CAPITOL                       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -19917,7 +19924,7 @@
 
 -CITE-
     40 USC CHAPTER 51 - UNITED STATES CAPITOL BUILDINGS AND
-           GROUNDS                                         01/07/2011
+           GROUNDS                                         01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -19947,7 +19954,7 @@
 
 
 -CITE-
-    40 USC Sec. 5101                                            01/07/2011
+    40 USC Sec. 5101                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -20053,7 +20060,7 @@
 
 
 -CITE-
-    40 USC Sec. 5102                                            01/07/2011
+    40 USC Sec. 5102                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -20996,7 +21003,7 @@
 
 
 -CITE-
-    40 USC Sec. 5103                                            01/07/2011
+    40 USC Sec. 5103                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -21037,7 +21044,7 @@
 
 
 -CITE-
-    40 USC Sec. 5104                                            01/07/2011
+    40 USC Sec. 5104                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -21266,7 +21273,7 @@
 
 
 -CITE-
-    40 USC Sec. 5105                                            01/07/2011
+    40 USC Sec. 5105                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -21316,7 +21323,7 @@
 
 
 -CITE-
-    40 USC Sec. 5106                                            01/07/2011
+    40 USC Sec. 5106                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -21386,7 +21393,7 @@
 
 
 -CITE-
-    40 USC Sec. 5107                                            01/07/2011
+    40 USC Sec. 5107                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -21444,7 +21451,7 @@
 
 
 -CITE-
-    40 USC Sec. 5108                                            01/07/2011
+    40 USC Sec. 5108                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -21494,7 +21501,7 @@
 
 
 -CITE-
-    40 USC Sec. 5109                                            01/07/2011
+    40 USC Sec. 5109                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -21590,7 +21597,7 @@
 
 
 -CITE-
-    40 USC PART C - FEDERAL BUILDING COMPLEXES                  01/07/2011
+    40 USC PART C - FEDERAL BUILDING COMPLEXES                  01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -21605,7 +21612,7 @@
 
 -CITE-
     40 USC CHAPTER 61 - UNITED STATES SUPREME COURT BUILDING
-           AND GROUNDS                                     01/07/2011
+           AND GROUNDS                                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -21653,7 +21660,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER I - GENERAL                               01/07/2011
+    40 USC SUBCHAPTER I - GENERAL                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -21670,7 +21677,7 @@
 
 
 -CITE-
-    40 USC Sec. 6101                                            01/07/2011
+    40 USC Sec. 6101                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -21880,7 +21887,7 @@
 
 
 -CITE-
-    40 USC Sec. 6102                                            01/07/2011
+    40 USC Sec. 6102                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -21933,7 +21940,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER II - BUILDINGS AND GROUNDS                01/07/2011
+    40 USC SUBCHAPTER II - BUILDINGS AND GROUNDS                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -21950,7 +21957,7 @@
 
 
 -CITE-
-    40 USC Sec. 6111                                            01/07/2011
+    40 USC Sec. 6111                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22055,7 +22062,7 @@
 
 
 -CITE-
-    40 USC Sec. 6112                                            01/07/2011
+    40 USC Sec. 6112                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22118,7 +22125,7 @@
 
 
 -CITE-
-    40 USC Sec. 6113                                            01/07/2011
+    40 USC Sec. 6113                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22164,7 +22171,7 @@
 
 
 -CITE-
-    40 USC Sec. 6114                                            01/07/2011
+    40 USC Sec. 6114                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22205,7 +22212,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER III - POLICING AUTHORITY                  01/07/2011
+    40 USC SUBCHAPTER III - POLICING AUTHORITY                  01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22222,7 +22229,7 @@
 
 
 -CITE-
-    40 USC Sec. 6121                                            01/07/2011
+    40 USC Sec. 6121                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22329,7 +22336,7 @@
 
 
 -CITE-
-    40 USC Sec. 6122                                            01/07/2011
+    40 USC Sec. 6122                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22371,7 +22378,7 @@
 
 
 -CITE-
-    40 USC Sec. 6123                                            01/07/2011
+    40 USC Sec. 6123                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22426,7 +22433,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER IV - PROHIBITIONS AND PENALTIES           01/07/2011
+    40 USC SUBCHAPTER IV - PROHIBITIONS AND PENALTIES           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22443,7 +22450,7 @@
 
 
 -CITE-
-    40 USC Sec. 6131                                            01/07/2011
+    40 USC Sec. 6131                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22481,7 +22488,7 @@
 
 
 -CITE-
-    40 USC Sec. 6132                                            01/07/2011
+    40 USC Sec. 6132                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22525,7 +22532,7 @@
 
 
 -CITE-
-    40 USC Sec. 6133                                            01/07/2011
+    40 USC Sec. 6133                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22569,7 +22576,7 @@
 
 
 -CITE-
-    40 USC Sec. 6134                                            01/07/2011
+    40 USC Sec. 6134                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22610,7 +22617,7 @@
 
 
 -CITE-
-    40 USC Sec. 6135                                            01/07/2011
+    40 USC Sec. 6135                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22652,7 +22659,7 @@
 
 
 -CITE-
-    40 USC Sec. 6136                                            01/07/2011
+    40 USC Sec. 6136                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22700,7 +22707,7 @@
 
 
 -CITE-
-    40 USC Sec. 6137                                            01/07/2011
+    40 USC Sec. 6137                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22768,7 +22775,7 @@
 -CITE-
     40 USC CHAPTER 63 - SMITHSONIAN INSTITUTION, NATIONAL
            GALLERY OF ART, AND JOHN F. KENNEDY CENTER
-           FOR THE PERFORMING ARTS                         01/07/2011
+           FOR THE PERFORMING ARTS                         01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22796,7 +22803,7 @@
 
 
 -CITE-
-    40 USC Sec. 6301                                            01/07/2011
+    40 USC Sec. 6301                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22931,7 +22938,7 @@
 
 
 -CITE-
-    40 USC Sec. 6302                                            01/07/2011
+    40 USC Sec. 6302                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -22970,7 +22977,7 @@
 
 
 -CITE-
-    40 USC Sec. 6303                                            01/07/2011
+    40 USC Sec. 6303                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -23025,7 +23032,7 @@
 
 
 -CITE-
-    40 USC Sec. 6304                                            01/07/2011
+    40 USC Sec. 6304                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -23083,7 +23090,7 @@
 
 
 -CITE-
-    40 USC Sec. 6305                                            01/07/2011
+    40 USC Sec. 6305                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -23141,7 +23148,7 @@
 
 
 -CITE-
-    40 USC Sec. 6306                                            01/07/2011
+    40 USC Sec. 6306                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -23235,7 +23242,7 @@
 
 
 -CITE-
-    40 USC Sec. 6307                                            01/07/2011
+    40 USC Sec. 6307                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -23306,7 +23313,7 @@
 
 -CITE-
     40 USC CHAPTER 65 - THURGOOD MARSHALL FEDERAL JUDICIARY
-           BUILDING                                        01/07/2011
+           BUILDING                                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -23336,7 +23343,7 @@
 
 
 -CITE-
-    40 USC Sec. 6501                                            01/07/2011
+    40 USC Sec. 6501                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -23381,7 +23388,7 @@
 
 
 -CITE-
-    40 USC Sec. 6502                                            01/07/2011
+    40 USC Sec. 6502                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -23506,7 +23513,7 @@
 
 
 -CITE-
-    40 USC Sec. 6503                                            01/07/2011
+    40 USC Sec. 6503                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -23575,7 +23582,7 @@
 
 
 -CITE-
-    40 USC Sec. 6504                                            01/07/2011
+    40 USC Sec. 6504                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -23654,7 +23661,7 @@
 
 
 -CITE-
-    40 USC Sec. 6505                                            01/07/2011
+    40 USC Sec. 6505                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -23738,7 +23745,7 @@
 
 
 -CITE-
-    40 USC Sec. 6506                                            01/07/2011
+    40 USC Sec. 6506                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -23903,7 +23910,7 @@
 
 
 -CITE-
-    40 USC Sec. 6507                                            01/07/2011
+    40 USC Sec. 6507                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -23958,7 +23965,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 67 - PENNSYLVANIA AVENUE DEVELOPMENT         01/07/2011
+    40 USC CHAPTER 67 - PENNSYLVANIA AVENUE DEVELOPMENT         01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -24004,7 +24011,7 @@
 
 -CITE-
     40 USC SUBCHAPTER I - TRANSFER AND ASSIGNMENT OF RIGHTS,
-           AUTHORITIES, TITLE, AND INTERESTS               01/07/2011
+           AUTHORITIES, TITLE, AND INTERESTS               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -24029,7 +24036,7 @@
 
 
 -CITE-
-    40 USC Sec. 6701                                            01/07/2011
+    40 USC Sec. 6701                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -24131,7 +24138,7 @@
 
 
 -CITE-
-    40 USC Sec. 6702                                            01/07/2011
+    40 USC Sec. 6702                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -24368,7 +24375,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER II - PENNSYLVANIA AVENUE DEVELOPMENT      01/07/2011
+    40 USC SUBCHAPTER II - PENNSYLVANIA AVENUE DEVELOPMENT      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -24385,7 +24392,7 @@
 
 
 -CITE-
-    40 USC Sec. 6711                                            01/07/2011
+    40 USC Sec. 6711                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -24489,7 +24496,7 @@
 
 
 -CITE-
-    40 USC Sec. 6712                                            01/07/2011
+    40 USC Sec. 6712                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -24554,7 +24561,7 @@
 
 
 -CITE-
-    40 USC Sec. 6713                                            01/07/2011
+    40 USC Sec. 6713                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -24613,7 +24620,7 @@
 
 
 -CITE-
-    40 USC Sec. 6714                                            01/07/2011
+    40 USC Sec. 6714                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -24694,7 +24701,7 @@
 
 
 -CITE-
-    40 USC Sec. 6715                                            01/07/2011
+    40 USC Sec. 6715                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -24766,7 +24773,7 @@
 
 
 -CITE-
-    40 USC Sec. 6716                                            01/07/2011
+    40 USC Sec. 6716                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -24834,7 +24841,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER III - FEDERAL TRIANGLE DEVELOPMENT        01/07/2011
+    40 USC SUBCHAPTER III - FEDERAL TRIANGLE DEVELOPMENT        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -24851,7 +24858,7 @@
 
 
 -CITE-
-    40 USC Sec. 6731                                            01/07/2011
+    40 USC Sec. 6731                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -24968,7 +24975,7 @@
 
 
 -CITE-
-    40 USC Sec. 6732                                            01/07/2011
+    40 USC Sec. 6732                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -25015,7 +25022,7 @@
 
 
 -CITE-
-    40 USC Sec. 6733                                            01/07/2011
+    40 USC Sec. 6733                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -25074,7 +25081,7 @@
 
 
 -CITE-
-    40 USC Sec. 6734                                            01/07/2011
+    40 USC Sec. 6734                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -25208,7 +25215,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 69 - UNION STATION REDEVELOPMENT             01/07/2011
+    40 USC CHAPTER 69 - UNION STATION REDEVELOPMENT             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -25247,7 +25254,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER I - UNION STATION COMPLEX                 01/07/2011
+    40 USC SUBCHAPTER I - UNION STATION COMPLEX                 01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -25264,7 +25271,7 @@
 
 
 -CITE-
-    40 USC Sec. 6901                                            01/07/2011
+    40 USC Sec. 6901                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -25369,7 +25376,7 @@
 
 
 -CITE-
-    40 USC Sec. 6902                                            01/07/2011
+    40 USC Sec. 6902                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -25430,7 +25437,7 @@
 
 
 -CITE-
-    40 USC Sec. 6903                                            01/07/2011
+    40 USC Sec. 6903                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -25477,7 +25484,7 @@
 
 
 -CITE-
-    40 USC Sec. 6904                                            01/07/2011
+    40 USC Sec. 6904                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -25535,7 +25542,7 @@
 
 
 -CITE-
-    40 USC Sec. 6905                                            01/07/2011
+    40 USC Sec. 6905                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -25581,7 +25588,7 @@
 
 
 -CITE-
-    40 USC Sec. 6906                                            01/07/2011
+    40 USC Sec. 6906                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -25648,7 +25655,7 @@
 
 
 -CITE-
-    40 USC Sec. 6907                                            01/07/2011
+    40 USC Sec. 6907                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -25713,7 +25720,7 @@
 
 
 -CITE-
-    40 USC Sec. 6908                                            01/07/2011
+    40 USC Sec. 6908                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -25762,7 +25769,7 @@
 
 
 -CITE-
-    40 USC Sec. 6909                                            01/07/2011
+    40 USC Sec. 6909                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -25807,7 +25814,7 @@
 
 
 -CITE-
-    40 USC Sec. 6910                                            01/07/2011
+    40 USC Sec. 6910                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -25851,7 +25858,7 @@
 
 -CITE-
     40 USC SUBCHAPTER II - NATIONAL VISITOR FACILITIES
-           ADVISORY COMMISSION                             01/07/2011
+           ADVISORY COMMISSION                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -25868,7 +25875,7 @@
 
 
 -CITE-
-    40 USC Sec. 6921                                            01/07/2011
+    40 USC Sec. 6921                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -25952,7 +25959,7 @@
 
 
 -CITE-
-    40 USC Sec. 6922                                            01/07/2011
+    40 USC Sec. 6922                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26006,7 +26013,7 @@
 
 
 -CITE-
-    40 USC Sec. 6923                                            01/07/2011
+    40 USC Sec. 6923                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26053,7 +26060,7 @@
 
 
 -CITE-
-    40 USC Sec. 6924                                            01/07/2011
+    40 USC Sec. 6924                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26103,7 +26110,7 @@
 
 -CITE-
     40 USC PART D - PUBLIC BUILDINGS, GROUNDS, AND PARKS IN
-                     THE DISTRICT OF COLUMBIA              01/07/2011
+                     THE DISTRICT OF COLUMBIA              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26119,7 +26126,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 81 - ADMINISTRATIVE                          01/07/2011
+    40 USC CHAPTER 81 - ADMINISTRATIVE                          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26182,7 +26189,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER I - GENERAL                               01/07/2011
+    40 USC SUBCHAPTER I - GENERAL                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26200,7 +26207,7 @@
 
 
 -CITE-
-    40 USC Sec. 8101                                            01/07/2011
+    40 USC Sec. 8101                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26276,7 +26283,7 @@
 
 
 -CITE-
-    40 USC Sec. 8102                                            01/07/2011
+    40 USC Sec. 8102                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26326,7 +26333,7 @@
 
 
 -CITE-
-    40 USC Sec. 8103                                            01/07/2011
+    40 USC Sec. 8103                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26385,7 +26392,7 @@
 
 
 -CITE-
-    40 USC Sec. 8104                                            01/07/2011
+    40 USC Sec. 8104                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26473,7 +26480,7 @@
 
 
 -CITE-
-    40 USC Sec. 8105                                            01/07/2011
+    40 USC Sec. 8105                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26542,7 +26549,7 @@
 
 
 -CITE-
-    40 USC Sec. 8106                                            01/07/2011
+    40 USC Sec. 8106                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26584,7 +26591,7 @@
 
 
 -CITE-
-    40 USC Sec. 8107                                            01/07/2011
+    40 USC Sec. 8107                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26633,7 +26640,7 @@
 
 
 -CITE-
-    40 USC Sec. 8108                                            01/07/2011
+    40 USC Sec. 8108                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26676,7 +26683,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER II - JURISDICTION                         01/07/2011
+    40 USC SUBCHAPTER II - JURISDICTION                         01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26694,7 +26701,7 @@
 
 
 -CITE-
-    40 USC Sec. 8121                                            01/07/2011
+    40 USC Sec. 8121                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26753,7 +26760,7 @@
 
 
 -CITE-
-    40 USC Sec. 8122                                            01/07/2011
+    40 USC Sec. 8122                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26799,7 +26806,7 @@
 
 
 -CITE-
-    40 USC Sec. 8123                                            01/07/2011
+    40 USC Sec. 8123                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26866,7 +26873,7 @@
 
 
 -CITE-
-    40 USC Sec. 8124                                            01/07/2011
+    40 USC Sec. 8124                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26928,7 +26935,7 @@
 
 
 -CITE-
-    40 USC Sec. 8125                                            01/07/2011
+    40 USC Sec. 8125                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -26980,7 +26987,7 @@
 
 
 -CITE-
-    40 USC Sec. 8126                                            01/07/2011
+    40 USC Sec. 8126                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27037,7 +27044,7 @@
 
 
 -CITE-
-    40 USC Sec. 8127                                            01/07/2011
+    40 USC Sec. 8127                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27106,7 +27113,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER III - SERVICES FOR FACILITIES             01/07/2011
+    40 USC SUBCHAPTER III - SERVICES FOR FACILITIES             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27124,7 +27131,7 @@
 
 
 -CITE-
-    40 USC Sec. 8141                                            01/07/2011
+    40 USC Sec. 8141                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27171,7 +27178,7 @@
 
 
 -CITE-
-    40 USC Sec. 8142                                            01/07/2011
+    40 USC Sec. 8142                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27217,7 +27224,7 @@
 
 
 -CITE-
-    40 USC Sec. 8143                                            01/07/2011
+    40 USC Sec. 8143                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27313,7 +27320,7 @@
 
 
 -CITE-
-    40 USC Sec. 8144                                            01/07/2011
+    40 USC Sec. 8144                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27370,7 +27377,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER IV - MISCELLANEOUS                        01/07/2011
+    40 USC SUBCHAPTER IV - MISCELLANEOUS                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27388,7 +27395,7 @@
 
 
 -CITE-
-    40 USC Sec. 8161                                            01/07/2011
+    40 USC Sec. 8161                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27439,7 +27446,7 @@
 
 
 -CITE-
-    40 USC Sec. 8162                                            01/07/2011
+    40 USC Sec. 8162                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27479,7 +27486,7 @@
 
 
 -CITE-
-    40 USC Sec. 8163                                            01/07/2011
+    40 USC Sec. 8163                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27530,7 +27537,7 @@
 
 
 -CITE-
-    40 USC Sec. 8164                                            01/07/2011
+    40 USC Sec. 8164                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27637,7 +27644,7 @@
 
 
 -CITE-
-    40 USC Sec. 8165                                            01/07/2011
+    40 USC Sec. 8165                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27697,7 +27704,7 @@
 
 -CITE-
     40 USC CHAPTER 83 - WASHINGTON METROPOLITAN REGION
-           DEVELOPMENT                                     01/07/2011
+           DEVELOPMENT                                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27723,7 +27730,7 @@
 
 
 -CITE-
-    40 USC Sec. 8301                                            01/07/2011
+    40 USC Sec. 8301                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27763,7 +27770,7 @@
 
 
 -CITE-
-    40 USC Sec. 8302                                            01/07/2011
+    40 USC Sec. 8302                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27823,7 +27830,7 @@
 
 
 -CITE-
-    40 USC Sec. 8303                                            01/07/2011
+    40 USC Sec. 8303                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27884,7 +27891,7 @@
 
 
 -CITE-
-    40 USC Sec. 8304                                            01/07/2011
+    40 USC Sec. 8304                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27927,7 +27934,7 @@
 
 -CITE-
     40 USC CHAPTER 85 - NATIONAL CAPITAL SERVICE AREA AND
-           DIRECTOR                                        01/07/2011
+           DIRECTOR                                        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -27949,7 +27956,7 @@
 
 
 -CITE-
-    40 USC Sec. 8501                                            01/07/2011
+    40 USC Sec. 8501                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -28225,7 +28232,7 @@
 
 
 -CITE-
-    40 USC Sec. 8502                                            01/07/2011
+    40 USC Sec. 8502                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -28306,7 +28313,7 @@
 
 -CITE-
     40 USC CHAPTER 87 - PHYSICAL DEVELOPMENT OF NATIONAL
-           CAPITAL REGION                                  01/07/2011
+           CAPITAL REGION                                  01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -28355,7 +28362,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER I - GENERAL                               01/07/2011
+    40 USC SUBCHAPTER I - GENERAL                               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -28373,7 +28380,7 @@
 
 
 -CITE-
-    40 USC Sec. 8701                                            01/07/2011
+    40 USC Sec. 8701                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -28477,7 +28484,7 @@
 
 
 -CITE-
-    40 USC Sec. 8702                                            01/07/2011
+    40 USC Sec. 8702                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -28543,7 +28550,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER II - PLANNING AGENCIES                    01/07/2011
+    40 USC SUBCHAPTER II - PLANNING AGENCIES                    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -28561,7 +28568,7 @@
 
 
 -CITE-
-    40 USC Sec. 8711                                            01/07/2011
+    40 USC Sec. 8711                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -28844,7 +28851,7 @@
 
 
 -CITE-
-    40 USC Sec. 8712                                            01/07/2011
+    40 USC Sec. 8712                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -28915,7 +28922,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER III - PLANNING PROCESS                    01/07/2011
+    40 USC SUBCHAPTER III - PLANNING PROCESS                    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -28933,7 +28940,7 @@
 
 
 -CITE-
-    40 USC Sec. 8721                                            01/07/2011
+    40 USC Sec. 8721                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -29141,7 +29148,7 @@
 
 
 -CITE-
-    40 USC Sec. 8722                                            01/07/2011
+    40 USC Sec. 8722                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -29320,7 +29327,7 @@
 
 
 -CITE-
-    40 USC Sec. 8723                                            01/07/2011
+    40 USC Sec. 8723                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -29388,7 +29395,7 @@
 
 
 -CITE-
-    40 USC Sec. 8724                                            01/07/2011
+    40 USC Sec. 8724                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -29472,7 +29479,7 @@
 
 
 -CITE-
-    40 USC Sec. 8725                                            01/07/2011
+    40 USC Sec. 8725                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -29529,7 +29536,7 @@
 
 
 -CITE-
-    40 USC Sec. 8726                                            01/07/2011
+    40 USC Sec. 8726                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -29573,7 +29580,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER IV - ACQUIRING AND DISPOSING OF LAND      01/07/2011
+    40 USC SUBCHAPTER IV - ACQUIRING AND DISPOSING OF LAND      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -29591,7 +29598,7 @@
 
 
 -CITE-
-    40 USC Sec. 8731                                            01/07/2011
+    40 USC Sec. 8731                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -29721,7 +29728,7 @@
 
 
 -CITE-
-    40 USC Sec. 8732                                            01/07/2011
+    40 USC Sec. 8732                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -29795,7 +29802,7 @@
 
 
 -CITE-
-    40 USC Sec. 8733                                            01/07/2011
+    40 USC Sec. 8733                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -29858,7 +29865,7 @@
 
 
 -CITE-
-    40 USC Sec. 8734                                            01/07/2011
+    40 USC Sec. 8734                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -29912,7 +29919,7 @@
 
 
 -CITE-
-    40 USC Sec. 8735                                            01/07/2011
+    40 USC Sec. 8735                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -29983,7 +29990,7 @@
 
 
 -CITE-
-    40 USC Sec. 8736                                            01/07/2011
+    40 USC Sec. 8736                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -30027,7 +30034,7 @@
 
 
 -CITE-
-    40 USC Sec. 8737                                            01/07/2011
+    40 USC Sec. 8737                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -30081,7 +30088,7 @@
 
 -CITE-
     40 USC CHAPTER 89 - NATIONAL CAPITAL MEMORIALS AND
-           COMMEMORATIVE WORKS                             01/07/2011
+           COMMEMORATIVE WORKS                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -30115,7 +30122,7 @@
 
 
 -CITE-
-    40 USC Sec. 8901                                            01/07/2011
+    40 USC Sec. 8901                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -30200,7 +30207,7 @@
 
 
 -CITE-
-    40 USC Sec. 8902                                            01/07/2011
+    40 USC Sec. 8902                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -30328,7 +30335,7 @@
 
 
 -CITE-
-    40 USC Sec. 8903                                            01/07/2011
+    40 USC Sec. 8903                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -30500,7 +30507,8 @@
        8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107-117, div. A,     
        title VIII, Sec. 8120(a), (b), Jan. 10, 2002, 115 Stat. 2273,     
        2274; Pub. L. 109-220, May 5, 2006, 120 Stat. 335; Pub. L.        
-       110-229, title III, Sec. 332, May 8, 2008, 122 Stat. 782.         
+       110-229, title III, Sec. 332, May 8, 2008, 122 Stat. 782; Pub. L. 
+       112-74, div. E, title III, Dec. 23, 2011, 125 Stat. 1036.         
       Francis Scott Key Memorial. - Pub. L. 99-531, Oct. 27, 1986, 100   
        Stat. 3022.                                                       
       Frederick Douglass Memorial and Gardens. - Pub. L. 106-479, Nov.   
@@ -30569,7 +30577,7 @@
 
 
 -CITE-
-    40 USC Sec. 8904                                            01/07/2011
+    40 USC Sec. 8904                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -30669,7 +30677,7 @@
 
 
 -CITE-
-    40 USC Sec. 8905                                            01/07/2011
+    40 USC Sec. 8905                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -30781,7 +30789,7 @@
 
 
 -CITE-
-    40 USC Sec. 8906                                            01/07/2011
+    40 USC Sec. 8906                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -30944,7 +30952,7 @@
 
 
 -CITE-
-    40 USC Sec. 8907                                            01/07/2011
+    40 USC Sec. 8907                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31006,7 +31014,7 @@
 
 
 -CITE-
-    40 USC Sec. 8908                                            01/07/2011
+    40 USC Sec. 8908                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31117,7 +31125,7 @@
 
 
 -CITE-
-    40 USC Sec. 8909                                            01/07/2011
+    40 USC Sec. 8909                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31172,7 +31180,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 91 - COMMISSION OF FINE ARTS                 01/07/2011
+    40 USC CHAPTER 91 - COMMISSION OF FINE ARTS                 01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31196,7 +31204,7 @@
 
 
 -CITE-
-    40 USC Sec. 9101                                            01/07/2011
+    40 USC Sec. 9101                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31253,7 +31261,7 @@
 
 
 -CITE-
-    40 USC Sec. 9102                                            01/07/2011
+    40 USC Sec. 9102                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31315,7 +31323,7 @@
 
 
 -CITE-
-    40 USC Sec. 9103                                            01/07/2011
+    40 USC Sec. 9103                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31362,7 +31370,7 @@
 
 
 -CITE-
-    40 USC Sec. 9104                                            01/07/2011
+    40 USC Sec. 9104                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31401,7 +31409,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 93 - THEODORE ROOSEVELT ISLAND               01/07/2011
+    40 USC CHAPTER 93 - THEODORE ROOSEVELT ISLAND               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31426,7 +31434,7 @@
 
 
 -CITE-
-    40 USC Sec. 9301                                            01/07/2011
+    40 USC Sec. 9301                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31481,7 +31489,7 @@
 
 
 -CITE-
-    40 USC Sec. 9302                                            01/07/2011
+    40 USC Sec. 9302                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31533,7 +31541,7 @@
 
 
 -CITE-
-    40 USC Sec. 9303                                            01/07/2011
+    40 USC Sec. 9303                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31581,7 +31589,7 @@
 
 
 -CITE-
-    40 USC Sec. 9304                                            01/07/2011
+    40 USC Sec. 9304                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31622,7 +31630,7 @@
 
 -CITE-
     40 USC CHAPTER 95 - WASHINGTON AQUEDUCT AND OTHER PUBLIC
-           WORKS IN THE DISTRICT OF COLUMBIA               01/07/2011
+           WORKS IN THE DISTRICT OF COLUMBIA               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31651,7 +31659,7 @@
 
 
 -CITE-
-    40 USC Sec. 9501                                            01/07/2011
+    40 USC Sec. 9501                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31741,7 +31749,7 @@
 
 
 -CITE-
-    40 USC Sec. 9502                                            01/07/2011
+    40 USC Sec. 9502                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31799,7 +31807,7 @@
 
 
 -CITE-
-    40 USC Sec. 9503                                            01/07/2011
+    40 USC Sec. 9503                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31840,7 +31848,7 @@
 
 
 -CITE-
-    40 USC Sec. 9504                                            01/07/2011
+    40 USC Sec. 9504                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31911,7 +31919,7 @@
 
 
 -CITE-
-    40 USC Sec. 9505                                            01/07/2011
+    40 USC Sec. 9505                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -31959,7 +31967,7 @@
 
 
 -CITE-
-    40 USC Sec. 9506                                            01/07/2011
+    40 USC Sec. 9506                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -32019,7 +32027,7 @@
 
 
 -CITE-
-    40 USC Sec. 9507                                            01/07/2011
+    40 USC Sec. 9507                                            01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -32062,7 +32070,7 @@
 
 
 -CITE-
-    40 USC SUBTITLE III - INFORMATION TECHNOLOGY MANAGEMENT     01/07/2011
+    40 USC SUBTITLE III - INFORMATION TECHNOLOGY MANAGEMENT     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -32089,7 +32097,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 111 - GENERAL                                01/07/2011
+    40 USC CHAPTER 111 - GENERAL                                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -32110,7 +32118,7 @@
 
 
 -CITE-
-    40 USC Sec. 11101                                           01/07/2011
+    40 USC Sec. 11101                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -32323,7 +32331,7 @@
 
 
 -CITE-
-    40 USC Sec. 11102                                           01/07/2011
+    40 USC Sec. 11102                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -32367,7 +32375,7 @@
 
 
 -CITE-
-    40 USC Sec. 11103                                           01/07/2011
+    40 USC Sec. 11103                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -32439,7 +32447,7 @@
 
 -CITE-
     40 USC CHAPTER 113 - RESPONSIBILITY FOR ACQUISITIONS OF
-           INFORMATION TECHNOLOGY                          01/07/2011
+           INFORMATION TECHNOLOGY                          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -32490,7 +32498,7 @@
 
 -CITE-
     40 USC SUBCHAPTER I - DIRECTOR OF OFFICE OF MANAGEMENT
-           AND BUDGET                                      01/07/2011
+           AND BUDGET                                      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -32507,7 +32515,7 @@
 
 
 -CITE-
-    40 USC Sec. 11301                                           01/07/2011
+    40 USC Sec. 11301                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -32548,7 +32556,7 @@
 
 
 -CITE-
-    40 USC Sec. 11302                                           01/07/2011
+    40 USC Sec. 11302                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -32701,7 +32709,7 @@
 
 
 -CITE-
-    40 USC Sec. 11303                                           01/07/2011
+    40 USC Sec. 11303                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -32806,7 +32814,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER II - EXECUTIVE AGENCIES                   01/07/2011
+    40 USC SUBCHAPTER II - EXECUTIVE AGENCIES                   01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -32823,7 +32831,7 @@
 
 
 -CITE-
-    40 USC Sec. 11311                                           01/07/2011
+    40 USC Sec. 11311                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -32881,7 +32889,7 @@
 
 
 -CITE-
-    40 USC Sec. 11312                                           01/07/2011
+    40 USC Sec. 11312                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -32956,7 +32964,7 @@
 
 
 -CITE-
-    40 USC Sec. 11313                                           01/07/2011
+    40 USC Sec. 11313                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -33019,7 +33027,7 @@
 
 
 -CITE-
-    40 USC Sec. 11314                                           01/07/2011
+    40 USC Sec. 11314                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -33076,7 +33084,7 @@
 
 
 -CITE-
-    40 USC Sec. 11315                                           01/07/2011
+    40 USC Sec. 11315                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -33177,7 +33185,7 @@
 
 
 -CITE-
-    40 USC Sec. 11316                                           01/07/2011
+    40 USC Sec. 11316                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -33232,7 +33240,7 @@
 
 
 -CITE-
-    40 USC Sec. 11317                                           01/07/2011
+    40 USC Sec. 11317                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -33275,7 +33283,7 @@
 
 
 -CITE-
-    40 USC Sec. 11318                                           01/07/2011
+    40 USC Sec. 11318                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -33323,7 +33331,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER III - OTHER RESPONSIBILITIES              01/07/2011
+    40 USC SUBCHAPTER III - OTHER RESPONSIBILITIES              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -33340,7 +33348,7 @@
 
 
 -CITE-
-    40 USC Sec. 11331                                           01/07/2011
+    40 USC Sec. 11331                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -33583,7 +33591,7 @@
 
 
 -CITE-
-    40 USC Sec. 11332                                           01/07/2011
+    40 USC Sec. 11332                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -33615,7 +33623,7 @@
 
 -CITE-
     40 USC CHAPTER 115 - INFORMATION TECHNOLOGY ACQUISITION
-           PILOT PROGRAM                                   01/07/2011
+           PILOT PROGRAM                                   01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -33665,7 +33673,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER I - CONDUCT OF PILOT PROGRAM              01/07/2011
+    40 USC SUBCHAPTER I - CONDUCT OF PILOT PROGRAM              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -33689,7 +33697,7 @@
 
 
 -CITE-
-    40 USC Sec. 11501                                           01/07/2011
+    40 USC Sec. 11501                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -33827,7 +33835,7 @@
 
 
 -CITE-
-    40 USC Sec. 11502                                           01/07/2011
+    40 USC Sec. 11502                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -33887,7 +33895,7 @@
 
 
 -CITE-
-    40 USC Sec. 11503                                           01/07/2011
+    40 USC Sec. 11503                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -33952,7 +33960,7 @@
 
 
 -CITE-
-    40 USC Sec. 11504                                           01/07/2011
+    40 USC Sec. 11504                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -34007,7 +34015,7 @@
 
 
 -CITE-
-    40 USC Sec. 11505                                           01/07/2011
+    40 USC Sec. 11505                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -34057,7 +34065,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER II - SPECIFIC PILOT PROGRAM               01/07/2011
+    40 USC SUBCHAPTER II - SPECIFIC PILOT PROGRAM               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -34081,7 +34089,7 @@
 
 
 -CITE-
-    40 USC Sec. 11521                                           01/07/2011
+    40 USC Sec. 11521                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -34108,7 +34116,7 @@
 
 
 -CITE-
-    40 USC Sec. 11522                                           01/07/2011
+    40 USC Sec. 11522                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -34134,7 +34142,7 @@
 
 -CITE-
     40 USC CHAPTER 117 - ADDITIONAL INFORMATION RESOURCES
-           MANAGEMENT MATTERS                              01/07/2011
+           MANAGEMENT MATTERS                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -34165,7 +34173,7 @@
 
 
 -CITE-
-    40 USC Sec. 11701                                           01/07/2011
+    40 USC Sec. 11701                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -34221,7 +34229,7 @@
 
 
 -CITE-
-    40 USC Sec. 11702                                           01/07/2011
+    40 USC Sec. 11702                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -34276,7 +34284,7 @@
 
 
 -CITE-
-    40 USC Sec. 11703                                           01/07/2011
+    40 USC Sec. 11703                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -34326,7 +34334,7 @@
 
 
 -CITE-
-    40 USC Sec. 11704                                           01/07/2011
+    40 USC Sec. 11704                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -34342,7 +34350,7 @@
 
 
 -CITE-
-    40 USC SUBTITLE IV - APPALACHIAN REGIONAL DEVELOPMENT       01/07/2011
+    40 USC SUBTITLE IV - APPALACHIAN REGIONAL DEVELOPMENT       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -34362,7 +34370,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 141 - GENERAL PROVISIONS                     01/07/2011
+    40 USC CHAPTER 141 - GENERAL PROVISIONS                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -34382,7 +34390,7 @@
 
 
 -CITE-
-    40 USC Sec. 14101                                           01/07/2011
+    40 USC Sec. 14101                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -34548,7 +34556,7 @@
 
 
 -CITE-
-    40 USC Sec. 14102                                           01/07/2011
+    40 USC Sec. 14102                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -34721,7 +34729,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 143 - APPALACHIAN REGIONAL COMMISSION        01/07/2011
+    40 USC CHAPTER 143 - APPALACHIAN REGIONAL COMMISSION        01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -34755,7 +34763,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER I - ORGANIZATION AND ADMINISTRATION       01/07/2011
+    40 USC SUBCHAPTER I - ORGANIZATION AND ADMINISTRATION       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -34771,7 +34779,7 @@
 
 
 -CITE-
-    40 USC Sec. 14301                                           01/07/2011
+    40 USC Sec. 14301                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -34888,7 +34896,7 @@
 
 
 -CITE-
-    40 USC Sec. 14302                                           01/07/2011
+    40 USC Sec. 14302                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -34950,7 +34958,7 @@
 
 
 -CITE-
-    40 USC Sec. 14303                                           01/07/2011
+    40 USC Sec. 14303                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -35043,7 +35051,7 @@
 
 
 -CITE-
-    40 USC Sec. 14304                                           01/07/2011
+    40 USC Sec. 14304                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -35092,7 +35100,7 @@
 
 
 -CITE-
-    40 USC Sec. 14305                                           01/07/2011
+    40 USC Sec. 14305                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -35145,7 +35153,7 @@
 
 
 -CITE-
-    40 USC Sec. 14306                                           01/07/2011
+    40 USC Sec. 14306                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -35311,7 +35319,7 @@
 
 
 -CITE-
-    40 USC Sec. 14307                                           01/07/2011
+    40 USC Sec. 14307                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -35356,7 +35364,7 @@
 
 
 -CITE-
-    40 USC Sec. 14308                                           01/07/2011
+    40 USC Sec. 14308                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -35440,7 +35448,7 @@
 
 
 -CITE-
-    40 USC Sec. 14309                                           01/07/2011
+    40 USC Sec. 14309                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -35558,7 +35566,7 @@
 
 
 -CITE-
-    40 USC Sec. 14310                                           01/07/2011
+    40 USC Sec. 14310                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -35598,7 +35606,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER II - FINANCIAL ASSISTANCE                 01/07/2011
+    40 USC SUBCHAPTER II - FINANCIAL ASSISTANCE                 01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -35614,7 +35622,7 @@
 
 
 -CITE-
-    40 USC Sec. 14321                                           01/07/2011
+    40 USC Sec. 14321                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -35828,7 +35836,7 @@
 
 
 -CITE-
-    40 USC Sec. 14322                                           01/07/2011
+    40 USC Sec. 14322                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -35899,7 +35907,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 145 - SPECIAL APPALACHIAN PROGRAMS           01/07/2011
+    40 USC CHAPTER 145 - SPECIAL APPALACHIAN PROGRAMS           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -35940,7 +35948,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER I - PROGRAMS                              01/07/2011
+    40 USC SUBCHAPTER I - PROGRAMS                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -35956,7 +35964,7 @@
 
 
 -CITE-
-    40 USC Sec. 14501                                           01/07/2011
+    40 USC Sec. 14501                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -36123,7 +36131,7 @@
 
 
 -CITE-
-    40 USC Sec. 14502                                           01/07/2011
+    40 USC Sec. 14502                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -36418,7 +36426,7 @@
 
 
 -CITE-
-    40 USC Sec. 14503                                           01/07/2011
+    40 USC Sec. 14503                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -36619,7 +36627,7 @@
 
 
 -CITE-
-    40 USC Sec. 14504                                           01/07/2011
+    40 USC Sec. 14504                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -36705,7 +36713,7 @@
 
 
 -CITE-
-    40 USC Sec. 14505                                           01/07/2011
+    40 USC Sec. 14505                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -36808,7 +36816,7 @@
 
 
 -CITE-
-    40 USC Sec. 14506                                           01/07/2011
+    40 USC Sec. 14506                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -36914,7 +36922,7 @@
 
 
 -CITE-
-    40 USC Sec. 14507                                           01/07/2011
+    40 USC Sec. 14507                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -37168,7 +37176,7 @@
 
 
 -CITE-
-    40 USC Sec. 14508                                           01/07/2011
+    40 USC Sec. 14508                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -37224,7 +37232,7 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER II - ADMINISTRATIVE                       01/07/2011
+    40 USC SUBCHAPTER II - ADMINISTRATIVE                       01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -37240,7 +37248,7 @@
 
 
 -CITE-
-    40 USC Sec. 14521                                           01/07/2011
+    40 USC Sec. 14521                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -37299,7 +37307,7 @@
 
 
 -CITE-
-    40 USC Sec. 14522                                           01/07/2011
+    40 USC Sec. 14522                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -37337,7 +37345,7 @@
 
 
 -CITE-
-    40 USC Sec. 14523                                           01/07/2011
+    40 USC Sec. 14523                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -37394,7 +37402,7 @@
 
 
 -CITE-
-    40 USC Sec. 14524                                           01/07/2011
+    40 USC Sec. 14524                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -37495,7 +37503,7 @@
 
 
 -CITE-
-    40 USC Sec. 14525                                           01/07/2011
+    40 USC Sec. 14525                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -37609,7 +37617,7 @@
 
 
 -CITE-
-    40 USC Sec. 14526                                           01/07/2011
+    40 USC Sec. 14526                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -37723,7 +37731,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 147 - MISCELLANEOUS                          01/07/2011
+    40 USC CHAPTER 147 - MISCELLANEOUS                          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -37745,7 +37753,7 @@
 
 
 -CITE-
-    40 USC Sec. 14701                                           01/07/2011
+    40 USC Sec. 14701                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -37800,7 +37808,7 @@
 
 
 -CITE-
-    40 USC Sec. 14702                                           01/07/2011
+    40 USC Sec. 14702                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -37839,7 +37847,7 @@
 
 
 -CITE-
-    40 USC Sec. 14703                                           01/07/2011
+    40 USC Sec. 14703                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -37930,7 +37938,7 @@
 
 
 -CITE-
-    40 USC Sec. 14704                                           01/07/2011
+    40 USC Sec. 14704                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -37991,7 +37999,7 @@
 
 -CITE-
     40 USC SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE
-           DEVELOPMENT                                     01/07/2011
+           DEVELOPMENT                                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -38036,12 +38044,12 @@
 
 
 -CITE-
-    40 USC CHAPTER 1 - GENERAL PROVISIONS                    01/07/2011
+    40 USC CHAPTER 1 (!1) - GENERAL PROVISIONS                    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 1 - GENERAL PROVISIONS
+    CHAPTER 1 (!1) - GENERAL PROVISIONS
 
 -HEAD-
                     CHAPTER 1(!1) - GENERAL PROVISIONS                
@@ -38070,12 +38078,12 @@
 
 
 -CITE-
-    40 USC Sec. 15101                                           01/07/2011
+    40 USC Sec. 15101                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 1 - GENERAL PROVISIONS
+    CHAPTER 1 (!1) - GENERAL PROVISIONS
 
 -HEAD-
     Sec. 15101. Definitions
@@ -38180,12 +38188,12 @@
 
 
 -CITE-
-    40 USC CHAPTER 2 - REGIONAL COMMISSIONS                  01/07/2011
+    40 USC CHAPTER 2(!1) - REGIONAL COMMISSIONS                  01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 2 - REGIONAL COMMISSIONS
+    CHAPTER 2(!1) - REGIONAL COMMISSIONS
 
 -HEAD-
                    CHAPTER 2(!1) - REGIONAL COMMISSIONS               
@@ -38211,12 +38219,12 @@
 
 
 -CITE-
-    40 USC Sec. 15301                                           01/07/2011
+    40 USC Sec. 15301                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 2 - REGIONAL COMMISSIONS
+    CHAPTER 2(!1) - REGIONAL COMMISSIONS
 
 -HEAD-
     Sec. 15301. Establishment, membership, and employees
@@ -38316,12 +38324,12 @@
 
 
 -CITE-
-    40 USC Sec. 15302                                           01/07/2011
+    40 USC Sec. 15302                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 2 - REGIONAL COMMISSIONS
+    CHAPTER 2(!1) - REGIONAL COMMISSIONS
 
 -HEAD-
     Sec. 15302. Decisions
@@ -38362,12 +38370,12 @@
 
 
 -CITE-
-    40 USC Sec. 15303                                           01/07/2011
+    40 USC Sec. 15303                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 2 - REGIONAL COMMISSIONS
+    CHAPTER 2(!1) - REGIONAL COMMISSIONS
 
 -HEAD-
     Sec. 15303. Functions
@@ -38429,12 +38437,12 @@
 
 
 -CITE-
-    40 USC Sec. 15304                                           01/07/2011
+    40 USC Sec. 15304                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 2 - REGIONAL COMMISSIONS
+    CHAPTER 2(!1) - REGIONAL COMMISSIONS
 
 -HEAD-
     Sec. 15304. Administrative powers and expenses
@@ -38537,12 +38545,12 @@
 
 
 -CITE-
-    40 USC Sec. 15305                                           01/07/2011
+    40 USC Sec. 15305                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 2 - REGIONAL COMMISSIONS
+    CHAPTER 2(!1) - REGIONAL COMMISSIONS
 
 -HEAD-
     Sec. 15305. Meetings
@@ -38579,12 +38587,12 @@
 
 
 -CITE-
-    40 USC Sec. 15306                                           01/07/2011
+    40 USC Sec. 15306                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 2 - REGIONAL COMMISSIONS
+    CHAPTER 2(!1) - REGIONAL COMMISSIONS
 
 -HEAD-
     Sec. 15306. Personal financial interests
@@ -38668,12 +38676,12 @@
 
 
 -CITE-
-    40 USC Sec. 15307                                           01/07/2011
+    40 USC Sec. 15307                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 2 - REGIONAL COMMISSIONS
+    CHAPTER 2(!1) - REGIONAL COMMISSIONS
 
 -HEAD-
     Sec. 15307. Tribal participation
@@ -38699,12 +38707,12 @@
 
 
 -CITE-
-    40 USC Sec. 15308                                           01/07/2011
+    40 USC Sec. 15308                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 2 - REGIONAL COMMISSIONS
+    CHAPTER 2(!1) - REGIONAL COMMISSIONS
 
 -HEAD-
     Sec. 15308. Annual report
@@ -38739,12 +38747,12 @@
 
 
 -CITE-
-    40 USC CHAPTER 3 - FINANCIAL ASSISTANCE                  01/07/2011
+    40 USC CHAPTER 3(!1) - FINANCIAL ASSISTANCE                  01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 3 - FINANCIAL ASSISTANCE
+    CHAPTER 3(!1) - FINANCIAL ASSISTANCE
 
 -HEAD-
                    CHAPTER 3(!1) - FINANCIAL ASSISTANCE               
@@ -38770,12 +38778,12 @@
 
 
 -CITE-
-    40 USC Sec. 15501                                           01/07/2011
+    40 USC Sec. 15501                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 3 - FINANCIAL ASSISTANCE
+    CHAPTER 3(!1) - FINANCIAL ASSISTANCE
 
 -HEAD-
     Sec. 15501. Economic and infrastructure development grants
@@ -38863,12 +38871,12 @@
 
 
 -CITE-
-    40 USC Sec. 15502                                           01/07/2011
+    40 USC Sec. 15502                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 3 - FINANCIAL ASSISTANCE
+    CHAPTER 3(!1) - FINANCIAL ASSISTANCE
 
 -HEAD-
     Sec. 15502. Comprehensive economic and infrastructure development
@@ -38915,12 +38923,12 @@
 
 
 -CITE-
-    40 USC Sec. 15503                                           01/07/2011
+    40 USC Sec. 15503                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 3 - FINANCIAL ASSISTANCE
+    CHAPTER 3(!1) - FINANCIAL ASSISTANCE
 
 -HEAD-
     Sec. 15503. Approval of applications for assistance
@@ -38964,12 +38972,12 @@
 
 
 -CITE-
-    40 USC Sec. 15504                                           01/07/2011
+    40 USC Sec. 15504                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 3 - FINANCIAL ASSISTANCE
+    CHAPTER 3(!1) - FINANCIAL ASSISTANCE
 
 -HEAD-
     Sec. 15504. Program development criteria
@@ -39015,12 +39023,12 @@
 
 
 -CITE-
-    40 USC Sec. 15505                                           01/07/2011
+    40 USC Sec. 15505                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 3 - FINANCIAL ASSISTANCE
+    CHAPTER 3(!1) - FINANCIAL ASSISTANCE
 
 -HEAD-
     Sec. 15505. Local development districts and organizations
@@ -39073,12 +39081,12 @@
 
 
 -CITE-
-    40 USC Sec. 15506                                           01/07/2011
+    40 USC Sec. 15506                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 3 - FINANCIAL ASSISTANCE
+    CHAPTER 3(!1) - FINANCIAL ASSISTANCE
 
 -HEAD-
     Sec. 15506. Supplements to Federal grant programs
@@ -39141,12 +39149,12 @@
 
 
 -CITE-
-    40 USC CHAPTER 4 - ADMINISTRATIVE PROVISIONS             01/07/2011
+    40 USC CHAPTER 4(!1) - ADMINISTRATIVE PROVISIONS             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 4 - ADMINISTRATIVE PROVISIONS
+    CHAPTER 4(!1) - ADMINISTRATIVE PROVISIONS
 
 -HEAD-
                  CHAPTER 4(!1) - ADMINISTRATIVE PROVISIONS             
@@ -39180,12 +39188,12 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/07/2011
+    40 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 4 - ADMINISTRATIVE PROVISIONS
+    CHAPTER 4(!1) - ADMINISTRATIVE PROVISIONS
     SUBCHAPTER I - GENERAL PROVISIONS
 
 -HEAD-
@@ -39196,12 +39204,12 @@
 
 
 -CITE-
-    40 USC Sec. 15701                                           01/07/2011
+    40 USC Sec. 15701                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 4 - ADMINISTRATIVE PROVISIONS
+    CHAPTER 4(!1) - ADMINISTRATIVE PROVISIONS
     SUBCHAPTER I - GENERAL PROVISIONS
 
 -HEAD-
@@ -39233,12 +39241,12 @@
 
 
 -CITE-
-    40 USC Sec. 15702                                           01/07/2011
+    40 USC Sec. 15702                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 4 - ADMINISTRATIVE PROVISIONS
+    CHAPTER 4(!1) - ADMINISTRATIVE PROVISIONS
     SUBCHAPTER I - GENERAL PROVISIONS
 
 -HEAD-
@@ -39318,12 +39326,12 @@
 
 
 -CITE-
-    40 USC Sec. 15703                                           01/07/2011
+    40 USC Sec. 15703                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 4 - ADMINISTRATIVE PROVISIONS
+    CHAPTER 4(!1) - ADMINISTRATIVE PROVISIONS
     SUBCHAPTER I - GENERAL PROVISIONS
 
 -HEAD-
@@ -39367,12 +39375,12 @@
 
 
 -CITE-
-    40 USC Sec. 15704                                           01/07/2011
+    40 USC Sec. 15704                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 4 - ADMINISTRATIVE PROVISIONS
+    CHAPTER 4(!1) - ADMINISTRATIVE PROVISIONS
     SUBCHAPTER I - GENERAL PROVISIONS
 
 -HEAD-
@@ -39426,12 +39434,12 @@
 
 
 -CITE-
-    40 USC Sec. 15705                                           01/07/2011
+    40 USC Sec. 15705                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 4 - ADMINISTRATIVE PROVISIONS
+    CHAPTER 4(!1) - ADMINISTRATIVE PROVISIONS
     SUBCHAPTER I - GENERAL PROVISIONS
 
 -HEAD-
@@ -39461,12 +39469,12 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER II - DESIGNATION OF REGIONS               01/07/2011
+    40 USC SUBCHAPTER II - DESIGNATION OF REGIONS               01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 4 - ADMINISTRATIVE PROVISIONS
+    CHAPTER 4(!1) - ADMINISTRATIVE PROVISIONS
     SUBCHAPTER II - DESIGNATION OF REGIONS
 
 -HEAD-
@@ -39477,12 +39485,12 @@
 
 
 -CITE-
-    40 USC Sec. 15731                                           01/07/2011
+    40 USC Sec. 15731                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 4 - ADMINISTRATIVE PROVISIONS
+    CHAPTER 4(!1) - ADMINISTRATIVE PROVISIONS
     SUBCHAPTER II - DESIGNATION OF REGIONS
 
 -HEAD-
@@ -39510,12 +39518,12 @@
 
 
 -CITE-
-    40 USC Sec. 15732                                           01/07/2011
+    40 USC Sec. 15732                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 4 - ADMINISTRATIVE PROVISIONS
+    CHAPTER 4(!1) - ADMINISTRATIVE PROVISIONS
     SUBCHAPTER II - DESIGNATION OF REGIONS
 
 -HEAD-
@@ -39565,12 +39573,12 @@
 
 
 -CITE-
-    40 USC Sec. 15733                                           01/07/2011
+    40 USC Sec. 15733                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 4 - ADMINISTRATIVE PROVISIONS
+    CHAPTER 4(!1) - ADMINISTRATIVE PROVISIONS
     SUBCHAPTER II - DESIGNATION OF REGIONS
 
 -HEAD-
@@ -39605,12 +39613,12 @@
 
 
 -CITE-
-    40 USC SUBCHAPTER III - AUTHORIZATION OF APPROPRIATIONS     01/07/2011
+    40 USC SUBCHAPTER III - AUTHORIZATION OF APPROPRIATIONS     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 4 - ADMINISTRATIVE PROVISIONS
+    CHAPTER 4(!1) - ADMINISTRATIVE PROVISIONS
     SUBCHAPTER III - AUTHORIZATION OF APPROPRIATIONS
 
 -HEAD-
@@ -39621,12 +39629,12 @@
 
 
 -CITE-
-    40 USC Sec. 15751                                           01/07/2011
+    40 USC Sec. 15751                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
     SUBTITLE V - REGIONAL ECONOMIC AND INFRASTRUCTURE DEVELOPMENT
-    CHAPTER 4 - ADMINISTRATIVE PROVISIONS
+    CHAPTER 4(!1) - ADMINISTRATIVE PROVISIONS
     SUBCHAPTER III - AUTHORIZATION OF APPROPRIATIONS
 
 -HEAD-
@@ -39654,7 +39662,7 @@
 
 
 -CITE-
-    40 USC SUBTITLE VI - MISCELLANEOUS                          01/07/2011
+    40 USC SUBTITLE VI - MISCELLANEOUS                          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -39686,7 +39694,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 171 - SAFETY STANDARDS FOR MOTOR VEHICLES    01/07/2011
+    40 USC CHAPTER 171 - SAFETY STANDARDS FOR MOTOR VEHICLES    01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -39708,7 +39716,7 @@
 
 
 -CITE-
-    40 USC Sec. 17101                                           01/07/2011
+    40 USC Sec. 17101                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -39753,7 +39761,7 @@
 
 
 -CITE-
-    40 USC Sec. 17102                                           01/07/2011
+    40 USC Sec. 17102                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -39796,7 +39804,7 @@
 
 
 -CITE-
-    40 USC Sec. 17103                                           01/07/2011
+    40 USC Sec. 17103                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -39837,7 +39845,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 173 - GOVERNMENT LOSSES IN SHIPMENT          01/07/2011
+    40 USC CHAPTER 173 - GOVERNMENT LOSSES IN SHIPMENT          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -39865,7 +39873,7 @@
 
 
 -CITE-
-    40 USC Sec. 17301                                           01/07/2011
+    40 USC Sec. 17301                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -39956,7 +39964,7 @@
 
 
 -CITE-
-    40 USC Sec. 17302                                           01/07/2011
+    40 USC Sec. 17302                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -40026,7 +40034,7 @@
 
 
 -CITE-
-    40 USC Sec. 17303                                           01/07/2011
+    40 USC Sec. 17303                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -40123,7 +40131,7 @@
 
 
 -CITE-
-    40 USC Sec. 17304                                           01/07/2011
+    40 USC Sec. 17304                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -40201,7 +40209,7 @@
 
 
 -CITE-
-    40 USC Sec. 17305                                           01/07/2011
+    40 USC Sec. 17305                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -40258,7 +40266,7 @@
 
 
 -CITE-
-    40 USC Sec. 17306                                           01/07/2011
+    40 USC Sec. 17306                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -40328,7 +40336,7 @@
 
 
 -CITE-
-    40 USC Sec. 17307                                           01/07/2011
+    40 USC Sec. 17307                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -40376,7 +40384,7 @@
 
 
 -CITE-
-    40 USC Sec. 17308                                           01/07/2011
+    40 USC Sec. 17308                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -40420,7 +40428,7 @@
 
 
 -CITE-
-    40 USC Sec. 17309                                           01/07/2011
+    40 USC Sec. 17309                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -40475,7 +40483,7 @@
 
 -CITE-
     40 USC CHAPTER 175 - FEDERAL MOTOR VEHICLE EXPENDITURE
-           CONTROL                                         01/07/2011
+           CONTROL                                         01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -40503,7 +40511,7 @@
 
 
 -CITE-
-    40 USC Sec. 17501                                           01/07/2011
+    40 USC Sec. 17501                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -40565,7 +40573,7 @@
 
 
 -CITE-
-    40 USC Sec. 17502                                           01/07/2011
+    40 USC Sec. 17502                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -40610,7 +40618,7 @@
 
 
 -CITE-
-    40 USC Sec. 17503                                           01/07/2011
+    40 USC Sec. 17503                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -40669,7 +40677,7 @@
 
 
 -CITE-
-    40 USC Sec. 17504                                           01/07/2011
+    40 USC Sec. 17504                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -40732,7 +40740,7 @@
 
 
 -CITE-
-    40 USC Sec. 17505                                           01/07/2011
+    40 USC Sec. 17505                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -40788,7 +40796,7 @@
 
 
 -CITE-
-    40 USC Sec. 17506                                           01/07/2011
+    40 USC Sec. 17506                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -40827,7 +40835,7 @@
 
 
 -CITE-
-    40 USC Sec. 17507                                           01/07/2011
+    40 USC Sec. 17507                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -40879,7 +40887,7 @@
 
 
 -CITE-
-    40 USC Sec. 17508                                           01/07/2011
+    40 USC Sec. 17508                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -40922,7 +40930,7 @@
 
 
 -CITE-
-    40 USC Sec. 17509                                           01/07/2011
+    40 USC Sec. 17509                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -40971,7 +40979,7 @@
 
 
 -CITE-
-    40 USC Sec. 17510                                           01/07/2011
+    40 USC Sec. 17510                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41008,7 +41016,7 @@
 
 
 -CITE-
-    40 USC CHAPTER 177 - ALASKA COMMUNICATIONS DISPOSAL         01/07/2011
+    40 USC CHAPTER 177 - ALASKA COMMUNICATIONS DISPOSAL         01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41037,7 +41045,7 @@
 
 
 -CITE-
-    40 USC Sec. 17701                                           01/07/2011
+    40 USC Sec. 17701                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41090,7 +41098,7 @@
 
 
 -CITE-
-    40 USC Sec. 17702                                           01/07/2011
+    40 USC Sec. 17702                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41202,7 +41210,7 @@
 
 
 -CITE-
-    40 USC Sec. 17703                                           01/07/2011
+    40 USC Sec. 17703                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41251,7 +41259,7 @@
 
 
 -CITE-
-    40 USC Sec. 17704                                           01/07/2011
+    40 USC Sec. 17704                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41308,7 +41316,7 @@
 
 
 -CITE-
-    40 USC Sec. 17705                                           01/07/2011
+    40 USC Sec. 17705                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41347,7 +41355,7 @@
 
 
 -CITE-
-    40 USC Sec. 17706                                           01/07/2011
+    40 USC Sec. 17706                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41387,7 +41395,7 @@
 
 
 -CITE-
-    40 USC Sec. 17707                                           01/07/2011
+    40 USC Sec. 17707                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41428,7 +41436,7 @@
 
 
 -CITE-
-    40 USC Sec. 17708                                           01/07/2011
+    40 USC Sec. 17708                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41474,7 +41482,7 @@
 
 -CITE-
     40 USC CHAPTER 179 - ALASKA FEDERAL-CIVILIAN ENERGY
-           EFFICIENCY SWAP                                 01/07/2011
+           EFFICIENCY SWAP                                 01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41496,7 +41504,7 @@
 
 
 -CITE-
-    40 USC Sec. 17901                                           01/07/2011
+    40 USC Sec. 17901                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41551,7 +41559,7 @@
 
 
 -CITE-
-    40 USC Sec. 17902                                           01/07/2011
+    40 USC Sec. 17902                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41627,7 +41635,7 @@
 
 
 -CITE-
-    40 USC Sec. 17903                                           01/07/2011
+    40 USC Sec. 17903                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41679,7 +41687,7 @@
 
 
 -CITE-
-    40 USC Sec. 17904                                           01/07/2011
+    40 USC Sec. 17904                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41743,7 +41751,7 @@
 -CITE-
     40 USC CHAPTER 181 - TELECOMMUNICATIONS ACCESSIBILITY FOR
            HEARING-IMPAIRED AND SPEECH-IMPAIRED
-           INDIVIDUALS                                     01/07/2011
+           INDIVIDUALS                                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41767,7 +41775,7 @@
 
 
 -CITE-
-    40 USC Sec. 18101                                           01/07/2011
+    40 USC Sec. 18101                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41809,7 +41817,7 @@
 
 
 -CITE-
-    40 USC Sec. 18102                                           01/07/2011
+    40 USC Sec. 18102                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41879,7 +41887,7 @@
 
 
 -CITE-
-    40 USC Sec. 18103                                           01/07/2011
+    40 USC Sec. 18103                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41940,7 +41948,7 @@
 
 
 -CITE-
-    40 USC Sec. 18104                                           01/07/2011
+    40 USC Sec. 18104                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -41983,7 +41991,7 @@
 
 -CITE-
     40 USC CHAPTER 183 - NATIONAL CAPITAL AREA INTEREST
-           ARBITRATION STANDARDS                           01/07/2011
+           ARBITRATION STANDARDS                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -42005,7 +42013,7 @@
 
 
 -CITE-
-    40 USC Sec. 18301                                           01/07/2011
+    40 USC Sec. 18301                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -42084,7 +42092,7 @@
 
 
 -CITE-
-    40 USC Sec. 18302                                           01/07/2011
+    40 USC Sec. 18302                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -42140,7 +42148,7 @@
 
 
 -CITE-
-    40 USC Sec. 18303                                           01/07/2011
+    40 USC Sec. 18303                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS
@@ -42256,7 +42264,7 @@
 
 
 -CITE-
-    40 USC Sec. 18304                                           01/07/2011
+    40 USC Sec. 18304                                           01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 40 - PUBLIC BUILDINGS, PROPERTY, AND WORKS

@@ -1,5 +1,5 @@
 -CITE-
-    1 USC TITLE 1 - GENERAL PROVISIONS                          01/07/2011
+    1 USC TITLE 1 - GENERAL PROVISIONS                          01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -127,7 +127,7 @@
 
 
 -CITE-
-    1 USC CHAPTER 1 - RULES OF CONSTRUCTION                     01/07/2011
+    1 USC CHAPTER 1 - RULES OF CONSTRUCTION                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -166,7 +166,7 @@
 
 
 -CITE-
-    1 USC Sec. 1                                                01/07/2011
+    1 USC Sec. 1                                                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -223,6 +223,27 @@
     that: "This Act [enacting section 7 of this title and section 1738C
     of Title 28, Judiciary and Judicial Procedure] may be cited as the
     'Defense of Marriage Act'."
+
+                       REFERENCES IN PUB. L. 112-74                   
+      Pub. L. 112-74, Sec. 3, Dec. 23, 2011, 125 Stat. 787, provided
+    that: "Except as expressly provided otherwise, any reference to
+    'this Act' contained in any division of this Act [Consolidated
+    Appropriations Act, 2012, see Tables for classification] shall be
+    treated as referring only to the provisions of that division."
+
+                       REFERENCES IN PUB. L. 112-55                   
+      Pub. L. 112-55, Sec. 3, Nov. 18, 2011, 125 Stat. 552, provided
+    that: "Except as expressly provided otherwise, any reference to
+    'this Act' contained in any division of this Act [Consolidated and
+    Further Continuing Appropriations Act, 2012, see Tables for
+    classification] shall be treated as referring only to the
+    provisions of that division."
+
+                       REFERENCES IN PUB. L. 112-10                   
+      Pub. L. 112-10, div. A, title IX, Sec. 9015, Apr. 15, 2011, 125
+    Stat. 102, provided that: "Any reference to 'this Act' in this
+    division [Department of Defense Appropriations Act, 2011, see
+    Tables for classification] shall apply solely to this division."
 
                        REFERENCES IN PUB. L. 111-118                   
       Pub. L. 111-118, Sec. 3, Dec. 19, 2009, 123 Stat. 3409, provided
@@ -338,7 +359,7 @@
 
 
 -CITE-
-    1 USC Sec. 2                                                01/07/2011
+    1 USC Sec. 2                                                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -359,7 +380,7 @@
 
 
 -CITE-
-    1 USC Sec. 3                                                01/07/2011
+    1 USC Sec. 3                                                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -381,7 +402,7 @@
 
 
 -CITE-
-    1 USC Sec. 4                                                01/07/2011
+    1 USC Sec. 4                                                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -403,7 +424,7 @@
 
 
 -CITE-
-    1 USC Sec. 5                                                01/07/2011
+    1 USC Sec. 5                                                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -427,7 +448,7 @@
 
 
 -CITE-
-    1 USC Sec. 6                                                01/07/2011
+    1 USC Sec. 6                                                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -455,7 +476,7 @@
 
 
 -CITE-
-    1 USC Sec. 7                                                01/07/2011
+    1 USC Sec. 7                                                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -480,7 +501,7 @@
 
 
 -CITE-
-    1 USC Sec. 8                                                01/07/2011
+    1 USC Sec. 8                                                01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -519,7 +540,7 @@
 
 -CITE-
     1 USC CHAPTER 2 - ACTS AND RESOLUTIONS; FORMALITIES OF
-           ENACTMENT; REPEALS; SEALING OF INSTRUMENTS      01/07/2011
+           ENACTMENT; REPEALS; SEALING OF INSTRUMENTS      01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -577,7 +598,7 @@
 
 
 -CITE-
-    1 USC Sec. 101                                              01/07/2011
+    1 USC Sec. 101                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -601,7 +622,7 @@
 
 
 -CITE-
-    1 USC Sec. 102                                              01/07/2011
+    1 USC Sec. 102                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -625,7 +646,7 @@
 
 
 -CITE-
-    1 USC Sec. 103                                              01/07/2011
+    1 USC Sec. 103                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -647,7 +668,7 @@
 
 
 -CITE-
-    1 USC Sec. 104                                              01/07/2011
+    1 USC Sec. 104                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -669,7 +690,7 @@
 
 
 -CITE-
-    1 USC Sec. 105                                              01/07/2011
+    1 USC Sec. 105                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -708,7 +729,7 @@
 
 
 -CITE-
-    1 USC Sec. 106                                              01/07/2011
+    1 USC Sec. 106                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1251,7 +1272,7 @@
 
 
 -CITE-
-    1 USC Sec. 106a                                             01/07/2011
+    1 USC Sec. 106a                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1313,7 +1334,7 @@
 
 
 -CITE-
-    1 USC Sec. 106b                                             01/07/2011
+    1 USC Sec. 106b                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1371,7 +1392,7 @@
 
 
 -CITE-
-    1 USC Sec. 107                                              01/07/2011
+    1 USC Sec. 107                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1395,7 +1416,7 @@
 
 
 -CITE-
-    1 USC Sec. 108                                              01/07/2011
+    1 USC Sec. 108                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1418,7 +1439,7 @@
 
 
 -CITE-
-    1 USC Sec. 109                                              01/07/2011
+    1 USC Sec. 109                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1451,7 +1472,7 @@
 
 
 -CITE-
-    1 USC Sec. 110                                              01/07/2011
+    1 USC Sec. 110                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1479,7 +1500,7 @@
 
 
 -CITE-
-    1 USC Sec. 111                                              01/07/2011
+    1 USC Sec. 111                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1511,7 +1532,7 @@
 
 
 -CITE-
-    1 USC Sec. 112                                              01/07/2011
+    1 USC Sec. 112                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1676,7 +1697,7 @@
 
 
 -CITE-
-    1 USC Sec. 112a                                             01/07/2011
+    1 USC Sec. 112a                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1797,7 +1818,7 @@
 
 
 -CITE-
-    1 USC Sec. 112b                                             01/07/2011
+    1 USC Sec. 112b                                             01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1960,7 +1981,7 @@
 
 
 -CITE-
-    1 USC Sec. 113                                              01/07/2011
+    1 USC Sec. 113                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2013,7 +2034,7 @@
 
 
 -CITE-
-    1 USC Sec. 114                                              01/07/2011
+    1 USC Sec. 114                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2040,7 +2061,7 @@
 -CITE-
     1 USC CHAPTER 3 - CODE OF LAWS OF UNITED STATES AND
            SUPPLEMENTS; DISTRICT OF COLUMBIA CODE AND
-           SUPPLEMENTS                                     01/07/2011
+           SUPPLEMENTS                                     01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2107,7 +2128,7 @@
 
 
 -CITE-
-    1 USC Sec. 201                                              01/07/2011
+    1 USC Sec. 201                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2164,7 +2185,7 @@
 
 
 -CITE-
-    1 USC Sec. 202                                              01/07/2011
+    1 USC Sec. 202                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2216,7 +2237,7 @@
 
 
 -CITE-
-    1 USC Sec. 203                                              01/07/2011
+    1 USC Sec. 203                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2264,7 +2285,7 @@
 
 
 -CITE-
-    1 USC Sec. 204                                              01/07/2011
+    1 USC Sec. 204                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2395,7 +2416,7 @@
 
 
 -CITE-
-    1 USC Sec. 205                                              01/07/2011
+    1 USC Sec. 205                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2427,7 +2448,7 @@
 
 
 -CITE-
-    1 USC Sec. 206                                              01/07/2011
+    1 USC Sec. 206                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2457,7 +2478,7 @@
 
 
 -CITE-
-    1 USC Sec. 207                                              01/07/2011
+    1 USC Sec. 207                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2484,7 +2505,7 @@
 
 
 -CITE-
-    1 USC Sec. 208                                              01/07/2011
+    1 USC Sec. 208                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2513,7 +2534,7 @@
 
 
 -CITE-
-    1 USC Sec. 209                                              01/07/2011
+    1 USC Sec. 209                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2548,7 +2569,7 @@
 
 
 -CITE-
-    1 USC Sec. 210                                              01/07/2011
+    1 USC Sec. 210                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2583,7 +2604,7 @@
 
 
 -CITE-
-    1 USC Sec. 211                                              01/07/2011
+    1 USC Sec. 211                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2636,7 +2657,7 @@
 
 
 -CITE-
-    1 USC Sec. 212                                              01/07/2011
+    1 USC Sec. 212                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2667,7 +2688,7 @@
 
 
 -CITE-
-    1 USC Sec. 213                                              01/07/2011
+    1 USC Sec. 213                                              01/03/2012 (112-90)
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
