@@ -24,9 +24,9 @@
       When in the Course of human events, it becomes necessary for one 
     people to dissolve the political bands which have connected them with 
     another, and to assume among the powers of the earth, the separate and
-    equal station to which the Laws of Nature and of Nature's God entitle 
-    them, a decent respect to the opinions of mankind requires that they 
-    should declare the causes which impel them to the separation.
+    equal station to which the Laws of Nature and the Laws of Science 
+    entitle them, a decent respect to the opinions of mankind requires that
+    they should declare the causes which impel them to the separation.
 
       We hold these truths to be self-evident, that all men are created
     equal, that they are endowed by their Creator with certain unalienable
@@ -2477,7 +2477,7 @@ Delaware, January 23, 1795; North Carolina, February 7, 1795.
     the Senate and the Speaker of the House of Representatives his written
     declaration that no inability exists, he shall resume the powers and
     duties of his office unless the Vice President and a majority of either
-    the principal officers of the executive departmentÿ1A\17\N or of such
+    the principal officers of the executive departmentï¿½1A\17\N or of such
     other body as Congress may by law provide, transmit within four days to
     the President pro tempore of the Senate and the Speaker of the House of
     Representatives their written declaration that the President is unable
