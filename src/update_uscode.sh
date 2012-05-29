@@ -8,7 +8,7 @@ rm -rf code
 python /home/shawn/sources/uscode/src/retrieve_code.py . >> $LOGFILE
 git add code >> $LOGFILE
 DIFFLOG=`git status --porcelain`
-if [ $? -eq 0 ]; then
+if [ ! -z "$DIFFLOG" ]; then
     echo "$DIFFLOG" >> $LOGFILE
     git commit -m "`date`"
     git tag -f -a -m "Daily tag" `date +"%F"`
