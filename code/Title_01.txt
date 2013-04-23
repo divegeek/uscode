@@ -1,5 +1,5 @@
 -CITE-
-    1 USC TITLE 1 - GENERAL PROVISIONS                          01/03/2012 (112-90)
+    1 USC TITLE 1 - GENERAL PROVISIONS                          01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -127,7 +127,7 @@
 
 
 -CITE-
-    1 USC CHAPTER 1 - RULES OF CONSTRUCTION                     01/03/2012 (112-90)
+    1 USC CHAPTER 1 - RULES OF CONSTRUCTION                     01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -166,7 +166,7 @@
 
 
 -CITE-
-    1 USC Sec. 1                                                01/03/2012 (112-90)
+    1 USC Sec. 1                                                01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -185,9 +185,8 @@
       well;
         words used in the present tense include the future as well as
       the present;
-        the words "insane" and "insane person" and "lunatic" shall
-      include every idiot, lunatic, insane person, and person non
-      compos mentis;
+        the words "insane" and "insane person" shall include every
+      idiot, insane person, and person non compos mentis;
         the words "person" and "whoever" include corporations,
       companies, associations, firms, partnerships, societies, and
       joint stock companies, as well as individuals;
@@ -202,16 +201,26 @@
 
 -SOURCE-
     (July 30, 1947, ch. 388, 61 Stat. 633; June 25, 1948, ch. 645, Sec.
-    6, 62 Stat. 859; Oct. 31, 1951, ch. 655, Sec. 1, 65 Stat. 710.)
+    6, 62 Stat. 859; Oct. 31, 1951, ch. 655, Sec. 1, 65 Stat. 710; Pub.
+    L. 112-231, Sec. 2(a), Dec. 28, 2012, 126 Stat. 1619.)
 
 
 -MISC1-
                                 AMENDMENTS                            
+      2012 - Pub. L. 112-231, in fifth clause after opening clause,
+    struck out "and 'lunatic' " before "shall include every" and
+    "lunatic," before "insane person,".
       1951 - Act Oct. 31, 1951, substituted, in fourth clause after
     opening clause, "used" for "use".
       1948 - Act June 25, 1948, included "tense", "whoever",
     "signature", "subscription", "writing" and a broader definition of
     "person".
+
+                       SHORT TITLE OF 2012 AMENDMENT                   
+      Pub. L. 112-231, Sec. 1, Dec. 28, 2012, 126 Stat. 1619, provided
+    that: "This Act [amending this section and sections 92a, 215, and
+    215a of Title 12, Banks and Banking] may be cited as the '21st
+    Century Language Act of 2012'."
 
                        SHORT TITLE OF 2002 AMENDMENT                   
       Pub. L. 107-207, Sec. 1, Aug. 5, 2002, 116 Stat. 926, provided
@@ -347,19 +356,19 @@
     provisions of that division."
 
                          CONTINENTAL UNITED STATES                     
-      Section 48 of Pub. L. 86-70, June 25, 1959, 73 Stat. 154,
-    provided that: "Whenever the phrase 'continental United States' is
-    used in any law of the United States enacted after the date of
-    enactment of this Act [June 25, 1959], it shall mean the 49 States
-    on the North American Continent and the District of Columbia,
-    unless otherwise expressly provided."
+      Pub. L. 86-70, Sec. 48, June 25, 1959, 73 Stat. 154, provided
+    that: "Whenever the phrase 'continental United States' is used in
+    any law of the United States enacted after the date of enactment of
+    this Act [June 25, 1959], it shall mean the 49 States on the North
+    American Continent and the District of Columbia, unless otherwise
+    expressly provided."
 
 -End-
 
 
 
 -CITE-
-    1 USC Sec. 2                                                01/03/2012 (112-90)
+    1 USC Sec. 2                                                01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -380,7 +389,7 @@
 
 
 -CITE-
-    1 USC Sec. 3                                                01/03/2012 (112-90)
+    1 USC Sec. 3                                                01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -402,7 +411,7 @@
 
 
 -CITE-
-    1 USC Sec. 4                                                01/03/2012 (112-90)
+    1 USC Sec. 4                                                01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -424,7 +433,7 @@
 
 
 -CITE-
-    1 USC Sec. 5                                                01/03/2012 (112-90)
+    1 USC Sec. 5                                                01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -448,7 +457,7 @@
 
 
 -CITE-
-    1 USC Sec. 6                                                01/03/2012 (112-90)
+    1 USC Sec. 6                                                01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -476,7 +485,7 @@
 
 
 -CITE-
-    1 USC Sec. 7                                                01/03/2012 (112-90)
+    1 USC Sec. 7                                                01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -501,7 +510,7 @@
 
 
 -CITE-
-    1 USC Sec. 8                                                01/03/2012 (112-90)
+    1 USC Sec. 8                                                01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -540,7 +549,7 @@
 
 -CITE-
     1 USC CHAPTER 2 - ACTS AND RESOLUTIONS; FORMALITIES OF
-           ENACTMENT; REPEALS; SEALING OF INSTRUMENTS      01/03/2012 (112-90)
+           ENACTMENT; REPEALS; SEALING OF INSTRUMENTS      01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -598,7 +607,7 @@
 
 
 -CITE-
-    1 USC Sec. 101                                              01/03/2012 (112-90)
+    1 USC Sec. 101                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -622,7 +631,7 @@
 
 
 -CITE-
-    1 USC Sec. 102                                              01/03/2012 (112-90)
+    1 USC Sec. 102                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -646,7 +655,7 @@
 
 
 -CITE-
-    1 USC Sec. 103                                              01/03/2012 (112-90)
+    1 USC Sec. 103                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -668,7 +677,7 @@
 
 
 -CITE-
-    1 USC Sec. 104                                              01/03/2012 (112-90)
+    1 USC Sec. 104                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -690,7 +699,7 @@
 
 
 -CITE-
-    1 USC Sec. 105                                              01/03/2012 (112-90)
+    1 USC Sec. 105                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -716,20 +725,20 @@
       1974 - Pub. L. 93-344 substituted "September 30" for "June 30".
 
                      EFFECTIVE DATE OF 1974 AMENDMENT                 
-      Section 506(b) of Pub. L. 93-344, which provided that the
-    amendment of this section by Pub. L. 93-344 was effective with
-    respect to Acts making appropriations for the support of the
-    Government for any fiscal year commencing on or after Oct. 1, 1976,
-    was omitted in the complete revision of title V of Pub. L. 93-344
-    by Pub. L. 101-508, title XIII, Sec. 13201(a), Nov. 5, 1990, 104
-    Stat. 1388-609.
+      Pub. L. 93-344, title V, Sec. 506(b), July 12, 1974, 88 Stat.
+    322, which provided that the amendment of this section by Pub. L.
+    93-344 was effective with respect to Acts making appropriations for
+    the support of the Government for any fiscal year commencing on or
+    after Oct. 1, 1976, was omitted in the complete revision of title V
+    of Pub. L. 93-344 by Pub. L. 101-508, title XIII, Sec. 13201(a),
+    Nov. 5, 1990, 104 Stat. 1388-609.
 
 -End-
 
 
 
 -CITE-
-    1 USC Sec. 106                                              01/03/2012 (112-90)
+    1 USC Sec. 106                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1272,7 +1281,7 @@
 
 
 -CITE-
-    1 USC Sec. 106a                                             01/03/2012 (112-90)
+    1 USC Sec. 106a                                             01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1334,7 +1343,7 @@
 
 
 -CITE-
-    1 USC Sec. 106b                                             01/03/2012 (112-90)
+    1 USC Sec. 106b                                             01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1392,7 +1401,7 @@
 
 
 -CITE-
-    1 USC Sec. 107                                              01/03/2012 (112-90)
+    1 USC Sec. 107                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1416,7 +1425,7 @@
 
 
 -CITE-
-    1 USC Sec. 108                                              01/03/2012 (112-90)
+    1 USC Sec. 108                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1439,7 +1448,7 @@
 
 
 -CITE-
-    1 USC Sec. 109                                              01/03/2012 (112-90)
+    1 USC Sec. 109                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1472,7 +1481,7 @@
 
 
 -CITE-
-    1 USC Sec. 110                                              01/03/2012 (112-90)
+    1 USC Sec. 110                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1500,7 +1509,7 @@
 
 
 -CITE-
-    1 USC Sec. 111                                              01/03/2012 (112-90)
+    1 USC Sec. 111                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1532,7 +1541,7 @@
 
 
 -CITE-
-    1 USC Sec. 112                                              01/03/2012 (112-90)
+    1 USC Sec. 112                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1697,7 +1706,7 @@
 
 
 -CITE-
-    1 USC Sec. 112a                                             01/03/2012 (112-90)
+    1 USC Sec. 112a                                             01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1818,7 +1827,7 @@
 
 
 -CITE-
-    1 USC Sec. 112b                                             01/03/2012 (112-90)
+    1 USC Sec. 112b                                             01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -1981,7 +1990,7 @@
 
 
 -CITE-
-    1 USC Sec. 113                                              01/03/2012 (112-90)
+    1 USC Sec. 113                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2034,7 +2043,7 @@
 
 
 -CITE-
-    1 USC Sec. 114                                              01/03/2012 (112-90)
+    1 USC Sec. 114                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2061,7 +2070,7 @@
 -CITE-
     1 USC CHAPTER 3 - CODE OF LAWS OF UNITED STATES AND
            SUPPLEMENTS; DISTRICT OF COLUMBIA CODE AND
-           SUPPLEMENTS                                     01/03/2012 (112-90)
+           SUPPLEMENTS                                     01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2128,7 +2137,7 @@
 
 
 -CITE-
-    1 USC Sec. 201                                              01/03/2012 (112-90)
+    1 USC Sec. 201                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2185,7 +2194,7 @@
 
 
 -CITE-
-    1 USC Sec. 202                                              01/03/2012 (112-90)
+    1 USC Sec. 202                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2237,7 +2246,7 @@
 
 
 -CITE-
-    1 USC Sec. 203                                              01/03/2012 (112-90)
+    1 USC Sec. 203                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2285,7 +2294,7 @@
 
 
 -CITE-
-    1 USC Sec. 204                                              01/03/2012 (112-90)
+    1 USC Sec. 204                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2416,7 +2425,7 @@
 
 
 -CITE-
-    1 USC Sec. 205                                              01/03/2012 (112-90)
+    1 USC Sec. 205                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2448,7 +2457,7 @@
 
 
 -CITE-
-    1 USC Sec. 206                                              01/03/2012 (112-90)
+    1 USC Sec. 206                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2478,7 +2487,7 @@
 
 
 -CITE-
-    1 USC Sec. 207                                              01/03/2012 (112-90)
+    1 USC Sec. 207                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2505,7 +2514,7 @@
 
 
 -CITE-
-    1 USC Sec. 208                                              01/03/2012 (112-90)
+    1 USC Sec. 208                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2534,7 +2543,7 @@
 
 
 -CITE-
-    1 USC Sec. 209                                              01/03/2012 (112-90)
+    1 USC Sec. 209                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2569,7 +2578,7 @@
 
 
 -CITE-
-    1 USC Sec. 210                                              01/03/2012 (112-90)
+    1 USC Sec. 210                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2604,7 +2613,7 @@
 
 
 -CITE-
-    1 USC Sec. 211                                              01/03/2012 (112-90)
+    1 USC Sec. 211                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2657,7 +2666,7 @@
 
 
 -CITE-
-    1 USC Sec. 212                                              01/03/2012 (112-90)
+    1 USC Sec. 212                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
@@ -2688,7 +2697,7 @@
 
 
 -CITE-
-    1 USC Sec. 213                                              01/03/2012 (112-90)
+    1 USC Sec. 213                                              01/15/2013
 
 -EXPCITE-
     TITLE 1 - GENERAL PROVISIONS
