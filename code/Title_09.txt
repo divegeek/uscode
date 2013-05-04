@@ -1,5 +1,5 @@
 -CITE-
-    9 USC TITLE 9 - ARBITRATION                                 01/03/2012 (112-90)
+    9 USC TITLE 9 - ARBITRATION                                 01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -77,18 +77,18 @@
     U.S.C., Sec.  - ' ".
 
                                   REPEALS                              
-      Section 2 of act July 30, 1947, ch. 392, 61 Stat. 674, provided
-    that the sections or parts thereof of the Statutes at Large
-    covering provisions codified in this Act, insofar as such
-    provisions appeared in former title 9 were repealed and provided
-    that any rights or liabilities now existing under such repealed
-    sections or parts thereof shall not be affected by such repeal.
+      Act July 30, 1947, ch. 392, Sec. 2, 61 Stat. 674, provided that
+    the sections or parts thereof of the Statutes at Large covering
+    provisions codified in this Act, insofar as such provisions
+    appeared in former title 9 were repealed and provided that any
+    rights or liabilities now existing under such repealed sections or
+    parts thereof shall not be affected by such repeal.
 
 -End-
 
 
 -CITE-
-    9 USC CHAPTER 1 - GENERAL PROVISIONS                        01/03/2012 (112-90)
+    9 USC CHAPTER 1 - GENERAL PROVISIONS                        01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -142,7 +142,7 @@
 
 
 -CITE-
-    9 USC Sec. 1                                                01/03/2012 (112-90)
+    9 USC Sec. 1                                                01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -181,7 +181,7 @@
 
 
 -CITE-
-    9 USC Sec. 2                                                01/03/2012 (112-90)
+    9 USC Sec. 2                                                01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -215,7 +215,7 @@
 
 
 -CITE-
-    9 USC Sec. 3                                                01/03/2012 (112-90)
+    9 USC Sec. 3                                                01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -249,7 +249,7 @@
 
 
 -CITE-
-    9 USC Sec. 4                                                01/03/2012 (112-90)
+    9 USC Sec. 4                                                01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -322,7 +322,7 @@
 
 
 -CITE-
-    9 USC Sec. 5                                                01/03/2012 (112-90)
+    9 USC Sec. 5                                                01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -359,7 +359,7 @@
 
 
 -CITE-
-    9 USC Sec. 6                                                01/03/2012 (112-90)
+    9 USC Sec. 6                                                01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -386,7 +386,7 @@
 
 
 -CITE-
-    9 USC Sec. 7                                                01/03/2012 (112-90)
+    9 USC Sec. 7                                                01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -436,7 +436,7 @@
 
 
 -CITE-
-    9 USC Sec. 8                                                01/03/2012 (112-90)
+    9 USC Sec. 8                                                01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -469,7 +469,7 @@
 
 
 -CITE-
-    9 USC Sec. 9                                                01/03/2012 (112-90)
+    9 USC Sec. 9                                                01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -513,7 +513,7 @@
 
 
 -CITE-
-    9 USC Sec. 10                                               01/03/2012 (112-90)
+    9 USC Sec. 10                                               01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -593,7 +593,7 @@
 
 
 -CITE-
-    9 USC Sec. 11                                               01/03/2012 (112-90)
+    9 USC Sec. 11                                               01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -631,7 +631,7 @@
 
 
 -CITE-
-    9 USC Sec. 12                                               01/03/2012 (112-90)
+    9 USC Sec. 12                                               01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -670,7 +670,7 @@
 
 
 -CITE-
-    9 USC Sec. 13                                               01/03/2012 (112-90)
+    9 USC Sec. 13                                               01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -713,7 +713,7 @@
 
 
 -CITE-
-    9 USC Sec. 14                                               01/03/2012 (112-90)
+    9 USC Sec. 14                                               01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -744,7 +744,7 @@
 
 
 -CITE-
-    9 USC Sec. 15                                               01/03/2012 (112-90)
+    9 USC Sec. 15                                               01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -772,7 +772,7 @@
 
 
 -CITE-
-    9 USC Sec. 16                                               01/03/2012 (112-90)
+    9 USC Sec. 16                                               01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -826,7 +826,7 @@
 
 -CITE-
     9 USC CHAPTER 2 - CONVENTION ON THE RECOGNITION AND
-           ENFORCEMENT OF FOREIGN ARBITRAL AWARDS          01/03/2012 (112-90)
+           ENFORCEMENT OF FOREIGN ARBITRAL AWARDS          01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -859,7 +859,7 @@
 
 
 -CITE-
-    9 USC Sec. 201                                              01/03/2012 (112-90)
+    9 USC Sec. 201                                              01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -880,18 +880,19 @@
 
 -MISC1-
                               EFFECTIVE DATE                          
-      Section 4 of Pub. L. 91-368 provided that: "This Act [enacting
-    this chapter] shall be effective upon the entry into force of the
-    Convention on Recognition and Enforcement of Foreign Arbitral
-    Awards with respect to the United States." The Convention was
-    entered into force for the United States on Dec. 29, 1970.
+      Pub. L. 91-368, Sec. 4, July 31, 1970, 84 Stat. 693, provided
+    that: "This Act [enacting this chapter] shall be effective upon the
+    entry into force of the Convention on Recognition and Enforcement
+    of Foreign Arbitral Awards with respect to the United States." The
+    Convention was entered into force for the United States on Dec. 29,
+    1970.
 
 -End-
 
 
 
 -CITE-
-    9 USC Sec. 202                                              01/03/2012 (112-90)
+    9 USC Sec. 202                                              01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -923,7 +924,7 @@
 
 
 -CITE-
-    9 USC Sec. 203                                              01/03/2012 (112-90)
+    9 USC Sec. 203                                              01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -949,7 +950,7 @@
 
 
 -CITE-
-    9 USC Sec. 204                                              01/03/2012 (112-90)
+    9 USC Sec. 204                                              01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -976,7 +977,7 @@
 
 
 -CITE-
-    9 USC Sec. 205                                              01/03/2012 (112-90)
+    9 USC Sec. 205                                              01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1009,7 +1010,7 @@
 
 
 -CITE-
-    9 USC Sec. 206                                              01/03/2012 (112-90)
+    9 USC Sec. 206                                              01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1034,7 +1035,7 @@
 
 
 -CITE-
-    9 USC Sec. 207                                              01/03/2012 (112-90)
+    9 USC Sec. 207                                              01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1062,7 +1063,7 @@
 
 
 -CITE-
-    9 USC Sec. 208                                              01/03/2012 (112-90)
+    9 USC Sec. 208                                              01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1085,7 +1086,7 @@
 
 -CITE-
     9 USC CHAPTER 3 - INTER-AMERICAN CONVENTION ON
-           INTERNATIONAL COMMERCIAL ARBITRATION            01/03/2012 (112-90)
+           INTERNATIONAL COMMERCIAL ARBITRATION            01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1116,7 +1117,7 @@
 
 
 -CITE-
-    9 USC Sec. 301                                              01/03/2012 (112-90)
+    9 USC Sec. 301                                              01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1137,19 +1138,19 @@
 
 -MISC1-
                               EFFECTIVE DATE                          
-      Section 3 of Pub. L. 101-369 provided that: "This Act [enacting
-    this chapter] shall take effect upon the entry into force of the
-    Inter-American Convention on International Commercial Arbitration
-    of January 30, 1975, with respect to the United States." The
-    Convention was entered into force for the United States on Oct. 27,
-    1990.
+      Pub. L. 101-369, Sec. 3, Aug. 15, 1990, 104 Stat. 450, provided
+    that: "This Act [enacting this chapter] shall take effect upon the
+    entry into force of the Inter-American Convention on International
+    Commercial Arbitration of January 30, 1975, with respect to the
+    United States." The Convention entered into force for the United
+    States on Oct. 27, 1990.
 
 -End-
 
 
 
 -CITE-
-    9 USC Sec. 302                                              01/03/2012 (112-90)
+    9 USC Sec. 302                                              01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1173,7 +1174,7 @@
 
 
 -CITE-
-    9 USC Sec. 303                                              01/03/2012 (112-90)
+    9 USC Sec. 303                                              01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1204,7 +1205,7 @@
 
 
 -CITE-
-    9 USC Sec. 304                                              01/03/2012 (112-90)
+    9 USC Sec. 304                                              01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1229,7 +1230,7 @@
 
 
 -CITE-
-    9 USC Sec. 305                                              01/03/2012 (112-90)
+    9 USC Sec. 305                                              01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1264,7 +1265,7 @@
 
 
 -CITE-
-    9 USC Sec. 306                                              01/03/2012 (112-90)
+    9 USC Sec. 306                                              01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
@@ -1297,7 +1298,7 @@
 
 
 -CITE-
-    9 USC Sec. 307                                              01/03/2012 (112-90)
+    9 USC Sec. 307                                              01/15/2013
 
 -EXPCITE-
     TITLE 9 - ARBITRATION
