@@ -1,5 +1,5 @@
 -CITE-
-    13 USC TITLE 13 - CENSUS                                    01/03/2012 (112-90)
+    13 USC TITLE 13 - CENSUS                                    1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -100,9 +100,9 @@
                           POSITIVE LAW; CITATION                      
       This title has been made positive law by act Aug. 31, 1954, ch.
     1158, Sec. 1, 68 Stat. 1012, which provided in part "That title 13
-    of the United States Code, entitled 'Census' is revised, codified
-    and enacted into law and may , be cited as 'Title 13, United States
-    Code, section - '."
+    of the United States Code, entitled 'Census', is revised, codified,
+    and enacted into law, and may be cited as 'Title 13, United States
+    Code, section - ' ".
 
                         REFERENCES TO CENSUS OFFICE                    
       Act Aug. 31, 1954, ch. 1158, Sec. 3, 68 Stat. 1025, provided
@@ -151,7 +151,7 @@
 
 
 -CITE-
-    13 USC CHAPTER 1 - ADMINISTRATION                           01/03/2012 (112-90)
+    13 USC CHAPTER 1 - ADMINISTRATION                           1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -235,7 +235,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER I - GENERAL PROVISIONS                    01/03/2012 (112-90)
+    13 USC SUBCHAPTER I - GENERAL PROVISIONS                    1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -250,7 +250,7 @@
 
 
 -CITE-
-    13 USC Sec. 1                                               01/03/2012 (112-90)
+    13 USC Sec. 1                                               1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -327,7 +327,7 @@
 
 
 -CITE-
-    13 USC Sec. 2                                               01/03/2012 (112-90)
+    13 USC Sec. 2                                               1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -365,7 +365,7 @@
 
 
 -CITE-
-    13 USC Sec. 3                                               01/03/2012 (112-90)
+    13 USC Sec. 3                                               1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -474,7 +474,7 @@
 
 
 -CITE-
-    13 USC Sec. 4                                               01/03/2012 (112-90)
+    13 USC Sec. 4                                               1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -546,7 +546,7 @@
 
 
 -CITE-
-    13 USC Sec. 5                                               01/03/2012 (112-90)
+    13 USC Sec. 5                                               1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -640,7 +640,7 @@
 
 
 -CITE-
-    13 USC Sec. 6                                               01/03/2012 (112-90)
+    13 USC Sec. 6                                               1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -736,7 +736,7 @@
 
 
 -CITE-
-    13 USC Sec. 7                                               01/03/2012 (112-90)
+    13 USC Sec. 7                                               1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -786,7 +786,7 @@
 
 
 -CITE-
-    13 USC Sec. 8                                               01/03/2012 (112-90)
+    13 USC Sec. 8                                               1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -907,7 +907,7 @@
 
 
 -CITE-
-    13 USC Sec. 9                                               01/03/2012 (112-90)
+    13 USC Sec. 9                                               1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1052,7 +1052,7 @@
 
 
 -CITE-
-    13 USC Sec. 10                                              01/03/2012 (112-90)
+    13 USC Sec. 10                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1073,7 +1073,7 @@
 
 
 -CITE-
-    13 USC Sec. 11                                              01/03/2012 (112-90)
+    13 USC Sec. 11                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1135,7 +1135,7 @@
 
 
 -CITE-
-    13 USC Sec. 12                                              01/03/2012 (112-90)
+    13 USC Sec. 12                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1160,7 +1160,7 @@
 
 
 -CITE-
-    13 USC Sec. 13                                              01/03/2012 (112-90)
+    13 USC Sec. 13                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1183,7 +1183,7 @@
 
 
 -CITE-
-    13 USC Sec. 14                                              01/03/2012 (112-90)
+    13 USC Sec. 14                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1211,7 +1211,7 @@
 
 
 -CITE-
-    13 USC Sec. 15                                              01/03/2012 (112-90)
+    13 USC Sec. 15                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1262,7 +1262,7 @@
 
 
 -CITE-
-    13 USC Sec. 16                                              01/03/2012 (112-90)
+    13 USC Sec. 16                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1354,7 +1354,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER II - OFFICERS AND EMPLOYEES               01/03/2012 (112-90)
+    13 USC SUBCHAPTER II - OFFICERS AND EMPLOYEES               1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1369,7 +1369,7 @@
 
 
 -CITE-
-    13 USC Sec. 21                                              01/03/2012 (112-90)
+    13 USC Sec. 21                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1380,13 +1380,44 @@
     Sec. 21. Director of the Census; duties
 
 -STATUTE-
-      The Bureau shall be headed by a Director of the Census, appointed
-    by the President, by and with the advice and consent of the Senate.
-    The Director shall perform such duties as may be imposed upon him
-    by law, regulations, or orders of the Secretary.
+      (a) Appointment. - 
+        (1) In general. - The Bureau shall be headed by a Director of
+      the Census, appointed by the President, by and with the advice
+      and consent of the Senate, without regard to political
+      affiliation.
+        (2) Qualifications. - Such appointment shall be made from
+      individuals who have a demonstrated ability in managing large
+      organizations and experience in the collection, analysis, and use
+      of statistical data.
+
+      (b) Term of Office. - 
+        (1) In general. - The term of office of the Director shall be 5
+      years, and shall begin on January 1, 2012, and every fifth year
+      thereafter. An individual may not serve more than 2 full terms as
+      Director.
+        (2) Vacancies. - Any individual appointed to fill a vacancy in
+      such position, occurring before the expiration of the term for
+      which such individual's predecessor was appointed, shall be
+      appointed for the remainder of that term. The Director may serve
+      after the end of the Director's term until reappointed or until a
+      successor has been appointed, but in no event longer than 1 year
+      after the end of such term.
+        (3) Removal. - An individual serving as Director may be removed
+      from office by the President. The President shall communicate in
+      writing the reasons for any such removal to both Houses of
+      Congress not later than 60 days before the removal.
+        (4) Personnel actions. - Except as provided under paragraph
+      (3), nothing in this subsection shall prohibit a personnel action
+      otherwise authorized by law with respect to the Director of the
+      Census, other than removal.
+
+      (c) Duties. - The Director shall perform such duties as may be
+    imposed upon the Director by law, regulations, or orders of the
+    Secretary.
 
 -SOURCE-
-    (Aug. 31, 1954, ch. 1158, 68 Stat. 1014.)
+    (Aug. 31, 1954, ch. 1158, 68 Stat. 1014; Pub. L. 112-166, Sec.
+    3(a), Aug. 10, 2012, 126 Stat. 1291.)
 
 
 -MISC1-
@@ -1410,12 +1441,55 @@
     above.
       Changes were made in phraseology.
 
+                                AMENDMENTS                            
+      2012 - Pub. L. 112-166 amended section generally. Prior to
+    amendment, text read as follows: "The Bureau shall be headed by a
+    Director of the Census, appointed by the President, by and with the
+    advice and consent of the Senate. The Director shall perform such
+    duties as may be imposed upon him by law, regulations, or orders of
+    the Secretary."
+
+                     EFFECTIVE DATE OF 2012 AMENDMENT                 
+      Pub. L. 112-166, Sec. 6(b), Aug. 10, 2012, 126 Stat. 1295,
+    provided that: "The provisions of sections 3 and 4 [amending this
+    section and enacting provisions set out as notes under this
+    section] (including any amendments made by those sections) shall
+    take effect on the date of enactment of this Act [Aug. 10, 2012]."
+
+                             TRANSITION RULES                         
+      Pub. L. 112-166, Sec. 3(b), Aug. 10, 2012, 126 Stat. 1291,
+    provided that:
+      "(1) Appointment of initial director. - The initial Director of
+    the Bureau of the Census shall be appointed in accordance with the
+    provisions of section 21(a) of title 13, United States Code, as
+    amended by subsection (a).
+      "(2) Interim role of current director of the census after date of
+    enactment. - If, as of January 1, 2012, the initial Director of the
+    Bureau of the Census has not taken office, the officer serving on
+    December 31, 2011, as Director of the Census (or Acting Director of
+    the Census, if applicable) in the Department of Commerce - 
+        "(A) shall serve as the Director of the Bureau of the Census;
+      and
+        "(B) shall assume the powers and duties of such Director for
+      one term beginning January 1, 2012, as described in section 21(b)
+      of such title, as so amended."
+
+                    TECHNICAL AND CONFORMING AMENDMENTS                
+      Pub. L. 112-166, Sec. 3(c), Aug. 10, 2012, 126 Stat. 1291,
+    provided that: "Not later than January 1, 2012, [sic] the Secretary
+    of Commerce, in consultation with the Director of the Census, shall
+    submit to each House of the Congress draft legislation containing
+    any technical and conforming amendments to title 13, United States
+    Code, and any other provisions which may be necessary to carry out
+    the purposes of this section [amending this section and enacting
+    provisions set out as notes under this section]."
+
 -End-
 
 
 
 -CITE-
-    13 USC Sec. 22                                              01/03/2012 (112-90)
+    13 USC Sec. 22                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1477,7 +1551,7 @@
 
 
 -CITE-
-    13 USC Sec. 23                                              01/03/2012 (112-90)
+    13 USC Sec. 23                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1632,7 +1706,8 @@
                      EFFECTIVE DATE OF 1964 AMENDMENT                 
       Amendment by Pub. L. 88-448 effective on first day of first month
     which begins later than ninetieth day following Aug. 19, 1964, see
-    section 403 of Pub. L. 88-448.
+    section 403 of Pub. L. 88-448, title IV, Aug. 19, 1964, 78 Stat.
+    496.
 
             TEMPORARY POSITIONS RELATING TO DECENNIAL CENSUSES        
       Pub. L. 108-447, div. B, title II, Sec. 205, Dec. 8, 2004, 118
@@ -1695,11 +1770,11 @@
     in carrying out the 1990 decennial census of population would be
     exempt from certain provisions of Title 5, Government Organization
     and Employees, relating to offsets from pay and other benefits.
-      [Section 2 of Pub. L. 101-293 provided that amendment of Pub. L.
-    101-86 by Pub. L. 101-293 may not be considered to make an
-    exemption under Pub. L. 101-86 applicable to any service performed
-    before May 17, 1990, which was in excess of that allowable under
-    Pub. L. 101-86 (as then in effect).]
+      [Pub. L. 101-293, Sec. 2, May 17, 1990, 104 Stat. 192, provided
+    that amendment of Pub. L. 101-86 by Pub. L. 101-293 may not be
+    considered to make an exemption under Pub. L. 101-86 applicable to
+    any service performed before May 17, 1990, which was in excess of
+    that allowable under Pub. L. 101-86 (as then in effect).]
 
     POLICY AND PRACTICES OF BUREAU OF CENSUS REGARDING USE OF TEMPORARY
                             STAFF; PUBLICATION
@@ -1729,7 +1804,7 @@
 
 
 -CITE-
-    13 USC Sec. 24                                              01/03/2012 (112-90)
+    13 USC Sec. 24                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1899,7 +1974,7 @@
 
 
 -CITE-
-    13 USC Sec. 25                                              01/03/2012 (112-90)
+    13 USC Sec. 25                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1953,7 +2028,7 @@
 
 
 -CITE-
-    13 USC Sec. 26                                              01/03/2012 (112-90)
+    13 USC Sec. 26                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -1995,7 +2070,7 @@
 
 -CITE-
     13 USC CHAPTER 3 - COLLECTION AND PUBLICATION OF
-           STATISTICS                                      01/03/2012 (112-90)
+           STATISTICS                                      1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2046,7 +2121,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER I - COTTON                                01/03/2012 (112-90)
+    13 USC SUBCHAPTER I - COTTON                                1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2061,7 +2136,7 @@
 
 
 -CITE-
-    13 USC Sec. 41                                              01/03/2012 (112-90)
+    13 USC Sec. 41                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2103,7 +2178,7 @@
 
 
 -CITE-
-    13 USC Sec. 42                                              01/03/2012 (112-90)
+    13 USC Sec. 42                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2173,7 +2248,7 @@
 
 
 -CITE-
-    13 USC Sec. 43                                              01/03/2012 (112-90)
+    13 USC Sec. 43                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2214,7 +2289,7 @@
 
 
 -CITE-
-    13 USC Sec. 44                                              01/03/2012 (112-90)
+    13 USC Sec. 44                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2261,7 +2336,7 @@
 
 
 -CITE-
-    13 USC Sec. 45                                              01/03/2012 (112-90)
+    13 USC Sec. 45                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2306,7 +2381,7 @@
 
 -CITE-
     13 USC SUBCHAPTER II - OILSEEDS, NUTS, AND KERNELS; FATS,
-           OILS, AND GREASES                               01/03/2012 (112-90)
+           OILS, AND GREASES                               1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2322,7 +2397,7 @@
 
 
 -CITE-
-    13 USC Sec. 61                                              01/03/2012 (112-90)
+    13 USC Sec. 61                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2390,7 +2465,7 @@
 
 
 -CITE-
-    13 USC Sec. 62                                              01/03/2012 (112-90)
+    13 USC Sec. 62                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2427,7 +2502,7 @@
 
 
 -CITE-
-    13 USC Sec. 63                                              01/03/2012 (112-90)
+    13 USC Sec. 63                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2474,7 +2549,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER III - APPAREL AND TEXTILES                01/03/2012 (112-90)
+    13 USC SUBCHAPTER III - APPAREL AND TEXTILES                1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2489,7 +2564,7 @@
 
 
 -CITE-
-    13 USC Sec. 81                                              01/03/2012 (112-90)
+    13 USC Sec. 81                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2510,7 +2585,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER IV - QUARTERLY FINANCIAL STATISTICS       01/03/2012 (112-90)
+    13 USC SUBCHAPTER IV - QUARTERLY FINANCIAL STATISTICS       1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2531,7 +2606,7 @@
 
 
 -CITE-
-    13 USC Sec. 91                                              01/03/2012 (112-90)
+    13 USC Sec. 91                                              1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2662,9 +2737,10 @@
       and
         "(3) technical or administration problems encountered in
       carrying out such program."
-      [Section 1(b) of Pub. L. 103-105 provided that: "The amendment
-    made under subsection (a) [amending section 4 of Pub. L. 97-454,
-    set out above] shall take effect on September 30, 1993.]
+      [Pub. L. 103-105, Sec. 1(b), Oct. 12, 1993, 107 Stat. 1030,
+    provided that: "The amendment made under subsection (a) [amending
+    section 4 of Pub. L. 97-454, set out above] shall take effect on
+    September 30, 1993.]
 
 
 -TRANS-
@@ -2700,7 +2776,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER V - MISCELLANEOUS                         01/03/2012 (112-90)
+    13 USC SUBCHAPTER V - MISCELLANEOUS                         1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2723,7 +2799,7 @@
 
 
 -CITE-
-    13 USC Sec. 101                                             01/03/2012 (112-90)
+    13 USC Sec. 101                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2819,7 +2895,7 @@
 
 
 -CITE-
-    13 USC Sec. 102                                             01/03/2012 (112-90)
+    13 USC Sec. 102                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2857,7 +2933,7 @@
 
 
 -CITE-
-    13 USC Sec. 103                                             01/03/2012 (112-90)
+    13 USC Sec. 103                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -2928,7 +3004,7 @@
 
 
 -CITE-
-    13 USC CHAPTER 5 - CENSUSES                                 01/03/2012 (112-90)
+    13 USC CHAPTER 5 - CENSUSES                                 1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3007,7 +3083,7 @@
 
 -CITE-
     13 USC SUBCHAPTER I - MANUFACTURES, MINERAL INDUSTRIES,
-           AND OTHER BUSINESSES                            01/03/2012 (112-90)
+           AND OTHER BUSINESSES                            1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3024,7 +3100,7 @@
 
 
 -CITE-
-    13 USC Sec. 131                                             01/03/2012 (112-90)
+    13 USC Sec. 131                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3122,7 +3198,7 @@
 
 
 -CITE-
-    13 USC Sec. 132                                             01/03/2012 (112-90)
+    13 USC Sec. 132                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3166,7 +3242,7 @@
 
 -CITE-
     13 USC SUBCHAPTER II - POPULATION, HOUSING, AND
-           UNEMPLOYMENT                                    01/03/2012 (112-90)
+           UNEMPLOYMENT                                    1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3190,7 +3266,7 @@
 
 
 -CITE-
-    13 USC Sec. 141                                             01/03/2012 (112-90)
+    13 USC Sec. 141                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3813,7 +3889,7 @@
 
 
 -CITE-
-    13 USC Sec. 142                                             01/03/2012 (112-90)
+    13 USC Sec. 142                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3849,7 +3925,7 @@
 
 
 -CITE-
-    13 USC Secs. 143 to 146                                     01/03/2012 (112-90)
+    13 USC Secs. 143 to 146                                     1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3879,7 +3955,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER III - GOVERNMENTS                         01/03/2012 (112-90)
+    13 USC SUBCHAPTER III - GOVERNMENTS                         1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3894,7 +3970,7 @@
 
 
 -CITE-
-    13 USC Sec. 161                                             01/03/2012 (112-90)
+    13 USC Sec. 161                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3939,7 +4015,7 @@
 
 
 -CITE-
-    13 USC Sec. 162                                             01/03/2012 (112-90)
+    13 USC Sec. 162                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3961,7 +4037,7 @@
 
 
 -CITE-
-    13 USC Sec. 163                                             01/03/2012 (112-90)
+    13 USC Sec. 163                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -3995,7 +4071,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER IV - INTERIM CURRENT DATA                 01/03/2012 (112-90)
+    13 USC SUBCHAPTER IV - INTERIM CURRENT DATA                 1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4010,7 +4086,7 @@
 
 
 -CITE-
-    13 USC Sec. 181                                             01/03/2012 (112-90)
+    13 USC Sec. 181                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4066,7 +4142,7 @@
 
 
 -CITE-
-    13 USC Sec. 182                                             01/03/2012 (112-90)
+    13 USC Sec. 182                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4095,7 +4171,7 @@
 
 
 -CITE-
-    13 USC Sec. 183                                             01/03/2012 (112-90)
+    13 USC Sec. 183                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4135,7 +4211,7 @@
 
 
 -CITE-
-    13 USC Sec. 184                                             01/03/2012 (112-90)
+    13 USC Sec. 184                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4167,7 +4243,7 @@
 
 -CITE-
     13 USC SUBCHAPTER V - GEOGRAPHIC SCOPE, PRELIMINARY AND
-           SUPPLEMENTAL STATISTICS, AND USE OF SAMPLING    01/03/2012 (112-90)
+           SUPPLEMENTAL STATISTICS, AND USE OF SAMPLING    1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4184,7 +4260,7 @@
 
 
 -CITE-
-    13 USC Sec. 191                                             01/03/2012 (112-90)
+    13 USC Sec. 191                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4262,7 +4338,7 @@
 
 
 -CITE-
-    13 USC Sec. 193                                             01/03/2012 (112-90)
+    13 USC Sec. 193                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4288,7 +4364,7 @@
 
 
 -CITE-
-    13 USC Sec. 195                                             01/03/2012 (112-90)
+    13 USC Sec. 195                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4329,7 +4405,7 @@
 
 
 -CITE-
-    13 USC Sec. 196                                             01/03/2012 (112-90)
+    13 USC Sec. 196                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4389,7 +4465,7 @@
 
 
 -CITE-
-    13 USC CHAPTER 7 - OFFENSES AND PENALTIES                   01/03/2012 (112-90)
+    13 USC CHAPTER 7 - OFFENSES AND PENALTIES                   1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4426,7 +4502,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER I - OFFICERS AND EMPLOYEES                01/03/2012 (112-90)
+    13 USC SUBCHAPTER I - OFFICERS AND EMPLOYEES                1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4441,7 +4517,7 @@
 
 
 -CITE-
-    13 USC Sec. 211                                             01/03/2012 (112-90)
+    13 USC Sec. 211                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4515,7 +4591,7 @@
 
 
 -CITE-
-    13 USC Sec. 212                                             01/03/2012 (112-90)
+    13 USC Sec. 212                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4578,7 +4654,7 @@
 
 
 -CITE-
-    13 USC Sec. 213                                             01/03/2012 (112-90)
+    13 USC Sec. 213                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4654,7 +4730,7 @@
 
 
 -CITE-
-    13 USC Sec. 214                                             01/03/2012 (112-90)
+    13 USC Sec. 214                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4743,7 +4819,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER II - OTHER PERSONS                        01/03/2012 (112-90)
+    13 USC SUBCHAPTER II - OTHER PERSONS                        1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4758,7 +4834,7 @@
 
 
 -CITE-
-    13 USC Sec. 221                                             01/03/2012 (112-90)
+    13 USC Sec. 221                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4863,7 +4939,7 @@
 
 
 -CITE-
-    13 USC Sec. 222                                             01/03/2012 (112-90)
+    13 USC Sec. 222                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -4954,7 +5030,7 @@
 
 
 -CITE-
-    13 USC Sec. 223                                             01/03/2012 (112-90)
+    13 USC Sec. 223                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5066,7 +5142,7 @@
 
 
 -CITE-
-    13 USC Sec. 224                                             01/03/2012 (112-90)
+    13 USC Sec. 224                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5222,7 +5298,7 @@
 
 
 -CITE-
-    13 USC Sec. 225                                             01/03/2012 (112-90)
+    13 USC Sec. 225                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5342,7 +5418,7 @@
 
 
 -CITE-
-    13 USC SUBCHAPTER III - PROCEDURE                           01/03/2012 (112-90)
+    13 USC SUBCHAPTER III - PROCEDURE                           1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5357,7 +5433,7 @@
 
 
 -CITE-
-    13 USC Sec. 241                                             01/03/2012 (112-90)
+    13 USC Sec. 241                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5434,7 +5510,7 @@
 
 -CITE-
     13 USC CHAPTER 9 - COLLECTION AND PUBLICATION OF FOREIGN
-           COMMERCE AND TRADE STATISTICS                   01/03/2012 (112-90)
+           COMMERCE AND TRADE STATISTICS                   1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5470,7 +5546,7 @@
 
 
 -CITE-
-    13 USC Sec. 301                                             01/03/2012 (112-90)
+    13 USC Sec. 301                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5825,7 +5901,7 @@
 
 
 -CITE-
-    13 USC Sec. 302                                             01/03/2012 (112-90)
+    13 USC Sec. 302                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5859,7 +5935,7 @@
 
 
 -CITE-
-    13 USC Sec. 303                                             01/03/2012 (112-90)
+    13 USC Sec. 303                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5892,7 +5968,7 @@
 
 
 -CITE-
-    13 USC Sec. 304                                             01/03/2012 (112-90)
+    13 USC Sec. 304                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -5961,7 +6037,7 @@
 
 
 -CITE-
-    13 USC Sec. 305                                             01/03/2012 (112-90)
+    13 USC Sec. 305                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6099,7 +6175,7 @@
 
 
 -CITE-
-    13 USC Sec. 306                                             01/03/2012 (112-90)
+    13 USC Sec. 306                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6126,7 +6202,7 @@
 
 
 -CITE-
-    13 USC Sec. 307                                             01/03/2012 (112-90)
+    13 USC Sec. 307                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6148,7 +6224,7 @@
 
 
 -CITE-
-    13 USC CHAPTER 10 - EXCHANGE OF CENSUS INFORMATION          01/03/2012 (112-90)
+    13 USC CHAPTER 10 - EXCHANGE OF CENSUS INFORMATION          1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6173,7 +6249,7 @@
 
 
 -CITE-
-    13 USC Sec. 401                                             01/03/2012 (112-90)
+    13 USC Sec. 401                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
@@ -6224,7 +6300,7 @@
 
 
 -CITE-
-    13 USC Sec. 402                                             01/03/2012 (112-90)
+    13 USC Sec. 402                                             1/15/2013
 
 -EXPCITE-
     TITLE 13 - CENSUS
