@@ -40,6 +40,8 @@ ever actually tried to track the progress of a bill through the
 existing web interfaces, it's horribly difficult, and there's a lot of
 information about the bill's movement through the process that simply
 isn't available.  I think using revision management tools just might
-make the whole process both easier and more transparent.
+make the whole process both easier and more transparent. By tracking the 
+origin of amendments, riders, and just bill authorship generally, 
+it becomes easier to hold legislators accountable. 
 
 And that's what I want to play with.
